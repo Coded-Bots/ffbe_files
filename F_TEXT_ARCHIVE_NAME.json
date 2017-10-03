@@ -1,0 +1,116 @@
+MST_ARCHIVE_NAME_TOTAL_LOGIN_DAYS^Total Login Days^累計登入天數^누적 접속 일수^Total jours de connexion^Tage eingeloggt^Días jugados
+MST_ARCHIVE_NAME_MAX_LOGIN_SERIAL_DAYS^Total Consecutive Login Days^最高連續登入天數^최고 연속 접속 일수^Total jours de connexion consécutifs^Tage in Folge eingeloggt^Mayor nº de días consecutivos jugados
+MST_ARCHIVE_NAME_TOTAL_GIL_GET^Total Gil Obtained^累計獲得ＧＩＬ^누적 획득 길^Total gils obtenus^Gil erhalten gesamt^Guiles obtenidos
+MST_ARCHIVE_NAME_TOTAL_GIL_USE^Total Gil Used^ＧＩＬ使用總額^길 사용 총액^Total gils dépensés^Gil ausgegeben gesamt^Guiles usados
+MST_ARCHIVE_NAME_TOTAL_FRIEND_POINT^Total Friend Points^累計羈絆PT^누적 인연 pt^Total points d'amitié^Freundespunkte gesamt^Puntos de amistad
+MST_ARCHIVE_NAME_TOTAL_ITEM_DICT^Total Items Archived^綜合道具圖鑒數^총 아이템 도감 수^Total objets archivés^Gegenstände archiviert^Objetos encontrados
+MST_ARCHIVE_NAME_TOTAL_EQUIP_ITEM_DICT^Total Equipment Archived^綜合裝備圖鑒數^총 장비 도감 수^Total équipements archivés^Ausrüstung archiviert^Equipos encontrados
+MST_ARCHIVE_NAME_TOTAL_RECIPE_DICT^Total Recipes Archived^綜合配方圖鑒數^총 제작법 도감 수^Total recettes archivées^Rezepte archiviert^Recetas encontradas
+MST_ARCHIVE_NAME_TOTAL_MONSTER_DICT^Total Monsters Archived^綜合魔物圖鑒數^총 몬스터 도감 수^Total monstres archivés^Monster archiviert^Monstruos encontrados
+MST_ARCHIVE_NAME_TOTAL_MATERIAL_DICT^Total Materials Archived^綜合素材圖鑒數^총 재료 도감 수^Total matériaux archivés^Materialien archiviert^Materiales encontrados
+MST_ARCHIVE_NAME_TOTAL_ABILITY_DICT^Total Abilities Archived^綜合能力圖鑒數^총 어빌리티 도감 수^Total compétences archivées^Fertigkeiten archiviert^Habilidades encontradas
+MST_ARCHIVE_NAME_TOTAL_BEAST_DICT^Total Espers Archived^綜合召喚獸圖鑒數^총 소환수 도감 수^Total chimères archivées^Esper archiviert^Espers encontrados
+MST_ARCHIVE_NAME_TOTAL_UNIT_DICT^Total Units Archived^綜合兵員圖鑒數^총 유닛 도감 수^Total unités archivées^Einheiten archiviert^Unidades encontradas
+MST_ARCHIVE_NAME_TOTAL_UNIT_GET^Total Units Obtained^綜合兵員獲得數^총 유닛 획득 수^Total unités obtenues^Einheiten erhalten^Unidades obtenidas
+MST_ARCHIVE_NAME_TOTAL_UNIT_MIX^Total Units Fused^兵員強化次數^유닛 합성 횟수^Total unités fusionnées^Einheiten fusioniert^Unidades fusionadas
+MST_ARCHIVE_NAME_TOTAL_UNIT_CLASS_UP^Total Units Awoken^兵員覺醒次數^유닛 진화 횟수^Total unités éveillées^Einheiten erweckt^Unidades despertadas
+MST_ARCHIVE_NAME_TOTAL_UNIT_FULL_DOPING^Total Units Maxed Out^基礎狀態MAX兵員數^기초 능력치 MAX 유닛 수^Total unités entraînées au max^Einheiten austrainiert^Unidades al máximo
+MST_ARCHIVE_NAME_TOTAL_QUEST_REPORT^Total Missions Completed^任務報告達成數^퀘스트 리포트 달성 수^Total missions accomplies^Missionen abgeschlossen^Misiones completadas
+MST_ARCHIVE_NAME_TOTAL_CRAFT_EQUIP^Total Weapons Forged^鍛冶製煉次數^대장간 제련 횟수^Total armes forgées^Waffen geschmiedet^Armas forjadas
+MST_ARCHIVE_NAME_TOTAL_CRAFT_ABILITY^Total Abilities Crafted^能力生成次數^어빌리티 생성 횟수^Total aptitudes créées^Fertigkeiten erschaffen^Habilidades creadas
+MST_ARCHIVE_NAME_TOTAL_CRAFT_ITEM^Total Items Synthesized^調配次數^조합 횟수^Total objets synthétisés^Gegenstände synthetisiert^Objetos sintetizados
+MST_ARCHIVE_NAME_TOTAL_GIFT_PRESENT^Total Gifts Sent^綜合禮物贈送數^총 선물 증여 횟수^Total cadeaux envoyés^Geschenke versandt^Regalos enviados
+MST_ARCHIVE_NAME_TOTAL_GIFT_RECIEVE^Total Gifts Received^綜合禮物領取數^총 선물 수령 횟수^Total cadeaux reçus^Geschenke erhalten^Regalos recibidos
+MST_ARCHIVE_NAME_TOTAL_TREASURE_OPEN^Total Chests Opened^累計打開寶箱數^누적 보물상자 개봉 횟수^Total coffres ouverts^Truhen geöffnet^Cofres abiertos
+MST_ARCHIVE_NAME_TOTAL_MISSION_CHALLENGE^Total Quests Undertaken^迷宮挑戰次數^던전 도전 횟수^Total quêtes acceptées^Auftäge angenommen^Misiones aceptadas
+MST_ARCHIVE_NAME_TOTAL_MISSION_CLEAR^Total Quests Completed^迷宮挑戰成功次數^던전 성공 횟수^Total quêtes accomplies^Auftäge abgeschlossen^Misiones completadas
+MST_ARCHIVE_NAME_TOTAL_MISSION_BATTLE_WIN^Total Battles Won^戰鬥勝利次數^전투 승리 횟수^Total combats remportés^Kämpfe gewonnen^Batallas ganadas
+MST_ARCHIVE_NAME_TOTAL_STEPS^Total Steps Taken^迷宮內移動步數^던전 내 누적 걸음 수^Total de pas^Schritte gegangen^Pasos dados
+MST_ARCHIVE_NAME_TOTAL_DAMAGE^Total Damage Dealt^累計傷害值^적에게 준 누적 피해량^Total dégâts infligés^Ausgeteilter Schaden^Daño infligido
+MST_ARCHIVE_NAME_TOTAL_DAMAGE_TAKE^Total Damage Taken^累計總受傷值^적으로부터 받은 누적 피해량^Total dégâts reçus^Erlittener Schaden^Daño recibido
+MST_ARCHIVE_NAME_MAX_DAMAGE_TURN^Most Damage Dealt in One Turn^1T最大傷害值^1턴당 적에게 준 최대 피해량^Max. dégâts infligés en un tour^Höchstschaden in einer Runde^Máximo de daño infligido en un turno
+MST_ARCHIVE_NAME_MAX_CRITICAL_TURN^Most Critical Hits in One Turn^1T最大暴擊發生數^1턴당 최대 극대화 발생 횟수^Max. coups critiques en un tour^Max. kritische Treffer in e. Runde^Máximo de golpes críticos en un turno
+MST_ARCHIVE_NAME_TOTAL_CRITICAL^Total Critical Hits^累計暴擊發生數^누적 극대화 발생 횟수^Total coups critiques^Kritische Treffer^Golpes críticos
+MST_ARCHIVE_NAME_TOTAL_ITEM_USE^Total Items Used^累計使用道具次數^누적 아이템 사용 횟수^Total objets utilisés^Gegenstände eingesetzt^Objetos usados
+MST_ARCHIVE_NAME_TOTAL_BEAST_USE^Total Espers Evoked^召喚獸發動次數^소환수 발동 횟수^Total chimères invoquées^Esper gerufen^Espers invocados
+MST_ARCHIVE_NAME_TOTAL_MAGIC_USE^Total Magic Spells Used^魔法發動次數^마법 발동 횟수^Total sorts lancés^Zauber benutzt^Hechizos usados
+MST_ARCHIVE_NAME_TOTAL_ABILITY_USE^Total Abilities Used^能力發動次數^어빌리티 발동 횟수^Total aptitudes utilisées^Fertigkeiten benutzt^Habilidades usadas
+MST_ARCHIVE_NAME_TOTAL_LB_USE^Total Limit Bursts Used^累計LB發動次數^누적 LB 발동 횟수^Total limites déclenchées^Limitrausch benutzt^Límites usados
+MST_ARCHIVE_NAME_MAX_LB_CRISTAL^Most LB Crystals Produced^最大LB水晶出現數^최대 LB 크리스탈 출현 수^Max. cristaux de limite produits^Max. LR-Kristalle erzeugt^Máximo de cristales de límite producidos
+MST_ARCHIVE_NAME_TOTAL_LB_CRISTAL^Total LB Crystals Obtained^累計LB水晶出現數^누적 LB 크리스탈 출현 수^Total cristaux de limite obtenus^LR-Kristalle erhalten^Cristales de límite producidos
+MST_ARCHIVE_NAME_TOTAL_STEAL^Total Times Stolen^盜取次數^적에게 훔치기 성공 횟수^Total vols^Anzahl Diebstähle^Robos
+MST_ARCHIVE_NAME_TOTAL_ABNORMAL_GIVE^Total Status Ailments Inflicted^賦予異常狀態次數^상태이상 부여 횟수^Total malus infligés^Zustände verursacht^Estados alterados infligidos
+MST_ARCHIVE_NAME_TOTAL_ABNORMAL_TAKE^Total Status Ailments Received^被賦予異常狀態次數^상태이상에 빠진 횟수^Total malus reçus^Zustände erlitten^Estados alterados sufridos
+MST_ARCHIVE_NAME_TOTAL_ESCAPE^Total Escapes^逃走次數^도주 횟수^Total fuites^Anzahl Fluchten^Huidas
+MST_ARCHIVE_NAME_TOTAL_LOSE^Total Loses^敗北次數^패배 횟수^Total combats perdus^Niederlagen^Derrotas
+MST_ARCHIVE_NAME_CLSM_BATTLE_CNT^Total Colosseum Battles^競技場參戰次數^투기장 참전 횟수^Total combats au Colisée^Kämpfe im Kolosseum^Batallas de Coliseo
+MST_ARCHIVE_NAME_CLSM_WIN_CNT^Total Wins^勝利次數^승리 수^Total victoires^Siege^Victorias
+MST_ARCHIVE_NAME_CLSM_LOSE_CNT^Total Loses^敗北次數^패배 수^Total défaites^Niederlagen^Derrotas
+MST_ARCHIVE_NAME_CLSM_TOTAL_GET_POINT^Total Colosseum Points Obtained^累計獲得pt^누적 획득 pt^Total points Colisée obtenus^Kolosseumpunkte gesammelt^Puntos de Coliseo obtenidos
+MST_ARCHIVE_NAME_CLSM_MAX_GET_POINT^Most Colosseum Points from One Battle^1戰中最大獲得pt^1회 전투당 최대 획득 pt^Max. points Colisée obtenus en un combat^Max. Kolosseumpunkte in einem Kampf^Máximo de puntos de Coliseo en una batalla
+MST_ARCHIVE_NAME_CLSM_TOTAL_BOSS_WIN^Total Bosses Defeated^累計頭目討伐數^누적 보스 처치 횟수^Total boss vaincus^Bosse besiegt^Jefes derrotados
+MST_ARCHIVE_NAME_CLSM_TOTAL_DAMAGE^Total Damage Dealt^累計傷害值^적에게 준 누적 피해량^Total dégâts infligés^Verursachter Schaden^Daño infligido
+MST_ARCHIVE_NAME_CLSM_TOTAL_DAMAGE_TAKE^Total Damage Taken^累計受傷值^적으로부터 받은 누적 피해량^Total dégâts reçus^Erlittener Schaden^Daño recibido
+MST_ARCHIVE_NAME_CLSM_MAX_DAMAGE_TURN^Most Damage Dealt in One Turn^1T最大傷害值^1턴당 적에게 준 최대 피해량^Max. dégâts infligés en un tour^Höchstschaden in einer Runde^Máximo de daño infligido en un turno
+MST_ARCHIVE_NAME_CLSM_CRITICAL_TURN^Most Critical Hits in One Turn^1T最大暴擊發生數^1턴당 최대 극대화 발생 횟수^Max. coups critiques en un tour^Max. kritische Treffer in e. Runde^Máximo de golpes críticos en un turno
+MST_ARCHIVE_NAME_CLSM_TOTAL_CRITICAL^Total Critical Hits^累計暴擊發生數^누적 극대화 발생 횟수^Total coups critiques^Kritische Treffer^Golpes críticos
+MST_ARCHIVE_NAME_CLSM_TOTAL_BEAST_USE^Total Espers Evoked^召喚獸發動次數^소환수 발동 횟수^Total chimères invoquées^Esper gerufen^Espers invocados
+MST_ARCHIVE_NAME_CLSM_TOTAL_MAGIC_USE^Total Magic Spells Used^魔法發動次數^마법 발동 횟수^Total sorts lancés^Zauber benutzt^Hechizos usados
+MST_ARCHIVE_NAME_CLSM_TOTAL_ABILITY_USE^Total Abilities Used^能力發動次數^어빌리티 발동 횟수^Total aptitudes utilisées^Fertigkeiten benutzt^Habilidades usadas
+MST_ARCHIVE_NAME_CLSM_TOTAL_LB_USE^Total Limit Bursts Used^累計LB發動次數^누적 LB 발동 횟수^Total limites déclenchées^Limitrausch benutzt^Límites usados
+MST_ARCHIVE_NAME_CLSM_MAX_LB_CRISTAL^Most LB Crystals Produced^最大LB水晶出現數^최대 LB 크리스탈 출현 수^Max. cristaux de limite produits^Max. LR-Kristalle erzeugt^Máximo de cristales de límite producidos
+MST_ARCHIVE_NAME_CLSM_TOTAL_LB_CRISTAL^Total LB Crystals Obtained^累計LB水晶出現數^누적 LB 크리스탈 출현 수^Total cristaux de limite obtenus^LR-Kristalle erhalten^Cristales de límite producidos
+MST_ARCHIVE_NAME_CLSM_TOTAL_STEAL^Total Times Stolen from Enemies^盜取次數^적에게 훔치기 성공 횟수^Total vols^Anzahl Diebstähle^Robos
+MST_ARCHIVE_NAME_CLSM_TOTAL_ABNORMAL_GIVE^Total Status Ailments Inflicted^賦予異常狀態次數^상태이상 부여 횟수^Total malus infligés^Zustände ausgeteilt^Estados alterados infligidos
+MST_ARCHIVE_NAME_CLSM_TOTAL_ABNORMAL_TAKE^Total Status Ailments Received^被賦予異常狀態次數^상태이상에 빠진 횟수^Total malus reçus^Zustände erlitten^Estados alterados sufridos
+MST_ARCHIVE_NAME_ARENA_BATTLE_CNT^Total Battle Arena Battles^鬥技場戰鬥參戰次數^결투장 전투 참전 횟수^Total de combats d'arène^Arenakämpfe^Batallas de Arena
+MST_ARCHIVE_NAME_ARENA_WIN_CNT^Total Wins^勝利次數^승리 수^Total de victoires^Siege^Victorias
+MST_ARCHIVE_NAME_ARENA_LOSE_CNT^Total Loses^敗北次數^패배 수^Total de défaites ^Niederlagen^Derrotas
+MST_ARCHIVE_NAME_ARENA_MAX_CONSECUTIVE_WIN^Longest Streak^最大連勝數^최다 연승 수^Nombre de victoire enchaînées^Längste Serie^Mayor racha
+MST_ARCHIVE_NAME_ARENA_TOTAL_GET_ARENA_POINT^Total Arena Medals Obtained^累計獲得鬥技場獎牌^누적 결투장 메달 획득 수^Total de jetons d'arène obtenus ^Arenamedaillen^Medallas de Arena obtenidas
+MST_ARCHIVE_NAME_ARENA_TOTAL_GET_RANKING_POINT^Total Ranking Points Obtained^累計獲得排名pt^누적 랭킹 PT 획득량^Total de points de classement obtenus ^Arenapunkte^Pts. de clasificación obtenidos
+MST_ARCHIVE_NAME_ARENA_TOTAL_DAMAGE^Total Damage Dealt^累計傷害值^적에게 준 누적 피해량^Total dégâts infligés ^Verursachter Schaden^Daño infligido
+MST_ARCHIVE_NAME_ARENA_TOTAL_DAMAGE_TAKE^Total Damage Taken^累計受傷值^적으로부터 받은 누적 피해량^Total dégâts reçus^Erlittener Schaden^Daño recibido
+MST_ARCHIVE_NAME_ARENA_MAX_DAMAGE_TURN^Most Damage Dealt in One Turn^1T最大傷害值^1턴당 적에게 준 최대 피해량^Dégâts max. infligés en un tour ^Höchstschaden in einer Runde^Daño máximo infligido en 1 turno
+MST_ARCHIVE_NAME_ARENA_CRITICAL_TURN^Most Critical Hits in One Turn^1T最大暴擊發生數^1턴당 최다 크리티컬 발생 횟수^Coûts critiques max. infligés en un tour^Max. kritische Treffer in e. Runde^Críticos máximos infligidos en 1 turno
+MST_ARCHIVE_NAME_ARENA_TOTAL_CRITICAL^Total Critical Hits^累計暴擊發生數^누적 크리티컬 발생 횟수^Total coûts critiques ^Kritische Treffer^Golpes críticos
+MST_ARCHIVE_NAME_ARENA_TOTAL_BEAST_USE^Total Espers Evoked^召喚魔法發動次數^소환마법 발동 횟수^Total chimères appelées^Esper beschworen^Evocaciones
+MST_ARCHIVE_NAME_ARENA_TOTAL_MAGIC_USE^Total Magic Spells Used^魔法發動次數^마법 발동 횟수^Total sorts utilisés ^Zauber benutzt^Hechizos usados
+MST_ARCHIVE_NAME_ARENA_TOTAL_ABILITY_USE^Total Abilities Used^能力發動次數^어빌리티 발동 횟수^Total aptitudes utilisées^Fertigkeiten benutzt^Habilidades usadas
+MST_ARCHIVE_NAME_ARENA_TOTAL_LB_USE^Total Limit Bursts Used^累計LB發動次數^누적 LB 발동 횟수^Total limites déclenchées^Limitrausch benutzt^Límites usados
+MST_ARCHIVE_NAME_ARENA_MAX_LB_CRISTAL^Most LB Crystals Produced^最大LB水晶出現數^최대 LB 크리스탈 출현 수^Nombre de cristaux de combat max. produits^Max. LR-Kristalle erzeugt^Máximo de cristales de límite producidos
+MST_ARCHIVE_NAME_ARENA_TOTAL_LB_CRISTAL^Total LB Crystals Obtained^累計LB水晶出現數^누적 LB 크리스탈 출현 수^Nombre de cristaux de combat max. obtenus ^LR-Kristalle erhalten^Cristales de límite producidos
+MST_ARCHIVE_NAME_ARENA_TOTAL_ABNORMAL_GIVE^Total Status Ailments Inflicted^賦予異常狀態次數^상태이상 부여 횟수^Total altérations d'état infligées^Zugefügte Zustandsveränderungen^Estados alterados infligidos
+MST_ARCHIVE_NAME_ARENA_TOTAL_ABNORMAL_TAKE^Total Status Ailments Received^被賦予異常狀態次數^상태이상에 빠진 횟수^Total altérations d'état reçues ^Erhaltene Zustandsveränderungen^Estados alterados sufridos
+MST_ARCHIVE_NAME_ARENA_TOTAL_BOARD_CHANGE^Total Board Items Obtained^累計交換板道具獲得次數^누적 교환 보드 아이템 획득 횟수^Total de récompenses du tableau obtenues ^Erhaltene Tauschgegenstände^Recompensas de tablero
+MST_ARCHIVE_NAME_ARENA_TOTAL_BOARD_COMPLETE^Total Boards Completed^累計交換板完成次數^누적 교환 보드 완료 횟수^Total de tableaux terminés^Abgeschlossene Tauschgegenstände^Tableros completados
+MST_ARCHIVE_NAME_MAX_DAMAGE_BATTLE^Times Damage Dealt in One Battle^1場戰鬥最大傷害值^1전투당 적에게 준 최대 피해량^Dégâts max. infligés en un combat^Mal Schaden in einem Kampf zugefügt^Máximo de daño en una batalla
+MST_ARCHIVE_NAME_MAX_DAMAGE_HIT^Most Damage Dealt in One Hit^1HIT最大傷害值^1HIT당 적에게 준 최대 피해량^Dégâts max. infligés en un coup^Höchstschaden mit einem Treffer^Máximo de daño en un golpe
+MST_ARCHIVE_NAME_MAX_CHAIN_TURN^Most Chains in One Turn^1T最大CHAIN數^1턴당 최대 CHAIN 수^Combo max. en un tour^Meiste Kettenangriffe in einer Runde^Máximo de combos en un turno
+MST_ARCHIVE_NAME_MAX_SPARK_CHAIN_TURN^Most Sparks in One Turn^1T最大SPARK^1턴당 최대 SPARK^Étincelles max. en un tour^Meiste Funken in einer Runde^Máximo de Combos Centella en un turno
+MST_ARCHIVE_NAME_MAX_ELEMENT_CHAIN_TURN^Most Element Sparks in One Turn^1T最大ELEMENT^1턴당 최대 ELEMENT^Étinc. élémentaires max en un tour^Meiste Elementarfunken in einer Runde^Máximo de Combos Elementales en un turno
+MST_ARCHIVE_NAME_CLSM_MAX_DAMAGE_BATTLE^Times Damage Dealt in One Battle^1場戰鬥最大傷害值^1전투당 적에게 준 최대 피해량^Dégâts max. infligés en un combat^Mal Schaden in einem Kampf zugefügt^Máximo de daño en una batalla
+MST_ARCHIVE_NAME_CLSM_MAX_DAMAGE_HIT^Most Damage Dealt in One Hit^1HIT最大傷害值^1HIT당 적에게 준 최대 피해량^Dégâts max. infligés en un coup^Höchstschaden mit einem Treffer^Máximo de daño en un golpe
+MST_ARCHIVE_NAME_CLSM_MAX_CHAIN_TURN^Most Chains in One Turn^1T最大CHAIN數^1턴당 최대 CHAIN 수^Combo max. en un tour^Meiste Kettenangriffe in einer Runde^Máximo de combos en un turno
+MST_ARCHIVE_NAME_CLSM_MAX_SPARK_CHAIN_TURN^Most Spark Chains in One Turn^1T最大SPARK CHAIN數^1턴당 최대 SPARK CHAIN 수^Combo étinc. max en un tour^Meiste Funkenketten in einer Runde^Máximo de Combos Centella en un turno
+MST_ARCHIVE_NAME_CLSM_MAX_ELEMENT_CHAIN_TURN^Most Element Chains in One Turn^1T最大ELEMENT CHAIN數^1턴당 최대 ELEMENT CHAIN 수^Combo élém. max en un tour^Meiste Elementarketten in einer Runde^Máximo de Combos Elementales en un turno
+MST_ARCHIVE_NAME_ARENA_MAX_DAMAGE_BATTLE^Times Damage Dealt in One Battle^1場戰鬥最大傷害值^1전투당 적에게 준 최대 피해량^Dégâts max. infligés en un combat^Mal Schaden in einem Kampf zugefügt^Máximo de daño en una batalla
+MST_ARCHIVE_NAME_ARENA_MAX_DAMAGE_HIT^Most Damage Dealt in One Hit^1HIT最大傷害值^1HIT당 적에게 준 최대 피해량^Dégâts max. infligés en un coup^Höchstschaden mit einem Treffer^Máximo de daño en un golpe
+MST_ARCHIVE_NAME_ARENA_MAX_CHAIN_TURN^Most Chains in One Turn^1T最大CHAIN數^1턴당 최대 CHAIN 수^Combo max. en un tour^Meiste Kettenangriffe in einer Runde^Máximo de combos en un turno
+MST_ARCHIVE_NAME_ARENA_MAX_SPARK_CHAIN_TURN^Most Spark Chains in One Turn^1T最大SPARK CHAIN數^1턴당 최대 SPARK CHAIN 수^Combo étinc. max en un tour^Meiste Funkenketten in einer Runde^Máximo de Combos Centella en un turno
+MST_ARCHIVE_NAME_ARENA_MAX_ELEMENT_CHAIN_TURN^Most Element Chains in One Turn^1T最大ELEMENT CHAIN數^1턴당 최대 ELEMENT CHAIN 수^Combo élém. max en un tour^Meiste Elementarketten in einer Runde^Máximo de Combos Elementales en un turno
+MST_ARCHIVE_NAME_DMG_RANK_CNT^Total Damage Ranking Participations^傷害排名參戰次數^피해량 랭킹 참전 횟수^Participation totale aux classements de dégâts^Gesamtschaden nach Rang^Veces participadas en clasificación de daño
+MST_ARCHIVE_NAME_DMG_RANK_TOTAL_DAMAGE^Total Damage Dealt^累計傷害值^적에게 준 누적 피해량^Total dégâts infligés^Ausgeteilter Schaden^Daño infligido
+MST_ARCHIVE_NAME_DMG_RANK_MAX_DAMAGE_BATTLE^Times Damage Dealt in One Battle^1場戰鬥最大傷害值^1전투당 적에게 준 최대 피해량^Dégâts max. infligés en un combat^Mal Schaden in einem Kampf zugefügt^Máximo de daño en una batalla
+MST_ARCHIVE_NAME_DMG_RANK_MAX_DAMAGE_TURN^Most Damage Dealt in One Turn^1T最大傷害值^1턴당 적에게 준 최대 피해량^Max. dégâts infligés en un tour^Höchstschaden in einer Runde^Máximo de daño infligido en un turno
+MST_ARCHIVE_NAME_DMG_RANK_MAX_DAMAGE_HIT^Most Damage Dealt in One Hit^1HIT最大傷害值^1HIT당 적에게 준 최대 피해량^Dégâts max. infligés en un coup^Höchstschaden mit einem Treffer^Máximo de daño en un golpe
+MST_ARCHIVE_NAME_DMG_RANK_MAX_CHAIN_TURN^Most Chains in One Turn^1T最大CHAIN數^1턴당 최대 CHAIN 수^Combo max. en un tour^Meiste Kettenangriffe in einer Runde^Máximo de combos en un turno
+MST_ARCHIVE_NAME_DMG_RANK_MAX_SPARK_CHAIN_TURN^Most Spark Chains in One Turn^1T最大SPARK CHAIN數^1턴당 최대 SPARK CHAIN 수^Combo étinc. max en un tour^Meiste Funkenketten in einer Runde^Máximo de Combos Centella en un turno
+MST_ARCHIVE_NAME_DMG_RANK_MAX_ELEMENT_CHAIN_TURN^Most Element Chains in One Turn^1T最大ELEMENT CHAIN數^1턴당 최대 ELEMENT CHAIN 수^Combo élém. max en un tour^Meiste Elementarketten in einer Runde^Máximo de Combos Elementales en un turno
+MST_ARCHIVE_NAME_DMG_RANK_CRITICAL_TURN^Most Critical Hits in One Turn^1T最大暴擊發生數^1턴당 최대 극대화 발생 횟수^Max. coups critiques en un tour^Max. kritische Treffer in e. Runde^Máximo de golpes críticos en un turno
+MST_ARCHIVE_NAME_DMG_RANK_TOTAL_CRITICAL^Total Critical Hits^累計暴擊發生數^누적 극대화 발생 횟수^Total coups critiques^Kritische Treffer^Golpes críticos
+MST_ARCHIVE_NAME_DMG_RANK_TOTAL_BEAST_USE^Total Espers Evoked^召喚魔法發動次數^소환마법 발동 횟수^Total chimères invoquées^Esper beschworen^Evocaciones
+MST_ARCHIVE_NAME_DMG_RANK_TOTAL_MAGIC_USE^Total Magic Spells Used^魔法發動次數^마법 발동 횟수^Total sorts lancés^Zauber benutzt^Hechizos usados
+MST_ARCHIVE_NAME_DMG_RANK_TOTAL_ABILITY_USE^Total Abilities Used^能力發動次數^어빌리티 발동 횟수^Total aptitudes utilisées^Fertigkeiten benutzt^Habilidades usadas
+MST_ARCHIVE_NAME_DMG_RANK_TOTAL_LB_USE^Total Limit Bursts Used^累計LB發動次數^누적 LB 발동 횟수^Total limites déclenchées^Limitrausch benutzt^Límites usados
+MST_ARCHIVE_NAME_DMG_RANK_TOTAL_ABNORMAL_GIVE^Total Status Ailments Inflicted^賦予異常狀態次數^상태이상 부여 횟수^Total malus infligés^Zustände verursacht^Estados alterados infligidos

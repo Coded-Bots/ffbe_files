@@ -1,0 +1,154 @@
+MST_JOB_NAME_1^Knight^騎士^나이트^Chevalier^Ritter^Caballero
+MST_JOB_NAME_2^Dragoon^龍騎士^용기사^Dragonnier^Dragoner^Dragontino
+MST_JOB_NAME_3^Paladin^聖騎士^팔라딘^Paladin^Paladin^Paladín
+MST_JOB_NAME_4^Chaos Knight^破壞騎士^파괴의 기사^Baron du chaos^Chaosritter^Señor del Caos
+MST_JOB_NAME_5^Warrior^戰士^전사^Guerrier^Krieger^Guerrero
+MST_JOB_NAME_6^Ranger^獵人^사냥꾼^Chasseur^Jäger^Cazador
+MST_JOB_NAME_7^Adventurer^冒險家^모험가^Aventurier^Abenteurer^Aventurero
+MST_JOB_NAME_8^Pirate^海盜^해적^Pirate^Pirat^Pirata
+MST_JOB_NAME_9^Monk^武僧^몽크^Moine^Mönch^Monje
+MST_JOB_NAME_10^Thief^竊賊^시프^Voleur^Dieb^Ladrón
+MST_JOB_NAME_11^Bandit^盜賊^도적^Brigand^Bandit^Bandido
+MST_JOB_NAME_12^Samurai^武士^사무라이^Samouraï^Samurai^Samurái
+MST_JOB_NAME_13^Assassin^暗殺者^어쌔신^Assassin^Assassine^Asesino
+MST_JOB_NAME_14^Black Mage^黑魔道士^흑마도사^Mage noir^Schwarzm.^Mago negro
+MST_JOB_NAME_15^Black Mage^黑魔道士^흑마도사^Mage noir^Schwarzm.^Mago negro
+MST_JOB_NAME_16^Blue Mage^青魔道士^청마도사^Mage bleu^Blaumagier^Mago azul
+MST_JOB_NAME_17^Archmagus^大魔導師^대마도사^Archimagicien^Erzmagier^Archibrujo
+MST_JOB_NAME_18^Evoker^召喚士^소환사^Invokeur^Beschwörer^Evocador
+MST_JOB_NAME_19^Mage^魔道士^마도사^Mage^Magier^Mago
+MST_JOB_NAME_20^Dark Mage^暗黑魔道士^암흑마도사^Mage obscur^Dunkelmagier^Mago oscuro
+MST_JOB_NAME_21^Archmage^大魔導士^대마도사^Archimage^Erzm.^Brujo
+MST_JOB_NAME_22^White Mage^白魔道士^백마도사^Mage blanc^Weißmagier^Mago blanco
+MST_JOB_NAME_23^White Mage^白魔道士^백마도사^Mage blanc^Weißmagier^Mago blanco
+MST_JOB_NAME_24^Green Mage^綠魔道士^녹마도사^Mage vert^Grünm.^Mago verde
+MST_JOB_NAME_25^High Priest^大僧正^대승정^Grand prêtre^Hohepr.^Sumo sacerdote
+MST_JOB_NAME_26^Mystic Knight^魔道劍士^마도검사^Chevalier mage^Zauberritter^Esgrimístico
+MST_JOB_NAME_27^Spellblade^魔法劍士^마법검사^Magilame^Kampfm.^Esgrimago
+MST_JOB_NAME_28^Warmage^魔劍士^마검사^Chevalier noir^Dunkelritter^Caballero negro
+MST_JOB_NAME_29^Magic Warrior^魔導戰士^마도전사^Guerrier mage^Magiekrieger^Armamentalista
+MST_JOB_NAME_30^Red Mage^赤魔道士^적마도사^Mage rouge^Rotmagier^Mago rojo
+MST_JOB_NAME_31^Red Mage^赤魔道士^적마도사^Mage rouge^Rotmagier^Mago rojo
+MST_JOB_NAME_32^Gunner^火槍手^총술사^Artilleur^Schütze^Pistolero
+MST_JOB_NAME_33^Sky Pirate^空賊^하늘의 도적^Pirate du ciel^Luftpirat^Pirata aéreo
+MST_JOB_NAME_34^Imperial^帝國兵^제국군^Impérial^Reichsgar.^Imperial
+MST_JOB_NAME_35^Machinist^機械師^기계공^Machiniste^Ingenieur^Maquinista
+MST_JOB_NAME_36^Songstress^歌女^가희^Diva^Diva^Estrella pop
+MST_JOB_NAME_37^Bard^吟遊詩人^음유시인^Barde^Barde^Bardo
+MST_JOB_NAME_38^Dancer^舞者^무용수^Danseur^Tänzer^Bailarín
+MST_JOB_NAME_39^Scholar^學者^학자^Érudit^Gelehrter^Erudito
+MST_JOB_NAME_40^Salve-maker^藥師^약사^Apothicaire^Alchemist^Balsamista
+MST_JOB_NAME_41^Professor^博士^박사^Professeur^Professor^Profesor
+MST_JOB_NAME_42^Reaper^死神^사신^Ange de mort^Todbringer^Parca
+MST_JOB_NAME_43^Ravager^破壞者^파괴자^Destructeur ^Verwüster^Berserker
+MST_JOB_NAME_44^Black Belt^空手道家^무술가^Karatéka^Karateka^Cinturón negro
+MST_JOB_NAME_45^Viking^維京戰士^바이킹^Viking^Wikinger^Vikingo
+MST_JOB_NAME_46^Gladiator^劍鬥士^검투사^Gladiateur^Gladiator^Gladiador
+MST_JOB_NAME_47^Ninja^忍者^닌자^Ninja^Ninja^Ninja
+MST_JOB_NAME_48^Blue Mage^青魔道士^청마도사^Mage bleu^Blaumagier^Mago azul
+MST_JOB_NAME_900^Enhancer^強化兵員^강화용 유닛^Unité Soutien^Verstärker^Artífice
+MST_JOB_NAME_901^EXP Unit^經驗值兵員^경험치용 유닛^Unité EXP^EP-Einheit^Unidad EXP
+MST_JOB_NAME_902^Gil Unit^販售用兵員^판매용 유닛^Unité Gil^Gil-Einheit^Unidad guiles
+MST_JOB_NAME_49^Rune Knight^符文騎士^룬 나이트^Maître runique^Runenritter^Señor rúnico
+MST_JOB_NAME_50^General^將軍^장군^Général^General^General
+MST_JOB_NAME_51^Archmage^大魔導士^대마도사^Grand magicien^Großmagier^Brujo
+MST_JOB_NAME_52^Lancer^長槍手^창술사^Lancier^Pikenier^Lancero
+MST_JOB_NAME_53^Warrior of Light^光之戰士^빛의 전사^Guerrier de la Lumière^Krieger des Lichts^Guerrero de Luz
+MST_JOB_NAME_54^Sage^賢者^현자^Sage^Weiser^Sabio
+MST_JOB_NAME_55^Princess^公主^공주^Princesse^Prinzessin^Princesa
+MST_JOB_NAME_56^Emperor^皇帝^황제^Empereur ^Imperator^Emperador
+MST_JOB_NAME_57^Airship Tech^飛空艇技師^비공정 기술자^Tech. d'aéronef^Luftschifftechniker^Técnico aéreo
+MST_JOB_NAME_58^Summoner^召喚師^소환사^Invocateur ^Beschwörer^Invocador
+MST_JOB_NAME_59^Goddess^女神^여신^Déesse^Göttin^Diosa
+MST_JOB_NAME_60^l'Cie^路希^르씨^l'Cie^L'Cie^lu'Cie
+MST_JOB_NAME_61^Squire^見習戰士^견습 전사^Écuyer^Knappe^Escudero
+MST_JOB_NAME_62^Holy Knight^神聖騎士^홀리 나이트^Chevalier sacré^Heiliger Ritter^Caballero sacro
+MST_JOB_NAME_63^Cleric^聖職者^클레릭^Prêtre^Kleriker^Clérigo
+MST_JOB_NAME_64^Fell Knight^黑暗騎士^다크 나이트 ^Chevalier déchu^Dunkelritter^Lord oscuro
+MST_JOB_NAME_65^Engineer^機工士^기공사^Ingénieur ^Maschinisten^Ingeniero
+MST_JOB_NAME_66^Juggler^曲藝士^곡예사^Cabotin ^Jongleur^Malabarista
+MST_JOB_NAME_67^Fencer^劍士^펜서^Escrimeur ^Fechter^Esgrimista
+MST_JOB_NAME_68^Dark Knight^暗黑騎士^암흑기사^Chevalier noir^Dunkelritter^Señor oscuro
+MST_JOB_NAME_903^Fusion Unit^合成用兵員^합성용 유닛^Renforçateur^Einheit zur Fusion^Potenciador
+MST_JOB_NAME_69^Agito Cadet^覺醒者候補生^아기토 후보생^Aspirant Agito ^Agito-Kadet^Aspirante Agito
+MST_JOB_NAME_70^Tactician^軍師^참모^Tacticien^Stratege^Estratega
+MST_JOB_NAME_71^White Wizard^白魔道師^백마도사^Magicien blanc^Weißmagier^Erudito blanco
+MST_JOB_NAME_72^Red Wizard^赤魔道師^적마도사^Magicien rouge ^Rotmagier^Erudito rojo
+MST_JOB_NAME_73^Black Wizard^黒魔道師^흑마도사^Magicien noir^Schwarzmagier^Erudito negro
+MST_JOB_NAME_74^Holy Sword Hero^聖劍勇者^성검의 용사^Héros de l'épée^H. d. hei. Schwe.^Héroe de la espada
+MST_JOB_NAME_75^Young Girl^少女^소녀^Jeune fille^Junges Mädchen^Jovencita
+MST_JOB_NAME_76^Sprite^妖精^요정^Lutin^Kobold^Elfo
+MST_JOB_NAME_77^Pirate^海盜^해적^Pirate^Pirat^Pirata
+MST_JOB_NAME_78^Guard Captain^親衛隊長^친위대장^Capitaine de garde ^Wachkapitän^Capitán de guardia
+MST_JOB_NAME_79^Dark Spirit^魔人^마인^Esprit maléfique ^Dunkelgeist^Espíritu maligno
+MST_JOB_NAME_80^Water Priestess^水之巫女^물의 무녀^Prêtresse des Eaux^Wasserpriesterin^Sacerdotisa de agua
+MST_JOB_NAME_81^Soldier^士兵^병사^Soldat ^Soldat^Soldado
+MST_JOB_NAME_82^Mercenary^傭兵^용병^Mercenaire ^Söldner^Mercenario
+MST_JOB_NAME_83^Holy Swordsman^劍聖^검성^Épéiste sacré ^Hl. Schwertkämpfer^Espadachín sacro
+MST_JOB_NAME_84^Princess^公主^공주^Princesse^Prinzessin^Princesa
+MST_JOB_NAME_85^Spy^間諜^스파이^Espion ^Spion^Espía
+MST_JOB_NAME_86^Crown Prince^皇太子^황태자^Héritier du trône^Kronprinz^Heredero al trono
+MST_JOB_NAME_87^Dragon King^龍王^용왕^Roi dragon ^Drachenkönig^Rey dragón
+MST_JOB_NAME_88^Serpent^八俁遠呂智^야마타노오로치^Serpent^Schlange^Serpiente
+MST_JOB_NAME_89^Kandar^甘達坦^칸다타^Kandar^Kandar^Kandar
+MST_JOB_NAME_90^Killer Machine^殺戮機器^킬러 머신^Machine à tuer^Killermaschine^Máquina de matar
+MST_JOB_NAME_91^Liquid Metal Slime^流浪金屬史萊姆^하구레 메탈^Gluant métallique^Metallschleim^Burbujilimo metálico
+MST_JOB_NAME_92^Golem^巨像兵^골렘^Golem^Golem^Gólem
+MST_JOB_NAME_93^Slime^史萊姆^슬라임^Gluant^Schleim^Limo
+MST_JOB_NAME_94^Berserker^狂戰士^광전사^Massacreur ^Berserker^Verdugo
+MST_JOB_NAME_95^Guardian^護衛^가드^Gardien^Wächter^Guardián
+MST_JOB_NAME_96^Magitek Soldier^魔導裝甲兵^마도 아머 병사^Soldat magitech^Magitek-Soldat^Soldado Magitec
+MST_JOB_NAME_97^Swordsman^劍士^검사^Épéiste^Schwertkämpfer^Espadachín
+MST_JOB_NAME_98^God of Creation^創造神^창조신^Dieu de la Création^Göttin der Schöpfung^Dios creador
+MST_JOB_NAME_99^Scion^拂曉血盟^새벽의 혈맹^7ème aube (Hérit.)^Spross^Hijo del 7º albor
+MST_JOB_NAME_100^Gambler^賭博師^도박사^Parieur ^Spieler^Jugador
+MST_JOB_NAME_101^Wildling^野人^야생 소년^Sauvage ^Wildling^Salvaje
+MST_JOB_NAME_102^Prince^王子^왕자^Prince ^Prinz^Príncipe
+MST_JOB_NAME_103^Maid^女僕^메이드^Servante ^Hausmädchen^Doncella
+MST_JOB_NAME_104^Chocobo Knight^陸行鳥騎士^초코보 나이트^Chevalier chocobo^Chocobo-Ritter^Caballero chocobo
+MST_JOB_NAME_9001^Demon Knight^惡魔騎士^악마 기사^Chev. démoniaque^Dämonenritter^Caballero demonio
+MST_JOB_NAME_9002^Vampire^吸血鬼^흡혈귀^Vampire ^Vampir^Vampiro
+MST_JOB_NAME_9003^White Witch^白魔女^하얀 마녀^Sorcière blanche^Weiße Hexe^Bruja blanca
+MST_JOB_NAME_9004^Tech Mage^技術魔導士^기술 마도사^Ingémage^Tech-Magier^Mecamaga
+MST_JOB_NAME_9005^White Knight^白騎士^백기사^Chevalier blanc^Weißer Ritter^Caballero blanco
+MST_JOB_NAME_9006^Singer^歌手^가수^Chanteuse^Sängerin^Cantante
+MST_JOB_NAME_9007^Chocobo Rider^陸行鳥騎乘者^초코보 라이더^Cavalier chocobo^Chocobo-Reiter^Jinete chocobo
+MST_JOB_NAME_9008^Cupid Archer^射手邱比特^큐피드 궁수^Archer de l'amour^Amor-Schütze^Cupidarquero
+MST_JOB_NAME_9009^Cannoneer^大砲手^포병^Canonnier^Kanonier^Artillero
+MST_JOB_NAME_105^Archer^弓箭手^궁술사^Archer^Bogenschütze^Arquero
+MST_JOB_NAME_106^Blacksmith^鍛冶師^대장장이^Forgeron ^Schmied^Herrero
+MST_JOB_NAME_107^Divine Knight^神壇騎士^디바인 나이트^Chevalier divin ^Göttlicher Ritter^Caballero serafín
+MST_JOB_NAME_108^Astrologist^占星術士^점성술사^Astrologue ^Astrologe^Adivino
+MST_JOB_NAME_109^Veritas^維利亞斯^베리어스^Veritas ^Veritas^Veritas
+MST_JOB_NAME_110^Moogle^莫古利^모그리^Mog ^Mogry^Moguri
+MST_JOB_NAME_111^Onion Knight^洋蔥劍士^양파 검사^Chevalier oignon^Zwiebelritter^Caballero Cebolla
+MST_JOB_NAME_112^Hunter^狩獵人^헌터^Chasseur^Jäger^Cazador
+MST_JOB_NAME_113^Kingsglaive^王之劍^킹스글레이브^Glaive royal^Kingsglaive^Glaive real
+MST_JOB_NAME_114^NA^希諾恩開拓民^NA^NA^NA^NA
+MST_JOB_NAME_115^NA^羅亞努貴族^NA^NA^NA^NA
+MST_JOB_NAME_116^Royal Vagrant^流浪王族^유랑 왕족^Vagabond royal^Königlicher Vagabund^Realeza vagante
+MST_JOB_NAME_117^Masked Wonder^蒙面怪傑^가면의 쾌걸^Génie masqué ^Maskiertes Wunder^Genio enmascarado
+MST_JOB_NAME_118^SOLDIER^魔晃兵^솔져^SOLDAT^SOLDAT^SOLDADO
+MST_JOB_NAME_119^Singer^歌手^가수^Chanteuse^Sängerin^Cantante
+MST_JOB_NAME_120^Mog Friend^莫古朋友^모그 친구^Ami mog^Mogry-Freund^Amigo moguri
+MST_JOB_NAME_121^Flowery Lady^薔薇淑女^장미의 숙녀^Fleuriste ^Blumendame^Dama florista
+MST_JOB_NAME_122^Costume Girl^布偶少女^인형 옷 소녀^Fille costusmée^Kostümmädchen^Chica disfrazada
+MST_JOB_NAME_123^Dream Mage^夢魔道士^몽마도사^Magicien des rêves^Traummagier^Mago soñador
+MST_JOB_NAME_124^Tailor^裁縫師^테일러^Tailleur^Schneider^Sastre
+MST_JOB_NAME_125^Mog Friend^莫古朋友^모그 친구^Ami mog^Mogry-Freund^Amigo moguri
+MST_JOB_NAME_126^Flowery Lady^薔薇淑女^장미의 숙녀^Dame fleuriste^Blumendame^Dama florista
+MST_JOB_NAME_127^Costume Girl^布偶少女^인형 옷 소녀^Fille costumée^Kostümmädchen^Chica disfrazada
+MST_JOB_NAME_128^Dream Mage^夢魔道士^몽마도사^Mage rêveur ^Traummagier^Mago soñador
+MST_JOB_NAME_129^Tailor^裁縫師^테일러^Tailleur ^Schneider^Sastre
+MST_JOB_NAME_130^Royal Shield^王之盾^왕의 방패^Bouclier royal ^Königlicher Schild^Escolta real
+MST_JOB_NAME_131^Prince's Friend^王子的朋友^왕자의 친구^Ami du prince^Freund des Prinzen^Amigo del príncipe
+MST_JOB_NAME_132^Barrier Mage^壁魔道士^장벽마도사^Mage spé. barrière^Barrierenmagier^Mago invocador de barreras
+MST_JOB_NAME_133^Black Mage Warrior^黑魔道士兵^흑마도사 병사^Guerrier mage noir^Schwarzmagiekrieger^Mago negro guerrero
+MST_JOB_NAME_134^Chocobo Rider^陸行鳥騎兵^초코보 라이더^Cavalier chocobo^Chocobo-Reiter^Jinete chocobo
+MST_JOB_NAME_135^YoRHa Troop^寄葉部隊隊員^요르하 부대원^Unité YoRHa^YoRHa-Trupp^Unidad YoRHa
+MST_JOB_NAME_136^Machine Lifeform^機械生命體^기계생명체^Forme de vie méca.^Machinenlebensform^F. de vida mecánica
+MST_JOB_NAME_137^Priest^祭司^노사^Vieux prêtre^Priester^Sacerdote
+MST_JOB_NAME_9010^Archadian Judge^阿爾卡迪亞審判者^저지 마스터^Juge archadien^Arcadischer Richter^Juez arcadiano
+MST_JOB_NAME_9011^Artisan^工匠^장인^Artisan^Kunsthandwerker^Artesano
+MST_JOB_NAME_9012^Ex-YoRHa Android^原寄葉人造人^요르하 안드로이드^Androïde Ex-YoRHa ^Ex-YoRHa-Androide^Androide ex-YoRHa
+MST_JOB_NAME_9013^Elemental Archfiend^元素四天王^골베자 사천왕^Archidémon élémentaire^Elementarfürst^Archidiablo elemental

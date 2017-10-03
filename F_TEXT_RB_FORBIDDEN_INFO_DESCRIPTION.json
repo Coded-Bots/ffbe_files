@@ -1,0 +1,21 @@
+MST_RB_FORBIDDEN_INFO_DES_1^Normal forbidden^共通禁止^공통 금지^Attaques normales interdites^Normal verboten^Normales prohibidos
+MST_RB_FORBIDDEN_INFO_DES_2^Fire magic/abilities forbidden^火屬性魔法/能力禁止^불속성 마법 및 어빌리티 금지^Attaques de feu interdites^Feuermagie/-fertigkeiten verboten^Elemento fuego prohibido
+MST_RB_FORBIDDEN_INFO_DES_3^Ice attacks forbidden^冰屬性攻擊禁止^얼음속성 공격 금지^Attaques de glace interdites^Eisangriffe verboten^Elemento hielo prohibido
+MST_RB_FORBIDDEN_INFO_DES_4^Lightning attacks forbidden^雷屬性攻擊禁止^번개속성 공격 금지^Attaques de foudre interdites^Blitzangriffe verboten^Elemento rayo prohibido
+MST_RB_FORBIDDEN_INFO_DES_5^Water attacks forbidden^水屬性攻擊禁止^물속성 공격 금지^Attaques d'eau interdites^Wasserangriffe verboten^Elemento agua prohibido
+MST_RB_FORBIDDEN_INFO_DES_6^Wind attacks forbidden^風屬性攻擊禁止^바람속성 공격 금지^Attaques de vent interdites^Windangriffe verboten^Elemento viento prohibido
+MST_RB_FORBIDDEN_INFO_DES_7^Earth attacks forbidden^土屬性攻擊禁止^땅속성 공격 금지^Attaques de terre interdites^Erdangriffe verboten^Elemento tierra prohibido
+MST_RB_FORBIDDEN_INFO_DES_8^Light attacks forbidden^光屬性攻擊禁止^빛속성 공격 금지^Attaques de lumière interdites^Lichtangriffe verboten^Elemento luz prohibido
+MST_RB_FORBIDDEN_INFO_DES_9^Dark attacks forbidden^暗屬性攻擊禁止^어둠속성 공격 금지^Attaques de ténèbres interdites^Dunkelangriffe verboten^Elemento oscuridad prohibido
+MST_RB_FORBIDDEN_INFO_DES_10^Parameter boosts forbidden^狀態提升系禁止^능력치 상승 계열 금지^Augmentation des paramètres interdite^Werte-Erhöhung verboten^Potenciadores prohibidos
+MST_RB_FORBIDDEN_INFO_DES_11^Parameter reductions forbidden^狀態降低系禁止^능력치 감소 계열 금지^Diminution des paramètres interdite^Werte-Senkung verboten^Debilitadores prohibidos
+MST_RB_FORBIDDEN_INFO_DES_12^Physical combos forbidden^物理連擊系禁止^연속 물리공격 계열 금지^Combos physiques interdits^Physische Kombos verboten^Ataques múltiples prohibidos
+MST_RB_FORBIDDEN_INFO_DES_13^Magic combos forbidden^魔法連擊系禁止^연속 마법공격 계열 금지^Combos magiques interdits^Magiekombos verboten^Magia múltiple prohibidas
+MST_RB_FORBIDDEN_INFO_DES_14^Status ailments forbidden^施加異常狀態系禁止^상태이상 부여 계열 금지^Altérations d'état interdites^Zustandsveränderungen verboten^Estados alterados prohibidos
+MST_RB_FORBIDDEN_INFO_DES_15^Magic forbidden^魔法禁止^마법 어빌리티 금지^Magie interdite ^Magie verboten^Magia prohibida
+MST_RB_FORBIDDEN_INFO_DES_16^Specials forbidden^特殊能力禁止^스페셜 어빌리티 금지^Spéciaux interdits^Spezialfertigkeiten verboten^Especiales prohibidos
+MST_RB_FORBIDDEN_INFO_DES_17^Recovery abilities forbidden^恢復能力禁止^회복 어빌리티 금지^Aptitudes de récupération interdites  ^Heilungsfertigkeiten verboten^Habilidades de recuperación prohibidas
+MST_RB_FORBIDDEN_INFO_DES_18^Abilities targeting multiple units forbidden^攻擊多名敵人能力禁止^광역 어빌리티 금지^Aptitudes ciblant plusieurs unités interdites ^Fertigkeiten verboten, mit denen sich auf mehrere Einheiten zugleich zielen lässt.^Habilidades que afecten a múltiples objetivos prohibidas
+MST_RB_FORBIDDEN_INFO_DES_19^Abilities inflicting physical damage forbidden^物理攻擊能力禁止^물리 피해를 부여하는 어빌리티 금지^Aptitudes infligeant des dégâts physiques interdites ^Physische Angriffsfertigkeiten verboten^Habilidades que inflijan daño físico prohibidas
+MST_RB_FORBIDDEN_INFO_DES_20^Fire, ice, lightning, water, wind, earth, light, and dark attacks forbidden^火、冰、雷、水、風、土、光、暗屬性攻擊禁止^불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 공격 금지^Attaques de feu, glace, foudre, eau, vent, terre, lumière et ténèbres interdites^Angriffe mit Feuer, Eis, Blitz, Wasser, Wind, Erde, Licht und Dunkel verboten^Ataques de fuego, hielo, rayo, agua, viento, tierra, luz y oscuridad prohibidas
+MST_RB_FORBIDDEN_INFO_DES_21^Boosts, reductions, and status ailments forbidden^狀態提升・降低及異常狀態禁止^능력치 상승, 감소, 상태이상 금지^Boosts et réductions de caractéristiques et aptitudes altérant l'état interdits ^Erhöhungen, Verringerungen und Zustandsheilungen verboten^Potenciadores, debilitadores y estados alterados prohibidos

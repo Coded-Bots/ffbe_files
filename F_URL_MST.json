@@ -1,0 +1,222 @@
+[
+    {
+        "0q74A0oF": "", 
+        "1X65WPLU": "/content/regalsin/index_i.html", 
+        "7Aw3E5od": "/content/regalsin/index_a.html", 
+        "G4L0YIB2": "\u7279\u5b9a\u5546\u53d6\u5f15\u6cd5(Act on Specified Commercial Transactions)", 
+        "TR3HQmV8": "", 
+        "Vd5z8q7S": "/content/regalsin/index_s.html", 
+        "gu8McTA6": "ACT_ON_SCT_URL", 
+        "jClo7O8U": "/content/regalsin/index_i.html"
+    }, 
+    {
+        "0q74A0oF": "", 
+        "1X65WPLU": "/content/settlementsin/index_i.html", 
+        "7Aw3E5od": "/content/settlementsin/index_a.html", 
+        "G4L0YIB2": "\u8cc7\u91d1\u6c7a\u6e08\u6cd5\uff08Act on Settlement\uff09", 
+        "TR3HQmV8": "", 
+        "Vd5z8q7S": "/content/settlementsin/index_s.html", 
+        "gu8McTA6": "ACT_ON_SETTLEMENT_URL", 
+        "jClo7O8U": "/content/settlementsin/index_i.html"
+    }, 
+    {
+        "0q74A0oF": "", 
+        "1X65WPLU": "https://itunes.apple.com/app/final-fantasy-brave-exvius/id1078553808", 
+        "7Aw3E5od": "https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFBEWW", 
+        "G4L0YIB2": "\u30a2\u30d7\u30ea\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9URL", 
+        "TR3HQmV8": "", 
+        "Vd5z8q7S": "http://an.sqexm.net/sp/site/Page/sqmk/ffbe/top", 
+        "gu8McTA6": "APP_DL_URL", 
+        "jClo7O8U": "amzn://apps/android?p=com.square_enix.android_amazon.FFBEWW"
+    }, 
+    {
+        "0q74A0oF": "", 
+        "1X65WPLU": "/content/contact/index_i.php", 
+        "7Aw3E5od": "/content/contact/index_a.php", 
+        "G4L0YIB2": "\u304a\u554f\u3044\u5408\u308f\u305b", 
+        "TR3HQmV8": "", 
+        "Vd5z8q7S": "/content/contact/index_s.php", 
+        "gu8McTA6": "CONTACT_URL", 
+        "jClo7O8U": "/content/contact/index_i.php"
+    }, 
+    {
+        "0q74A0oF": "", 
+        "1X65WPLU": "/content/contactck/index_i.php", 
+        "7Aw3E5od": "/content/contactck/index_a.php", 
+        "G4L0YIB2": "\u304a\u554f\u3044\u5408\u308f\u305bID\u78ba\u8a8d", 
+        "TR3HQmV8": "", 
+        "Vd5z8q7S": "/content/contactck/index_s.php", 
+        "gu8McTA6": "CONTACT_URL_CK", 
+        "jClo7O8U": "/content/contactck/index_i.php"
+    }, 
+    {
+        "0q74A0oF": "", 
+        "1X65WPLU": "/content/credit/index.html", 
+        "7Aw3E5od": "/content/credit/index.html", 
+        "G4L0YIB2": "\u30af\u30ec\u30b8\u30c3\u30c8", 
+        "TR3HQmV8": "", 
+        "Vd5z8q7S": "/content/credit/index.html", 
+        "gu8McTA6": "CREDIT_URL", 
+        "jClo7O8U": "/content/credit/index.html"
+    }, 
+    {
+        "0q74A0oF": "", 
+        "1X65WPLU": "https://lapis-prod.gumi.sg/lapisProd/app/php/web/statics/mokujin_rank.php?SumallyId=600101", 
+        "7Aw3E5od": "https://lapis-prod.gumi.sg/lapisProd/app/php/web/statics/mokujin_rank.php?SumallyId=600101", 
+        "G4L0YIB2": "\u30c0\u30e1\u30fc\u30b8\u30e9\u30f3\u30ad\u30f3\u30b0 ", 
+        "TR3HQmV8": "", 
+        "Vd5z8q7S": "https://lapis-prod.gumi.sg/lapisProd/app/php/web/statics/mokujin_rank.php?SumallyId=600101", 
+        "gu8McTA6": "DAMAGE_RANKING_URL", 
+        "jClo7O8U": "https://lapis-prod.gumi.sg/lapisProd/app/php/web/statics/mokujin_rank.php?SumallyId=600101"
+    }, 
+    {
+        "0q74A0oF": "", 
+        "1X65WPLU": "http://lapis-prod.gumi.sg/lapisProd/app/php/web/statics/probability/summons_list.html", 
+        "7Aw3E5od": "http://lapis-prod.gumi.sg/lapisProd/app/php/web/statics/probability/summons_list.html", 
+        "G4L0YIB2": "\u30ac\u30c1\u30e3\u78ba\u7387", 
+        "TR3HQmV8": "", 
+        "Vd5z8q7S": "http://lapis-prod.gumi.sg/lapisProd/app/php/web/statics/probability/summons_list.html", 
+        "gu8McTA6": "GACHA_RATE_URL", 
+        "jClo7O8U": "https://lapis-prod.gumi.sg/lapisProd/app/php/web/statics/probability/summons_list.html"
+    }, 
+    {
+        "0q74A0oF": "", 
+        "1X65WPLU": "/help.php", 
+        "7Aw3E5od": "/help.php", 
+        "G4L0YIB2": "\u30d8\u30eb\u30d7", 
+        "TR3HQmV8": "", 
+        "Vd5z8q7S": "/help.php", 
+        "gu8McTA6": "HELP_URL", 
+        "jClo7O8U": "help.php"
+    }, 
+    {
+        "0q74A0oF": "", 
+        "1X65WPLU": "https://lapis-prod.gumi.sg/lapisProd/app/php/web/statics/lapis_possessions.php", 
+        "7Aw3E5od": "https://lapis-prod.gumi.sg/lapisProd/app/php/web/statics/lapis_possessions.php", 
+        "G4L0YIB2": "\u30e9\u30d4\u30b9\u6240\u6301\u5185\u5bb9", 
+        "TR3HQmV8": "", 
+        "Vd5z8q7S": "https://lapis-prod.gumi.sg/lapisProd/app/php/web/statics/lapis_possessions.php", 
+        "gu8McTA6": "LAPIS_POSSESSIONS_URL", 
+        "jClo7O8U": "https://lapis-prod.gumi.sg/lapisProd/app/php/web/statics/lapis_possessions.php"
+    }, 
+    {
+        "0q74A0oF": "", 
+        "1X65WPLU": "/archives/xxxx", 
+        "7Aw3E5od": "/archives/xxxx", 
+        "G4L0YIB2": "\u304a\u77e5\u3089\u305b\u8a73\u7d30URL", 
+        "TR3HQmV8": "", 
+        "Vd5z8q7S": "/archives/xxxx", 
+        "gu8McTA6": "NOTICE_DETAIL_URL", 
+        "jClo7O8U": "/archives/xxxx"
+    }, 
+    {
+        "0q74A0oF": "", 
+        "1X65WPLU": "/noticetop/index.html", 
+        "7Aw3E5od": "/noticetop/index.html", 
+        "G4L0YIB2": "\u304a\u77e5\u3089\u305bTOPURL", 
+        "TR3HQmV8": "", 
+        "Vd5z8q7S": "/noticetop/index.html", 
+        "gu8McTA6": "NOTICE_TOP_URL", 
+        "jClo7O8U": "/noticetop/index.html"
+    }, 
+    {
+        "0q74A0oF": "", 
+        "1X65WPLU": "/heipchild/etc/2.php", 
+        "7Aw3E5od": "/heipchild/etc/2.php", 
+        "G4L0YIB2": "\u5f15\u304d\u7d99\u304e\u306b\u3064\u3044\u3066", 
+        "TR3HQmV8": "", 
+        "Vd5z8q7S": "/heipchild/etc/2.php", 
+        "gu8McTA6": "OFFICIAL_URL", 
+        "jClo7O8U": "/heipchild/etc/2.php"
+    }, 
+    {
+        "0q74A0oF": "", 
+        "1X65WPLU": "/recommendation", 
+        "7Aw3E5od": "/recommendation", 
+        "G4L0YIB2": "\u304a\u3059\u3059\u3081\u30a2\u30d7\u30ea", 
+        "TR3HQmV8": "", 
+        "Vd5z8q7S": "/recommendation", 
+        "gu8McTA6": "RECOMMEND_URL", 
+        "jClo7O8U": "/recommendation"
+    }, 
+    {
+        "0q74A0oF": "", 
+        "1X65WPLU": "http://an.sqexm.net/apprecommend", 
+        "7Aw3E5od": "http://an.sqexm.net/apprecommend", 
+        "G4L0YIB2": "\u30b9\u30af\u30a8\u30cb\u30de\u30fc\u30b1\u30c3\u30c8\u304a\u3059\u3059\u3081URL", 
+        "TR3HQmV8": "", 
+        "Vd5z8q7S": "http://an.sqexm.net/apprecommend", 
+        "gu8McTA6": "RECOMMEND_URL_SQMK", 
+        "jClo7O8U": "http://an.sqexm.net/apprecommend"
+    }, 
+    {
+        "0q74A0oF": "", 
+        "1X65WPLU": "http://v1.ios.game.exvius.com/lapis/app/php/web/statics/campaign.php", 
+        "7Aw3E5od": "http://v1.android.game.exvius.com/lapis/app/php/web/statics/campaign.php", 
+        "G4L0YIB2": "\u30b7\u30ea\u30a2\u30eb\u30b3\u30fc\u30c9", 
+        "TR3HQmV8": "", 
+        "Vd5z8q7S": "http://v1.sqmk.game.exvius.com/lapis/app/php/web/statics/campaign.php", 
+        "gu8McTA6": "SERIAL_CODE_URL", 
+        "jClo7O8U": "http://v1.ios.game.exvius.com/lapis/app/php/web/statics/campaign.php"
+    }, 
+    {
+        "0q74A0oF": "", 
+        "1X65WPLU": "https://lapis-prod.gumi.sg/lapisProd/app/php/web/statics/spChallenge.php", 
+        "7Aw3E5od": "https://lapis-prod.gumi.sg/lapisProd/app/php/web/statics/spChallenge.php", 
+        "G4L0YIB2": "\u521d\u5fc3\u8005\u30df\u30c3\u30b7\u30e7\u30f3\u8a73\u7d30\u30da\u30fc\u30b8", 
+        "TR3HQmV8": "https://lapis-prod.gumi.sg/lapisProd/app/php/web/statics/spChallenge.php", 
+        "Vd5z8q7S": "https://lapis-prod.gumi.sg/lapisProd/app/php/web/statics/spChallenge.php", 
+        "gu8McTA6": "SP_CHALLENGE_DETAIL_URL", 
+        "jClo7O8U": "https://lapis-prod.gumi.sg/lapisProd/app/php/web/statics/spChallenge.php"
+    }, 
+    {
+        "0q74A0oF": "", 
+        "1X65WPLU": "/heipchild/etc/2.php", 
+        "7Aw3E5od": "/heipchild/etc/2.php", 
+        "G4L0YIB2": "\u5f15\u304d\u7d99\u304e\u8aac\u660e", 
+        "TR3HQmV8": "", 
+        "Vd5z8q7S": "/heipchild/etc/2.php", 
+        "gu8McTA6": "TAKEOVER_URL", 
+        "jClo7O8U": "/heipchild/etc/2.php"
+    }, 
+    {
+        "0q74A0oF": "", 
+        "1X65WPLU": "/content/policytop/index_i.html", 
+        "7Aw3E5od": "/content/policytop/index_a.html", 
+        "G4L0YIB2": "\u5229\u7528\u898f\u7d04\u305d\u306e\u4ed6TOP", 
+        "TR3HQmV8": "", 
+        "Vd5z8q7S": "/content/policytop/index_s.html", 
+        "gu8McTA6": "TERMS_OF_USE_OTHER_URL", 
+        "jClo7O8U": "/content/policytop/index_i.html"
+    }, 
+    {
+        "0q74A0oF": "", 
+        "1X65WPLU": "/content/userpolicysin/index_i.html", 
+        "7Aw3E5od": "/content/userpolicysin/index_a.html", 
+        "G4L0YIB2": "\u8cfc\u5165\u753b\u9762\u5229\u7528\u898f\u7d04", 
+        "TR3HQmV8": "", 
+        "Vd5z8q7S": "/content/userpolicysin/index_s.html", 
+        "gu8McTA6": "TERMS_OF_USE_PURCHASE_URL", 
+        "jClo7O8U": "/content/userpolicysin/index_i.html"
+    }, 
+    {
+        "0q74A0oF": "", 
+        "1X65WPLU": "/content/userpolicysin/index_i.html", 
+        "7Aw3E5od": "/content/userpolicysin/index_a.html", 
+        "G4L0YIB2": "\u5229\u7528\u898f\u7d04", 
+        "TR3HQmV8": "", 
+        "Vd5z8q7S": "/content/userpolicysin/index_s.html", 
+        "gu8McTA6": "TERMS_OF_USE_URL", 
+        "jClo7O8U": "/content/userpolicysin/index_i.html"
+    }, 
+    {
+        "0q74A0oF": "", 
+        "1X65WPLU": "/news", 
+        "7Aw3E5od": "/news", 
+        "G4L0YIB2": "\u6700\u65b0\u60c5\u5831", 
+        "TR3HQmV8": "", 
+        "Vd5z8q7S": "/news", 
+        "gu8McTA6": "UPDATE_INFO_URL", 
+        "jClo7O8U": "/news"
+    }
+]

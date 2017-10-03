@@ -1,0 +1,50 @@
+[
+    {
+        "25oxcKwN": "map_footprint.ssbp:footprint_snow_%s/anime", 
+        "89EvGKHx": "1", 
+        "G4L0YIB2": "\u4eba\uff08\u96ea\uff09", 
+        "mJjnb8Q3": "1"
+    }, 
+    {
+        "25oxcKwN": "map_footprint.ssbp:footprint_desert_%s/anime", 
+        "89EvGKHx": "2", 
+        "G4L0YIB2": "\u4eba\uff08\u7802\u6f20\uff09", 
+        "mJjnb8Q3": "1"
+    }, 
+    {
+        "25oxcKwN": "map_footprint.ssbp:footprint_waterdark/anime", 
+        "89EvGKHx": "3", 
+        "G4L0YIB2": "\u4eba(\u6c34\u30fb\u6697\uff09", 
+        "mJjnb8Q3": "1"
+    }, 
+    {
+        "25oxcKwN": "map_footprint.ssbp:footprint_snowdark_%s/anime", 
+        "89EvGKHx": "4", 
+        "G4L0YIB2": "\u4eba\uff08\u96ea\u30fb\u6697\uff09", 
+        "mJjnb8Q3": "1"
+    }, 
+    {
+        "25oxcKwN": "map_footprint.ssbp:footprint_desertdark_%s/anime", 
+        "89EvGKHx": "5", 
+        "G4L0YIB2": "\u4eba\uff08\u7802\u6f20\u30fb\u6697\uff09", 
+        "mJjnb8Q3": "1"
+    }, 
+    {
+        "25oxcKwN": "map_footprint.ssbp:footprint_water/anime", 
+        "89EvGKHx": "6", 
+        "G4L0YIB2": "\u4eba(\u6c34\uff09", 
+        "mJjnb8Q3": "1"
+    }, 
+    {
+        "25oxcKwN": "map_footprint.ssbp:footprint_watersplash/anime", 
+        "89EvGKHx": "7", 
+        "G4L0YIB2": "\u4eba(\u6c34\u30fb\u98db\u6cab\uff09", 
+        "mJjnb8Q3": "1"
+    }, 
+    {
+        "25oxcKwN": "map_footprint.ssbp:footprint_beach_%s/anime", 
+        "89EvGKHx": "8", 
+        "G4L0YIB2": "\u4eba\uff08\u7802\u6d5c\uff09", 
+        "mJjnb8Q3": "1"
+    }
+]

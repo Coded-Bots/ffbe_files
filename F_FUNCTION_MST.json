@@ -1,0 +1,47 @@
+[
+    {
+        "5U0bAqgR": "0", 
+        "G1nfeht7": "FUCNTION_CRAFTER_ITEM", 
+        "juA0Z4m7": "10004002"
+    }, 
+    {
+        "5U0bAqgR": "0", 
+        "G1nfeht7": "FUNCTION_CRAFTER_EQUIP_ITEM", 
+        "juA0Z4m7": "10004002"
+    }, 
+    {
+        "5U0bAqgR": "0", 
+        "G1nfeht7": "FUNCTION_CRAFTER_MATERIA", 
+        "juA0Z4m7": "10004002"
+    }, 
+    {
+        "5U0bAqgR": "1", 
+        "G1nfeht7": "FUNCTION_REEL_BEAST", 
+        "juA0Z4m7": "10007400"
+    }, 
+    {
+        "5U0bAqgR": "1", 
+        "G1nfeht7": "FUNCTION_REEL_COLOSSEUM", 
+        "juA0Z4m7": "10010300"
+    }, 
+    {
+        "5U0bAqgR": "1", 
+        "G1nfeht7": "FUNCTION_REEL_DIMENSION", 
+        "juA0Z4m7": "10005001"
+    }, 
+    {
+        "5U0bAqgR": "1", 
+        "G1nfeht7": "FUNCTION_REEL_EXPEDITION", 
+        "juA0Z4m7": "10012300"
+    }, 
+    {
+        "5U0bAqgR": "1", 
+        "G1nfeht7": "FUNCTION_REEL_WORLD", 
+        "juA0Z4m7": "0"
+    }, 
+    {
+        "5U0bAqgR": "0", 
+        "G1nfeht7": "FUNCTION_SHOP_MAGIC_KEY", 
+        "juA0Z4m7": "10010004"
+    }
+]

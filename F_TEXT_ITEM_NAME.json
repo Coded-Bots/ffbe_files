@@ -1,0 +1,498 @@
+MST_ITEM_NAME_101000100^Potion^治療劑^포션^Potion^Trank^Poción
+MST_ITEM_NAME_101000200^Hi-Potion^高級治療劑^하이 포션^Potion +^Hi-Trank^Ultrapoción
+MST_ITEM_NAME_101000300^X-Potion^特級治療劑^엑스 포션^Potion X^X-Trank^Poción X
+MST_ITEM_NAME_101001100^Ether^以太^에테르^Éther^Äther^Éter
+MST_ITEM_NAME_101001200^Turbo Ether^高級以太^에테르 터보^Éther +^Turbo-Äther^Éter turbo
+MST_ITEM_NAME_101002100^Elixir^萬靈藥^엘릭서^Élixir^Elixier^Elixir
+MST_ITEM_NAME_101003100^Phoenix Down^鳳凰尾巴^피닉스의 깃털^Queue de phénix^Phönixfeder^Cola de fénix
+MST_ITEM_NAME_102000100^Antidote^解毒藥^해독제^Antidote^Antidot^Antídoto
+MST_ITEM_NAME_102001100^Eye Drops^眼藥^안약^Collyre^Augentropfen^Colirio
+MST_ITEM_NAME_102002100^Smelling Salts^甦醒藥^각성약^Flacon de sels^Riechsalz^Sales aromáticas
+MST_ITEM_NAME_102003100^Echo Herbs^山彥草^메아리풀^Herbe d'écho^Echokraut^Hierba del eco
+MST_ITEM_NAME_102004100^Unicorn Horn^獨角獸之角^유니콘의 뿔^Corne de licorne^Einhorn-Horn^Cuerno de unicornio
+MST_ITEM_NAME_102005100^Vaccine^疫苗^백신^Vaccin^Impfstoff^Vacuna
+MST_ITEM_NAME_102006100^Gold Needle^金針^금침^Aiguille d'or^Goldnadel^Aguja de oro
+MST_ITEM_NAME_102007100^Remedy^萬能藥^만능약^Remède^Allheilmittel^Panacea
+MST_ITEM_NAME_102008100^Hyper^興奮劑^흥분제^Hyper^Hyper^Hiper
+MST_ITEM_NAME_103000100^Light Curtain^光之簾幕^빛의 장막^Rideau de lumière^Lichtvorhang^Manto de luz
+MST_ITEM_NAME_103001100^Lunar Curtain^月之簾幕^달의 장막^Rideau de lune^Mondschleier^Manto de luna
+MST_ITEM_NAME_103002100^Healing Spring^恢復之泉^회복의 샘물^Source régénérante^Heilquelle^Fluido vitalizante
+MST_ITEM_NAME_103003100^Smoke Bomb^煙霧彈^연막탄^Fumigène^Rauchbombe^Bomba de humo
+MST_ITEM_NAME_103006100^Body Boost^力量之藥^힘의 약^Augmente la force^Kraftschub^Brebaje de salud
+MST_ITEM_NAME_103007100^Mana Boost^魔力之藥^마력의 약^Augmente le mana^Mana-Schub^Brebaje mágico
+MST_ITEM_NAME_103008100^Protect Drink^守護之飲^프로테스 물약^Boisson Bouclier^Protes-Trank^Bebida Coraza
+MST_ITEM_NAME_103009100^Shell Drink^魔盾之飲^셸 물약^Boisson Barrière^Vallum-Trank^Bebida Escudo
+MST_ITEM_NAME_103010100^Bacchus's Wine^酒神之酒^바커스의 술^Vin de Bacchus^Bacchus' Tropfen^Licor de Baco
+MST_ITEM_NAME_103100100^Hero Drink^英雄之藥^영웅의 약^Boisson de héros^Heldentrunk^Sal heroica
+MST_ITEM_NAME_103101100^Giant's Drink^巨人之藥^거인의 약^Boisson de géant^Riesentrunk^Bebida del gigante
+MST_ITEM_NAME_104000100^Bomb Fragment^炸彈碎片^봄의 파편^Éclat de bombo^Bombensplitter^Trozo de bom
+MST_ITEM_NAME_104000200^Bomb Arm^炸彈右臂^봄의 오른팔^Poigne de bombo^Bombenarm^Brazo de bom
+MST_ITEM_NAME_104001100^Antarctic Wind^南極之風^남극의 바람^Vent antarctique^Antarktiswind^Aire antártico
+MST_ITEM_NAME_104001200^Arctic Wind^北極之風^북극의 바람^Vent arctique^Arktiswind^Aire ártico
+MST_ITEM_NAME_104002100^Zeus's Wrath^宙斯之怒^제우스의 분노^Colère de Zeus^Rache des Zeus^Ira de Zeus
+MST_ITEM_NAME_104002200^Heavenly Wrath^眾神之怒^신들의 분노^Ire céleste^Himmelszorn^Aliento divino
+MST_ITEM_NAME_104003100^Fish Scale^魚之鱗^물고기 비늘^Écaille de poisson^Fischschuppe^Escama de pez
+MST_ITEM_NAME_104003200^Dragon Scale^龍之鱗^용 비늘^Écaille de dragon^Drachenschuppe^Escama de dragón
+MST_ITEM_NAME_104004100^Giant Feather^巨鳥羽毛^거대 새의 깃털^Plume géante^Riesenfeder^Pluma de gran ave
+MST_ITEM_NAME_104004200^Wyvern Feather^雙足飛龍羽毛^와이번의 날개^Plume de wyverne^Lindwurmfeder^Pluma de guiverno
+MST_ITEM_NAME_104005100^Earth Drum^大地之鼓^대지의 북^Tambour terrien^Erdentrommel^Tambor de tierra
+MST_ITEM_NAME_104005200^Gaia's Cry^大地之歎^대지의 진동^Gémissement de Gaïa^Erdengrollen^Llanto de Gaia
+MST_ITEM_NAME_104006100^Red Fang^紅色獠牙^붉은 송곳니^Croc Rouge^Roter Reißzahn^Colmillo rojo
+MST_ITEM_NAME_104007100^White Fang^白色獠牙^하얀 송곳니^Croc Blanc^Weißer Reißzahn^Colmillo blanco
+MST_ITEM_NAME_104008100^Blue Fang^藍色獠牙^파란 송곳니^Croc Bleu^Blauer Reißzahn^Colmillo azul
+MST_ITEM_NAME_104009100^Holy Torch^神聖火把^성스러운 횃불^Torche sacrée^Heilige Fackel^Antorcha sagrada
+MST_ITEM_NAME_105000100^Grenade^手榴彈^수류탄^Grenade^Granate^Granada
+MST_ITEM_NAME_105001100^Frag Grenade^破甲手榴彈^철갑 수류탄^Grenade antichar^Panzergranate^Granada antitanque
+MST_ITEM_NAME_105002100^Shuriken^手裏劍^수리검^Shuriken^Shuriken^Shuriken
+MST_ITEM_NAME_105003100^Fuma Shuriken^風魔手裏劍^풍마의 수리검^Shuriken Fuma^Fuma-Shuriken^Fuma Shuriken
+MST_ITEM_NAME_105004100^Pinwheel^風車^풍차 칼날^Moulinet^Klingenstern^Molinillo
+MST_ITEM_NAME_106000100^Tent^帳篷^천막^Tente^Zelt^Tienda de lona
+MST_ITEM_NAME_106100100^Magic Key^魔法鑰匙^마법 열쇠^Clé magique^Zauberschlüssel^Llave mágica
+MST_ITEM_NAME_106200100^Star Quartz^石英星石^별빛 운석^Quartz étoilé^Sternenquarz^Estrella de cuarzo
+MST_ITEM_NAME_107000100^Magicite Shard^魔石碎片^마석 조각^Éclat de magilithe^Maginit-Splitter^Grava de magicita
+MST_ITEM_NAME_107000200^Magicite^魔石^마석^Magilithe^Maginit^Magicita
+MST_ITEM_NAME_107001100^Red Magicite^紅色魔石^붉은색 마석^Magilithe rouge^Roter Maginit^Magicita roja
+MST_ITEM_NAME_107001200^Blue Magicite^藍色魔石^파란색 마석^Magilithe bleue^Blauer Maginit^Magicita azul
+MST_ITEM_NAME_107001300^Green Magicite^綠色魔石^초록색 마석^Magilithe verte^Grüner Maginit^Magicita verde
+MST_ITEM_NAME_107001400^White Magicite^白色魔石^하얀색 마석^Magilithe blanche^Weißer Maginit^Magicita blanca
+MST_ITEM_NAME_107001500^Black Magicite^黑色魔石^검은색 마석^Magilithe noire^Schwarzer Maginit^Magicita negra
+MST_ITEM_NAME_107001600^Red Megacite^紅色大魔石^붉은색 대마석^Mégalithe rouge^Roter Meganit^Megacita roja
+MST_ITEM_NAME_107001700^Blue Megacite^藍色大魔石^파란색 대마석^Mégalithe bleue^Blauer Meganit^Megacita azul
+MST_ITEM_NAME_107001800^Green Megacite^綠色大魔石^초록색 대마석^Mégalithe verte^Grüner Meganit^Megacita verde
+MST_ITEM_NAME_107001900^White Megacite^白色大魔石^하얀색 대마석^Mégalithe blanche^Weißer Meganit^Megacita blanca
+MST_ITEM_NAME_107002000^Black Megacite^黑色大魔石^검은색 대마석^Mégalithe noire^Schwarzer Meganit^Megacita negra
+MST_ITEM_NAME_109201000^Earth Key #1^大地之鍵1^대지의 열쇠 1^Clé de terre nº1^Erdschlüssel #1^Llave Tierra 1
+MST_ITEM_NAME_109201010^Earth Key #2^大地之鍵2^대지의 열쇠 2^Clé de terre nº2^Erdschlüssel #2^Llave Tierra 2
+MST_ITEM_NAME_109201020^Earth Key #3^大地之鍵3^대지의 열쇠 3^Clé de terre nº3^Erdschlüssel #3^Llave Tierra 3
+MST_ITEM_NAME_109201030^Earth Key #4^大地之鍵4^대지의 열쇠 4^Clé de terre nº4^Erdschlüssel #4^Llave Tierra 4
+MST_ITEM_NAME_109201040^Earth Key #5^大地之鍵5^대지의 열쇠 5^Clé de terre nº5^Erdschlüssel #5^Llave Tierra 5
+MST_ITEM_NAME_109201050^Earth Key #6^大地之鍵6^대지의 열쇠 6^Clé de terre nº6^Erdschlüssel #6^Llave Tierra 6
+MST_ITEM_NAME_109201060^Earth Key #7^大地之鍵7^대지의 열쇠 7^Clé de terre nº7^Erdschlüssel #7^Llave Tierra 7
+MST_ITEM_NAME_109201070^Earth Key #8^大地之鍵8^대지의 열쇠 8^Clé de terre nº8^Erdschlüssel #8^Llave Tierra 8
+MST_ITEM_NAME_109201080^Earth Key #9^大地之鍵9^대지의 열쇠 9^Clé de terre nº9^Erdschlüssel #9^Llave Tierra 9
+MST_ITEM_NAME_109201090^Earth Key #10^大地之鍵10^대지의 열쇠 10^Clé de terre nº10^Erdschlüssel #10^Llave Tierra 10
+MST_ITEM_NAME_109201100^Earth Key #11^大地之鍵11^대지의 열쇠 11^Clé de terre nº11^Erdschlüssel #11^Llave Tierra 11
+MST_ITEM_NAME_109201110^Earth Key #12^大地之鍵12^대지의 열쇠 12^Clé de terre nº12^Erdschlüssel #12^Llave Tierra 12
+MST_ITEM_NAME_109201120^Earth Key #13^大地之鍵13^대지의 열쇠 13^Clé de terre nº13^Erdschlüssel #13^Llave Tierra 13
+MST_ITEM_NAME_109201130^Earth Key #14^大地之鍵14^대지의 열쇠 14^Clé de terre nº14^Erdschlüssel #14^Llave Tierra 14
+MST_ITEM_NAME_109201140^Earth Key #15^大地之鍵15^대지의 열쇠 15^Clé de terre nº15^Erdschlüssel #15^Llave Tierra 15
+MST_ITEM_NAME_109201150^Earth Key #16^大地之鍵16^대지의 열쇠 16^Clé de terre nº16^Erdschlüssel #16^Llave Tierra 16
+MST_ITEM_NAME_109201160^Earth Key #17^大地之鍵17^대지의 열쇠 17^Clé de terre nº17^Erdschlüssel #17^Llave Tierra 17
+MST_ITEM_NAME_109201170^Earth Key #18^大地之鍵18^대지의 열쇠 18^Clé de terre nº18^Erdschlüssel #18^Llave Tierra 18
+MST_ITEM_NAME_109201180^Earth Key #19^大地之鍵19^대지의 열쇠 19^Clé de terre nº19^Erdschlüssel #19^Llave Tierra 19
+MST_ITEM_NAME_109201190^Earth Key #20^大地之鍵20^대지의 열쇠 20^Clé de terre nº20^Erdschlüssel #20^Llave Tierra 20
+MST_ITEM_NAME_109201200^Earth Key #21^大地之鍵21^대지의 열쇠 21^Clé de terre nº21^Erdschlüssel #21^Llave Tierra 21
+MST_ITEM_NAME_109201210^Earth Key #22^大地之鍵22^대지의 열쇠 22^Clé de terre nº22^Erdschlüssel #22^Llave Tierra 22
+MST_ITEM_NAME_109201220^Earth Key #23^大地之鍵23^대지의 열쇠 23^Clé de terre nº23^Erdschlüssel #23^Llave Tierra 23
+MST_ITEM_NAME_109201230^Earth Key #24^大地之鍵24^대지의 열쇠 24^Clé de terre nº24^Erdschlüssel #24^Llave Tierra 24
+MST_ITEM_NAME_109201240^Earth Key #25^大地之鍵25^대지의 열쇠 25^Clé de terre nº25^Erdschlüssel #25^Llave Tierra 25
+MST_ITEM_NAME_201000100^Fire Cryst^火之結晶^불의 결정^Cristal de feu^Feuerkristall^Cristal Piro
+MST_ITEM_NAME_201000200^Ice Cryst^冰之結晶^얼음의 결정^Cristal de glace^Eiskristall^Cristal Hielo
+MST_ITEM_NAME_201000300^Lightning Cryst^雷之結晶^번개의 결정^Cristal de foudre^Blitzkristall^Cristal Electro
+MST_ITEM_NAME_201000400^Water Cryst^水之結晶^물의 결정^Cristal d'eau^Wasserkristall^Cristal Aqua
+MST_ITEM_NAME_201000500^Earth Cryst^土之結晶^땅의 결정^Cristal de terre^Erdkristall^Cristal Tierra
+MST_ITEM_NAME_201000600^Wind Cryst^風之結晶^바람의 결정^Cristal de vent^Windkristall^Cristal Aero
+MST_ITEM_NAME_201000700^Light Cryst^光之結晶^빛의 결정^Cristal de lumière^Lichtkristall^Cristal Sanctus
+MST_ITEM_NAME_201000800^Dark Cryst^暗之結晶^어둠의 결정^Cristal de ténèbres^Dunkelkristall^Cristal Bio
+MST_ITEM_NAME_201000900^Fire Megacryst^火之大結晶^불의 대결정^Mégacristal de feu^Feuer-Megakristall^Cristal Piro+
+MST_ITEM_NAME_201001000^Ice Megacryst^冰之大結晶^얼음의 대결정^Mégacristal de glace^Eis-Megakristall^Cristal Hielo+
+MST_ITEM_NAME_201001100^Lightning Megacryst^雷之大結晶^번개의 대결정^Mégacristal de foudre^Blitz-Megakristall^Cristal Electro+
+MST_ITEM_NAME_201001200^Water Megacryst^水之大結晶^물의 대결정^Mégacristal d'eau^Wasser-Megakristall^Cristal Aqua+
+MST_ITEM_NAME_201001300^Earth Megacryst^土之大結晶^땅의 대결정^Mégacristal de terre^Erd-Megakristall^Cristal Tierra+
+MST_ITEM_NAME_201001400^Wind Megacryst^風之大結晶^바람의 대결정^Mégacristal de vent^Wind-Megakristall^Cristal Aero+
+MST_ITEM_NAME_201001500^Light Megacryst^光之大結晶^빛의 대결정^Mégacristal de lumière^Licht-Megakristall^Cristal Sanctus+
+MST_ITEM_NAME_201001600^Dark Megacryst^暗之大結晶^어둠의 대결정^Mégacristal de ténèbres^Dunkel-Megakristall^Cristal Bio+
+MST_ITEM_NAME_202000100^Life Orb^生命之珠^생명의 구슬^Orbe de vie^Lebenskugel^Orbe de la vida
+MST_ITEM_NAME_202000200^Farplane Soul^異界之魂^이계의 혼^Âme de l'Au-delà^Abyssum-Seele^Alma del Etéreo
+MST_ITEM_NAME_202000300^Gaia's Tear^大地之淚^대지의 눈물^Larme de Gaïa^Gaias Träne^Lágrima de Gaia
+MST_ITEM_NAME_202000400^Thickened Hide^結實的皮^질긴 가죽^Peau épaisse^Wildleder^Cuero resistente
+MST_ITEM_NAME_202000500^Raptor Feather^兇鳥之羽^흉조의 깃털^Plume de raptor^Raubvogelfeder^Pluma de arpía
+MST_ITEM_NAME_202000600^Chromatic Ooze^七彩凝膠^알록달록한 젤리^Gelée chromatique^Schillerschleim^Gelatina colorida
+MST_ITEM_NAME_202000700^Demon Tail^惡魔尾巴^악마의 꼬리^Queue de démon^Dämonenschweif^Cola de demonio
+MST_ITEM_NAME_202000800^Broken Blade^斷劍^부러진 칼날^Lame cassée^Zerbrochene Klinge^Hoja rota
+MST_ITEM_NAME_202000900^Digital Circuit^數字電路^디지털 회로^Circuit numérique^Digitalschaltkreis^Circuito digital
+MST_ITEM_NAME_202001000^Dragon Fang^龍牙^용의 엄니^Dent de dragon^Drachenzahn^Colmillo de dragón
+MST_ITEM_NAME_202001100^Glowseeds^發光種子^빛나는 씨앗^Graines luisantes^Glimmersamen^Semilla brillante
+MST_ITEM_NAME_202001200^Spellsilk^魔蟲絲^벌레의 실^Soie magique^Zauberseide^Seda de hechizo
+MST_ITEM_NAME_202001300^Quality Stone^優質石材^질 좋은 석재^Pierre de qualité^Marmor^Trozo de mármol
+MST_ITEM_NAME_202001400^Gummy Oil^黏糊糊的油^끈적이는 기름^Huile poisseuse^Dreckschmiere^Aceite viscoso
+MST_ITEM_NAME_202001500^Green Fluid^綠色的液體^초록색 액체^Liquide vert^Grüne Flüssigkeit^Líquido verde
+MST_ITEM_NAME_202001600^Otherworldly Bone^魔獸之骨^마수의 뼈^Os surnaturel^Untierknochen^Hueso enigmático
+MST_ITEM_NAME_202001700^Abominable Wing^怪魔之翼^괴생물의 날개^Aile abominable^Dämonenschwinge^Ala monstruosa
+MST_ITEM_NAME_202001800^Tough Scale^堅硬的鱗片^단단한 비늘^Écaille résistante^Hornschuppe^Escama dura
+MST_ITEM_NAME_202001900^Cursed Tusk^不祥之牙^불길한 엄니^Croc maudit^Scheußlicher Hauer^Colmillo maldito
+MST_ITEM_NAME_202002000^Wizard Stone^魔導石^마도석^Roc féerique^Magierstein^Roca mágica
+MST_ITEM_NAME_202002100^Polymer Emulsion^高分子體^고분자체^Émulsion polymérique^Kolloidbaustein^Objeto polimérico
+MST_ITEM_NAME_202002200^Dragon Scale^龍鱗^용 비늘^Écaille de dragon^Drachenschuppe^Escama de dragón
+MST_ITEM_NAME_202002300^Elemental Tear^精靈之淚^정령의 눈물^Larme élémentaire^Elementarträne^Lágrima elemental
+MST_ITEM_NAME_202002400^Rockbeetle Husk^硬蟲甲^갑충의 갑각^Carapace d'insecte dur^Käferpanzer^Caparazón de roca
+MST_ITEM_NAME_202002500^Sparkling Stone^輝石^휘석^Pierre pétillante^Glitzerstein^Roca centelleante
+MST_ITEM_NAME_202002600^Screamroot^咆哮根莖^비명뿌리^Racine hurlante^Kreischwurzel^Raíz gritona
+MST_ITEM_NAME_202002700^Corpse Fly^死蟲^송장벌레^Mouche nécrophage^Leichenfliege^Insecto carroñero
+MST_ITEM_NAME_203000100^Copper Ore^銅礦^구리 광석^Minerai de cuivre^Kupfererz^Mineral de cobre
+MST_ITEM_NAME_203000200^Iron Ore^鐵礦^철 광석^Minerai de fer^Eisenerz^Mineral de hierro
+MST_ITEM_NAME_203000300^Silver Ore^銀礦^은 광석^Minerai d'argent^Silbererz^Mineral de plata
+MST_ITEM_NAME_203000400^Mythril Ore^秘銀礦^미스릴 광석^Minerai de mithril^Mithrilerz^Mineral de mitrilo
+MST_ITEM_NAME_204000100^Lumber^木材^목재^Rondin^Holz^Madera
+MST_ITEM_NAME_280000100^Alcryst^煉晶石^연성의 수정^Alcrist^Alkrist^Alcrist
+MST_ITEM_NAME_280000200^Fine Alcryst^煉晶輝石^연성의 휘석^Alcrist pur^Edelalkrist^Alcrist fino
+MST_ITEM_NAME_290010000^Beast Meat^戰獸之肉^맹수 고기^Viande de bête^Bestienfleisch^Carne de alimaña
+MST_ITEM_NAME_290010100^Pearl of Wisdom^知識之珠^지식의 구슬^Perle de sagesse^Perle der Weisheit^Perla de sabiduría
+MST_ITEM_NAME_290010200^Allure Powder^魅惑之沙^매혹의 모래^Poudre de séduction^Locksand^Polvo encantador
+MST_ITEM_NAME_290020000^Litrock^光之石^빛나는 돌^Pierre de lumière^Lichtkiesel^Rocalita
+MST_ITEM_NAME_290020100^Seed of Life^生命種子^생명의 씨앗^Graine de vie^Saat des Lebens^Semilla de vida
+MST_ITEM_NAME_290020200^Crimson Tear^深紅之淚^진홍빛 눈물^Larme pourpre ^Sonnenträne^Gota carmesí
+MST_ITEM_NAME_290020300^Mystic Ore^魔原石^마원석^Minerai mystique^Mana-Erz^Mineral místico
+MST_ITEM_NAME_290020400^Aqua Pearl^藍色寶珠^푸른 보주^Perle d'azur^Blauperle^Perla de agua
+MST_ITEM_NAME_290020500^Luminous Horn^燐光之角^빛 담은 뿔^Corne lumineuse^Scheinendes Horn^Cuerno luminoso
+MST_ITEM_NAME_290020600^Quality Parts^優質部件^정밀 부품^Pièces de qualité^Qualitätsteile^Piezas de calidad
+MST_ITEM_NAME_290020700^Rainbow Needle^七色針^오색 바늘^Aiguille arc-en-ciel^Regenbogennadel^Aguja arcoíris
+MST_ITEM_NAME_290020800^Golden Egg^金蛋^황금 알^Œuf doré^Goldenes Ei^Huevo dorado
+MST_ITEM_NAME_290020900^Book of Ruin^破滅之書^파멸의 서^Livre des ruines^Buch des Untergangs^Libro de la ruina
+MST_ITEM_NAME_290030000^Earth's Core^大地凝晶^대지의 결정^Noyau de la Terre^Erdkern^Núcleo terrestre
+MST_ITEM_NAME_290030100^Heaven's Ash^天空聖灰^하늘의 재^Cendre céleste^Himmelsasche^Cenizas del cielo
+MST_ITEM_NAME_290030200^Deepsea Bloom^深海魔花^심해의 요화^Fleur sous-marine^Tiefseeblüte^Flor submarina
+MST_ITEM_NAME_290030300^Scripture of Time^時空教典^시공의 경전^Livre sacré du temps^Sutra der Zeit^Escritura temporal
+MST_ITEM_NAME_290030400^Farplane Dew^異界露水^이계의 물방울^Rosée de l'Au-delà^Tau des Abyssums^Rocío del Etéreo
+MST_ITEM_NAME_290040000^Spiritsand^精靈光粉^정령의 빛가루^Poudre d'âme^Elementarsand^Arena espiritual
+MST_ITEM_NAME_290040100^God's Reliquary^眾神的遺物^신들의 유물^Reliquaire divin^Göttliche Reliquie^Relicario divino
+MST_ITEM_NAME_290040200^Dragon Heart^巨龍的心臟^거룡의 심장^Cœur de dragon^Drachenherz^Corazón de dragón 
+MST_ITEM_NAME_290040300^Esper's Tear^幻獸之淚^환수의 눈물^Larme de chimère^Esperträne^Lágrima de esper
+MST_ITEM_NAME_290040400^Talmonite of Life^生命魔素^생명의 근원^Talmonite de vie^Talmonit des Lebens^Talmonita vital
+MST_ITEM_NAME_290050100^Esper Shard^魔幻結晶的碎片^환상결정 조각^Éclat de chimère^Esperkristallsplitter^Grava de esper
+MST_ITEM_NAME_290050200^Esper Cryst^魔幻結晶^환상결정^Cristal de chimère^Esperkristall^Cristal de esper
+MST_ITEM_NAME_290050300^Sacred Crystal^神幻結晶^신성결정^Cristal sacré^Reiner Kristall^Cristal sagrado
+MST_ITEM_NAME_290050400^Holy Crystal^神魔結晶^신마결정^Cristal bénit^Heiliger Kristall^Gema sagrada
+MST_ITEM_NAME_107002100^Yellow Magicite^黃色魔石^노란색 마석^Magilithe jaune^Gelber Maginit^Magicita amarilla
+MST_ITEM_NAME_107002200^Orange Magicite^橙色魔石^주황색 마석^Magilithe orange^Oranger Maginit^Magicita naranja
+MST_ITEM_NAME_107002300^Violet Magicite^紫色魔石^보라색 마석^Magilithe violette^Violetter Maginit^Magicita lila
+MST_ITEM_NAME_107002400^Yellow Megacite^黃色大魔石^노란색 대마석^Mégalithe jaune^Gelber Meganit^Megacita amarilla
+MST_ITEM_NAME_107002500^Orange Megacite^橙色大魔石^주황색 대마석^Mégalithe orange^Oranger Meganit^Megacita naranja
+MST_ITEM_NAME_107002600^Violet Megacite^紫色大魔石^보라색 대마석^Mégalithe violette^Violetter Meganit^Megacita lila
+MST_ITEM_NAME_108000100^Gallean Tins^加雷馬錫幣^갈레아 주화^Deniers galléens^Galläische Münzen^Galinos de estaño
+MST_ITEM_NAME_108000401^Play Money^玩具金幣^장난감 금화^Pièces factices^Spielgeld^Dinero de juguete
+MST_ITEM_NAME_109202000^Gale Key 1^疾風之鍵1^질풍의 열쇠 1^Clé des tempêtes 1^Sturmschlüssel 1^Llave Viento 1
+MST_ITEM_NAME_109202010^Gale Key 2^疾風之鍵2^질풍의 열쇠 2^Clé des tempêtes 2^Sturmschlüssel 2^Llave Viento 2
+MST_ITEM_NAME_109202020^Gale Key 3^疾風之鍵3^질풍의 열쇠 3^Clé des tempêtes 3^Sturmschlüssel 3^Llave Viento 3
+MST_ITEM_NAME_109202030^Gale Key 4^疾風之鍵4^질풍의 열쇠 4^Clé des tempêtes 4^Sturmschlüssel 4^Llave Viento 4
+MST_ITEM_NAME_109202040^Gale Key 5^疾風之鍵5^질풍의 열쇠 5^Clé des tempêtes 5^Sturmschlüssel 5^Llave Viento 5
+MST_ITEM_NAME_109202050^Gale Key 6^疾風之鍵6^질풍의 열쇠 6^Clé des tempêtes 6^Sturmschlüssel 6^Llave Viento 6
+MST_ITEM_NAME_109202060^Gale Key 7^疾風之鍵7^질풍의 열쇠 7^Clé des tempêtes 7^Sturmschlüssel 7^Llave Viento 7
+MST_ITEM_NAME_109202070^Gale Key 8^疾風之鍵8^질풍의 열쇠 8^Clé des tempêtes 8^Sturmschlüssel 8^Llave Viento 8
+MST_ITEM_NAME_109202080^Gale Key 9^疾風之鍵9^질풍의 열쇠 9^Clé des tempêtes 9^Sturmschlüssel 9^Llave Viento 9
+MST_ITEM_NAME_109202090^Gale Key 10^疾風之鍵10^질풍의 열쇠 10^Clé des tempêtes 10^Sturmschlüssel 10^Llave Viento 10
+MST_ITEM_NAME_205000100^Hard Pebble^不碎小石^부서지지 않는 작은 돌^Caillou dur ^Harter Kiesel^Guijarro duro
+MST_ITEM_NAME_205000200^Pure Stone^至純之石^지순의 돌^Pierre pure^Reiner Stein^Piedra pura
+MST_ITEM_NAME_291000100^Lazareth's Note^拉扎雷斯之書^라자레스의 서^Livre de Lazareth^Lazarets Notiz^Nota de Lazareth
+MST_ITEM_NAME_291000200^Iris's Note^伊麗絲之書^이리스의 서^Livre d'Iris^Iris' Notiz^Nota de Iris
+MST_ITEM_NAME_291000300^Ivan's Note^伊凡之書^이반의 서^Livre d'Ivan^Ivans Notiz^Nota de Ivan
+MST_ITEM_NAME_291000400^Olga's Note^奧爾加之書^올가의 서^Livre d'Olga^Olgas Notiz^Nota de Olga
+MST_ITEM_NAME_291000500^Finnith's Note^菲尼斯之書^피니스의 서^Livre de Finnith^Finnits Notiz^Nota de Finnith
+MST_ITEM_NAME_206000100^Drake Heart^魔龍心臟^마룡의 심장^Cœur de dragon^Feuerdrachenherz^Corazón de draco
+MST_ITEM_NAME_206000200^Drake Ore^龍輝礦^용휘 광석^Minerai de dragon^Feuerdrachenerz^Mineral de draco
+MST_ITEM_NAME_206000300^Drake Sphere^龍玉石^용옥^Sphère de dragon^Feuerdrachensphäre^Esfera de draco
+MST_ITEM_NAME_206000400^Drake Fang^魔龍之牙^마룡의 이빨^Croc de dragon^Feuerdrachenzahn^Colmillo de draco
+MST_ITEM_NAME_206000500^Farplane Mineral^異界礦物^이계의 광물^Minéral de l'Au-delà^Abyssum-Mineral^Mineral del Etéreo
+MST_ITEM_NAME_206000600^Death Stone^死亡之石^데스스톤^Pierre de mort^Todesstein^Piedra Muerte
+MST_ITEM_NAME_206000700^Demon Horn^惡魔之角^악마의 뿔^Corne de démon^Dämonenhorn^Cuerno de demonio
+MST_ITEM_NAME_290050500^Divine Crystal^神魔王結晶^신마왕결정^Cristal divin^Göttlicher Kristall^Cristal divino
+MST_ITEM_NAME_290060000^Fairies' Writ^妖精王密書^요정왕의 밀서^Parchemin des fées ^Feenschrift^Escrito del hada
+MST_ITEM_NAME_290060100^Rainbow Bloom^樂園的幻虹花^낙원의 환상무지개꽃^Muguet arc-en-ciel^Regenbogenblüte^Flor arcoiris
+MST_ITEM_NAME_290060200^Calamity Gem^災禍的封神珠^재앙의 봉신구슬^Gemme du chaos^Katastrophenstein^Gema calamitosa
+MST_ITEM_NAME_290060300^Prismatic Horn^神獸的極彩角^신수의 현란한 뿔^Corne prismatique^Prismahorn^Cuerno prismático
+MST_ITEM_NAME_290060400^Calamity Writ^終焉的預言書^종말의 예언서^Parchemin du chaos^Katastrophenschrift^Premonición final
+MST_ITEM_NAME_106300100^Auracite Shard ^聖石碎片 ^성석 파편 ^Fragment du Zodiaque^Auranit-Splitter^Esquirla de auracita
+MST_ITEM_NAME_207000100^Bugross Ore^巴格羅斯礦^바글로스 광석^Minerai de Bugross^Bugross-Erz^Mineral de Bugross
+MST_ITEM_NAME_207000200^Ulric Iron^德爾塔鐵^델타 철^Fer d'Ulric^Ulrisches Eisen^Hierro Ulrico
+MST_ITEM_NAME_207000300^Core Dust^地底沙塵^지하의 모래먼지^Poussière tectonique ^Kernstaub^Polvo tectónico
+MST_ITEM_NAME_207000400^Abyss Pearl^深淵寶珠^심연의 보주^Perle de l'Abysse^Abgrundperle^Perla abismal
+MST_ITEM_NAME_207000500^Panther Fang^豹牙^표범 이빨^Croc de panthère ^Pantherzahn^Colmillo de pantera
+MST_ITEM_NAME_207000600^Demon Wing^惡魔之翼^악마의 날개^Aile de démon^Dämonenschwinge^Ala demoniaca
+MST_ITEM_NAME_207000700^Ancient Stone^古代神殿石^고대신전의 돌^Pierre antique^Antiker Stein^Piedra antigua
+MST_ITEM_NAME_106300200^Trochoid Gear^擺線齒輪^트로코이드 톱니바퀴^Rouage trochoïde^Trochoiden-Rad^Engranaje trocoide
+MST_ITEM_NAME_208000100^Uraninite^瀝青鈾礦^섬우라늄 광석^Uraninite^Pechblende^Uranita
+MST_ITEM_NAME_208000200^Iridium Plug^銥合金火星塞^이리듐 플러그^Bougie iridium^Iridiumkerze^Bujía de iridio
+MST_ITEM_NAME_208000300^Paraffin Oil^石蠟油^파라핀유^Huile de paraffine^Paraffinöl^Aceite de parafina
+MST_ITEM_NAME_208000400^Crystal Oscillator^晶體震盪器^수정 발진자^Oscillateur à quartz^Schwingquarz^Oscilador de cristal
+MST_ITEM_NAME_208000500^Perovskite^鈣鈦礦^회티타늄석^Pérovskite^Perowskit^Perovskita
+MST_ITEM_NAME_208000600^Entrancing Tail^靈獸鳳尾^영수의 꼬리^Queue irisée^Lichterschweif^Cola bella
+MST_ITEM_NAME_208000700^Menacing Wings^飛天之雙翼^비천의 날개^Ailes menaçantes^Zwillingsschwinge^Alas celestiales
+MST_ITEM_NAME_290030500^Hard Rock^堅硬岩石^단단한 암석^Roche robuste ^Harter Fels^Roca robusta
+MST_ITEM_NAME_290030600^Fury Seed^鬥氣之種^투지의 씨앗^Graine de furie^Wutsamen^Semilla de furia
+MST_ITEM_NAME_290030700^Wicked Drop^魔性液滴^마성의 물방울^Goutte maléfique ^Teufelstropfen^Gota maligna
+MST_ITEM_NAME_290030800^Brilliant Ray^知性光片^지성의 빛조각^Éclat de génie ^Brillantstrahl^Sabidurita
+MST_ITEM_NAME_290030900^Lucky Seedling^幸運種子^행운의 씨앗^Graine de chance^Glückssetzling^Semilla de la fortuna
+MST_ITEM_NAME_290031000^Bizarre Box^異想天開之箱^기상천외한 상자^Boîte étrange ^Bizarre Schachtel^Caja bizarra
+MST_ITEM_NAME_1000000000^Massive Stone^巨石^큰 돌^Pierre massive^Mächtiger Stein^Piedra enorme
+MST_ITEM_NAME_1000000001^Demon Heart^惡魔心臟^악마의 심장^Cœur de démon^Dämonenherz^Corazón de demonio
+MST_ITEM_NAME_1000000002^Void Vessel^虛無容器^빈 그릇^Réceptacle du vide^Behältnis der Leere^Recipiente del vacío
+MST_ITEM_NAME_1209000100^Fine Flour^小麥粉^밀가루^Farine^Feines Mehl^Harina fina
+MST_ITEM_NAME_1209000200^Lotus Seed Paste^蓮蓉餡^연꽃 씨 잼^Pâte de graine de lotus ^Lotussamenpaste^Pasta de semilla de loto
+MST_ITEM_NAME_1209000300^Brown Egg^褐殼蛋^달걀^Œuf marron^Braunes Ei^Huevo marrón
+MST_ITEM_NAME_1209000400^Coarse Rock Sugar^冰砂糖^얼음사탕^Carré de sucre ^Grober Kandiszucker^Azucar piedra áspero
+MST_ITEM_NAME_1106300100^Mogcake^莫古月餅^모그리 케이크^Mogcake^Mogkeks^Mogupastel
+MST_ITEM_NAME_1209000600^Standard Mogcake Box^莫古月餅普通禮盒^일반 모그리 케이크 상자^Paquet de mogcakes standard^Standardpaket Mogkekse^Minilote mogupastel
+MST_ITEM_NAME_1209000700^Rare Mogcake Box^莫古月餅精品禮盒^스페셜 모그리 케이크 상자^Paquet de mogcakes rares^Seltenes Paket Mogkekse^Lote mogupastel
+MST_ITEM_NAME_1209000800^Premium Mogcake Box^莫古月餅金裝禮盒^프리미엄 모그리 케이크 상자^Paquet de mogcakes premium^Premiumpaket Mogkekse^Superlote mogupastel
+MST_ITEM_NAME_106300300^Phantoma^幻能^판토마^Anima^Phantoma^Pneuma
+MST_ITEM_NAME_106300400^Candy^糖果球^동그란 봉지사탕^Bonbon^Bonbon^Caramelo
+MST_ITEM_NAME_106300500^White Phantoma^白色幻能^화이트 판토마 ^Anima blanche^Weiße Phantoma^Pneuma blanca
+MST_ITEM_NAME_1209000804^Scroll of Acumen^智力卷軸^통찰의 두루마리^Parchemin de perspicacité^Schriftrolle des Scharfsinns^Perga. de perspicacia
+MST_ITEM_NAME_1209000805^Scroll of Vigor^力量卷軸^활력의 두루마리^Parchemin de vigueur^Schriftrolle des Elans^Perga. del vigor
+MST_ITEM_NAME_1209000806^Cavern Ore^洞窟礦石^동굴의 광석^Minerai de caverne^Höhlenerz^Mineral de caverna
+MST_ITEM_NAME_1000000003^Y-Potion^Y治療劑^와이 포션^Potion Y^Y-Trank^Poción Y
+MST_ITEM_NAME_1000000004^Mega Ether^超級以太^메가 에테르^Méga Ether^Mega-Äther^Mega éter
+MST_ITEM_NAME_1209000801^Stainless Steel^不鏽鋼^스테인레스 강^Acier inoxydable^Rostfreier Stahl^Acero inoxidable
+MST_ITEM_NAME_1209000802^Blood Alcryst^血煉晶石^핏빛 연성의 수정^Alcrist de sang ^Blut-Alkrist^Alcrist sangriento
+MST_ITEM_NAME_1209000803^Blood Stone^鮮血石^블러드 스톤^Pierre de sang ^Blutstein^Piedra sangrienta
+MST_ITEM_NAME_1209000807^Survivor's Flask^神聖之水^성수^Fiole de vie^Flasche eines Verunglückten^Frasco de vida
+MST_ITEM_NAME_1106300101^Candy Corn^粟米糖^옥수수 사탕^Maïs sucré ^Candy Corn^Caramelo de maíz
+MST_ITEM_NAME_106300900^Karma^魂^카르마^Karma^Karma^Karma
+MST_ITEM_NAME_1100000027^Meteor Fragment^流星顆粒^유성의 조각^Fragment de météore^Meteorfragment^Meteofragmento
+MST_ITEM_NAME_1100000028^Meteor Shards^流星碎片^유석의 단편^Éclat de météore^Meteorsplitter^Meteoesquirla
+MST_ITEM_NAME_1100000029^Meteor Stones^流星石^유성의 돌^Pierre de météore ^Meteorsteine^Meteopiedra
+MST_ITEM_NAME_1100000030^Meteor Rock^流星岩^유성의 바위^Rocher de météore^Meteorfels^Meteoroca
+MST_ITEM_NAME_1100000031^Meteor Ore^流星礦石^유성의 광석^Minerai de météore ^Meteorerz^Meteomineral
+MST_ITEM_NAME_101000400^^^^^^
+MST_ITEM_NAME_101000500^^^^^^
+MST_ITEM_NAME_101000600^^^^^^
+MST_ITEM_NAME_101001300^^^^^^
+MST_ITEM_NAME_101001400^^^^^^
+MST_ITEM_NAME_101003200^^^^^^
+MST_ITEM_NAME_109203000^Flamering Key 1^火輪之鍵1^화륜의 열쇠1^Clé des flammes 1^Flammenschlüssel 1^Llave Fuego 1
+MST_ITEM_NAME_109203010^Flamering Key 2^火輪之鍵2^화륜의 열쇠2^Clé des flammes 2^Flammenschlüssel 2^Llave Fuego 2
+MST_ITEM_NAME_109203020^Flamering Key 3^火輪之鍵3^화륜의 열쇠3^Clé des flammes 3^Flammenschlüssel 3^Llave Fuego 3
+MST_ITEM_NAME_109203030^Flamering Key 4^火輪之鍵4^화륜의 열쇠4^Clé des flammes 4^Flammenschlüssel 4^Llave Fuego 4
+MST_ITEM_NAME_109203040^Flamering Key 5^火輪之鍵5^화륜의 열쇠5^Clé des flammes 5^Flammenschlüssel 5^Llave Fuego 5
+MST_ITEM_NAME_109203050^Flamering Key 6^火輪之鍵6^화륜의 열쇠6^Clé des flammes 6^Flammenschlüssel 6^Llave Fuego 6
+MST_ITEM_NAME_109203060^Flamering Key 7^火輪之鍵7^화륜의 열쇠7^Clé des flammes 7^Flammenschlüssel 7^Llave Fuego 7
+MST_ITEM_NAME_109203070^Flamering Key 8^火輪之鍵8^화륜의 열쇠8^Clé des flammes 8^Flammenschlüssel 8^Llave Fuego 8
+MST_ITEM_NAME_109203080^Flamering Key 9^火輪之鍵9^화륜의 열쇠9^Clé des flammes 9^Flammenschlüssel 9^Llave Fuego 9
+MST_ITEM_NAME_109203090^Flamering Key 10^火輪之鍵10^화륜의 열쇠10^Clé des flammes 10^Flammenschlüssel 10^Llave Fuego 10
+MST_ITEM_NAME_109204000^Aurora Key 1^極光之鍵1^극광의 열쇠1^Clé de l'aurore 1^Gleißlichtschlüssel 1^Llave Luz 1
+MST_ITEM_NAME_109204010^Aurora Key 2^極光之鍵2^극광의 열쇠2^Clé de l'aurore 2^Gleißlichtschlüssel 2^Llave Luz 2
+MST_ITEM_NAME_109204020^Aurora Key 3^極光之鍵3^극광의 열쇠3^Clé de l'aurore 3^Gleißlichtschlüssel 3^Llave Luz 3
+MST_ITEM_NAME_109204030^Aurora Key 4^極光之鍵4^극광의 열쇠4^Clé de l'aurore 4^Gleißlichtschlüssel 4^Llave Luz 4
+MST_ITEM_NAME_109204040^Aurora Key 5^極光之鍵5^극광의 열쇠5^Clé de l'aurore 5^Gleißlichtschlüssel 5^Llave Luz 5
+MST_ITEM_NAME_109204050^Aurora Key 6^極光之鍵6^극광의 열쇠6^Clé de l'aurore 6^Gleißlichtschlüssel 6^Llave Luz 6
+MST_ITEM_NAME_109204060^Aurora Key 7^極光之鍵7^극광의 열쇠7^Clé de l'aurore 7^Gleißlichtschlüssel 7^Llave Luz 7
+MST_ITEM_NAME_109204070^Aurora Key 8^極光之鍵8^극광의 열쇠8^Clé de l'aurore 8^Gleißlichtschlüssel 8^Llave Luz 8
+MST_ITEM_NAME_109204080^Aurora Key 9^極光之鍵9^극광의 열쇠9^Clé de l'aurore 9^Gleißlichtschlüssel 9^Llave Luz 9
+MST_ITEM_NAME_109204090^Aurora Key 10^極光之鍵10^극광의 열쇠10^Clé de l'aurore 10^Gleißlichtschlüssel 10^Llave Luz 10
+MST_ITEM_NAME_109205000^Black Key 1^漆黑之鍵1^칠흑의 열쇠1^Clé de l'obscurité 1^Schwarzer Schlüssel 1^Llave Oscuridad 1
+MST_ITEM_NAME_109205010^Black Key 2^漆黑之鍵2^칠흑의 열쇠2^Clé de l'obscurité 2^Schwarzer Schlüssel 2^Llave Oscuridad 2
+MST_ITEM_NAME_109205020^Black Key 3^漆黑之鍵3^칠흑의 열쇠3^Clé de l'obscurité 3^Schwarzer Schlüssel 3^Llave Oscuridad 3
+MST_ITEM_NAME_109205030^Black Key 4^漆黑之鍵4^칠흑의 열쇠4^Clé de l'obscurité 4^Schwarzer Schlüssel 4^Llave Oscuridad 4
+MST_ITEM_NAME_109205040^Black Key 5^漆黑之鍵5^칠흑의 열쇠5^Clé de l'obscurité 5^Schwarzer Schlüssel 5^Llave Oscuridad 5
+MST_ITEM_NAME_109205050^Black Key 6^漆黑之鍵6^칠흑의 열쇠6^Clé de l'obscurité 6^Schwarzer Schlüssel 6^Llave Oscuridad 6
+MST_ITEM_NAME_109205060^Black Key 7^漆黑之鍵7^칠흑의 열쇠7^Clé de l'obscurité 7^Schwarzer Schlüssel 7^Llave Oscuridad 7
+MST_ITEM_NAME_109205070^Black Key 8^漆黑之鍵8^칠흑의 열쇠8^Clé de l'obscurité 8^Schwarzer Schlüssel 8^Llave Oscuridad 8
+MST_ITEM_NAME_109205080^Black Key 9^漆黑之鍵9^칠흑의 열쇠9^Clé de l'obscurité 9^Schwarzer Schlüssel 9^Llave Oscuridad 9
+MST_ITEM_NAME_109205090^Black Key 10^漆黑之鍵10^칠흑의 열쇠10^Clé de l'obscurité 10^Schwarzer Schlüssel 10^Llave Oscuridad 10
+MST_ITEM_NAME_106300600^Red Orb^赤之寶玉^붉은색 보옥^Orbe rouge ^Roter Orb^Joya roja
+MST_ITEM_NAME_106210100^Rat Tail^老鼠尾巴^생쥐 꼬리^Queues de rat ^Rattenschwänze^Cola de ratón
+MST_ITEM_NAME_106300700^Gold^黃金^골드^Or^Gold^Oro
+MST_ITEM_NAME_203000500^Gold Ore^金礦^금광^Minerai d'or^Golderz^Pepita de oro
+MST_ITEM_NAME_106300800^Blue Phantoma^藍色幻能^푸른 판토마^Anima bleue^Blaues Phantoma^Pneuma azul
+MST_ITEM_NAME_202002800^Koltz Star^科爾茲之星^콜츠의 별^Étoile de Kolts^Koltzstern^Estrella de Kolts
+MST_ITEM_NAME_202002900^Hope Diamond^希望寶鑽^호프 다이아몬드^Diamant de l'espoir ^Diamant der Hoffnung^Diamante esperanzador
+MST_ITEM_NAME_202003000^Flaming Blood^火焰之血^타오르는 핏방울^Sang ardent^Flammenblut^Sangre ardiente
+MST_ITEM_NAME_105005100^Imperial Grenade^帝國式手榴彈^제국의 수류탄^Grenade impériale ^Imperiale Granate^Granada imperial
+MST_ITEM_NAME_106301000^Ifrit Raid Coin^火神伊弗利特共鬥硬幣^화염신 이프리트 레이드 코인^Jeton d'Ifrit^Ifrit - Raubzugmünze^Moneda de Ifrit
+MST_ITEM_NAME_291100100^Hermit's Teachings^隱者教誨^은둔자의 가르침^Savoir d'ermite ^Eremitenlehren^Saber de ermitaño
+MST_ITEM_NAME_291100200^Star Mote^星之魔片^별빛의 마법 파편^Gravier stellaire^Sternenstaub^Guijo estelar
+MST_ITEM_NAME_291100300^Swordsmanship Notes^劍士戰術書^검사의 전술서^Notes de l'épéiste ^Schwertkunstnotizen^Manual de espadachín
+MST_ITEM_NAME_209000100^Desert Mineral^沙漠礦石^사막의 광석^Minéral désertique ^Wüstenmineral^Mineral desértico
+MST_ITEM_NAME_209000200^Old Jungle Tree^密林古木^밀림의 고목^Vieil arbre de la jungle ^Alter Dschungelbaum^Arbol vetusto de jungla
+MST_ITEM_NAME_209000300^Miraculous Thread^神秘絲線^신비한 실^Fil miraculeux^Wundersamer Faden^Hilo milagroso
+MST_ITEM_NAME_209000400^Hide of the Guardian^守護獸皮^수호수의 가죽^Cachette du gardien ^Fell des Wächters^Piel del guardián
+MST_ITEM_NAME_209000500^Seed of Illusions^幻象種^환상의 씨앗^Graine d'illusion ^Samen der Illusionen^Semilla de ilusión
+MST_ITEM_NAME_209000600^Ancient Writings^古代書籍^고대의 서적^Écrits antiques^Uralte Schriften^Escrito antiguo
+MST_ITEM_NAME_209000700^High-grade Armor Oil^武具用高級油^장비용 고급 기름^Huile d'armure de qualité^Hochgradiges Rüstungsöl^Aceite virgen pulidor
+MST_ITEM_NAME_209000800^Mysterious Drop^神秘雨滴^신비의 빗방울^Goutte mystérieuse ^Mysteriöser Tropfen^Gota misteriosa
+MST_ITEM_NAME_209000900^Alter Blade^榮枯之刃^영고의 칼^Lame fluctuante ^Gestaltklinge^Hoja del vaivén
+MST_ITEM_NAME_209001000^Dream Blossom^夢之花^꿈의 꽃송이^Fleur de rêve ^Traumblüte^Flor de ensueño
+MST_ITEM_NAME_209001100^Quality Gold Dust^上等沙金^고품질의 사금^Poussière d'or de qualité^Qualitätsgoldstaub^Oro en polvo puro
+MST_ITEM_NAME_106301100^Fish^魚^물고기^Poisson^Fisch^Pescado
+MST_ITEM_NAME_270000100^White Alcryst^白色晶石^흰색 수정^Alcrist blanc^Weißer Alkrist^Alcrist blanco
+MST_ITEM_NAME_270000200^White Milcryst^白色中晶石^중형 흰색 수정^Supercrist blanc^Weißer Milkrist^Supercrist blanco
+MST_ITEM_NAME_270000300^White Heavicryst^白色大晶石^대형 흰색 수정^Mégacrist blanc^Weißer Schwerkrist^Megacrist blanco
+MST_ITEM_NAME_270000400^White Giancryst^白色超晶石^초대형 흰색 수정^Gigacrist blanc ^Weißer Giankrist^Gigacrist blanco
+MST_ITEM_NAME_270000500^White Purecryst^白色神晶石^신급 흰색 수정^Ultracrist blanc ^Weißer Purkrist^Ultracrist blanco
+MST_ITEM_NAME_270000600^Black Alcryst^黑色晶石^검은색 수정^Alcrist noir^Schwarzer Alkrist^Alcrist negro
+MST_ITEM_NAME_270000700^Black Milcryst^黑色中晶石^중형 검은색 수정^Supercrist noir^Schwarzer Milkrist^Supercrist negro
+MST_ITEM_NAME_270000800^Black Heavicryst^黑色大晶石^대형 검은색 수정^Mégacrist noir^Schwarzer Schwerkrist^Megacrist negro
+MST_ITEM_NAME_270000900^Black Giancryst^黑色超晶石^초대형 검은색 수정^Gigacrist noir ^Schwarzer Giankrist^Gigacrist negro
+MST_ITEM_NAME_270001000^Black Purecryst^黑色神晶石^신급 검은색 수정^Ultracrist noir^Schwarzer Purkrist^Ultracrist negro
+MST_ITEM_NAME_270001100^Green Alcryst^綠色晶石^초록색 수정^Alcrist vert^Grüner Alcryst^Alcrist verde
+MST_ITEM_NAME_270001200^Green Milcryst^綠色中晶石^중형 초록색 수정^Supercrist vert^Grüner Alkrist^Supercrist verde
+MST_ITEM_NAME_270001300^Green Heavicryst^綠色大晶石^대형 초록색 수정^Mégacrist vert^Grüner Schwerkrist^Megacrist verde
+MST_ITEM_NAME_270001400^Green Giancryst^綠色超晶石^초대형 초록색 수정^Gigacrist vert^Grüner Giankrist^Gigacrist verde
+MST_ITEM_NAME_270001500^Green Purecryst^綠色神晶石^신급 초록색 수정^Ultracrist vert^Grüner Purkrist^Ultracrist verde
+MST_ITEM_NAME_270002600^Power Alcryst^攻擊晶石^공격의 수정^Alcrist puissant^Kraft-Alkrist^Alcrist potente
+MST_ITEM_NAME_270002700^Power Milcryst^攻擊中晶石^중형 공격의 수정^Supercrist puissant^Kraft-Milkrist^Supercrist potente
+MST_ITEM_NAME_270002800^Power Heavicryst^攻擊大晶石^대형 공격의 수정^Mégacrist puissant^Kraft-Schwerkrist^Megacrist potente
+MST_ITEM_NAME_270002900^Power Giancryst^攻擊超晶石^초대형 공격의 수정^Gigacrist puissant^Kraft-Giankrist^Gigacrist potente
+MST_ITEM_NAME_270003000^Power Purecryst^攻擊神晶石^신급 공격의 수정^Ultracrist puissant^Kraft-Purkrist^Ultracrist potente
+MST_ITEM_NAME_270003100^Guard Alcryst^防禦晶石^수호의 수정^Alcrist gardien^Wächter-Alkrist^Alcrist guardián
+MST_ITEM_NAME_270003200^Guard Milcryst^防禦中晶石^중형 수호의 수정^Supercrist gardien^Wächter-Milkrist^Supercrist guardián
+MST_ITEM_NAME_270003300^Guard Heavicryst^防禦大晶石^대형 수호의 수정^Mégacrist gardien ^Wächter-Schwerkrist^Megacrist guardián
+MST_ITEM_NAME_270003400^Guard Giancryst^防禦超晶石^초대형 수호의 수정^Gigacrist gardien^Wächter-Giankrist^Gigacrist guardián
+MST_ITEM_NAME_270003500^Guard Purecryst^防禦神晶石^신급 수호의 수정^Ultracrist gardien ^Wächter-Purkrist^Ultracrist guardián
+MST_ITEM_NAME_270003600^Healing Alcryst^治癒晶石^치유의 수정^Alcrist curatif ^Heilender Alkrist^Alcrist curativo
+MST_ITEM_NAME_270003700^Healing Milcryst^治癒中晶石^중형 치유의 수정^Supercrist curatif ^Heilender Milkrist^Supercrist curativo
+MST_ITEM_NAME_270003800^Healing Heavicryst^治癒大晶石^대형 치유의 수정^Mégacrist curatif^Heilender Schwerkrist^Megacrist curativo
+MST_ITEM_NAME_270003900^Healing Giancryst^治癒超晶石^초대형 치유의 수정^Gigacrist curatif^Heilender Giankrist^Gigacrist curativo
+MST_ITEM_NAME_270004000^Healing Purecryst^治癒神晶石^신급 치유의 수정^Ultracrist curatif^Heilender Purkrist^Ultracrist curativo
+MST_ITEM_NAME_270004100^Support Alcryst^支援晶石^지원의 수정^Alcrist de soutien^Unterstützungs-Alkrist^Alcrist apoyador
+MST_ITEM_NAME_270004200^Support Milcryst^支援中晶石^중형 지원의 수정^Supercrist de soutien^Unterstützungs-Milkrist^Supercrist apoyador
+MST_ITEM_NAME_270004300^Support Heavicryst^支援大晶石^대형 지원의 수정^Mégacrist de soutien^Unterstützungs-Schwerkrist^Megacrist apoyador
+MST_ITEM_NAME_270004400^Support Giancryst^支援超晶石^초대형 지원의 수정^Gigacrist de soutien^Unterstützungs-Giankrist^Gigacrist apoyador
+MST_ITEM_NAME_270004500^Support Purecryst^支援神晶石^신급 지원의 수정^Ultracrist de soutien^Unterstützungs-Purkrist^Ultracrist apoyador
+MST_ITEM_NAME_270004600^Tech Alcryst^技巧晶石^기교의 수정^Alcrist technique^Tech-Alkrist^Alcrist técnico
+MST_ITEM_NAME_270004700^Tech Milcryst^技巧中晶石^중형 기교의 수정^Supercrist technique^Tech-Milkrist^Supercrist técnico
+MST_ITEM_NAME_270004800^Tech Heavicryst^技巧大晶石^대형 기교의 수정^Mégacrist technique^Tech-Schwerkrist^Megacrist técnico
+MST_ITEM_NAME_270004900^Tech Giancryst^技巧超晶石^초대형 기교의 수정^Gigacrist technique^Tech-Giankrist^Gigacrist técnico
+MST_ITEM_NAME_270005000^Tech Purecryst^技巧神晶石^신급 기교의 수정^Ultracrist technique^Tech-Purkrist^Ultracrist técnico
+MST_ITEM_NAME_210000100^Strength Orb^力量之珠^힘의 구슬^Orbe de force ^Stärke-Orb^Orbe de fuerza
+MST_ITEM_NAME_210000200^Petrify Grenade^石化手榴彈^석화 수류탄^Grenade pétrifiante ^Versteinern-Granate^Granada pétrea
+MST_ITEM_NAME_210000300^Sleeping Powder^睡眠粉末^수면 가루^Poudre somnifère ^Schlafpuder^Polvo somnífero
+MST_ITEM_NAME_210000400^Underdog's Secret^逆轉之鑰^역전의 열쇠^Oeil du tigre^Außenseitergeheimnis^Llave de la victoria
+MST_ITEM_NAME_210000500^Blue Butterfly Powder^藍蝶鱗粉^푸른 나비의 인분^Poudre de papillon bleu^Blaues Schmetterlingspuder^Polvo de mariposa A
+MST_ITEM_NAME_210000600^Red Butterfly Powder^紅蝶鱗粉^붉은 나비의 인분^Poudre de papillon rouge ^Rotes Schmetterlingspuder^Polvo de mariposa R
+MST_ITEM_NAME_106301200^Mote^魔片^마법 파편^Gravier^Staub^Guijo
+MST_ITEM_NAME_106301800^Musical Note^音符^음표^Note de musique^Note^Nota musical
+MST_ITEM_NAME_106301900^Perfume^香水^향수^Parfum^Parfüm^Perfume
+MST_ITEM_NAME_106302000^Lipstick^口紅^립스틱^Rouge à lèvres^Lippenstift^Pintalabios
+MST_ITEM_NAME_106302100^Nail Polish^指甲油^매니큐어^Vernis à ongles^Nagellack^Esmalte de uñas
+MST_ITEM_NAME_106302200^Face Powder^蜜粉^페이스 파우더^Poudre^Puder^Maquillaje en polvo
+MST_ITEM_NAME_106302300^Hair Spray^髮膠^헤어 스프레이^Laque^Haarspray^Laca
+MST_ITEM_NAME_101001900^Chocolate^巧克力^초콜릿^Chocolat ^Schokolade^Chocolate
+MST_ITEM_NAME_101003300^Fina's Chocolate^菲娜的巧克力^피나의 초콜릿^Chocolat de Fina^Finas Schokolade^Chocolate de Fina
+MST_ITEM_NAME_106301300^Shadow Lord Coin^黑暗之王共鬥硬幣^암흑의 왕 레이드 코인^Jeton des ténèbres ^Schattenlord - Münze^Moneda tenebrosa
+MST_ITEM_NAME_106301400^White Orb^白之寶玉^하얀색 보옥^Orbe blanc^Weißes Juwel^Joya blanca
+MST_ITEM_NAME_106301500^King Mog Coin^莫古利王共鬥硬幣^모그리 왕 레이드 코인^Jeton du roi Mog ^König Mogry - Münze^Moneda de Rey Moguri
+MST_ITEM_NAME_106301600^Wind Fang^風牙^바람의 송곳니^Croc de vent^Windfang^Colmillo de viento
+MST_ITEM_NAME_106301700^collab^冥晶龍共鬥硬幣^collab^collab^collab^collab
+MST_ITEM_NAME_106301710^collab^冥晶龍感應結晶^collab^collab^collab^collab
+MST_ITEM_NAME_106302400^Candy of Memory^回憶糖果^추억의 알사탕^Bonbon du souvenir^Süße Erinnerung^Caramelo del recuerdo
+MST_ITEM_NAME_106302500^collab^四魔貴族共鬥硬幣^collab^collab^collab^collab
+MST_ITEM_NAME_106302700^1/35 Soldier^1/35神羅兵^1/35 신라병^Soldat 1/35^1/35 Soldat^Soldado 1/35
+MST_ITEM_NAME_211000100^Breath of Life^生命之息^생명의 숨결^Souffle de vie ^Elektrolader^Soplo de vida
+MST_ITEM_NAME_211000200^Twilight Stone^黃昏之石^황혼의 돌^Pierre du crépuscule ^Dämmerungsstein^Piedra del ocaso
+MST_ITEM_NAME_211000300^Dusk Jewel^宵暗寶珠^어스름의 보주^Joyau crépusculaire^Staubjuwel^Joya del atardecer
+MST_ITEM_NAME_211000400^Dark Ore^黑暗礦^암흑 광석^Minerai obscur ^Dunkelerz^Mineral oscuro
+MST_ITEM_NAME_211000500^Tranquil Stone^安逸貴石^평온함의 귀석^Pierre de la paix^Stiller Stein^Piedra de la paz
+MST_ITEM_NAME_211000600^Silver Chunk^銀之碎片^은 조각^Éclat argenté ^Silberklotz^Pedazo de plata
+MST_ITEM_NAME_211000700^Blessing Needle^祝福之針^축복의 바늘^Aiguille bénite ^Segnende Nadel^Aguja bendita
+MST_ITEM_NAME_211000800^Cursed Sphere^咒縛之玉^주박의 구슬^Sphère maudite ^Verfluchte Kugel^Esfera maldita
+MST_ITEM_NAME_211000900^Sacred Branch^神木樹枝^신목의 가지^Hameau sacré ^Heiliger Zweig^Rama sacra
+MST_ITEM_NAME_211001000^Glory Bug^榮光蟲^영광의 곤충^Insecte glorieux ^Gloriekäfer^Bicho glorioso
+MST_ITEM_NAME_211001100^Antique Bone^古代骨^고대의 뼈^Os antique ^Antiker Knochen^Hueso antiguo
+MST_ITEM_NAME_211001200^Pink Scale^桃色鱗片^분홍색 비늘^Écaille rose^Rosa Schuppe^Escama rosa
+MST_ITEM_NAME_211001300^Dawn Shell^曉蟲甲殼^새벽벌레의 갑각^Coquille de l'aube ^Dämmerungsschale^Concha del  atardecer
+MST_ITEM_NAME_211001400^Achromatic Blossom^無色花^무색의 꽃^Fleur achromatique^Farblose Blüte^Flor acromática
+MST_ITEM_NAME_212000100^White Tail^白尾^하얀 꼬리^Queue blanche ^Weißer Schwanz^Cola blanca
+MST_ITEM_NAME_212000200^Dew Blossom^白霧花^하얀 이슬꽃^Fleur de la rosée ^Taublüte^Flor del rocío
+MST_ITEM_NAME_212000300^White Metal^白色金屬^화이트 메탈^Métal blanc^Weißes Metall^Metal blanco
+MST_ITEM_NAME_212000400^White Drake's Feather^白翼龍羽毛^하얀 익룡의 날개^Plume de dragon blanc ^Feder des Weißen Drachen^Pluma de albidraco
+MST_ITEM_NAME_212000500^White Tome^白魔道書^하얀 마도서^Tome blanc ^Weißes Buch^Tomo blanco
+MST_ITEM_NAME_212000600^White Slate^白色石板^하얀 석판^Tablette blanche ^Weiße Platte^Pizarra blanca
+MST_ITEM_NAME_213000100^Blue Beast's Shell^青熊獸甲殼^collab^collab^Schale der Blauen Bestie^collab
+MST_ITEM_NAME_213000200^Blue Beast's Bone^青熊獸骨^collab^collab^Knochen der Blauen Bestie^collab
+MST_ITEM_NAME_213000300^Blue Beast's Claw^青熊獸爪^collab^collab^Kralle der Blauen Bestie^collab
+MST_ITEM_NAME_213000400^Blue Beast Piece I^青熊獸部位證I^collab^collab^Stück der Blauen Bestie I^collab
+MST_ITEM_NAME_213000500^Sea Drake's Scale^海龍鱗片^collab^collab^Schuppe des Seedrachen^collab
+MST_ITEM_NAME_213000600^Sea Drake's Bone^海龍骨^collab^collab^Knochen des Seedrachen^collab
+MST_ITEM_NAME_213000700^Sea Drake's Claw^海龍爪^collab^collab^Kralle des Seedrachen^collab
+MST_ITEM_NAME_213000800^Sea Drake Piece I^海龍部位證I^collab^collab^Stück des Seedrachen I^collab
+MST_ITEM_NAME_213000900^Rage Drake's Skin^恐暴龍皮^collab^collab^Haut des Zornesdrachen^collab
+MST_ITEM_NAME_213001000^Rage Drake's Bone^恐暴龍骨^collab^collab^Knochen des Zornesdrachen^collab
+MST_ITEM_NAME_213001100^Rage Drake's Fang^恐暴龍牙^collab^collab^Zahn des Zornesdrachen^collab
+MST_ITEM_NAME_213001200^Rage Drake Piece I^恐暴龍部位證I^collab^collab^Stück des Zornesdrachen I^collab
+MST_ITEM_NAME_213001300^Red Beast's Shell^赤甲獸甲殼^collab^collab^Schale der Roten Bestie^collab
+MST_ITEM_NAME_213001400^Red Beast's Bone^赤甲獸骨^collab^collab^Knochen der Roten Bestie^collab
+MST_ITEM_NAME_213001500^Red Beast's Claw^赤甲獸爪^collab^collab^Kralle der Roten Bestie^collab
+MST_ITEM_NAME_213001600^Wolf Drake's Bone^命狼龍骨^collab^collab^Knochen des Wolfsdrachen^collab
+MST_ITEM_NAME_213001700^Wolf Drake's Claw^命狼龍爪^collab^collab^Kralle des Wolfsdrachen^collab
+MST_ITEM_NAME_213001800^Wolf Drake's Shell^命狼龍甲殼^collab^collab^Schale des Wolfsdrachen^collab
+MST_ITEM_NAME_213001900^White Feather^白色羽毛^collab^collab^Weiße Feder^collab
+MST_ITEM_NAME_213002000^Red Feather^紅色羽毛^collab^collab^Rote Feder^collab
+MST_ITEM_NAME_214000100^Quality Sugar^高級砂糖^질 좋은 설탕^Sucre de qualité ^Hochwertiger Zucker^Azúcar de calidad
+MST_ITEM_NAME_214000200^Delicious Water^美味的水^맑은 물^Eau délicieuse ^Köstliches Wasser^Agua deliciosa
+MST_ITEM_NAME_215000100^Crimson Wing^紅魔羽翼^진홍의 날개^Aile pourpre^Purpurflügel^Ala carmesí
+MST_ITEM_NAME_215000200^Ash Scale^薄灰鱗^잿빛 비늘^Écaille cendrée^Aschenschuppe^Escama de ceniza
+MST_ITEM_NAME_215000300^Mysterious Mineral^神秘礦石^신비의 광석^Minéral mystérieux^Mysteriöses Mineral^Mineral misterioso
+MST_ITEM_NAME_215000400^Ancient Medicine^太古秘藥^태고의 비약^Ancient médicament ^Uralte Medizin^Medicina antigua
+MST_ITEM_NAME_215000500^Blessed Stone^恩惠之石^은혜의 돌^Pierre bénie ^Gesegneter Stein^Piedra bendita
+MST_ITEM_NAME_215000600^Ruin Gem^亡國寶石^망국의 보석^Gemme de la ruine ^Ruinenjuwel^Gema de la ruina
+MST_ITEM_NAME_106302600^Hair Spray^髮膠^헤어 스프레이^Laque ^Haarspray^Laca
+MST_ITEM_NAME_1209000812^Red Egg^紅蛋^붉은 달걀^Œuf rouge^Rotes Ei^Huevo rojo
+MST_ITEM_NAME_1209000813^Blue Egg^藍蛋^푸른 달걀^Œuf bleu^Blaues Ei^Huevo azul
+MST_ITEM_NAME_1209000814^Rainbow Egg^七彩蛋^무지개 달걀^Œuf arc-en-ciel^Regenbogenei^Huevo arcoíris
+MST_ITEM_NAME_1209000815^Metal Egg^金屬蛋^금속 달걀^Œuf métallique^Metallei^Huevo de metal
+MST_ITEM_NAME_1209000816^Crystal Egg of Power^力量水晶蛋^힘의 크리스탈 달걀^Cristalœuf puissant^Kristallei der Macht^Cristahuevo poderoso
+MST_ITEM_NAME_1209000817^Crystal Egg of Mind^智慧水晶蛋^지식의 크리스탈 달걀^Cristalœuf psychique^Kristallei des Geistes^Cristahuevo mental
+MST_ITEM_NAME_1209000818^Shadow Bahamut Gem^幻影龍寶石^환영 바하무트의 보석^Joyau de Bahamut obscur ^Schattenbahamut - Edelstein^Gema de S. de Bahamut
+MST_ITEM_NAME_1209000819^Shadow Bahamut Scale^幻影龍鱗片^환영 바하무트의 비늘^Écaille de Bahamut obscur ^Schattenbahamut - Schuppe^Escama de S. de Bahamut
+MST_ITEM_NAME_1209000820^Shadow Bahamut Jade^幻影龍翡翠^환영 바하무트의 비취^Jade de Bahamut obscur^Schattenbahamut - Jade^Jade de S. de Bahamut
+MST_ITEM_NAME_1209000821^Shadow Bahamut Wing^幻影龍之翼^환영 바하무트의 날개^Aile de Bahamut obscur^Schattenbahamut - Flügel^Ala de S. de Bahamut
+MST_ITEM_NAME_1209000822^Shadow Bahamut Heart^幻影龍之心^환영 바하무트의 심장^Cœur de Bahamut obscur^Schattenbahamut - Herz^Corazón de S. de Bahamut
+MST_ITEM_NAME_1209000823^Shadow Bahamuts Ore^幻影龍輝石^환영 바하무트의 휘석^Minerai de Bahamut obscur^Schattenbahamut - Erz^Mineral de S. de Bahamut
+MST_ITEM_NAME_1209000824^Shadow Bahamut Fang^幻影龍之牙^환영 바하무트의 송곳니^Croc de Bahamut obscur^Schattenbahamut - Reißzahn^Colmillo de S. de Bahamut
+MST_ITEM_NAME_1209000825^Bahamut Raid Coin^巴哈姆特共鬥硬幣^바하무트 레이드 코인^Jeton de Bahamut obscur^Schattenbahamut - Raubzugmünze^Moneda de Bahamut
+MST_ITEM_NAME_1209000826^Shard of Kelsus^凱爾蘇斯的碎片^켈서스의 조각^Éclat de Kelsus^Splitter von Kelsus^Fragmento de Kelsus
+MST_ITEM_NAME_216000700^Sealed Box^封魔之匣^봉마의 상자^Boîte scellée^Versiegelte Kiste^Caja sellada
+MST_ITEM_NAME_216000800^Crimson Wing^紅玉蟲之翼^홍옥충의 날개^Aile pourpre^Roter Flügel^Ala escarlata
+MST_ITEM_NAME_216000900^Azure Corundum^碧空鋼玉^창공의 강옥^Corindon azuré^Blauer Korund^Corindón azul
+MST_ITEM_NAME_216001000^Miasma Chunk^瘴氣凝固體^독기 덩어리^Morceau de miasme^Klumpen Miasma^Pedazo de miasma
+MST_ITEM_NAME_216001100^Aetherochemical Fiber^魔科學纖維^마과학 섬유^Rouleau de fibre éthérochimique^Ätherochemisches Gewebe^Fibra etereoquímica
+MST_ITEM_NAME_216001200^Corrupt Weed^腐壞的雜草^퇴폐의 밤풀^Herbe corrompue^Verdorbenes Kraut^Hierba ponzoñosa
+MST_ITEM_NAME_106303000^Titan Coin^土神泰坦共鬥硬幣^바위신 타이탄 레이드 코인^Jeton de Titan ^Titan-Münze^Moneda de Titán
+MST_ITEM_NAME_1209000808^Relic^古代遺產^유물^Relique ^Relikt^Reliquia
+MST_ITEM_NAME_1209000809^Random Magicite^某種魔石^무언가의 마석^Magilithe surprise^Zufälliges Maginit^Magicita sorpresa
+MST_ITEM_NAME_1209000810^Random Megacryst^某種大結晶^무언가의 대결정^Mégacristal surprise^Zufälliger Megakristall^Megacrist sorpresa
+MST_ITEM_NAME_1209000811^Random Awakening Material^某種覺醒素材^무언가의 각성 재료^Matériau d'éveil surprise^Zufällige Erweckfertigkeitenmaterialien^Material de despertar sorpresa
+MST_ITEM_NAME_1000000005^Minor Scroll of Healing^治療卷軸・小^치유의 두루마리(소)^Parchemin de soin mineur ^Kleine Schriftrolle der Heilung^Pergamino curador menor
+MST_ITEM_NAME_1000000006^Greater Scroll of Healing^治療卷軸・大^치유의 두루마리(대)^Parchemin de soin majeur ^Große Schriftrolle der Heilung^Pergamino curador mayor
+MST_ITEM_NAME_1000000007^Minor Scroll of Recovery^恢復卷軸・小^회복의 두루마리(소)^Parchemin de récupération mineur^Kleine Schriftrolle der Wiederherstellung^Pergamino recuperador menor
+MST_ITEM_NAME_1000000008^Greater Scroll of Recovery^恢復卷軸・大^회복의 두루마리(대)^Parchemin de récupération majeur^Große Schriftrolle der Wiederherstellung^Pergamino recuperador mayor
+MST_ITEM_NAME_1000000009^Protagonist Halo^主角之光^주인공의 후광^Halo du protagoniste ^Protagonist Halo^Halo del protagonista
+MST_ITEM_NAME_1000000010^Potion of Deception^迷惑治療劑^미혹의 포션^Potion de tromperie^Trank der Täuschung^Poción engañosa
+MST_ITEM_NAME_1000000011^Potion of Cleansing^淨化治療劑^정화의 포션^Potion purificatrice ^Trank der Reinigung^Poción purificadora
+MST_ITEM_NAME_1000000012^Potion of Elemental Resistance^屬性耐性治療劑^속성 저항력의 포션^Potion de résistance élémentaire^Trank der Elementarresistenz^Poción de resistencia elemental
+MST_ITEM_NAME_1000000013^Minor Potion of Rejuvenation^恢復治療劑・小^원기회복의 포션(소)^Potion de rajeunissement mineure^Kleiner Trank der Verjüngung^Poción rejuvenecedora menor
+MST_ITEM_NAME_1000000014^Potion of Rejuvenation^恢復治療劑・中^원기회복의 포션(중)^Potion de rajeunissement^Trank der Verjüngung^Poción rejuvenecedora
+MST_ITEM_NAME_1000000015^Greater Potion of Rejuvenation^恢復治療劑・大^원기회복의 포션(대)^Potion de rajeunissement majeure^Großer Trank der Verjüngung^Poción rejuvenecedora mayor
+MST_ITEM_NAME_1209000827^Random Consumable^某種消耗道具^무언가의 소모 아이템^Consommable surprise^Zufälliger Verbrauchsgegenstand^Consumible sorpresa
+MST_ITEM_NAME_1209000828^Random Megacite^某種大魔石^무언가의 대마석^Mégalithe surprise^Zufälliges Meganit^Megacita sorpresa
+MST_ITEM_NAME_1209000829^Random Milcryst^某種中晶石^무언가의 중형 수정^Supercrist surprise^Zufälliger Milkrist^Supercrist sorpresa
+MST_ITEM_NAME_1209000830^Random Heavicryst^某種大晶石^무언가의 대형 수정^Mégacrist surprise^Zufälliger Schwerkrist^Megacrist sorpresa
+MST_ITEM_NAME_1209000831^Random Giancryst^某種超晶石^무언가의 초대형 수정^Gigacrist surprise^Zufälliger Giankrist^Gigacrist sorpresa
+MST_ITEM_NAME_1106300102^Crimson Ore^深紅礦石^진홍빛 광석^Minerai pourpre ^Purpurerz^Mineral carmesí
+MST_ITEM_NAME_1209000832^Metal Gigantuar Coin^金屬巨型仙人掌硬幣^메탈 사보텐더 코인^Jeton de Méga pampinator^Metallkaktoriusmünze^Moneda de cactilión de metal
+MST_ITEM_NAME_1300000005^10+1 Summon Ticket^10+1 召喚券^10+1 소환티켓^Ticket 10+1 invocations^10+1 Beschwörungskarte^Tícket invocador 10+1
+MST_ITEM_NAME_101003400^Thank You Candy^謝禮糖果^답례 사탕^Bonbon cadeau^Dankesbonbon^Golosina de regalo
+MST_ITEM_NAME_106302800^Contest Raid Coin^大賽共鬥硬幣^콘테스트 레이드 코인^Jeton du concours^Wettkampfraubzugmünze^Moneda de torneo
+MST_ITEM_NAME_106302900^Old Coin^古代硬幣^낡은 동전^Sou ancien^Alte Münze^Moneda antigua
+MST_ITEM_NAME_106303100^Play Ticket^戲劇門票^공연 티켓^Ticket de théâtre^Spielkarte^Entrada
+MST_ITEM_NAME_106303200^Engels Raid Coin^恩格斯共鬥硬幣^엥겔스 레이드 코인^Jeton d'Engels^Engelsraubzugmünze^Moneda de Engels
+MST_ITEM_NAME_106303300^Al Bhed Primer^阿爾貝德語辭典^알베드어 사전^Manuel d'Al Bhed^Al Bhed-Wörterbuch^Diccionario albhed
+MST_ITEM_NAME_216000100^Twilight Feather^黃昏羽毛^황혼빛의 깃털^Plume du crépuscule^Dämmerungsfeder^Pluma crepuscular
+MST_ITEM_NAME_216000200^Pure Thread^純白柔線^순백의 실^Fil pur^Reiner Faden^Hilo puro
+MST_ITEM_NAME_216000300^Worn Blueprint^破損的設計圖^찢어진 설계도^Plan déchiré^Abgenutzter Entwurf^Diseño desgarrado
+MST_ITEM_NAME_216000400^Steel Bone^鋼鐵之骨^강철의 뼈^Os d'acier^Stahlknochen^Hueso metálico
+MST_ITEM_NAME_216000500^Black Oil^黑色燃液^흑연액^Huile noire^Schwarzöl^Aceite negro
+MST_ITEM_NAME_216000600^Magic Parts^魔導零件^마도 부품^Pièces magiques^Magische Teile^Partes mágicas
+MST_ITEM_NAME_217000100^Broken Circuit^損壞的迴路^망가진 회로^Circuit cassé^Kaputter Schaltkreis^Circuito roto
+MST_ITEM_NAME_217000200^Rusted Lump^生鏽碎塊^녹슨 덩어리^Amas rouillé^Rostiger Klumpen^Pila de óxido
+MST_ITEM_NAME_217000300^Titanium Alloy^鈦合金^티탄 합금^Alliage de titane^Titanmetall^Aleación de titanio
+MST_ITEM_NAME_217000400^Black Pearl^黑珍珠^흑진주^Perle noire^Schwarze Perle^Perla negra
+MST_ITEM_NAME_217000500^Meteor Light^隕石^미티어라이트^Météorite^Meteorlicht^Meteorito
+MST_ITEM_NAME_217000600^Black Box^黑盒子^블랙박스^Boîte noire^Schwarze Kiste^Caja negra
+MST_ITEM_NAME_1209000833^Hairpin^髮飾^머리 장신구^Épingle à cheveux^Haarspange^Hebilla
+MST_ITEM_NAME_1209000834^Magma Rock Fragments^岩漿石碎片^마그마 돌 조각^Morceau de magma^Magmagesteinfragmente^Fragmento de magma
+MST_ITEM_NAME_1209000835^Musical Gem^音樂寶石^뮤지컬 젬^Pierre musicale^Musikjuwel^Símbolo musical
+MST_ITEM_NAME_1209000837^Metal Gigantuar Coin^金屬巨型仙人掌硬幣^메탈 사보텐더 코인^Jeton de Méga pampinator^Metallkaktoriusmünze^Moneda de cactilión de metal
+MST_ITEM_NAME_1209000836^Lantern^燈籠^연등^Lanterne^Laterne^Farol
+MST_ITEM_NAME_1209000839^Metal Gigantuar Coin^金屬巨型仙人掌硬幣^메탈 사보텐더 코인^Jeton de Méga pampinator^Metallkaktoriusmünze^Moneda de cactilión de metal
