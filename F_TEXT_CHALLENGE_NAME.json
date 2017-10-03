@@ -2931,7 +2931,7 @@ MST_CHALLENGE_NAME_72508040^Use 2 or more limit bursts^使用至少2次極限技
 MST_CHALLENGE_NAME_72508041^No white magic^不使用「白魔法」^'백'마법을 사용하지 않고 완료^Ne pas utiliser la magie blanche^Keine Weißmagie^No uses magia blanca
 MST_CHALLENGE_NAME_72508050^Deal light damage to an enemy^對敵人造成光屬性傷害^빛속성으로 적에게 피해를 줌^Infligez des dégâts de lumière à un ennemi^Füge einem Gegner Lichtschaden zu^Inflige daño de luz a un enemigo
 MST_CHALLENGE_NAME_72508051^Evoke Siren^召喚「塞壬」^세이렌을 소환해 완료^Appelez Sirène^Rufe Sirene^Evoca a Sirena
-MST_CHALLENGE_NAME_72508070^Defeat the alpha chimera with magic^使用魔法終結「阿爾法奇美拉」^'알파 키마이라'를 마법으로 처치^Terrassez la Khimaira alpha avec la magie^Besiege die Alphachimäre mit  Magie^Derrota a la Quimera alfa con magia
+MST_CHALLENGE_NAME_72508070^Defeat the alpha chimera with magic^使用魔法終結「阿爾法奇美拉」^'알파 키마이라'를 마법으로 처치^Terrassez la Khimaira alpha avec la magie^Besiege die Alphachimäre mit Magie^Derrota a la Quimera alfa con magia
 MST_CHALLENGE_NAME_72508071^Defeat a pale leopard with a limit burst^使用極限技終結「絨須豹」^'페일 레오파드'를 LB로 처치^Terrassez un Léopâle avec une limite^Besiege einen Bleichen Leoparden mit einem Limitrausch^Derrota al Leopálido con EL
 MST_CHALLENGE_NAME_72508072^Clear all stages in the area^完成區域內全部關卡^구역 내 모든 스테이지 완료^Terminez tous les niveaux de la zone^Schließe alle Abschnitte im Gebiet ab^Completa todas las misiones del área
 MST_CHALLENGE_NAME_72509020^No items^不使用道具^아이템을 사용하지 않고 완료^Ne pas utiliser d'objets^Keine Gegenstände^No uses objetos
@@ -3030,7 +3030,7 @@ MST_CHALLENGE_NAME_16202032^Use 3 or more limit bursts^使用至少3次極限技
 MST_CHALLENGE_NAME_16202033^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_16202040^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_16202041^Deal water damage to an enemy^對敵人造成水屬性傷害^물속성으로 적에게 피해를 줌^Infligez des dégâts d'eau à un ennemi^Füge einem Gegner Wasserschaden zu^Inflige daño de agua a un enemigo
-MST_CHALLENGE_NAME_16202042^Defeat manooba with magic^使用魔法終結「冰原蟻獅」^'마누바'를 마법으로 처치^Terrassez Manooba avec la magie^Besiege Manooba mit Magie ^Derrota a la Manooba con magia
+MST_CHALLENGE_NAME_16202042^Defeat manooba with magic^使用魔法終結「冰原蟻獅」^'마누바'를 마법으로 처치^Terrassez Manooba avec la magie^Besiege Manooba mit Magie^Derrota a la Manooba con magia
 MST_CHALLENGE_NAME_16202043^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_16203010^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_16203011^No magic^不使用魔法^모든 마법을 사용하지 않고 완료^Ne pas utiliser la magie^Keine Magie^No uses magia
@@ -3341,13 +3341,13 @@ MST_CHALLENGE_NAME_90009061^Dangerous Ariana in party^隊伍中帶有「危險�
 MST_CHALLENGE_NAME_90009062^No abilities (including passive)^不使用能力 (包括被動能力)^어빌리티를 사용하지 않고 완료 (패시브 포함)^Ne pas utiliser d'aptitudes (passives incl.)^Keine Fertigkeit^No uses habilidades (pasivas incluidas)
 MST_CHALLENGE_NAME_90009063^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_899110710^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
-MST_CHALLENGE_NAME_899110711^Deal fire and ice damage to an enemy^對敵人造成火・冰屬性傷害^불·얼음속성으로 적에게 피해를 줌^Infligez des dégâts de feu et de glace ^Füge einem Gegner Eis- und Feuerschaden zu^Inflige daño de fuego y hielo a un enemigo
-MST_CHALLENGE_NAME_899110712^Use black magic^使用「黑魔法」^'흑'마법을 사용해 완료^Utilisez la magie noire ^Benutze Schwarzmagie^Usa magia negra
-MST_CHALLENGE_NAME_899110713^No items^不使用道具^아이템을 사용하지 않고 완료^Terminez sans utiliser d'objet ^Keine Gegenstände^No uses objetos
+MST_CHALLENGE_NAME_899110711^Deal fire and ice damage to an enemy^對敵人造成火・冰屬性傷害^불·얼음속성으로 적에게 피해를 줌^Infligez des dégâts de feu et de glace^Füge einem Gegner Eis- und Feuerschaden zu^Inflige daño de fuego y hielo a un enemigo
+MST_CHALLENGE_NAME_899110712^Use black magic^使用「黑魔法」^'흑'마법을 사용해 완료^Utilisez la magie noire^Benutze Schwarzmagie^Usa magia negra
+MST_CHALLENGE_NAME_899110713^No items^不使用道具^아이템을 사용하지 않고 완료^Terminez sans utiliser d'objet^Keine Gegenstände^No uses objetos
 MST_CHALLENGE_NAME_899110720^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_899110721^Deal dark damage to an enemy^對敵人造成暗屬性傷害^어둠속성으로 적에게 피해를 줌^Infligez des dégâts de ténèbres^Füge einem Gegner Dunkelschaden zu^Inflige daño oscuro a un enemigo
-MST_CHALLENGE_NAME_899110722^Use green magic^使用「綠魔法」^'녹'마법을 사용해 완료^Utilisez la magie verte ^Benutze Grünmagie^Usa magia verde
-MST_CHALLENGE_NAME_899110723^Evoke an esper^召喚幻獸^환수를 소환해 완료^Appelez une chimère ^Rufe einen Esper^Evoca a un esper
+MST_CHALLENGE_NAME_899110722^Use green magic^使用「綠魔法」^'녹'마법을 사용해 완료^Utilisez la magie verte^Benutze Grünmagie^Usa magia verde
+MST_CHALLENGE_NAME_899110723^Evoke an esper^召喚幻獸^환수를 소환해 완료^Appelez une chimère^Rufe einen Esper^Evoca a un esper
 MST_CHALLENGE_NAME_21105010^Complete the Quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_21105011^No limit bursts^不使用極限技^LB를 사용하지 않고 완료^Ne pas utiliser de limite^Kein Limitrausch^No uses Estallido Límite
 MST_CHALLENGE_NAME_21105012^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
@@ -4436,7 +4436,7 @@ MST_CHALLENGE_NAME_72902021^Clear without an ally being KO'd^戰鬥時無隊員�
 MST_CHALLENGE_NAME_72902030^No black magic^不使用「黑魔法」^'흑'마법을 사용하지 않고 완료^Ne pas utiliser la magie noire^Keine Schwarzmagie^No uses magia negra
 MST_CHALLENGE_NAME_72902031^No espers^不使用召喚幻獸^환수를 소환하지 않고 완료^Ne pas utiliser de chimères^Keine Esper^No uses espers
 MST_CHALLENGE_NAME_72902050^No items^不使用道具^아이템을 사용하지 않고 완료^Ne pas utiliser d'objets^Keine Gegenstände^No uses objetos
-MST_CHALLENGE_NAME_72902051^Defeat the gigas worm with magic^使用魔法終結「巨型蠕蟲」^'기가스 지렁이'를 마법으로 처치^Terrassez l'Ascaride avec de la magie ^Besiege den Gigas-Wurm mit Magie^Derrota al gusano gigas con magia
+MST_CHALLENGE_NAME_72902051^Defeat the gigas worm with magic^使用魔法終結「巨型蠕蟲」^'기가스 지렁이'를 마법으로 처치^Terrassez l'Ascaride avec de la magie^Besiege den Gigas-Wurm mit Magie^Derrota al gusano gigas con magia
 MST_CHALLENGE_NAME_72902060^No items^不使用道具^아이템을 사용하지 않고 완료^Ne pas utiliser d'objets^Keine Gegenstände^No uses objetos
 MST_CHALLENGE_NAME_72902061^No green magic^不使用「綠魔法」^'녹'마법을 사용하지 않고 완료^Ne pas utiliser la magie verte^Keine Grünmagie^No uses magia verde
 MST_CHALLENGE_NAME_72902080^No items^不使用道具^아이템을 사용하지 않고 완료^Ne pas utiliser d'objets^Keine Gegenstände^No uses objetos
@@ -4725,7 +4725,7 @@ MST_CHALLENGE_NAME_74604041^No continues^戰鬥時無全軍覆沒^이어하기 �
 MST_CHALLENGE_NAME_74604050^No espers^不使用召喚幻獸^환수를 소환하지 않고 완료^Ne pas utiliser de chimères^Keine Esper^No uses espers
 MST_CHALLENGE_NAME_74604051^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_74604060^Use black magic^使用「黑魔法」^'흑'마법을 사용해 완료^Utilisez la magie noire^Benutze Schwarzmagie^Usa magia negra
-MST_CHALLENGE_NAME_74604061^Defeat the omnibaras with a limit burst^使用極限技終結「空腹惡魔」^'옴니바라스'를 LB로 처치^Terrassez l'Omnibaras avec une limite ^Besiege Omnibaras mit einem Limitrausch^Derrota al omnibaras con un EL
+MST_CHALLENGE_NAME_74604061^Defeat the omnibaras with a limit burst^使用極限技終結「空腹惡魔」^'옴니바라스'를 LB로 처치^Terrassez l'Omnibaras avec une limite^Besiege Omnibaras mit einem Limitrausch^Derrota al omnibaras con un EL
 MST_CHALLENGE_NAME_74604062^Clear all stages in the area^完成區域內全部關卡^구역 내 모든 스테이지 완료^Terminez tous les niveaux de la zone^Schließe alle Abschnitte des Gebietes ab^Completa todas las misiones del área
 MST_CHALLENGE_NAME_74605020^No items^不使用道具^아이템을 사용하지 않고 완료^Ne pas utiliser d'objets^Keine Gegenstände^No uses objetos
 MST_CHALLENGE_NAME_74605021^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab, ohne dass ein Verbündeter kampfunfähig wird^Ningún aliado ha quedado K.O.
@@ -4762,24 +4762,24 @@ MST_CHALLENGE_NAME_74607061^Defeat shemhaza with a limit burst^使用極限技�
 MST_CHALLENGE_NAME_74607062^Clear all stages in the area^完成區域內全部關卡^구역 내 모든 스테이지 완료^Terminez tous les niveaux de la zone^Schließe alle Abschnitte des Gebietes ab^Completa todas las misiones del área
 MST_CHALLENGE_NAME_74608020^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab, ohne dass ein Verbündeter kampfunfähig wird^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_74608021^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
-MST_CHALLENGE_NAME_74608030^Deal ice and light damage to an enemy^對敵人造成冰・光屬性傷害^얼음·빛속성으로 적에게 피해를 줌^Inflige des dégâts de glace et de lumière à un ennemi ^Füge einem Gegner Eis- und Lichtschaden zu^Inflige daño de hielo y luz a un enemigo
+MST_CHALLENGE_NAME_74608030^Deal ice and light damage to an enemy^對敵人造成冰・光屬性傷害^얼음·빛속성으로 적에게 피해를 줌^Inflige des dégâts de glace et de lumière à un ennemi^Füge einem Gegner Eis- und Lichtschaden zu^Inflige daño de hielo y luz a un enemigo
 MST_CHALLENGE_NAME_74608031^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_74608040^Use white magic^使用「白魔法」^'백'마법을 사용해 완료^Utilisez la magie blanche^Benutze Weißmagie^Usa magia blanca
 MST_CHALLENGE_NAME_74608041^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_74608050^Evoke Tetra Sylphid^召喚「四方風精靈」^테트라 실피드를 소환하여 완료^Appelez Tétra-Sylphides^Rufe Tetra Sylphid^Evoca a Tetra Sílfide
 MST_CHALLENGE_NAME_74608051^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_74608070^No items^不使用道具^아이템을 사용하지 않고 완료^Ne pas utiliser d'objets^Keine Gegenstände^No uses objetos
-MST_CHALLENGE_NAME_74608071^Defeat oriax with a limit burst^使用極限技終結「奧利亞科斯」^'오리악스'를 LB로 처치^Terrassez Oriax avec une limite ^Besiege Oriax mit einem Limitrausch^Derrota al oriax con un EL
+MST_CHALLENGE_NAME_74608071^Defeat oriax with a limit burst^使用極限技終結「奧利亞科斯」^'오리악스'를 LB로 처치^Terrassez Oriax avec une limite^Besiege Oriax mit einem Limitrausch^Derrota al oriax con un EL
 MST_CHALLENGE_NAME_74608072^Clear all stages in the area^完成區域內全部關卡^구역 내 모든 스테이지 완료^Terminez tous les niveaux de la zone^Schließe alle Abschnitte des Gebietes ab^Completa todas las misiones del área
 MST_CHALLENGE_NAME_74609020^No items^不使用道具^아이템을 사용하지 않고 완료^Ne pas utiliser d'objets^Keine Gegenstände^No uses objetos
 MST_CHALLENGE_NAME_74609021^No magic^不使用魔法^모든 마법을 사용하지 않고 완료^Ne pas utiliser la magie^Keine Magie^No uses magia
 MST_CHALLENGE_NAME_74609030^Deal wind damage to an enemy 3 times or more^對敵人造成至少3次風屬性傷害^바람속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de vent à un ennemi à 3 reprises ou plus^Füge einem Gegner drei Mal oder mehr Windschaden zu^Inflige daño de viento a un enemigo 3 veces o más
 MST_CHALLENGE_NAME_74609031^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
-MST_CHALLENGE_NAME_74609040^Deal ice and light damage to an enemy^對敵人造成冰・光屬性傷害^얼음·빛속성으로 적에게 피해를 줌^Inflige des dégâts de glace et de lumière à un ennemi ^Füge einem Gegner Eis- und Lichtschaden zu^Inflige daño de hielo y luz a un enemigo
+MST_CHALLENGE_NAME_74609040^Deal ice and light damage to an enemy^對敵人造成冰・光屬性傷害^얼음·빛속성으로 적에게 피해를 줌^Inflige des dégâts de glace et de lumière à un ennemi^Füge einem Gegner Eis- und Lichtschaden zu^Inflige daño de hielo y luz a un enemigo
 MST_CHALLENGE_NAME_74609041^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_74609050^Use 2 or more limit bursts^使用至少2次極限技^LB를 2회 이상 사용^Utilisez 2 limites ou plus^Benutze mind. 2 Mal einen Limitrausch^Usa 2 Estallidos Límite o más
 MST_CHALLENGE_NAME_74609051^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
-MST_CHALLENGE_NAME_74609060^Defeat a red roper with magic^使用魔法終結「紅色觸手妖」^'붉은 밧줄잡이'를 마법으로 처치^Terrassez un Rampant rouge avec de la magie ^Besiege einen Roter Roper mit Magie^Derrota a un atador rojo con magia
+MST_CHALLENGE_NAME_74609060^Defeat a red roper with magic^使用魔法終結「紅色觸手妖」^'붉은 밧줄잡이'를 마법으로 처치^Terrassez un Rampant rouge avec de la magie^Besiege einen Roter Roper mit Magie^Derrota a un atador rojo con magia
 MST_CHALLENGE_NAME_74609061^Use 4 or less items^使用道具次數在4次以內^아이템 사용 횟수 4회 이내^Utilisez 4 objets ou moins^Nutze 4 oder weniger Gegenstände^Usa 4 objetos o menos
 MST_CHALLENGE_NAME_74609062^Clear all stages in the area^完成區域內全部關卡^구역 내 모든 스테이지 완료^Terminez tous les niveaux de la zone^Schließe alle Abschnitte des Gebietes ab^Completa todas las misiones del área
 MST_CHALLENGE_NAME_74610020^No items^不使用道具^아이템을 사용하지 않고 완료^Ne pas utiliser d'objets^Keine Gegenstände^No uses objetos
@@ -4820,7 +4820,7 @@ MST_CHALLENGE_NAME_89940023^Party of 5 or less (Companion included)^隊伍人數
 MST_CHALLENGE_NAME_89940030^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_89940031^Evoke an esper^召喚幻獸^환수를 소환해 완료^Appelez une chimère^Rufe einen Esper^Evoca a un esper
 MST_CHALLENGE_NAME_89940032^No items^不使用道具^아이템을 사용하지 않고 완료^Ne pas utiliser d'objets^Keine Gegenstände^No uses objetos
-MST_CHALLENGE_NAME_89940033^Deal ice, earth, light, and dark damage to an enemy^對敵人造成冰・土・暗屬性傷害^얼음·땅·빛·어둠속성으로 피해를 줌^Inflige des dégâts de glace, de terre, de lumière et de ténèbres à un ennemi ^Füge einem Gegner Eis-, Erd-, Licht- und Dunkelschaden zu^Inflige daño de hielo, tierra, luz y oscuridad a un enemigo
+MST_CHALLENGE_NAME_89940033^Deal ice, earth, light, and dark damage to an enemy^對敵人造成冰・土・暗屬性傷害^얼음·땅·빛·어둠속성으로 피해를 줌^Inflige des dégâts de glace, de terre, de lumière et de ténèbres à un ennemi^Füge einem Gegner Eis-, Erd-, Licht- und Dunkelschaden zu^Inflige daño de hielo, tierra, luz y oscuridad a un enemigo
 MST_CHALLENGE_NAME_111101010^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_111101011^No items^不使用道具^아이템을 사용하지 않고 완료^Ne pas utiliser d'objets^Keine Gegenstände^No uses objetos
 MST_CHALLENGE_NAME_111101012^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab, ohne dass ein Verbündeter kampfunfähig wird^Ningún aliado ha quedado K.O.
@@ -5090,7 +5090,7 @@ MST_CHALLENGE_NAME_75010030^No recovery magic^不使用「恢復魔法」^'회�
 MST_CHALLENGE_NAME_75010031^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_75010040^Use magic 3 or more times^使用至少3次魔法^마법을 3회 이상 사용^Utilisez la magie 3 fois ou plus^Benutze mind. 3 Mal Magie^Usa magia 3 veces o más
 MST_CHALLENGE_NAME_75010041^Use 2 or more limit bursts^使用至少2次極限技^LB를 2회 이상 사용^Utilisez 2 limites ou plus^Benutze mind. 2 Mal einen Limitrausch^Usa 2 Estallidos Límite o más
-MST_CHALLENGE_NAME_75010050^Deal ice damage to an enemy 4 times or more^對敵人造成至少4次冰屬性傷害^얼음속성으로 4회 이상 적에게 피해를 줌^Infligez des dégâts de glace à un ennemi à 4 reprises ou plus ^Füge einem Gegner 4 Mal oder mehr Eisschaden zu^Inflige daño de hielo a un enemigo 4 veces o más
+MST_CHALLENGE_NAME_75010050^Deal ice damage to an enemy 4 times or more^對敵人造成至少4次冰屬性傷害^얼음속성으로 4회 이상 적에게 피해를 줌^Infligez des dégâts de glace à un ennemi à 4 reprises ou plus^Füge einem Gegner 4 Mal oder mehr Eisschaden zu^Inflige daño de hielo a un enemigo 4 veces o más
 MST_CHALLENGE_NAME_75010051^No items^不使用道具^아이템을 사용하지 않고 완료^Ne pas utiliser d'objets^Keine Gegenstände^No uses objetos
 MST_CHALLENGE_NAME_75010060^Defeat the leanan-sidhe with an esper^使用幻獸終結「里南希」^'랴논시'를 환수로 처치^Terrassez le Leanan-Sidhe avec une chimère^Besiege den Leanan-Sid mit einem Esper^Derrota a leanan-sidhe con un esper
 MST_CHALLENGE_NAME_75010061^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
@@ -5101,7 +5101,7 @@ MST_CHALLENGE_NAME_112106012^Clear without an ally being KO'd^戰鬥時無隊員
 MST_CHALLENGE_NAME_112106013^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_112106020^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_112106021^No limit bursts^不使用極限技^LB를 사용하지 않고 완료^Ne pas utiliser de limite^Kein Limitrausch^No uses Estallido Límite
-MST_CHALLENGE_NAME_112106022^Use magic 2 or more times^使用至少2次魔法^마법을 2회 이상 사용^Utilisez la magie à 2 reprises ou plus ^Benutze mind. 2 Mal Magie^Usa magia 2 veces o más
+MST_CHALLENGE_NAME_112106022^Use magic 2 or more times^使用至少2次魔法^마법을 2회 이상 사용^Utilisez la magie à 2 reprises ou plus^Benutze mind. 2 Mal Magie^Usa magia 2 veces o más
 MST_CHALLENGE_NAME_112106023^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_112106030^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_112106031^Use black magic^使用「黑魔法」^'흑'마법을 사용해 완료^Utilisez la magie noire^Benutze Schwarzmagie^Usa magia negra
@@ -5269,7 +5269,7 @@ MST_CHALLENGE_NAME_75502022^No continues^戰鬥時無全軍覆沒^이어하기 �
 MST_CHALLENGE_NAME_75502030^Use white magic^使用「白魔法」^'백'마법을 사용해 완료^Utilisez la magie blanche^Benutze Weißmagie^Usa magia blanca
 MST_CHALLENGE_NAME_75502031^No items^不使用道具^아이템을 사용하지 않고 완료^Ne pas utiliser d'objets^Keine Gegenstände^No uses objetos
 MST_CHALLENGE_NAME_75502032^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
-MST_CHALLENGE_NAME_75502040^Use magic 2 or more times^使用至少2次魔法^마법을 2회 이상 사용^Utilisez la magie à 2 reprises ou plus ^Benutze mind. 2 Mal Magie^Usa magia 2 veces o más
+MST_CHALLENGE_NAME_75502040^Use magic 2 or more times^使用至少2次魔法^마법을 2회 이상 사용^Utilisez la magie à 2 reprises ou plus^Benutze mind. 2 Mal Magie^Usa magia 2 veces o más
 MST_CHALLENGE_NAME_75502041^No espers^不使用召喚幻獸^환수를 소환하지 않고 완료^Ne pas utiliser de chimères^Keine Esper^No uses espers
 MST_CHALLENGE_NAME_75502042^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_75502050^Use black magic^使用「黑魔法」^'흑'마법을 사용해 완료^Utilisez la magie noire^Benutze Schwarzmagie^Usa magia negra
@@ -5788,7 +5788,7 @@ MST_CHALLENGE_NAME_76009050^Evoke Lakshmi^召喚「吉祥天女」^락슈미를 
 MST_CHALLENGE_NAME_76009051^No limit bursts^不使用極限技^LB를 사용하지 않고 완료^Ne pas utiliser de limite^Kein Limitrausch^No uses Estallido Límite
 MST_CHALLENGE_NAME_76009052^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_76009060^Deal fire and light damage^對敵人造成火・光屬性傷害^불·빛속성으로 적에게 피해를 줌^Infligez des dégâts de feu et de lumière^Füge Feuer- und Lichtschaden zu^Inflige daño de fuego y luz
-MST_CHALLENGE_NAME_76009061^Use 3 or more items^使用道具次數在3次以內^아이템 사용 횟수 3회 이내^Utilisez 3 objets ou plus ^Benutze mindestens 3 Gegenstände^Usa 3 objetos o más
+MST_CHALLENGE_NAME_76009061^Use 3 or more items^使用道具次數在3次以內^아이템 사용 횟수 3회 이내^Utilisez 3 objets ou plus^Benutze mindestens 3 Gegenstände^Usa 3 objetos o más
 MST_CHALLENGE_NAME_76009062^Defeat addax with a limit burst^使用極限技終結「雙角尾龍」^'아닥스'를 LB로 처치^Terrassez Addax avec une limite^Besiege Addax mit einem Limitrausch^Derrota a addax con un EL
 MST_CHALLENGE_NAME_76009063^Clear all stages in the area^完成區域內全部關卡^구역 내 모든 스테이지 완료^Terminez tous les niveaux de la zone^Schließe alle Abschnitte des Gebietes ab^Completa todas las misiones del área
 MST_CHALLENGE_NAME_76010020^Deal fire damage to an enemy 2 times or more^對敵人造成至少3次火屬性傷害^불속성으로 2회 이상 적에게 피해를 줌^Infligez des dégâts de feu à un ennemi à 2 reprises ou plus^Füge einem Gegner mindesten zweimal Feuerschaden zu.^Inflige daño de fuego a un enemigo 2 veces o más
@@ -5860,7 +5860,7 @@ MST_CHALLENGE_NAME_90018021^Deal fire damage to an enemy^對敵人造成火屬�
 MST_CHALLENGE_NAME_90018022^No limit bursts^不使用極限技^LB를 사용하지 않고 완료^Ne pas utiliser de limite^Kein Limitrausch^No uses Estallido Límite
 MST_CHALLENGE_NAME_90018023^Clear without an ally being KO^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_90018030^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
-MST_CHALLENGE_NAME_90018031^Deal fire and ice damage to an enemy^對敵人造成火・冰屬性傷害^불·얼음속성으로 적에게 피해를 줌^Infligez des dégâts de feu et de glace ^Füge einem Gegner Eis- und Feuerschaden zu^Inflige daño de fuego y hielo a un enemigo
+MST_CHALLENGE_NAME_90018031^Deal fire and ice damage to an enemy^對敵人造成火・冰屬性傷害^불·얼음속성으로 적에게 피해를 줌^Infligez des dégâts de feu et de glace^Füge einem Gegner Eis- und Feuerschaden zu^Inflige daño de fuego y hielo a un enemigo
 MST_CHALLENGE_NAME_90018032^No Item^不使用道具^아이템을 사용하지 않고 완료^Ne pas utiliser d'objets^Keine Gegenstände^No uses objetos
 MST_CHALLENGE_NAME_90018033^Clear without an ally being KO^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_90018040^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión

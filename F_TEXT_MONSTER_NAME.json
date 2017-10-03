@@ -4183,11 +4183,11 @@ MST_MONSTER_NAME_104051002^Imp^小魔精^임프^Diablotin^Galchimäsera^Diablejo
 MST_MONSTER_NAME_104051003^Imp^小魔精^임프^Diablotin^Galchimäsera^Diablejo
 MST_MONSTER_NAME_104051004^Imp^小魔精^임프^Diablotin^Galchimäsera^Diablejo
 MST_MONSTER_NAME_104051005^Imp^小魔精^임프^Diablotin^Galchimäsera^Diablejo
-MST_MONSTER_NAME_205611000^Numb Blade^流浪武士^스로닌^Ronin^Taubklinge^Hoja entumecida
-MST_MONSTER_NAME_205611001^Numb Blade^流浪武士^스로닌^Ronin^Taubklinge^Hoja entumecida
-MST_MONSTER_NAME_205611002^Numb Blade^流浪武士^스로닌^Ronin^Taubklinge^Hoja entumecida
-MST_MONSTER_NAME_205611003^Numb Blade^流浪武士^스로닌^Ronin^Taubklinge^Hoja entumecida
-MST_MONSTER_NAME_205611004^Numb Blade^流浪武士^스로닌^Ronin^Taubklinge^Hoja entumecida
+MST_MONSTER_NAME_205611000^Ronin^流浪武士^스로닌^Ronin^Taubklinge^Hoja entumecida
+MST_MONSTER_NAME_205611001^Ronin^流浪武士^스로닌^Ronin^Taubklinge^Hoja entumecida
+MST_MONSTER_NAME_205611002^Ronin^流浪武士^스로닌^Ronin^Taubklinge^Hoja entumecida
+MST_MONSTER_NAME_205611003^Ronin^流浪武士^스로닌^Ronin^Taubklinge^Hoja entumecida
+MST_MONSTER_NAME_205611004^Ronin^流浪武士^스로닌^Ronin^Taubklinge^Hoja entumecida
 MST_MONSTER_NAME_209061000^Tarantula^狼蛛^타란툴라^Tarentule^Tarantel^Tarántula
 MST_MONSTER_NAME_209061001^Tarantula^狼蛛^타란툴라^Tarentule^Tarantel^Tarántula
 MST_MONSTER_NAME_209061002^Tarantula^狼蛛^타란툴라^Tarentule^Tarantel^Tarántula
@@ -4200,10 +4200,10 @@ MST_MONSTER_NAME_201151000^Elder Coeurl^上古長鬚豹^엘더 커얼^Cœurl aî
 MST_MONSTER_NAME_205621000^Yojimbo^保鑣^요짐보^Yojimbo^Yojimbo^Yojimbo
 MST_MONSTER_NAME_203091006^Flan^軟糊怪^푸딩^Flan^Pudding^Flan
 MST_MONSTER_NAME_104051006^Imp^小魔精^임프^Diablotin^Galchimäsera^Diablejo
-MST_MONSTER_NAME_205611005^Numb Blade^流浪武士^스로닌^Ronin^Taubklinge^Hoja entumecida
+MST_MONSTER_NAME_205611005^Ronin^流浪武士^스로닌^Ronin^Taubklinge^Hoja entumecida
 MST_MONSTER_NAME_203091007^Flan^軟糊怪^푸딩^Flan^Pudding^Flan
 MST_MONSTER_NAME_104051007^Imp^小魔精^임프^Diablotin^Galchimäsera^Diablejo
-MST_MONSTER_NAME_205611006^Numb Blade^流浪武士^스로닌^Ronin^Taubklinge^Hoja entumecida
+MST_MONSTER_NAME_205611006^Ronin^流浪武士^스로닌^Ronin^Taubklinge^Hoja entumecida
 MST_MONSTER_NAME_209061010^Tarantula^狼蛛^타란툴라^Tarentule^Tarantel^Tarántula
 MST_MONSTER_NAME_304131003^Arachne^阿剌克涅^아라크네^Arachné^Arachne^Aracnolia
 MST_MONSTER_NAME_412021000^Ariadne^阿麗雅德妮^아리아드네^Ariadne^Ariadne^Ariadna
@@ -4809,3 +4809,8 @@ MST_MONSTER_NAME_900010335^Mini Dragon^迷你龍^미니 드래곤^Mini dragon^Mi
 MST_MONSTER_NAME_900010336^Greater Mantis^大螳螂^울부짖는 사마귀^Mante géante^Riesenmantis^Mantis suprema
 MST_MONSTER_NAME_900010337^Cobalt Frog^鈷藍巨蛙^코발트 개구리^Grenouille de Cobalt^Kobaltfrosch^Rana de cobalto
 MST_MONSTER_NAME_900010338^Adamantoise^堅鋼玳瑁龜^금강거북^Adamankhélone^Adaman Taimai^Adamantaimai
+MST_MONSTER_NAME_106002934^Searcher^偵察眼^정찰 로봇^Tête chercheuse^Sucher^Rastreador
+MST_MONSTER_NAME_101024934^Worgen^魔狼^와르그^Loup féroce^Isegrim^Lobo warg
+MST_MONSTER_NAME_103012933^Yellow Jelly^黃色膠質怪^노란 젤리^Flan jaune^Eitergelee^Gelatina amarilla
+MST_MONSTER_NAME_101023933^Wild Nakk^野狼^사나운 늑대^Nakk sauvage^Wildhund^Nakk salvaje
+MST_MONSTER_NAME_101002934^Stunner^強襲鼠^스터너^Rat enragé^Narko-Ratte^Abrebocas
