@@ -735,15 +735,15 @@ MST_MONSTERDICTIONARY_NAME_1010360^Devil Bunny^魔鬼兔^악마 토끼^Lapin dé
 MST_MONSTERDICTIONARY_NAME_2010450^Angry Jade^憤怒翡翠^분노의 경옥^Jade enragée^Zank^Jade enojado
 MST_MONSTERDICTIONARY_NAME_1020160^Pyrolisk^魔雞獸^파이로리스크^Pyrolisk^Pyrolisk^Pirolisco
 MST_MONSTERDICTIONARY_NAME_2020240^Flash Bird^閃光鳥^플래시 버드^Oiseau clignotant^Blitzvogel^Pájaro destellado
-MST_MONSTERDICTIONARY_NAME_3052010^Galas of the Omicron Star^十五鬥星伽拉斯^십오성투사 갈라스^Galas de l'étoile Omicron^15 Sternegalas^Galas de la estrella Omicrón
+MST_MONSTERDICTIONARY_NAME_3052010^Galas of the Omicron Star^十五鬥星伽拉斯^십오성투사 갈라스^Galas de l'étoile Omicron^Omicron-Stern-Galas^Galas de la estrella Omicrón
 MST_MONSTERDICTIONARY_NAME_2030910^Flan^軟糊怪^푸딩^Flan^Pudding^Flan
-MST_MONSTERDICTIONARY_NAME_1040510^Imp^小魔精^임프^Diablotin^Galchimäsera^Diablejo
-MST_MONSTERDICTIONARY_NAME_2056110^Numb Blade^流浪武士^스로닌^Ronin^Taubklinge^Hoja entumecida
+MST_MONSTERDICTIONARY_NAME_1040510^Imp^小魔精^임프^Diablotin^Imp^Diablejo
+MST_MONSTERDICTIONARY_NAME_2056110^Ronin^流浪武士^스로닌^Ronin^Ronin^Hoja entumecida
 MST_MONSTERDICTIONARY_NAME_2090610^Tarantula^狼蛛^타란툴라^Tarentule^Tarantel^Tarántula
 MST_MONSTERDICTIONARY_NAME_3041310^Arachne^阿剌克涅^아라크네^Arachné^Arachne^Aracnolia
 MST_MONSTERDICTIONARY_NAME_2041510^Mindflayer^奪心魔^마인드플레어^Flagelleur mental^Gedankenschinder^Rompementes
-MST_MONSTERDICTIONARY_NAME_2011510^Elder Coeurl^上古長鬚豹^엘더 커얼^Cœurl aîné^Alter Quahl^Bengal gris
-MST_MONSTERDICTIONARY_NAME_2056210^Yojimbo^保鑣^요짐보^Yojimbo^Yojimbo^Yojimbo
+MST_MONSTERDICTIONARY_NAME_2011510^Elder Coeurl^上古長鬚豹^엘더 커얼^Cœurl aîné^Graubart-Coeurl^Bengal gris
+MST_MONSTERDICTIONARY_NAME_2056210^Yojimbo^保鑣^요짐보^Yojimbo^Yojinbo^Yojimbo
 MST_MONSTERDICTIONARY_NAME_4120210^Ariadne^阿麗雅德妮^아리아드네^Ariadne^Ariadne^Ariadna
 MST_MONSTERDICTIONARY_NAME_4070120^Evil Drake^惡魔龍^악마룡^Dragon maléfique^Böser Drache^Pato malicioso
 MST_MONSTERDICTIONARY_NAME_2110340^Dionaea^捕蠅草^파리지옥^Dionaea^Dionaea^Dionaea
@@ -761,7 +761,7 @@ MST_MONSTERDICTIONARY_NAME_3010340^Ruvantoru^魯邦多盧^루반토르^Ruvantoru
 MST_MONSTERDICTIONARY_NAME_2010880^Cuerno^克凱爾諾^쿠에르노^Cuerno^Cuerno^Cuerno
 MST_MONSTERDICTIONARY_NAME_3010060^Dhorme Chimera^多爾姆奇美拉^돔 키마이라^Khimaira Dhorme^Dhorme-Chimäre^Quimera Dhorme
 MST_MONSTERDICTIONARY_NAME_1051230^Aldore Jailer^阿爾多爾看守^알도르 간수^Geôlier d'Aldore^Aldore-Wärter^Carcelero de Aldore
-MST_MONSTERDICTIONARY_NAME_3052110^Hyoh of the Delta Star^四鬥星獵豹^사성투사 효우^Hyoh de l'étoile Delta^Vier Sterne Hyou^Hyou de la estrella Delta
+MST_MONSTERDICTIONARY_NAME_3052110^Hyoh of the Delta Star^四鬥星獵豹^사성투사 효우^Hyoh de l'étoile Delta^Delta-Stern-Hyou^Hyou de la estrella Delta
 MST_MONSTERDICTIONARY_NAME_1051610^Zorn^佐恩^존^Pile^Zorn^Ton
 MST_MONSTERDICTIONARY_NAME_1051710^Thorn^佐恩^손^Face^Dorn^Son
 MST_MONSTERDICTIONARY_NAME_2011610^Bandersnatch^斑攫獸^밴더스내치^Bandsnatch^Bandersnatch^Zamarrajo
@@ -788,9 +788,9 @@ MST_MONSTERDICTIONARY_NAME_2070170^Guanlong^古龍^구안롱^Guanlong^Guanlong^G
 MST_MONSTERDICTIONARY_NAME_1050480^Legion^軍團兵^레기온^Légion^Legion^Legión
 MST_MONSTERDICTIONARY_NAME_2010860^Addax^雙角尾龍^아닥스^Addax^Addax^Addax
 MST_MONSTERDICTIONARY_NAME_2040070^Murmur^姆爾姆斯^무르무르^Murmur^Murmur^Murmur
-MST_MONSTERDICTIONARY_NAME_4061110^Elnath^艾魯那特^엘나스^Elnath^Elnato^Elnath
-MST_MONSTERDICTIONARY_NAME_4061120^Elnath - Right Arm^艾魯那特·右臂^엘나스·오른팔^Elnath - Bras droit^Elnato - Rechter Arm^Elnath - Brazo derecho
-MST_MONSTERDICTIONARY_NAME_4061130^Elnath - Left Arm^艾魯那特·左臂^엘나스·왼팔^Elnath - Bras gauche^Elnato - Linker Arm^Elnath - Brazo izquierdo
+MST_MONSTERDICTIONARY_NAME_4061110^Elnath^艾魯那特^엘나스^Elnath^Elnath^Elnath
+MST_MONSTERDICTIONARY_NAME_4061120^Elnath - Right Arm^艾魯那特·右臂^엘나스·오른팔^Elnath - Bras droit^Elnath - Rechter Arm^Elnath - Brazo derecho
+MST_MONSTERDICTIONARY_NAME_4061130^Elnath - Left Arm^艾魯那特·左臂^엘나스·왼팔^Elnath - Bras gauche^Elnath - Linker Arm^Elnath - Brazo izquierdo
 MST_MONSTERDICTIONARY_NAME_1010280^Lindbur Wolf^迅狼^린블 울프^Ouargue d'élite^Lindburwolf^Rimburg
 MST_MONSTERDICTIONARY_NAME_2010050^Soilmodar^索爾摩達^소일모다^Soilmodar^Soilmodar^Soilmodar
 MST_MONSTERDICTIONARY_NAME_2010770^Rishyasringa^鹿角仙馬^리쉬야슈링가^Rishyasringa^Rishyasringa^Rishyasringa
@@ -817,10 +817,10 @@ MST_MONSTERDICTIONARY_NAME_2030110^Adamanfold^堅鋼福德龜^아다만폴드^Ad
 MST_MONSTERDICTIONARY_NAME_1030180^Gray Ooze^灰軟泥^회색 연니^Aspic Gris^Blauschleim^Lodo gris
 MST_MONSTERDICTIONARY_NAME_1020080^Downer Bat^鎮靜蝙蝠^앉은뱅이 박쥐^Noctule-déprimant^Miesfledermaus^Murciélago bajuno
 MST_MONSTERDICTIONARY_NAME_2030470^Purple Seahorse^紫色海馬^보라색 해마^Hippocampe violet^Violettes Seepferdchen^Caballito de mar púrpura
-MST_MONSTERDICTIONARY_NAME_3052210^Mid of the Theta Star^八鬥星米德^팔성투사 미드^Mid de l'étoile Thêta^8 Sterne-Mido^Mid de la estrella Zheta
+MST_MONSTERDICTIONARY_NAME_3052210^Mid of the Theta Star^八鬥星米德^팔성투사 미드^Mid de l'étoile Thêta^Theta-Stern-Mid^Mid de la estrella Zheta
 MST_MONSTERDICTIONARY_NAME_1051120^Aldore Heavy Soldier^阿爾多爾強攻兵^알도르 강공병^Soldat lourd d'Aldore^Starker Aldore-Soldat^Soldado pesado de Aldore
 MST_MONSTERDICTIONARY_NAME_2060260^Deucalion^杜卡里昂^데우칼리온^Deucalion^Deucalion^Deucalion
-MST_MONSTERDICTIONARY_NAME_3052310^Gudon of the Xi Star^十四鬥星古動^십사성투사 구든^Gudon de l'étoile Xi^14 Sterne-Gudon^Gudon de la estrella Xi
+MST_MONSTERDICTIONARY_NAME_3052310^Gudon of the Xi Star^十四鬥星古動^십사성투사 구든^Gudon de l'étoile Xi^Xi-Stern-Gudon^Gudon de la estrella Xi
 MST_MONSTERDICTIONARY_NAME_4100010^Elafikeras^艾拉菲凱拉斯^엘라피케라스^Elafikeras^Elafikeras^Elafikeras
 MST_MONSTERDICTIONARY_NAME_1080090^Ruby^紅玉^홍옥^Rubis^Rubin^Rubí
 MST_MONSTERDICTIONARY_NAME_1080050^Hitobosu^希德波斯^히토보스^Hitobosu^Hitobosu^Hitobosu

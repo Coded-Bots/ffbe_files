@@ -1021,7 +1021,7 @@ BUNDLES^Bundles^綁售^세트 상품^Lots^Pakete^Lotes
 DIA_LINK_NOAPPFOUND_TEXT^This app is not installed on this device.^應用程式尚未安裝到此裝置^애플리케이션이 이 단말기에 설치되어 있지 않습니다.^Cette appli n'est pas installée sur cet appareil.^Diese App ist auf diesem Gerät nicht installiert.^La aplicación no está instalada en el dispositivo.
 SG_BUNDLE_LIMIT^Limit^限制^제한^Limite ^Limit^Límite
 SG_BUNDLE_DATE^%d days^%d日^%d일^%d jours ^%d Tage^%d días
-SG_BUNDLE_TIME^%.2d%.2d hr^%.2d%.2d 小時^%.2d%.2d 시간^%.2d%.2d h^%.2d%.2d h^%.2d%.2d horas
+SG_BUNDLE_TIME^%.2d:%.2d hr^%.2d:%.2d 小時^%.2d:%.2d 시간^%.2d:%.2d h^%.2d:%.2d h^%.2d:%.2d horas
 TM_BUNDLE_1^Trust Master Bundle : Kenyu^信賴度滿點綁售：健遊^트러스트마스터 세트 상품: 켄유^Lot de confiance absolue : Kenyu^Wahre-Treue-Paket: Kenyu^Lote Maestro Fiel: Kenyu
 TM_BUNDLE_2^Trust Master Bundle : Skaha^信賴度滿點綁售：斯卡哈^트러스트마스터 세트 상품: 스카하^Lot de confiance absolue : Shaka^Wahre-Treue-Paket: Skaha^Lote Maestro Fiel: Skaha
 DLC_BUTTON_YES^Download while playing tutorial^在進行教程時下載^튜토리얼 진행 중 다운로드^Télécharger en faisant le tutoriel^Während der Einleitung herunterladen^Descargar durante el tutorial
