@@ -2216,7 +2216,7 @@
         "I1B7wNWc": "5", 
         "avX1k34K": "200", 
         "h5t4yBm2": "1001361", 
-        "o2ye8th6": "slash7_slant(aqua200)\uff32180"
+        "o2ye8th6": "slash7_slant(aqua200)Ｒ180"
     }, 
     {
         "2HjxCGo6": "atk_slash7_slant_orange.bmb", 
@@ -2244,7 +2244,7 @@
         "I1B7wNWc": "5", 
         "avX1k34K": "130", 
         "h5t4yBm2": "1001391", 
-        "o2ye8th6": "slash7_slant(purple130)\uff3245"
+        "o2ye8th6": "slash7_slant(purple130)Ｒ45"
     }, 
     {
         "2HjxCGo6": "atk_slash7_slant_purple.bmb", 
@@ -6619,7 +6619,7 @@
         "I1B7wNWc": "5", 
         "avX1k34K": "300", 
         "h5t4yBm2": "2000052", 
-        "o2ye8th6": "brizard1\uff08300\uff09"
+        "o2ye8th6": "brizard1（300）"
     }, 
     {
         "2HjxCGo6": "bm_2009_brizard2.bmb", 
@@ -7214,7 +7214,7 @@
         "I1B7wNWc": "5", 
         "avX1k34K": "200", 
         "h5t4yBm2": "2000422", 
-        "o2ye8th6": "holy1_F\uff08200\uff09"
+        "o2ye8th6": "holy1_F（200）"
     }, 
     {
         "2HjxCGo6": "bm_2007_bio1.bmb", 
@@ -7305,7 +7305,7 @@
         "I1B7wNWc": "5", 
         "avX1k34K": "100", 
         "h5t4yBm2": "2000520", 
-        "o2ye8th6": "altena_ff15_\uff32"
+        "o2ye8th6": "altena_ff15_Ｒ"
     }, 
     {
         "2HjxCGo6": "bm_2048_alterna_front.bmb", 
@@ -8068,14 +8068,14 @@
         "I1B7wNWc": "5", 
         "avX1k34K": "160", 
         "h5t4yBm2": "3000523", 
-        "o2ye8th6": "shell2_F\uff08160\uff09"
+        "o2ye8th6": "shell2_F（160）"
     }, 
     {
         "2HjxCGo6": "gm_3033_shellga_back.bmb", 
         "I1B7wNWc": "5", 
         "avX1k34K": "160", 
         "h5t4yBm2": "3000524", 
-        "o2ye8th6": "shell2_R\uff08160\uff09"
+        "o2ye8th6": "shell2_R（160）"
     }, 
     {
         "2HjxCGo6": "gm_3023_dishell.bmb", 
@@ -9223,7 +9223,7 @@
         "I1B7wNWc": "5", 
         "avX1k34K": "100", 
         "h5t4yBm2": "5000762", 
-        "o2ye8th6": "shockwaveS(red)\uff3290"
+        "o2ye8th6": "shockwaveS(red)Ｒ90"
     }, 
     {
         "2HjxCGo6": "eff_shockwave1_red_S.bmb", 
@@ -10469,7 +10469,7 @@
         "I1B7wNWc": "5", 
         "avX1k34K": "150", 
         "h5t4yBm2": "5002481", 
-        "o2ye8th6": "bigesuna1\uff08150\uff09"
+        "o2ye8th6": "bigesuna1（150）"
     }, 
     {
         "2HjxCGo6": "lb_0149_roselia3.bmb", 
@@ -11687,7 +11687,7 @@
         "I1B7wNWc": "5", 
         "avX1k34K": "100", 
         "h5t4yBm2": "5003552", 
-        "o2ye8th6": "aero3(red)\uff3290"
+        "o2ye8th6": "aero3(red)Ｒ90"
     }, 
     {
         "2HjxCGo6": "atk_aero3_white.bmb", 
@@ -17392,21 +17392,21 @@
         "I1B7wNWc": "5", 
         "avX1k34K": "150", 
         "h5t4yBm2": "5010121", 
-        "o2ye8th6": "lighteff01_yellow\uff08150\uff09"
+        "o2ye8th6": "lighteff01_yellow（150）"
     }, 
     {
         "2HjxCGo6": "eff_lighteff01_yellow.bmb", 
         "I1B7wNWc": "5", 
         "avX1k34K": "200", 
         "h5t4yBm2": "5010122", 
-        "o2ye8th6": "lighteff01_yellow\uff08200\uff09"
+        "o2ye8th6": "lighteff01_yellow（200）"
     }, 
     {
         "2HjxCGo6": "eff_lighteff01_yellow.bmb", 
         "I1B7wNWc": "5", 
         "avX1k34K": "50", 
         "h5t4yBm2": "5010123", 
-        "o2ye8th6": "lighteff01_yellow\uff0850\uff09"
+        "o2ye8th6": "lighteff01_yellow（50）"
     }, 
     {
         "2HjxCGo6": "atk_barrier_blue.bmb", 
@@ -19709,7 +19709,7 @@
         "I1B7wNWc": "5", 
         "avX1k34K": "200", 
         "h5t4yBm2": "5013041", 
-        "o2ye8th6": "magiccircle_002_green\uff08200\uff09R90"
+        "o2ye8th6": "magiccircle_002_green（200）R90"
     }, 
     {
         "2HjxCGo6": "atk_magiccircle_002_lightblue.bmb", 
@@ -19758,7 +19758,7 @@
         "I1B7wNWc": "5", 
         "avX1k34K": "200", 
         "h5t4yBm2": "5013074", 
-        "o2ye8th6": "magiccircle_002_pink\uff08200\uff09R90"
+        "o2ye8th6": "magiccircle_002_pink（200）R90"
     }, 
     {
         "2HjxCGo6": "atk_magiccircle_002_purple.bmb", 

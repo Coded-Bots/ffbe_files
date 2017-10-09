@@ -1,414 +1,414 @@
 [
     {
         "J5FR0KMs": "BEAST_BOARD", 
-        "N3YcDux2": "SP\u3092\u6d88\u8cbb\u3057\u3066\u3001\u5e7b\u7363\u3092\u5f37\u5316\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "SPを消費して、幻獣を強化してください。"
     }, 
     {
         "J5FR0KMs": "BEAST_CHANGE", 
-        "N3YcDux2": "\u30d1\u30fc\u30c6\u30a3\u306b\u5165\u308c\u305f\u3044\u5e7b\u7363\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "パーティに入れたい幻獣を選択してください。"
     }, 
     {
         "J5FR0KMs": "BEAST_TOP", 
-        "N3YcDux2": "\u8a73\u7d30\u3092\u898b\u305f\u3044\u5e7b\u7363\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "詳細を見たい幻獣を選択してください。"
     }, 
     {
         "J5FR0KMs": "CLSM_BATTLE_START", 
-        "N3YcDux2": "\u30d0\u30c8\u30eb\u958b\u59cb\u30dc\u30bf\u30f3\u3067\u30d0\u30c8\u30eb\u958b\u59cb\u3057\u307e\u3059\u3002"
+        "N3YcDux2": "バトル開始ボタンでバトル開始します。"
     }, 
     {
         "J5FR0KMs": "CLSM_MYPAGE", 
-        "N3YcDux2": "\u53c2\u6226\u3059\u308b\u30dc\u30bf\u30f3\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "参戦するボタンを選択してください。"
     }, 
     {
         "J5FR0KMs": "CLSM_RESULT", 
-        "N3YcDux2": "\u30d0\u30c8\u30eb\u306e\u7d50\u679c\u3067\u3059\u3002"
+        "N3YcDux2": "バトルの結果です。"
     }, 
     {
         "J5FR0KMs": "CLSM_SELECT_GRADE", 
-        "N3YcDux2": "\u30b0\u30ec\u30fc\u30c9\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "グレードを選択してください。"
     }, 
     {
         "J5FR0KMs": "CLSM_SELECT_RANK", 
-        "N3YcDux2": "\u30e9\u30f3\u30af\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "ランクを選択してください。"
     }, 
     {
         "J5FR0KMs": "CLSM_SELECT_ROUND", 
-        "N3YcDux2": "\u30e9\u30a6\u30f3\u30c9\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "ラウンドを選択してください。"
     }, 
     {
         "J5FR0KMs": "CRAFT_COMP", 
-        "N3YcDux2": "\u4f5c\u6210\u304c\u7d42\u4e86\u3057\u307e\u3057\u305f\u3002"
+        "N3YcDux2": "作成が終了しました。"
     }, 
     {
         "J5FR0KMs": "CRAFT_CREATE", 
-        "N3YcDux2": "\u30e9\u30d4\u30b9\u3092\u4f7f\u7528\u3059\u308b\u3053\u3068\u3067\u3059\u3050\u306b\u5b8c\u6210\u3057\u307e\u3059\u3002"
+        "N3YcDux2": "ラピスを使用することですぐに完成します。"
     }, 
     {
         "J5FR0KMs": "CRAFT_RECIPE_CONFIRM", 
-        "N3YcDux2": "\u4f5c\u6210\u306b\u5fc5\u8981\u306a\u7d20\u6750\u3068\u30ae\u30eb\u304c\u63c3\u3048\u3070\u3001\u4f5c\u6210\u3059\u308b\u30dc\u30bf\u30f3\u3067\u4f5c\u6210\u3067\u304d\u307e\u3059\u3002"
+        "N3YcDux2": "作成に必要な素材とギルが揃えば、作成するボタンで作成できます。"
     }, 
     {
         "J5FR0KMs": "CRAFT_TOP", 
-        "N3YcDux2": "\u30af\u30e9\u30d5\u30c8\u30e1\u30cb\u30e5\u30fc\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "クラフトメニューを選択してください。"
     }, 
     {
         "J5FR0KMs": "DECORATION_BATTLE_SCORE", 
-        "N3YcDux2": "\u3055\u307e\u3056\u307e\u306a\u6226\u7e3e\u306e\u4e00\u89a7\u3067\u3059\u3002"
+        "N3YcDux2": "さまざまな戦績の一覧です。"
     }, 
     {
         "J5FR0KMs": "DECORATION_REWARD", 
-        "N3YcDux2": "\u53d7\u3051\u53d6\u308b\u52f2\u7ae0\u5831\u916c\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "受け取る勲章報酬を選択してください。"
     }, 
     {
         "J5FR0KMs": "DECORATION_TOP", 
-        "N3YcDux2": "\u78ba\u8a8d\u3057\u305f\u3044\u52f2\u7ae0\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "確認したい勲章を選択してください。"
     }, 
     {
         "J5FR0KMs": "FILTER_UNIT", 
-        "N3YcDux2": "\u30e6\u30cb\u30c3\u30c8\u306e\u7d5e\u308a\u8fbc\u307f\u304c\u3067\u304d\u307e\u3059\u3002"
+        "N3YcDux2": "ユニットの絞り込みができます。"
     }, 
     {
         "J5FR0KMs": "FRIEND_APPLICATION_DETAIL", 
-        "N3YcDux2": "\u30d5\u30ec\u30f3\u30c9\u306e\u8a73\u7d30\u3067\u3059\u3002"
+        "N3YcDux2": "フレンドの詳細です。"
     }, 
     {
         "J5FR0KMs": "FRIEND_DETAIL", 
-        "N3YcDux2": "\u304a\u6c17\u306b\u5165\u308a\u767b\u9332\u3084\u30d5\u30ec\u30f3\u30c9\u524a\u9664\u306a\u3069\u304c\u3067\u304d\u307e\u3059\u3002"
+        "N3YcDux2": "お気に入り登録やフレンド削除などができます。"
     }, 
     {
         "J5FR0KMs": "FRIEND_LIST", 
-        "N3YcDux2": "\u30d7\u30ec\u30a4\u30e4\u30fc\u60c5\u5831\u3092\u898b\u305f\u3044\u30d5\u30ec\u30f3\u30c9\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "プレイヤー情報を見たいフレンドを選択してください。"
     }, 
     {
         "J5FR0KMs": "FRIEND_REQUEST", 
-        "N3YcDux2": "\u30d5\u30ec\u30f3\u30c9\u7533\u8acb\u4e2d\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u3084\u3042\u306a\u305f\u306b\u30d5\u30ec\u30f3\u30c9\u7533\u8acb\u3092\u3057\u3066\u3044\u308b\u30d7\u30ec\u30a4\u30e4\u30fc\u304c\u8868\u793a\u3055\u308c\u307e\u3059\u3002"
+        "N3YcDux2": "フレンド申請中のプレイヤーやあなたにフレンド申請をしているプレイヤーが表示されます。"
     }, 
     {
         "J5FR0KMs": "FRIEND_SEARCH", 
-        "N3YcDux2": "\u30d5\u30ec\u30f3\u30c9\u3092ID\u3067\u691c\u7d22\u3067\u304d\u307e\u3059\u3002\u304a\u53cb\u9054\u306b\u30d5\u30ec\u30f3\u30c9\u767b\u9332\u3057\u3066\u3082\u3089\u3046\u5834\u5408\u306f\u300c\u3042\u306a\u305f\u306eID\u300d\u306b\u8868\u793a\u3055\u308c\u3066\u3044\u308b\u6570\u5b57\u3092\u4f1d\u3048\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "フレンドをIDで検索できます。お友達にフレンド登録してもらう場合は「あなたのID」に表示されている数字を伝えてください。"
     }, 
     {
         "J5FR0KMs": "FRIEND_SEARCH_LIST", 
-        "N3YcDux2": "\u30d5\u30ec\u30f3\u30c9\u7533\u8acb\u3092\u3057\u305f\u3044\u30d7\u30ec\u30a4\u30e4\u30fc\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "フレンド申請をしたいプレイヤーを選択してください。"
     }, 
     {
         "J5FR0KMs": "FRIEND_SEARCH_RESULT", 
-        "N3YcDux2": "\u30d5\u30ec\u30f3\u30c9\u7533\u8acb\u3092\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002"
+        "N3YcDux2": "フレンド申請をすることができます。"
     }, 
     {
         "J5FR0KMs": "FRIEND_TOP", 
-        "N3YcDux2": "\u30d5\u30ec\u30f3\u30c9\u30e1\u30cb\u30e5\u30fc\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "フレンドメニューを選択してください。"
     }, 
     {
         "J5FR0KMs": "GACHA_DETAIL_ARENATICKET", 
-        "N3YcDux2": "\u30c1\u30b1\u30c3\u30c8\u53ec\u559a\u3092\u30bf\u30c3\u30d7\u3059\u308b\u3068\u53ec\u559a\u3092\u958b\u59cb\u3057\u307e\u3059\u3002\u9023\u7d9a\u30c1\u30b1\u30c3\u30c8\u53ec\u559a\u3092\u30bf\u30c3\u30d7\u3059\u308b\u3068\u6700\u592710\u9023\u7d9a\u3067\u53ec\u559a\u3092\u884c\u3044\u307e\u3059\u3002"
+        "N3YcDux2": "チケット召喚をタップすると召喚を開始します。連続チケット召喚をタップすると最大10連続で召喚を行います。"
     }, 
     {
         "J5FR0KMs": "GACHA_DETAIL_NORMAL", 
-        "N3YcDux2": "\u53ec\u559a\u3092\u30bf\u30c3\u30d7\u3059\u308b\u3068\u53ec\u559a\u3092\u958b\u59cb\u3057\u307e\u3059\u3002\u9023\u7d9a\u53ec\u559a\u3092\u30bf\u30c3\u30d7\u3059\u308b\u3068\u6700\u592710\u9023\u7d9a\u3067\u53ec\u559a\u3092\u884c\u3044\u307e\u3059\u3002"
+        "N3YcDux2": "召喚をタップすると召喚を開始します。連続召喚をタップすると最大10連続で召喚を行います。"
     }, 
     {
         "J5FR0KMs": "GACHA_DETAIL_PAY", 
-        "N3YcDux2": "\u8cfc\u5165\u3057\u305f\u30e9\u30d4\u30b9\u3067\u5f15\u3051\u308b\u30ac\u30c1\u30e3\uff08TEST\u30c6\u30ad\u30b9\u30c8\uff09"
+        "N3YcDux2": "購入したラピスで引けるガチャ（TESTテキスト）"
     }, 
     {
         "J5FR0KMs": "GACHA_DETAIL_RARE", 
-        "N3YcDux2": "\u53ec\u559a\u3092\u30bf\u30c3\u30d7\u3059\u308b\u3068\u53ec\u559a\u3092\u958b\u59cb\u3057\u307e\u3059\u3002\u30c1\u30b1\u30c3\u30c8\u53ec\u559a\u3092\u30bf\u30c3\u30d7\u3059\u308b\u3068\u30ec\u30a2\u53ec\u559a\u30c1\u30b1\u30c3\u30c8\u3092\u6d88\u8cbb\u3057\u3066\u53ec\u559a\u3092\u884c\u3044\u307e\u3059\u3002"
+        "N3YcDux2": "召喚をタップすると召喚を開始します。チケット召喚をタップするとレア召喚チケットを消費して召喚を行います。"
     }, 
     {
         "J5FR0KMs": "GACHA_RESULT", 
-        "N3YcDux2": "\u53ec\u559a\u306e\u7d50\u679c\u3067\u3059\u3002"
+        "N3YcDux2": "召喚の結果です。"
     }, 
     {
         "J5FR0KMs": "GACHA_TICKET_LIST", 
-        "N3YcDux2": "\u6240\u6301\u3057\u3066\u3044\u308b\u53ec\u559a\u30c1\u30b1\u30c3\u30c8\u4e00\u89a7\u3067\u3059\u3002"
+        "N3YcDux2": "所持している召喚チケット一覧です。"
     }, 
     {
         "J5FR0KMs": "GACHA_TOP", 
-        "N3YcDux2": "\u30d0\u30ca\u30fc\u3092\u30bf\u30c3\u30d7\u3057\u3066\u5b9f\u884c\u3057\u305f\u3044\u53ec\u559a\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "バナーをタップして実行したい召喚を選択してください。"
     }, 
     {
         "J5FR0KMs": "GATE", 
-        "N3YcDux2": "\u7279\u6b8a\u306a\u30af\u30a8\u30b9\u30c8\u306b\u6311\u6226\u3067\u304d\u307e\u3059\u3002"
+        "N3YcDux2": "特殊なクエストに挑戦できます。"
     }, 
     {
         "J5FR0KMs": "GATE_DUNGEON", 
-        "N3YcDux2": "\u7279\u6b8a\u306a\u30af\u30a8\u30b9\u30c8\u306b\u6311\u6226\u3067\u304d\u307e\u3059\u3002"
+        "N3YcDux2": "特殊なクエストに挑戦できます。"
     }, 
     {
         "J5FR0KMs": "GATE_DUNGEON_SP", 
-        "N3YcDux2": "\u30af\u30a8\u30b9\u30c8\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002\u89e3\u653e\u3057\u305f\u30af\u30a8\u30b9\u30c8\u306f\u5348\u524d0\u6642\u306b\u9589\u3058\u307e\u3059\u3002"
+        "N3YcDux2": "クエストを選択してください。解放したクエストは午前0時に閉じます。"
     }, 
     {
         "J5FR0KMs": "GATE_MISSION", 
-        "N3YcDux2": "\u7279\u6b8a\u306a\u30af\u30a8\u30b9\u30c8\u306b\u6311\u6226\u3067\u304d\u307e\u3059\u3002"
+        "N3YcDux2": "特殊なクエストに挑戦できます。"
     }, 
     {
         "J5FR0KMs": "GIFT_CHOICE", 
-        "N3YcDux2": "\u6b32\u3057\u3044\u30ae\u30d5\u30c8\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "欲しいギフトを選択してください。"
     }, 
     {
         "J5FR0KMs": "GIFT_LIST", 
-        "N3YcDux2": "\u30ae\u30d5\u30c8\u306e\u8a2d\u5b9a\u30fb\u53d7\u3051\u53d6\u308a\u3092\u884c\u3046\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002"
+        "N3YcDux2": "ギフトの設定・受け取りを行うことができます。"
     }, 
     {
         "J5FR0KMs": "GIFT_PRESENT", 
-        "N3YcDux2": "\u30ae\u30d5\u30c8\u3092\u8d08\u308a\u305f\u3044\u30d5\u30ec\u30f3\u30c9\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "ギフトを贈りたいフレンドを選択してください。"
     }, 
     {
         "J5FR0KMs": "HOME", 
-        "N3YcDux2": "\u30e1\u30cb\u30e5\u30fc\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "メニューを選択してください。"
     }, 
     {
         "J5FR0KMs": "HOW_TO_PLAY", 
-        "N3YcDux2": "\u30e1\u30cb\u30e5\u30fc\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "メニューを選択してください。"
     }, 
     {
         "J5FR0KMs": "ITEM_ABILITY_CRYSTAL", 
-        "N3YcDux2": "\u8a73\u7d30\u3092\u898b\u305f\u3044\u30a2\u30d3\u30ea\u30c6\u30a3\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "詳細を見たいアビリティを選択してください。"
     }, 
     {
         "J5FR0KMs": "ITEM_ABILITY_CRYSTAL_SELL", 
-        "N3YcDux2": "\u58f2\u5374\u3057\u305f\u3044\u30a2\u30d3\u30ea\u30c6\u30a3\u30af\u30ea\u30b9\u30bf\u30eb\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "売却したいアビリティクリスタルを選択してください。"
     }, 
     {
         "J5FR0KMs": "ITEM_ACCESSORIES", 
-        "N3YcDux2": "\u8a73\u7d30\u3092\u898b\u305f\u3044\u88c5\u5099\u54c1\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "詳細を見たい装備品を選択してください。"
     }, 
     {
         "J5FR0KMs": "ITEM_ACCESSORIES_SELL", 
-        "N3YcDux2": "\u58f2\u5374\u3057\u305f\u3044\u88c5\u5099\u54c1\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "売却したい装備品を選択してください。"
     }, 
     {
         "J5FR0KMs": "ITEM_LIST", 
-        "N3YcDux2": "\u8a73\u7d30\u3092\u898b\u305f\u3044\u30a2\u30a4\u30c6\u30e0\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "詳細を見たいアイテムを選択してください。"
     }, 
     {
         "J5FR0KMs": "ITEM_MATERIAL", 
-        "N3YcDux2": "\u8a73\u7d30\u3092\u898b\u305f\u3044\u7d20\u6750\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "詳細を見たい素材を選択してください。"
     }, 
     {
         "J5FR0KMs": "ITEM_MATERIAL_SELL", 
-        "N3YcDux2": "\u58f2\u5374\u3057\u305f\u3044\u7d20\u6750\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "売却したい素材を選択してください。"
     }, 
     {
         "J5FR0KMs": "ITEM_REVERSE_LIST", 
-        "N3YcDux2": "\u7d20\u6750\u5165\u624b\u5148\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002\u203b\u6c7a\u5b9a\u5f8c\u30af\u30a8\u30b9\u30c8\u304b\u3089\u3053\u3061\u3089\u306b\u306f\u623b\u308c\u307e\u305b\u3093\u3002"
+        "N3YcDux2": "素材入手先を選択してください。※決定後クエストからこちらには戻れません。"
     }, 
     {
         "J5FR0KMs": "ITEM_SELL", 
-        "N3YcDux2": "\u58f2\u5374\u3057\u305f\u3044\u30a2\u30a4\u30c6\u30e0\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "売却したいアイテムを選択してください。"
     }, 
     {
         "J5FR0KMs": "ITEM_SET", 
-        "N3YcDux2": "\u30a2\u30a4\u30c6\u30e0\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "アイテムを選択してください。"
     }, 
     {
         "J5FR0KMs": "ITEM_TOP", 
-        "N3YcDux2": "\u30e1\u30cb\u30e5\u30fc\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "メニューを選択してください。"
     }, 
     {
         "J5FR0KMs": "LIBRARY_ABILITY", 
-        "N3YcDux2": "\u8a73\u7d30\u8aac\u660e\u3092\u898b\u305f\u3044\u30a2\u30d3\u30ea\u30c6\u30a3\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "詳細説明を見たいアビリティを選択してください。"
     }, 
     {
         "J5FR0KMs": "LIBRARY_BEAST", 
-        "N3YcDux2": "\u8a73\u7d30\u8aac\u660e\u3092\u898b\u305f\u3044\u5e7b\u7363\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "詳細説明を見たい幻獣を選択してください。"
     }, 
     {
         "J5FR0KMs": "LIBRARY_EQUIP", 
-        "N3YcDux2": "\u8a73\u7d30\u8aac\u660e\u3092\u898b\u305f\u3044\u88c5\u5099\u54c1\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "詳細説明を見たい装備品を選択してください。"
     }, 
     {
         "J5FR0KMs": "LIBRARY_ITEM", 
-        "N3YcDux2": "\u8a73\u7d30\u8aac\u660e\u3092\u898b\u305f\u3044\u30a2\u30a4\u30c6\u30e0\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "詳細説明を見たいアイテムを選択してください。"
     }, 
     {
         "J5FR0KMs": "LIBRARY_MATERIAL", 
-        "N3YcDux2": "\u8a73\u7d30\u8aac\u660e\u3092\u898b\u305f\u3044\u7d20\u6750\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "詳細説明を見たい素材を選択してください。"
     }, 
     {
         "J5FR0KMs": "LIBRARY_MONSTER", 
-        "N3YcDux2": "\u8a73\u7d30\u8aac\u660e\u3092\u898b\u305f\u3044\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "詳細説明を見たいモンスターを選択してください。"
     }, 
     {
         "J5FR0KMs": "LIBRARY_RECIPE", 
-        "N3YcDux2": "\u8a73\u7d30\u8aac\u660e\u3092\u898b\u305f\u3044\u30ec\u30b7\u30d4\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "詳細説明を見たいレシピを選択してください。"
     }, 
     {
         "J5FR0KMs": "LIBRARY_TOP", 
-        "N3YcDux2": "\u30e1\u30cb\u30e5\u30fc\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "メニューを選択してください。"
     }, 
     {
         "J5FR0KMs": "LIBRARY_UNIT", 
-        "N3YcDux2": "\u8a73\u7d30\u8aac\u660e\u3092\u898b\u305f\u3044\u30e6\u30cb\u30c3\u30c8\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "詳細説明を見たいユニットを選択してください。"
     }, 
     {
         "J5FR0KMs": "MAIL_DETAIL", 
-        "N3YcDux2": "\u30e1\u30fc\u30eb\u306e\u8a73\u7d30\u3067\u3059\u3002"
+        "N3YcDux2": "メールの詳細です。"
     }, 
     {
         "J5FR0KMs": "MAIL_TOP", 
-        "N3YcDux2": "\u30e1\u30fc\u30eb\u4e00\u89a7\u304c\u8868\u793a\u3055\u308c\u307e\u3059\u3002\u53d7\u4fe1\u65e5\u6642\u304b\u3089\uff13\uff10\u65e5\u4ee5\u4e0a\u7d4c\u904e\u3059\u308b\u3068\u524a\u9664\u3055\u308c\u307e\u3059\u3002"
+        "N3YcDux2": "メール一覧が表示されます。受信日時から３０日以上経過すると削除されます。"
     }, 
     {
         "J5FR0KMs": "MAP_MENU_ITEM_SELECT", 
-        "N3YcDux2": "\u4f7f\u7528\u3059\u308b\u30a2\u30a4\u30c6\u30e0\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "使用するアイテムを選択してください。"
     }, 
     {
         "J5FR0KMs": "MAP_MENU_ITEM_USE", 
-        "N3YcDux2": "\u5bfe\u8c61\u3068\u306a\u308b\u30e6\u30cb\u30c3\u30c8\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "対象となるユニットを選択してください。"
     }, 
     {
         "J5FR0KMs": "MAP_MENU_MAGIC_SELECT", 
-        "N3YcDux2": "\u4f7f\u7528\u3059\u308b\u9b54\u6cd5\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "使用する魔法を選択してください。"
     }, 
     {
         "J5FR0KMs": "MAP_MENU_MAGIC_UNIT", 
-        "N3YcDux2": "\u9b54\u6cd5\u3092\u4f7f\u7528\u3059\u308b\u30e6\u30cb\u30c3\u30c8\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "魔法を使用するユニットを選択してください。"
     }, 
     {
         "J5FR0KMs": "MAP_MENU_MAGIC_USE", 
-        "N3YcDux2": "\u5bfe\u8c61\u3068\u306a\u308b\u30e6\u30cb\u30c3\u30c8\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "対象となるユニットを選択してください。"
     }, 
     {
         "J5FR0KMs": "MENU_PLAYER_INFO", 
-        "N3YcDux2": "\u7de8\u96c6\u3057\u305f\u30b3\u30e1\u30f3\u30c8\u306f\u4ed6\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u304b\u3089\u3082\u89b3\u89a7\u3055\u308c\u307e\u3059\u3002\u203b\u30d7\u30ec\u30a4\u30e4\u30fc\u540d\u306f\u4e00\u5ea6\u5909\u66f4\u3092\u884c\u3046\u3068\u30012\u9031\u9593\u4ee5\u5185\u306f\u518d\u5ea6\u5909\u66f4\u3059\u308b\u3053\u3068\u306f\u3067\u304d\u307e\u305b\u3093\u3002"
+        "N3YcDux2": "編集したコメントは他のプレイヤーからも観覧されます。※プレイヤー名は一度変更を行うと、2週間以内は再度変更することはできません。"
     }, 
     {
         "J5FR0KMs": "MENU_SERIAL_CODE", 
-        "N3YcDux2": "\u30e1\u30cb\u30e5\u30fc\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "メニューを選択してください。"
     }, 
     {
         "J5FR0KMs": "MENU_SETTING", 
-        "N3YcDux2": "\u5404\u7a2e\u8a2d\u5b9a\u3092\u884c\u3046\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002"
+        "N3YcDux2": "各種設定を行うことができます。"
     }, 
     {
         "J5FR0KMs": "MENU_TOP", 
-        "N3YcDux2": "\u30e1\u30cb\u30e5\u30fc\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "メニューを選択してください。"
     }, 
     {
         "J5FR0KMs": "MENU_TRANSFAR", 
-        "N3YcDux2": "\u30e1\u30cb\u30e5\u30fc\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "メニューを選択してください。"
     }, 
     {
         "J5FR0KMs": "MENU_TUTORIAL", 
-        "N3YcDux2": "\u30c1\u30e5\u30fc\u30c8\u30ea\u30a2\u30eb\u304c\u78ba\u8a8d\u3067\u304d\u307e\u3059\u3002"
+        "N3YcDux2": "チュートリアルが確認できます。"
     }, 
     {
         "J5FR0KMs": "NEWS", 
-        "N3YcDux2": "\u53c2\u7167\u3057\u305f\u3044\u9805\u76ee\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "参照したい項目を選択してください。"
     }, 
     {
         "J5FR0KMs": "RB_BOARD", 
-        "N3YcDux2": "\u30a2\u30ea\u30fc\u30ca\u30e1\u30c0\u30eb\u3092\u6d88\u8cbb\u3057\u3066\u3001\u30a2\u30a4\u30c6\u30e0\u3068\u4ea4\u63db\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "アリーナメダルを消費して、アイテムと交換してください。"
     }, 
     {
         "J5FR0KMs": "RB_SELECT_RIVAL", 
-        "N3YcDux2": "\u5bfe\u6226\u76f8\u624b\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002\u203b\u9806\u4f4d\u3001\u30ec\u30fc\u30c8\u306f\u9031\u9593\u30e9\u30f3\u30ad\u30f3\u30b0\u306e\u5024\u304c\u8868\u793a\u3055\u308c\u307e\u3059\u3002"
+        "N3YcDux2": "対戦相手を選択してください。※順位、レートは週間ランキングの値が表示されます。"
     }, 
     {
         "J5FR0KMs": "RECOMMEND", 
-        "N3YcDux2": "\u53c2\u7167\u3057\u305f\u3044\u9805\u76ee\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "参照したい項目を選択してください。"
     }, 
     {
         "J5FR0KMs": "SHOP_AGE_INPUT", 
-        "N3YcDux2": "\u751f\u5e74\u6708\u3092\u767b\u9332\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "生年月を登録してください。"
     }, 
     {
         "J5FR0KMs": "SHOP_BOX_OPEN", 
-        "N3YcDux2": "\u67a0\u3092\u62e1\u5f35\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002"
+        "N3YcDux2": "枠を拡張することができます。"
     }, 
     {
         "J5FR0KMs": "SHOP_BOX_TOP", 
-        "N3YcDux2": "\u30e1\u30cb\u30e5\u30fc\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "メニューを選択してください。"
     }, 
     {
         "J5FR0KMs": "SHOP_LIST", 
-        "N3YcDux2": "\u30e9\u30d4\u30b9\u3092\u8cfc\u5165\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002\u307e\u3068\u3081\u3066\u8cb7\u3046\u307b\u3069\u304a\u5f97\u3067\u3059\uff01"
+        "N3YcDux2": "ラピスを購入することができます。まとめて買うほどお得です！"
     }, 
     {
         "J5FR0KMs": "SHOP_LIST_SQMK", 
-        "N3YcDux2": "\u30b9\u30af\u30a8\u30cb\u30de\u30fc\u30b1\u30c3\u30c8\u30dd\u30a4\u30f3\u30c8\u3067\u30e9\u30d4\u30b9\u3092\u8cfc\u5165\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002\u307e\u3068\u3081\u3066\u8cb7\u3046\u307b\u3069\u304a\u5f97\u3067\u3059\uff01"
+        "N3YcDux2": "スクエニマーケットポイントでラピスを購入することができます。まとめて買うほどお得です！"
     }, 
     {
         "J5FR0KMs": "SHOP_MAGIC_KEY", 
-        "N3YcDux2": "\u9b54\u6cd5\u306e\u9375\u3092\u4ea4\u63db\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002\u307e\u3068\u3081\u3066\u4ea4\u63db\u3059\u308b\u307b\u3069\u304a\u5f97\u3067\u3059\uff01"
+        "N3YcDux2": "魔法の鍵を交換することができます。まとめて交換するほどお得です！"
     }, 
     {
         "J5FR0KMs": "SHOP_MAGIC_KEY_BUY", 
-        "N3YcDux2": "\u30e9\u30d4\u30b9\u3068\u9b54\u6cd5\u306e\u9375\u3092\u4ea4\u63db\u3059\u308b\u5834\u5408\u306f\u300c\u306f\u3044\u300d\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "ラピスと魔法の鍵を交換する場合は「はい」を選択してください。"
     }, 
     {
         "J5FR0KMs": "SHOP_STAMINA", 
-        "N3YcDux2": "\u4f53\u529b\u3092\u56de\u5fa9\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002"
+        "N3YcDux2": "体力を回復することができます。"
     }, 
     {
         "J5FR0KMs": "SHOP_TOP", 
-        "N3YcDux2": "\u30e1\u30cb\u30e5\u30fc\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "メニューを選択してください。"
     }, 
     {
         "J5FR0KMs": "SORT_UNIT", 
-        "N3YcDux2": "\u30e6\u30cb\u30c3\u30c8\u306e\u4e26\u3079\u66ff\u3048\u304c\u3067\u304d\u307e\u3059\u3002"
+        "N3YcDux2": "ユニットの並べ替えができます。"
     }, 
     {
         "J5FR0KMs": "SUBLIMATION_SKILL_MAIN", 
-        "N3YcDux2": "\u899a\u9192\u306b\u5fc5\u8981\u306a\u7d20\u6750\u3068\u30ae\u30eb\u304c\u63c3\u3048\u3070\u3001\u899a\u9192\u30dc\u30bf\u30f3\u3067\u899a\u9192\u3055\u305b\u3089\u308c\u307e\u3059\u3002"
+        "N3YcDux2": "覚醒に必要な素材とギルが揃えば、覚醒ボタンで覚醒させられます。"
     }, 
     {
         "J5FR0KMs": "SUBLIMATION_SKILL_UNIQUE_SELECT", 
-        "N3YcDux2": "\u899a\u9192\u3055\u305b\u305f\u3044\u30a2\u30d3\u30ea\u30c6\u30a3\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002\u6697\u304f\u306a\u3063\u3066\u3044\u308b\u30a2\u30d3\u30ea\u30c6\u30a3\u306f\u899a\u9192\u3067\u304d\u307e\u305b\u3093\u3002"
+        "N3YcDux2": "覚醒させたいアビリティを選択してください。暗くなっているアビリティは覚醒できません。"
     }, 
     {
         "J5FR0KMs": "SUBLIMATION_SKILL_UNIT_LIST", 
-        "N3YcDux2": "\u30a2\u30d3\u30ea\u30c6\u30a3\u3092\u899a\u9192\u3055\u305b\u305f\u3044\u30e6\u30cb\u30c3\u30c8\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002\u6697\u304f\u306a\u3063\u3066\u3044\u308b\u30e6\u30cb\u30c3\u30c8\u306f\u899a\u9192\u53ef\u80fd\u30a2\u30d3\u30ea\u30c6\u30a3\u3092\u6301\u3063\u3066\u3044\u307e\u305b\u3093\u3002"
+        "N3YcDux2": "アビリティを覚醒させたいユニットを選択してください。暗くなっているユニットは覚醒可能アビリティを持っていません。"
     }, 
     {
         "J5FR0KMs": "TOWN_CONFIRM", 
-        "N3YcDux2": "\u30e1\u30cb\u30e5\u30fc\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "メニューを選択してください。"
     }, 
     {
         "J5FR0KMs": "TOWN_MENU", 
-        "N3YcDux2": "\u30e1\u30cb\u30e5\u30fc\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "メニューを選択してください。"
     }, 
     {
         "J5FR0KMs": "UNIT_CHANGE", 
-        "N3YcDux2": "\u30d1\u30fc\u30c6\u30a3\u306b\u5165\u308c\u305f\u3044\u30e6\u30cb\u30c3\u30c8\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "パーティに入れたいユニットを選択してください。"
     }, 
     {
         "J5FR0KMs": "UNIT_CLASSUP_MAIN", 
-        "N3YcDux2": "\u899a\u9192\u306b\u5fc5\u8981\u306a\u7d20\u6750\u3068\u30ae\u30eb\u304c\u63c3\u3048\u3070\u3001\u899a\u9192\u30dc\u30bf\u30f3\u3067\u899a\u9192\u3055\u305b\u3089\u308c\u307e\u3059\u3002"
+        "N3YcDux2": "覚醒に必要な素材とギルが揃えば、覚醒ボタンで覚醒させられます。"
     }, 
     {
         "J5FR0KMs": "UNIT_CLASSUP_SELECT_BASE", 
-        "N3YcDux2": "\u899a\u9192\u3055\u305b\u305f\u3044\u30e6\u30cb\u30c3\u30c8\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002\u6697\u304f\u306a\u3063\u3066\u3044\u308b\u30e6\u30cb\u30c3\u30c8\u306f\u899a\u9192\u3067\u304d\u307e\u305b\u3093\u3002"
+        "N3YcDux2": "覚醒させたいユニットを選択してください。暗くなっているユニットは覚醒できません。"
     }, 
     {
         "J5FR0KMs": "UNIT_LIST", 
-        "N3YcDux2": "\u8a73\u7d30\u3092\u898b\u305f\u3044\u30e6\u30cb\u30c3\u30c8\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "詳細を見たいユニットを選択してください。"
     }, 
     {
         "J5FR0KMs": "UNIT_MIX_MAIN", 
-        "N3YcDux2": "\u53f0\u5ea7\u3092\u30bf\u30c3\u30d7\u3057\u3066\u5408\u6210\u3059\u308b\u7d20\u6750\u30e6\u30cb\u30c3\u30c8\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "台座をタップして合成する素材ユニットを選択してください。"
     }, 
     {
         "J5FR0KMs": "UNIT_MIX_SELECT_BASE", 
-        "N3YcDux2": "\u5f37\u5316\u3057\u305f\u3044\u30e6\u30cb\u30c3\u30c8\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "強化したいユニットを選択してください。"
     }, 
     {
         "J5FR0KMs": "UNIT_MIX_SELECT_MATERIAL", 
-        "N3YcDux2": "\u5408\u6210\u7d20\u6750\u306b\u3059\u308b\u30e6\u30cb\u30c3\u30c8\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002\u7d20\u6750\u30e6\u30cb\u30c3\u30c8\u306f\u5408\u6210\u3059\u308b\u3068\u6d88\u6ec5\u3057\u307e\u3059\u3002"
+        "N3YcDux2": "合成素材にするユニットを選択してください。素材ユニットは合成すると消滅します。"
     }, 
     {
         "J5FR0KMs": "UNIT_SELL", 
-        "N3YcDux2": "\u58f2\u5374\u3057\u305f\u3044\u30e6\u30cb\u30c3\u30c8\u3092\u9078\u629e\u3057\u3066\u3001\u58f2\u5374\u30dc\u30bf\u30f3\u3092\u62bc\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "売却したいユニットを選択して、売却ボタンを押してください。"
     }, 
     {
         "J5FR0KMs": "UNIT_TOP", 
-        "N3YcDux2": "\u30e6\u30cb\u30c3\u30c8\u30e1\u30cb\u30e5\u30fc\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "ユニットメニューを選択してください。"
     }, 
     {
         "J5FR0KMs": "WORLD", 
-        "N3YcDux2": "\u30ea\u30fc\u30b8\u30e7\u30f3\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        "N3YcDux2": "リージョンを選択してください。"
     }
 ]

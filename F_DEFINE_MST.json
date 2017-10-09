@@ -1,42 +1,42 @@
 [
     {
         "AK8Nn7ta": "ABILITY_COMMAND_OPEN", 
-        "G4L0YIB2": "\u30a2\u30d3\u30ea\u30c6\u30a3\u30b3\u30de\u30f3\u30c9\u30aa\u30fc\u30d7\u30f3ID", 
+        "G4L0YIB2": "アビリティコマンドオープンID", 
         "YjIUDJ97": "10000115"
     }, 
     {
         "AK8Nn7ta": "ABILITY_STRAPPING_TITLE_ID", 
-        "G4L0YIB2": "\u30a2\u30d3\u30ea\u30c6\u30a3\u56fa\u5b9a\u30bf\u30a4\u30c8\u30ebID", 
+        "G4L0YIB2": "アビリティ固定タイトルID", 
         "YjIUDJ97": ""
     }, 
     {
         "AK8Nn7ta": "ACHIEVE_TYPE_ARENA_BATTLE", 
-        "G4L0YIB2": "\u6226\u7e3e\u30bf\u30a4\u30d7\u30a2\u30ea\u30fc\u30ca\u30d0\u30c8\u30eb", 
+        "G4L0YIB2": "戦績タイプアリーナバトル", 
         "YjIUDJ97": "4"
     }, 
     {
         "AK8Nn7ta": "ACHIEVE_TYPE_COLOSSEUM", 
-        "G4L0YIB2": "\u6226\u7e3e\u30bf\u30a4\u30d7\u30b3\u30ed\u30b7\u30a2\u30e0", 
+        "G4L0YIB2": "戦績タイプコロシアム", 
         "YjIUDJ97": "3"
     }, 
     {
         "AK8Nn7ta": "ACHIEVE_TYPE_DAMAGE_RANKING", 
-        "G4L0YIB2": "\u6226\u7e3e\u30c0\u30e1\u30fc\u30b8\u30e9\u30f3\u30ad\u30f3\u30b0", 
+        "G4L0YIB2": "戦績ダメージランキング", 
         "YjIUDJ97": "5"
     }, 
     {
         "AK8Nn7ta": "ACHIEVE_TYPE_DMG_RANKING", 
-        "G4L0YIB2": "\u6226\u7e3e\u30bf\u30a4\u30d7\u30c0\u30e1\u30fc\u30b8\u30e9\u30f3\u30ad\u30f3\u30b0", 
+        "G4L0YIB2": "戦績タイプダメージランキング", 
         "YjIUDJ97": "5"
     }, 
     {
         "AK8Nn7ta": "ACHIEVE_TYPE_GENERAL", 
-        "G4L0YIB2": "\u6226\u7e3e\u30bf\u30a4\u30d7\u6c4e\u7528", 
+        "G4L0YIB2": "戦績タイプ汎用", 
         "YjIUDJ97": "1"
     }, 
     {
         "AK8Nn7ta": "ACHIEVE_TYPE_MISSION", 
-        "G4L0YIB2": "\u6226\u7e3e\u30bf\u30a4\u30d7\u30df\u30c3\u30b7\u30e7\u30f3", 
+        "G4L0YIB2": "戦績タイプミッション", 
         "YjIUDJ97": "2"
     }, 
     {
@@ -681,22 +681,22 @@
     }, 
     {
         "AK8Nn7ta": "APP_VER_UP_MESSAGE", 
-        "G4L0YIB2": "\u30a2\u30d7\u30ea\u30d0\u30fc\u30b8\u30e7\u30f3\u30a2\u30c3\u30d7\u30e1\u30c3\u30bb\u30fc\u30b8", 
+        "G4L0YIB2": "アプリバージョンアップメッセージ", 
         "YjIUDJ97": "APP_NEW_VERSION_DEFAULT_MSG"
     }, 
     {
         "AK8Nn7ta": "ARENA_RELEASE_SWITCH_ID", 
-        "G4L0YIB2": "\u30a2\u30ea\u30fc\u30ca\u89e3\u653e\u6f14\u51fa\u30b9\u30a4\u30c3\u30c1", 
+        "G4L0YIB2": "アリーナ解放演出スイッチ", 
         "YjIUDJ97": "80010004"
     }, 
     {
         "AK8Nn7ta": "BATTLE_MAX_DAMAGE", 
-        "G4L0YIB2": "\u901a\u5e38\u30d0\u30c8\u30eb\u30c0\u30e1\u30fc\u30b8\u30ad\u30e3\u30c3\u30d7\u8a2d\u5b9a", 
+        "G4L0YIB2": "通常バトルダメージキャップ設定", 
         "YjIUDJ97": "0"
     }, 
     {
         "AK8Nn7ta": "BATTLE_PROGRESS_CHARACTER_ID", 
-        "G4L0YIB2": "\u30d0\u30c8\u30eb\u30d7\u30ed\u30b0\u30ec\u30b9\u30ad\u30e3\u30e9\u30af\u30bf\u30fcID", 
+        "G4L0YIB2": "バトルプログレスキャラクターID", 
         "YjIUDJ97": "1"
     }, 
     {
@@ -706,52 +706,52 @@
     }, 
     {
         "AK8Nn7ta": "CAMPAIGN_INPUT_INFO_IN_APP", 
-        "G4L0YIB2": "\u30a2\u30d7\u30ea\u5185\u30ad\u30e3\u30f3\u30da\u30fc\u30f3\u5165\u529b\u8a2d\u5b9a", 
+        "G4L0YIB2": "アプリ内キャンペーン入力設定", 
         "YjIUDJ97": "0,0,0"
     }, 
     {
         "AK8Nn7ta": "CHALLENGE_CLEAR_SWITCH", 
-        "G4L0YIB2": "\u30c1\u30e3\u30ec\u30f3\u30b8\u5236\u5fa1", 
+        "G4L0YIB2": "チャレンジ制御", 
         "YjIUDJ97": "10000163"
     }, 
     {
         "AK8Nn7ta": "CHALLENGE_CLEAR_SWITCH_DISP_FLG", 
-        "G4L0YIB2": "\u30c1\u30e3\u30ec\u30f3\u30b8\u8868\u793a\u5236\u5fa1", 
+        "G4L0YIB2": "チャレンジ表示制御", 
         "YjIUDJ97": "0"
     }, 
     {
         "AK8Nn7ta": "CONTINUE_COST", 
-        "G4L0YIB2": "\u30b3\u30f3\u30c6\u30a3\u30cb\u30e5\u30fc\u30b3\u30b9\u30c8", 
+        "G4L0YIB2": "コンティニューコスト", 
         "YjIUDJ97": "100"
     }, 
     {
         "AK8Nn7ta": "CRAFT_RELEASE_SWITCH_ID", 
-        "G4L0YIB2": "\u30af\u30e9\u30d5\u30c8\u89e3\u653e\u6f14\u51fa\u30b9\u30a4\u30c3\u30c1", 
+        "G4L0YIB2": "クラフト解放演出スイッチ", 
         "YjIUDJ97": "80010001"
     }, 
     {
         "AK8Nn7ta": "CRAFT_TIME_REDUCTION_COST_LIMIT", 
-        "G4L0YIB2": "\u30af\u30e9\u30d5\u30c8\u6642\u9593\u77ed\u7e2e\u30b3\u30b9\u30c8\u4e0a\u9650", 
+        "G4L0YIB2": "クラフト時間短縮コスト上限", 
         "YjIUDJ97": "5000"
     }, 
     {
         "AK8Nn7ta": "DEFAULT_CLSM_PROGRESS_ID", 
-        "G4L0YIB2": "\u521d\u671f\u30b3\u30ed\u30b7\u30a2\u30e0\u9032\u6357ID", 
+        "G4L0YIB2": "初期コロシアム進捗ID", 
         "YjIUDJ97": "10101"
     }, 
     {
         "AK8Nn7ta": "DELAY_DATE_LINE_HOUR", 
-        "G4L0YIB2": "\u65e5\u4ed8\u8de8\u304e\u3092\u9045\u5ef6\u3055\u305b\u308b\u6642\u9593", 
+        "G4L0YIB2": "日付跨ぎを遅延させる時間", 
         "YjIUDJ97": "5"
     }, 
     {
         "AK8Nn7ta": "DIAMOND_POSSESSION_LIMIT", 
-        "G4L0YIB2": "\u30c0\u30a4\u30e4\u6700\u5927\u6240\u6301\u6570", 
+        "G4L0YIB2": "ダイヤ最大所持数", 
         "YjIUDJ97": "999999"
     }, 
     {
         "AK8Nn7ta": "DUNGEON_NO_COST_LV", 
-        "G4L0YIB2": "\u30c0\u30f3\u30b8\u30e7\u30f3\u30b3\u30b9\u30c8\u7121\u3057\u30ec\u30d9\u30eb", 
+        "G4L0YIB2": "ダンジョンコスト無しレベル", 
         "YjIUDJ97": "9"
     }, 
     {
@@ -766,22 +766,22 @@
     }, 
     {
         "AK8Nn7ta": "ENV_VALID_FLG", 
-        "G4L0YIB2": "\u691c\u8a3c\u74b0\u5883\u30d5\u30e9\u30b0", 
+        "G4L0YIB2": "検証環境フラグ", 
         "YjIUDJ97": "0"
     }, 
     {
         "AK8Nn7ta": "ESPER_RELEASE_SWITCH_ID", 
-        "G4L0YIB2": "\u5e7b\u7363\u89e3\u653e\u6f14\u51fa\u30b9\u30a4\u30c3\u30c1", 
+        "G4L0YIB2": "幻獣解放演出スイッチ", 
         "YjIUDJ97": "80010003"
     }, 
     {
         "AK8Nn7ta": "EVENT_HOME_BG_ID", 
-        "G4L0YIB2": "\u30a4\u30d9\u30f3\u30c8\u7528\u30db\u30fc\u30e0\u80cc\u666fID", 
+        "G4L0YIB2": "イベント用ホーム背景ID", 
         "YjIUDJ97": ""
     }, 
     {
         "AK8Nn7ta": "EVENT_ROUTINE_MARGIN_TIME", 
-        "G4L0YIB2": "\u30a4\u30d9\u30f3\u30c8\u5b9a\u671f\u901a\u4fe1\u30de\u30fc\u30b8\u30f3\u6642\u9593", 
+        "G4L0YIB2": "イベント定期通信マージン時間", 
         "YjIUDJ97": "60"
     }, 
     {
@@ -826,72 +826,72 @@
     }, 
     {
         "AK8Nn7ta": "FRIENDLV_POPUP_TXT", 
-        "G4L0YIB2": "\u30d5\u30ec\u30f3\u30c9Lv\u30dd\u30c3\u30d7\u30a2\u30c3\u30d7\u30c6\u30ad\u30b9\u30c8", 
-        "YjIUDJ97": "\u30d5\u30ec\u30f3\u30c9Lv\u306f\u524d\u65e5\u306b\u30d5\u30ec\u30f3\u30c9\u306b\u540c\u884c\u3057\u3066\u3082\u3089\u3063\u305f\u7d50\u679c\u306b\u3088\u308a\u6c7a\u5b9a\u3057\u307e\u3059\u3002<br>\u5404\u52b9\u679c\u306f\u6bce\u65e5am5:00\u306b\u66f4\u65b0\u3055\u308c24\u6642\u9593\u767a\u52d5\u3057\u307e\u3059\u3002<br>\u8a73\u7d30\u306f\u30d8\u30eb\u30d7\u3092\u53c2\u7167\u304f\u3060\u3055\u3044\u3002"
+        "G4L0YIB2": "フレンドLvポップアップテキスト", 
+        "YjIUDJ97": "フレンドLvは前日にフレンドに同行してもらった結果により決定します。<br>各効果は毎日am5:00に更新され24時間発動します。<br>詳細はヘルプを参照ください。"
     }, 
     {
         "AK8Nn7ta": "FRIEND_POINT_POSSESSION_LIMIT", 
-        "G4L0YIB2": "\u4ea4\u6d41\u30dd\u30a4\u30f3\u30c8\u6700\u5927\u6240\u6301\u6570", 
+        "G4L0YIB2": "交流ポイント最大所持数", 
         "YjIUDJ97": "100000"
     }, 
     {
         "AK8Nn7ta": "FRIEND_REQUEST_MAX_CNT", 
-        "G4L0YIB2": "\u30d5\u30ec\u30f3\u30c9\u7533\u8acb\u6700\u5927\u4eba\u6570", 
+        "G4L0YIB2": "フレンド申請最大人数", 
         "YjIUDJ97": "30"
     }, 
     {
         "AK8Nn7ta": "FRIEND_SUGGEST_CNT", 
-        "G4L0YIB2": "\u30d5\u30ec\u30f3\u30c9\u63d0\u6848\u6570", 
+        "G4L0YIB2": "フレンド提案数", 
         "YjIUDJ97": "100"
     }, 
     {
         "AK8Nn7ta": "FRIEND_SUGGEST_LV_MARGIN", 
-        "G4L0YIB2": "\u30d5\u30ec\u30f3\u30c9\u63d0\u6848LV\u30de\u30fc\u30b8\u30f3", 
+        "G4L0YIB2": "フレンド提案LVマージン", 
         "YjIUDJ97": "5"
     }, 
     {
         "AK8Nn7ta": "FRIEND_SUGGEST_MARGIN_TIME", 
-        "G4L0YIB2": "\u30d5\u30ec\u30f3\u30c9\u63d0\u6848\u53d6\u5f97\u901a\u4fe1\u30de\u30fc\u30b8\u30f3\u6642\u9593", 
+        "G4L0YIB2": "フレンド提案取得通信マージン時間", 
         "YjIUDJ97": "300"
     }, 
     {
         "AK8Nn7ta": "FRIEND_SUGGEST_RETAIN_DATA_CNT", 
-        "G4L0YIB2": "\u30d5\u30ec\u30f3\u30c9\u63d0\u6848\u4fdd\u6301\u30c7\u30fc\u30bf\u6570", 
+        "G4L0YIB2": "フレンド提案保持データ数", 
         "YjIUDJ97": "300"
     }, 
     {
         "AK8Nn7ta": "GACHA_ROUTINE_MARGIN_TIME", 
-        "G4L0YIB2": "GACHA\u5b9a\u671f\u901a\u4fe1\u30de\u30fc\u30b8\u30f3\u6642\u9593", 
+        "G4L0YIB2": "GACHA定期通信マージン時間", 
         "YjIUDJ97": "60"
     }, 
     {
         "AK8Nn7ta": "GATE_RELEASE_SWITCH_ID", 
-        "G4L0YIB2": "\u6b21\u5143\u306e\u72ed\u9593\u89e3\u653e\u6f14\u51fa\u30b9\u30a4\u30c3\u30c1", 
+        "G4L0YIB2": "次元の狭間解放演出スイッチ", 
         "YjIUDJ97": "80010002"
     }, 
     {
         "AK8Nn7ta": "GIL_POSSESSION_LIMIT", 
-        "G4L0YIB2": "\u30ae\u30eb\u6700\u5927\u6240\u6301\u6570", 
+        "G4L0YIB2": "ギル最大所持数", 
         "YjIUDJ97": "100000000"
     }, 
     {
         "AK8Nn7ta": "HANDLENAME_CHANGE_PERMIT_TIME", 
-        "G4L0YIB2": "\u30cf\u30f3\u30c9\u30eb\u540d\u5909\u66f4\u8a31\u53ef\u6642\u9593\uff08\u79d2\uff09", 
+        "G4L0YIB2": "ハンドル名変更許可時間（秒）", 
         "YjIUDJ97": "1209600"
     }, 
     {
         "AK8Nn7ta": "HOME_ROUTINE_MARGIN_TIME", 
-        "G4L0YIB2": "\u30db\u30fc\u30e0\u5b9a\u671f\u901a\u4fe1\u30de\u30fc\u30b8\u30f3\u6642\u9593", 
+        "G4L0YIB2": "ホーム定期通信マージン時間", 
         "YjIUDJ97": "300"
     }, 
     {
         "AK8Nn7ta": "INITIAL_GIFT_ID", 
-        "G4L0YIB2": "\u521d\u671f\u30ae\u30d5\u30c8ID", 
+        "G4L0YIB2": "初期ギフトID", 
         "YjIUDJ97": "10"
     }, 
     {
         "AK8Nn7ta": "INITIAL_MESSAGE", 
-        "G4L0YIB2": "\u521d\u671f\u30e1\u30c3\u30bb\u30fc\u30b8", 
+        "G4L0YIB2": "初期メッセージ", 
         "YjIUDJ97": "USER_TEAM_INFO_DEFAULT_MSG"
     }, 
     {
@@ -911,7 +911,7 @@
     }, 
     {
         "AK8Nn7ta": "IOS_APP_VERSION_UP_MESSAGE", 
-        "G4L0YIB2": "\u30a2\u30d7\u30ea\u30d0\u30fc\u30b8\u30e7\u30f3\u30a2\u30c3\u30d7\u30e1\u30c3\u30bb\u30fc\u30b8\uff08IOS\uff09", 
+        "G4L0YIB2": "アプリバージョンアップメッセージ（IOS）", 
         "YjIUDJ97": "SERVER_MSG_242"
     }, 
     {
@@ -1226,92 +1226,92 @@
     }, 
     {
         "AK8Nn7ta": "IS_HELL_OPEN_SWITCH", 
-        "G4L0YIB2": "SK\u89e3\u653e\u6761\u4ef6\u30b9\u30a4\u30c3\u30c1", 
+        "G4L0YIB2": "SK解放条件スイッチ", 
         "YjIUDJ97": "8991106"
     }, 
     {
         "AK8Nn7ta": "ITEM_SELL_BULK_CNT", 
-        "G4L0YIB2": "\u30a2\u30a4\u30c6\u30e0\u58f2\u5374\u4e00\u62ec\u4ef6\u6570", 
+        "G4L0YIB2": "アイテム売却一括件数", 
         "YjIUDJ97": "50"
     }, 
     {
         "AK8Nn7ta": "MACRO_TOOL_LIST", 
-        "G4L0YIB2": "\u5229\u7528\u7981\u6b62\u30a2\u30d7\u30ea\u30ea\u30b9\u30c8", 
+        "G4L0YIB2": "利用禁止アプリリスト", 
         "YjIUDJ97": "com.x0.strai.frep"
     }, 
     {
         "AK8Nn7ta": "MAGICAL_KEY_ID", 
-        "G4L0YIB2": "\u9b54\u6cd5\u306e\u9375\u306eID", 
+        "G4L0YIB2": "魔法の鍵のID", 
         "YjIUDJ97": "106100100"
     }, 
     {
         "AK8Nn7ta": "MAP_GIVEUP_NO_SEND_ITEM", 
-        "G4L0YIB2": "\u30de\u30c3\u30d7\u30ae\u30d6\u30a2\u30c3\u30d7\u672a\u9001\u4fe1\u30a2\u30a4\u30c6\u30e0", 
+        "G4L0YIB2": "マップギブアップ未送信アイテム", 
         "YjIUDJ97": "20:106100100"
     }, 
     {
         "AK8Nn7ta": "MAX_BEAST_DECK_CNT", 
-        "G4L0YIB2": "\u6700\u5927\u53ec\u559a\u7363\u30c7\u30c3\u30ad\u6570", 
+        "G4L0YIB2": "最大召喚獣デッキ数", 
         "YjIUDJ97": "5"
     }, 
     {
         "AK8Nn7ta": "MAX_MESSAGE_LENGTH", 
-        "G4L0YIB2": "\u30e1\u30c3\u30bb\u30fc\u30b8\u6700\u5927\u6587\u5b57\u6570", 
+        "G4L0YIB2": "メッセージ最大文字数", 
         "YjIUDJ97": "36"
     }, 
     {
         "AK8Nn7ta": "MAX_PARTY_DECK_CNT", 
-        "G4L0YIB2": "\u6700\u5927\u30d1\u30fc\u30c6\u30a3\u30c7\u30c3\u30ad\u6570", 
+        "G4L0YIB2": "最大パーティデッキ数", 
         "YjIUDJ97": "5"
     }, 
     {
         "AK8Nn7ta": "MAX_PARTY_DECK_UNIT_CNT", 
-        "G4L0YIB2": "1\u30c7\u30c3\u30ad\u5185\u6700\u5927\u30e6\u30cb\u30c3\u30c8\u6570", 
+        "G4L0YIB2": "1デッキ内最大ユニット数", 
         "YjIUDJ97": "5"
     }, 
     {
         "AK8Nn7ta": "MAX_TEAM_LV", 
-        "G4L0YIB2": "\u6700\u5927\u90e8\u968a\u30ec\u30d9\u30eb", 
+        "G4L0YIB2": "最大部隊レベル", 
         "YjIUDJ97": "200"
     }, 
     {
         "AK8Nn7ta": "MAX_UNION_CNT", 
-        "G4L0YIB2": "\u6700\u5927\u5408\u6210\u6570", 
+        "G4L0YIB2": "最大合成数", 
         "YjIUDJ97": "5"
     }, 
     {
         "AK8Nn7ta": "MODEL_CHANGE_LIMIT_HOUR", 
-        "G4L0YIB2": "\u6a5f\u7a2e\u5909\u66f4\u5236\u9650\u6642\u9593", 
+        "G4L0YIB2": "機種変更制限時間", 
         "YjIUDJ97": "2160"
     }, 
     {
         "AK8Nn7ta": "MOOGLE_KING_ADDRESS", 
-        "G4L0YIB2": "\u30e2\u30fc\u30b0\u30ea\u738b\u306e\u9593", 
+        "G4L0YIB2": "モーグリ王の間", 
         "YjIUDJ97": "67,11:10"
     }, 
     {
         "AK8Nn7ta": "NEW_USER_SWITCH_ID", 
-        "G4L0YIB2": "\u65b0\u898f\u30e6\u30fc\u30b6\u30fc\u5224\u5225\u30b9\u30a4\u30c3\u30c1", 
+        "G4L0YIB2": "新規ユーザー判別スイッチ", 
         "YjIUDJ97": "10000152"
     }, 
     {
         "AK8Nn7ta": "OPEN_ADVENT_FLG", 
-        "G4L0YIB2": "SK\u8868\u793a\u5236\u5fa1", 
+        "G4L0YIB2": "SK表示制御", 
         "YjIUDJ97": "1"
     }, 
     {
         "AK8Nn7ta": "OP_MOVIE_BGM_DATA", 
-        "G4L0YIB2": "OP\u30e0\u30fc\u30d3\u30fc\u4e2d\u306eBGM\u30c7\u30fc\u30bf", 
+        "G4L0YIB2": "OPムービー中のBGMデータ", 
         "YjIUDJ97": "12:400102,252:400005"
     }, 
     {
         "AK8Nn7ta": "OTHER_WORLD_TOWN_ID", 
-        "G4L0YIB2": "\u7570\u754c\u30bf\u30a6\u30f3ID", 
+        "G4L0YIB2": "異界タウンID", 
         "YjIUDJ97": "9001"
     }, 
     {
         "AK8Nn7ta": "PASSIVE_ADD_LIMIT", 
-        "G4L0YIB2": "\u30d1\u30c3\u30b7\u30d6\u52a0\u7b97\u9650\u754c", 
+        "G4L0YIB2": "パッシブ加算限界", 
         "YjIUDJ97": "37:100,45:100,47:100"
     }, 
     {
@@ -1326,57 +1326,57 @@
     }, 
     {
         "AK8Nn7ta": "RAID_MENU_ROUTINE_MARGIN_TIME", 
-        "G4L0YIB2": "\u30ec\u30a4\u30c9\u30e1\u30cb\u30e5\u30fc\u5b9a\u671f\u901a\u4fe1\u30de\u30fc\u30b8\u30f3\u6642\u9593", 
+        "G4L0YIB2": "レイドメニュー定期通信マージン時間", 
         "YjIUDJ97": "60"
     }, 
     {
         "AK8Nn7ta": "RARE_GACHA_SWITCH_ID", 
-        "G4L0YIB2": "\u30ec\u30a2\u30ac\u30c1\u30e3\u521d\u56de\u30b9\u30a4\u30c3\u30c1", 
+        "G4L0YIB2": "レアガチャ初回スイッチ", 
         "YjIUDJ97": "10000153"
     }, 
     {
         "AK8Nn7ta": "RECOVER_TIME_ACTION", 
-        "G4L0YIB2": "\u884c\u52d5\u529b\u56de\u5fa9\u6642\u9593", 
+        "G4L0YIB2": "行動力回復時間", 
         "YjIUDJ97": "300"
     }, 
     {
         "AK8Nn7ta": "RECOVER_TIME_COLOSSEUM_ORB", 
-        "G4L0YIB2": "\u30b3\u30ed\u30b7\u30a2\u30e0\u30aa\u30fc\u30d6\u56de\u5fa9\u6642\u9593", 
+        "G4L0YIB2": "コロシアムオーブ回復時間", 
         "YjIUDJ97": "3600"
     }, 
     {
         "AK8Nn7ta": "RECOVER_TIME_EVENT_ORB", 
-        "G4L0YIB2": "\u30a4\u30d9\u30f3\u30c8\u30aa\u30fc\u30d6\u56de\u5fa9\u6642\u9593", 
+        "G4L0YIB2": "イベントオーブ回復時間", 
         "YjIUDJ97": "3600"
     }, 
     {
         "AK8Nn7ta": "REIN_FRI_DISP_CNT", 
-        "G4L0YIB2": "\u30d5\u30ec\u30f3\u30c9\u63f4\u8ecd\u8868\u793a\u691c\u3059", 
+        "G4L0YIB2": "フレンド援軍表示検す", 
         "YjIUDJ97": "20"
     }, 
     {
         "AK8Nn7ta": "REIN_NRM_DISP_CNT", 
-        "G4L0YIB2": "\u901a\u5e38\u63f4\u8ecd\u8868\u793a\u4ef6\u6570", 
+        "G4L0YIB2": "通常援軍表示件数", 
         "YjIUDJ97": "5"
     }, 
     {
         "AK8Nn7ta": "REIN_NRM_RES_CNT", 
-        "G4L0YIB2": "\u901a\u5e38\u63f4\u8ecd\u30ec\u30b9\u30dd\u30f3\u30b9\u4ef6\u6570", 
+        "G4L0YIB2": "通常援軍レスポンス件数", 
         "YjIUDJ97": "20"
     }, 
     {
         "AK8Nn7ta": "RESOURCE_DL_RETRY_CNT", 
-        "G4L0YIB2": "\u30ea\u30bd\u30fc\u30b9\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u30ea\u30c8\u30e9\u30a4\u56de\u6570", 
+        "G4L0YIB2": "リソースダウンロードリトライ回数", 
         "YjIUDJ97": "1"
     }, 
     {
         "AK8Nn7ta": "REVIEW_FINISHED_SWITCH_ID", 
-        "G4L0YIB2": "\u30ec\u30d3\u30e5\u30fc\u5b8c\u4e86\u30b9\u30a4\u30c3\u30c1ID", 
+        "G4L0YIB2": "レビュー完了スイッチID", 
         "YjIUDJ97": "10000151"
     }, 
     {
         "AK8Nn7ta": "REVIEW_TRIGGER_STORY_SUB_ID", 
-        "G4L0YIB2": "\u30ec\u30d3\u30e5\u30fc\u8d77\u52d5\u30b9\u30c8\u30fc\u30ea\u30fc\u30b5\u30d6ID", 
+        "G4L0YIB2": "レビュー起動ストーリーサブID", 
         "YjIUDJ97": "109"
     }, 
     {
@@ -1401,62 +1401,62 @@
     }, 
     {
         "AK8Nn7ta": "TEAM_LV_UP_REWARD_DIAMOND_CNT", 
-        "G4L0YIB2": "\u90e8\u968a\u30ec\u30d9\u30eb\u30a2\u30c3\u30d7\u5831\u916c\u30c0\u30a4\u30e4\u500b\u6570", 
+        "G4L0YIB2": "部隊レベルアップ報酬ダイヤ個数", 
         "YjIUDJ97": "100"
     }, 
     {
         "AK8Nn7ta": "TICKER_LOG_DISP_TIME", 
-        "G4L0YIB2": "\u30c6\u30a3\u30c3\u30ab\u30fc\u30ed\u30b0\u306e\u8868\u793a\u6642\u9593", 
+        "G4L0YIB2": "ティッカーログの表示時間", 
         "YjIUDJ97": "2.8"
     }, 
     {
         "AK8Nn7ta": "TICKER_LOG_FLOW_SPEED_COEFFICIENT", 
-        "G4L0YIB2": "\u30c6\u30a3\u30c3\u30ab\u30fc\u30ed\u30b0\u306e\u79fb\u52d5\u901f\u5ea6\u4fc2\u6570", 
+        "G4L0YIB2": "ティッカーログの移動速度係数", 
         "YjIUDJ97": "0.01"
     }, 
     {
         "AK8Nn7ta": "TROPHY_MAX_GRADE", 
-        "G4L0YIB2": "\u30c8\u30ed\u30d5\u30a3\u30fc\u306e\u6700\u5927\u30b0\u30ec\u30fc\u30c9", 
+        "G4L0YIB2": "トロフィーの最大グレード", 
         "YjIUDJ97": "3"
     }, 
     {
         "AK8Nn7ta": "TRUST_WILDCARD_ICON_ID", 
-        "G4L0YIB2": "\u4e07\u80fd\u30c8\u30e9\u30b9\u30c8\u30a2\u30a4\u30b3\u30f3ID", 
+        "G4L0YIB2": "万能トラストアイコンID", 
         "YjIUDJ97": "100000000"
     }, 
     {
         "AK8Nn7ta": "TRUST_WILDCARD_ITEM_NAME", 
-        "G4L0YIB2": "\u4e07\u80fd\u30c8\u30e9\u30b9\u30c8\u30a2\u30a4\u30c6\u30e0\u540d", 
+        "G4L0YIB2": "万能トラストアイテム名", 
         "YjIUDJ97": "ALL"
     }, 
     {
         "AK8Nn7ta": "TUTORIAL_AREA_ID", 
-        "G4L0YIB2": "\u30c1\u30e5\u30fc\u30c8\u30ea\u30a2\u30eb\u30a8\u30ea\u30a2ID", 
+        "G4L0YIB2": "チュートリアルエリアID", 
         "YjIUDJ97": "111"
     }, 
     {
         "AK8Nn7ta": "TUTORIAL_END_SWITCH_ID", 
-        "G4L0YIB2": "\u30c1\u30e5\u30fc\u30c8\u30ea\u30a2\u30eb\u7d42\u4e86\u30b9\u30a4\u30c3\u30c1ID", 
+        "G4L0YIB2": "チュートリアル終了スイッチID", 
         "YjIUDJ97": "10003001"
     }, 
     {
         "AK8Nn7ta": "TUTORIAL_GACHA_ID", 
-        "G4L0YIB2": "\u30c1\u30e5\u30fc\u30c8\u30ea\u30a2\u30eb\u30ac\u30c1\u30e3ID", 
+        "G4L0YIB2": "チュートリアルガチャID", 
         "YjIUDJ97": "3"
     }, 
     {
         "AK8Nn7ta": "TUTORIAL_GACHA_SWITCH_ID", 
-        "G4L0YIB2": "\u30c1\u30e5\u30fc\u30c8\u30ea\u30a2\u30eb\u30ac\u30c1\u30e3\u30b9\u30a4\u30c3\u30c1ID", 
+        "G4L0YIB2": "チュートリアルガチャスイッチID", 
         "YjIUDJ97": "10000110"
     }, 
     {
         "AK8Nn7ta": "TUTORIAL_MISSION_ID", 
-        "G4L0YIB2": "\u30c1\u30e5\u30fc\u30c8\u30ea\u30a2\u30eb\u30df\u30c3\u30b7\u30e7\u30f3ID", 
+        "G4L0YIB2": "チュートリアルミッションID", 
         "YjIUDJ97": "1110100"
     }, 
     {
         "AK8Nn7ta": "UNIT_EQUIP_BULK_CNT", 
-        "G4L0YIB2": "\u30e6\u30cb\u30c3\u30c8\u88c5\u5099\u5909\u66f4\u4e00\u62ec\u4ef6\u6570", 
+        "G4L0YIB2": "ユニット装備変更一括件数", 
         "YjIUDJ97": "50"
     }, 
     {
@@ -1466,17 +1466,17 @@
     }, 
     {
         "AK8Nn7ta": "UNIT_SELL_BULK_CNT", 
-        "G4L0YIB2": "\u30e6\u30cb\u30c3\u30c8\u58f2\u5374\u4e00\u62ec\u4ef6\u6570", 
+        "G4L0YIB2": "ユニット売却一括件数", 
         "YjIUDJ97": "50"
     }, 
     {
         "AK8Nn7ta": "WORLD_CHANGE_EFFECT_SWITCH_ID", 
-        "G4L0YIB2": "\u30ef\u30fc\u30eb\u30c9\u5207\u308a\u66ff\u3048\u521d\u56de\u6f14\u51fa\u30b9\u30a4\u30c3\u30c1", 
+        "G4L0YIB2": "ワールド切り替え初回演出スイッチ", 
         "YjIUDJ97": "10000157"
     }, 
     {
         "AK8Nn7ta": "WORLD_ROUTINE_MARGIN_TIME", 
-        "G4L0YIB2": "\u30ef\u30fc\u30eb\u30c9\u5b9a\u671f\u901a\u4fe1\u30de\u30fc\u30b8\u30f3\u6642\u9593", 
+        "G4L0YIB2": "ワールド定期通信マージン時間", 
         "YjIUDJ97": "60"
     }
 ]

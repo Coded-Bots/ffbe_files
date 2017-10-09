@@ -1,86 +1,86 @@
 [
     {
         "4JZgSr3A": "1", 
-        "6uvHX2JG": "\u5171\u901a\u7981\u6b62", 
+        "6uvHX2JG": "共通禁止", 
         "G4L0YIB2": "", 
         "I0YW6Piv": "1"
     }, 
     {
         "4JZgSr3A": "2", 
-        "6uvHX2JG": "\u706b\u5c5e\u6027\u9b54\u6cd5,\u30a2\u30d3\u30ea\u30c6\u30a3\u7981\u6b62", 
-        "G4L0YIB2": "\u706b\u5c5e\u6027\u653b\u6483", 
+        "6uvHX2JG": "火属性魔法,アビリティ禁止", 
+        "G4L0YIB2": "火属性攻撃", 
         "I0YW6Piv": "2"
     }, 
     {
         "4JZgSr3A": "3", 
-        "6uvHX2JG": "\u6c37\u5c5e\u6027\u653b\u6483\u7981\u6b62", 
-        "G4L0YIB2": "\u6c37\u5c5e\u6027\u653b\u6483", 
+        "6uvHX2JG": "氷属性攻撃禁止", 
+        "G4L0YIB2": "氷属性攻撃", 
         "I0YW6Piv": "3"
     }, 
     {
         "4JZgSr3A": "4", 
-        "6uvHX2JG": "\u96f7\u5c5e\u6027\u653b\u6483\u7981\u6b62", 
-        "G4L0YIB2": "\u96f7\u5c5e\u6027\u653b\u6483", 
+        "6uvHX2JG": "雷属性攻撃禁止", 
+        "G4L0YIB2": "雷属性攻撃", 
         "I0YW6Piv": "4"
     }, 
     {
         "4JZgSr3A": "5", 
-        "6uvHX2JG": "\u6c34\u5c5e\u6027\u653b\u6483\u7981\u6b62", 
-        "G4L0YIB2": "\u6c34\u5c5e\u6027\u653b\u6483", 
+        "6uvHX2JG": "水属性攻撃禁止", 
+        "G4L0YIB2": "水属性攻撃", 
         "I0YW6Piv": "5"
     }, 
     {
         "4JZgSr3A": "6", 
-        "6uvHX2JG": "\u98a8\u5c5e\u6027\u653b\u6483\u7981\u6b62", 
-        "G4L0YIB2": "\u98a8\u5c5e\u6027\u653b\u6483", 
+        "6uvHX2JG": "風属性攻撃禁止", 
+        "G4L0YIB2": "風属性攻撃", 
         "I0YW6Piv": "6"
     }, 
     {
         "4JZgSr3A": "7", 
-        "6uvHX2JG": "\u571f\u5c5e\u6027\u653b\u6483\u7981\u6b62", 
-        "G4L0YIB2": "\u571f\u5c5e\u6027\u653b\u6483", 
+        "6uvHX2JG": "土属性攻撃禁止", 
+        "G4L0YIB2": "土属性攻撃", 
         "I0YW6Piv": "7"
     }, 
     {
         "4JZgSr3A": "8", 
-        "6uvHX2JG": "\u5149\u5c5e\u6027\u653b\u6483\u7981\u6b62", 
-        "G4L0YIB2": "\u5149\u5c5e\u6027\u653b\u6483", 
+        "6uvHX2JG": "光属性攻撃禁止", 
+        "G4L0YIB2": "光属性攻撃", 
         "I0YW6Piv": "8"
     }, 
     {
         "4JZgSr3A": "9", 
-        "6uvHX2JG": "\u95c7\u5c5e\u6027\u653b\u6483\u7981\u6b62", 
-        "G4L0YIB2": "\u95c7\u5c5e\u6027\u653b\u6483", 
+        "6uvHX2JG": "闇属性攻撃禁止", 
+        "G4L0YIB2": "闇属性攻撃", 
         "I0YW6Piv": "9"
     }, 
     {
         "4JZgSr3A": "10", 
-        "6uvHX2JG": "\u30b9\u30c6\u30fc\u30bf\u30b9\u30a2\u30c3\u30d7\u7cfb\u7981\u6b62", 
-        "G4L0YIB2": "\u30b9\u30c6\u30fc\u30bf\u30b9\u30a2\u30c3\u30d7\u7cfb", 
+        "6uvHX2JG": "ステータスアップ系禁止", 
+        "G4L0YIB2": "ステータスアップ系", 
         "I0YW6Piv": "10"
     }, 
     {
         "4JZgSr3A": "11", 
-        "6uvHX2JG": "\u30b9\u30c6\u30fc\u30bf\u30b9\u30c0\u30a6\u30f3\u7cfb\u7981\u6b62", 
-        "G4L0YIB2": "\u30b9\u30c6\u30fc\u30bf\u30b9\u30c0\u30a6\u30f3\u7cfb", 
+        "6uvHX2JG": "ステータスダウン系禁止", 
+        "G4L0YIB2": "ステータスダウン系", 
         "I0YW6Piv": "11"
     }, 
     {
         "4JZgSr3A": "12", 
-        "6uvHX2JG": "\u8907\u6570\u7269\u7406\u653b\u6483\u7cfb\u7981\u6b62", 
-        "G4L0YIB2": "\u8907\u6570\u7269\u7406\u653b\u6483\u7cfb", 
+        "6uvHX2JG": "複数物理攻撃系禁止", 
+        "G4L0YIB2": "複数物理攻撃系", 
         "I0YW6Piv": "12"
     }, 
     {
         "4JZgSr3A": "13", 
-        "6uvHX2JG": "\u8907\u6570\u9b54\u6cd5\u653b\u6483\u7cfb\u7981\u6b62", 
-        "G4L0YIB2": "\u8907\u6570\u9b54\u6cd5\u653b\u6483\u7cfb", 
+        "6uvHX2JG": "複数魔法攻撃系禁止", 
+        "G4L0YIB2": "複数魔法攻撃系", 
         "I0YW6Piv": "13"
     }, 
     {
         "4JZgSr3A": "14", 
-        "6uvHX2JG": "\u72b6\u614b\u7570\u5e38\u4ed8\u4e0e\u7cfb\u7981\u6b62", 
-        "G4L0YIB2": "\u72b6\u614b\u7570\u5e38\u4ed8\u4e0e\u7cfb", 
+        "6uvHX2JG": "状態異常付与系禁止", 
+        "G4L0YIB2": "状態異常付与系", 
         "I0YW6Piv": "14"
     }, 
     {

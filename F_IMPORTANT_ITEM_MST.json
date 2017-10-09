@@ -5,7 +5,7 @@
         "2dfixko3": "20", 
         "9J6uRe8f": "99", 
         "Do3sv8yH": "9999", 
-        "G4L0YIB2": "\u30af\u30ec\u30b9\u30c8", 
+        "G4L0YIB2": "クレスト", 
         "Z0EN6jSh": "2"
     }, 
     {
@@ -14,7 +14,7 @@
         "2dfixko3": "30", 
         "9J6uRe8f": "99", 
         "Do3sv8yH": "9999", 
-        "G4L0YIB2": "\u7d4c\u9a13\u5024\u30ad\u30fc", 
+        "G4L0YIB2": "経験値キー", 
         "Z0EN6jSh": "3"
     }, 
     {
@@ -23,7 +23,7 @@
         "2dfixko3": "40", 
         "9J6uRe8f": "99", 
         "Do3sv8yH": "9999", 
-        "G4L0YIB2": "\u30b8\u30e5\u30a8\u30eb\u30ad\u30fc", 
+        "G4L0YIB2": "ジュエルキー", 
         "Z0EN6jSh": "4"
     }, 
     {
@@ -32,7 +32,7 @@
         "2dfixko3": "50", 
         "9J6uRe8f": "99", 
         "Do3sv8yH": "9999", 
-        "G4L0YIB2": "\u30ec\u30a2\u53ec\u559a\u30c1\u30b1\u30c3\u30c8", 
+        "G4L0YIB2": "レア召喚チケット", 
         "Z0EN6jSh": "5"
     }, 
     {
@@ -41,7 +41,7 @@
         "2dfixko3": "60", 
         "9J6uRe8f": "99", 
         "Do3sv8yH": "9999", 
-        "G4L0YIB2": "\u30a2\u30ea\u30fc\u30ca\u53ec\u559a\u30c1\u30b1\u30c3\u30c8", 
+        "G4L0YIB2": "アリーナ召喚チケット", 
         "Z0EN6jSh": "6"
     }, 
     {
@@ -50,7 +50,7 @@
         "2dfixko3": "70", 
         "9J6uRe8f": "99", 
         "Do3sv8yH": "9999", 
-        "G4L0YIB2": "\u26054\u4ee5\u4e0a\u78ba\u5b9a\u53ec\u559a\u30c1\u30b1\u30c3\u30c8", 
+        "G4L0YIB2": "★4以上確定召喚チケット", 
         "Z0EN6jSh": "7"
     }, 
     {
@@ -59,7 +59,7 @@
         "2dfixko3": "100", 
         "9J6uRe8f": "99", 
         "Do3sv8yH": "199", 
-        "G4L0YIB2": "\u4f53\u529b\u56de\u5fa9\u85ac10", 
+        "G4L0YIB2": "体力回復薬10", 
         "Z0EN6jSh": "100"
     }, 
     {
@@ -68,7 +68,7 @@
         "2dfixko3": "110", 
         "9J6uRe8f": "99", 
         "Do3sv8yH": "199", 
-        "G4L0YIB2": "\u4f53\u529b\u56de\u5fa9\u85ac30", 
+        "G4L0YIB2": "体力回復薬30", 
         "Z0EN6jSh": "110"
     }, 
     {
@@ -77,7 +77,7 @@
         "2dfixko3": "120", 
         "9J6uRe8f": "99", 
         "Do3sv8yH": "199", 
-        "G4L0YIB2": "\u4f53\u529b\u56de\u5fa9\u85ac50", 
+        "G4L0YIB2": "体力回復薬50", 
         "Z0EN6jSh": "120"
     }, 
     {
@@ -86,7 +86,7 @@
         "2dfixko3": "160", 
         "9J6uRe8f": "99", 
         "Do3sv8yH": "999", 
-        "G4L0YIB2": "EX\u53ec\u559a\u30c1\u30b1\u30c3\u30c8", 
+        "G4L0YIB2": "EX召喚チケット", 
         "Z0EN6jSh": "160"
     }, 
     {
@@ -95,7 +95,7 @@
         "2dfixko3": "170", 
         "9J6uRe8f": "99", 
         "Do3sv8yH": "999", 
-        "G4L0YIB2": "\u26054\u4ee5\u4e0a\u78ba\u5b9aEX\u53ec\u559a\u30c1\u30b1\u30c3\u30c8", 
+        "G4L0YIB2": "★4以上確定EX召喚チケット", 
         "Z0EN6jSh": "170"
     }, 
     {
@@ -104,7 +104,7 @@
         "2dfixko3": "180", 
         "9J6uRe8f": "99", 
         "Do3sv8yH": "999", 
-        "G4L0YIB2": "\u26055\u4ee5\u4e0a\u78ba\u5b9aEX\u53ec\u559a\u30c1\u30b1\u30c3\u30c8", 
+        "G4L0YIB2": "★5以上確定EX召喚チケット", 
         "Z0EN6jSh": "180"
     }, 
     {
@@ -113,7 +113,7 @@
         "2dfixko3": "890", 
         "9J6uRe8f": "99", 
         "Do3sv8yH": "9999", 
-        "G4L0YIB2": "\u7279\u5225\u901a\u884c\u8a31\u53ef\u8a3c", 
+        "G4L0YIB2": "特別通行許可証", 
         "Z0EN6jSh": "999"
     }, 
     {

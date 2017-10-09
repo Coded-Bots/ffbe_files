@@ -2,91 +2,91 @@
     {
         "6uvHX2JG": "", 
         "8f7mxN3j": "100", 
-        "G4L0YIB2": "\u30e6\u30cb\u30c3\u30c8\u67a0\u62e1\u5f35", 
+        "G4L0YIB2": "ユニット枠拡張", 
         "gdR2tJI9": "10", 
         "xHZj7Va5": "5"
     }, 
     {
         "6uvHX2JG": "", 
         "8f7mxN3j": "100", 
-        "G4L0YIB2": "\u30a2\u30a4\u30c6\u30e0\u67a0\u62e1\u5f35", 
+        "G4L0YIB2": "アイテム枠拡張", 
         "gdR2tJI9": "11", 
         "xHZj7Va5": "5"
     }, 
     {
         "6uvHX2JG": "", 
         "8f7mxN3j": "100", 
-        "G4L0YIB2": "\u88c5\u5099\u30a2\u30a4\u30c6\u30e0\u67a0\u62e1\u5f35", 
+        "G4L0YIB2": "装備アイテム枠拡張", 
         "gdR2tJI9": "12", 
         "xHZj7Va5": "5"
     }, 
     {
         "6uvHX2JG": "", 
         "8f7mxN3j": "100", 
-        "G4L0YIB2": "\u30de\u30c6\u30ea\u30a2\u67a0\u62e1\u5f35", 
+        "G4L0YIB2": "マテリア枠拡張", 
         "gdR2tJI9": "13", 
         "xHZj7Va5": "5"
     }, 
     {
         "6uvHX2JG": "", 
         "8f7mxN3j": "100", 
-        "G4L0YIB2": "\u30d5\u30ec\u30f3\u30c9\u67a0\u62e1\u5f35", 
+        "G4L0YIB2": "フレンド枠拡張", 
         "gdR2tJI9": "14", 
         "xHZj7Va5": "5"
     }, 
     {
         "6uvHX2JG": "", 
         "8f7mxN3j": "100", 
-        "G4L0YIB2": "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0\u67a0\u62e1\u5f35", 
+        "G4L0YIB2": "素材アイテム枠拡張", 
         "gdR2tJI9": "15", 
         "xHZj7Va5": "5"
     }, 
     {
         "6uvHX2JG": "", 
         "8f7mxN3j": "100", 
-        "G4L0YIB2": "\u4f53\u529b\u56de\u5fa9", 
+        "G4L0YIB2": "体力回復", 
         "gdR2tJI9": "20", 
         "xHZj7Va5": "0"
     }, 
     {
         "6uvHX2JG": "", 
         "8f7mxN3j": "100", 
-        "G4L0YIB2": "\u30b3\u30ed\u30b7\u30a2\u30e0\u30aa\u30fc\u30d6\u56de\u5fa9", 
+        "G4L0YIB2": "コロシアムオーブ回復", 
         "gdR2tJI9": "21", 
         "xHZj7Va5": "0"
     }, 
     {
         "6uvHX2JG": "", 
         "8f7mxN3j": "100", 
-        "G4L0YIB2": "\u30a4\u30d9\u30f3\u30c8\u30aa\u30fc\u30d6\u56de\u5fa9", 
+        "G4L0YIB2": "イベントオーブ回復", 
         "gdR2tJI9": "22", 
         "xHZj7Va5": "0"
     }, 
     {
         "6uvHX2JG": "", 
         "8f7mxN3j": "100", 
-        "G4L0YIB2": "\u5236\u4f5c\u6642\u9593\u77ed\u7e2e", 
+        "G4L0YIB2": "制作時間短縮", 
         "gdR2tJI9": "30", 
         "xHZj7Va5": "86400"
     }, 
     {
         "6uvHX2JG": "", 
         "8f7mxN3j": "100", 
-        "G4L0YIB2": "\u7279\u6b8a\u30c0\u30f3\u30b8\u30e7\u30f3\u89e3\u653e", 
+        "G4L0YIB2": "特殊ダンジョン解放", 
         "gdR2tJI9": "40", 
         "xHZj7Va5": "86400"
     }, 
     {
         "6uvHX2JG": "", 
         "8f7mxN3j": "0", 
-        "G4L0YIB2": "\u4f53\u529b\u56de\u5fa9\u30a2\u30a4\u30c6\u30e0", 
+        "G4L0YIB2": "体力回復アイテム", 
         "gdR2tJI9": "50", 
         "xHZj7Va5": "23:100,23:110,23:120"
     }, 
     {
         "6uvHX2JG": "", 
         "8f7mxN3j": "100", 
-        "G4L0YIB2": "\u5e7b\u7363\u30dd\u30a4\u30f3\u30c8\u30ea\u30bb\u30c3\u30c8", 
+        "G4L0YIB2": "幻獣ポイントリセット", 
         "gdR2tJI9": "60", 
         "xHZj7Va5": "0"
     }, 

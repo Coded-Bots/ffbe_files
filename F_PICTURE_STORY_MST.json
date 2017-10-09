@@ -2,7 +2,7 @@
     {
         "1C7GDEv4": "10000114", 
         "2Gszu9xN": "1000", 
-        "G4L0YIB2": "\u30d0\u30c8\u30eb\u2460", 
+        "G4L0YIB2": "バトル①", 
         "Hb8v3xnI": "battle", 
         "SjF52z7N": "10000114", 
         "UV40fcZK": "1", 
@@ -14,7 +14,7 @@
     {
         "1C7GDEv4": "10000115", 
         "2Gszu9xN": "2000", 
-        "G4L0YIB2": "\u30d0\u30c8\u30eb\u2461", 
+        "G4L0YIB2": "バトル②", 
         "Hb8v3xnI": "battle", 
         "SjF52z7N": "10000115", 
         "UV40fcZK": "1", 
@@ -38,7 +38,7 @@
     {
         "1C7GDEv4": "10000117", 
         "2Gszu9xN": "4000", 
-        "G4L0YIB2": "\u30e6\u30cb\u30c3\u30c8\u2460", 
+        "G4L0YIB2": "ユニット①", 
         "Hb8v3xnI": "unit", 
         "SjF52z7N": "10000117", 
         "UV40fcZK": "1", 
@@ -50,7 +50,7 @@
     {
         "1C7GDEv4": "10000118", 
         "2Gszu9xN": "5000", 
-        "G4L0YIB2": "\u30e6\u30cb\u30c3\u30c8\u2461", 
+        "G4L0YIB2": "ユニット②", 
         "Hb8v3xnI": "unit_mix", 
         "SjF52z7N": "10000118", 
         "UV40fcZK": "1", 
@@ -62,7 +62,7 @@
     {
         "1C7GDEv4": "10000119", 
         "2Gszu9xN": "6000", 
-        "G4L0YIB2": "\u30e6\u30cb\u30c3\u30c8\u2462", 
+        "G4L0YIB2": "ユニット③", 
         "Hb8v3xnI": "unit_classup", 
         "SjF52z7N": "10000119", 
         "UV40fcZK": "1", 
@@ -74,7 +74,7 @@
     {
         "1C7GDEv4": "10000120", 
         "2Gszu9xN": "7000", 
-        "G4L0YIB2": "\u30af\u30e9\u30d5\u30c8", 
+        "G4L0YIB2": "クラフト", 
         "Hb8v3xnI": "script", 
         "SjF52z7N": "10000120", 
         "UV40fcZK": "1", 
@@ -86,7 +86,7 @@
     {
         "1C7GDEv4": "10000121", 
         "2Gszu9xN": "8000", 
-        "G4L0YIB2": "\u7570\u754c", 
+        "G4L0YIB2": "異界", 
         "Hb8v3xnI": "script", 
         "SjF52z7N": "10000121", 
         "UV40fcZK": "1", 
@@ -98,7 +98,7 @@
     {
         "1C7GDEv4": "10000122", 
         "2Gszu9xN": "9000", 
-        "G4L0YIB2": "\u63a2\u7d22\u30de\u30c3\u30d7", 
+        "G4L0YIB2": "探索マップ", 
         "Hb8v3xnI": "area", 
         "SjF52z7N": "10000122", 
         "UV40fcZK": "1", 
@@ -110,7 +110,7 @@
     {
         "1C7GDEv4": "10000123", 
         "2Gszu9xN": "10000", 
-        "G4L0YIB2": "\u6b21\u5143\u306e\u72ed\u9593", 
+        "G4L0YIB2": "次元の狭間", 
         "Hb8v3xnI": "gate", 
         "SjF52z7N": "10000123", 
         "UV40fcZK": "1", 
@@ -122,7 +122,7 @@
     {
         "1C7GDEv4": "10000124", 
         "2Gszu9xN": "11000", 
-        "G4L0YIB2": "\u5e7b\u7363", 
+        "G4L0YIB2": "幻獣", 
         "Hb8v3xnI": "home", 
         "SjF52z7N": "10000124", 
         "UV40fcZK": "1", 
@@ -134,7 +134,7 @@
     {
         "1C7GDEv4": "10000125", 
         "2Gszu9xN": "12000", 
-        "G4L0YIB2": "\u9b54\u6cd5\u306e\u9375", 
+        "G4L0YIB2": "魔法の鍵", 
         "Hb8v3xnI": "script", 
         "SjF52z7N": "10000125", 
         "UV40fcZK": "1", 
@@ -146,7 +146,7 @@
     {
         "1C7GDEv4": "10000113", 
         "2Gszu9xN": "13000", 
-        "G4L0YIB2": "\u30a2\u30ea\u30fc\u30ca\u2460", 
+        "G4L0YIB2": "アリーナ①", 
         "Hb8v3xnI": "home", 
         "SjF52z7N": "10000113", 
         "UV40fcZK": "1", 
@@ -158,7 +158,7 @@
     {
         "1C7GDEv4": "10000127", 
         "2Gszu9xN": "14000", 
-        "G4L0YIB2": "\u8857", 
+        "G4L0YIB2": "街", 
         "Hb8v3xnI": "script", 
         "SjF52z7N": "10000127", 
         "UV40fcZK": "1", 
@@ -170,7 +170,7 @@
     {
         "1C7GDEv4": "10000128", 
         "2Gszu9xN": "15000", 
-        "G4L0YIB2": "\u30d5\u30ec\u30f3\u30c9Lv", 
+        "G4L0YIB2": "フレンドLv", 
         "Hb8v3xnI": "home", 
         "SjF52z7N": "10000128", 
         "UV40fcZK": "0", 
@@ -182,7 +182,7 @@
     {
         "1C7GDEv4": "10000129", 
         "2Gszu9xN": "15001", 
-        "G4L0YIB2": "\u30d5\u30ec\u30f3\u30c9Lv", 
+        "G4L0YIB2": "フレンドLv", 
         "Hb8v3xnI": "home", 
         "SjF52z7N": "10000129", 
         "UV40fcZK": "1", 
@@ -194,7 +194,7 @@
     {
         "1C7GDEv4": "10000154", 
         "2Gszu9xN": "18000", 
-        "G4L0YIB2": "\u30a2\u30d3\u30ea\u30c6\u30a3\u899a\u9192", 
+        "G4L0YIB2": "アビリティ覚醒", 
         "Hb8v3xnI": "ability_sublimation", 
         "SjF52z7N": "10000154", 
         "UV40fcZK": "1", 
@@ -206,7 +206,7 @@
     {
         "1C7GDEv4": "10000156", 
         "2Gszu9xN": "19000", 
-        "G4L0YIB2": "EX\u30dd\u30a4\u30f3\u30c8", 
+        "G4L0YIB2": "EXポイント", 
         "Hb8v3xnI": "EX-P_Explain", 
         "SjF52z7N": "10000156", 
         "UV40fcZK": "1", 
@@ -218,7 +218,7 @@
     {
         "1C7GDEv4": "10000160", 
         "2Gszu9xN": "20000", 
-        "G4L0YIB2": "\u8ffd\u61b6\u306e\u90e8\u5c4b", 
+        "G4L0YIB2": "追憶の部屋", 
         "Hb8v3xnI": "script", 
         "SjF52z7N": "10000160", 
         "UV40fcZK": "1", 
@@ -230,7 +230,7 @@
     {
         "1C7GDEv4": "10000159", 
         "2Gszu9xN": "21000", 
-        "G4L0YIB2": "\u30d1\u30e9\u30c7\u30a4\u30a2\u3078\u79fb\u52d5", 
+        "G4L0YIB2": "パラデイアへ移動", 
         "Hb8v3xnI": "home", 
         "SjF52z7N": "10000159", 
         "UV40fcZK": "1", 
@@ -242,7 +242,7 @@
     {
         "1C7GDEv4": "10000161", 
         "2Gszu9xN": "22000", 
-        "G4L0YIB2": "\u30a2\u30ea\u30fc\u30ca\u2461", 
+        "G4L0YIB2": "アリーナ②", 
         "Hb8v3xnI": "arena_party", 
         "SjF52z7N": "10000161", 
         "UV40fcZK": "1", 
@@ -254,7 +254,7 @@
     {
         "1C7GDEv4": "10000162", 
         "2Gszu9xN": "23000", 
-        "G4L0YIB2": "\u5341\u4e8c\u6b66\u5177\u306e\u9593", 
+        "G4L0YIB2": "十二武具の間", 
         "Hb8v3xnI": "alliance", 
         "SjF52z7N": "10000162", 
         "UV40fcZK": "1", 
@@ -266,7 +266,7 @@
     {
         "1C7GDEv4": "10000167", 
         "2Gszu9xN": "24000", 
-        "G4L0YIB2": "\u30df\u30c3\u30b7\u30e7\u30f3", 
+        "G4L0YIB2": "ミッション", 
         "Hb8v3xnI": "home", 
         "SjF52z7N": "10000167", 
         "UV40fcZK": "1", 
@@ -278,7 +278,7 @@
     {
         "1C7GDEv4": "10000169", 
         "2Gszu9xN": "25000", 
-        "G4L0YIB2": "\u30c7\u30a4\u30ea\u30fc\u30df\u30c3\u30b7\u30e7\u30f3", 
+        "G4L0YIB2": "デイリーミッション", 
         "Hb8v3xnI": "home", 
         "SjF52z7N": "10000169", 
         "UV40fcZK": "1", 
@@ -290,7 +290,7 @@
     {
         "1C7GDEv4": "10000101", 
         "2Gszu9xN": "50000", 
-        "G4L0YIB2": "\u30b9\u30c8\u30fc\u30ea\u30fc\u8ffd\u52a0", 
+        "G4L0YIB2": "ストーリー追加", 
         "Hb8v3xnI": "area", 
         "SjF52z7N": "10000101", 
         "UV40fcZK": "0", 
@@ -302,7 +302,7 @@
     {
         "1C7GDEv4": "10000102", 
         "2Gszu9xN": "50010", 
-        "G4L0YIB2": "\u30b9\u30c8\u30fc\u30ea\u30fc\u8ffd\u52a0botu", 
+        "G4L0YIB2": "ストーリー追加botu", 
         "Hb8v3xnI": "area", 
         "SjF52z7N": "10000102", 
         "UV40fcZK": "0", 
@@ -314,7 +314,7 @@
     {
         "1C7GDEv4": "10000103", 
         "2Gszu9xN": "50020", 
-        "G4L0YIB2": "\u30b9\u30c8\u30fc\u30ea\u30fc\u8ffd\u52a0_\u30c7\u30a3\u30eb\u30ca\u30c91", 
+        "G4L0YIB2": "ストーリー追加_ディルナド1", 
         "Hb8v3xnI": "area", 
         "SjF52z7N": "10000103", 
         "UV40fcZK": "0", 
@@ -326,7 +326,7 @@
     {
         "1C7GDEv4": "10000104", 
         "2Gszu9xN": "50030", 
-        "G4L0YIB2": "\u30b9\u30c8\u30fc\u30ea\u30fc\u8ffd\u52a0_\u30c7\u30a3\u30eb\u30ca\u30c92", 
+        "G4L0YIB2": "ストーリー追加_ディルナド2", 
         "Hb8v3xnI": "area", 
         "SjF52z7N": "10000104", 
         "UV40fcZK": "0", 
@@ -338,7 +338,7 @@
     {
         "1C7GDEv4": "10000105", 
         "2Gszu9xN": "50040", 
-        "G4L0YIB2": "\u30b9\u30c8\u30fc\u30ea\u30fc\u8ffd\u52a0_\u30aa\u30eb\u30c7\u30ea\u30aa\u30f31", 
+        "G4L0YIB2": "ストーリー追加_オルデリオン1", 
         "Hb8v3xnI": "area", 
         "SjF52z7N": "10000105", 
         "UV40fcZK": "0", 
@@ -350,7 +350,7 @@
     {
         "1C7GDEv4": "10000106", 
         "2Gszu9xN": "50050", 
-        "G4L0YIB2": "\u30b9\u30c8\u30fc\u30ea\u30fc\u8ffd\u52a0_\u30aa\u30eb\u30c7\u30ea\u30aa\u30f32", 
+        "G4L0YIB2": "ストーリー追加_オルデリオン2", 
         "Hb8v3xnI": "area", 
         "SjF52z7N": "10000106", 
         "UV40fcZK": "0", 
@@ -362,7 +362,7 @@
     {
         "1C7GDEv4": "10000107", 
         "2Gszu9xN": "50060", 
-        "G4L0YIB2": "\u30b9\u30c8\u30fc\u30ea\u30fc\u8ffd\u52a0_\u30be\u30eb\u30c0\u30fc\u30c91", 
+        "G4L0YIB2": "ストーリー追加_ゾルダード1", 
         "Hb8v3xnI": "area", 
         "SjF52z7N": "10000107", 
         "UV40fcZK": "0", 
@@ -374,7 +374,7 @@
     {
         "1C7GDEv4": "10000108", 
         "2Gszu9xN": "50070", 
-        "G4L0YIB2": "\u30b9\u30c8\u30fc\u30ea\u30fc\u8ffd\u52a0_\u30be\u30eb\u30c0\u30fc\u30c92", 
+        "G4L0YIB2": "ストーリー追加_ゾルダード2", 
         "Hb8v3xnI": "area", 
         "SjF52z7N": "10000108", 
         "UV40fcZK": "0", 
@@ -386,7 +386,7 @@
     {
         "1C7GDEv4": "10000168", 
         "2Gszu9xN": "50080", 
-        "G4L0YIB2": "\u30b9\u30c8\u30fc\u30ea\u30fc\u8ffd\u52a0_1st\u30b7\u30fc\u30ba\u30f3\u30af\u30ea\u30a2", 
+        "G4L0YIB2": "ストーリー追加_1stシーズンクリア", 
         "Hb8v3xnI": "area", 
         "SjF52z7N": "10000168", 
         "UV40fcZK": "0", 
@@ -398,7 +398,7 @@
     {
         "1C7GDEv4": "10000201", 
         "2Gszu9xN": "60000", 
-        "G4L0YIB2": "\u30a4\u30d9\u30f3\u30c8\u8ffd\u52a01", 
+        "G4L0YIB2": "イベント追加1", 
         "Hb8v3xnI": "home", 
         "SjF52z7N": "10000201", 
         "UV40fcZK": "0", 
@@ -410,7 +410,7 @@
     {
         "1C7GDEv4": "10000202", 
         "2Gszu9xN": "60010", 
-        "G4L0YIB2": "\u30a4\u30d9\u30f3\u30c8\u8ffd\u52a02", 
+        "G4L0YIB2": "イベント追加2", 
         "Hb8v3xnI": "home", 
         "SjF52z7N": "10000202", 
         "UV40fcZK": "0", 
@@ -422,7 +422,7 @@
     {
         "1C7GDEv4": "10000203", 
         "2Gszu9xN": "60020", 
-        "G4L0YIB2": "\u30a4\u30d9\u30f3\u30c8\u8ffd\u52a03", 
+        "G4L0YIB2": "イベント追加3", 
         "Hb8v3xnI": "home", 
         "SjF52z7N": "10000203", 
         "UV40fcZK": "0", 
@@ -434,7 +434,7 @@
     {
         "1C7GDEv4": "10000204", 
         "2Gszu9xN": "60030", 
-        "G4L0YIB2": "\u30a4\u30d9\u30f3\u30c8\u8ffd\u52a04", 
+        "G4L0YIB2": "イベント追加4", 
         "Hb8v3xnI": "home", 
         "SjF52z7N": "10000204", 
         "UV40fcZK": "0", 
@@ -446,7 +446,7 @@
     {
         "1C7GDEv4": "10000205", 
         "2Gszu9xN": "60040", 
-        "G4L0YIB2": "\u30a4\u30d9\u30f3\u30c8\u8ffd\u52a05_\u8c4a\u7a63\u306e\u5927\u57302", 
+        "G4L0YIB2": "イベント追加5_豊穣の大地2", 
         "Hb8v3xnI": "home", 
         "SjF52z7N": "10000205", 
         "UV40fcZK": "0", 
@@ -458,7 +458,7 @@
     {
         "1C7GDEv4": "10000206", 
         "2Gszu9xN": "60050", 
-        "G4L0YIB2": "\u30a4\u30d9\u30f3\u30c8\u8ffd\u52a06_\u6df1\u6df5\u3078\u306e\u63a2\u7a761", 
+        "G4L0YIB2": "イベント追加6_深淵への探究1", 
         "Hb8v3xnI": "home", 
         "SjF52z7N": "10000206", 
         "UV40fcZK": "0", 
@@ -470,7 +470,7 @@
     {
         "1C7GDEv4": "10000208", 
         "2Gszu9xN": "60060", 
-        "G4L0YIB2": "\u30a4\u30d9\u30f3\u30c8\u8ffd\u52a07_CM\u653e\u9001\u30ad\u30e3\u30f3\u30da\u30fc\u30f3", 
+        "G4L0YIB2": "イベント追加7_CM放送キャンペーン", 
         "Hb8v3xnI": "home", 
         "SjF52z7N": "10000208", 
         "UV40fcZK": "0", 
@@ -482,7 +482,7 @@
     {
         "1C7GDEv4": "10000210", 
         "2Gszu9xN": "60070", 
-        "G4L0YIB2": "\u30a4\u30d9\u30f3\u30c8\u8ffd\u52a08botu_\u30d0\u30ec\u30f3\u30bf\u30a4\u30f3botu", 
+        "G4L0YIB2": "イベント追加8botu_バレンタインbotu", 
         "Hb8v3xnI": "home", 
         "SjF52z7N": "10000210", 
         "UV40fcZK": "0", 
@@ -494,7 +494,7 @@
     {
         "1C7GDEv4": "10000211", 
         "2Gszu9xN": "60080", 
-        "G4L0YIB2": "\u30a4\u30d9\u30f3\u30c8\u8ffd\u52a08_\u30d0\u30ec\u30f3\u30bf\u30a4\u30f3", 
+        "G4L0YIB2": "イベント追加8_バレンタイン", 
         "Hb8v3xnI": "home", 
         "SjF52z7N": "10000211", 
         "UV40fcZK": "0", 
@@ -506,7 +506,7 @@
     {
         "1C7GDEv4": "10000212", 
         "2Gszu9xN": "60090", 
-        "G4L0YIB2": "\u30a4\u30d9\u30f3\u30c8\u8ffd\u52a09_FF13\u30cf\u30f3\u30b0\u30c9\u30a8\u30c3\u30b8", 
+        "G4L0YIB2": "イベント追加9_FF13ハングドエッジ", 
         "Hb8v3xnI": "home", 
         "SjF52z7N": "10000212", 
         "UV40fcZK": "0", 
@@ -518,7 +518,7 @@
     {
         "1C7GDEv4": "10000213", 
         "2Gszu9xN": "60100", 
-        "G4L0YIB2": "\u30a4\u30d9\u30f3\u30c8\u8ffd\u52a010_FF4\u30d0\u30d6\u30a4\u30eb\u306e\u5de8\u4eba", 
+        "G4L0YIB2": "イベント追加10_FF4バブイルの巨人", 
         "Hb8v3xnI": "home", 
         "SjF52z7N": "10000213", 
         "UV40fcZK": "0", 
@@ -530,7 +530,7 @@
     {
         "1C7GDEv4": "10000214", 
         "2Gszu9xN": "60110", 
-        "G4L0YIB2": "\u30a4\u30d9\u30f3\u30c8\u8ffd\u52a011_FF0\u9b54\u5c0e\u9662", 
+        "G4L0YIB2": "イベント追加11_FF0魔導院", 
         "Hb8v3xnI": "home", 
         "SjF52z7N": "10000214", 
         "UV40fcZK": "0", 
@@ -542,7 +542,7 @@
     {
         "1C7GDEv4": "10000215", 
         "2Gszu9xN": "60120", 
-        "G4L0YIB2": "\u30a4\u30d9\u30f3\u30c8\u8ffd\u52a012_FF3\u30af\u30ea\u30b9\u30bf\u30eb\u30bf\u30ef\u30fc", 
+        "G4L0YIB2": "イベント追加12_FF3クリスタルタワー", 
         "Hb8v3xnI": "home", 
         "SjF52z7N": "10000215", 
         "UV40fcZK": "0", 
@@ -554,7 +554,7 @@
     {
         "1C7GDEv4": "10000216", 
         "2Gszu9xN": "60130", 
-        "G4L0YIB2": "\u30a4\u30d9\u30f3\u30c8\u8ffd\u52a013_\u8056\u5263\u4f1d\u8aac2", 
+        "G4L0YIB2": "イベント追加13_聖剣伝説2", 
         "Hb8v3xnI": "home", 
         "SjF52z7N": "10000216", 
         "UV40fcZK": "0", 
@@ -566,7 +566,7 @@
     {
         "1C7GDEv4": "10000217", 
         "2Gszu9xN": "60140", 
-        "G4L0YIB2": "\u30a4\u30d9\u30f3\u30c8\u8ffd\u52a014_FF5\u30d3\u30c3\u30b0\u30d6\u30ea\u30c3\u30b8", 
+        "G4L0YIB2": "イベント追加14_FF5ビッグブリッジ", 
         "Hb8v3xnI": "home", 
         "SjF52z7N": "10000217", 
         "UV40fcZK": "0", 
@@ -578,7 +578,7 @@
     {
         "1C7GDEv4": "10000218", 
         "2Gszu9xN": "60150", 
-        "G4L0YIB2": "\u30a4\u30d9\u30f3\u30c8\u8ffd\u52a015_FF0_2\u7687\u56fd", 
+        "G4L0YIB2": "イベント追加15_FF0_2皇国", 
         "Hb8v3xnI": "home", 
         "SjF52z7N": "10000218", 
         "UV40fcZK": "0", 
@@ -590,7 +590,7 @@
     {
         "1C7GDEv4": "10000219", 
         "2Gszu9xN": "60160", 
-        "G4L0YIB2": "\u30a4\u30d9\u30f3\u30c8\u8ffd\u52a016_FFBE_1 \u6c34\u90fd", 
+        "G4L0YIB2": "イベント追加16_FFBE_1 水都", 
         "Hb8v3xnI": "home", 
         "SjF52z7N": "10000219", 
         "UV40fcZK": "0", 
@@ -602,7 +602,7 @@
     {
         "1C7GDEv4": "10000221", 
         "2Gszu9xN": "60170", 
-        "G4L0YIB2": "\u30a4\u30d9\u30f3\u30c8\u8ffd\u52a017_FFT_2 \u8056\u77f3", 
+        "G4L0YIB2": "イベント追加17_FFT_2 聖石", 
         "Hb8v3xnI": "home", 
         "SjF52z7N": "10000221", 
         "UV40fcZK": "0", 
@@ -614,7 +614,7 @@
     {
         "1C7GDEv4": "10000222", 
         "2Gszu9xN": "60180", 
-        "G4L0YIB2": "\u30a4\u30d9\u30f3\u30c8\u8ffd\u52a017_FF2_\u5927\u6226\u8266", 
+        "G4L0YIB2": "イベント追加17_FF2_大戦艦", 
         "Hb8v3xnI": "home", 
         "SjF52z7N": "10000222", 
         "UV40fcZK": "0", 
@@ -626,7 +626,7 @@
     {
         "1C7GDEv4": "10000223", 
         "2Gszu9xN": "60190", 
-        "G4L0YIB2": "\u30a4\u30d9\u30f3\u30c8\u8ffd\u52a018_\u30d0\u30cf\u30e0\u30fc\u30c8\u306e\u5e7b\u5f711", 
+        "G4L0YIB2": "イベント追加18_バハムートの幻影1", 
         "Hb8v3xnI": "home", 
         "SjF52z7N": "10000223", 
         "UV40fcZK": "0", 
@@ -638,7 +638,7 @@
     {
         "1C7GDEv4": "10000401", 
         "2Gszu9xN": "70010", 
-        "G4L0YIB2": "\u30a8\u30d4\u30bd\u30fc\u30c9\u8ffd\u52a01_\u30b7\u30e3\u30eb\u30ed\u30c3\u30c8", 
+        "G4L0YIB2": "エピソード追加1_シャルロット", 
         "Hb8v3xnI": "home", 
         "SjF52z7N": "10000401", 
         "UV40fcZK": "0", 

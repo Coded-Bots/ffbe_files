@@ -2,7 +2,7 @@
     {
         "0Lhus2Ak": "4", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u30a2\u30ea\u30fc\u30ca\u30d0\u30c8\u30eb\u53c2\u6226\u56de\u6570", 
+        "G4L0YIB2": "アリーナバトル参戦回数", 
         "NYb0Cri6": "ARENA_BATTLE_CNT", 
         "Z0EN6jSh": "401", 
         "rFd5CiV2": "1", 
@@ -11,7 +11,7 @@
     {
         "0Lhus2Ak": "4", 
         "9BmXtQ7d": "99999", 
-        "G4L0YIB2": "1T\u6700\u5927\u30af\u30ea\u30c6\u30a3\u30ab\u30eb\u767a\u751f\u6570", 
+        "G4L0YIB2": "1T最大クリティカル発生数", 
         "NYb0Cri6": "ARENA_CRITICAL_TURN", 
         "Z0EN6jSh": "415", 
         "rFd5CiV2": "1", 
@@ -20,7 +20,7 @@
     {
         "0Lhus2Ak": "4", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u6557\u5317\u6570", 
+        "G4L0YIB2": "敗北数", 
         "NYb0Cri6": "ARENA_LOSE_CNT", 
         "Z0EN6jSh": "403", 
         "rFd5CiV2": "1", 
@@ -29,7 +29,7 @@
     {
         "0Lhus2Ak": "4", 
         "9BmXtQ7d": "999", 
-        "G4L0YIB2": "1T\u6700\u5927CHAIN\u6570", 
+        "G4L0YIB2": "1T最大CHAIN数", 
         "NYb0Cri6": "ARENA_MAX_CHAIN_TURN", 
         "Z0EN6jSh": "412", 
         "rFd5CiV2": "1", 
@@ -38,7 +38,7 @@
     {
         "0Lhus2Ak": "4", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u6700\u5927\u9023\u52dd\u6570", 
+        "G4L0YIB2": "最大連勝数", 
         "NYb0Cri6": "ARENA_MAX_CONSECUTIVE_WIN", 
         "Z0EN6jSh": "404", 
         "rFd5CiV2": "1", 
@@ -47,7 +47,7 @@
     {
         "0Lhus2Ak": "4", 
         "9BmXtQ7d": "99999", 
-        "G4L0YIB2": "1HIT\u6700\u5927\u4e0e\u30c0\u30e1\u30fc\u30b8\u6570", 
+        "G4L0YIB2": "1HIT最大与ダメージ数", 
         "NYb0Cri6": "ARENA_MAX_DAMAGE_HIT", 
         "Z0EN6jSh": "411", 
         "rFd5CiV2": "1", 
@@ -56,7 +56,7 @@
     {
         "0Lhus2Ak": "4", 
         "9BmXtQ7d": "99999", 
-        "G4L0YIB2": "1T\u6700\u5927\u4e0e\u30c0\u30e1\u30fc\u30b8\u6570", 
+        "G4L0YIB2": "1T最大与ダメージ数", 
         "NYb0Cri6": "ARENA_MAX_DAMAGE_TURN", 
         "Z0EN6jSh": "410", 
         "rFd5CiV2": "1", 
@@ -65,7 +65,7 @@
     {
         "0Lhus2Ak": "4", 
         "9BmXtQ7d": "999", 
-        "G4L0YIB2": "1T\u6700\u5927\u7dcfELEMENT CHAIN\u6570", 
+        "G4L0YIB2": "1T最大総ELEMENT CHAIN数", 
         "NYb0Cri6": "ARENA_MAX_ELEMENT_CHAIN_TURN", 
         "Z0EN6jSh": "414", 
         "rFd5CiV2": "1", 
@@ -74,7 +74,7 @@
     {
         "0Lhus2Ak": "4", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u6700\u5927LB\u30af\u30ea\u30b9\u30bf\u30eb\u51fa\u73fe\u6570", 
+        "G4L0YIB2": "最大LBクリスタル出現数", 
         "NYb0Cri6": "ARENA_MAX_LB_CRISTAL", 
         "Z0EN6jSh": "421", 
         "rFd5CiV2": "1", 
@@ -83,7 +83,7 @@
     {
         "0Lhus2Ak": "4", 
         "9BmXtQ7d": "999", 
-        "G4L0YIB2": "1T\u6700\u5927\u7dcfSPARK CHAIN\u6570", 
+        "G4L0YIB2": "1T最大総SPARK CHAIN数", 
         "NYb0Cri6": "ARENA_MAX_SPARK_CHAIN_TURN", 
         "Z0EN6jSh": "413", 
         "rFd5CiV2": "1", 
@@ -92,7 +92,7 @@
     {
         "0Lhus2Ak": "4", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u30a2\u30d3\u30ea\u30c6\u30a3\u767a\u52d5\u56de\u6570", 
+        "G4L0YIB2": "アビリティ発動回数", 
         "NYb0Cri6": "ARENA_TOTAL_ABILITY_USE", 
         "Z0EN6jSh": "419", 
         "rFd5CiV2": "1", 
@@ -101,7 +101,7 @@
     {
         "0Lhus2Ak": "4", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u72b6\u614b\u7570\u5e38\u4ed8\u4e0e\u56de\u6570", 
+        "G4L0YIB2": "状態異常付与回数", 
         "NYb0Cri6": "ARENA_TOTAL_ABNORMAL_GIVE", 
         "Z0EN6jSh": "423", 
         "rFd5CiV2": "1", 
@@ -110,7 +110,7 @@
     {
         "0Lhus2Ak": "4", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u72b6\u614b\u7570\u5e38\u306b\u306a\u3063\u305f\u56de\u6570", 
+        "G4L0YIB2": "状態異常になった回数", 
         "NYb0Cri6": "ARENA_TOTAL_ABNORMAL_TAKE", 
         "Z0EN6jSh": "424", 
         "rFd5CiV2": "1", 
@@ -119,7 +119,7 @@
     {
         "0Lhus2Ak": "4", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u53ec\u559a\u9b54\u6cd5\u767a\u52d5\u56de\u6570", 
+        "G4L0YIB2": "召喚魔法発動回数", 
         "NYb0Cri6": "ARENA_TOTAL_BEAST_USE", 
         "Z0EN6jSh": "417", 
         "rFd5CiV2": "1", 
@@ -128,7 +128,7 @@
     {
         "0Lhus2Ak": "4", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u7d2f\u8a08\u4ea4\u63db\u30dc\u30fc\u30c9\u30a2\u30a4\u30c6\u30e0\u53d6\u5f97\u56de\u6570", 
+        "G4L0YIB2": "累計交換ボードアイテム取得回数", 
         "NYb0Cri6": "ARENA_TOTAL_BOARD_CHANGE", 
         "Z0EN6jSh": "425", 
         "rFd5CiV2": "1", 
@@ -137,7 +137,7 @@
     {
         "0Lhus2Ak": "4", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u7d2f\u8a08\u4ea4\u63db\u30dc\u30fc\u30c9\u30b3\u30f3\u30d7\u30ea\u30fc\u30c8\u6570", 
+        "G4L0YIB2": "累計交換ボードコンプリート数", 
         "NYb0Cri6": "ARENA_TOTAL_BOARD_COMPLETE", 
         "Z0EN6jSh": "426", 
         "rFd5CiV2": "1", 
@@ -146,7 +146,7 @@
     {
         "0Lhus2Ak": "4", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u7d2f\u8a08\u30af\u30ea\u30c6\u30a3\u30ab\u30eb\u767a\u751f\u6570", 
+        "G4L0YIB2": "累計クリティカル発生数", 
         "NYb0Cri6": "ARENA_TOTAL_CRITICAL", 
         "Z0EN6jSh": "416", 
         "rFd5CiV2": "1", 
@@ -155,7 +155,7 @@
     {
         "0Lhus2Ak": "4", 
         "9BmXtQ7d": "2147483647", 
-        "G4L0YIB2": "\u7d2f\u8a08\u4e0e\u30c0\u30e1\u30fc\u30b8\u6570", 
+        "G4L0YIB2": "累計与ダメージ数", 
         "NYb0Cri6": "ARENA_TOTAL_DAMAGE", 
         "Z0EN6jSh": "407", 
         "rFd5CiV2": "1", 
@@ -164,7 +164,7 @@
     {
         "0Lhus2Ak": "4", 
         "9BmXtQ7d": "2147483647", 
-        "G4L0YIB2": "\u7d2f\u8a08\u88ab\u30c0\u30e1\u30fc\u30b8\u6570", 
+        "G4L0YIB2": "累計被ダメージ数", 
         "NYb0Cri6": "ARENA_TOTAL_DAMAGE_TAKE", 
         "Z0EN6jSh": "408", 
         "rFd5CiV2": "1", 
@@ -173,7 +173,7 @@
     {
         "0Lhus2Ak": "4", 
         "9BmXtQ7d": "999999999", 
-        "G4L0YIB2": "\u7d2f\u8a08\u7372\u5f97\u30a2\u30ea\u30fc\u30ca\u30e1\u30c0\u30eb", 
+        "G4L0YIB2": "累計獲得アリーナメダル", 
         "NYb0Cri6": "ARENA_TOTAL_GET_ARENA_POINT", 
         "Z0EN6jSh": "405", 
         "rFd5CiV2": "1", 
@@ -182,7 +182,7 @@
     {
         "0Lhus2Ak": "4", 
         "9BmXtQ7d": "999999999", 
-        "G4L0YIB2": "\u7d2f\u8a08\u7372\u5f97\u30e9\u30f3\u30ad\u30f3\u30b0pt", 
+        "G4L0YIB2": "累計獲得ランキングpt", 
         "NYb0Cri6": "ARENA_TOTAL_GET_RANKING_POINT", 
         "Z0EN6jSh": "406", 
         "rFd5CiV2": "1", 
@@ -191,7 +191,7 @@
     {
         "0Lhus2Ak": "4", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u7d2f\u8a08LB\u30af\u30ea\u30b9\u30bf\u30eb\u51fa\u73fe\u6570", 
+        "G4L0YIB2": "累計LBクリスタル出現数", 
         "NYb0Cri6": "ARENA_TOTAL_LB_CRISTAL", 
         "Z0EN6jSh": "422", 
         "rFd5CiV2": "1", 
@@ -200,7 +200,7 @@
     {
         "0Lhus2Ak": "4", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u7d2f\u8a08LB\u767a\u52d5\u56de\u6570", 
+        "G4L0YIB2": "累計LB発動回数", 
         "NYb0Cri6": "ARENA_TOTAL_LB_USE", 
         "Z0EN6jSh": "420", 
         "rFd5CiV2": "1", 
@@ -209,7 +209,7 @@
     {
         "0Lhus2Ak": "4", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u9b54\u6cd5\u767a\u52d5\u56de\u6570", 
+        "G4L0YIB2": "魔法発動回数", 
         "NYb0Cri6": "ARENA_TOTAL_MAGIC_USE", 
         "Z0EN6jSh": "418", 
         "rFd5CiV2": "1", 
@@ -218,7 +218,7 @@
     {
         "0Lhus2Ak": "4", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u52dd\u5229\u6570", 
+        "G4L0YIB2": "勝利数", 
         "NYb0Cri6": "ARENA_WIN_CNT", 
         "Z0EN6jSh": "402", 
         "rFd5CiV2": "1", 
@@ -227,7 +227,7 @@
     {
         "0Lhus2Ak": "3", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u30b3\u30ed\u30b7\u30a2\u30e0\u53c2\u6226\u56de\u6570", 
+        "G4L0YIB2": "コロシアム参戦回数", 
         "NYb0Cri6": "CLSM_BATTLE_CNT", 
         "Z0EN6jSh": "301", 
         "rFd5CiV2": "1", 
@@ -236,7 +236,7 @@
     {
         "0Lhus2Ak": "3", 
         "9BmXtQ7d": "99999", 
-        "G4L0YIB2": "1T\u6700\u5927\u30af\u30ea\u30c6\u30a3\u30ab\u30eb\u767a\u751f\u6570", 
+        "G4L0YIB2": "1T最大クリティカル発生数", 
         "NYb0Cri6": "CLSM_CRITICAL_TURN", 
         "Z0EN6jSh": "315", 
         "rFd5CiV2": "1", 
@@ -245,7 +245,7 @@
     {
         "0Lhus2Ak": "3", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u6557\u5317\u6570", 
+        "G4L0YIB2": "敗北数", 
         "NYb0Cri6": "CLSM_LOSE_CNT", 
         "Z0EN6jSh": "303", 
         "rFd5CiV2": "1", 
@@ -254,7 +254,7 @@
     {
         "0Lhus2Ak": "3", 
         "9BmXtQ7d": "999", 
-        "G4L0YIB2": "1T\u6700\u5927CHAIN\u6570", 
+        "G4L0YIB2": "1T最大CHAIN数", 
         "NYb0Cri6": "CLSM_MAX_CHAIN_TURN", 
         "Z0EN6jSh": "312", 
         "rFd5CiV2": "1", 
@@ -263,7 +263,7 @@
     {
         "0Lhus2Ak": "3", 
         "9BmXtQ7d": "99999", 
-        "G4L0YIB2": "1HIT\u6700\u5927\u4e0e\u30c0\u30e1\u30fc\u30b8\u6570", 
+        "G4L0YIB2": "1HIT最大与ダメージ数", 
         "NYb0Cri6": "CLSM_MAX_DAMAGE_HIT", 
         "Z0EN6jSh": "311", 
         "rFd5CiV2": "1", 
@@ -272,7 +272,7 @@
     {
         "0Lhus2Ak": "3", 
         "9BmXtQ7d": "999999999", 
-        "G4L0YIB2": "1T\u6700\u5927\u4e0e\u30c0\u30e1\u30fc\u30b8\u6570", 
+        "G4L0YIB2": "1T最大与ダメージ数", 
         "NYb0Cri6": "CLSM_MAX_DAMAGE_TURN", 
         "Z0EN6jSh": "310", 
         "rFd5CiV2": "1", 
@@ -281,7 +281,7 @@
     {
         "0Lhus2Ak": "3", 
         "9BmXtQ7d": "999", 
-        "G4L0YIB2": "1T\u6700\u5927\u7dcfELEMENT CHAIN\u6570", 
+        "G4L0YIB2": "1T最大総ELEMENT CHAIN数", 
         "NYb0Cri6": "CLSM_MAX_ELEMENT_CHAIN_TURN", 
         "Z0EN6jSh": "314", 
         "rFd5CiV2": "1", 
@@ -290,7 +290,7 @@
     {
         "0Lhus2Ak": "3", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "1\u30d0\u30c8\u30eb\u6700\u5927\u7372\u5f97pt", 
+        "G4L0YIB2": "1バトル最大獲得pt", 
         "NYb0Cri6": "CLSM_MAX_GET_POINT", 
         "Z0EN6jSh": "305", 
         "rFd5CiV2": "1", 
@@ -299,7 +299,7 @@
     {
         "0Lhus2Ak": "3", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u6700\u5927LB\u30af\u30ea\u30b9\u30bf\u30eb\u51fa\u73fe\u6570", 
+        "G4L0YIB2": "最大LBクリスタル出現数", 
         "NYb0Cri6": "CLSM_MAX_LB_CRISTAL", 
         "Z0EN6jSh": "321", 
         "rFd5CiV2": "1", 
@@ -308,7 +308,7 @@
     {
         "0Lhus2Ak": "3", 
         "9BmXtQ7d": "999", 
-        "G4L0YIB2": "1T\u6700\u5927\u7dcfSPARK CHAIN\u6570", 
+        "G4L0YIB2": "1T最大総SPARK CHAIN数", 
         "NYb0Cri6": "CLSM_MAX_SPARK_CHAIN_TURN", 
         "Z0EN6jSh": "313", 
         "rFd5CiV2": "1", 
@@ -317,7 +317,7 @@
     {
         "0Lhus2Ak": "3", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u30a2\u30d3\u30ea\u30c6\u30a3\u767a\u52d5\u56de\u6570", 
+        "G4L0YIB2": "アビリティ発動回数", 
         "NYb0Cri6": "CLSM_TOTAL_ABILITY_USE", 
         "Z0EN6jSh": "319", 
         "rFd5CiV2": "1", 
@@ -326,7 +326,7 @@
     {
         "0Lhus2Ak": "3", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u72b6\u614b\u7570\u5e38\u4ed8\u4e0e\u56de\u6570", 
+        "G4L0YIB2": "状態異常付与回数", 
         "NYb0Cri6": "CLSM_TOTAL_ABNORMAL_GIVE", 
         "Z0EN6jSh": "324", 
         "rFd5CiV2": "1", 
@@ -335,7 +335,7 @@
     {
         "0Lhus2Ak": "3", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u72b6\u614b\u7570\u5e38\u306b\u306a\u3063\u305f\u56de\u6570", 
+        "G4L0YIB2": "状態異常になった回数", 
         "NYb0Cri6": "CLSM_TOTAL_ABNORMAL_TAKE", 
         "Z0EN6jSh": "325", 
         "rFd5CiV2": "1", 
@@ -344,7 +344,7 @@
     {
         "0Lhus2Ak": "3", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u53ec\u559a\u9b54\u6cd5\u767a\u52d5\u56de\u6570", 
+        "G4L0YIB2": "召喚魔法発動回数", 
         "NYb0Cri6": "CLSM_TOTAL_BEAST_USE", 
         "Z0EN6jSh": "317", 
         "rFd5CiV2": "1", 
@@ -353,7 +353,7 @@
     {
         "0Lhus2Ak": "3", 
         "9BmXtQ7d": "999999999", 
-        "G4L0YIB2": "\u7d2f\u8a08\u30dc\u30b9\u8a0e\u4f10\u6570", 
+        "G4L0YIB2": "累計ボス討伐数", 
         "NYb0Cri6": "CLSM_TOTAL_BOSS_WIN", 
         "Z0EN6jSh": "306", 
         "rFd5CiV2": "1", 
@@ -362,7 +362,7 @@
     {
         "0Lhus2Ak": "3", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u7d2f\u8a08\u30af\u30ea\u30c6\u30a3\u30ab\u30eb\u767a\u751f\u6570", 
+        "G4L0YIB2": "累計クリティカル発生数", 
         "NYb0Cri6": "CLSM_TOTAL_CRITICAL", 
         "Z0EN6jSh": "316", 
         "rFd5CiV2": "1", 
@@ -371,7 +371,7 @@
     {
         "0Lhus2Ak": "3", 
         "9BmXtQ7d": "2147483647", 
-        "G4L0YIB2": "\u7d2f\u8a08\u4e0e\u30c0\u30e1\u30fc\u30b8\u6570", 
+        "G4L0YIB2": "累計与ダメージ数", 
         "NYb0Cri6": "CLSM_TOTAL_DAMAGE", 
         "Z0EN6jSh": "307", 
         "rFd5CiV2": "1", 
@@ -380,7 +380,7 @@
     {
         "0Lhus2Ak": "3", 
         "9BmXtQ7d": "2147483647", 
-        "G4L0YIB2": "\u7d2f\u8a08\u88ab\u30c0\u30e1\u30fc\u30b8\u6570", 
+        "G4L0YIB2": "累計被ダメージ数", 
         "NYb0Cri6": "CLSM_TOTAL_DAMAGE_TAKE", 
         "Z0EN6jSh": "308", 
         "rFd5CiV2": "1", 
@@ -389,7 +389,7 @@
     {
         "0Lhus2Ak": "3", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u7d2f\u8a08\u7372\u5f97pt", 
+        "G4L0YIB2": "累計獲得pt", 
         "NYb0Cri6": "CLSM_TOTAL_GET_POINT", 
         "Z0EN6jSh": "304", 
         "rFd5CiV2": "1", 
@@ -398,7 +398,7 @@
     {
         "0Lhus2Ak": "3", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u7d2f\u8a08LB\u30af\u30ea\u30b9\u30bf\u30eb\u51fa\u73fe\u6570", 
+        "G4L0YIB2": "累計LBクリスタル出現数", 
         "NYb0Cri6": "CLSM_TOTAL_LB_CRISTAL", 
         "Z0EN6jSh": "322", 
         "rFd5CiV2": "1", 
@@ -407,7 +407,7 @@
     {
         "0Lhus2Ak": "3", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u7d2f\u8a08LB\u767a\u52d5\u56de\u6570", 
+        "G4L0YIB2": "累計LB発動回数", 
         "NYb0Cri6": "CLSM_TOTAL_LB_USE", 
         "Z0EN6jSh": "320", 
         "rFd5CiV2": "1", 
@@ -416,7 +416,7 @@
     {
         "0Lhus2Ak": "3", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u9b54\u6cd5\u767a\u52d5\u56de\u6570", 
+        "G4L0YIB2": "魔法発動回数", 
         "NYb0Cri6": "CLSM_TOTAL_MAGIC_USE", 
         "Z0EN6jSh": "318", 
         "rFd5CiV2": "1", 
@@ -425,7 +425,7 @@
     {
         "0Lhus2Ak": "3", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u6575\u304b\u3089\u76d7\u3093\u3060\u56de\u6570", 
+        "G4L0YIB2": "敵から盗んだ回数", 
         "NYb0Cri6": "CLSM_TOTAL_STEAL", 
         "Z0EN6jSh": "323", 
         "rFd5CiV2": "1", 
@@ -434,7 +434,7 @@
     {
         "0Lhus2Ak": "3", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u52dd\u5229\u6570", 
+        "G4L0YIB2": "勝利数", 
         "NYb0Cri6": "CLSM_WIN_CNT", 
         "Z0EN6jSh": "302", 
         "rFd5CiV2": "1", 
@@ -443,7 +443,7 @@
     {
         "0Lhus2Ak": "5", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u30c0\u30e1\u30fc\u30b8\u30e9\u30f3\u30ad\u30f3\u30b0\u53c2\u6226\u56de\u6570", 
+        "G4L0YIB2": "ダメージランキング参戦回数", 
         "NYb0Cri6": "DMG_RANK_CNT", 
         "Z0EN6jSh": "501", 
         "rFd5CiV2": "1", 
@@ -452,7 +452,7 @@
     {
         "0Lhus2Ak": "5", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "1T\u6700\u5927\u30af\u30ea\u30c6\u30a3\u30ab\u30eb\u767a\u751f\u6570", 
+        "G4L0YIB2": "1T最大クリティカル発生数", 
         "NYb0Cri6": "DMG_RANK_CRITICAL_TURN", 
         "Z0EN6jSh": "510", 
         "rFd5CiV2": "1", 
@@ -461,7 +461,7 @@
     {
         "0Lhus2Ak": "5", 
         "9BmXtQ7d": "999", 
-        "G4L0YIB2": "1T\u6700\u5927CHAIN\u6570", 
+        "G4L0YIB2": "1T最大CHAIN数", 
         "NYb0Cri6": "DMG_RANK_MAX_CHAIN_TURN", 
         "Z0EN6jSh": "507", 
         "rFd5CiV2": "1", 
@@ -470,7 +470,7 @@
     {
         "0Lhus2Ak": "5", 
         "9BmXtQ7d": "99999999", 
-        "G4L0YIB2": "1\u30d0\u30c8\u30eb\u6700\u5927\u4e0e\u30c0\u30e1\u30fc\u30b8\u6570", 
+        "G4L0YIB2": "1バトル最大与ダメージ数", 
         "NYb0Cri6": "DMG_RANK_MAX_DAMAGE_BATTLE", 
         "Z0EN6jSh": "504", 
         "rFd5CiV2": "1", 
@@ -479,7 +479,7 @@
     {
         "0Lhus2Ak": "5", 
         "9BmXtQ7d": "99999", 
-        "G4L0YIB2": "1HIT\u6700\u5927\u4e0e\u30c0\u30e1\u30fc\u30b8\u6570", 
+        "G4L0YIB2": "1HIT最大与ダメージ数", 
         "NYb0Cri6": "DMG_RANK_MAX_DAMAGE_HIT", 
         "Z0EN6jSh": "506", 
         "rFd5CiV2": "1", 
@@ -488,7 +488,7 @@
     {
         "0Lhus2Ak": "5", 
         "9BmXtQ7d": "9999999", 
-        "G4L0YIB2": "1T\u6700\u5927\u4e0e\u30c0\u30e1\u30fc\u30b8\u6570", 
+        "G4L0YIB2": "1T最大与ダメージ数", 
         "NYb0Cri6": "DMG_RANK_MAX_DAMAGE_TURN", 
         "Z0EN6jSh": "505", 
         "rFd5CiV2": "1", 
@@ -497,7 +497,7 @@
     {
         "0Lhus2Ak": "5", 
         "9BmXtQ7d": "999", 
-        "G4L0YIB2": "1T\u6700\u5927\u7dcfELEMENT CHAIN\u6570", 
+        "G4L0YIB2": "1T最大総ELEMENT CHAIN数", 
         "NYb0Cri6": "DMG_RANK_MAX_ELEMENT_CHAIN_TURN", 
         "Z0EN6jSh": "509", 
         "rFd5CiV2": "1", 
@@ -506,7 +506,7 @@
     {
         "0Lhus2Ak": "5", 
         "9BmXtQ7d": "999", 
-        "G4L0YIB2": "1T\u6700\u5927\u7dcfSPARK CHAIN\u6570", 
+        "G4L0YIB2": "1T最大総SPARK CHAIN数", 
         "NYb0Cri6": "DMG_RANK_MAX_SPARK_CHAIN_TURN", 
         "Z0EN6jSh": "508", 
         "rFd5CiV2": "1", 
@@ -515,7 +515,7 @@
     {
         "0Lhus2Ak": "5", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u30a2\u30d3\u30ea\u30c6\u30a3\u767a\u52d5\u56de\u6570", 
+        "G4L0YIB2": "アビリティ発動回数", 
         "NYb0Cri6": "DMG_RANK_TOTAL_ABILITY_USE", 
         "Z0EN6jSh": "514", 
         "rFd5CiV2": "1", 
@@ -524,7 +524,7 @@
     {
         "0Lhus2Ak": "5", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u72b6\u614b\u7570\u5e38\u4ed8\u4e0e\u56de\u6570", 
+        "G4L0YIB2": "状態異常付与回数", 
         "NYb0Cri6": "DMG_RANK_TOTAL_ABNORMAL_GIVE", 
         "Z0EN6jSh": "516", 
         "rFd5CiV2": "1", 
@@ -533,7 +533,7 @@
     {
         "0Lhus2Ak": "5", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u53ec\u559a\u9b54\u6cd5\u767a\u52d5\u56de\u6570", 
+        "G4L0YIB2": "召喚魔法発動回数", 
         "NYb0Cri6": "DMG_RANK_TOTAL_BEAST_USE", 
         "Z0EN6jSh": "512", 
         "rFd5CiV2": "1", 
@@ -542,7 +542,7 @@
     {
         "0Lhus2Ak": "5", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u7d2f\u8a08\u30af\u30ea\u30c6\u30a3\u30ab\u30eb\u767a\u751f\u6570", 
+        "G4L0YIB2": "累計クリティカル発生数", 
         "NYb0Cri6": "DMG_RANK_TOTAL_CRITICAL", 
         "Z0EN6jSh": "511", 
         "rFd5CiV2": "1", 
@@ -551,7 +551,7 @@
     {
         "0Lhus2Ak": "5", 
         "9BmXtQ7d": "2147483647", 
-        "G4L0YIB2": "\u7d2f\u8a08\u4e0e\u30c0\u30e1\u30fc\u30b8\u6570", 
+        "G4L0YIB2": "累計与ダメージ数", 
         "NYb0Cri6": "DMG_RANK_TOTAL_DAMAGE", 
         "Z0EN6jSh": "502", 
         "rFd5CiV2": "1", 
@@ -560,7 +560,7 @@
     {
         "0Lhus2Ak": "5", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u7d2f\u8a08LB\u767a\u52d5\u56de\u6570", 
+        "G4L0YIB2": "累計LB発動回数", 
         "NYb0Cri6": "DMG_RANK_TOTAL_LB_USE", 
         "Z0EN6jSh": "515", 
         "rFd5CiV2": "1", 
@@ -569,7 +569,7 @@
     {
         "0Lhus2Ak": "5", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u9b54\u6cd5\u767a\u52d5\u56de\u6570", 
+        "G4L0YIB2": "魔法発動回数", 
         "NYb0Cri6": "DMG_RANK_TOTAL_MAGIC_USE", 
         "Z0EN6jSh": "513", 
         "rFd5CiV2": "1", 
@@ -578,7 +578,7 @@
     {
         "0Lhus2Ak": "2", 
         "9BmXtQ7d": "999", 
-        "G4L0YIB2": "1T\u6700\u5927CHAIN\u6570", 
+        "G4L0YIB2": "1T最大CHAIN数", 
         "NYb0Cri6": "MAX_CHAIN_TURN", 
         "Z0EN6jSh": "207", 
         "rFd5CiV2": "1", 
@@ -587,7 +587,7 @@
     {
         "0Lhus2Ak": "2", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "1T\u6700\u5927\u30af\u30ea\u30c6\u30a3\u30ab\u30eb\u767a\u751f\u6570", 
+        "G4L0YIB2": "1T最大クリティカル発生数", 
         "NYb0Cri6": "MAX_CRITICAL_TURN", 
         "Z0EN6jSh": "210", 
         "rFd5CiV2": "1", 
@@ -596,7 +596,7 @@
     {
         "0Lhus2Ak": "2", 
         "9BmXtQ7d": "99999", 
-        "G4L0YIB2": "1HIT\u6700\u5927\u4e0e\u30c0\u30e1\u30fc\u30b8\u6570", 
+        "G4L0YIB2": "1HIT最大与ダメージ数", 
         "NYb0Cri6": "MAX_DAMAGE_HIT", 
         "Z0EN6jSh": "206", 
         "rFd5CiV2": "1", 
@@ -605,7 +605,7 @@
     {
         "0Lhus2Ak": "2", 
         "9BmXtQ7d": "999999999", 
-        "G4L0YIB2": "1T\u6700\u5927\u4e0e\u30c0\u30e1\u30fc\u30b8\u6570", 
+        "G4L0YIB2": "1T最大与ダメージ数", 
         "NYb0Cri6": "MAX_DAMAGE_TURN", 
         "Z0EN6jSh": "205", 
         "rFd5CiV2": "1", 
@@ -614,7 +614,7 @@
     {
         "0Lhus2Ak": "2", 
         "9BmXtQ7d": "999", 
-        "G4L0YIB2": "1T\u6700\u5927\u7dcfELEMENT CHAIN\u6570", 
+        "G4L0YIB2": "1T最大総ELEMENT CHAIN数", 
         "NYb0Cri6": "MAX_ELEMENT_CHAIN_TURN", 
         "Z0EN6jSh": "209", 
         "rFd5CiV2": "1", 
@@ -623,7 +623,7 @@
     {
         "0Lhus2Ak": "2", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u6700\u5927LB\u30af\u30ea\u30b9\u30bf\u30eb\u51fa\u73fe\u6570", 
+        "G4L0YIB2": "最大LBクリスタル出現数", 
         "NYb0Cri6": "MAX_LB_CRISTAL", 
         "Z0EN6jSh": "217", 
         "rFd5CiV2": "1", 
@@ -632,7 +632,7 @@
     {
         "0Lhus2Ak": "1", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u6700\u9ad8\u9023\u7d9a\u30ed\u30b0\u30a4\u30f3\u65e5\u6570", 
+        "G4L0YIB2": "最高連続ログイン日数", 
         "NYb0Cri6": "MAX_LOGIN_SERIAL_DAYS", 
         "Z0EN6jSh": "102", 
         "rFd5CiV2": "1", 
@@ -641,7 +641,7 @@
     {
         "0Lhus2Ak": "2", 
         "9BmXtQ7d": "999", 
-        "G4L0YIB2": "1T\u6700\u5927\u7dcfSPARK CHAIN\u6570", 
+        "G4L0YIB2": "1T最大総SPARK CHAIN数", 
         "NYb0Cri6": "MAX_SPARK_CHAIN_TURN", 
         "Z0EN6jSh": "208", 
         "rFd5CiV2": "1", 
@@ -650,7 +650,7 @@
     {
         "0Lhus2Ak": "1", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u7dcf\u5408\u30a2\u30d3\u30ea\u30c6\u30a3\u56f3\u9451\u6570", 
+        "G4L0YIB2": "総合アビリティ図鑑数", 
         "NYb0Cri6": "TOTAL_ABILITY_DICT", 
         "Z0EN6jSh": "111", 
         "rFd5CiV2": "1", 
@@ -659,7 +659,7 @@
     {
         "0Lhus2Ak": "2", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u30a2\u30d3\u30ea\u30c6\u30a3\u767a\u52d5\u56de\u6570", 
+        "G4L0YIB2": "アビリティ発動回数", 
         "NYb0Cri6": "TOTAL_ABILITY_USE", 
         "Z0EN6jSh": "215", 
         "rFd5CiV2": "1", 
@@ -668,7 +668,7 @@
     {
         "0Lhus2Ak": "2", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u72b6\u614b\u7570\u5e38\u4ed8\u4e0e\u56de\u6570", 
+        "G4L0YIB2": "状態異常付与回数", 
         "NYb0Cri6": "TOTAL_ABNORMAL_GIVE", 
         "Z0EN6jSh": "220", 
         "rFd5CiV2": "1", 
@@ -677,7 +677,7 @@
     {
         "0Lhus2Ak": "2", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u72b6\u614b\u7570\u5e38\u306b\u306a\u3063\u305f\u56de\u6570", 
+        "G4L0YIB2": "状態異常になった回数", 
         "NYb0Cri6": "TOTAL_ABNORMAL_TAKE", 
         "Z0EN6jSh": "221", 
         "rFd5CiV2": "1", 
@@ -686,7 +686,7 @@
     {
         "0Lhus2Ak": "1", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u7dcf\u5408\u5e7b\u7363\u56f3\u9451\u6570", 
+        "G4L0YIB2": "総合幻獣図鑑数", 
         "NYb0Cri6": "TOTAL_BEAST_DICT", 
         "Z0EN6jSh": "112", 
         "rFd5CiV2": "1", 
@@ -695,7 +695,7 @@
     {
         "0Lhus2Ak": "2", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u53ec\u559a\u9b54\u6cd5\u767a\u52d5\u56de\u6570", 
+        "G4L0YIB2": "召喚魔法発動回数", 
         "NYb0Cri6": "TOTAL_BEAST_USE", 
         "Z0EN6jSh": "213", 
         "rFd5CiV2": "1", 
@@ -704,7 +704,7 @@
     {
         "0Lhus2Ak": "1", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u30a2\u30d3\u30ea\u30c6\u30a3\u751f\u6210\u56de\u6570", 
+        "G4L0YIB2": "アビリティ生成回数", 
         "NYb0Cri6": "TOTAL_CRAFT_ABILITY", 
         "Z0EN6jSh": "120", 
         "rFd5CiV2": "1", 
@@ -713,7 +713,7 @@
     {
         "0Lhus2Ak": "1", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u935b\u51b6\u88fd\u932c\u56de\u6570", 
+        "G4L0YIB2": "鍛冶製錬回数", 
         "NYb0Cri6": "TOTAL_CRAFT_EQUIP", 
         "Z0EN6jSh": "119", 
         "rFd5CiV2": "1", 
@@ -722,7 +722,7 @@
     {
         "0Lhus2Ak": "1", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u8abf\u5408\u56de\u6570", 
+        "G4L0YIB2": "調合回数", 
         "NYb0Cri6": "TOTAL_CRAFT_ITEM", 
         "Z0EN6jSh": "121", 
         "rFd5CiV2": "1", 
@@ -731,7 +731,7 @@
     {
         "0Lhus2Ak": "2", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u7d2f\u8a08\u30af\u30ea\u30c6\u30a3\u30ab\u30eb\u767a\u751f\u6570", 
+        "G4L0YIB2": "累計クリティカル発生数", 
         "NYb0Cri6": "TOTAL_CRITICAL", 
         "Z0EN6jSh": "211", 
         "rFd5CiV2": "1", 
@@ -740,7 +740,7 @@
     {
         "0Lhus2Ak": "2", 
         "9BmXtQ7d": "2147483647", 
-        "G4L0YIB2": "\u7d2f\u8a08\u4e0e\u30c0\u30e1\u30fc\u30b8\u6570", 
+        "G4L0YIB2": "累計与ダメージ数", 
         "NYb0Cri6": "TOTAL_DAMAGE", 
         "Z0EN6jSh": "201", 
         "rFd5CiV2": "1", 
@@ -749,7 +749,7 @@
     {
         "0Lhus2Ak": "2", 
         "9BmXtQ7d": "2147483647", 
-        "G4L0YIB2": "\u7d2f\u8a08\u7dcf\u88ab\u30c0\u30e1\u30fc\u30b8\u6570", 
+        "G4L0YIB2": "累計総被ダメージ数", 
         "NYb0Cri6": "TOTAL_DAMAGE_TAKE", 
         "Z0EN6jSh": "202", 
         "rFd5CiV2": "1", 
@@ -758,7 +758,7 @@
     {
         "0Lhus2Ak": "1", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u7dcf\u5408\u88c5\u5099\u56f3\u9451\u6570", 
+        "G4L0YIB2": "総合装備図鑑数", 
         "NYb0Cri6": "TOTAL_EQUIP_ITEM_DICT", 
         "Z0EN6jSh": "107", 
         "rFd5CiV2": "1", 
@@ -767,7 +767,7 @@
     {
         "0Lhus2Ak": "2", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u9003\u8d70\u56de\u6570", 
+        "G4L0YIB2": "逃走回数", 
         "NYb0Cri6": "TOTAL_ESCAPE", 
         "Z0EN6jSh": "222", 
         "rFd5CiV2": "1", 
@@ -776,7 +776,7 @@
     {
         "0Lhus2Ak": "1", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u7d2f\u8a08\u7d46PT", 
+        "G4L0YIB2": "累計絆PT", 
         "NYb0Cri6": "TOTAL_FRIEND_POINT", 
         "Z0EN6jSh": "105", 
         "rFd5CiV2": "1", 
@@ -785,7 +785,7 @@
     {
         "0Lhus2Ak": "1", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u7dcf\u5408\u30ae\u30d5\u30c8\u30d7\u30ec\u30bc\u30f3\u30c8\u6570", 
+        "G4L0YIB2": "総合ギフトプレゼント数", 
         "NYb0Cri6": "TOTAL_GIFT_PRESENT", 
         "Z0EN6jSh": "122", 
         "rFd5CiV2": "1", 
@@ -794,7 +794,7 @@
     {
         "0Lhus2Ak": "1", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u7dcf\u5408\u30ae\u30d5\u30c8\u53d7\u3051\u53d6\u308a\u6570", 
+        "G4L0YIB2": "総合ギフト受け取り数", 
         "NYb0Cri6": "TOTAL_GIFT_RECIEVE", 
         "Z0EN6jSh": "123", 
         "rFd5CiV2": "1", 
@@ -803,7 +803,7 @@
     {
         "0Lhus2Ak": "1", 
         "9BmXtQ7d": "999999", 
-        "G4L0YIB2": "\u7d2f\u8a08\u7372\u5f97\u30ae\u30eb", 
+        "G4L0YIB2": "累計獲得ギル", 
         "NYb0Cri6": "TOTAL_GIL_GET", 
         "Z0EN6jSh": "103", 
         "rFd5CiV2": "1", 
@@ -812,7 +812,7 @@
     {
         "0Lhus2Ak": "1", 
         "9BmXtQ7d": "999999", 
-        "G4L0YIB2": "\u30ae\u30eb\u306e\u4f7f\u7528\u7dcf\u984d", 
+        "G4L0YIB2": "ギルの使用総額", 
         "NYb0Cri6": "TOTAL_GIL_USE", 
         "Z0EN6jSh": "104", 
         "rFd5CiV2": "1", 
@@ -821,7 +821,7 @@
     {
         "0Lhus2Ak": "1", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u7dcf\u5408\u30a2\u30a4\u30c6\u30e0\u56f3\u9451\u6570", 
+        "G4L0YIB2": "総合アイテム図鑑数", 
         "NYb0Cri6": "TOTAL_ITEM_DICT", 
         "Z0EN6jSh": "106", 
         "rFd5CiV2": "1", 
@@ -830,7 +830,7 @@
     {
         "0Lhus2Ak": "2", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u7d2f\u8a08\u30a2\u30a4\u30c6\u30e0\u4f7f\u7528\u56de\u6570", 
+        "G4L0YIB2": "累計アイテム使用回数", 
         "NYb0Cri6": "TOTAL_ITEM_USE", 
         "Z0EN6jSh": "212", 
         "rFd5CiV2": "1", 
@@ -839,7 +839,7 @@
     {
         "0Lhus2Ak": "2", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u7d2f\u8a08LB\u30af\u30ea\u30b9\u30bf\u30eb\u51fa\u73fe\u6570", 
+        "G4L0YIB2": "累計LBクリスタル出現数", 
         "NYb0Cri6": "TOTAL_LB_CRISTAL", 
         "Z0EN6jSh": "218", 
         "rFd5CiV2": "1", 
@@ -848,7 +848,7 @@
     {
         "0Lhus2Ak": "2", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u7d2f\u8a08LB\u767a\u52d5\u56de\u6570", 
+        "G4L0YIB2": "累計LB発動回数", 
         "NYb0Cri6": "TOTAL_LB_USE", 
         "Z0EN6jSh": "216", 
         "rFd5CiV2": "1", 
@@ -857,7 +857,7 @@
     {
         "0Lhus2Ak": "1", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u7d2f\u8a08\u30ed\u30b0\u30a4\u30f3\u65e5\u6570", 
+        "G4L0YIB2": "累計ログイン日数", 
         "NYb0Cri6": "TOTAL_LOGIN_DAYS", 
         "Z0EN6jSh": "101", 
         "rFd5CiV2": "1", 
@@ -866,7 +866,7 @@
     {
         "0Lhus2Ak": "2", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u6557\u5317\u56de\u6570", 
+        "G4L0YIB2": "敗北回数", 
         "NYb0Cri6": "TOTAL_LOSE", 
         "Z0EN6jSh": "223", 
         "rFd5CiV2": "1", 
@@ -875,7 +875,7 @@
     {
         "0Lhus2Ak": "2", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u9b54\u6cd5\u767a\u52d5\u56de\u6570", 
+        "G4L0YIB2": "魔法発動回数", 
         "NYb0Cri6": "TOTAL_MAGIC_USE", 
         "Z0EN6jSh": "214", 
         "rFd5CiV2": "1", 
@@ -884,7 +884,7 @@
     {
         "0Lhus2Ak": "1", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u7dcf\u5408\u7d20\u6750\u56f3\u9451\u6570", 
+        "G4L0YIB2": "総合素材図鑑数", 
         "NYb0Cri6": "TOTAL_MATERIAL_DICT", 
         "Z0EN6jSh": "110", 
         "rFd5CiV2": "1", 
@@ -893,7 +893,7 @@
     {
         "0Lhus2Ak": "2", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u6226\u95d8\u52dd\u5229\u6570", 
+        "G4L0YIB2": "戦闘勝利数", 
         "NYb0Cri6": "TOTAL_MISSION_BATTLE_WIN", 
         "Z0EN6jSh": "127", 
         "rFd5CiV2": "1", 
@@ -902,7 +902,7 @@
     {
         "0Lhus2Ak": "2", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u30c0\u30f3\u30b8\u30e7\u30f3\u6311\u6226\u6570", 
+        "G4L0YIB2": "ダンジョン挑戦数", 
         "NYb0Cri6": "TOTAL_MISSION_CHALLENGE", 
         "Z0EN6jSh": "125", 
         "rFd5CiV2": "1", 
@@ -911,7 +911,7 @@
     {
         "0Lhus2Ak": "2", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u30c0\u30f3\u30b8\u30e7\u30f3\u6210\u529f\u6570", 
+        "G4L0YIB2": "ダンジョン成功数", 
         "NYb0Cri6": "TOTAL_MISSION_CLEAR", 
         "Z0EN6jSh": "126", 
         "rFd5CiV2": "1", 
@@ -920,7 +920,7 @@
     {
         "0Lhus2Ak": "1", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u7dcf\u5408\u30e2\u30f3\u30b9\u30bf\u30fc\u56f3\u9451\u6570", 
+        "G4L0YIB2": "総合モンスター図鑑数", 
         "NYb0Cri6": "TOTAL_MONSTER_DICT", 
         "Z0EN6jSh": "109", 
         "rFd5CiV2": "1", 
@@ -929,7 +929,7 @@
     {
         "0Lhus2Ak": "1", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u30af\u30a8\u30b9\u30c8\u30ec\u30dd\u30fc\u30c8\u9054\u6210\u6570", 
+        "G4L0YIB2": "クエストレポート達成数", 
         "NYb0Cri6": "TOTAL_QUEST_REPORT", 
         "Z0EN6jSh": "118", 
         "rFd5CiV2": "1", 
@@ -938,7 +938,7 @@
     {
         "0Lhus2Ak": "1", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u7dcf\u5408\u30ec\u30b7\u30d4\u56f3\u9451\u6570", 
+        "G4L0YIB2": "総合レシピ図鑑数", 
         "NYb0Cri6": "TOTAL_RECIPE_DICT", 
         "Z0EN6jSh": "108", 
         "rFd5CiV2": "1", 
@@ -947,7 +947,7 @@
     {
         "0Lhus2Ak": "2", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u6575\u304b\u3089\u76d7\u3093\u3060\u56de\u6570", 
+        "G4L0YIB2": "敵から盗んだ回数", 
         "NYb0Cri6": "TOTAL_STEAL", 
         "Z0EN6jSh": "219", 
         "rFd5CiV2": "1", 
@@ -956,7 +956,7 @@
     {
         "0Lhus2Ak": "2", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u30c0\u30f3\u30b8\u30e7\u30f3\u5185\u7d2f\u8a08\u6b69\u6570", 
+        "G4L0YIB2": "ダンジョン内累計歩数", 
         "NYb0Cri6": "TOTAL_STEPS", 
         "Z0EN6jSh": "128", 
         "rFd5CiV2": "1", 
@@ -965,7 +965,7 @@
     {
         "0Lhus2Ak": "1", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u7d2f\u8a08\u5b9d\u7bb1\u958b\u5c01\u6570", 
+        "G4L0YIB2": "累計宝箱開封数", 
         "NYb0Cri6": "TOTAL_TREASURE_OPEN", 
         "Z0EN6jSh": "124", 
         "rFd5CiV2": "1", 
@@ -974,7 +974,7 @@
     {
         "0Lhus2Ak": "1", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u30e6\u30cb\u30c3\u30c8\u899a\u9192\u56de\u6570", 
+        "G4L0YIB2": "ユニット覚醒回数", 
         "NYb0Cri6": "TOTAL_UNIT_CLASS_UP", 
         "Z0EN6jSh": "116", 
         "rFd5CiV2": "1", 
@@ -983,7 +983,7 @@
     {
         "0Lhus2Ak": "1", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u7dcf\u5408\u30e6\u30cb\u30c3\u30c8\u56f3\u9451\u6570", 
+        "G4L0YIB2": "総合ユニット図鑑数", 
         "NYb0Cri6": "TOTAL_UNIT_DICT", 
         "Z0EN6jSh": "113", 
         "rFd5CiV2": "1", 
@@ -992,7 +992,7 @@
     {
         "0Lhus2Ak": "1", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u57fa\u790e\u30b9\u30c6MAX\u30e6\u30cb\u30c3\u30c8\u6570", 
+        "G4L0YIB2": "基礎ステMAXユニット数", 
         "NYb0Cri6": "TOTAL_UNIT_FULL_DOPING", 
         "Z0EN6jSh": "117", 
         "rFd5CiV2": "1", 
@@ -1001,7 +1001,7 @@
     {
         "0Lhus2Ak": "1", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u7dcf\u5408\u30e6\u30cb\u30c3\u30c8\u53d6\u5f97\u6570", 
+        "G4L0YIB2": "総合ユニット取得数", 
         "NYb0Cri6": "TOTAL_UNIT_GET", 
         "Z0EN6jSh": "114", 
         "rFd5CiV2": "1", 
@@ -1010,7 +1010,7 @@
     {
         "0Lhus2Ak": "1", 
         "9BmXtQ7d": "9999", 
-        "G4L0YIB2": "\u30e6\u30cb\u30c3\u30c8\u5408\u6210\u56de\u6570", 
+        "G4L0YIB2": "ユニット合成回数", 
         "NYb0Cri6": "TOTAL_UNIT_MIX", 
         "Z0EN6jSh": "115", 
         "rFd5CiV2": "1", 

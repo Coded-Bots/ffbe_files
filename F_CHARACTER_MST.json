@@ -1,6 +1,6 @@
 [
     {
-        "G4L0YIB2": "\u30ec\u30a4\u30f3", 
+        "G4L0YIB2": "レイン", 
         "GBjEs49R": "1", 
         "H3GZkX8d": "64", 
         "Uc1I3hmo": "64", 
@@ -8,7 +8,7 @@
         "w8Ujb6Vf": "0:0"
     }, 
     {
-        "G4L0YIB2": "\u30e9\u30b9\u30a6\u30a7\u30eb", 
+        "G4L0YIB2": "ラスウェル", 
         "GBjEs49R": "2", 
         "H3GZkX8d": "64", 
         "Uc1I3hmo": "64", 
@@ -16,7 +16,7 @@
         "w8Ujb6Vf": "0:0"
     }, 
     {
-        "G4L0YIB2": "\u30d5\u30a3\u30fc\u30ca", 
+        "G4L0YIB2": "フィーナ", 
         "GBjEs49R": "3", 
         "H3GZkX8d": "64", 
         "Uc1I3hmo": "64", 
@@ -24,7 +24,7 @@
         "w8Ujb6Vf": "0:0"
     }, 
     {
-        "G4L0YIB2": "\u30cb\u30b3\u30eb", 
+        "G4L0YIB2": "ニコル", 
         "GBjEs49R": "4", 
         "H3GZkX8d": "64", 
         "Uc1I3hmo": "64", 
@@ -32,7 +32,7 @@
         "w8Ujb6Vf": "0:0"
     }, 
     {
-        "G4L0YIB2": "\u30ea\u30c9", 
+        "G4L0YIB2": "リド", 
         "GBjEs49R": "5", 
         "H3GZkX8d": "64", 
         "Uc1I3hmo": "64", 
@@ -40,7 +40,7 @@
         "w8Ujb6Vf": "0:0"
     }, 
     {
-        "G4L0YIB2": "\u30b5\u30af\u30e9", 
+        "G4L0YIB2": "サクラ", 
         "GBjEs49R": "6", 
         "H3GZkX8d": "64", 
         "Uc1I3hmo": "64", 
@@ -48,7 +48,7 @@
         "w8Ujb6Vf": "0:0"
     }, 
     {
-        "G4L0YIB2": "\u30b8\u30a7\u30a4\u30af", 
+        "G4L0YIB2": "ジェイク", 
         "GBjEs49R": "7", 
         "H3GZkX8d": "64", 
         "Uc1I3hmo": "64", 
@@ -56,7 +56,7 @@
         "w8Ujb6Vf": "0:0"
     }, 
     {
-        "G4L0YIB2": "\u30b0\u30e9\u30f3\u30c7\u30eb", 
+        "G4L0YIB2": "グランデル", 
         "GBjEs49R": "8", 
         "H3GZkX8d": "64", 
         "Uc1I3hmo": "80", 
@@ -64,7 +64,7 @@
         "w8Ujb6Vf": "0:0"
     }, 
     {
-        "G4L0YIB2": "\u30e9\u30b9\u30a6\u30a7\u30eb2nd", 
+        "G4L0YIB2": "ラスウェル2nd", 
         "GBjEs49R": "12", 
         "H3GZkX8d": "64", 
         "Uc1I3hmo": "64", 
@@ -72,7 +72,7 @@
         "w8Ujb6Vf": "0:0"
     }, 
     {
-        "G4L0YIB2": "\u30d5\u30a3\u30fc\u30ca2nd", 
+        "G4L0YIB2": "フィーナ2nd", 
         "GBjEs49R": "13", 
         "H3GZkX8d": "64", 
         "Uc1I3hmo": "64", 
@@ -80,7 +80,7 @@
         "w8Ujb6Vf": "0:0"
     }, 
     {
-        "G4L0YIB2": "\u30cb\u30b3\u30eb2nd", 
+        "G4L0YIB2": "ニコル2nd", 
         "GBjEs49R": "14", 
         "H3GZkX8d": "64", 
         "Uc1I3hmo": "64", 
@@ -88,7 +88,7 @@
         "w8Ujb6Vf": "0:0"
     }, 
     {
-        "G4L0YIB2": "\u30ea\u30c92nd", 
+        "G4L0YIB2": "リド2nd", 
         "GBjEs49R": "15", 
         "H3GZkX8d": "64", 
         "Uc1I3hmo": "64", 
@@ -96,7 +96,7 @@
         "w8Ujb6Vf": "0:0"
     }, 
     {
-        "G4L0YIB2": "\u30b5\u30af\u30e92nd", 
+        "G4L0YIB2": "サクラ2nd", 
         "GBjEs49R": "16", 
         "H3GZkX8d": "64", 
         "Uc1I3hmo": "64", 
@@ -104,7 +104,7 @@
         "w8Ujb6Vf": "0:0"
     }, 
     {
-        "G4L0YIB2": "\u30b8\u30a7\u30a4\u30af2nd", 
+        "G4L0YIB2": "ジェイク2nd", 
         "GBjEs49R": "17", 
         "H3GZkX8d": "64", 
         "Uc1I3hmo": "64", 
@@ -112,7 +112,7 @@
         "w8Ujb6Vf": "0:0"
     }, 
     {
-        "G4L0YIB2": "\u30ec\u30fc\u30b2\u30f32nd", 
+        "G4L0YIB2": "レーゲン2nd", 
         "GBjEs49R": "18", 
         "H3GZkX8d": "64", 
         "Uc1I3hmo": "64", 
