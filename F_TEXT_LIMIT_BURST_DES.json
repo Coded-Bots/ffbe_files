@@ -822,3 +822,12 @@ MST_LIMITBURST_DESCRIPTION_401001405^Deal partial unmitigated wind damage and re
 MST_LIMITBURST_DESCRIPTION_401001406^Deal partial unmitigated wind damage and reduce wind and lightning resistance for all enemies^對全體敵人發動無視部分防禦的風屬性攻擊+降低風雷屬性耐性的數值^적 전체에 바람속성 일부 방어 무시 피해+바람과 번개속성 저항력 감소^Inflige des dégâts de vent en partie fixes et réduit la résistance au vent et à la foudre de tous les ennemis^Fügt allen Gegnern teilweise direkten Windschaden zu und reduziert Wind- und Bitzresistenz.^Daño absoluto parcial de viento y reduce la res. al viento y al rayo de todos los enemigos
 MST_LIMITBURST_DESCRIPTION_401000804^Light damage to all enemies^對全體敵人發動光屬性攻擊^적 전체에 빛속성 피해^Dégâts de lumière sur tous les ennemis^Lichtschaden, alle Ziele^Daño de luz a todos los enemigos
 MST_LIMITBURST_DESCRIPTION_401000805^Light damage to all enemies^對全體敵人發動光屬性攻擊^적 전체에 빛속성 피해^Dégâts de lumière sur tous les ennemis^Lichtschaden, alle Ziele^Daño de luz a todos los enemigos
+MST_LIMITBURST_DESCRIPTION_401002005^Magic damage to all enemies and boost MAG for next attack^^^^^
+MST_LIMITBURST_DESCRIPTION_401002006^Magic damage to all enemies and boost MAG for next attack^^^^^
+MST_LIMITBURST_DESCRIPTION_401002104^Regenerate HP and MP for all allies and enable them to dodge two physical attacks for three turns^^^^^
+MST_LIMITBURST_DESCRIPTION_401002105^Regenerate HP and MP for all allies and enable them to dodge two physical attacks for three turns^^^^^
+MST_LIMITBURST_DESCRIPTION_401002106^Regenerate HP and MP for all allies and enable them to dodge two physical attacks for three turns^^^^^
+MST_LIMITBURST_DESCRIPTION_401002204^Water damage and reduce water resistance for all enemies^^^^^
+MST_LIMITBURST_DESCRIPTION_401002205^Water damage and reduce water resistance for all enemies^^^^^
+MST_LIMITBURST_DESCRIPTION_401002206^Water damage and reduce water resistance for all enemies^^^^^
+MST_LIMITBURST_DESCRIPTION_401000506^Damage all enemies^攻擊全體敵人^적 전체에 피해^Dégâts sur tous les ennemis^Schaden, alle Ziele^Daña a todos los enemigos

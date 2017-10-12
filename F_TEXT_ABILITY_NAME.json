@@ -31,7 +31,7 @@ MST_ABILITY_NAME_101040^Man-Eater^食人^인간 킬러^Tueur^Menschenfresser^Com
 MST_ABILITY_NAME_101050^Dragon Killer^屠龍^드래곤 킬러^Tue-dragons^Drachentöter^Matadragones
 MST_ABILITY_NAME_101070^Demon Killer^斬魔^악마 킬러^Tue-démons ^Dämonenkiller^Matademonios
 MST_ABILITY_NAME_101080^Beast Killer^亡獸^야수 킬러^Tue-bêtes^Bestientöter^Matabestias
-MST_ABILITY_NAME_101090^Bird Killer^射鳥^새 킬러^Tue-oiseaux^Papageno^Matapájaros
+MST_ABILITY_NAME_101090^Bird Killer^射鳥^새 킬러^Tue-oiseaux^Vogelkiller^Matapájaros
 MST_ABILITY_NAME_101110^Aquan Killer^枯水^수중생물 킬러^Tue-aquatique^Aquankiller^Mataacuáticos
 MST_ABILITY_NAME_101120^Auto-Potion^自動治療劑^자동 포션^Auto-Potion^Auto-Trank^Autopoción
 MST_ABILITY_NAME_101130^Auto-Med^自動ST恢復藥^자동 상태이상 회복약^Auto-Guérison^Auto-Kur^Autopanacea
@@ -250,7 +250,7 @@ MST_ABILITY_NAME_201590^Dark Shield^防暗護盾^어둠 내성 방패^Bouclier n
 MST_ABILITY_NAME_201600^Capsule Absorb^膠囊超吸收^캡슐 초 흡수^Capsule absorption^Kapselabsorption^Absorber cápsula
 MST_ABILITY_NAME_201610^Lightning Spear^超放電&槍擊^초뢰방전&스피어^Lance de foudre^Gewitterspeer^Lanza relámpago
 MST_ABILITY_NAME_100060^MP +30%^MP+30%^MP+30%^PM +30%^MP + 30 %^PM +30%
-MST_ABILITY_NAME_101060^Undead Killer^驅靈^언데드 킬러^Tueur de morts-vivants^Weihrauch^Matazombis
+MST_ABILITY_NAME_101060^Undead Killer^驅靈^언데드 킬러^Tueur de morts-vivants^Untotenkiller^Matazombis
 MST_ABILITY_NAME_200640^Watera Blade^中流水劍^워터라 검^Lame Eau +^Aquara-Klinge^Hoja Aqua+
 MST_ABILITY_NAME_200650^Aerora Blade^中勁風劍^에어로라 검^Lame Vent +^Aerora-Klinge^Hoja Aero+
 MST_ABILITY_NAME_200660^Stonra Blade^中落石劍^스톤라 검^Lame Terre +^Terrara-Klinge^Hoja Piedra+
@@ -555,7 +555,7 @@ MST_ABILITY_NAME_204260^Action^行動之力^행동하는 힘^Action^Kraft der Zi
 MST_ABILITY_NAME_204270^Innocence^純真之力^순진한 힘^Innocence^Kraft der Unverfälschtheit^Inocencia
 MST_ABILITY_NAME_204280^Tranquility^冷靜之力^냉정한 힘^Tranquillité^Kata^Tranquilidad
 MST_ABILITY_NAME_204290^Gate of Destiny^能量炸彈^에너지 봄^Explosion d'énergie^Tor der Bestimmung^Estallido anímico
-MST_ABILITY_NAME_204300^White Knight^安全防禦^세이프티 가드^Dôme protecteur^Zuflucht^Shangri-La
+MST_ABILITY_NAME_204300^White Knight^安全防禦^세이프티 가드^Dôme protecteur^Schutzamulett^Shangri-La
 MST_ABILITY_NAME_204310^Tempered Shield^硬化護盾^경화 방패^Bouclier résistant^Gehärteter Schild^Escudo rechapado
 MST_ABILITY_NAME_204320^Imperial Helm^皇國軍頭盔^제국군의 헬멧^Casque de l'Empire^Imperialer Helm^Casco imperial
 MST_ABILITY_NAME_204330^Retaliate^回擊^앙갚음^Réponse^Rache^Resarcimiento
@@ -711,7 +711,7 @@ MST_ABILITY_NAME_204990^Subdue^支配^지배^Soumettre^Unterwerfung^Subyugar
 MST_ABILITY_NAME_205000^Control^君臨^군림^Dominer^Kontrolle^Dominar
 MST_ABILITY_NAME_205010^Present your offering!^獻上貢品^제물을 바쳐라^Voici une offrande !^Zeig dein Angebot!^¡Entrega tu ofrenda!
 MST_ABILITY_NAME_205020^Time Stopper^時間停止^시간이여, 멈추어라^Que le temps s'arrête ^Zeitschloss^Que el tiempo se pare
-MST_ABILITY_NAME_205030^Insolent fools!^無禮之徒^무례한 것!^Sombres fous^Unverschämte Narren^¡Necios insolentes!
+MST_ABILITY_NAME_205030^Insolent fools!^無禮之徒^무례한 것!^Sombre fous !^Unverschämte Narren!^¡Necios insolentes!
 MST_ABILITY_NAME_205040^Prism Veil^棱鏡面紗^프리즘 베일^Voile prismatique^Prismaschleier^Velo prismático
 MST_ABILITY_NAME_205050^Love You All^全心全意^박애주의자^De l'amour pour tous ^Hab euch lieb^Amor para todos
 MST_ABILITY_NAME_205060^Anti-Element^反元素^안티 엘리먼트^Anti-élément ^Anti-Element^AntiElemental
@@ -1980,7 +1980,7 @@ MST_ABILITY_NAME_213340^Warp Charge^變移蓄力^시프트 차지^Charge éclips
 MST_ABILITY_NAME_213350^Warp Plunder^變移奪取^시프트 플런더^Pillage éclipse ^Punkt-Warp^Lux Sugere
 MST_ABILITY_NAME_213360^Kingsglaive^王之劍^왕의 검^Glaive du roi ^Königsgleve^Glaive real
 MST_ABILITY_NAME_213370^Hero's Pride^英雄的矜持^영웅의 긍지^Fierté de héros ^Heldenstolz^Orgullo de héroe
-MST_ABILITY_NAME_213380^Phase^變移閃避^시프트 닷지^Faille - Esquive ^Warp-Ausweichen^Reflejos
+MST_ABILITY_NAME_213380^Phase^變移閃避^회피^Faille - Esquive ^Warp-Ausweichen^Reflejos
 MST_ABILITY_NAME_213390^Loyalty Oath^誓死效忠^충성의 맹세^Serment de loyauté ^Treueschwur^Juramento de lealtad
 MST_ABILITY_NAME_213400^Twin Daggers^雙重短劍^트윈 대거^Dagues jumelles^Zwillingsdolch^Dos dagas
 MST_ABILITY_NAME_213410^Dagger Mastery^短劍奧義^단검의 비법^Maîtrise des dagues ^Dolchmeisterschaft^Maestría de espada C
@@ -2003,11 +2003,11 @@ MST_ABILITY_NAME_213570^Defensive Code^防禦代碼^방어 코드^Code défensif
 MST_ABILITY_NAME_213580^Magic Code^魔力代碼^마법 코드^Code magique ^Magischer Code^Código de magia
 MST_ABILITY_NAME_213590^Spirit Code^精神代碼^정신 코드^Code psychique ^Geist-Code^Código de espíritu
 MST_ABILITY_NAME_213600^Lone Woman^一點紅^홍일점^Femme solitaire ^Einsame Frau^Mujer solitaria
-MST_ABILITY_NAME_213610^For Hearth and Home^故鄉的榮耀^고향의 긍지^Pour nos terres et nos foyers !^Für Heimat und Ehre^Por el hogar
+MST_ABILITY_NAME_213610^For Hearth and Home^故鄉的榮耀^고향의 긍지를 걸고!^Pour nos terres et nos foyers !^Für Heimat und Ehre^Por el hogar
 MST_ABILITY_NAME_213620^Emergency Relief^救急救護^응급 구조^Aide d'urgence ^Rettung in letzter Sekunde^Auxilio de emergencia
 MST_ABILITY_NAME_213630^Sister Spirit^妹妹的志氣^여동생의 의지^Tempérament de sœur ^Schwesterfigur^Temperamento de hermana
 MST_ABILITY_NAME_213640^Not Dying Now^不要死啊！^죽지 마라^Ne t'avise pas de mourir ^Gestorben wird später^No moriré aquí
-MST_ABILITY_NAME_213650^No Counting Favors^扯平^서로 빚은 없는 거다^Ni faveur, ni dette^Er hilft mir, ich helf ihm!^Sin favores ni deudas
+MST_ABILITY_NAME_213650^No Counting Favors^扯平^갚을 필요는 없다^Ni faveur, ni dette^Er hilft mir, ich helf ihm!^Sin favores ni deudas
 MST_ABILITY_NAME_213660^Use This!^用這個！^이걸 써!^Utilise ça !^Benutz das!^¡Usa esto!
 MST_ABILITY_NAME_213670^Absolute Guard^絕對保護好^반드시 지킨다^Charge d'âme^Absoluter Verteidigung^Protección absoluta
 MST_ABILITY_NAME_213680^Dammit!^該死的！^젠장!^Punaise !^Verdammt!^¡Maldición!
@@ -2242,7 +2242,7 @@ MST_ABILITY_NAME_501580^Royal Bad Mouth^說國王壞話^임금님 험담하기^G
 MST_ABILITY_NAME_501590^Lucky Strike^天運雷鳴^천운의 천둥소리^Coup de chance ^Glückstreffer^Golpe de suerte
 MST_ABILITY_NAME_501600^Lucky Strike^天運雷鳴^천운의 천둥소리^Coup de chance ^Glückstreffer^Golpe de suerte
 MST_ABILITY_NAME_501610^Ancient Wisdom^古老睿智^고대의 무녀^Sagesse ancienne ^Alte Weisheit^Sabiduría antigua
-MST_ABILITY_NAME_501620^Point-Blank Warp-Strike^零距離變移破解^영거리 시프트 브레이크^Assauts éclipse critiques^Nahkampf-Teleportationsschlag^Quemarropa
+MST_ABILITY_NAME_501620^Point-Blank Warp-Strike^零距離變移破解^영거리 시프트 브레이크^Assauts éclipse critiques^Direkt-Warp^Quemarropa
 MST_ABILITY_NAME_501640^Slay^斬亡^쓰러뜨리기^Occire^Schlachten^Aniquilar
 MST_ABILITY_NAME_501650^Cut Through^斬殺^깊이 베기^Trancher^Dreindreschen^Descuartizar
 MST_ABILITY_NAME_501660^Schwert Dance^銳劍戰舞^슈발츠 댄스^Danse sauvage^Schwerttanz^Baile salvaje
@@ -2380,7 +2380,7 @@ MST_ABILITY_NAME_502970^Crushing Vice^雙臂重擊^바이스 크러쉬^Vice écr
 MST_ABILITY_NAME_502980^Cat Hook^貓撲^냥냥펀치^Capuche de chat ^Katzenhaken^Garfio felino
 MST_ABILITY_NAME_502990^Cat Hook^貓撲^냥냥펀치^Capuche de chat ^Katzenhaken^Garfio felino
 MST_ABILITY_NAME_503000^Cat Hook^貓撲^냥냥펀치^Capuche de chat ^Katzenhaken^Garfio felino
-MST_ABILITY_NAME_600130^Tempest^暴風^템페스트^Tempête ^Unwetter^Tempestad
+MST_ABILITY_NAME_600130^Tempest^暴風掃擊^템페스트^Tempête ^Unwetter^Tempestad
 MST_ABILITY_NAME_600140^Divine Selection^天選^하늘의 선택^Choix céleste ^Göttliche Auswahl^Selección divina
 MST_ABILITY_NAME_600150^Call to Ruin^破滅造訪^파멸의 도래^Appel de la destruction^Ruf zum Ruin^Llamada de la ruina
 MST_ABILITY_NAME_600160^Downburst^下爆氣流^다운 버스트^Rafale descendante^Fallböe^Estallido inferior
@@ -2816,26 +2816,26 @@ MST_ABILITY_NAME_216030^Floral Blessing^薔薇祝福^장미의 축복^Bénédict
 MST_ABILITY_NAME_216040^Light Resistance +20%^光屬性耐性+20%^빛속성 저항력+20%^Rés. à la lumière +20%^Lichtresistenz +20%^Res. a la luz +20%
 MST_ABILITY_NAME_216050^Crazy Day^瘋狂安息日^광인의 안식일^Journée de fou^Verrückter Tag^Día lunático
 MST_ABILITY_NAME_216060^Cane Mastery^手杖奧義^지팡이의 비법^Maîtrise des bâtons^Stabmeisterschaft^Maestría de bastón
-MST_ABILITY_NAME_216070^Tempest^暴風^템페스트^Tempête^Unwetter^Tempestad
-MST_ABILITY_NAME_216080^Dawnhammer^破曉強擊^던 브레이커^Fendeur de l'aube^Dämmergrauen^Parteamaneceres
-MST_ABILITY_NAME_216090^Cyclone^颶風^사이클론^Cyclone^Taifun^Ciclón
-MST_ABILITY_NAME_216100^Royal Armlet^皇家臂環^로얄 가드^Gantelet royal^Königlicher Armreif^Brazalete real
-MST_ABILITY_NAME_216110^Intercept^衝刺防禦^대시 가드^Intercepter^Sprintschutz^Guardia fugaz
-MST_ABILITY_NAME_216120^Antagonize^防禦同步^싱크 가드^Soutien de défense^Schutzabstimmung^Guardia síncrona
+MST_ABILITY_NAME_216070^Tempest^風暴掃擊^템페스트^Tourbillon^Sturm^Tempestad
+MST_ABILITY_NAME_216080^Dawnhammer^破曉強擊^던 브레이커^Fendeur de l'aube^Dämmerbrecher^Parteamaneceres
+MST_ABILITY_NAME_216090^Cyclone^颶風^사이클론^Cyclone^Zyklon^Ciclón
+MST_ABILITY_NAME_216100^Royal Guard^王家之盾^로얄 가드^Bouclier du roi^Schild des Königs^Escudo del rey
+MST_ABILITY_NAME_216110^Intercept^衝刺防禦^대시 가드^Intercepter^Abfangjäger^Guardia fugaz
+MST_ABILITY_NAME_216120^Antagonize^防禦同步^싱크 가드^Soutien de défense^Synchro-Block^Guardia síncrona
 MST_ABILITY_NAME_216130^Thundering Roar^喝斥^일갈^Pression de Gladio^Donnergebrüll^Rugido atronador
-MST_ABILITY_NAME_216140^Reflex^看破^간파^Réflexe^Reflexe^Reflejos
-MST_ABILITY_NAME_216150^Survival^野外求生^서바이벌^Survivalisme^Überlebenskunst^Supervivencia
+MST_ABILITY_NAME_216140^Reflex^識破^간파^Réflexe^Reflex^Reflejos
+MST_ABILITY_NAME_216150^Survival^野外求生^서바이벌^Survie^Überleben^Supervivencia
 MST_ABILITY_NAME_216160^King's Shield^王之盾^왕의 방패^Bouclier royal^Königsschild^Escudo real
 MST_ABILITY_NAME_216170^Ziedrich^塞德利茨^자이들리츠^Ziedrich^Ziedrich^Ziedrich
-MST_ABILITY_NAME_216180^Tiger Flash^虎鐵一閃^코테츠 일섬^Éclair du tigre^Tigerblitz^Destello del tigre
+MST_ABILITY_NAME_216180^Kotetsu Flash^虎鐵一閃^코테츠 일섬^Éclair du tigre^Tigerblitz^Destello del tigre
 MST_ABILITY_NAME_216190^Way of the Mind's Eye^心眼菊一文字^심안의 키쿠이치몬지^Troisième œil^Weg des geistigen Auges^Tercer ojo
 MST_ABILITY_NAME_216200^Hien^飛燕^비연^Hien^Hien^Hien
 MST_ABILITY_NAME_216210^Slaughtering Blade^斬瞬刀^참순도^Lame sanguinaire^Schlachtklinge^Hoja sanguinaria
-MST_ABILITY_NAME_216220^Lucis's Three Strongest^路希斯三強^루시스 3대 강호^Les 3 champions du Lucis^Die drei stärksten von Lucis^Los 3 magníficos de Lucis
+MST_ABILITY_NAME_216220^Tri-Guard^路希斯三強^루시스 3대 강호^Les 3 champions du Lucis^Die drei stärksten von Lucis^Los 3 magníficos de Lucis
 MST_ABILITY_NAME_216230^Katana Mastery+^刀之奧義改^개량형 도의 비법^Maîtrise des katanas+^Katana-Meisterschaft+^Maestría de katana+
-MST_ABILITY_NAME_216240^Immortal Leader^不死將軍^불사장군^Général immortel^Unsterblicher Anführer^Líder inmortal
-MST_ABILITY_NAME_216250^White Knight^安全防禦^세이프티 가드^Dôme protecteur^Zuflucht^Shangri-La
-MST_ABILITY_NAME_216260^Sword Draw^拔刀術^발도술^Dégainer^Schwert ziehen^Desenvaine
+MST_ABILITY_NAME_216240^The Immortal^不死將軍^불사장군^Général immortel^Unsterblicher General^Líder inmortal
+MST_ABILITY_NAME_216250^White Knight^安全防禦^세이프티 가드^Dôme protecteur^Schutzamulett^Shangri-La
+MST_ABILITY_NAME_216260^Sword Draw^拔刀術^거합도^Dégainer^Schwert ziehen^Desenvaine
 MST_ABILITY_NAME_216270^Moogle Attack^莫古利攻擊^모그리 공격^Attaque mog^Mogry-Angriff^Ataque moguri
 MST_ABILITY_NAME_216280^Here To Help^我來幫忙囉！^도와 줄게!^Ici pour aider^Hier um zu helfen^Ahora os ayudo
 MST_ABILITY_NAME_216290^Cheer Up^振作一點！^기운 내!^Allez, courage !^Aufheitern^Vamos, ánimo
@@ -2850,7 +2850,7 @@ MST_ABILITY_NAME_216370^Cold Defense^寒冰防禦^콜드 디펜스^Défense gel�
 MST_ABILITY_NAME_216380^Thunder Defense^閃電防禦^선더 디펜스^Défense électrique^Donnerverteidigung^Guardia atronadora
 MST_ABILITY_NAME_216390^Shield Status Up^裝備盾時狀態提升^방패 장착 시 능력치 상승^Bonus sur les boucliers^Schildstatus hoch^Bonificación con escudo
 MST_ABILITY_NAME_216400^Fire Resistance +15%^火屬性耐性+15%^불속성 저항력+15%^Rés. au feu +15%^Feuerresistenz +15%^Resistencia al fuego +15%
-MST_ABILITY_NAME_216410^Moogle Plushie^莫古利布偶^모그리 인형^Peluche mog^Mogry-Puppe^Peluche moguri
+MST_ABILITY_NAME_216410^Moogle Plushie^莫古利玩偶^모그리 인형^Mog en peluche^Mogry-Puppe^Peluche moguri
 MST_ABILITY_NAME_216420^Glacier Lance^冰河之槍^빙하의 창^Lance glaciale^Gletscherlanze^Lanza glacial
 MST_ABILITY_NAME_216430^Gail Pierce^暴風突刺^질풍의 창^Tempête perforante^Gailstechen^Vendaval perforador
 MST_ABILITY_NAME_216440^Pulse Javelin^脈衝標槍^펄스 재블린^Javelot à impulsion^Lanzenpuls^Jabalina de pulso
@@ -3185,7 +3185,7 @@ MST_ABILITY_NAME_219910^Successor - Maduin's Power^繼承・馬丁之力^계승�
 MST_ABILITY_NAME_300580^Sweet Return^回禮之糖^답례 사탕^Bonbon en retour^Süße Rückkehr^Golosina de regalo
 MST_ABILITY_NAME_503010^Ziedrich^塞德利茨^자이들리츠^Ziedrich^Ziedrich^Ziedrich
 MST_ABILITY_NAME_503020^Immortal Leader^不死將軍^불사장군^Général immortel^Unsterblicher Anführer^Líder inmortal
-MST_ABILITY_NAME_503030^White Knight^安全防禦^세이프티 가드^Dôme protecteur^Zuflucht^Shangri-La
+MST_ABILITY_NAME_503030^White Knight^安全防禦^세이프티 가드^Amulette de protection^Schutzamulett^Shangri-La
 MST_ABILITY_NAME_503040^Daughter of Amicitia^艾米提亞家的女兒^아미시티아 가문의 딸^Fille d'Amicitia^Tochter Amicitias^Hija de Amicitia
 MST_ABILITY_NAME_503050^Quick Spear^絕槍迅^절창신^Lance véloce^Schneller Speer^Lanza veloz
 MST_ABILITY_NAME_503060^Swift Drakespear^絕衝槍龍迅^절충창룡신^Dracolance rapide^Flinker Drachenspeer^Súper lanza veloz

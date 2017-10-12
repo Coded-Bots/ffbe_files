@@ -1538,7 +1538,7 @@ MST_MONSTER_NAME_103071005^Killer Fish^食人魚^살인어^Poisson-tueur^Killerf
 MST_MONSTER_NAME_203012010^Adamantoise^堅鋼玳瑁龜^금강거북^Adamankhélone^Adaman Taimai^Adamantaimai
 MST_MONSTER_NAME_203002006^Shark^鯊魚^상어^Requin^Hai^Tiburón
 MST_MONSTER_NAME_204002000^Test Rider^試煉騎士^트라이얼 라이드^Cavalier d'élite^Betareiter^Caballero del averno
-MST_MONSTER_NAME_204043000^Mindflayer^奪心魔^정신지배자^Ensorceleur^Gedankenschinder^Rompementes
+MST_MONSTER_NAME_204043000^Mindflayer^精神吸取者^정신지배자^Ensorceleur^Gedankenschinder^Rompementes
 MST_MONSTER_NAME_203033000^Pirate^海盜^해적^Pirate^Pirat^Pirata
 MST_MONSTER_NAME_203033001^Pirate^海盜^해적^Pirate^Pirat^Pirata
 MST_MONSTER_NAME_105051011^Cutpurse^小賊^심부름꾼^Malandrin^Taschendieb^Ratero
@@ -2740,7 +2740,7 @@ MST_MONSTER_NAME_101002003^Stunner^強襲鼠^스터너^Rat enragé^Narko-Ratte^A
 MST_MONSTER_NAME_105033003^Zoldaad Soldier^佐爾達多士兵^졸다드 병사^Soldat de Zoldaad^Zoldaadischer Krieger^Soldado de Zoldaad
 MST_MONSTER_NAME_105033006^Zoldaad Soldier^佐爾達多士兵^졸다드 병사^Soldat de Zoldaad^Zoldaadischer Krieger^Soldado de Zoldaad
 MST_MONSTER_NAME_105043002^Captain^上尉^대위^Capitaine^Kapitän^Capitán
-MST_MONSTER_NAME_204043001^Mindflayer^奪心魔^정신지배자^Ensorceleur^Gedankenschinder^Rompementes
+MST_MONSTER_NAME_204043001^Mindflayer^精神吸取者^정신지배자^Ensorceleur^Gedankenschinder^Rompementes
 MST_MONSTER_NAME_206001019^Magitek Armor^魔導裝甲^마도 아머^Armure magitech^Magitek-Mech^Unidad Magitec
 MST_MONSTER_NAME_206013002^Elytron^赤紅裝甲^에류트론^Elytron^Elytro^Elytron
 MST_MONSTER_NAME_206022001^Tarvos^土衛二十一^타르보스^Tarvos^Tarvos^Tarvos
@@ -3134,9 +3134,9 @@ MST_MONSTER_NAME_112033003^Spritzer^飛靈^도깨비불^Viroplasme^Geistar^Sprit
 MST_MONSTER_NAME_210041009^Monster Effigy^石像獸^석상수^Effigie^Monsterstatue^Efigie monstruosa
 MST_MONSTER_NAME_212011004^Mahadeva^大天骸骨^마하데바^Mahâdeva^Mahadiva^Mahadeva
 MST_MONSTER_NAME_110004023^Bas-relief^浮雕石碑^릴리프^Bas-relief^Risiko-Arm^Bajorrelieve
-MST_MONSTER_NAME_204043002^Mindflayer^奪心魔^정신지배자^Ensorceleur^Gedankenschinder^Rompementes
-MST_MONSTER_NAME_204043003^Mindflayer^奪心魔^정신지배자^Ensorceleur^Gedankenschinder^Rompementes
-MST_MONSTER_NAME_204043004^Mindflayer^奪心魔^정신지배자^Ensorceleur^Gedankenschinder^Rompementes
+MST_MONSTER_NAME_204043002^Mindflayer^精神吸取者^정신지배자^Ensorceleur^Gedankenschinder^Rompementes
+MST_MONSTER_NAME_204043003^Mindflayer^精神吸取者^정신지배자^Ensorceleur^Gedankenschinder^Rompementes
+MST_MONSTER_NAME_204043004^Mindflayer^精神吸取者^정신지배자^Ensorceleur^Gedankenschinder^Rompementes
 MST_MONSTER_NAME_104028005^Golden Bomb^黃金炸彈^골든 봄^Bombo doré^Goldbomber^Bom dorado
 MST_MONSTER_NAME_900010175^Great Nian Beast^巨型年獸^거대 니안^Nian géant^Große Nian-Bestie^Megabestia Nian
 MST_MONSTER_NAME_900010176^Great Nian Beast^巨型年獸^거대 니안^Nian géant^Große Nian-Bestie^Megabestia Nian
@@ -4177,17 +4177,17 @@ MST_MONSTER_NAME_203091002^Flan^軟糊怪^푸딩^Flan^Pudding^Flan
 MST_MONSTER_NAME_203091003^Flan^軟糊怪^푸딩^Flan^Pudding^Flan
 MST_MONSTER_NAME_203091004^Flan^軟糊怪^푸딩^Flan^Pudding^Flan
 MST_MONSTER_NAME_203091005^Flan^軟糊怪^푸딩^Flan^Pudding^Flan
-MST_MONSTER_NAME_104051000^Imp^小魔精^임프^Diablotin^Galchimäsera^Diablejo
-MST_MONSTER_NAME_104051001^Imp^小魔精^임프^Diablotin^Galchimäsera^Diablejo
-MST_MONSTER_NAME_104051002^Imp^小魔精^임프^Diablotin^Galchimäsera^Diablejo
-MST_MONSTER_NAME_104051003^Imp^小魔精^임프^Diablotin^Galchimäsera^Diablejo
-MST_MONSTER_NAME_104051004^Imp^小魔精^임프^Diablotin^Galchimäsera^Diablejo
-MST_MONSTER_NAME_104051005^Imp^小魔精^임프^Diablotin^Galchimäsera^Diablejo
-MST_MONSTER_NAME_205611000^Ronin^流浪武士^스로닌^Ronin^Taubklinge^Hoja entumecida
-MST_MONSTER_NAME_205611001^Ronin^流浪武士^스로닌^Ronin^Taubklinge^Hoja entumecida
-MST_MONSTER_NAME_205611002^Ronin^流浪武士^스로닌^Ronin^Taubklinge^Hoja entumecida
-MST_MONSTER_NAME_205611003^Ronin^流浪武士^스로닌^Ronin^Taubklinge^Hoja entumecida
-MST_MONSTER_NAME_205611004^Ronin^流浪武士^스로닌^Ronin^Taubklinge^Hoja entumecida
+MST_MONSTER_NAME_104051000^Imp^小魔精^임프^Diablotin^Imp^Diablejo
+MST_MONSTER_NAME_104051001^Imp^小魔精^임프^Diablotin^Imp^Diablejo
+MST_MONSTER_NAME_104051002^Imp^小魔精^임프^Diablotin^Imp^Diablejo
+MST_MONSTER_NAME_104051003^Imp^小魔精^임프^Diablotin^Imp^Diablejo
+MST_MONSTER_NAME_104051004^Imp^小魔精^임프^Diablotin^Imp^Diablejo
+MST_MONSTER_NAME_104051005^Imp^小魔精^임프^Diablotin^Imp^Diablejo
+MST_MONSTER_NAME_205611000^Ronin^流浪武士^스로닌^Ronin^Ronin^Hoja entumecida
+MST_MONSTER_NAME_205611001^Ronin^流浪武士^스로닌^Ronin^Ronin^Hoja entumecida
+MST_MONSTER_NAME_205611002^Ronin^流浪武士^스로닌^Ronin^Ronin^Hoja entumecida
+MST_MONSTER_NAME_205611003^Ronin^流浪武士^스로닌^Ronin^Ronin^Hoja entumecida
+MST_MONSTER_NAME_205611004^Ronin^流浪武士^스로닌^Ronin^Ronin^Hoja entumecida
 MST_MONSTER_NAME_209061000^Tarantula^狼蛛^타란툴라^Tarentule^Tarantel^Tarántula
 MST_MONSTER_NAME_209061001^Tarantula^狼蛛^타란툴라^Tarentule^Tarantel^Tarántula
 MST_MONSTER_NAME_209061002^Tarantula^狼蛛^타란툴라^Tarentule^Tarantel^Tarántula
@@ -4195,17 +4195,17 @@ MST_MONSTER_NAME_209061003^Tarantula^狼蛛^타란툴라^Tarentule^Tarantel^Tar�
 MST_MONSTER_NAME_304131000^Arachne^阿剌克涅^아라크네^Arachné^Arachne^Aracnolia
 MST_MONSTER_NAME_304131001^Arachne^阿剌克涅^아라크네^Arachné^Arachne^Aracnolia
 MST_MONSTER_NAME_304131002^Arachne^阿剌克涅^아라크네^Arachné^Arachne^Aracnolia
-MST_MONSTER_NAME_204151000^Mindflayer^奪心魔^마인드플레어^Flagelleur mental^Gedankenschinder^Rompementes
-MST_MONSTER_NAME_201151000^Elder Coeurl^上古長鬚豹^엘더 커얼^Cœurl aîné^Alter Quahl^Bengal gris
-MST_MONSTER_NAME_205621000^Yojimbo^保鑣^요짐보^Yojimbo^Yojimbo^Yojimbo
+MST_MONSTER_NAME_204151000^Mindflayer^精神吸取者^마인드플레어^Flagelleur mental^Gedankenschinder^Rompementes
+MST_MONSTER_NAME_201151000^Elder Coeurl^上古夸爾^엘더 커얼^Cœurl aîné^Graubart-Coeurl^Bengal gris
+MST_MONSTER_NAME_205621000^Yojimbo^保鑣^요짐보^Yojimbo^Yojinbo^Yojimbo
 MST_MONSTER_NAME_203091006^Flan^軟糊怪^푸딩^Flan^Pudding^Flan
-MST_MONSTER_NAME_104051006^Imp^小魔精^임프^Diablotin^Galchimäsera^Diablejo
-MST_MONSTER_NAME_205611005^Ronin^流浪武士^스로닌^Ronin^Taubklinge^Hoja entumecida
+MST_MONSTER_NAME_104051006^Imp^小魔精^임프^Diablotin^Imp^Diablejo
+MST_MONSTER_NAME_205611005^Ronin^流浪武士^스로닌^Ronin^Ronin^Hoja entumecida
 MST_MONSTER_NAME_203091007^Flan^軟糊怪^푸딩^Flan^Pudding^Flan
-MST_MONSTER_NAME_104051007^Imp^小魔精^임프^Diablotin^Galchimäsera^Diablejo
-MST_MONSTER_NAME_205611006^Ronin^流浪武士^스로닌^Ronin^Taubklinge^Hoja entumecida
+MST_MONSTER_NAME_104051007^Imp^小魔精^임프^Diablotin^Imp^Diablejo
+MST_MONSTER_NAME_205611006^Ronin^流浪武士^스로닌^Ronin^Ronin^Hoja entumecida
 MST_MONSTER_NAME_209061010^Tarantula^狼蛛^타란툴라^Tarentule^Tarantel^Tarántula
-MST_MONSTER_NAME_304131003^Arachne^阿剌克涅^아라크네^Arachné^Arachne^Aracnolia
+MST_MONSTER_NAME_304131003^Arachne^阿剌克涅^아르케니^Arachné^Arachne^Aracnolia
 MST_MONSTER_NAME_412021000^Ariadne^阿麗雅德妮^아리아드네^Ariadne^Ariadne^Ariadna
 MST_MONSTER_NAME_209061004^Tarantula^狼蛛^타란툴라^Tarentule^Tarantel^Tarántula
 MST_MONSTER_NAME_209061005^Tarantula^狼蛛^타란툴라^Tarentule^Tarantel^Tarántula
@@ -4213,9 +4213,9 @@ MST_MONSTER_NAME_209061006^Tarantula^狼蛛^타란툴라^Tarentule^Tarantel^Tar�
 MST_MONSTER_NAME_209061007^Tarantula^狼蛛^타란툴라^Tarentule^Tarantel^Tarántula
 MST_MONSTER_NAME_209061008^Tarantula^狼蛛^타란툴라^Tarentule^Tarantel^Tarántula
 MST_MONSTER_NAME_209061009^Tarantula^狼蛛^타란툴라^Tarentule^Tarantel^Tarántula
-MST_MONSTER_NAME_201151001^Elder Coeurl^上古長鬚豹^엘더 커얼^Cœurl aîné^Alter Quahl^Bengal gris
-MST_MONSTER_NAME_201151002^Elder Coeurl^上古長鬚豹^엘더 커얼^Cœurl aîné^Alter Quahl^Bengal gris
-MST_MONSTER_NAME_205621001^Yojimbo^保鑣^요짐보^Yojimbo^Yojimbo^Yojimbo
+MST_MONSTER_NAME_201151001^Elder Coeurl^上古夸爾^엘더 커얼^Cœurl aîné^Graubart-Coeurl^Bengal gris
+MST_MONSTER_NAME_201151002^Elder Coeurl^上古夸爾^엘더 커얼^Cœurl aîné^Graubart-Coeurl^Bengal gris
+MST_MONSTER_NAME_205621001^Yojimbo^保鑣^요짐보^Yojimbo^Yojinbo^Yojimbo
 MST_MONSTER_NAME_111002015^Human Trap^惡魔植物^악마의 덩굴^Plante carnivore^Menschenfalle^Planta devoradora
 MST_MONSTER_NAME_102013025^Poison Eagle^毒雞獸^맹독수리^Aigle venimeux^Giftadler^Águila venenosa
 MST_MONSTER_NAME_101024009^Worgen^魔狼^와르그^Loup féroce^Isegrim^Lobo warg
@@ -4485,7 +4485,7 @@ MST_MONSTER_NAME_103071022^Killer Fish^食人魚^살인어^Poisson-tueur^Killerf
 MST_MONSTER_NAME_201022015^Werepanther^變異豹^변종 커얼^Jaguar-garou^Werpanther^Toxipantera
 MST_MONSTER_NAME_202022011^Sprinter^駭鳥^질주자^Sprinteur^Sprinter^Velocista
 MST_MONSTER_NAME_202013011^Lenergia^胡兀鷲^레네르지아^Lenergia^Renerjia^Lenergia
-MST_MONSTER_NAME_204043005^Mindflayer^奪心魔^정신지배자^Ensorceleur^Gedankenschinder^Rompementes
+MST_MONSTER_NAME_204043005^Mindflayer^精神吸取者^정신지배자^Ensorceleur^Gedankenschinder^Rompementes
 MST_MONSTER_NAME_103031022^Sahagin^魚人^사하긴^Sahuagin^Sahagin^Sahuagin
 MST_MONSTER_NAME_103032000^Sahagin Chief^上級魚人^사하긴 대장^Chef des Sahuagins^Sahagin-Boss^Jefe sahuagin
 MST_MONSTER_NAME_102036008^Serrated Chick^瘴毒怪鳥^톱니 햇병아리^Oisillon dentelé^Gezacker Nadelpicker^Polluelo serrador
@@ -4747,10 +4747,10 @@ MST_MONSTER_NAME_208007003^Flickering Presence^遊蕩者^요동치는 것^Prése
 MST_MONSTER_NAME_204022003^Ice Lizard^寒冰蜥蜴^아이스 도마뱀^Kaïmahn Gelé^Eisechse^Reptil de hielo
 MST_MONSTER_NAME_204011011^Hunger^餓鬼^아귀지옥^Vorace^Knurrbauch^Hambre
 MST_MONSTER_NAME_204007000^Murmur^姆爾姆斯^무르무르^Murmur^Murmur^Murmur
-MST_MONSTER_NAME_406111000^Elnath^艾魯那特^엘나스^Elnath^Elnato^Elnath
-MST_MONSTER_NAME_406111001^Elnath^艾魯那特^엘나스^Elnath^Elnato^Elnath
-MST_MONSTER_NAME_406112000^Elnath - Right Arm^艾魯那特·右臂^엘나스·오른팔^Elnath - Bras droit^Elnato - Rechter Arm^Elnath - Brazo derecho
-MST_MONSTER_NAME_406113000^Elnath - Left Arm^艾魯那特·左臂^엘나스·왼팔^Elnath - Bras gauche^Elnato - Linker Arm^Elnath - Brazo izquierdo
+MST_MONSTER_NAME_406111000^Elnath^艾魯那特^엘나스^Elnath^Elnath^Elnath
+MST_MONSTER_NAME_406111001^Elnath^艾魯那特^엘나스^Elnath^Elnath^Elnath
+MST_MONSTER_NAME_406112000^Elnath - Right Arm^艾魯那特·右臂^엘나스·오른팔^Elnath - Bras droit^Elnath - Rechter Arm^Elnath - Brazo derecho
+MST_MONSTER_NAME_406113000^Elnath - Left Arm^艾魯那特·左臂^엘나스·왼팔^Elnath - Bras gauche^Elnath - Linker Arm^Elnath - Brazo izquierdo
 MST_MONSTER_NAME_111041043^Cactuar^仙人掌^사보텐더^Pampa^Kaktor^Cactilio
 MST_MONSTER_NAME_900010273^Bard Spirit^詩人音靈^음유시인의 영혼^Esprit de barde^Bardengeist^Espíritu del bardo
 MST_MONSTER_NAME_900010274^Bard Spirit^詩人音靈^음유시인의 영혼^Esprit de barde^Bardengeist^Espíritu del bardo

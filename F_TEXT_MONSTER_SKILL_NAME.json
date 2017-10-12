@@ -1794,7 +1794,7 @@ MST_MONSTER_SKILL_NAME_165210^Charge^突進^돌진^Charge^Ansturm^Carga
 MST_MONSTER_SKILL_NAME_165220^Spring On^飛撲^덤벼들기^Dégager^Überfall^Perplejidad
 MST_MONSTER_SKILL_NAME_165230^Howl^吼聲^우렁찬 외침^Cri désorientant^Heulen^Aullido
 MST_MONSTER_SKILL_NAME_165240^Firaga^大火焰^파이가^Feu X^Feuga^Piro++
-MST_MONSTER_SKILL_NAME_165250^Predation^捕食^포식^Cannibalisme^Auffressen^Canibalismo
+MST_MONSTER_SKILL_NAME_165250^Predation^捕食^동족상잔^Cannibalisme^Auffressen^Canibalismo
 MST_MONSTER_SKILL_NAME_165260^Eat Up^吞食^물기^Bouffer^Aufessen^Devoración
 MST_MONSTER_SKILL_NAME_165270^Tail^尾巴^꼬리^Queue^Schwanzhieb^Cola
 MST_MONSTER_SKILL_NAME_165280^Flaming Sigh^炎之吐息^화염의 한숨^Souffle de flammes^Flammenseufzen^Suspiro llameante
@@ -2164,7 +2164,7 @@ MST_MONSTER_SKILL_NAME_168450^Horn of Weakness^弱化角笛^약자의 뿔피리^
 MST_MONSTER_SKILL_NAME_168460^Black Thorn^黑刺棘^검은 가시^Épine noire^Schwarzdorn^Espina negra
 MST_MONSTER_SKILL_NAME_168470^Skewer^穿刺^꼬챙이^Embrocher^Spieß^Pincho moruno
 MST_MONSTER_SKILL_NAME_168480^Slash Up^上挑斬^베어올리기^Coup haut^Aufschlitzen^Corte alto
-MST_MONSTER_SKILL_NAME_168490^Nose Dive Attack^急降下攻擊^급강하 공격^Coup en piquet^Sturzattacke^Golpe en picado
+MST_MONSTER_SKILL_NAME_168490^Swooping Blow^急降下攻擊^급강하 공격^Coup en piquet^Sturzattacke^Golpe en picado
 MST_MONSTER_SKILL_NAME_168500^Two Slash Combo^2連斬^2연속 베기^Combo double^Zweihieb-Kombo^Combo de doble corte
 MST_MONSTER_SKILL_NAME_168510^Blade Draw^拔刀術^이아이누키^Dégainer lame^Klinge ziehen^Desenvainar
 MST_MONSTER_SKILL_NAME_168520^Blade Draw^拔刀術^이아이누키^Dégainer lame^Klinge ziehen^Desenvainar
@@ -2172,7 +2172,7 @@ MST_MONSTER_SKILL_NAME_168530^Sand Throw^撒砂^모래 끼얹기^Jet de sable^Sa
 MST_MONSTER_SKILL_NAME_168540^Four Slash Combo^4連斬^4연속 베기^Quadruple combo^Vierhieb-Kombo^Combo de corte cuádruple
 MST_MONSTER_SKILL_NAME_168550^Skewer^穿刺^꼬챙이^Embrocher^Spieß^Pincho moruno
 MST_MONSTER_SKILL_NAME_168560^Two Slash Combo^2連斬^2연속 베기^Combo double^Zweihieb-Kombo^Combo de doble corte
-MST_MONSTER_SKILL_NAME_168570^Nose Dive Attack^急降下攻擊^급강하 공격^Coup en piquet^Sturzattacke^Golpe en picado
+MST_MONSTER_SKILL_NAME_168570^Swooping Blow^急降下攻擊^급강하 공격^Coup en piquet^Sturzattacke^Golpe en picado
 MST_MONSTER_SKILL_NAME_168580^Slash Up^上挑斬^베어올리기^Coup haut^Aufschlitzen^Corte alto
 MST_MONSTER_SKILL_NAME_168590^Black Thorn^黑刺棘^검은 가시^Épine noire^Schwarzdorn^Espina negra
 MST_MONSTER_SKILL_NAME_168600^Thunder Swing^雷霆震蕩^번개의 그네^Coup électrique^Donnerschwung^Golpe trueno
@@ -2197,7 +2197,7 @@ MST_MONSTER_SKILL_NAME_168780^Draining Touch^吸血之觸^드레인 터치^Touch
 MST_MONSTER_SKILL_NAME_168790^Mind Blast^精神衝擊^정신 파괴^Choc mental^Psychoschlag^Descarga mental
 MST_MONSTER_SKILL_NAME_168800^Breath of Darkness^暗之吐息^어둠의 숨결^Souffle des ténèbres^Atem der Dunkelheit^Soplo oscuro
 MST_MONSTER_SKILL_NAME_168810^Draining Touch^吸血之觸^드레인 터치^Toucher drainant^Entziehender Hauch^Golpe drenador
-MST_MONSTER_SKILL_NAME_168820^Berserk Mode^狂暴^광폭화^Mode Berserker^Berserker-Modus^Modo enloquecido
+MST_MONSTER_SKILL_NAME_168820^Berserk Mode^狂暴^광폭화^Berserk^Berserker-Modus^Modo enloquecido
 MST_MONSTER_SKILL_NAME_168830^Beard Attack^鬍鬚攻擊^수염 공격^Barbattaque^Widerhakenangriff^Barbataque
 MST_MONSTER_SKILL_NAME_168840^The beard is glowing^鬍鬚正在發光^수염이 빛나고 있다^La barbe brille^Glühender Widerhaken^Brilla la barba
 MST_MONSTER_SKILL_NAME_168850^Steady Beard Attack^沉著鬍鬚攻擊^앉아서 수염 공격^Barbattaque solide^Stetiger Widerhakenangriff^Barbataque fijo
@@ -2206,7 +2206,7 @@ MST_MONSTER_SKILL_NAME_168870^Lightning's Howl^雷之咆哮^전격 포효^Hurlem
 MST_MONSTER_SKILL_NAME_168880^Skewer^穿刺^꼬챙이^Embrocher^Spieß^Pincho moruno
 MST_MONSTER_SKILL_NAME_168890^Coin Throw^丟錢^동전 던지기^Jet de pièces^Münzwurf^Arrojamonedas
 MST_MONSTER_SKILL_NAME_168900^Skewer^穿刺^꼬챙이^Embrocher^Spieß^Pincho moruno
-MST_MONSTER_SKILL_NAME_168910^Nose Dive Attack^急降下攻擊^급강하 공격^Coup en piquet^Sturzattacke^Golpe en picado
+MST_MONSTER_SKILL_NAME_168910^Swooping Blow^急降下攻擊^급강하 공격^Coup en piquet^Sturzattacke^Golpe en picado
 MST_MONSTER_SKILL_NAME_168920^Coin Throw^丟錢^동전 던지기^Jet de pièces^Münzwurf^Arrojamonedas
 MST_MONSTER_SKILL_NAME_168930^Black Thorn^黑刺棘^검은 가시^Épine noire^Schwarzdorn^Espina negra
 MST_MONSTER_SKILL_NAME_168940^Blade Draw^拔刀術^이아이누키^Dégainer lame^Klinge ziehen^Desenvainar
@@ -2465,7 +2465,7 @@ MST_MONSTER_SKILL_NAME_171740^Flare^核爆^플레어^Brasier^Flamme^Fulgor
 MST_MONSTER_SKILL_NAME_171750^Cross Cleave^死刃交擊^칼날 교차^Épée à deux mains létale^Tödliches Klingenkreuzen^Mandoble letal
 MST_MONSTER_SKILL_NAME_171760^Complete Destruction^完全破壞^완전한 파괴^Destruction complète^Völlige Vernichtung^Destrucción total
 MST_MONSTER_SKILL_NAME_171770^Phantom Absorb^幻光吸收^환광 흡수^Absorption fantomatique^Phantomabsorbieren^Absorción espectral
-MST_MONSTER_SKILL_NAME_171780^Berserk Mode^狂暴^광폭화^Mode Berserker^Berserker-Modus^Modo enloquecido
+MST_MONSTER_SKILL_NAME_171780^Berserk Mode^狂暴^광폭화^Berserk^Berserker-Modus^Modo enloquecido
 MST_MONSTER_SKILL_NAME_171790^Tackle^衝撞^태클^Tacle^Tackle^Placaje
 MST_MONSTER_SKILL_NAME_171800^Cover Ally^袒護^감싸기^Couvrir allié^Verbündeten schützen^Protección
 MST_MONSTER_SKILL_NAME_171810^Mighty Guard^強力守護^강력 방어^Protection suprême^Totalabwehr^Barrera total
@@ -2481,7 +2481,7 @@ MST_MONSTER_SKILL_NAME_171900^Menacing Stampede^威嚇踐踏^위협의 답보^Ch
 MST_MONSTER_SKILL_NAME_171910^Charge^突進^돌진^Charge^Vormarsch^Carga
 MST_MONSTER_SKILL_NAME_171920^Charge^突進^돌진^Charge^Vormarsch^Carga
 MST_MONSTER_SKILL_NAME_171930^White Wind^純白微風^하얀 바람^Mistral^Weißer Wind^Viento blanco
-MST_MONSTER_SKILL_NAME_171940^Berserk Mode^狂暴^광폭화^Mode Berserker^Berserker-Modus^Modo enloquecido
+MST_MONSTER_SKILL_NAME_171940^Berserk Mode^狂暴^광폭화^Berserk^Berserker-Modus^Modo enloquecido
 MST_MONSTER_SKILL_NAME_171950^Blizzard^暴雪^블리자드^Glace^Eis^Hielo
 MST_MONSTER_SKILL_NAME_171960^Spear of Ruin^毀滅槍^멸망의 창^Lance de la ruine^Speer der Zerstörung^Lanza devastadora
 MST_MONSTER_SKILL_NAME_171970^Morale Booster^士氣^기합^Kiaï^Moralschub^Kiai

@@ -1,433 +1,433 @@
 [
     {
-        "6uvHX2JG": "攻撃定数アップ", 
+        "6uvHX2JG": "\u653b\u6483\u5b9a\u6570\u30a2\u30c3\u30d7", 
         "7WYvz1Ep": "1000", 
         "89EvGKHx": "1", 
-        "G4L0YIB2": "攻撃定数アップ（MAX+200）", 
+        "G4L0YIB2": "\u653b\u6483\u5b9a\u6570\u30a2\u30c3\u30d7\uff08MAX+200\uff09", 
         "YM5b90qZ": "200", 
         "uHG25vSN": "1"
     }, 
     {
-        "6uvHX2JG": "攻撃倍数アップ", 
+        "6uvHX2JG": "\u653b\u6483\u500d\u6570\u30a2\u30c3\u30d7", 
         "7WYvz1Ep": "1500", 
         "89EvGKHx": "2", 
-        "G4L0YIB2": "攻撃倍数アップ（MAX+300%）", 
+        "G4L0YIB2": "\u653b\u6483\u500d\u6570\u30a2\u30c3\u30d7\uff08MAX+300%\uff09", 
         "YM5b90qZ": "300", 
         "uHG25vSN": "1"
     }, 
     {
-        "6uvHX2JG": "攻撃倍数アップ", 
+        "6uvHX2JG": "\u653b\u6483\u500d\u6570\u30a2\u30c3\u30d7", 
         "7WYvz1Ep": "1501", 
         "89EvGKHx": "2", 
-        "G4L0YIB2": "攻撃倍数アップ（MAX+100%）", 
+        "G4L0YIB2": "\u653b\u6483\u500d\u6570\u30a2\u30c3\u30d7\uff08MAX+100%\uff09", 
         "YM5b90qZ": "100", 
         "uHG25vSN": "1"
     }, 
     {
-        "6uvHX2JG": "攻撃倍数アップ", 
+        "6uvHX2JG": "\u653b\u6483\u500d\u6570\u30a2\u30c3\u30d7", 
         "7WYvz1Ep": "1502", 
         "89EvGKHx": "2", 
-        "G4L0YIB2": "攻撃倍数アップ（MAX+100%）", 
+        "G4L0YIB2": "\u653b\u6483\u500d\u6570\u30a2\u30c3\u30d7\uff08MAX+100%\uff09", 
         "YM5b90qZ": "9999", 
         "uHG25vSN": "1"
     }, 
     {
-        "6uvHX2JG": "防御定数アップ", 
+        "6uvHX2JG": "\u9632\u5fa1\u5b9a\u6570\u30a2\u30c3\u30d7", 
         "7WYvz1Ep": "2000", 
         "89EvGKHx": "3", 
-        "G4L0YIB2": "防御定数アップ（MAX+200）", 
+        "G4L0YIB2": "\u9632\u5fa1\u5b9a\u6570\u30a2\u30c3\u30d7\uff08MAX+200\uff09", 
         "YM5b90qZ": "200", 
         "uHG25vSN": "1"
     }, 
     {
-        "6uvHX2JG": "防御倍数アップ", 
+        "6uvHX2JG": "\u9632\u5fa1\u500d\u6570\u30a2\u30c3\u30d7", 
         "7WYvz1Ep": "2500", 
         "89EvGKHx": "4", 
-        "G4L0YIB2": "防御倍数アップ（MAX+300%）", 
+        "G4L0YIB2": "\u9632\u5fa1\u500d\u6570\u30a2\u30c3\u30d7\uff08MAX+300%\uff09", 
         "YM5b90qZ": "300", 
         "uHG25vSN": "1"
     }, 
     {
-        "6uvHX2JG": "防御倍数アップ", 
+        "6uvHX2JG": "\u9632\u5fa1\u500d\u6570\u30a2\u30c3\u30d7", 
         "7WYvz1Ep": "2501", 
         "89EvGKHx": "4", 
-        "G4L0YIB2": "防御倍数アップ（MAX+100%）", 
+        "G4L0YIB2": "\u9632\u5fa1\u500d\u6570\u30a2\u30c3\u30d7\uff08MAX+100%\uff09", 
         "YM5b90qZ": "100", 
         "uHG25vSN": "1"
     }, 
     {
-        "6uvHX2JG": "防御倍数アップ", 
+        "6uvHX2JG": "\u9632\u5fa1\u500d\u6570\u30a2\u30c3\u30d7", 
         "7WYvz1Ep": "2502", 
         "89EvGKHx": "4", 
-        "G4L0YIB2": "防御倍数アップ（MAX+100%）", 
+        "G4L0YIB2": "\u9632\u5fa1\u500d\u6570\u30a2\u30c3\u30d7\uff08MAX+100%\uff09", 
         "YM5b90qZ": "9999", 
         "uHG25vSN": "1"
     }, 
     {
-        "6uvHX2JG": "魔力定数アップ", 
+        "6uvHX2JG": "\u9b54\u529b\u5b9a\u6570\u30a2\u30c3\u30d7", 
         "7WYvz1Ep": "3000", 
         "89EvGKHx": "5", 
-        "G4L0YIB2": "魔力定数アップ（MAX+200）", 
+        "G4L0YIB2": "\u9b54\u529b\u5b9a\u6570\u30a2\u30c3\u30d7\uff08MAX+200\uff09", 
         "YM5b90qZ": "200", 
         "uHG25vSN": "1"
     }, 
     {
-        "6uvHX2JG": "魔力倍数アップ", 
+        "6uvHX2JG": "\u9b54\u529b\u500d\u6570\u30a2\u30c3\u30d7", 
         "7WYvz1Ep": "3500", 
         "89EvGKHx": "6", 
-        "G4L0YIB2": "魔力倍数アップ（MAX+300%）", 
+        "G4L0YIB2": "\u9b54\u529b\u500d\u6570\u30a2\u30c3\u30d7\uff08MAX+300%\uff09", 
         "YM5b90qZ": "300", 
         "uHG25vSN": "1"
     }, 
     {
-        "6uvHX2JG": "魔力倍数アップ", 
+        "6uvHX2JG": "\u9b54\u529b\u500d\u6570\u30a2\u30c3\u30d7", 
         "7WYvz1Ep": "3501", 
         "89EvGKHx": "6", 
-        "G4L0YIB2": "魔力倍数アップ（MAX+100%）", 
+        "G4L0YIB2": "\u9b54\u529b\u500d\u6570\u30a2\u30c3\u30d7\uff08MAX+100%\uff09", 
         "YM5b90qZ": "100", 
         "uHG25vSN": "1"
     }, 
     {
-        "6uvHX2JG": "魔力倍数アップ", 
+        "6uvHX2JG": "\u9b54\u529b\u500d\u6570\u30a2\u30c3\u30d7", 
         "7WYvz1Ep": "3502", 
         "89EvGKHx": "6", 
-        "G4L0YIB2": "魔力倍数アップ（MAX+100%）", 
+        "G4L0YIB2": "\u9b54\u529b\u500d\u6570\u30a2\u30c3\u30d7\uff08MAX+100%\uff09", 
         "YM5b90qZ": "9999", 
         "uHG25vSN": "1"
     }, 
     {
-        "6uvHX2JG": "精神定数アップ", 
+        "6uvHX2JG": "\u7cbe\u795e\u5b9a\u6570\u30a2\u30c3\u30d7", 
         "7WYvz1Ep": "4000", 
         "89EvGKHx": "7", 
-        "G4L0YIB2": "精神定数アップ（MAX+200）", 
+        "G4L0YIB2": "\u7cbe\u795e\u5b9a\u6570\u30a2\u30c3\u30d7\uff08MAX+200\uff09", 
         "YM5b90qZ": "200", 
         "uHG25vSN": "1"
     }, 
     {
-        "6uvHX2JG": "精神倍数アップ", 
+        "6uvHX2JG": "\u7cbe\u795e\u500d\u6570\u30a2\u30c3\u30d7", 
         "7WYvz1Ep": "4500", 
         "89EvGKHx": "8", 
-        "G4L0YIB2": "精神倍数アップ（MAX+300%）", 
+        "G4L0YIB2": "\u7cbe\u795e\u500d\u6570\u30a2\u30c3\u30d7\uff08MAX+300%\uff09", 
         "YM5b90qZ": "300", 
         "uHG25vSN": "1"
     }, 
     {
-        "6uvHX2JG": "精神倍数アップ", 
+        "6uvHX2JG": "\u7cbe\u795e\u500d\u6570\u30a2\u30c3\u30d7", 
         "7WYvz1Ep": "4501", 
         "89EvGKHx": "8", 
-        "G4L0YIB2": "精神倍数アップ（MAX+100%）", 
+        "G4L0YIB2": "\u7cbe\u795e\u500d\u6570\u30a2\u30c3\u30d7\uff08MAX+100%\uff09", 
         "YM5b90qZ": "100", 
         "uHG25vSN": "1"
     }, 
     {
-        "6uvHX2JG": "精神倍数アップ", 
+        "6uvHX2JG": "\u7cbe\u795e\u500d\u6570\u30a2\u30c3\u30d7", 
         "7WYvz1Ep": "4502", 
         "89EvGKHx": "8", 
-        "G4L0YIB2": "精神倍数アップ（MAX+100%）", 
+        "G4L0YIB2": "\u7cbe\u795e\u500d\u6570\u30a2\u30c3\u30d7\uff08MAX+100%\uff09", 
         "YM5b90qZ": "9999", 
         "uHG25vSN": "1"
     }, 
     {
-        "6uvHX2JG": "HP定数アップ", 
+        "6uvHX2JG": "HP\u5b9a\u6570\u30a2\u30c3\u30d7", 
         "7WYvz1Ep": "5000", 
         "89EvGKHx": "9", 
-        "G4L0YIB2": "HP定数アップ（MAX+200）", 
+        "G4L0YIB2": "HP\u5b9a\u6570\u30a2\u30c3\u30d7\uff08MAX+200\uff09", 
         "YM5b90qZ": "200", 
         "uHG25vSN": "1"
     }, 
     {
-        "6uvHX2JG": "HP倍数アップ", 
+        "6uvHX2JG": "HP\u500d\u6570\u30a2\u30c3\u30d7", 
         "7WYvz1Ep": "5500", 
         "89EvGKHx": "10", 
-        "G4L0YIB2": "HP倍数アップ（MAX+300%）", 
+        "G4L0YIB2": "HP\u500d\u6570\u30a2\u30c3\u30d7\uff08MAX+300%\uff09", 
         "YM5b90qZ": "300", 
         "uHG25vSN": "1"
     }, 
     {
-        "6uvHX2JG": "HP倍数アップ", 
+        "6uvHX2JG": "HP\u500d\u6570\u30a2\u30c3\u30d7", 
         "7WYvz1Ep": "5501", 
         "89EvGKHx": "10", 
-        "G4L0YIB2": "HP倍数アップ（MAX+100%）", 
+        "G4L0YIB2": "HP\u500d\u6570\u30a2\u30c3\u30d7\uff08MAX+100%\uff09", 
         "YM5b90qZ": "100", 
         "uHG25vSN": "1"
     }, 
     {
-        "6uvHX2JG": "HP倍数アップ", 
+        "6uvHX2JG": "HP\u500d\u6570\u30a2\u30c3\u30d7", 
         "7WYvz1Ep": "5502", 
         "89EvGKHx": "10", 
-        "G4L0YIB2": "HP倍数アップ（MAX+100%）", 
+        "G4L0YIB2": "HP\u500d\u6570\u30a2\u30c3\u30d7\uff08MAX+100%\uff09", 
         "YM5b90qZ": "9999", 
         "uHG25vSN": "1"
     }, 
     {
-        "6uvHX2JG": "MP定数アップ", 
+        "6uvHX2JG": "MP\u5b9a\u6570\u30a2\u30c3\u30d7", 
         "7WYvz1Ep": "6000", 
         "89EvGKHx": "11", 
-        "G4L0YIB2": "MP倍数アップ（MAX+300%）", 
+        "G4L0YIB2": "MP\u500d\u6570\u30a2\u30c3\u30d7\uff08MAX+300%\uff09", 
         "YM5b90qZ": "200", 
         "uHG25vSN": "1"
     }, 
     {
-        "6uvHX2JG": "MP倍数アップ", 
+        "6uvHX2JG": "MP\u500d\u6570\u30a2\u30c3\u30d7", 
         "7WYvz1Ep": "6500", 
         "89EvGKHx": "12", 
-        "G4L0YIB2": "MP倍数アップ（MAX+300%）", 
+        "G4L0YIB2": "MP\u500d\u6570\u30a2\u30c3\u30d7\uff08MAX+300%\uff09", 
         "YM5b90qZ": "300", 
         "uHG25vSN": "1"
     }, 
     {
-        "6uvHX2JG": "MP倍数アップ", 
+        "6uvHX2JG": "MP\u500d\u6570\u30a2\u30c3\u30d7", 
         "7WYvz1Ep": "6501", 
         "89EvGKHx": "12", 
-        "G4L0YIB2": "MP倍数アップ（MAX+100%）", 
+        "G4L0YIB2": "MP\u500d\u6570\u30a2\u30c3\u30d7\uff08MAX+100%\uff09", 
         "YM5b90qZ": "100", 
         "uHG25vSN": "1"
     }, 
     {
-        "6uvHX2JG": "MP倍数アップ", 
+        "6uvHX2JG": "MP\u500d\u6570\u30a2\u30c3\u30d7", 
         "7WYvz1Ep": "6502", 
         "89EvGKHx": "12", 
-        "G4L0YIB2": "MP倍数アップ（MAX+100%）", 
+        "G4L0YIB2": "MP\u500d\u6570\u30a2\u30c3\u30d7\uff08MAX+100%\uff09", 
         "YM5b90qZ": "9999", 
         "uHG25vSN": "1"
     }, 
     {
-        "6uvHX2JG": "ドロップアイテム数", 
+        "6uvHX2JG": "\u30c9\u30ed\u30c3\u30d7\u30a2\u30a4\u30c6\u30e0\u6570", 
         "7WYvz1Ep": "8000", 
         "89EvGKHx": "1", 
-        "G4L0YIB2": "ドロップアイテム数倍率増加（MAX+400%）", 
+        "G4L0YIB2": "\u30c9\u30ed\u30c3\u30d7\u30a2\u30a4\u30c6\u30e0\u6570\u500d\u7387\u5897\u52a0\uff08MAX+400%\uff09", 
         "YM5b90qZ": "202000800:400", 
         "uHG25vSN": "2"
     }, 
     {
-        "6uvHX2JG": "ドロップアイテム数増加", 
+        "6uvHX2JG": "\u30c9\u30ed\u30c3\u30d7\u30a2\u30a4\u30c6\u30e0\u6570\u5897\u52a0", 
         "7WYvz1Ep": "8001", 
         "89EvGKHx": "1", 
-        "G4L0YIB2": "ファントマ入手数倍率増加（MAX+600%）", 
+        "G4L0YIB2": "\u30d5\u30a1\u30f3\u30c8\u30de\u5165\u624b\u6570\u500d\u7387\u5897\u52a0\uff08MAX+600%\uff09", 
         "YM5b90qZ": "106300300:600", 
         "uHG25vSN": "2"
     }, 
     {
-        "6uvHX2JG": "ドロップアイテム数増加", 
+        "6uvHX2JG": "\u30c9\u30ed\u30c3\u30d7\u30a2\u30a4\u30c6\u30e0\u6570\u5897\u52a0", 
         "7WYvz1Ep": "8002", 
         "89EvGKHx": "1", 
-        "G4L0YIB2": "まんまるドロップ入手数倍率増加（MAX+600%）", 
+        "G4L0YIB2": "\u307e\u3093\u307e\u308b\u30c9\u30ed\u30c3\u30d7\u5165\u624b\u6570\u500d\u7387\u5897\u52a0\uff08MAX+600%\uff09", 
         "YM5b90qZ": "106300400:600", 
         "uHG25vSN": "2"
     }, 
     {
-        "6uvHX2JG": "ドロップアイテム数増加", 
+        "6uvHX2JG": "\u30c9\u30ed\u30c3\u30d7\u30a2\u30a4\u30c6\u30e0\u6570\u5897\u52a0", 
         "7WYvz1Ep": "8003", 
         "89EvGKHx": "1", 
-        "G4L0YIB2": "ホワイトファントマ入手数倍率増加（MAX+600%）", 
+        "G4L0YIB2": "\u30db\u30ef\u30a4\u30c8\u30d5\u30a1\u30f3\u30c8\u30de\u5165\u624b\u6570\u500d\u7387\u5897\u52a0\uff08MAX+600%\uff09", 
         "YM5b90qZ": "106300500:600", 
         "uHG25vSN": "2"
     }, 
     {
-        "6uvHX2JG": "ドロップアイテム数増加", 
+        "6uvHX2JG": "\u30c9\u30ed\u30c3\u30d7\u30a2\u30a4\u30c6\u30e0\u6570\u5897\u52a0", 
         "7WYvz1Ep": "8004", 
         "89EvGKHx": "1", 
-        "G4L0YIB2": "赤の宝玉入手数倍率増加（MAX+600%）", 
+        "G4L0YIB2": "\u8d64\u306e\u5b9d\u7389\u5165\u624b\u6570\u500d\u7387\u5897\u52a0\uff08MAX+600%\uff09", 
         "YM5b90qZ": "106300600:600", 
         "uHG25vSN": "2"
     }, 
     {
-        "6uvHX2JG": "ドロップアイテム数増加", 
+        "6uvHX2JG": "\u30c9\u30ed\u30c3\u30d7\u30a2\u30a4\u30c6\u30e0\u6570\u5897\u52a0", 
         "7WYvz1Ep": "8005", 
         "89EvGKHx": "1", 
-        "G4L0YIB2": "ゴールド入手数倍率増加（MAX+600%）", 
+        "G4L0YIB2": "\u30b4\u30fc\u30eb\u30c9\u5165\u624b\u6570\u500d\u7387\u5897\u52a0\uff08MAX+600%\uff09", 
         "YM5b90qZ": "106300700:600", 
         "uHG25vSN": "2"
     }, 
     {
-        "6uvHX2JG": "ドロップアイテム数増加", 
+        "6uvHX2JG": "\u30c9\u30ed\u30c3\u30d7\u30a2\u30a4\u30c6\u30e0\u6570\u5897\u52a0", 
         "7WYvz1Ep": "8006", 
         "89EvGKHx": "1", 
-        "G4L0YIB2": "ブルーファントマ入手数倍率増加（MAX+600%）", 
+        "G4L0YIB2": "\u30d6\u30eb\u30fc\u30d5\u30a1\u30f3\u30c8\u30de\u5165\u624b\u6570\u500d\u7387\u5897\u52a0\uff08MAX+600%\uff09", 
         "YM5b90qZ": "106300800:600", 
         "uHG25vSN": "2"
     }, 
     {
-        "6uvHX2JG": "ドロップアイテム数増加", 
+        "6uvHX2JG": "\u30c9\u30ed\u30c3\u30d7\u30a2\u30a4\u30c6\u30e0\u6570\u5897\u52a0", 
         "7WYvz1Ep": "8007", 
         "89EvGKHx": "1", 
-        "G4L0YIB2": "カルマ入手数倍率増加（MAX+600%）", 
+        "G4L0YIB2": "\u30ab\u30eb\u30de\u5165\u624b\u6570\u500d\u7387\u5897\u52a0\uff08MAX+600%\uff09", 
         "YM5b90qZ": "106300900:600", 
         "uHG25vSN": "2"
     }, 
     {
-        "6uvHX2JG": "ドロップアイテム数増加", 
+        "6uvHX2JG": "\u30c9\u30ed\u30c3\u30d7\u30a2\u30a4\u30c6\u30e0\u6570\u5897\u52a0", 
         "7WYvz1Ep": "8008", 
         "89EvGKHx": "1", 
-        "G4L0YIB2": "魚入手数倍率増加（MAX+600%）", 
+        "G4L0YIB2": "\u9b5a\u5165\u624b\u6570\u500d\u7387\u5897\u52a0\uff08MAX+600%\uff09", 
         "YM5b90qZ": "106301100:600", 
         "uHG25vSN": "2"
     }, 
     {
-        "6uvHX2JG": "ドロップアイテム数増加", 
+        "6uvHX2JG": "\u30c9\u30ed\u30c3\u30d7\u30a2\u30a4\u30c6\u30e0\u6570\u5897\u52a0", 
         "7WYvz1Ep": "8009", 
         "89EvGKHx": "1", 
-        "G4L0YIB2": "魔片入手数倍率増加（MAX+600%）", 
+        "G4L0YIB2": "\u9b54\u7247\u5165\u624b\u6570\u500d\u7387\u5897\u52a0\uff08MAX+600%\uff09", 
         "YM5b90qZ": "106301200:600", 
         "uHG25vSN": "2"
     }, 
     {
-        "6uvHX2JG": "ドロップアイテム数増加", 
+        "6uvHX2JG": "\u30c9\u30ed\u30c3\u30d7\u30a2\u30a4\u30c6\u30e0\u6570\u5897\u52a0", 
         "7WYvz1Ep": "8010", 
         "89EvGKHx": "1", 
-        "G4L0YIB2": "白の宝玉入手数倍率増加（MAX+600%）", 
+        "G4L0YIB2": "\u767d\u306e\u5b9d\u7389\u5165\u624b\u6570\u500d\u7387\u5897\u52a0\uff08MAX+600%\uff09", 
         "YM5b90qZ": "106301400:600", 
         "uHG25vSN": "2"
     }, 
     {
-        "6uvHX2JG": "ドロップアイテム数増加", 
+        "6uvHX2JG": "\u30c9\u30ed\u30c3\u30d7\u30a2\u30a4\u30c6\u30e0\u6570\u5897\u52a0", 
         "7WYvz1Ep": "8011", 
         "89EvGKHx": "1", 
-        "G4L0YIB2": "風の牙入手数倍率増加（MAX+600%）", 
+        "G4L0YIB2": "\u98a8\u306e\u7259\u5165\u624b\u6570\u500d\u7387\u5897\u52a0\uff08MAX+600%\uff09", 
         "YM5b90qZ": "106301600:600", 
         "uHG25vSN": "2"
     }, 
     {
-        "6uvHX2JG": "ドロップアイテム数増加", 
+        "6uvHX2JG": "\u30c9\u30ed\u30c3\u30d7\u30a2\u30a4\u30c6\u30e0\u6570\u5897\u52a0", 
         "7WYvz1Ep": "8012", 
         "89EvGKHx": "1", 
-        "G4L0YIB2": "髪飾り入手数倍率増加（MAX+600%）", 
-        "YM5b90qZ": "106301800:600", 
+        "G4L0YIB2": "\u9aea\u98fe\u308a\u5165\u624b\u6570\u500d\u7387\u5897\u52a0\uff08MAX+600%\uff09", 
+        "YM5b90qZ": "1209000833:600", 
         "uHG25vSN": "2"
     }, 
     {
-        "6uvHX2JG": "ドロップアイテム数増加", 
+        "6uvHX2JG": "\u30c9\u30ed\u30c3\u30d7\u30a2\u30a4\u30c6\u30e0\u6570\u5897\u52a0", 
         "7WYvz1Ep": "8013", 
         "89EvGKHx": "1", 
-        "G4L0YIB2": "1／35神羅兵入手数倍率増加（MAX+600%）", 
+        "G4L0YIB2": "1\uff0f35\u795e\u7f85\u5175\u5165\u624b\u6570\u500d\u7387\u5897\u52a0\uff08MAX+600%\uff09", 
         "YM5b90qZ": "106302700:600", 
         "uHG25vSN": "2"
     }, 
     {
-        "6uvHX2JG": "ドロップアイテム数増加", 
+        "6uvHX2JG": "\u30c9\u30ed\u30c3\u30d7\u30a2\u30a4\u30c6\u30e0\u6570\u5897\u52a0", 
         "7WYvz1Ep": "8014", 
         "89EvGKHx": "1", 
-        "G4L0YIB2": "ふるい小銭入手数倍率増加（MAX+600%）", 
+        "G4L0YIB2": "\u3075\u308b\u3044\u5c0f\u92ad\u5165\u624b\u6570\u500d\u7387\u5897\u52a0\uff08MAX+600%\uff09", 
         "YM5b90qZ": "106302900:600", 
         "uHG25vSN": "2"
     }, 
     {
-        "6uvHX2JG": "ドロップアイテム数増加", 
+        "6uvHX2JG": "\u30c9\u30ed\u30c3\u30d7\u30a2\u30a4\u30c6\u30e0\u6570\u5897\u52a0", 
         "7WYvz1Ep": "8015", 
         "89EvGKHx": "1", 
-        "G4L0YIB2": "おしばいのチケット入手数倍率増加（MAX+600%）", 
+        "G4L0YIB2": "\u304a\u3057\u3070\u3044\u306e\u30c1\u30b1\u30c3\u30c8\u5165\u624b\u6570\u500d\u7387\u5897\u52a0\uff08MAX+600%\uff09", 
         "YM5b90qZ": "106303100:600", 
         "uHG25vSN": "2"
     }, 
     {
-        "6uvHX2JG": "ドロップアイテム数増加", 
+        "6uvHX2JG": "\u30c9\u30ed\u30c3\u30d7\u30a2\u30a4\u30c6\u30e0\u6570\u5897\u52a0", 
         "7WYvz1Ep": "8016", 
         "89EvGKHx": "1", 
-        "G4L0YIB2": "アルベド語辞書の入手数倍率増加（MAX+600%）", 
+        "G4L0YIB2": "\u30a2\u30eb\u30d9\u30c9\u8a9e\u8f9e\u66f8\u306e\u5165\u624b\u6570\u500d\u7387\u5897\u52a0\uff08MAX+600%\uff09", 
         "YM5b90qZ": "106303300:600", 
         "uHG25vSN": "2"
     }, 
     {
-        "6uvHX2JG": "イベントポイント数倍率アップ", 
+        "6uvHX2JG": "\u30a4\u30d9\u30f3\u30c8\u30dd\u30a4\u30f3\u30c8\u6570\u500d\u7387\u30a2\u30c3\u30d7", 
         "7WYvz1Ep": "9000", 
         "89EvGKHx": "1", 
-        "G4L0YIB2": "イベントポイント数倍率アップ（MAX+150%）", 
+        "G4L0YIB2": "\u30a4\u30d9\u30f3\u30c8\u30dd\u30a4\u30f3\u30c8\u6570\u500d\u7387\u30a2\u30c3\u30d7\uff08MAX+150%\uff09", 
         "YM5b90qZ": "150", 
         "uHG25vSN": "3"
     }, 
     {
-        "6uvHX2JG": "レイドイベント用ガチャアイテム", 
+        "6uvHX2JG": "\u30ec\u30a4\u30c9\u30a4\u30d9\u30f3\u30c8\u7528\u30ac\u30c1\u30e3\u30a2\u30a4\u30c6\u30e0", 
         "7WYvz1Ep": "9001", 
         "89EvGKHx": "1", 
-        "G4L0YIB2": "イフリートレイドコインドロップ率", 
+        "G4L0YIB2": "\u30a4\u30d5\u30ea\u30fc\u30c8\u30ec\u30a4\u30c9\u30b3\u30a4\u30f3\u30c9\u30ed\u30c3\u30d7\u7387", 
         "YM5b90qZ": "20:106301000:10", 
         "uHG25vSN": "7"
     }, 
     {
-        "6uvHX2JG": "レイドイベント用ガチャアイテム", 
+        "6uvHX2JG": "\u30ec\u30a4\u30c9\u30a4\u30d9\u30f3\u30c8\u7528\u30ac\u30c1\u30e3\u30a2\u30a4\u30c6\u30e0", 
         "7WYvz1Ep": "9002", 
         "89EvGKHx": "1", 
-        "G4L0YIB2": "闇の王レイドコインドロップ率", 
+        "G4L0YIB2": "\u95c7\u306e\u738b\u30ec\u30a4\u30c9\u30b3\u30a4\u30f3\u30c9\u30ed\u30c3\u30d7\u7387", 
         "YM5b90qZ": "20:106301300:10", 
         "uHG25vSN": "7"
     }, 
     {
-        "6uvHX2JG": "レイドイベント用ガチャアイテム", 
+        "6uvHX2JG": "\u30ec\u30a4\u30c9\u30a4\u30d9\u30f3\u30c8\u7528\u30ac\u30c1\u30e3\u30a2\u30a4\u30c6\u30e0", 
         "7WYvz1Ep": "9003", 
         "89EvGKHx": "1", 
-        "G4L0YIB2": "モーグリ王レイドコインドロップ率", 
+        "G4L0YIB2": "\u30e2\u30fc\u30b0\u30ea\u738b\u30ec\u30a4\u30c9\u30b3\u30a4\u30f3\u30c9\u30ed\u30c3\u30d7\u7387", 
         "YM5b90qZ": "20:106301500:10", 
         "uHG25vSN": "7"
     }, 
     {
-        "6uvHX2JG": "レイドイベント用ガチャアイテム", 
+        "6uvHX2JG": "\u30ec\u30a4\u30c9\u30a4\u30d9\u30f3\u30c8\u7528\u30ac\u30c1\u30e3\u30a2\u30a4\u30c6\u30e0", 
         "7WYvz1Ep": "9004", 
         "89EvGKHx": "1", 
-        "G4L0YIB2": "ネフ・ガルムドレイドコインドロップ率", 
+        "G4L0YIB2": "\u30cd\u30d5\u30fb\u30ac\u30eb\u30e0\u30c9\u30ec\u30a4\u30c9\u30b3\u30a4\u30f3\u30c9\u30ed\u30c3\u30d7\u7387", 
         "YM5b90qZ": "20:106301700:10", 
         "uHG25vSN": "7"
     }, 
     {
-        "6uvHX2JG": "レイドイベント用ガチャアイテム", 
+        "6uvHX2JG": "\u30ec\u30a4\u30c9\u30a4\u30d9\u30f3\u30c8\u7528\u30ac\u30c1\u30e3\u30a2\u30a4\u30c6\u30e0", 
         "7WYvz1Ep": "9005", 
         "89EvGKHx": "1", 
-        "G4L0YIB2": "四魔貴族レイドコインドロップ率", 
+        "G4L0YIB2": "\u56db\u9b54\u8cb4\u65cf\u30ec\u30a4\u30c9\u30b3\u30a4\u30f3\u30c9\u30ed\u30c3\u30d7\u7387", 
         "YM5b90qZ": "20:106302500:10", 
         "uHG25vSN": "7"
     }, 
     {
-        "6uvHX2JG": "レイドイベント用ガチャアイテム", 
+        "6uvHX2JG": "\u30ec\u30a4\u30c9\u30a4\u30d9\u30f3\u30c8\u7528\u30ac\u30c1\u30e3\u30a2\u30a4\u30c6\u30e0", 
         "7WYvz1Ep": "9006", 
         "89EvGKHx": "1", 
-        "G4L0YIB2": "コンテストレイドコインドロップ率", 
+        "G4L0YIB2": "\u30b3\u30f3\u30c6\u30b9\u30c8\u30ec\u30a4\u30c9\u30b3\u30a4\u30f3\u30c9\u30ed\u30c3\u30d7\u7387", 
         "YM5b90qZ": "20:106302800:10", 
         "uHG25vSN": "7"
     }, 
     {
-        "6uvHX2JG": "レイドイベント用ガチャアイテム", 
+        "6uvHX2JG": "\u30ec\u30a4\u30c9\u30a4\u30d9\u30f3\u30c8\u7528\u30ac\u30c1\u30e3\u30a2\u30a4\u30c6\u30e0", 
         "7WYvz1Ep": "9007", 
         "89EvGKHx": "1", 
-        "G4L0YIB2": "岩神タイタンレイドコインドロップ率", 
+        "G4L0YIB2": "\u5ca9\u795e\u30bf\u30a4\u30bf\u30f3\u30ec\u30a4\u30c9\u30b3\u30a4\u30f3\u30c9\u30ed\u30c3\u30d7\u7387", 
         "YM5b90qZ": "20:106303000:10", 
         "uHG25vSN": "7"
     }, 
     {
-        "6uvHX2JG": "レイドイベント用ガチャアイテム", 
+        "6uvHX2JG": "\u30ec\u30a4\u30c9\u30a4\u30d9\u30f3\u30c8\u7528\u30ac\u30c1\u30e3\u30a2\u30a4\u30c6\u30e0", 
         "7WYvz1Ep": "9008", 
         "89EvGKHx": "1", 
-        "G4L0YIB2": "エンゲルスレイドコインドロップ率", 
+        "G4L0YIB2": "\u30a8\u30f3\u30b2\u30eb\u30b9\u30ec\u30a4\u30c9\u30b3\u30a4\u30f3\u30c9\u30ed\u30c3\u30d7\u7387", 
         "YM5b90qZ": "20:106303200:10", 
         "uHG25vSN": "7"
     }, 
     {
-        "6uvHX2JG": "レイドイベント用ガチャアイテム", 
+        "6uvHX2JG": "\u30ec\u30a4\u30c9\u30a4\u30d9\u30f3\u30c8\u7528\u30ac\u30c1\u30e3\u30a2\u30a4\u30c6\u30e0", 
         "7WYvz1Ep": "9009", 
         "89EvGKHx": "1", 
-        "G4L0YIB2": "嵐神ガルーダレイドコインドロップ率", 
+        "G4L0YIB2": "\u5d50\u795e\u30ac\u30eb\u30fc\u30c0\u30ec\u30a4\u30c9\u30b3\u30a4\u30f3\u30c9\u30ed\u30c3\u30d7\u7387", 
         "YM5b90qZ": "20:106303400:10", 
         "uHG25vSN": "7"
     }, 
     {
-        "6uvHX2JG": "レイドイベント用ガチャアイテム", 
+        "6uvHX2JG": "\u30ec\u30a4\u30c9\u30a4\u30d9\u30f3\u30c8\u7528\u30ac\u30c1\u30e3\u30a2\u30a4\u30c6\u30e0", 
         "7WYvz1Ep": "9010", 
         "89EvGKHx": "1", 
-        "G4L0YIB2": "マニプルスレイドコインドロップ率", 
+        "G4L0YIB2": "\u30de\u30cb\u30d7\u30eb\u30b9\u30ec\u30a4\u30c9\u30b3\u30a4\u30f3\u30c9\u30ed\u30c3\u30d7\u7387", 
         "YM5b90qZ": "20:106303500:10", 
         "uHG25vSN": "7"
     }, 
     {
-        "6uvHX2JG": "ギル獲得量", 
+        "6uvHX2JG": "\u30ae\u30eb\u7372\u5f97\u91cf", 
         "7WYvz1Ep": "10000", 
         "89EvGKHx": "1", 
-        "G4L0YIB2": "ギル獲得量倍率増加（MAX+100%）", 
+        "G4L0YIB2": "\u30ae\u30eb\u7372\u5f97\u91cf\u500d\u7387\u5897\u52a0\uff08MAX+100%\uff09", 
         "YM5b90qZ": "99999", 
         "uHG25vSN": "5"
     }, 
     {
-        "6uvHX2JG": "ユニット経験値獲得量", 
+        "6uvHX2JG": "\u30e6\u30cb\u30c3\u30c8\u7d4c\u9a13\u5024\u7372\u5f97\u91cf", 
         "7WYvz1Ep": "11000", 
         "89EvGKHx": "1", 
-        "G4L0YIB2": "ユニット経験値獲得量倍率増加（MAX+100%）", 
+        "G4L0YIB2": "\u30e6\u30cb\u30c3\u30c8\u7d4c\u9a13\u5024\u7372\u5f97\u91cf\u500d\u7387\u5897\u52a0\uff08MAX+100%\uff09", 
         "YM5b90qZ": "99999", 
         "uHG25vSN": "6"
     }, 
