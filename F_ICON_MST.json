@@ -400,6 +400,21 @@
         "qtkvrS60": "global_ability_10008.png"
     }, 
     {
+        "0HUPxDf1": "910520", 
+        "G4L0YIB2": "Grim Soul Barrage", 
+        "qtkvrS60": "global_ability_10012.png"
+    }, 
+    {
+        "0HUPxDf1": "910524", 
+        "G4L0YIB2": "Rise Again", 
+        "qtkvrS60": "global_ability_10013.png"
+    }, 
+    {
+        "0HUPxDf1": "910526", 
+        "G4L0YIB2": "Grim Eldritch Flames", 
+        "qtkvrS60": "global_ability_10014.png"
+    }, 
+    {
         "0HUPxDf1": "1000001", 
         "G4L0YIB2": "バトルマスアイコン", 
         "qtkvrS60": "runningevent_icon_battle.png"
@@ -2108,6 +2123,21 @@
         "0HUPxDf1": "9000023", 
         "G4L0YIB2": "Festival of the Autumn Moon", 
         "qtkvrS60": "global_spd_bn_list_00020.png"
+    }, 
+    {
+        "0HUPxDf1": "9000024", 
+        "G4L0YIB2": "Halloween Castle Dungeon", 
+        "qtkvrS60": "global_spd_bn_list_00021.png"
+    }, 
+    {
+        "0HUPxDf1": "9000025", 
+        "G4L0YIB2": "Halloween Castle Castle Keep", 
+        "qtkvrS60": "global_spd_bn_list_00022.png"
+    }, 
+    {
+        "0HUPxDf1": "9000026", 
+        "G4L0YIB2": "Halloween Castle Inner Chamber", 
+        "qtkvrS60": "global_spd_bn_list_00023.png"
     }, 
     {
         "0HUPxDf1": "10100100", 
@@ -9230,9 +9260,54 @@
         "qtkvrS60": "global_equip_10041.png"
     }, 
     {
+        "0HUPxDf1": "1100000102", 
+        "G4L0YIB2": "Killer Mouth Piece", 
+        "qtkvrS60": "global_equip_10043.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000103", 
+        "G4L0YIB2": "Cloak of the Ghoul", 
+        "qtkvrS60": "global_equip_10044.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000104", 
+        "G4L0YIB2": "Undead Crossbow", 
+        "qtkvrS60": "global_equip_10045.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000105", 
+        "G4L0YIB2": "Collar of the Blessed", 
+        "qtkvrS60": "global_equip_10046.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000106", 
+        "G4L0YIB2": "Jakes Pirate Ring", 
+        "qtkvrS60": "global_equip_10047.png"
+    }, 
+    {
         "0HUPxDf1": "1100000107", 
         "G4L0YIB2": "Sparkly Pom Pom", 
         "qtkvrS60": "global_equip_10050.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000108", 
+        "G4L0YIB2": "Magical Top Hat", 
+        "qtkvrS60": "global_equip_10048.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000109", 
+        "G4L0YIB2": "Reaver", 
+        "qtkvrS60": "global_equip_10049.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000110", 
+        "G4L0YIB2": " Fina Orange hat", 
+        "qtkvrS60": "global_equip_10051.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000111", 
+        "G4L0YIB2": "Necro Dagger", 
+        "qtkvrS60": "global_equip_10042.png"
     }, 
     {
         "0HUPxDf1": "1106300100", 
@@ -9453,6 +9528,11 @@
         "0HUPxDf1": "1209000835", 
         "G4L0YIB2": "Musical Gem", 
         "qtkvrS60": "global_item_10136.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000838", 
+        "G4L0YIB2": "Skeleton Key", 
+        "qtkvrS60": "global_item_10139.png"
     }, 
     {
         "0HUPxDf1": "1300000001", 

@@ -545,7 +545,7 @@ MST_MISSION_NAME_9000203^Castle of the Dead ADV^死者之城・上級^죽음의 
 MST_MISSION_NAME_9000301^Pumpkin Rider Strikes BGN^南瓜騎士來襲・初級^호박 기수 습격·초급^Attaque du Cavalier Santrouille - DBT^Der Kürbisreiter schlägt zu - ANF^Ataque del jinete calabaza - PRI
 MST_MISSION_NAME_9000302^Pumpkin Rider Strikes INT^南瓜騎士來襲・中級^호박 기수 습격·중급^Attaque du Cavalier Santrouille - INT^Der Kürbisreiter schlägt zu - FOR^Ataque del jinete calabaza - INT
 MST_MISSION_NAME_9000303^Pumpkin Rider Strikes ADV^南瓜騎士來襲・上級^호박 기수 습격·상급^Attaque du Cavalier Santrouille - PRO^Der Kürbisreiter schlägt zu - EXP^Ataque del jinete calabaza - AVA
-MST_MISSION_NAME_9000401^Pumpking Dread Knight Arrives PRO^南瓜劊子手登場・超級^호박 사령기사 등장·최상급^Avènement de Thanatrouille - SUP^Die Ankunft des schrecklichen Kürbisreiters - PRO^Asalto del segaalmas calabaza - PRO
+MST_MISSION_NAME_9000401^The Pumpking Reaper Arrives PRO^南瓜劊子手登場・超級^호박 사령기사 등장·최상급^Avènement de Thanatrouille - SUP^Die Ankunft des schrecklichen Kürbisreiters - PRO^Asalto del segaalmas calabaza - PRO
 MST_MISSION_NAME_9000402^A Frosty Offensive INT^速凍雪人來襲・中級^눈사람 습격·중급^Combat en terres gelées - INT^Frost schlägt zu - FOR^Ataque del homo glacialis aterrador INT
 MST_MISSION_NAME_9000403^A Frosty Offensive ADV^速凍雪人來襲・上級^눈사람 습격·상급^Combat en terres gelées - PRO^Frost schlägt zu - EXP^Ataque del homo glacialis aterrador AVA
 MST_MISSION_NAME_9000404^A Frosty Offensive PRO^速凍雪人來襲・超級^눈사람 습격·최상급^Combat en terres gelées - SUP^Frost schlägt zu - PRO^Ataque del homo glacialis aterrador PRO
@@ -1754,8 +1754,8 @@ MST_MISSION_NAME_7480102^The Frozen Cavern - INT^凍結的冰之洞窟·中級^�
 MST_MISSION_NAME_7480103^The Frozen Cavern - ADV^凍結的冰之洞窟·上級^얼어붙은 동굴·상급^La caverne gelée - PRO^Die Eishöhle - EXP^La caverna congelada - AVA
 MST_MISSION_NAME_7480104^The Frozen Cavern - PRO^凍結的冰之洞窟·超級^얼어붙은 동굴·최상급^La caverne gelée - SUP^Die Eishöhle - PRO^La caverna congelada - PRO
 MST_MISSION_NAME_7480105^The Frozen Cavern - ELT^凍結的冰之洞窟·覺醒級^얼어붙은 동굴·각성급^La caverne gelée - EX!^Die Eishöhle - ELI^La caverna congelada - ÉLI
-MST_MISSION_NAME_7490101^The Morphing Princess (HARD)^異形公主(HARD)^요마 공주 (HARD)^La princesse métamorphe (DIFFICILE)^Die Prinzessin der Verwandlung (SCHWER)^La transformación de la princesa (DIFÍCIL)
-MST_MISSION_NAME_7490102^The Morphing Princess (EASY)^異形公主(EASY)^요마 공주 (EASY)^La princesse métamorphe (FACILE)^Die Prinzessin der Verwandlung (LEICHT)^La transformación de la princesa (FÁCIL)
+MST_MISSION_NAME_7490101^The Web-Weaving Princesses (HARD)^化生公主(HARD)^화생의 프린세스 (HARD)^La princesse métamorphe (DIFFICILE)^Die Prinzessin der Verwandlung (SCHWER)^La transformación de la princesa (DIFÍCIL)
+MST_MISSION_NAME_7490102^The Morphing Princess (EASY)^化生公主(EASY)^화생의 프린세스 (EASY)^La princesse métamorphe (FACILE)^Die Prinzessin der Verwandlung (LEICHT)^La transformación de la princesa (FÁCIL)
 MST_MISSION_NAME_7530101^Alexandria Castle - BGN^亞歷山德里亞城·初級^알렉산드리아 성·초급^Château d'Alexandrie - DBT^Burgstadt Alexandria - ANF^Castillo de Alexandria - PRI
 MST_MISSION_NAME_7530102^Alexandria Castle - INT^亞歷山德里亞城·中級^알렉산드리아 성·중급^Château d'Alexandrie - INT^Burgstadt Alexandria - FOR^Castillo de Alexandria - INT
 MST_MISSION_NAME_7530103^Alexandria Castle - ADV^亞歷山德里亞城·上級^알렉산드리아 성·상급^Château d'Alexandrie - PRO^Burgstadt Alexandria - EXP^Castillo de Alexandria - AVA
@@ -2043,7 +2043,16 @@ MST_MISSION_NAME_9001702^A Musical Showdown - INT^音樂對決·中級^MUSICAL S
 MST_MISSION_NAME_9001703^A Musical Showdown - ADV^音樂對決·上級^MUSICAL SHOWDOWN·상급^Une véritable performance musicale - PRO^Ein musikalischer Wettkampf - EXP^Enfrentamiento musical - AVA
 MST_MISSION_NAME_9001704^A Musical Showdown - PRO^音樂對決·超級^MUSICAL SHOWDOWN·최상급^Une véritable performance musicale - SUP^Ein musikalischer Wettkampf - PRO^Enfrentamiento musical - PRO
 MST_MISSION_NAME_9001705^A Musical Showdown - ELT^音樂對決·覺醒級^MUSICAL SHOWDOWN·각성급^Une véritable performance musicale - EX!^Ein musikalischer Wettkampf - ELI^Enfrentamiento musical - ÉLI
-MST_MISSION_NAME_9002001^Festival of the Autumn Moon - INT^中秋節慶·初級^가을 보름달 축제·중급^Fête automnale de la Lune - INT^Fest des Herbstmondes - FOR^Festival de la luna otoñal - INT
+MST_MISSION_NAME_9002001^Festival of the Autumn Moon - INT^中秋節慶·中級^가을 보름달 축제·중급^Fête automnale de la Lune - INT^Fest des Herbstmondes - FOR^Festival de la luna otoñal - INT
 MST_MISSION_NAME_9002002^Festival of the Autumn Moon - ADV^中秋節慶·上級^가을 보름달 축제·상급^Fête automnale de la Lune - PRO^Fest des Herbstmondes - EXP^Festival de la luna otoñal - AVA
 MST_MISSION_NAME_9002003^Festival of the Autumn Moon - PRO^中秋節慶·超級^가을 보름달 축제·최상급^Fête automnale de la Lune - SUP^Fest des Herbstmondes - PRO^Festival de la luna otoñal - PRO
 MST_MISSION_NAME_9002004^Festival of the Autumn Moon - ELT^中秋節慶·覺醒級^가을 보름달 축제·각성급^Fête automnale de la Lune - EX!^Fest des Herbstmondes - ELI^Festival de la luna otoñal - ÉLI
+MST_MISSION_NAME_9190001^Castle Dungeon BGN^萬聖節城堡迷宮‧初級^할로윈 성 지하·초급^Donjon du château - DBT^Burgverließ - ANF^Mazmorra del castillo - PRI
+MST_MISSION_NAME_9190002^Castle Dungeon ADV^萬聖節城堡迷宮‧上級^할로윈 성 지하·상급^Donjon du château - PRO^Burgverließ - EXP^Mazmorra del castillo - AVA
+MST_MISSION_NAME_9190003^Castle Dungeon ELT^萬聖節城堡迷宮‧覺醒級^할로윈 성 지하·각성급^Donjon du château - EX!^Burgverließ - ELI^Mazmorra del castillo - ÉLI
+MST_MISSION_NAME_9200001^Castle Keep - BGN^萬聖節城堡城樓‧初級^할로윈 성 중심부·초급^Profondeurs du château - DBT^Burgfried - ANF^Torre del homenaje - PRI
+MST_MISSION_NAME_9200002^Castle Keep - ADV^萬聖節城堡城樓‧上級^할로윈 성 중심부·상급^Profondeurs du château - PRO^Burgfried - EXP^Torre del homenaje - AVA
+MST_MISSION_NAME_9200003^Castle Keep - ELT^萬聖節城堡城樓‧覺醒級^할로윈 성 중심부·각성급^Profondeurs du château - EX!^Burgfried - ELI^Torre del homenaje - ÉLI
+MST_MISSION_NAME_9210001^Castle Inner Chamber INT^萬聖節城堡內部‧中級^할로윈 성 내부의 방·중급^Chambre inté. du château - INT^Innere Burgkammer - FOR^Cámaras interiores del castillo - INT
+MST_MISSION_NAME_9210002^Castle Inner Chamber ELT^萬聖節城堡內部‧覺醒級^할로윈 성 내부의 방·각성급^Chambre inté. du château - EX!^Innere Burgkammer - ELI^Cámaras interiores del castillo - ÉLI
+MST_MISSION_NAME_9210003^Castle Inner Chamber NIGHTMARE^萬聖節城堡內部‧惡夢級^할로윈 성 내부의 방·악몽급^Chambre inté. du château - CAUCHEMAR^Innere Burgkammer - ALBTRAUM^Cámaras interiores del castillo - PES

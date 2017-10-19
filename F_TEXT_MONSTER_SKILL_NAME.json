@@ -1944,7 +1944,7 @@ MST_MONSTER_SKILL_NAME_166730^Dissonance^不和諧音^불협화음^Dissonance^Di
 MST_MONSTER_SKILL_NAME_166740^Dissonance^不和諧音^불협화음^Dissonance^Dissonanz^Desafinación
 MST_MONSTER_SKILL_NAME_166750^Dissonance^不和諧音^불협화음^Dissonance^Dissonanz^Desafinación
 MST_MONSTER_SKILL_NAME_166760^Dissonance^不和諧音^불협화음^Dissonance^Dissonanz^Desafinación
-MST_MONSTER_SKILL_NAME_166810^Bodyblow^衝撞^NA^NA^Body Slam^Quebrantacuerpos
+MST_MONSTER_SKILL_NAME_166810^Bodyblow^衝撞^혼신의 일격^Charge violente^Body Slam^Quebrantacuerpos
 MST_MONSTER_SKILL_NAME_166820^Drill Drive^鑽頭震動^드릴 드라이브^Frappe foreuse^Bohrattacke^Taladrador
 MST_MONSTER_SKILL_NAME_166830^Rocket Launcher^火箭發射器^로켓탄 발사기^Lanceur de roquettes^Raketenwerfer^Lanzadora
 MST_MONSTER_SKILL_NAME_166840^Machine Gun^機關槍^머신건^Mitrailleuse^Maschinengewehr^Metralleta
@@ -2197,7 +2197,7 @@ MST_MONSTER_SKILL_NAME_168780^Draining Touch^吸血之觸^드레인 터치^Touch
 MST_MONSTER_SKILL_NAME_168790^Mind Blast^精神衝擊^정신 파괴^Choc mental^Psychoschlag^Descarga mental
 MST_MONSTER_SKILL_NAME_168800^Breath of Darkness^暗之吐息^어둠의 숨결^Souffle des ténèbres^Atem der Dunkelheit^Soplo oscuro
 MST_MONSTER_SKILL_NAME_168810^Draining Touch^吸血之觸^드레인 터치^Toucher drainant^Entziehender Hauch^Golpe drenador
-MST_MONSTER_SKILL_NAME_168820^Berserk Mode^狂暴^광폭화^Berserk^Berserker-Modus^Modo enloquecido
+MST_MONSTER_SKILL_NAME_168820^Berserk Mode^狂暴^광폭화^Berserk^Berserker-Modus^Furia
 MST_MONSTER_SKILL_NAME_168830^Beard Attack^鬍鬚攻擊^수염 공격^Barbattaque^Widerhakenangriff^Barbataque
 MST_MONSTER_SKILL_NAME_168840^The beard is glowing^鬍鬚正在發光^수염이 빛나고 있다^La barbe brille^Glühender Widerhaken^Brilla la barba
 MST_MONSTER_SKILL_NAME_168850^Steady Beard Attack^沉著鬍鬚攻擊^앉아서 수염 공격^Barbattaque solide^Stetiger Widerhakenangriff^Barbataque fijo
@@ -2571,4 +2571,16 @@ MST_MONSTER_SKILL_NAME_900099^Blow Away^吹飛^날려버리기^Désintégration^
 MST_MONSTER_SKILL_NAME_900100^Mermaid's Song^美人魚之歌^인어의 노래^Chanson de sirène ^Lied der Meerjungfrau^Canción de sirena
 MST_MONSTER_SKILL_NAME_900101^Mermaid's Curse^美人魚詛咒^인어의 저주^Malédiction de sirène ^Fluch der Meerjungfrau^Maldición de sirena
 MST_MONSTER_SKILL_NAME_900102^Waterga^大流水^워터가^Eau X^Aquaga^Aqua++
-MST_MONSTER_SKILL_NAME_900103^Water Dragon Bullet^水龍彈^수룡탄^Balle de d'Aquadragon^Wasserdrachenkugel^Bala de dragón acuático
+MST_MONSTER_SKILL_NAME_900103^Water Dragon Bullet^水龍彈^수룡탄^Balle d'Aquadragon^Wasserdrachenkugel^Bala de dragón acuático
+MST_MONSTER_SKILL_NAME_900104^Wailing Swipe^哀號重擊^초강타^Frappe gémissante^Klageschlag^Barrido aullador
+MST_MONSTER_SKILL_NAME_900105^Dream Stealer^盜夢者^꿈도둑^Volrêve^Traumdieb^Ladrón de sueños
+MST_MONSTER_SKILL_NAME_900106^Accursed Flames^詛咒之炎^저주의 화염^Flammes maudites^Verfluchte Flammen^Llamas malditas
+MST_MONSTER_SKILL_NAME_900107^Hailfire^火雨^누리불^Grêlon ardent^Hagelfeuer^Granizo igneo
+MST_MONSTER_SKILL_NAME_900108^Horror^恐懼^호러^Terreur^Horror^Horror
+MST_MONSTER_SKILL_NAME_900109^Soul Siphon^吸魂^영혼 흡수^Siphon spectral^Seelensiphon^Succión de alma
+MST_MONSTER_SKILL_NAME_900110^Eternal Torment^無盡苦痛^끊임없는 고통^Tourment éternel^Ewige Pein^Tormento eterno
+MST_MONSTER_SKILL_NAME_900111^Shadow Storm^暗影風暴^그림자 폭풍^Tempête obscure^Schattensturm^Tormenta sombría
+MST_MONSTER_SKILL_NAME_900112^Death Declaration^餘命宣告^죽음의 명령^Peine de mort^Todeserklärung^Pena de muerte
+MST_MONSTER_SKILL_NAME_900113^Dream Stealer^盜夢者^꿈도둑^Volrêve^Traumdieb^Ladrón de sueños
+MST_MONSTER_SKILL_NAME_900114^Accursed Flames^詛咒之炎^저주의 화염^Flammes maudites^Verfluchte Flammen^Llamas malditas
+MST_MONSTER_SKILL_NAME_900115^Hailfire^火雨^누리불^Grêlon ardent^Hagelfeuer^Granizo igneo

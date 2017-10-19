@@ -3062,7 +3062,7 @@ MST_CHALLENGE_NAME_16204032^Use 3 or more limit bursts^使用至少3次極限技
 MST_CHALLENGE_NAME_16204033^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_16204040^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_16204041^Use black magic^使用「黑魔法」^'흑'마법을 사용해 완료^Utilisez la magie noire^Benutze Schwarzmagie^Usa magia negra
-MST_CHALLENGE_NAME_16204042^Use dark magic 3 times or more^對敵人造成至少3次暗屬性傷害^어둠속성으로 3회 이상 적에게 피해를 줌^Utilisez la magie de ténèbres 3 fois ou plus^Benutze mindestens 3 Dunkelmagie-Gegenstände^Inflige daño oscuro 3 veces o más
+MST_CHALLENGE_NAME_16204042^Use dark magic 3 times or more^對敵人造成至少3次暗屬性傷害^어둠속성으로 3회 이상 적에게 피해를 줌^Utilisez la magie de ténèbres 3 fois ou plus^Benutze mindestens 3 Mal Dunkelmagie^Inflige daño oscuro 3 veces o más
 MST_CHALLENGE_NAME_16204043^Defeat Fina using a limit burst^使用極限技終結「菲娜」^'피나'를 LB로 처치^Terrassez Fina avec une limite^Besiege Fina mit einem Limitrausch^Derrota a Fina con EL
 MST_CHALLENGE_NAME_16205010^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_16205011^No magic^不使用魔法^모든 마법을 사용하지 않고 완료^Ne pas utiliser la magie^Keine Magie^No uses magia
@@ -3166,7 +3166,7 @@ MST_CHALLENGE_NAME_16251032^No limit bursts^不使用極限技^LB를 사용하�
 MST_CHALLENGE_NAME_16251033^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_16251040^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_16251041^Use black magic^使用「黑魔法」^'흑'마법을 사용해 완료^Utilisez la magie noire^Benutze Schwarzmagie^Usa magia negra
-MST_CHALLENGE_NAME_16251042^Use dark magic 3 times or more^對敵人造成至少3次暗屬性傷害^어둠속성으로 3회^Utilisez la magie de ténèbres 3 fois ou plus^Benutze mindestens 3 Dunkelmagie-Gegenstände^Inflige daño oscuro 3 veces o más
+MST_CHALLENGE_NAME_16251042^Use dark magic 3 times or more^對敵人造成至少3次暗屬性傷害^어둠속성으로 3회^Utilisez la magie de ténèbres 3 fois ou plus^Benutze mindestens 3 Mal Dunkelmagie^Inflige daño oscuro 3 veces o más
 MST_CHALLENGE_NAME_16251043^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_16251050^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_16251051^Defeat Lakshmi with magic^使用魔法終結「吉祥天女」^'락슈미'를 마법으로 처치^Terrassez Lakshmi avec la magie^Besiege Lakshmi mit Magie^Derrota a Lakshmi con magia
@@ -5469,7 +5469,7 @@ MST_CHALLENGE_NAME_112112042^Defeat the aldore jailer within 3 turns^在3回合�
 MST_CHALLENGE_NAME_112112043^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_112112050^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_112112051^No black magic^不使用「黑魔法」^'흑'마법을 사용하지 않고 완료^Ne pas utiliser la magie noire^Keine Schwarzmagie^No uses magia negra
-MST_CHALLENGE_NAME_112112052^Defeat Gudon of the Xi Star with a limit burst^使用極限技終結「十四鬥星古動」^십사성투사 구든をLB로 처치^Terrassez Gudon de l'étoile Xi avec une limite^Besiege 14 Sterne-Gudo mit einem Limitrausch^Derrota a Gudon de la estrella Xi un EL
+MST_CHALLENGE_NAME_112112052^Defeat Gudon of the Xi Star with a limit burst^使用極限技終結「十四鬥星古動」^'십사성투사 구든'을 LB로 처치^Terrassez Gudon de l'étoile Xi avec une limite^Besiege 14 Sterne-Gudo mit einem Limitrausch^Derrota a Gudon de la estrella Xi un EL
 MST_CHALLENGE_NAME_112112053^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_112113010^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_112113011^No items^不使用道具^아이템을 사용하지 않고 완료^Ne pas utiliser d'objets^Keine Gegenstände^No uses objetos
@@ -5501,7 +5501,7 @@ MST_CHALLENGE_NAME_112114032^No recovery magic^不使用「恢復魔法」^'회�
 MST_CHALLENGE_NAME_112114033^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_112114040^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_112114041^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab, ohne dass ein Verbündeter kampfunfähig wird^Ningún aliado ha quedado K.O.
-MST_CHALLENGE_NAME_112114042^Defeat Mid of the Theta Star with magic^使用魔法終結「八鬥星米德」^'팔성투사 미도'를 마법으로 처치^Terrassez Mid de l'étoile Thêta avec la magie^Besiege 8 Sterne-Mido mit Magie^Derrota a Mid de la estrella Zheta con magia
+MST_CHALLENGE_NAME_112114042^Defeat Mid of the Theta Star with magic^使用魔法終結「八鬥星米德」^'팔성투사 미드'를 마법으로 처치^Terrassez Mid de l'étoile Thêta avec la magie^Besiege 8 Sterne-Mido mit Magie^Derrota a Mid de la estrella Zheta con magia
 MST_CHALLENGE_NAME_112114043^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_112115010^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_112115011^No items^不使用道具^아이템을 사용하지 않고 완료^Ne pas utiliser d'objets^Keine Gegenstände^No uses objetos
@@ -5557,7 +5557,7 @@ MST_CHALLENGE_NAME_112117042^Use 2 or more limit bursts^使用至少2次極限�
 MST_CHALLENGE_NAME_112117043^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_112117050^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_112117051^Use 3 or more items^使用道具次數在3次以內^아이템 사용 횟수 3회 이내^N'utilisez pas plus de 3 objets^Benutze mindestens 3 Gegenstände^Usa 3 objetos o más
-MST_CHALLENGE_NAME_112117052^Defeat Mid of the Theta Star with a limit burst^使用極限技終結「八鬥星米德」^'팔성투사 미도'를 LB로 처치^Terrassez Mid de l'étoile Thêta avec une limite^Besiege einen 8 Sterne-Mido mit einem Limitrausch^Derrota a Mid de la estrella Zheta con un EL
+MST_CHALLENGE_NAME_112117052^Defeat Mid of the Theta Star with a limit burst^使用極限技終結「八鬥星米德」^'팔성투사 미드'를 LB로 처치^Terrassez Mid de l'étoile Thêta avec une limite^Besiege einen 8 Sterne-Mido mit einem Limitrausch^Derrota a Mid de la estrella Zheta con un EL
 MST_CHALLENGE_NAME_112117053^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab, ohne dass ein Verbündeter kampfunfähig wird^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_112117060^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_112117061^Evoke 3 or more espers^召喚至少3次幻獸^환수를 3회 이상 소환해 완료^Appelez 3 chimères ou plus^Rufe 3 oder mehr Esper^Evoca a espers 3 veces o más
@@ -5876,18 +5876,54 @@ MST_CHALLENGE_NAME_90019011^Defeat Golbez with an esper^使用幻獸終結「高
 MST_CHALLENGE_NAME_90019012^Use a limit burst^使用極限技^LB를 사용해 완료^Utilisez une limite^Benutze einen Limitrausch^Usa un Estallido Límite
 MST_CHALLENGE_NAME_90019013^Part of 5 or less (Companion included)^隊伍人數最多5人（包括同行者）^파티 인원수 5명 이하(동행자 포함)^Groupe de 5 ou moins (partenaire inclus)^Gruppe von höchstens 5 (einschl. Begleiter)^Grupo de 5 o menos (compañero incluido)
 MST_CHALLENGE_NAME_90020010^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
-MST_CHALLENGE_NAME_90020011^Complete the quest in 2 mins^2分鐘內完成任務^2분 내에 퀘스트를 완료^Terminez la quête en 2 minutes^Schließe den Auftrag in 2 Minuten ab^Completa la misión en 2 minutos
-MST_CHALLENGE_NAME_90020012^Find Mermaid in 1 min^1分鐘內找到美人魚^1분 내에 '인어' 찾기^Trouvez la Femme-poisson en 1 minute^Finde die Meerjungfrau in einer Minute^Encuentra a Sirenita en 1 minuto
+MST_CHALLENGE_NAME_90020011^Complete the quest within 2 mins^2分鐘內完成任務^2분 내에 퀘스트를 완료^Terminez la quête en 2 minutes^Schließe den Auftrag in 2 Minuten ab^Completa la misión en 2 minutos
+MST_CHALLENGE_NAME_90020012^Find the mermaid within 1 min^1分鐘內找到美人魚^1분 내에 '인어' 찾기^Trouvez la Femme-poisson en 1 minute^Finde die Meerjungfrau in einer Minute^Encuentra a Sirenita en 1 minuto
 MST_CHALLENGE_NAME_90020013^Party of 5 or less (Companion included)^隊伍人數最多5人（包括同行者）^파티 인원수 5명 이하(동행자 포함)^Groupe de 5 ou moins (partenaire inclus)^Gruppe von höchstens 5 (einschl. Begleiter)^Grupo de 5 o menos (compañero incluido)
 MST_CHALLENGE_NAME_90020020^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
-MST_CHALLENGE_NAME_90020021^Defeat Mermaid in 2 mins^2分鐘內擊敗美人魚^2분 내에 '인어' 처치^Trouvez la Femme-poisson en 2 minutes^Besiege Meerjungfrau in 2 Minuten^Derrota a Sirenita en 2 minutos
-MST_CHALLENGE_NAME_90020022^Collect 5 or more harvest points in 2 mins^2分鐘內收集5個以上的採集點^지도에서 다섯 곳 이상 '채집'하여 완료^Collectez 5 points de collecte ou plus en 2 mins^Sammle 5 oder mehr Erntepunkte in 2 Minuten^Consigue 5 puntos de recolección en 2 minutos
-MST_CHALLENGE_NAME_90020023^No Item^不使用道具^아이템을 사용하지 않고 완료^Ne pas utiliser d'objets^Keine Gegenstände^No uses objetos
+MST_CHALLENGE_NAME_90020021^Defeat the mermaid within 2 mins^2分鐘內擊敗美人魚^2분 내에 '인어' 처치^Trouvez la Femme-poisson en 2 minutes^Besiege Meerjungfrau in 2 Minuten^Derrota a Sirenita en 2 minutos
+MST_CHALLENGE_NAME_90020022^Collect from 5 or more harvest points within 2 mins^2分鐘內收集5個以上的採集點^지도에서 다섯 곳 이상 '채집'하여 완료^Collectez 5 points de collecte ou plus en 2 mins^Sammle 5 oder mehr Erntepunkte in 2 Minuten^Consigue 5 puntos de recolección en 2 minutos
+MST_CHALLENGE_NAME_90020023^No Items^不使用道具^아이템을 사용하지 않고 완료^Ne pas utiliser d'objets^Keine Gegenstände^No uses objetos
 MST_CHALLENGE_NAME_90020030^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
-MST_CHALLENGE_NAME_90020031^Defeat Mermaid with a limit burst^使用極限技終結美人魚^'인어'를 LB로 처치^Terrassez la Femme-poisson avec une limite^Besiege Meerjungfrau mit einem Limitrausch^Derrota a Sirenita con un EL
-MST_CHALLENGE_NAME_90020032^Complete the quest in 2 mins^2分鐘內完成任務^2분 내에 퀘스트를 완료^Terminez la quête en 2 minutes^Schließe den Auftrag in 2 Minuten ab^Completa la misión en 2 minutos
+MST_CHALLENGE_NAME_90020031^Defeat the mermaid with a limit burst^使用極限技終結美人魚^'인어'를 LB로 처치^Terrassez la Femme-poisson avec une limite^Besiege Meerjungfrau mit einem Limitrausch^Derrota a Sirenita con un EL
+MST_CHALLENGE_NAME_90020032^Complete the quest within 2 mins^2分鐘內完成任務^2분 내에 퀘스트를 완료^Terminez la quête en 2 minutes^Schließe den Auftrag in 2 Minuten ab^Completa la misión en 2 minutos
 MST_CHALLENGE_NAME_90020033^Party of 5 or less (Companion included)^隊伍人數最多5人（包括同行者）^파티 인원수 5명 이하(동행자 포함)^Groupe de 5 ou moins (partenaire inclus)^Gruppe von höchstens 5 (einschl. Begleiter)^Grupo de 5 o menos (compañero incluido)
 MST_CHALLENGE_NAME_90020040^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
-MST_CHALLENGE_NAME_90020041^Collect 5 or more harvest points in 2 mins^2分鐘內收集5個以上的採集點^지도에서 다섯 곳 이상 '채집'하여 완료^Collectez 5 points de collecte ou plus en 2 mins^Sammle 5 oder mehr Erntepunkte^Consigue 5 puntos de recolección en 2 minutos
-MST_CHALLENGE_NAME_90020042^Defeat Mermaid in 2 mins^2分鐘內擊敗美人魚^2분 내에 '인어' 처치^Trouvez la Femme-poisson en 2 minutes^Besiege Meerjungfrau in 2 Minuten^Derrota a Sirenita en 2 minutos
-MST_CHALLENGE_NAME_90020043^Clear without an ally being KO^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
+MST_CHALLENGE_NAME_90020041^Collect from 5 or more harvest points within 2 mins^2分鐘內收集5個以上的採集點^지도에서 다섯 곳 이상 '채집'하여 완료^Collectez 5 points de collecte ou plus en 2 mins^Sammle 5 oder mehr Erntepunkte^Consigue 5 puntos de recolección en 2 minutos
+MST_CHALLENGE_NAME_90020042^Defeat the mermaid within 2 mins^2分鐘內擊敗美人魚^2분 내에 '인어' 처치^Trouvez la Femme-poisson en 2 minutes^Besiege Meerjungfrau in 2 Minuten^Derrota a Sirenita en 2 minutos
+MST_CHALLENGE_NAME_90020043^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
+MST_CHALLENGE_NAME_91900010^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
+MST_CHALLENGE_NAME_91900011^Use white magic^使用「白魔法」^'백'마법을 사용해 완료^Utilisez la magie blanche^Benutze Weißmagie^Usa magia blanca
+MST_CHALLENGE_NAME_91900012^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
+MST_CHALLENGE_NAME_91900013^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
+MST_CHALLENGE_NAME_91900020^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
+MST_CHALLENGE_NAME_91900021^Use black magic^使用「黑魔法」^'흑'마법을 사용해 완료^Utilisez la magie noire^Benutze Schwarzmagie^Usa magia negra
+MST_CHALLENGE_NAME_91900022^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
+MST_CHALLENGE_NAME_91900023^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
+MST_CHALLENGE_NAME_91900030^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
+MST_CHALLENGE_NAME_91900031^Use green magic^使用「綠魔法」^'녹'마법을 사용해 완료^Utilisez la magie verte^Benutze Grünmagie^Usa magia verde
+MST_CHALLENGE_NAME_91900032^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
+MST_CHALLENGE_NAME_91900033^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
+MST_CHALLENGE_NAME_92000010^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
+MST_CHALLENGE_NAME_92000011^Use an item^使用道具^아이템을 사용해 완료^Utilisez un objet^Benutze einen Gegenstand^Usa un objeto
+MST_CHALLENGE_NAME_92000012^Deal Earth Damage 3 times or more^對敵人造成至少3次土屬性傷害^땅속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de terre à 3 reprises ou plus^Füge mindestens 3 Mal Erdschaden zu.^Inflige daño de tierra 3 o más veces
+MST_CHALLENGE_NAME_92000013^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
+MST_CHALLENGE_NAME_92000020^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
+MST_CHALLENGE_NAME_92000021^Use a limit burst^使用極限技^LB를 사용해 완료^Utilisez une limite^Benutze einen Limitrausch^Utiliza un Estallido Límite
+MST_CHALLENGE_NAME_92000022^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu à 3 reprises ou plus^Füge mindestens 3 Mal Feuerschaden zu.^Inflige daño de fuego 3 o más veces
+MST_CHALLENGE_NAME_92000023^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
+MST_CHALLENGE_NAME_92000030^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
+MST_CHALLENGE_NAME_92000031^Evoke an Esper^召喚幻獸^환수를 소환해 완료^Appelez une chimère ^Rufe einen Esper^Evoca a un esper
+MST_CHALLENGE_NAME_92000032^Deal wind damage 3 times or more^對敵人造成至少3次風屬性傷害^바람속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de vent à 3 reprises ou plus^Füge mindestens 3 Mal Windschaden zu.^Inflige daño de viento 3 o más veces
+MST_CHALLENGE_NAME_92000033^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
+MST_CHALLENGE_NAME_92100010^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
+MST_CHALLENGE_NAME_92100011^Use a light attacks^使用1次光屬性攻擊^빛속성으로 적에게 피해를 줌^Utilisez une attaque de lumière^Benutze Lichtangriffe^Utiliza ataques de luz
+MST_CHALLENGE_NAME_92100012^Fina in party^隊伍中帶有「菲娜」^'피나'를 파티에 편성^Fina dans le groupe^Fina in der Gruppe^Utiliza a Fina
+MST_CHALLENGE_NAME_92100013^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
+MST_CHALLENGE_NAME_92100020^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
+MST_CHALLENGE_NAME_92100021^Lasswell in party^隊伍中帶有「拉斯韋爾」^'라스웰'을 파티에 편성^Lasswell dans le groupe^Lasswell in der Gruppe^Utiliza a Lasswell
+MST_CHALLENGE_NAME_92100022^Finish the boss with a limit burst^使用極限技終結BOSS^보스를 LB로 처치^Terrassez le boss avec une limite^Besiege den Boss mit einem Limitrausch^Derrota al jefe con un Estallido Límite
+MST_CHALLENGE_NAME_92100023^Defeat the boss within 10 turns^在10回合以內終結BOSS戰^10턴 이내에 완료^Terrassez le boss en 10 tours max.^Besiege den Boss innerhalb von 10 Runden^Derrota al jefe en 10 turnos o menos
+MST_CHALLENGE_NAME_92100030^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
+MST_CHALLENGE_NAME_92100031^No white magic^不使用「白魔法」^'백'마법을 사용하지 않고 완료^Ne pas utiliser la magie blanche^Keine Weißmagie^No uses magia blanca
+MST_CHALLENGE_NAME_92100032^Party of 5 or less (Companion included)^隊伍人數最多5人（包括同行者）^파티 인원수 5명 이하(동행자 포함)^Groupe de 5 ou moins (partenaire inclus)^Gruppe von höchstens 5 (einschl. Begleiter)^Grupo de 5 o menos (compañero incluido)
+MST_CHALLENGE_NAME_92100033^Evoke Titan & Lakshmi^召喚「泰坦」&「吉祥天女」^'타이탄', '락슈미'를 소환해 완료^Appelez Titan & Lakshmi^Rufe Titan u. Lakshimi^Evoca a Titán y Lakshmi

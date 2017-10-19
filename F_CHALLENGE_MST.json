@@ -51696,6 +51696,330 @@
         "qo3PECw6": "9002004"
     }, 
     {
+        "6uvHX2JG": "Castle Dungeon BGN", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "91900010", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "50:1:20", 
+        "qo3PECw6": "9190001"
+    }, 
+    {
+        "6uvHX2JG": "Castle Dungeon BGN", 
+        "G4L0YIB2": "Use White Magic", 
+        "Pzn5h0Ga": "13:1", 
+        "V36ygRYs": "91900011", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:20", 
+        "qo3PECw6": "9190001"
+    }, 
+    {
+        "6uvHX2JG": "Castle Dungeon BGN", 
+        "G4L0YIB2": "Clear without an ally being KO", 
+        "Pzn5h0Ga": "33", 
+        "V36ygRYs": "91900012", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:20", 
+        "qo3PECw6": "9190001"
+    }, 
+    {
+        "6uvHX2JG": "Castle Dungeon BGN", 
+        "G4L0YIB2": "No Continues", 
+        "Pzn5h0Ga": "38", 
+        "V36ygRYs": "91900013", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:20", 
+        "qo3PECw6": "9190001"
+    }, 
+    {
+        "6uvHX2JG": "Castle Dungeon ADV", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "91900020", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "50:1:20", 
+        "qo3PECw6": "9190002"
+    }, 
+    {
+        "6uvHX2JG": "Castle Dungeon ADV", 
+        "G4L0YIB2": "Use Black Magic", 
+        "Pzn5h0Ga": "13:2", 
+        "V36ygRYs": "91900021", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:20", 
+        "qo3PECw6": "9190002"
+    }, 
+    {
+        "6uvHX2JG": "Castle Dungeon ADV", 
+        "G4L0YIB2": "Clear without an ally being KO", 
+        "Pzn5h0Ga": "33", 
+        "V36ygRYs": "91900022", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:20", 
+        "qo3PECw6": "9190002"
+    }, 
+    {
+        "6uvHX2JG": "Castle Dungeon ADV", 
+        "G4L0YIB2": "No Continues", 
+        "Pzn5h0Ga": "38", 
+        "V36ygRYs": "91900023", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:20", 
+        "qo3PECw6": "9190002"
+    }, 
+    {
+        "6uvHX2JG": "Castle Dungeon ELT", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "91900030", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "50:1:20", 
+        "qo3PECw6": "9190003"
+    }, 
+    {
+        "6uvHX2JG": "Castle Dungeon ELT", 
+        "G4L0YIB2": "Use Green Magic", 
+        "Pzn5h0Ga": "13:3", 
+        "V36ygRYs": "91900031", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:20", 
+        "qo3PECw6": "9190003"
+    }, 
+    {
+        "6uvHX2JG": "Castle Dungeon ELT", 
+        "G4L0YIB2": "Clear without an ally being KO", 
+        "Pzn5h0Ga": "33", 
+        "V36ygRYs": "91900032", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:20", 
+        "qo3PECw6": "9190003"
+    }, 
+    {
+        "6uvHX2JG": "Castle Dungeon ELT", 
+        "G4L0YIB2": "No Continues", 
+        "Pzn5h0Ga": "38", 
+        "V36ygRYs": "91900033", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:20", 
+        "qo3PECw6": "9190003"
+    }, 
+    {
+        "6uvHX2JG": "Castle Keep - BGN", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "92000010", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "10:904000101:1:100:1:0:100000005", 
+        "qo3PECw6": "9200001"
+    }, 
+    {
+        "6uvHX2JG": "Castle Keep - BGN", 
+        "G4L0YIB2": "Use an item", 
+        "Pzn5h0Ga": "0", 
+        "V36ygRYs": "92000011", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "22:1500000001:2", 
+        "qo3PECw6": "9200001"
+    }, 
+    {
+        "6uvHX2JG": "Castle Keep - BGN", 
+        "G4L0YIB2": "Deal Earth Damage 3 times or more", 
+        "Pzn5h0Ga": "59:6:2", 
+        "V36ygRYs": "92000012", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "22:1500000002:2", 
+        "qo3PECw6": "9200001"
+    }, 
+    {
+        "6uvHX2JG": "Castle Keep - BGN", 
+        "G4L0YIB2": "No Continues", 
+        "Pzn5h0Ga": "38", 
+        "V36ygRYs": "92000013", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "10:905000102:2:100:1", 
+        "qo3PECw6": "9200001"
+    }, 
+    {
+        "6uvHX2JG": "Castle Keep - ADV", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "92000020", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "10:904000101:1:100:1:0:100000005", 
+        "qo3PECw6": "9200002"
+    }, 
+    {
+        "6uvHX2JG": "Castle Keep - ADV", 
+        "G4L0YIB2": "Use Limit Burst", 
+        "Pzn5h0Ga": "16", 
+        "V36ygRYs": "92000021", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "22:1500000001:2", 
+        "qo3PECw6": "9200002"
+    }, 
+    {
+        "6uvHX2JG": "Castle Keep - ADV", 
+        "G4L0YIB2": "Deal Fire Damage 3 times or more", 
+        "Pzn5h0Ga": "59:1:2", 
+        "V36ygRYs": "92000022", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "22:1500000002:2", 
+        "qo3PECw6": "9200002"
+    }, 
+    {
+        "6uvHX2JG": "Castle Keep - ADV", 
+        "G4L0YIB2": "No Continues", 
+        "Pzn5h0Ga": "38", 
+        "V36ygRYs": "92000023", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "10:905000102:2:100:1", 
+        "qo3PECw6": "9200002"
+    }, 
+    {
+        "6uvHX2JG": "Castle Keep - ELT", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "92000030", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "10:904000101:1:100:1:0:100000005", 
+        "qo3PECw6": "9200003"
+    }, 
+    {
+        "6uvHX2JG": "Castle Keep - ELT", 
+        "G4L0YIB2": "Summon an Esper", 
+        "Pzn5h0Ga": "28", 
+        "V36ygRYs": "92000031", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "22:1500000001:2", 
+        "qo3PECw6": "9200003"
+    }, 
+    {
+        "6uvHX2JG": "Castle Keep - ELT", 
+        "G4L0YIB2": "Deal Wind Damage 3 times or more", 
+        "Pzn5h0Ga": "59:5:2", 
+        "V36ygRYs": "92000032", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "22:1500000002:2", 
+        "qo3PECw6": "9200003"
+    }, 
+    {
+        "6uvHX2JG": "Castle Keep - ELT", 
+        "G4L0YIB2": "No Continues", 
+        "Pzn5h0Ga": "38", 
+        "V36ygRYs": "92000033", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "10:905000102:2:100:1", 
+        "qo3PECw6": "9200003"
+    }, 
+    {
+        "6uvHX2JG": "Castle Inner Chamber INT", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "92100010", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "10:904000101:1:100:1:0:100000005", 
+        "qo3PECw6": "9210001"
+    }, 
+    {
+        "6uvHX2JG": "Castle Inner Chamber INT", 
+        "G4L0YIB2": "Use Light Attacks", 
+        "Pzn5h0Ga": "26:7", 
+        "V36ygRYs": "92100011", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "21:1100000018:1", 
+        "qo3PECw6": "9210001"
+    }, 
+    {
+        "6uvHX2JG": "Castle Inner Chamber INT", 
+        "G4L0YIB2": "Use Fina", 
+        "Pzn5h0Ga": "36:100000302", 
+        "V36ygRYs": "92100012", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "21:1100000016:1", 
+        "qo3PECw6": "9210001"
+    }, 
+    {
+        "6uvHX2JG": "Castle Inner Chamber INT", 
+        "G4L0YIB2": "Clear without an ally being KO", 
+        "Pzn5h0Ga": "33", 
+        "V36ygRYs": "92100013", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "22:504101600:1", 
+        "qo3PECw6": "9210001"
+    }, 
+    {
+        "6uvHX2JG": "Castle Inner Chamber ELT", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "92100020", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "50:1:100", 
+        "qo3PECw6": "9210002"
+    }, 
+    {
+        "6uvHX2JG": "Castle Inner Chamber ELT", 
+        "G4L0YIB2": "Use Laswell", 
+        "Pzn5h0Ga": "36:100000202", 
+        "V36ygRYs": "92100021", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "23:50:2", 
+        "qo3PECw6": "9210002"
+    }, 
+    {
+        "6uvHX2JG": "Castle Inner Chamber ELT", 
+        "G4L0YIB2": "Finish Boss in LB", 
+        "Pzn5h0Ga": "18:900010655:900010339:1", 
+        "V36ygRYs": "92100022", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "21:1100000017:1", 
+        "qo3PECw6": "9210002"
+    }, 
+    {
+        "6uvHX2JG": "Castle Inner Chamber ELT", 
+        "G4L0YIB2": "Defeat Boss within 10 turns", 
+        "Pzn5h0Ga": "77:900010655:10", 
+        "V36ygRYs": "92100023", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "21:1100000104:1", 
+        "qo3PECw6": "9210002"
+    }, 
+    {
+        "6uvHX2JG": "Castle Inner Chamber NIGHTMARE", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "92100030", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "10:904000104:1:100:1:0:100000001", 
+        "qo3PECw6": "9210003"
+    }, 
+    {
+        "6uvHX2JG": "Castle Inner Chamber NIGHTMARE", 
+        "G4L0YIB2": "Do not use White Magic", 
+        "Pzn5h0Ga": "14:1", 
+        "V36ygRYs": "92100031", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "23:50:3", 
+        "qo3PECw6": "9210003"
+    }, 
+    {
+        "6uvHX2JG": "Castle Inner Chamber NIGHTMARE", 
+        "G4L0YIB2": "Party 5 or less", 
+        "Pzn5h0Ga": "35:5", 
+        "V36ygRYs": "92100032", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "21:1100000105:1", 
+        "qo3PECw6": "9210003"
+    }, 
+    {
+        "6uvHX2JG": "Castle Inner Chamber NIGHTMARE", 
+        "G4L0YIB2": "Evoke Titan & Lakshmi", 
+        "Pzn5h0Ga": "30:8,30:11", 
+        "V36ygRYs": "92100033", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "22:504100120:1", 
+        "qo3PECw6": "9210003"
+    }, 
+    {
         "6uvHX2JG": "アルドールタワー・下層", 
         "G4L0YIB2": "クエストをクリア", 
         "Pzn5h0Ga": "68", 

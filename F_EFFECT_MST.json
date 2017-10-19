@@ -6468,6 +6468,188 @@
         "o2ye8th6": "1st_Lass_lb5_frontsword"
     }, 
     {
+        "2HjxCGo6": "HA17_CatLid_lb6_charge.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "100", 
+        "h5t4yBm2": "1900251", 
+        "o2ye8th6": "HA17_bclid6_charge"
+    }, 
+    {
+        "2HjxCGo6": "HA17_CatLid_lb6_front.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "100", 
+        "h5t4yBm2": "1900252", 
+        "o2ye8th6": "HA17_bclid6_limit_F"
+    }, 
+    {
+        "2HjxCGo6": "HA17_CatLid_lb6_impact.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "100", 
+        "h5t4yBm2": "1900253", 
+        "o2ye8th6": "HA17_bclid6_impact"
+    }, 
+    {
+        "2HjxCGo6": "HA17_CatLid_lb6_back.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "100", 
+        "h5t4yBm2": "1900254", 
+        "o2ye8th6": "HA17_bclid6_limit_R"
+    }, 
+    {
+        "2HjxCGo6": "HA17_Sakura_lb5_front.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "100", 
+        "h5t4yBm2": "1900255", 
+        "o2ye8th6": "HA17_sakura_lb5_F"
+    }, 
+    {
+        "2HjxCGo6": "HA17_Sakura_lb5_hit.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "100", 
+        "h5t4yBm2": "1900256", 
+        "o2ye8th6": "HA17_sakura_lb5_hit"
+    }, 
+    {
+        "2HjxCGo6": "HA17_Sakura_lb6_front.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "100", 
+        "h5t4yBm2": "1900257", 
+        "o2ye8th6": "HA17_sakura_lb6_F"
+    }, 
+    {
+        "2HjxCGo6": "HA17_Sakura_lb6_hit.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "100", 
+        "h5t4yBm2": "1900258", 
+        "o2ye8th6": "HA17_sakura_lb6_hit"
+    }, 
+    {
+        "2HjxCGo6": "HA17_Sakura_lb6_back.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "100", 
+        "h5t4yBm2": "1900259", 
+        "o2ye8th6": "HA17_sakura_lb6_R"
+    }, 
+    {
+        "2HjxCGo6": "sp_Sakura_soulbarrage.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "70", 
+        "h5t4yBm2": "1900260", 
+        "o2ye8th6": "sp_sakura_soulbarrage"
+    }, 
+    {
+        "2HjxCGo6": "sp_Sakura_raiseagain.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "100", 
+        "h5t4yBm2": "1900261", 
+        "o2ye8th6": "sp_sakura_riseagain"
+    }, 
+    {
+        "2HjxCGo6": "sp_Sakura_eldritchflames.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "100", 
+        "h5t4yBm2": "1900262", 
+        "o2ye8th6": "sp_sakura_eldritchflames"
+    }, 
+    {
+        "2HjxCGo6": "atk_blow2_purple.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "110", 
+        "h5t4yBm2": "1900263", 
+        "o2ye8th6": "HA17_nichol_atk"
+    }, 
+    {
+        "2HjxCGo6": "HA17_Nicole_lb4_front.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "100", 
+        "h5t4yBm2": "1900264", 
+        "o2ye8th6": "HA17_nicole_lb4_F"
+    }, 
+    {
+        "2HjxCGo6": "lb_100000404_nocole_back.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "200", 
+        "h5t4yBm2": "1900265", 
+        "o2ye8th6": "HA17_nicole_lb4_R"
+    }, 
+    {
+        "2HjxCGo6": "HA17_Nicole_lb5_front.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "100", 
+        "h5t4yBm2": "1900266", 
+        "o2ye8th6": "HA17_nicole_lb5_F"
+    }, 
+    {
+        "2HjxCGo6": "lb_100000405_nocole_back.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "100", 
+        "h5t4yBm2": "1900267", 
+        "o2ye8th6": "HA17_nicole_lb5_R"
+    }, 
+    {
+        "2HjxCGo6": "HA17_Nicole_lb6_front.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "100", 
+        "h5t4yBm2": "1900268", 
+        "o2ye8th6": "HA17_nicole_lb6_F"
+    }, 
+    {
+        "2HjxCGo6": "sp_Nicole_illusion_terrifying.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "100", 
+        "h5t4yBm2": "1900269", 
+        "o2ye8th6": "sp_nicole_terrify"
+    }, 
+    {
+        "2HjxCGo6": "sp_Nicole_illusion_redirect.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "100", 
+        "h5t4yBm2": "1900270", 
+        "o2ye8th6": "sp_nicole_redirect"
+    }, 
+    {
+        "2HjxCGo6": "sp_Nicole_illusion_forces.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "100", 
+        "h5t4yBm2": "1900271", 
+        "o2ye8th6": "sp_nicole_forces"
+    }, 
+    {
+        "2HjxCGo6": "sp_Nicole_illusion_forces_bg.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "100", 
+        "h5t4yBm2": "1900272", 
+        "o2ye8th6": "sp_nicole_forces_bg"
+    }, 
+    {
+        "2HjxCGo6": "HA17_Jake_lb5_tentacle.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "100", 
+        "h5t4yBm2": "1900273", 
+        "o2ye8th6": "HA17_jake_lb5_F"
+    }, 
+    {
+        "2HjxCGo6": "HA17_Jake_lb6_tentacle.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "100", 
+        "h5t4yBm2": "1900274", 
+        "o2ye8th6": "HA17_jake_lb6_F"
+    }, 
+    {
+        "2HjxCGo6": "HA17_Jake_lb6_back.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "100", 
+        "h5t4yBm2": "1900275", 
+        "o2ye8th6": "HA17_jake_lb6_R"
+    }, 
+    {
+        "2HjxCGo6": "HA17_Jake_lb6_hit.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "100", 
+        "h5t4yBm2": "1900276", 
+        "o2ye8th6": "HA17_jake_lb6_hit"
+    }, 
+    {
         "2HjxCGo6": "bm_2001_fire1.bmb", 
         "I1B7wNWc": "5", 
         "avX1k34K": "100", 
