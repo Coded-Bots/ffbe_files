@@ -1273,7 +1273,7 @@ RB_RESULT_REWARD_TITLE^Rewards will be sent to your message box.^報酬將發放
 RB_RULE_INFO_TITLE^Rules^規則情報^규칙^Règles^Regeln^Reglas
 RB_RULE_INFO_BAN_ABILITY^Forbidden abilities: ^禁止能力：^금지 어빌리티:^Aptitudes interdites :^Verbotene Fertigkeiten: ^No se permite:
 RB_RULE_INFO_SERIES^Series bonus: ^系列獎勵：^시리즈 보너스:^Bonus pour :^Serienbonus: ^Bonificación para:
-RB_RULE_INFO_WIN_REWARD^Victory Rewards^勝利時參加報酬^승리 시 참가 보상^Récompenses de victoire^Sieg-Belohnungen^Recompensas al ganar
+RB_RULE_INFO_WIN_REWARD^Daily Participation Rewards^勝利時參加報酬^승리 시 참가 보상^Récompenses de victoire^Sieg-Belohnungen^Recompensas al ganar
 RB_RULE_INFO_LOSE_REWARD^Failure Rewards^敗北時參加報酬^패배 시 참가 보상^Récompenses de défaite^Niederlage-Belohnungen^Recompensas al participar
 RB_RULE_INFO_RANK_RANGE^%d to $d place^%d 〜 %d 名^%d ~ %d위^%d place sur %d^%d bis zum $d Platz^Puesto %d - %d
 RB_SELECT_RIVAL_TITLE^Select Opponent^選擇對手^대전 상대 선택^Choisir adversaire ^Gegner wählen^Selecciona oponente
@@ -1334,7 +1334,7 @@ UNIT_SORT_TYPE_SERIES^Series^系列^시리즈^Séries^Reihe^Series
 ATTACK_ELEMENT^Elemental Attack^屬性攻擊^속성 공격^Attaque élémentaire ^Elementarangriff^Ataque elemental
 ATTACK_BAD_STATUS^Status Ailment Attack^狀態異常攻擊^상태이상 공격^Attaque à altération d'état ^Zustandsangriff^Ataque de estado alterado
 CRAFT^Craft^製作^제작실^Fabriquer ^Herstellen^Elaboración
-GACHA_DETAIL^Drop Rates^掉落比率^제공 비율^Taux d'apparition ^Drop-Wahrscheinlichkeit^Ratio de aparición
+GACHA_DETAIL^Drop Rates^出現機率^제공 비율^Taux d'apparition ^Drop-Wahrscheinlichkeit^Ratio de aparición
 GACHA_EFFECT_ERROR^Failed to display summon animation. Skipping to result screen.^召喚效果動畫播放失敗。跳轉至結果畫面。^소환 연출 재생에 실패했습니다. 결과 화면으로 넘어갑니다.^Échec du lancement de l'animation de l'invocation. Passage à l'écran des résultats.^Beschwörungsanimation konnte nicht angezeigt werden. Springe zum Ergebnisbildschirm.^Error al mostrar animación de invocación. Se pasará a la pantalla de resultado.
 MISSION_FRIEND_REQUEST_ASK^Send a friend request to your companion?^要向這次的同行者申請好友嗎？^이번 동행자에게 친구 신청을 하시겠습니까?^Envoyer une demande d'ami à votre partenaire ?^Freundschaftsanfrage an deinen Begleiter senden?^¿Quieres solicitar amistad a tu compañero?
 CHL_REWARD_DESC^Completion rewards will be sent to your message box.^完成報酬將發放到收信箱。^달성 보상은 메시지로 지급됩니다.^Les récompenses de réussite seront envoyées dans votre messagerie.^Belohnungen werden in deinem Posteingang hinterlegt.^Las recompensas se enviarán a tu buzón.
@@ -1878,7 +1878,7 @@ GATE_AREA_REWARD_PERIOD^Exchange Period^交換期間^교환 기간^Durée de l'�
 GATE_NO_QUEST^There are currently no quests.^現在沒有任務。^현재, 퀘스트가 없습니다.^Il n'y a aucune quête en ce moment.^Es sind aktuell keine Aufträge verfügbar.^No hay misiones disponibles.
 GATE_TRAINING_OPEN_PAID^Use <param=num> lapis<br>to unlock dungeon?<br>Lapis held: <param=lapis_num> ^要使用<param=num>個寶石，<br>開放迷宮嗎？<br> <br>持有寶石 <param=lapis_num>個^라피스를 <param=num>개 사용하여<br>던전을 개방하시겠습니까?<br> <br>보유 라피스 <param=lapis_num>개^Utilisez <param=num> lapis<br>pour débloquer le donjon ?<br>Lapis possédés : <param=lapis_num>^Dieses Dungeon für <param=num> Lapis<br>freischalten?<br>Lapis in Besitz: <param=lapis_num>^¿Quieres usar <param=num> lapis<br>para desbloquear la mazmorra?<br>Lapis en mano: <param=lapis_num> 
 GATE_TRAINING_OPEN_LACK_LAPIS^You can use <param=num> lapis to unlock a dungeon.<br>Purchase lapis?<br><br>Lapis held: <param=lapis_num>^使用<param=num>個寶石，<br>可開放迷宮。<br>是否要購入寶石？<br> <br>持有寶石<param=lapis_num>個^라피스를 <param=num> 개 사용하여<br>던전을 개방할 수 있습니다.<br>라피스를 구매하시겠습니까?<br> <br>보유 라피스  <param=lapis_num>個^Vous pouvez utiliser <param=num> lapis pour débloquer le donjon.<br>Acheter des lapis?<br><br>Lapis possédés : <param=lapis_num>^Du kannst <param=num> ein Dungeon mit Lapis freischalten.<br>Lapis kaufen?<br><br>Lapis in Besitz: <param=lapis_num>^¿Quieres usar <param=num> lapis<br>para desbloquear la mazmorra?<br>¿Quieres comprar lapis?<br><br>Lapis en mano: <param=lapis_num>
-GATE_ADVENT_HELL_SUB_HEADER_TITLE^New Chamber of the Fallen^真降臨之間^진 강림의 틈^Ultra Chambre de l'avènement^Neue Kammer der Auferstandenen^Ultra Cámara de los Caídos
+GATE_ADVENT_HELL_SUB_HEADER_TITLE^New Chamber of the Fallen^真降臨之間^진 강림의 틈^Ultra Chambre de l'avènement^Neue Kammer der Gefallenen^Ultra Cámara de los Caídos
 GATE_ADVENT_HELL_LOCK_MESSAGE^Clear <param=mission_name> to unlock.^完成<param=mission_name>即可開放。^<param=mission_name>을(를) 완료하면 개방됩니다.^Terminez <param=mission_name> pour débloquer ça.^<param=mission_name> abschließen zum Freischalten.^Completa <param=mission_name> para desbloquear.
 MENUSETTING_BATTLE_LIMIT_BURST_MOVIE^Limit Burst Display^顯示極限技效果^리미트 버스트 연출 표시^Visualisation de limite^Limitrausch-Anzeige^Visualización de Estallído Límite
 MENUSETTING_WORLD_CHANGE_EFFECT_TOP^Paladia Movement Display^帕拉迪亞移動效果設定^파라디아 이동 연출 설정^Animation du voyage à Paladia^Paladia-Animation^Animacíon de viaje a Paladia
@@ -2006,3 +2006,5 @@ SERVER_MSG_250^Mission period has ended.<br/>Returning to the Home screen will f
 TAB_DAILY_QUEST^Daily Quest^每日任務^일일 퀘스트^Quête quotidienne ^Täglicher Auftrag^Misión diaria
 TAB_ROOKIE_QUEST^Rookie Quest^新手任務^초보자 퀘스트^Quête de débutant^Neulingsauftrag^Misión de principiante
 DAILY_QUEST_CLAIM_ALL_PROMPT^Claim all completed quest rewards?^要領取所有任務完成報酬嗎？^퀘스트 보상을 모두 수령하시겠습니까?^Voulez-vous récupérer toutes les récompenses des quêtes terminées ?^Alle Auftragsbelohnungen abholen?^¿Reclamar todas las recompensas de las misiones completadas?
+SG_UNIT_SORT_UNITEXP^Unit Exp^^^^^
+UNIT_SORT_TYPE_EXPD_BONUS^Success rate^^^^^

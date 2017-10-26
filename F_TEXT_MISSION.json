@@ -784,25 +784,25 @@ MST_MISSION_NAME_7130102^The Dreadnought - INT^大戰艦·中級^대전함·중�
 MST_MISSION_NAME_7130103^The Dreadnought - ADV^大戰艦·上級^대전함·상급^Le Cuirassé - PRO^Das Schlachtschiff - EXP^El Acorazado - AVA
 MST_MISSION_NAME_7130104^The Dreadnought - PRO^大戰艦·超級^대전함·최상급^Le Cuirassé - SUP^Das Schlachtschiff - PRO^El Acorazado - PRO
 MST_MISSION_NAME_7130105^The Dreadnought - ELT^大戰艦·覺醒級^대전함·각성급^Le Cuirassé - EX!^Das Schlachtschiff - ELI^El Acorazado - ÉLI
-MST_MISSION_NAME_7140101^^勇者鬥惡龍怪物仙境·初級^NA^NA^NA^NA
-MST_MISSION_NAME_7140102^^勇者鬥惡龍怪物仙境·中級^NA^NA^NA^NA
-MST_MISSION_NAME_7140103^^勇者鬥惡龍怪物仙境·上級^NA^NA^NA^NA
-MST_MISSION_NAME_7140104^^勇者鬥惡龍怪物仙境·超級^NA^NA^NA^NA
-MST_MISSION_NAME_7140105^^勇者鬥惡龍怪物仙境·覺醒級^NA^NA^NA^NA
-MST_MISSION_NAME_7150101^^龍王挑戰^NA^NA^NA^NA
-MST_MISSION_NAME_7160101^^金屬迷宮^NA^NA^NA^NA
-MST_MISSION_NAME_7160102^^金屬迷宮^NA^NA^NA^NA
-MST_MISSION_NAME_7160103^^金屬迷宮^NA^NA^NA^NA
-MST_MISSION_NAME_7160104^^金屬迷宮^NA^NA^NA^NA
-MST_MISSION_NAME_7160105^^金屬迷宮^NA^NA^NA^NA
-MST_MISSION_NAME_7160106^^金屬迷宮^NA^NA^NA^NA
-MST_MISSION_NAME_7160107^^金屬迷宮^NA^NA^NA^NA
-MST_MISSION_NAME_7160108^^金屬迷宮^NA^NA^NA^NA
-MST_MISSION_NAME_7160109^^金屬迷宮^NA^NA^NA^NA
-MST_MISSION_NAME_7160110^^金屬迷宮^NA^NA^NA^NA
-MST_MISSION_NAME_7160111^^金屬迷宮^NA^NA^NA^NA
-MST_MISSION_NAME_7160112^^金屬迷宮^NA^NA^NA^NA
-MST_MISSION_NAME_7160113^^金屬迷宮^NA^NA^NA^NA
+MST_MISSION_NAME_7140101^^勇者鬥惡龍怪物仙境·初級^^^^
+MST_MISSION_NAME_7140102^^勇者鬥惡龍怪物仙境·中級^^^^
+MST_MISSION_NAME_7140103^^勇者鬥惡龍怪物仙境·上級^^^^
+MST_MISSION_NAME_7140104^^勇者鬥惡龍怪物仙境·超級^^^^
+MST_MISSION_NAME_7140105^^勇者鬥惡龍怪物仙境·覺醒級^^^^
+MST_MISSION_NAME_7150101^^龍王挑戰^^^^
+MST_MISSION_NAME_7160101^^金屬迷宮^^^^
+MST_MISSION_NAME_7160102^^金屬迷宮^^^^
+MST_MISSION_NAME_7160103^^金屬迷宮^^^^
+MST_MISSION_NAME_7160104^^金屬迷宮^^^^
+MST_MISSION_NAME_7160105^^金屬迷宮^^^^
+MST_MISSION_NAME_7160106^^金屬迷宮^^^^
+MST_MISSION_NAME_7160107^^金屬迷宮^^^^
+MST_MISSION_NAME_7160108^^金屬迷宮^^^^
+MST_MISSION_NAME_7160109^^金屬迷宮^^^^
+MST_MISSION_NAME_7160110^^金屬迷宮^^^^
+MST_MISSION_NAME_7160111^^金屬迷宮^^^^
+MST_MISSION_NAME_7160112^^金屬迷宮^^^^
+MST_MISSION_NAME_7160113^^金屬迷宮^^^^
 MST_MISSION_NAME_7170101^Shadow of the Empire - BGN^帝國之影·初級^제국에 드리운 그늘·초급^L'ombre de l'Empire - DBT^Schatten des Imperiums - ANF^La sombra sobre el Imperio - PRI
 MST_MISSION_NAME_7170102^Shadow of the Empire - INT^帝國之影·中級^제국에 드리운 그늘·중급^L'ombre de l'Empire - INT^Schatten des Imperiums - FOR^La sombra sobre el Imperio - INT
 MST_MISSION_NAME_7170103^Shadow of the Empire - ADV^帝國之影·上級^제국에 드리운 그늘·상급^L'ombre de l'Empire - PRO^Schatten des Imperiums - EXP^La sombra sobre el Imperio - AVA
@@ -1207,13 +1207,13 @@ MST_MISSION_NAME_7430101^Dangerous Woman Tour - Entrance^Dangerous Woman Tour - 
 MST_MISSION_NAME_7430102^Dangerous Woman Tour - Lobby^Dangerous Woman Tour - 前廳^Dangerous Woman Tour - 로비^Dangerous Woman Tour - Hall^Dangerous Woman Tour - Lobby^Dangerous Woman Tour - Vestíbulo
 MST_MISSION_NAME_7430103^Dangerous Woman Tour - Waiting Room^Dangerous Woman Tour - 等候室^Dangerous Woman Tour - 대기실^Dangerous Woman Tour - Salle d'attente^Dangerous Woman Tour - Warteraum^Dangerous Woman Tour - Sala de espera
 MST_MISSION_NAME_7430104^Dangerous Woman Tour - Main Hall^Dangerous Woman Tour - 主廳^Dangerous Woman Tour - 공연장^Dangerous Woman Tour - Salle principale^Dangerous Woman Tour - Haupthalle^Dangerous Woman Tour - Salón principal
-MST_MISSION_NAME_7440101^Destroy the Reactor - BGN^魔晃爐破壊作戦·初級^마황로 폭파 작전·초급^Détruire le réacteur - DBT^Zerstöre den Reaktor - ANF^Destruyendo el reactor - PRI
-MST_MISSION_NAME_7440102^Destroy the Reactor - INT^魔晃爐破壊作戦·中級^마황로 폭파 작전·중급^Détruire le réacteur - INT^Zerstöre den Reaktor - FOR^Destruyendo el reactor - INT
-MST_MISSION_NAME_7440103^Destroy the Reactor - ADV^魔晃爐破壊作戦·上級^마황로 폭파 작전·상급^Détruire le réacteur - PRO^Zerstöre den Reaktor - EXP^Destruyendo el reactor - AVA
-MST_MISSION_NAME_7440104^Destroy the Reactor - PRO^魔晃爐破壊作戦·超級^마황로 폭파 작전·최상급^Détruire le réacteur - SUP^Zerstöre den Reaktor - PRO^Destruyendo el reactor - PRO
-MST_MISSION_NAME_7440105^Destroy the Reactor - ELT^魔晃爐破壊作戦·覺醒級^마황로 폭파 작전·각성급^Détruire le réacteur - EX!^Zerstöre den Reaktor - ELI^Destruyendo el reactor - ÉLI
-MST_MISSION_NAME_7450101^Destroy the Reactor - Exploration (Hard)^魔晃爐破壊作戦·探索(HARD)^마황로 폭파 작전·탐색(HARD)^Détruire le réacteur - Exploration (Difficile)^Zerstöre den Reaktor - Erkundung (Schwer)^Destruyendo el reactor - Exploración (difícil)
-MST_MISSION_NAME_7450102^Destroy the Reactor - Exploration (Easy)^魔晃爐破壊作戦·探索(EASY)^마황로 폭파 작전·탐색(EASY)^Détruire le réacteur - Exploration (Facile)^Zerstöre den Reaktor - Erkundung (Einfach)^Destruyendo el reactor - Exploración (fácil)
+MST_MISSION_NAME_7440101^Destroy the Reactor - BGN^魔晃爐破壞作戰·初級^마황로 폭파 작전·초급^Détruire le réacteur - DBT^Zerstöre den Reaktor - ANF^Destruyendo el reactor - PRI
+MST_MISSION_NAME_7440102^Destroy the Reactor - INT^魔晃爐破壞作戰·中級^마황로 폭파 작전·중급^Détruire le réacteur - INT^Zerstöre den Reaktor - FOR^Destruyendo el reactor - INT
+MST_MISSION_NAME_7440103^Destroy the Reactor - ADV^魔晃爐破壞作戰·上級^마황로 폭파 작전·상급^Détruire le réacteur - PRO^Zerstöre den Reaktor - EXP^Destruyendo el reactor - AVA
+MST_MISSION_NAME_7440104^Destroy the Reactor - PRO^魔晃爐破壞作戰·超級^마황로 폭파 작전·최상급^Détruire le réacteur - SUP^Zerstöre den Reaktor - PRO^Destruyendo el reactor - PRO
+MST_MISSION_NAME_7440105^Destroy the Reactor - ELT^魔晃爐破壞作戰·覺醒級^마황로 폭파 작전·각성급^Détruire le réacteur - EX!^Zerstöre den Reaktor - ELI^Destruyendo el reactor - ÉLI
+MST_MISSION_NAME_7450101^Destroy the Reactor - Exploration (Hard)^魔晃爐破壞作戰·探索(HARD)^마황로 폭파 작전·탐색(HARD)^Détruire le réacteur - Exploration (Difficile)^Zerstöre den Reaktor - Erkundung (Schwer)^Destruyendo el reactor - Exploración (difícil)
+MST_MISSION_NAME_7450102^Destroy the Reactor - Exploration (Easy)^魔晃爐破壞作戰·探索(EASY)^마황로 폭파 작전·탐색(EASY)^Détruire le réacteur - Exploration (Facile)^Zerstöre den Reaktor - Erkundung (Einfach)^Destruyendo el reactor - Exploración (fácil)
 MST_MISSION_NAME_7250103^Path to the Ruins^通向遺跡^유적으로 향하는 길^Chemin vers les ruines^Weg zu den Ruinen^De camino a las ruinas
 MST_MISSION_NAME_7250104^Freezing Fields^極寒雪原^극한의 설원^Champs gelés^Frierende Felder^Llanuras gélidas
 MST_MISSION_NAME_7250105^Beyond the Blowing Snows^跨越暴風雪^눈보라를 넘어서^L'autre côté de la tempête^Hinter dem Schneegestöber^Al otro lado de la ventisca
@@ -1682,11 +1682,11 @@ MST_MISSION_NAME_11215104^Howling Mountains - Moonlit Cliffs^咆哮岩山·月�
 MST_MISSION_NAME_11215105^Howling Mountains - Den of the Wolf^咆哮岩山·月狼巢^포효하는 바위산·늑대의 보금자리^Montagne hurlante - Antre du loup^Bergesheulen - Wolfsbau^Montañas aullantes - La guarida del lobo
 MST_MISSION_NAME_11215106^Wolfsfang Trial^狼牙試煉^늑대의 시련^Épreuve du Croc-de-Loup^Schneewolfprüfung^Prueba del Lobo
 MST_MISSION_NAME_2110404^Chamber of Experience - PRO^經驗之間·超級^경험의 틈·최상급^Chambre de l'expérience - PRO^Kammer des Erfahrens - PRO^Cámara de la Experiencia - PRO
-MST_MISSION_NAME_2111004^Chamber of Riches - PRO^富豪之間·超級^부호의 틈·최상급^Chambre des richesses - PRO^Raum des Reichtums - PRO^Cámara de Riquezas - PRO
-MST_MISSION_NAME_2111104^Chamber of Crystals - White & Black^魔石之間·白黑^마석의 틈·흑&백^Chambre des cristaux - Noir & Blanc^Raum der Kristalle - Weiß & Schwarz^Cámara de Cristales - Blanco y Negro
-MST_MISSION_NAME_2111105^Chamber of Crystals - Green & Orange^魔石之間·綠橙^마석의 틈·초록&주황^Chambre des cristaux - Vert & Orange^Raum der Kristalle - Grün & Orange^Cámara de Cristales - Verde y Naranja
-MST_MISSION_NAME_2111106^Chamber of Crystals - Yellow & Blue^魔石之間·黃藍^마석의 틈·노랑&파랑^Chambre des cristaux - Jaune & Bleu^Raum der Kristalle - Gelb & Blau^Cámara de Cristales - Amarillo y Azul
-MST_MISSION_NAME_2111107^Chamber of Crystals - Red & Purple^魔石之間·紅紫^마석의 틈·빨강&보라^Chambre des cristaux - Rouge & Violet^Raum der Kristalle - Rot & Violett^Cámara de Cristales - Rojo y Púrpura
+MST_MISSION_NAME_2111004^Chamber of Riches - PRO^富豪之間·超級^부호의 틈·최상급^Chambre des richesses - PRO^Kammer des Reichtums - PRO^Cámara de Riquezas - PRO
+MST_MISSION_NAME_2111104^Chamber of Crystals - White & Black^魔石之間·白黑^마석의 틈·흑&백^Chambre des cristaux - Noir & Blanc^Kammer der Kristalle - Weiß & Schwarz^Cámara de Cristales - Blanco y Negro
+MST_MISSION_NAME_2111105^Chamber of Crystals - Green & Orange^魔石之間·綠橙^마석의 틈·초록&주황^Chambre des cristaux - Vert & Orange^Kammer der Kristalle - Grün & Orange^Cámara de Cristales - Verde y Naranja
+MST_MISSION_NAME_2111106^Chamber of Crystals - Yellow & Blue^魔石之間·黃藍^마석의 틈·노랑&파랑^Chambre des cristaux - Jaune & Bleu^Kammer der Kristalle - Gelb & Blau^Cámara de Cristales - Amarillo y Azul
+MST_MISSION_NAME_2111107^Chamber of Crystals - Red & Purple^魔石之間·紅紫^마석의 틈·빨강&보라^Chambre des cristaux - Rouge & Violet^Kammer der Kristalle - Rot & Violett^Cámara de Cristales - Rojo y Púrpura
 MST_MISSION_NAME_3010125^Secret Vault - 4/28^秘密的寶物庫·4/28^비밀의 보물창고·4/28^Coffre aux trésors cachés - 28/4^Geheime Schatzkammer 4/28^Cámara Secreta - 28/4
 MST_MISSION_NAME_3010126^Secret Vault - 4/29^秘密的寶物庫·4/29^비밀의 보물창고·4/29^Coffre aux trésors cachés - 29/4^Geheime Schatzkammer 4/29^Cámara Secreta - 29/4
 MST_MISSION_NAME_3010127^Secret Vault - 4/30^秘密的寶物庫·4/30^비밀의 보물창고·4/30^Coffre aux trésors cachés - 30/4^Geheime Schatzkammer 4/30^Cámara Secreta - 30/4

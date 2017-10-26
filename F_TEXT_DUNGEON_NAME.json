@@ -40,8 +40,8 @@ MST_DUNGEONS_NAME_21110^Chamber of Riches^富豪之間^부호의 틈^Chambre des
 MST_DUNGEONS_NAME_21111^Chamber of Crystals^魔石之間^마석의 틈^Chambre des cristaux^Kammer der Kristalle^Cámara de los Cristales
 MST_DUNGEONS_NAME_21112^Cactuar Dunes^巨型仙人掌沙漠^사보텐더 사막^Désert des Pampas^Kaktor-Wüste^Dunas de Cactilión
 MST_DUNGEONS_NAME_21113^Gil Snapper's Cave^金幣龜洞窟^길거북 동굴^Caverne de Gilkhélone^Höhle der Gilkröte^Cueva del Guilonio
-MST_DUNGEONS_NAME_89901^Chamber of the Reborn^再臨之間^재림의 틈^Chambre de la résurrection^Kammer der Gefallenen^Cámara de los Renacidos
-MST_DUNGEONS_NAME_89911^Chamber of the Fallen^降臨之間^강림의 틈^Chambre de l'avènement^Kammer der Auferstandenen^Cámara de los Caídos
+MST_DUNGEONS_NAME_89901^Chamber of the Reborn^再臨之間^재림의 틈^Chambre de la résurrection^Kammer der Auferstandenen^Cámara de los Renacidos
+MST_DUNGEONS_NAME_89911^Chamber of the Fallen^降臨之間^강림의 틈^Chambre de l'avènement^Kammer der Gefallenen^Cámara de los Caídos
 MST_DUNGEONS_NAME_6100000^Lands of Plenty^豐收的大地^풍요로운 대지^Terres d'abondance^Schlaraffenland^Tierras de la abundancia
 MST_DUNGEONS_NAME_12101^Maranda Coast^馬蘭達海岸^마란다 해안^Côte de Maranda^Küste von Maranda^Costa de Maranda
 MST_DUNGEONS_NAME_12102^Ballen Passage - Entrance^巴雷恩坑道 入口^바렌 갱도 입구^Ent. du passage de Ballen ^Balleyn-Tunnel – Eingang^Pasaje de Ballen - Entrada
@@ -151,9 +151,9 @@ MST_DUNGEONS_NAME_22201^Vision of Bahamut^巴哈姆特的幻影^바하무트의 
 MST_DUNGEONS_NAME_71102^Memories from the Aquapolis^深藏水都的思念^물의 도시에 깃든 마음^Souvenirs de la Ville Aquatique ^Erinnerungen aus der Aquapolis^Recuerdos de la Aquópolis
 MST_DUNGEONS_NAME_71201^The Auracite Chosen^被聖石選中的人們^성석에게 선택받은 자들^Les Élus des Pierres du Zodiaque ^Die Auracit-Erwählten^Los elegidos de la Auracita
 MST_DUNGEONS_NAME_71301^The Dreadnought^大戰艦^대전함^Le Cuirassé ^Das Schlachtschiff^El Acorazado
-MST_DUNGEONS_NAME_71401^^^NA^^^
-MST_DUNGEONS_NAME_71501^^^NA^^^
-MST_DUNGEONS_NAME_71601^^^NA^^^
+MST_DUNGEONS_NAME_71401^^勇者鬥惡龍怪物仙境^^^^
+MST_DUNGEONS_NAME_71501^^龍王挑戰^^^^
+MST_DUNGEONS_NAME_71601^^金屬迷宮^^^^
 MST_DUNGEONS_NAME_71701^Shadow of the Empire^帝國之影^제국에 드리운 그늘^L'ombre de l'Empire^Schatten des Imperiums^La sombra sobre el Imperio
 MST_DUNGEONS_NAME_71801^The Battle of Judecca^朱迪卡會戰^쥬데카 전투^La bataille de Judecca^Der Kampf von Judecca^La batalla de Judecca
 MST_DUNGEONS_NAME_71901^The Empire of Light and Dark^光與影的帝國^제국의 빛과 그림자^L'Empire de lumière et de ténèbres ^Das Imperium von Hell und Dunkel^El Imperio claroscuro
@@ -239,8 +239,8 @@ MST_DUNGEONS_NAME_74101^Ayaka's Request^彩花的委託^아야카의 의뢰^La r
 MST_DUNGEONS_NAME_74102^Goken's Request^剛健的委託^고우켄의 의뢰^La requête de Goken^Gokens Bitte^El favor de Goken
 MST_DUNGEONS_NAME_74201^Four Noble Devils Incoming!^四魔貴族 襲來！^4대 마귀족, 습격하다!^Quatre nobles démons en approche !^Vier Erhabene Teufel greifen an!^Los Cuatro Demonios Nobles atacan
 MST_DUNGEONS_NAME_74301^Ariana Grande SPD^亞莉安娜格蘭德SPD^아리아나 그란데 SPD^Ariana Grande SPD^Ariana Grande SPD^Ariana Grande SPD
-MST_DUNGEONS_NAME_74401^Destroy the Reactor^魔晃爐破壊作戰^마황로 폭파 작전^Détruire le réacteur ^Zerstöre den Reaktor^Destruyendo el reactor
-MST_DUNGEONS_NAME_74501^Destroy the Reactor - Exploration^魔晃爐破壊作戰・探索^마황로 폭파 작전·탐색^Détruire le réacteur - Exploration ^Zerstöre den Reaktor - Erkundung^Destruyendo el reactor - Exploración
+MST_DUNGEONS_NAME_74401^Destroy the Reactor^魔晃爐破壞作戰^마황로 폭파 작전^Détruire le réacteur ^Zerstöre den Reaktor^Destruyendo el reactor
+MST_DUNGEONS_NAME_74501^Destroy the Reactor - Exploration^魔晃爐破壞作戰・探索^마황로 폭파 작전·탐색^Détruire le réacteur - Exploration ^Zerstöre den Reaktor - Erkundung^Destruyendo el reactor - Exploración
 MST_DUNGEONS_NAME_74701^^用戶投稿共鬥^유저 투고 레이드^^^Banda de votación de usuarios
 MST_DUNGEONS_NAME_72901^Daydreaming Adventurer^空想冒險家^꿈꾸는 모험가^L'aventurier rêveur^Tagträumender Abenteurer^El aventurero soñador
 MST_DUNGEONS_NAME_72902^The Underground Pass^地下坑道^지하갱도^Passage souterrain^Unterirdischer Pass^Paso Subterráneo

@@ -327,16 +327,16 @@ MST_EQUIP_ITEM_NAME_409008600^Grimoire Hat^魔導帽^그리모어 모자^Chapeau
 MST_EQUIP_ITEM_NAME_301001500^Swordbreaker^鋸齒短劍^소드 브레이커^Brisépée^Schwertbrecher^Rompespadas
 MST_EQUIP_ITEM_NAME_304001200^Yakei^邪迎八景^사영팔경^Jagei-yakei^Yakei^Yakei
 MST_EQUIP_ITEM_NAME_409002800^Yellow Ring^雷神戒指^뇌신의 반지^Bague ambrée^Gelber Ring^Anillo de Thor
-MST_EQUIP_ITEM_NAME_302002100^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_EQUIP_ITEM_NAME_303001800^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_EQUIP_ITEM_NAME_305001400^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_EQUIP_ITEM_NAME_311001800^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_EQUIP_ITEM_NAME_302002200^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_EQUIP_ITEM_NAME_305001500^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_EQUIP_ITEM_NAME_308001800^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_EQUIP_ITEM_NAME_309001100^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_EQUIP_ITEM_NAME_401001200^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_EQUIP_ITEM_NAME_402001500^NA^翻訳不要^翻訳不要^NA^NA^NA
+MST_EQUIP_ITEM_NAME_302002100^^^^^^
+MST_EQUIP_ITEM_NAME_303001800^^^^^^
+MST_EQUIP_ITEM_NAME_305001400^^^^^^
+MST_EQUIP_ITEM_NAME_311001800^^^^^^
+MST_EQUIP_ITEM_NAME_302002200^^^^^^
+MST_EQUIP_ITEM_NAME_305001500^^^^^^
+MST_EQUIP_ITEM_NAME_308001800^^^^^^
+MST_EQUIP_ITEM_NAME_309001100^^^^^^
+MST_EQUIP_ITEM_NAME_401001200^^^^^^
+MST_EQUIP_ITEM_NAME_402001500^^^^^^
 MST_EQUIP_ITEM_NAME_308001900^Artisan^匠槍^아르티잔^Artisan^Kunsthandwerker^Artesana
 MST_EQUIP_ITEM_NAME_306001500^Beast Hammer^野獸鎚^야수의 망치^Marteau bestial^Bestienhammer^Martillo bestial
 MST_EQUIP_ITEM_NAME_404001100^Imperial Helm^帝國頭盔^제국의 투구^Casque de l'Empire^Imperialer Helm^Yelmo imperial
@@ -705,12 +705,6 @@ MST_EQUIP_ITEM_NAME_1100000085^Malboro's Tentacle^毛爾波爾觸手^몰볼의 �
 MST_EQUIP_ITEM_NAME_1100000094^Malboro's Eye^毛爾波爾之眼^몰볼의 눈알^Œil de Morbol^Morbolauge^Ojo de molbol
 MST_EQUIP_ITEM_NAME_1100000095^Codex of Sword Master^劍法秘笈^검호의 비급^Codex du maître épéiste^Kodex der Schwertkunst^Códice del espadachín
 MST_EQUIP_ITEM_NAME_1100000088^Beastlord^百獸劍王^백수의 검왕^Monarque^Bestienlord^Señor de bestias
-MST_EQUIP_ITEM_NAME_1100000089^Glass Mask^玻璃面具^유리 가면^Masque de verre^Glasmaske^Máscara cristal
-MST_EQUIP_ITEM_NAME_1100000090^Diamond Shield^鑽石盾^다이아 실드^Bouclier en diamant^Diamantener Schild^Escudo diamantino
-MST_EQUIP_ITEM_NAME_1100000091^Hell Claws^地獄之爪^지옥의 발톱^Griffes infernales^Höllenklauen^Garra infernal
-MST_EQUIP_ITEM_NAME_1100000092^Gaia Hammer^大地之鎚^대지의 해머^Marteau de Gaïa^Gaias Hammer^Maza de Gaia
-MST_EQUIP_ITEM_NAME_1100000093^Shadow Dragon Scales^黑龍麟^흑룡의 비늘^Écailles du dragon obscur^Schattendrachenschuppen^Escamas de dragón sombrío
-MST_EQUIP_ITEM_NAME_1100000097^Cloak of Flame^烈焰披風^화염의 망토^Cape ardente ^Flammenumhang^Capa llameante
 MST_EQUIP_ITEM_NAME_1100000098^Fashionable Dancewear^時尚舞蹈服^멋스러운 무대의상^Tenue de danse chic^Modisches Tanzoutfit^Traje de baile fabuloso
 MST_EQUIP_ITEM_NAME_1100000099^Microphone Stand^麥克風架^마이크 스탠드^Pied de micro^Mikrofonständer^Pata de micrófono
 MST_EQUIP_ITEM_NAME_1100000100^Magical Scrunchie^奇幻髮圈^마법의 헤어 타이^Chouchou magique^Magisches Haargummi^Felpa mágica
@@ -723,6 +717,7 @@ MST_EQUIP_ITEM_NAME_1100000111^Necro Dagger^死屍短劍^강령술 단검^Nécro
 MST_EQUIP_ITEM_NAME_1100000102^Cursed Mouthpiece^被詛咒的口罩^저주받은 입마개^Protection maudite^Verfluchtes Mundstück^Protector perverso
 MST_EQUIP_ITEM_NAME_1100000103^Cloak of the Ghoul^屍鬼披風^구울의 망토^Cape de goule^Ghulumhang^Capa de ghoul
 MST_EQUIP_ITEM_NAME_1100000104^Reaper's Shaft^劊子手之弓^사신의 석궁^Hampe impie^Gevatters Armbrust^Ballesta del segador
-MST_EQUIP_ITEM_NAME_1100000105^Collar of the Blessed^祝福首飾^축복받은 자의 옷깃^Collier bénit^Halskette der Gesegneten^Collar de los benditos
+MST_EQUIP_ITEM_NAME_1100000105^Collar of the Blessed^祝福首飾^축복받은 자의 목걸이^Collier bénit^Halskette der Gesegneten^Collar de los benditos
 MST_EQUIP_ITEM_NAME_1100000106^Jake's Pirate Ring^海盜戒指^제이크의 해적 반지^Anneau de pirate de Jake^Jakes Piratenring^Anillo pirata de Jake
-MST_EQUIP_ITEM_NAME_1100000108^Magical Top Hat^魔術帽^마술 모자^Chapeau magique ^Mmagischer Zylinder^Sombrero de copa mágico
+MST_EQUIP_ITEM_NAME_1100000108^Magical Top Hat^魔術帽^마술 모자^Chapeau magique ^Magischer Zylinder^Sombrero de copa mágico
+MST_EQUIP_ITEM_NAME_1100000112^Swift Bolt^雷光劍^뇌광검^Eclair furtif^Blitzwind^Flecha vertiginosa
