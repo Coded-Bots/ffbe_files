@@ -65,7 +65,7 @@ MST_QUESTSUB_GOAL_DETAIL_100800401^You feel a kinship with this provisioner who 
 MST_QUESTSUB_GOAL_DETAIL_100800501^In a world of old men ready to assault the unwary with maundering stories at the slightest provocation, here is one who will not tell his tale unless you retrieve a sword from Wolfsfang Peak.^接受老人的委託，前往雪狼之牙，尋找在此喪命的老人摯友的遺物。^노인의 부탁을 받았다. 지난날 흰 늑대의 어금니에서 목숨을 잃었다는 친구의 유품을 찾자.^Un vieil homme recherche un souvenir de son ami au Pic Croc-de-loup, où celui-ci a perdu la vie. Bravez les hauteurs vertigineuses afin de trouver ce qu'il désire.^Ein alter Mann hätte gern ein Andenken an einen teuren Freund, der sein Leben an der Schneewolfzinne verlor. Trotze den tückischen Höhen und finde das Andenken.^Un anciano busca un recuerdo de un viejo amigo que perdió la vida en el Pico del Lobo. Enfréntate a las traicioneras cumbres para encontrarlo.
 MST_QUESTSUB_GOAL_DETAIL_100800601^A savage monster has appeared at Wolfsfang Peak and is—though you may scarcely believe it—blocking the road. Eliminate this inconceivable menace.^討伐出現在雪狼之牙的凶惡魔物！^흰 늑대의 어금니에 나타난 흉악한 마물을 처치하라!^Un monstre féroce est apparu au Pic Croc-de-loup, au grand dam des voyageurs. Écartez la menace afin que la paix revienne sur la montagne.^An der Schneewolfzinne ist ein wildes Monster aufgetaucht, das Wanderer peinigt. Beseitige das Übel und stelle den Frieden auf dem Berg wieder her.^Una bestia salvaje atormenta a los viajeros en el Pico del Lobo. Elimina a la amenaza y haz que la montaña recupere la tranquilidad.
 MST_QUESTSUB_GOAL_DETAIL_100800701^A bracelet of great importance to your client has been broken. Seek out an artisan in Grandport who may be able to restore it to its previous glory.^女性珍貴的手鐲損壞了。去拜訪格蘭珀特的工匠。^소중한 팔찌가 망가진 모양이다. 그랑포트에 있는 장인을 찾아가 보자.^Votre client possède un bracelet de grande importance à ses yeux, mais celui-ci s'est brisé. Cherchez à Grandport un artisan capable de lui rendre son éclat d'antan.^Ein wichtiges Armband deines Auftraggebers ist kaputt gegangen. Suche einen Kunsthandwerker in Grandport auf, der ihm wieder zu früherem Glanz verhelfen könnte.^Un brazalete de gran valor para tu cliente se ha roto. Localiza a un artesano en Grandport que pueda devolverlo a su antigua gloria.
-MST_QUESTSUB_GOAL_DETAIL_100800702^A suitable amount of silver ore is apparently all the artisan needs to repair the the bracelet.^有銀礦就可以修理手鐲了。^은 광석이 있으면 팔찌를 수리할 수 있다고 한다.^Selon l'artisan, il sera capable de réparer le bracelet si vous lui procurez une certaine quantité de minerai d'argent.^Eine passende Menge an Silbererz ist wohl alles, was der Kunsthandwerker braucht, um das Armband zu reparieren.^Al parecer, todo cuanto necesita el artesano para reparar el brazalete es cierta cantidad de plata.
+MST_QUESTSUB_GOAL_DETAIL_100800702^A suitable amount of silver ore is apparently all the artisan needs to repair the bracelet.^有銀礦就可以修理手鐲了。^은 광석이 있으면 팔찌를 수리할 수 있다고 한다.^Selon l'artisan, il sera capable de réparer le bracelet si vous lui procurez une certaine quantité de minerai d'argent.^Eine passende Menge an Silbererz ist wohl alles, was der Kunsthandwerker braucht, um das Armband zu reparieren.^Al parecer, todo cuanto necesita el artesano para reparar el brazalete es cierta cantidad de plata.
 MST_QUESTSUB_GOAL_DETAIL_100800703^The artisan was able to repair the antique bracelet. Deliver the heirloom to your client, who is sure to be overjoyed.^工匠修好了「古董手鐲」。<br>將其交給委託人。^장인이 '오래된 팔찌'를 수리했다.<br>의뢰인에게 전해주자.^L'artisan est parvenu à réparer le bracelet antique. Rapportez-le à son propriétaire, qui en sera sûrement ravi.^Der Kunsthandwerker konnte das antike Armband reparieren. Bring das Erbstück deinem Auftraggeber, der sicher überglücklich sein wird.^El artesano ha conseguido reparar el brazalete. Devuélveselo a tu cliente para darle una alegría.
 MST_QUESTSUB_GOAL_DETAIL_100800801^In the treacherous mountains, a grim letter lay: the last words of a doomed traveler. Honor the victim's wishes and convey the document to his home.^將在山上撿到的信件送交收件人。^산에서 주운 편지를 받는 사람에게 전달하자.^Vous avez trouvé une lettre perdue en pleine montagne. Veillez à ce qu'elle parvienne à son destinataire.^Du hast einen merkwürdigen Brief aus den Bergen geborgen. Bringe ihn seinem Adressaten.^Has recuperado una carta que se había perdido en las montañas. Encárgate de hacerla llegar a su destinatario.
 MST_QUESTSUB_GOAL_DETAIL_100900001^The resin found in Kolobos Marsh is said to be despised by the undead. Acquire some resin, that it might serve to stave off another zombie attack.^為防止港口再次遭襲，從克羅伯斯濕地收集可趨避殭屍的木頭。^항구가 다시 습격당하지 않도록 코로보스 습지에 가서 좀비가 싫어하는 나무를 주워 오자.^On raconte que les morts-vivants ont horreur de la résine des marais de Kolobos. Vérifiez son efficacité en l'utilisant pour repousser une attaque de zombies.^Angeblich verabscheuen die Untoten das Harz aus der Marsch von Kolobos. Besorge etwas Harz, um damit einen weiteren Zombieangriff abzuwehren.^Se dice que los muertos vivientes odian la resina del pantano de Kolobos. Consigue una poca para evitar otro ataque zombi.
@@ -329,3 +329,43 @@ MST_QUESTSUB_GOAL_DETAIL_102900302^Collect eight giant feathers and deliver them
 MST_QUESTSUB_GOAL_DETAIL_102900303^Deliver the efficient filter to the factory manager in the industrial city.^將高性能過濾器交給在工廠都市的工廠經營者！^공장 도시의 공장 경영자에게 고성능 필터를 전달하자.^Livrez le filtre efficace au patron d'usine de la ville industrielle.^Bring den effizienten Filter dem Fabrikverwalter in der Industriestadt.^Llévale el filtro eficiente al encargado de la fábrica de la ciudad industrial.
 MST_QUESTSUB_GOAL_DETAIL_102900401^Search for a rare part around the Georl barrier activator.^在護盾產生設施尋找珍貴的零件^배리어 발생 시설에서 진귀한 부품을 찾자.^Fouillez les alentours de l'activateur de la barrière de Georl à la recherche d'une pièce rare.^Suche in der Nähe des Georl-Barrierenaktivators nach einem seltenen Teil.^Busca una parte poco común cerca del Activador de la barrera de Georl.
 MST_QUESTSUB_GOAL_DETAIL_102900501^The little puppy seems playful, why not indulge him and give him a good chase around?^小狗似乎很想跟你玩，追上去吧^강아지가 놀고 싶어 하는 것 같다. 함께 술래잡기 놀이를 해 주자.^Le petit chien semble avoir envie de jouer, alors pourquoi ne pas lui faire plaisir ? Courrez-lui un peu après.^Das kleine Hündchen wirkt verspielt, warum jagst du ihn nicht zum Spaß ein wenig herum?^El cachorrito parece que quiere jugar, ¿por qué no juegas con él y lo persigues un rato?
+MST_QUESTSUB_GOAL_DETAIL_103000101^^^^^^
+MST_QUESTSUB_GOAL_DETAIL_103000201^^^^^^
+MST_QUESTSUB_GOAL_DETAIL_103000301^^^^^^
+MST_QUESTSUB_GOAL_DETAIL_103000302^^^^^^
+MST_QUESTSUB_GOAL_DETAIL_103000303^^^^^^
+MST_QUESTSUB_GOAL_DETAIL_103000304^^^^^^
+MST_QUESTSUB_GOAL_DETAIL_103000401^^^^^^
+MST_QUESTSUB_GOAL_DETAIL_103000501^^^^^^
+MST_QUESTSUB_GOAL_DETAIL_103100101^^^^^^
+MST_QUESTSUB_GOAL_DETAIL_103100201^^^^^^
+MST_QUESTSUB_GOAL_DETAIL_103100301^^^^^^
+MST_QUESTSUB_GOAL_DETAIL_103100302^^^^^^
+MST_QUESTSUB_GOAL_DETAIL_103100303^^^^^^
+MST_QUESTSUB_GOAL_DETAIL_103100401^^^^^^
+MST_QUESTSUB_GOAL_DETAIL_103200101^^^^^^
+MST_QUESTSUB_GOAL_DETAIL_103300101^^^^^^
+MST_QUESTSUB_GOAL_DETAIL_103300201^^^^^^
+MST_QUESTSUB_GOAL_DETAIL_103300202^^^^^^
+MST_QUESTSUB_GOAL_DETAIL_103300203^^^^^^
+MST_QUESTSUB_GOAL_DETAIL_103400101^^^^^^
+MST_QUESTSUB_GOAL_DETAIL_103400201^^^^^^
+MST_QUESTSUB_GOAL_DETAIL_103500101^^^^^^
+MST_QUESTSUB_GOAL_DETAIL_103500201^^^^^^
+MST_QUESTSUB_GOAL_DETAIL_103500301^^^^^^
+MST_QUESTSUB_GOAL_DETAIL_103500302^^^^^^
+MST_QUESTSUB_GOAL_DETAIL_103500303^^^^^^
+MST_QUESTSUB_GOAL_DETAIL_103600101^^^^^^
+MST_QUESTSUB_GOAL_DETAIL_103600201^^^^^^
+MST_QUESTSUB_GOAL_DETAIL_103600301^^^^^^
+MST_QUESTSUB_GOAL_DETAIL_103600401^^^^^^
+MST_QUESTSUB_GOAL_DETAIL_103600402^^^^^^
+MST_QUESTSUB_GOAL_DETAIL_103600403^^^^^^
+MST_QUESTSUB_GOAL_DETAIL_103600501^^^^^^
+MST_QUESTSUB_GOAL_DETAIL_100100801^^^^^^
+MST_QUESTSUB_GOAL_DETAIL_100201801^^^^^^
+MST_QUESTSUB_GOAL_DETAIL_100600901^^^^^^
+MST_QUESTSUB_GOAL_DETAIL_101001101^^^^^^
+MST_QUESTSUB_GOAL_DETAIL_101200401^^^^^^
+MST_QUESTSUB_GOAL_DETAIL_101300401^^^^^^
+MST_QUESTSUB_GOAL_DETAIL_102000501^^^^^^

@@ -1273,7 +1273,7 @@ RB_RESULT_REWARD_TITLE^Rewards will be sent to your message box.^報酬將發放
 RB_RULE_INFO_TITLE^Rules^規則情報^규칙^Règles^Regeln^Reglas
 RB_RULE_INFO_BAN_ABILITY^Forbidden abilities: ^禁止能力：^금지 어빌리티:^Aptitudes interdites :^Verbotene Fertigkeiten: ^No se permite:
 RB_RULE_INFO_SERIES^Series bonus: ^系列獎勵：^시리즈 보너스:^Bonus pour :^Serienbonus: ^Bonificación para:
-RB_RULE_INFO_WIN_REWARD^Daily Participation Rewards^勝利時參加報酬^승리 시 참가 보상^Récompenses de victoire^Sieg-Belohnungen^Recompensas al ganar
+RB_RULE_INFO_WIN_REWARD^Daily Participation Rewards^每日參加報酬^일일 참가 보상^Récompenses de participation quotidienne^Tägliche Teilnahme-Belohnungen^Recompensas de participación diarias
 RB_RULE_INFO_LOSE_REWARD^Failure Rewards^敗北時參加報酬^패배 시 참가 보상^Récompenses de défaite^Niederlage-Belohnungen^Recompensas al participar
 RB_RULE_INFO_RANK_RANGE^%d to $d place^%d 〜 %d 名^%d ~ %d위^%d place sur %d^%d bis zum $d Platz^Puesto %d - %d
 RB_SELECT_RIVAL_TITLE^Select Opponent^選擇對手^대전 상대 선택^Choisir adversaire ^Gegner wählen^Selecciona oponente
@@ -2006,5 +2006,6 @@ SERVER_MSG_250^Mission period has ended.<br/>Returning to the Home screen will f
 TAB_DAILY_QUEST^Daily Quest^每日任務^일일 퀘스트^Quête quotidienne ^Täglicher Auftrag^Misión diaria
 TAB_ROOKIE_QUEST^Rookie Quest^新手任務^초보자 퀘스트^Quête de débutant^Neulingsauftrag^Misión de principiante
 DAILY_QUEST_CLAIM_ALL_PROMPT^Claim all completed quest rewards?^要領取所有任務完成報酬嗎？^퀘스트 보상을 모두 수령하시겠습니까?^Voulez-vous récupérer toutes les récompenses des quêtes terminées ?^Alle Auftragsbelohnungen abholen?^¿Reclamar todas las recompensas de las misiones completadas?
-SG_UNIT_SORT_UNITEXP^Unit Exp^^^^^
-UNIT_SORT_TYPE_EXPD_BONUS^Success rate^^^^^
+SG_UNIT_SORT_UNITEXP^Unit Exp^兵員EXP^유닛 경험치^Exp d'unité^Einheiten-EXP^Exp de unidad
+UNIT_SORT_TYPE_EXPD_BONUS^Success rate^成功率^성공률^Taux de succès^Erfolgswahrscheinlichkeit^Probabilidad de éxito
+SERVER_MSG_503^Mission is Expired^超過任務期限^더 이상 수행할 수 없는 미션입니다.^La mission a expiré^Mission ist abgelaufen^La misión ha caducado

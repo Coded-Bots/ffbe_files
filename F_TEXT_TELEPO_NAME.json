@@ -179,9 +179,32 @@ MST_TELEPO_NAME_1210101^Entrance^入口^입구^Entrée^Eingangsbereich^Entrada
 MST_TELEPO_NAME_1210102^Tool/Material Shop^道具·素材店^도구·재료 상점^Boutique d'outils/de matériaux^Werkzeugladen Material-Shop^Utensilios/Materiales
 MST_TELEPO_NAME_1210103^Inn^旅店^여인숙^Gîte^Herberge^Posada
 MST_TELEPO_NAME_1210201^Entrance^入口^입구^Entrée^Eingangsbereich^Entrada
-MST_TELEPO_NAME_1210202^Mama Chocobo^媽媽陸行鳥前^엄마 초코보 앞^Maman chocobo ^Mama Chocobo^Mamá chocobo
+MST_TELEPO_NAME_1210202^Mama Chocobo^母親陸行鳥前^엄마 초코보 앞^Maman chocobo ^Mama Chocobo^Mamá chocobo
 MST_TELEPO_NAME_1210301^Western Platform^西月台^왼쪽 홈^Plateforme ouest^Westliche Ebene^Andén oeste
 MST_TELEPO_NAME_1210302^Eastern  Platform^東月台^오른쪽 홈^Plateforme est^Östliche Ebene^Andén este
 MST_TELEPO_NAME_1210401^Entrance^入口^입구^Entrée^Eingangsbereich^Entrada
 MST_TELEPO_NAME_1210402^Residential Area^居住區入口^거주구역 입구^Quartier résidentiel^Wohnregion^Área residencial
 MST_TELEPO_NAME_900108^Room of Recollection^回憶之屋^추억의 방^Chambre du souvenir^Raum der Erinnerung^Sala de la reminiscencia
+MST_TELEPO_NAME_1310101^Entrance^入口^입구^Entrée^Eingangsbereich^Entrada
+MST_TELEPO_NAME_1310102^Castle Gate^城門前^성문 앞^Porte du château ^Schlosstor^P. del castillo
+MST_TELEPO_NAME_1310103^General Store^雜貨店^잡화 상점^Bazar^Warenhaus^Artículos varios
+MST_TELEPO_NAME_1310201^Entrance^入口^입구^Entrée^Eingangsbereich^Entrada
+MST_TELEPO_NAME_1310202^Before the King^王之間前^^Avant le roi^^Ante el rey
+MST_TELEPO_NAME_1310203^Kunshira's House^庫西拉家前^^Maison de  Kunshira^^Casa de Kunshira
+MST_TELEPO_NAME_1310301^Entrance^入口^입구^Entrée^Eingangsbereich^Entrada
+MST_TELEPO_NAME_1310302^Mama Chocobo^母親陸行鳥前^엄마 초코보 앞^Maman chocobo ^Mama Chocobo^Mamá chocobo
+MST_TELEPO_NAME_1310401^Entrance^入口^입구^Entrée^Eingangsbereich^Entrada
+MST_TELEPO_NAME_1420101^Entrance^入口^입구^Entrée^Eingangsbereich^Entrada
+MST_TELEPO_NAME_1420102^Tool Shop^道具店^도구 상점^Boutique d'outils^Werkzeugladen^Utensilios
+MST_TELEPO_NAME_1420103^Inn^旅店^여인숙^Gîte^Herberge^Posada
+MST_TELEPO_NAME_1420201^Entrance^入口^입구^Entrée^Eingangsbereich^Entrada
+MST_TELEPO_NAME_1420202^Ability Shop^能力店^어빌리티 상점^Boutique d'aptitudes^Fertigkeiten-Shop^Habilidades
+MST_TELEPO_NAME_1420203^^母親陸行鳥的住處^^Antre de maman chocobo^^Madriguera de mamá chocobo
+MST_TELEPO_NAME_1420301^Entrance^入口^입구^Entrée^Eingangsbereich^Entrada
+MST_TELEPO_NAME_1420302^Inn^旅店^여인숙^Gîte^Herberge^Posada
+MST_TELEPO_NAME_1420303^Tool Shop^道具店^도구 상점^Boutique d'outils^Werkzeugladen^Utensilios
+MST_TELEPO_NAME_1420304^Weaponsmith^武器店^무기 상점^Armurier^Waffenschmied^Armas
+MST_TELEPO_NAME_1420401^Entrance^入口^입구^Entrée^Eingangsbereich^Entrada
+MST_TELEPO_NAME_1420402^Tool Shop^道具店^도구 상점^Boutique d'outils^Werkzeugladen^Utensilios
+MST_TELEPO_NAME_1420403^Accessory Shop^首飾店^장신구 상점^Bijoutier^Accessoire-Shop^Accesorios
+MST_TELEPO_NAME_1430101^Entrance^入口^^^^Entrada

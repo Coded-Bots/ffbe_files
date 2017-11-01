@@ -28,7 +28,7 @@ MST_AREA_NAME_703^Orbonne Vaults^歐博納地下書庫^오본느 지하 서고^L
 MST_AREA_NAME_704^The Hanging Edge^封鎖區域垂落邊緣^봉쇄구역 행드 엣지^La Cité Suspendue^Bodhum^El Despeñadero
 MST_AREA_NAME_705^The Giant of Babel^巴別巨人^바빌의 거인^Le Géant de Babel^Der Gigant von Babel^El Gigante de Babel
 MST_AREA_NAME_131^Olderion Federation^聯邦國家奧爾德里昂^올데리온 연방^Fédération d'Olderion^Republik Olderion^Federación Olderion
-MST_AREA_NAME_901^Demons Unleashed^惡魔來襲^악마족 출현^Démons déchaînés^Entfesselte Dämonen^Demonios desatados
+MST_AREA_NAME_901^Onward to the Chamber of Arms^移動至十二武具之間^십이무구의 틈새로 이동^Transition vers la chambre des armes^Wechsel in die Waffenkammer^Avanzando hacia la Cámara de las reliquias
 MST_AREA_NAME_900^Expedition - Into the Abyss^高級探索·探求深淵^땅의 신전·심연으로의 탐구^Exploration PRO - Plongez dans l'Abysse^Expedition - In den Abgrund^Búsqueda en el Abismo - Exploración
 MST_AREA_NAME_141^Zoldaad Empire^佐爾達多帝國^졸다드 제국^Empire de Zoldaad^Zoldaad-Imperium^Imperio de Zoldaad
 MST_AREA_NAME_706^Akademeia^魔導院聖櫃朱雀^마도원 페리시티리움 주작^Akademeia^Akademeia^La Academia
@@ -36,7 +36,6 @@ MST_AREA_NAME_707^The Crystal Tower^水晶塔^크리스탈 타워^La Tour de Cri
 MST_AREA_NAME_708^Mana Mystery^瑪娜的巨大秘密^위대한 마나의 비밀^Le Mystère du Mana^Das Geheimnis des Mana^El misterio del Mana
 MST_AREA_NAME_709^The Big Bridge^大橋^빅 브릿지^Le Grand Pont^Die Große Brücke^Gran puente
 MST_AREA_NAME_710^Operation MA Demolition^魔導裝甲破壞指令^마도 아머 파괴 지령^Destruction de l'armure magitech^Angriff des Magitek-Mechs^Operación Demolición
-MST_AREA_NAME_711^Memories from the Aquapolis^深藏水都的思念^물의 도시에 깃든 마음^Souvenirs de la Ville Aquatique <br>^Erinnerungen aus der Aquapolis^Recuerdos de la Aquópolis
 MST_AREA_NAME_720^Grand Gaia Chronicles^格蘭蓋亞戰記^그랜가이아 전기^Chroniques de Grand Gaïa ^Chroniken von Grand Gaia^Crónicas de Gran Gaia
 MST_AREA_NAME_721^Trial of the Creator^創造神試煉^창조신의 시련^Épreuve du Créateur ^Prüfung des Schöpfers^Desafío del creador
 MST_AREA_NAME_902^Castle of the Dead^死者之城^죽음의 성^Château des morts ^Burg des Todes^Castillo de los muertos
@@ -50,8 +49,8 @@ MST_AREA_NAME_222^Vision of Bahamut^巴哈姆特的幻影^바하무트의 환영
 MST_AREA_NAME_711^Hall of Memories^記憶的迴廊^기억의 회랑^Salle des souvenirs ^Halle der Erinnerungen^Sala de los recuerdos
 MST_AREA_NAME_712^FFT Round 2^FFT（第2彈）^FFT (제2탄)^FFT 2ème partie ^FFT - Runde 2^FFT 2ª parte
 MST_AREA_NAME_713^The Dreadnought^FF2大戰艦^FF2 대전함^Le Cuirassé^Das Schlachtschiff^El Acorazado
-MST_AREA_NAME_714^NA^勇者鬥惡龍怪物仙境^NA^NA^NA^NA
-MST_AREA_NAME_715^NA^龍王挑戰^NA^NA^NA^NA
+MST_AREA_NAME_714^Monster Carnival^勇者鬥惡龍怪物仙境^^Carnaval des monstres ^^
+MST_AREA_NAME_715^Dragonlord's Challenge^龍王挑戰^^Défi du Lordragon^^
 MST_AREA_NAME_716^Metal Dungeon^金屬迷宮^메탈 던전^Donjon métallique ^Metalldungeon^Mazmorra metálica
 MST_AREA_NAME_717^Shadow of the Empire^帝國之影^제국에 드리운 그늘^L'ombre de l'Empire^Schatten des Imperiums^La sombra sobre el Imperio
 MST_AREA_NAME_718^The Battle of Judecca^朱迪卡會戰^쥬데카 전투^La bataille de Judecca^Der Kampf von Judecca^La batalla de Judecca
@@ -97,8 +96,8 @@ MST_AREA_NAME_740^The Wicked Beast Cerberus^猛獸地獄三頭犬^흉악한 마�
 MST_AREA_NAME_741^In Search of True Strength^真正的強者^쇄신의 길^À la recherche de la véritable force^Auf der Suche nach wahrer Stärke^En busca del verdadero poder
 MST_AREA_NAME_742^NA^四魔貴族 襲來！^4대 마귀족, 습격하다!^NA^NA^NA
 MST_AREA_NAME_743^Dangerous Woman Tour^Dangerous Woman Tour^Dangerous Woman Tour^Dangerous Woman Tour^Dangerous Woman Tour^Dangerous Woman Tour
-MST_AREA_NAME_744^Destroy the Reactor^魔晃爐破壞作戰^마황로 폭파 작전^Détruire le réacteur ^Zerstöre den Reaktor^Destruyendo el reactor
-MST_AREA_NAME_745^Destroy the Reactor - Exploration^魔晃爐破壞作戰・探索^마황로 폭파 작전·탐색^Détruire le réacteur - Exploration ^Zerstöre den Reaktor - Erkundung^Destruyendo el reactor - Exploración
+MST_AREA_NAME_744^Destroy the Reactor^魔晄爐破壞作戰^마황로 폭파 작전^Détruire le réacteur ^Zerstöre den Reaktor^Destruyendo el reactor
+MST_AREA_NAME_745^Destroy the Reactor - Exploration^魔晄爐破壞作戰・探索^마황로 폭파 작전·탐색^Détruire le réacteur - Exploration ^Zerstöre den Reaktor - Erkundung^Destruyendo el reactor - Exploración
 MST_AREA_NAME_746^Guardian of Order^秩序守護者^질서의 수호자^Gardien de l'ordre^Wächter des Ordens^Guardián del orden
 MST_AREA_NAME_911^The Egg Seekers^尋蛋祭^달걀 사냥꾼^Les chercheurs d'œufs^Die Eiersucher^Cazadores de huevos
 MST_AREA_NAME_912^Vision of Bahamut - Trial^巴哈姆特的幻影・試煉^바하무트의 환영·시련^Vision de Bahamut - Défi ^Vision von Bahamut - Prüfung^Visión de Bahamut - Desafío

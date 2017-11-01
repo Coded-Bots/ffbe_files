@@ -164,5 +164,21 @@ MST_MAGIC_LONGDESCRIPTION_70290^Deals lightning damage to all enemies.^對全體
 MST_MAGIC_LONGDESCRIPTION_70300^Deals lightning damage to all enemies. Power increases with use.^對全體敵人發動雷屬性攻擊。連續使用時威力上升。^적 전체에 번개속성 피해를 주고, 연속해서 사용하면 피해량이 더욱 상승합니다.^Inflige des dégâts de foudre sur tous les ennemis. Sa puissance augmente lorsqu'elle est utilisée de manière successive.^Fügt allen Gegnern Blitzschaden zu. Wird bei jeder Anwendung stärker.^Inflige daño de rayo a todos los enemigos y aumenta la potencia con el uso.
 MST_MAGIC_LONGDESCRIPTION_70310^Deals dark damage partially unaffected by DEF to all enemies and allies.^對全體敵人和隊員發動暗屬性無視部分魔法防禦的攻擊。^적과 아군 전체에 어둠속성 일부 마법방어 무시 피해를 줍니다.^Inflige des dégâts de ténèbres qui ignorent la DEF à tous les ennemis et tous les alliés.^Fügt allen Gegnern und Verbündeten direkten Dunkelschaden zu, der teilweise die ABW umgeht.^Daño absoluto parcial oscuro a todos los enemigos y aliados.
 MST_MAGIC_LONGDESCRIPTION_70320^Deals dark damage partially unaffected by DEF to all enemies.^對全體敵人發動暗屬性無視部分魔法防禦的攻擊。^적 전체에 어둠속성 일부 마법방어 무시 피해를 줍니다.^Inflige des dégâts de ténèbres qui ignorent la DEF sur tous les ennemis.^Fügt allen Gegnern Dunkelschaden zu, der die ABW umgeht.^Daño absoluto parcial oscuro a todos los enemigos.
-MST_MAGIC_SHORTDESCRIPTION_91003^Fire damage to all enemies^對全體敵人發動火屬性攻擊^적 전체에 불속성 피해^Dégâts de feu sur tous les ennemis^Feuerschaden, alle Ziele^Inflige daño de fuego a todos los enemigos.
-MST_MAGIC_SHORTDESCRIPTION_91004^Ice damage to all enemies^對全體敵人發動冰屬性攻擊^적 전체에 얼음속성 피해^Dégâts de glace sur tous les ennemis^Eisschaden, alle Ziele^Inflige daño de frío a todos los enemigos.
+MST_MAGIC_LONGDESCRIPTION_91003^Fire damage to all enemies^對全體敵人發動火屬性攻擊^적 전체에 불속성 피해^Dégâts de feu sur tous les ennemis^Feuerschaden, alle Ziele^Inflige daño de fuego a todos los enemigos.
+MST_MAGIC_LONGDESCRIPTION_91004^Ice damage to all enemies^對全體敵人發動冰屬性攻擊^적 전체에 얼음속성 피해^Dégâts de glace sur tous les ennemis^Eisschaden, alle Ziele^Inflige daño de frío a todos los enemigos.
+MST_MAGIC_LONGDESCRIPTION_10380^^^^^^
+MST_MAGIC_LONGDESCRIPTION_10390^^^^^^
+MST_MAGIC_LONGDESCRIPTION_20550^^^^^^
+MST_MAGIC_LONGDESCRIPTION_30380^^^^^^
+MST_MAGIC_LONGDESCRIPTION_30400^^^^^^
+MST_MAGIC_LONGDESCRIPTION_30440^^^^^^
+MST_MAGIC_LONGDESCRIPTION_70330^^^^^^
+MST_MAGIC_LONGDESCRIPTION_70340^^^^^^
+MST_MAGIC_LONGDESCRIPTION_70350^^^^^^
+MST_MAGIC_LONGDESCRIPTION_70360^^^^^^
+MST_MAGIC_LONGDESCRIPTION_70370^^^^^^
+MST_MAGIC_LONGDESCRIPTION_70380^^^^^^
+MST_MAGIC_LONGDESCRIPTION_70390^^^^^^
+MST_MAGIC_LONGDESCRIPTION_70400^^^^^^
+MST_MAGIC_LONGDESCRIPTION_70410^^^^^^
+MST_MAGIC_LONGDESCRIPTION_70420^^^^^^

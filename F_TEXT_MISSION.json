@@ -784,25 +784,25 @@ MST_MISSION_NAME_7130102^The Dreadnought - INT^大戰艦·中級^대전함·중�
 MST_MISSION_NAME_7130103^The Dreadnought - ADV^大戰艦·上級^대전함·상급^Le Cuirassé - PRO^Das Schlachtschiff - EXP^El Acorazado - AVA
 MST_MISSION_NAME_7130104^The Dreadnought - PRO^大戰艦·超級^대전함·최상급^Le Cuirassé - SUP^Das Schlachtschiff - PRO^El Acorazado - PRO
 MST_MISSION_NAME_7130105^The Dreadnought - ELT^大戰艦·覺醒級^대전함·각성급^Le Cuirassé - EX!^Das Schlachtschiff - ELI^El Acorazado - ÉLI
-MST_MISSION_NAME_7140101^^勇者鬥惡龍怪物仙境·初級^^^^
-MST_MISSION_NAME_7140102^^勇者鬥惡龍怪物仙境·中級^^^^
-MST_MISSION_NAME_7140103^^勇者鬥惡龍怪物仙境·上級^^^^
-MST_MISSION_NAME_7140104^^勇者鬥惡龍怪物仙境·超級^^^^
-MST_MISSION_NAME_7140105^^勇者鬥惡龍怪物仙境·覺醒級^^^^
-MST_MISSION_NAME_7150101^^龍王挑戰^^^^
-MST_MISSION_NAME_7160101^^金屬迷宮^^^^
-MST_MISSION_NAME_7160102^^金屬迷宮^^^^
-MST_MISSION_NAME_7160103^^金屬迷宮^^^^
-MST_MISSION_NAME_7160104^^金屬迷宮^^^^
-MST_MISSION_NAME_7160105^^金屬迷宮^^^^
-MST_MISSION_NAME_7160106^^金屬迷宮^^^^
-MST_MISSION_NAME_7160107^^金屬迷宮^^^^
-MST_MISSION_NAME_7160108^^金屬迷宮^^^^
-MST_MISSION_NAME_7160109^^金屬迷宮^^^^
-MST_MISSION_NAME_7160110^^金屬迷宮^^^^
-MST_MISSION_NAME_7160111^^金屬迷宮^^^^
-MST_MISSION_NAME_7160112^^金屬迷宮^^^^
-MST_MISSION_NAME_7160113^^金屬迷宮^^^^
+MST_MISSION_NAME_7140101^Monster Carnival - BGN^勇者鬥惡龍怪物仙境·初級^^Carnaval des monstres - DBT^^
+MST_MISSION_NAME_7140102^Monster Carnival - INT^勇者鬥惡龍怪物仙境·中級^^Carnaval des monstres - INT^^
+MST_MISSION_NAME_7140103^Monster Carnival - ADV^勇者鬥惡龍怪物仙境·上級^^Carnaval des monstres - PRO^^
+MST_MISSION_NAME_7140104^Monster Carnival - PRO^勇者鬥惡龍怪物仙境·超級^^Carnaval des monstres - SUP^^
+MST_MISSION_NAME_7140105^Monster Carnival - ELT^勇者鬥惡龍怪物仙境·覺醒級^^Carnaval des monstres - EX!^^
+MST_MISSION_NAME_7150101^Dragonlord's Challenge^龍王挑戰^^Défi du Lordragon^^
+MST_MISSION_NAME_7160101^Metal Dungeon^金屬迷宮^^Donjon métallique ^^
+MST_MISSION_NAME_7160102^Metal Dungeon^金屬迷宮^^Donjon métallique ^^
+MST_MISSION_NAME_7160103^Metal Dungeon^金屬迷宮^^Donjon métallique ^^
+MST_MISSION_NAME_7160104^Metal Dungeon^金屬迷宮^^Donjon métallique ^^
+MST_MISSION_NAME_7160105^Metal Dungeon^金屬迷宮^^Donjon métallique ^^
+MST_MISSION_NAME_7160106^Metal Dungeon^金屬迷宮^^Donjon métallique ^^
+MST_MISSION_NAME_7160107^Metal Dungeon^金屬迷宮^^Donjon métallique ^^
+MST_MISSION_NAME_7160108^Metal Dungeon^金屬迷宮^^Donjon métallique ^^
+MST_MISSION_NAME_7160109^Metal Dungeon^金屬迷宮^^Donjon métallique ^^
+MST_MISSION_NAME_7160110^Metal Dungeon^金屬迷宮^^Donjon métallique ^^
+MST_MISSION_NAME_7160111^Metal Dungeon^金屬迷宮^^Donjon métallique ^^
+MST_MISSION_NAME_7160112^Metal Dungeon^金屬迷宮^^Donjon métallique ^^
+MST_MISSION_NAME_7160113^Metal Dungeon^金屬迷宮^^Donjon métallique ^^
 MST_MISSION_NAME_7170101^Shadow of the Empire - BGN^帝國之影·初級^제국에 드리운 그늘·초급^L'ombre de l'Empire - DBT^Schatten des Imperiums - ANF^La sombra sobre el Imperio - PRI
 MST_MISSION_NAME_7170102^Shadow of the Empire - INT^帝國之影·中級^제국에 드리운 그늘·중급^L'ombre de l'Empire - INT^Schatten des Imperiums - FOR^La sombra sobre el Imperio - INT
 MST_MISSION_NAME_7170103^Shadow of the Empire - ADV^帝國之影·上級^제국에 드리운 그늘·상급^L'ombre de l'Empire - PRO^Schatten des Imperiums - EXP^La sombra sobre el Imperio - AVA
@@ -1207,13 +1207,13 @@ MST_MISSION_NAME_7430101^Dangerous Woman Tour - Entrance^Dangerous Woman Tour - 
 MST_MISSION_NAME_7430102^Dangerous Woman Tour - Lobby^Dangerous Woman Tour - 前廳^Dangerous Woman Tour - 로비^Dangerous Woman Tour - Hall^Dangerous Woman Tour - Lobby^Dangerous Woman Tour - Vestíbulo
 MST_MISSION_NAME_7430103^Dangerous Woman Tour - Waiting Room^Dangerous Woman Tour - 等候室^Dangerous Woman Tour - 대기실^Dangerous Woman Tour - Salle d'attente^Dangerous Woman Tour - Warteraum^Dangerous Woman Tour - Sala de espera
 MST_MISSION_NAME_7430104^Dangerous Woman Tour - Main Hall^Dangerous Woman Tour - 主廳^Dangerous Woman Tour - 공연장^Dangerous Woman Tour - Salle principale^Dangerous Woman Tour - Haupthalle^Dangerous Woman Tour - Salón principal
-MST_MISSION_NAME_7440101^Destroy the Reactor - BGN^魔晃爐破壞作戰·初級^마황로 폭파 작전·초급^Détruire le réacteur - DBT^Zerstöre den Reaktor - ANF^Destruyendo el reactor - PRI
-MST_MISSION_NAME_7440102^Destroy the Reactor - INT^魔晃爐破壞作戰·中級^마황로 폭파 작전·중급^Détruire le réacteur - INT^Zerstöre den Reaktor - FOR^Destruyendo el reactor - INT
-MST_MISSION_NAME_7440103^Destroy the Reactor - ADV^魔晃爐破壞作戰·上級^마황로 폭파 작전·상급^Détruire le réacteur - PRO^Zerstöre den Reaktor - EXP^Destruyendo el reactor - AVA
-MST_MISSION_NAME_7440104^Destroy the Reactor - PRO^魔晃爐破壞作戰·超級^마황로 폭파 작전·최상급^Détruire le réacteur - SUP^Zerstöre den Reaktor - PRO^Destruyendo el reactor - PRO
-MST_MISSION_NAME_7440105^Destroy the Reactor - ELT^魔晃爐破壞作戰·覺醒級^마황로 폭파 작전·각성급^Détruire le réacteur - EX!^Zerstöre den Reaktor - ELI^Destruyendo el reactor - ÉLI
-MST_MISSION_NAME_7450101^Destroy the Reactor - Exploration (Hard)^魔晃爐破壞作戰·探索(HARD)^마황로 폭파 작전·탐색(HARD)^Détruire le réacteur - Exploration (Difficile)^Zerstöre den Reaktor - Erkundung (Schwer)^Destruyendo el reactor - Exploración (difícil)
-MST_MISSION_NAME_7450102^Destroy the Reactor - Exploration (Easy)^魔晃爐破壞作戰·探索(EASY)^마황로 폭파 작전·탐색(EASY)^Détruire le réacteur - Exploration (Facile)^Zerstöre den Reaktor - Erkundung (Einfach)^Destruyendo el reactor - Exploración (fácil)
+MST_MISSION_NAME_7440101^Destroy the Reactor - BGN^魔晄爐破壞作戰·初級^마황로 폭파 작전·초급^Détruire le réacteur - DBT^Zerstöre den Reaktor - ANF^Destruyendo el reactor - PRI
+MST_MISSION_NAME_7440102^Destroy the Reactor - INT^魔晄爐破壞作戰·中級^마황로 폭파 작전·중급^Détruire le réacteur - INT^Zerstöre den Reaktor - FOR^Destruyendo el reactor - INT
+MST_MISSION_NAME_7440103^Destroy the Reactor - ADV^魔晄爐破壞作戰·上級^마황로 폭파 작전·상급^Détruire le réacteur - PRO^Zerstöre den Reaktor - EXP^Destruyendo el reactor - AVA
+MST_MISSION_NAME_7440104^Destroy the Reactor - PRO^魔晄爐破壞作戰·超級^마황로 폭파 작전·최상급^Détruire le réacteur - SUP^Zerstöre den Reaktor - PRO^Destruyendo el reactor - PRO
+MST_MISSION_NAME_7440105^Destroy the Reactor - ELT^魔晄爐破壞作戰·覺醒級^마황로 폭파 작전·각성급^Détruire le réacteur - EX!^Zerstöre den Reaktor - ELI^Destruyendo el reactor - ÉLI
+MST_MISSION_NAME_7450101^Destroy the Reactor - Exploration (Hard)^魔晄爐破壞作戰·探索(HARD)^마황로 폭파 작전·탐색(HARD)^Détruire le réacteur - Exploration (Difficile)^Zerstöre den Reaktor - Erkundung (Schwer)^Destruyendo el reactor - Exploración (difícil)
+MST_MISSION_NAME_7450102^Destroy the Reactor - Exploration (Easy)^魔晄爐破壞作戰·探索(EASY)^마황로 폭파 작전·탐색(EASY)^Détruire le réacteur - Exploration (Facile)^Zerstöre den Reaktor - Erkundung (Einfach)^Destruyendo el reactor - Exploración (fácil)
 MST_MISSION_NAME_7250103^Path to the Ruins^通向遺跡^유적으로 향하는 길^Chemin vers les ruines^Weg zu den Ruinen^De camino a las ruinas
 MST_MISSION_NAME_7250104^Freezing Fields^極寒雪原^극한의 설원^Champs gelés^Frierende Felder^Llanuras gélidas
 MST_MISSION_NAME_7250105^Beyond the Blowing Snows^跨越暴風雪^눈보라를 넘어서^L'autre côté de la tempête^Hinter dem Schneegestöber^Al otro lado de la ventisca
@@ -1491,7 +1491,7 @@ MST_MISSION_NAME_7460105^End of the Pursuit^追蹤結果^추적의 끝에^La fin
 MST_MISSION_NAME_7460106^The Suspect Stands Still^停下腳步的嫌犯^배회하는 용의자^Le suspect reste immobile^Der Verdächtige steht still^El sospechoso no se mueve
 MST_MISSION_NAME_7460107^King of the Tunnels^地道之王^지하도의 왕^Roi des tunnels^König der Tunnel^El rey de los túneles
 MST_MISSION_NAME_7460108^The Missing Poet^消失的詩人^사라진 시인^Le poète disparu^Der verschwundene Poet^El poeta desaparecido
-MST_MISSION_NAME_7460200^Those Who Move in the Dark^暗中活動的人們^암약하는 자들^Ceux qui se déplacent dans l'obscurité^Die sich im Dunkeln bewegen^Los que se mueven entre las sombras
+MST_MISSION_NAME_7460200^Those Who Move in the Dark^暗中活動的人們^암약하는 자들^Ceux qui se déplacent dans l'obscurité^Jene, die im Schatten handeln^Los que se mueven entre las sombras
 MST_MISSION_NAME_7460201^Amy's Realization^艾米的覺悟^에이미의 각오^La prise de conscience d'Amy^Amys Erkenntnis^El logro de Amy
 MST_MISSION_NAME_7460202^A Massive Magical Presence^強大魔力的氣息^강대한 마력의 기운^Une présence magique massive^Eine massive magische Präsenz^Una presencia mágica enorme
 MST_MISSION_NAME_7460203^The Frightened Black Mage^受驚的黑魔道士^두려움에 떠는 흑마도사^Le mage noir effrayé^Der verängstigte Schwarzmagier^El mago negro asustado
@@ -1533,7 +1533,7 @@ MST_MISSION_NAME_7460605^The Lingering Smoke^妖煙瀰漫^맴도는 요기 띤 �
 MST_MISSION_NAME_7460606^William's True Power^威廉的實力^윌리엄의 실력^Le véritable pouvoir de William^Williams wahre Macht^El verdadero poder de William
 MST_MISSION_NAME_7460607^The Corrupt Mage^墮落的魔道士^타락한 마도사^Le mage corrompue^Der korrupte Magier^El brujo corrupto
 MST_MISSION_NAME_7460608^Successful Recapture^成功奪還^탈환 성공^Capture réussie^Erfolgreiche Rückeroberung^Recaptura exitosa
-MST_MISSION_NAME_7460700^Suicide Pursuit^決死追擊^필사의 추격^Poursuite suicidaire^Selbstmordverfolgung^Persecución suicida
+MST_MISSION_NAME_7460700^Suicide Pursuit^決死追擊^필사의 추격^Poursuite suicidaire^Todesmutige Verfolgung^Persecución suicida
 MST_MISSION_NAME_7460701^Bonds of Connection^締結的羈絆^이어진 인연^Enchaîné par les liens^Starke Verbindung^Lazos que conectan
 MST_MISSION_NAME_7460702^The Shining of the Light^陽光普照^비쳐오는 태양 빛^Lumière éclatante^Das Scheinen des Lichts^El brillo de la luz
 MST_MISSION_NAME_7460703^Patient March^艱苦行軍^인내의 행군^Marche patiente^Marsch der Geduld^La marcha paciente

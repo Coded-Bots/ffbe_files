@@ -450,8 +450,8 @@ MST_MATERIA_SHORTDESCRIPTION_1500000004^Boosts SPR by 20% and boosts HP and MP b
 MST_MATERIA_SHORTDESCRIPTION_1500000005^Boost ice and wind resistance (50%) for 3 turns to all allies.^3回合內提高50%冰、風屬性耐性^3턴 동안 아군 전체의 얼음, 바람속성 저항력 50% 상승^Augm. la rés. vent/glace (50%) pendant 3 tours pour tous les alliés.^Erhöht Eis- und Windresistenz (50 %) für 3 Runden, alle Verb.^Aumenta un 50% la resistencia a hielo y viento de aliados (3 turnos)
 MST_MATERIA_SHORTDESCRIPTION_1500000007^Boost ATK and DEF by 20% and auto-regen during battle (Jack only)^提高20%攻擊與防禦的數值，戰鬥中自動附帶再生效果[傑克專用]<br>^공격력과 방어력 20% 상승+전투 중 항상 리제네 발동 [잭 전용]^Augmente l'ATT et la DEF de 20% et auto-recup durant le combat (Uniquement pour Jack)^Erhöht ANG und ABW um 20 % und Auto-Regena im Kampf. (Nur Jack)^Aumenta ATQ/DEF un 20% y otorga AutoRevitalia en combate (exclusiva de Jack)
 MST_MATERIA_SHORTDESCRIPTION_1500000008^Boost ATK by 30% and boost all elemental resistances by 20% (Trey only)^提高30%攻擊與20%全屬性耐性[托雷專用]^공격력 30% 상승+모든 속성 저항력 20% 상승 [트레이 전용]^Augmente l'ATT de 30% et toutes les résistances élémentaires de 20% (Uniquement pour Trey)^Erhöht ANG um 30 % und alle Resistenzen hoch um 20 %. (Nur Trey)^Aumenta el ATQ un 30% y aumenta todas las resistencias elementales un 20% (exclusiva de Trey)
-MST_MATERIA_SHORTDESCRIPTION_1500000009^Enable Last Stand. Boost ATK and reduce DEF (Eight only)^可以使用「誓死抵抗」+提高攻擊的數值+降低防禦的數值[艾特專用]<br>^공격력 상승+방어력 감소+'버티기' 사용 가능 [에이트 전용]^Permet d'utiliser Dernier recours. Augmente l'ATT, réduit la DEF (Uniq. pour Eight)^Ermöglicht Alles geben. Erhöht ANG und verringert ABW (Nur Eight).^Aumenta el ATQ, reduce la DEF y aprende Último aliento (exclusiva de Eight)
-MST_MATERIA_SHORTDESCRIPTION_1500000010^Enable Cheer. Boost ATK and DEF by 25% (Cinque only)^可以使用「鼓勵」+提高25%攻擊防禦的數值[莘柯專用]^공격력과 방어력 25% 상승+'격려' 사용 가능 [싱크 전용]^Permet d'utiliser Encourager. Augmente ATT/DEF de 25% (Uniq. pour Cinque)^Ermöglicht Anfeuern. Erhöht ANG und ABW um 25%.(Nur Cinque).^Aumenta el ATQ y la DEF un 25% y aprende Ánimo (exclusiva de Cinque)
+MST_MATERIA_SHORTDESCRIPTION_1500000009^Enable Last Stand. Boost ATK and reduce DEF (Eight only)^可以使用「誓死抵抗」+提高攻擊的數值+降低防禦的數值[艾特專用]<br>^공격력 상승+방어력 감소+'버티기' 사용 가능 [에이트 전용]^Permet d'utiliser Dernier recours. Augmente l'ATT, réduit la DEF (Uniq. pour Eight)^Ermöglicht Alles geben. Erhöht ANG und verringert ABW (Nur Eight).^Aumenta el ATQ, reduce la DEF (exclusiva de Eight)
+MST_MATERIA_SHORTDESCRIPTION_1500000010^Enable Cheer. Boost ATK and DEF by 25% (Cinque only)^可以使用「鼓勵」+提高25%攻擊防禦的數值[莘柯專用]^공격력과 방어력 25% 상승+'격려' 사용 가능 [싱크 전용]^Permet d'utiliser Encourager. Augmente ATT/DEF de 25% (Uniq. pour Cinque)^Ermöglicht Anfeuern. Erhöht ANG und ABW um 25%.(Nur Cinque).^Aumenta el ATQ y la DEF un 25% (exclusiva de Cinque)
 MST_MATERIA_SHORTDESCRIPTION_504209690^Boost MP by 30%, ATK by 20%, and lightning resistance by 30%^提高30%MP、20%攻擊、30%雷屬性耐性^MP 30%, 공격력 20%, 번개속성 저항력 30% 상승^Augmente les PM de 30%, l'ATT de 20% et ka rés. à la foudre de 30%^Erhöht MP um 30%, ANG um 20% und Blitzresistenz um 30 %.^Aumenta los PM un 30%, el ATQ un 20% y la resistencia a la rayo un 30%.
 MST_MATERIA_SHORTDESCRIPTION_504209940^Nullify poison^中毒無效^독 무효화^Annule poison^Annuliert Gift.^Anula veneno.
 MST_MATERIA_SHORTDESCRIPTION_504210110^Boost HP by 20% and ATK when equipped with a large sword (Not stackable)^提高20%HP + 提高裝備大劍時攻擊的數值[無法重複裝備]^HP 20% 상승+대검 장착 시 공격력 상승 [중복 장착 불가]^Augmente les PV de 20% et l'ATT lorsqu'une épée longue est équipée (non cumulable)^Erhöht ANG um 20% und LP, wenn mit Langschwert ausgerüstet. (Nicht stapelbar)^Aumenta la VIT un 20% y aumenta el ATQ al llevar una espada larga. (no acumulable)
@@ -569,4 +569,70 @@ MST_MATERIA_SHORTDESCRIPTION_1500000026^Boost HP by 15% and SPR by 5%^提高15%H
 MST_MATERIA_SHORTDESCRIPTION_1500000027^Boost ATK, HP and earth resistance^提高攻擊、HP、土屬性耐性^공격력, HP, 땅속성 저항력 상승^Augmente l'ATT, les PV et la résistance à la terre^Erhöht ANG, LP und steigert Erdresistenz.^Aumenta ATQ, VIT y res. a la tierra
 MST_MATERIA_SHORTDESCRIPTION_1500000028^Boost DEF and water resistance^提高防禦、水屬性耐性^방어력과 물속성 저항력 상승^Augmente la DEF et augmente la résistance à l'eau^Erhöht ABW und steigert Wasserresistenz.^Aumenta DEF y res. al agua
 MST_MATERIA_SHORTDESCRIPTION_1500000029^Boost MAG and MP^提高魔力、MP^마력과 MP 상승^Augmente la MAGIE et les PM^Erhöht MAG und MP.^Aumenta MAG y PM
-MST_MATERIA_SHORTDESCRIPTION_1500000031^Boost HP by 30% and boost magic damage against human, beast, avian and stone monsters (Not stackable)^提高30%HP+魔法攻擊時提高對人形系、獸人系、鳥系、岩石系魔物的傷害（無法重複裝備）^HP 30% 상승+마법공격 시 인간형, 야수형, 조류형, 암석형 마물에게 주는 피해량 상승 [중복 장착 불가]^Augmente les PV de 30% et les dégâts magiques contre les humains, les bêtes, les oiseaux, et les statues (non cumulable)^Erhöht LP um 30% und steigert mag. Schaden gegen Menschen, Bestien, Vögel und Steinmonster (Nicht stapelbar).^Aumenta VIT un 30% y potencia el daño mágico contra humanos, bestias, aves y pétreos (no acumulable)
+MST_MATERIA_SHORTDESCRIPTION_1500000031^Boost HP by 30% and boost magic damage against human, beast, avian and stone monsters (Not stackable)^提高30%HP+魔法攻擊時提高對人形系、獸人系、鳥系、岩石系魔物的傷害  [無法重複裝備]^HP 30% 상승+마법공격 시 인간형, 야수형, 조류형, 암석형 마물에게 주는 피해량 상승 [중복 장착 불가]^Augmente les PV de 30% et les dégâts magiques contre les humains, les bêtes, les oiseaux, et les statues (non cumulable)^Erhöht LP um 30% und steigert mag. Schaden gegen Menschen, Bestien, Vögel und Steinmonster (Nicht stapelbar).^Aumenta VIT un 30% y potencia el daño mágico contra humanos, bestias, aves y pétreos (no acumulable)
+MST_MATERIA_SHORTDESCRIPTION_504020270^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504218970^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504218980^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504218990^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504219000^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504219010^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504010380^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504219930^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504219940^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504219950^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504220140^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504220280^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504220290^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504220270^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504220620^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504220630^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504100020^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504220650^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504220660^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504220680^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504221550^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504221560^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504221570^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504221580^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504221590^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504221600^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504221610^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504221620^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504221630^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504221640^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504222860^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504222870^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504221650^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504221660^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504221670^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504221680^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504221690^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504221700^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504221710^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504221720^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504221730^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504221740^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504223800^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504010100^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504213980^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504223810^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504223820^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504224170^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504224190^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504224490^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504224840^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504224860^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504224870^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504224900^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504224910^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504213160^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504224920^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504224930^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504225930^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504225720^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504225890^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504213170^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504226050^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504226041^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504226031^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504226380^^^^^^
