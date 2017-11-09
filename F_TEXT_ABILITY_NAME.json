@@ -2121,15 +2121,15 @@ MST_ABILITY_NAME_214750^Dance Tune^舞曲^댄스곡^Dance^Tanzlied^Tema de baile
 MST_ABILITY_NAME_214760^Slow Ballad^抒情慢歌^발라드^Slow^Langsame Ballade^Balada lenta
 MST_ABILITY_NAME_214770^Pre-chorus^導歌^프리 코러스^Chœurs^Eingangschor^Precoro
 MST_ABILITY_NAME_214780^Frenzy^激情^열정^Frénésie ^Irre^Efusividad
-MST_ABILITY_NAME_214790^Cross-slash^兇斬^흉베기^Contre taillade niv. 1^Kreuzspalter^Corte cruzado
-MST_ABILITY_NAME_214800^Braver^勇猛烈斬^브레이버^Bravoure^Tapfer^Bravura
+MST_ABILITY_NAME_214790^Cross Slash^兇斬^흉베기^Contre taillade niv. 1^Kreuzspalter^Corte cruzado
+MST_ABILITY_NAME_214800^Brave Slash^勇猛烈斬^브레이버^Bravoure^Tapfer^Bravura
 MST_ABILITY_NAME_214810^Blade Beam^破晄擊^파황격^Contre taillade niv. 2^Klingenstrahl^Haz espada
 MST_ABILITY_NAME_214820^Climhazzard^罪惡烈斬^클라임 해저드^Climhazard^Klingenrisiko^Aerolito
-MST_ABILITY_NAME_214830^Meteorain^流星雨^메테오 레인^Météorain^Meteorregen^Ataque Meteorito
+MST_ABILITY_NAME_214830^Meteor Rain^流星雨^메테오 레인^Météorain^Meteorregen^Ataque Meteorito
 MST_ABILITY_NAME_214840^Finishing Touch^畫龍點睛^화룡점정^Finition^Letzter Schlag^Toque final
 MST_ABILITY_NAME_214850^SOLDIER 1st Class^一等戰士^솔저 클라스 1st^SOLDAT 1ère classe^SOLDAT erster Klasse^SOLDADO de 1ª clase
 MST_ABILITY_NAME_214860^Vanguard^先鋒^뱅가드^Avant-garde^Front^Vanguardia
-MST_ABILITY_NAME_214870^Jenova Cell^傑諾瓦細胞^제노바 세포^Cellules de Jénova^Jenovazelle^Células de Jénova
+MST_ABILITY_NAME_214870^Jenova Cells^傑諾瓦細胞^제노바 세포^Cellules de Jénova^Jenovazelle^Células de Jénova
 MST_ABILITY_NAME_214880^Fighting Instinct^鬥爭本能^투쟁 본능^Instinct de combat ^Kampfinstinkt^Instinto de combate
 MST_ABILITY_NAME_214890^Fossil Glare^化石眩光^석화의 눈빛^Éclair fossilisé^Fossilblick^Mirada fósil
 MST_ABILITY_NAME_214900^Withdraw^撤軍^철수^Retirer^Rückzug^Retirada
@@ -2141,7 +2141,7 @@ MST_ABILITY_NAME_214950^Preservation^維護^점검^Préservation ^Erhaltung^Pres
 MST_ABILITY_NAME_214960^Missile Shelter^導彈庇護所^미사일 셸터^Abri à missiles ^Raketenschutz^Refugio de misiles
 MST_ABILITY_NAME_214970^Booby Trap^傻瓜陷阱^부비 트랩^Piège à crétin ^Sprengfalle^Trampa traicionera
 MST_ABILITY_NAME_214980^Aggression^積極進攻^침략^Agression^Aggression^Agresión
-MST_ABILITY_NAME_214990^Buster Form^破壞者姿態^버스터 폼^Posture de casseur^Jägergestalt^Postura de espada mortal
+MST_ABILITY_NAME_214990^Buster Style^破壞者姿態^버스터 폼^Posture de casseur^Jägergestalt^Postura de espada mortal
 MST_ABILITY_NAME_215000^Shin-Doublehand^真·雙手持^진·양손 들기^Deux mains X^Shin-Doppelhand^Manodoble X
 MST_ABILITY_NAME_215010^Frozen Blade^冰凍劍^프로즌 블레이드^Lame gelée^Frierklinge^Cuchilla congelante
 MST_ABILITY_NAME_215020^Icicle Storm^冰凌風暴^아이시클 스톰^Tempête de stalactites^Eiszapfensturm^Tormenta de témpanos
@@ -2158,7 +2158,7 @@ MST_ABILITY_NAME_215120^Ice Prism^冰之棱鏡^얼음 감옥^Banquise^Eisprisma^
 MST_ABILITY_NAME_215130^Mercenary's Determination^傭兵氣概^용병의 마음가지^Détermination de mercenaire ^Söldnerbestimmung^Actitud de mercenario
 MST_ABILITY_NAME_215140^Fatigues Know-how^兵裝知識^무장 지식^Savoir de treillis ^Ermüdungswissen^Saber de uniforme
 MST_ABILITY_NAME_215150^Aurora^極光^오로라^Aurore ^Aurora^Aurora
-MST_ABILITY_NAME_215160^Desired Pretense^憧憬虛像^동경의 허상^Simulacre de désir^Erwünschter Vorwand^Sueños rotos
+MST_ABILITY_NAME_215160^Fleeting Illusion^憧憬虛像^동경의 허상^Simulacre de désir^Erwünschter Vorwand^Sueños rotos
 MST_ABILITY_NAME_215170^Petrification Resistance^石化無效^석화 무효^Rés. à la pétrification ^Versteinerungsresistenz^Anular piedra
 MST_ABILITY_NAME_215180^Ice Resistance +15%^冰屬性耐性+15%^얼음속성 저항력+15%^Rés. à la glace +15%^Eisresistenz +15%^Resistencia al hielo +15%
 MST_ABILITY_NAME_215190^Powerful^力量煥發^파워풀^Puissance^Mächtig^Poderoso
@@ -3635,6 +3635,8 @@ MST_ABILITY_NAME_910393^Grandshelt Shield^格蘭謝爾特之盾^그랑셸트의 
 MST_ABILITY_NAME_910394^Grandshelt Shield^格蘭謝爾特之盾^그랑셸트의 방패^Bouclier de Grandshelt ^Grandshelt-Schild^Escudo de Grandshelt
 MST_ABILITY_NAME_910398^Justice Guard^反射防禦^리플렉트 가드^Riposte magique^Gerechtigkeitswächter^Desquite
 MST_ABILITY_NAME_910399^Justice Guard^反射防禦^리플렉트 가드^Riposte magique^Gerechtigkeitswächter^Desquite
+MST_ABILITY_NAME_910395^Blighted Despot^旱災獨裁者^오염된 폭군^Tyran infect^Verderbter Despot^Despoinfecto
+MST_ABILITY_NAME_910396^Drowned King^洪災之王^익사한 왕^Monarque noyé^Ertrunkener König^Rey ahogado
 MST_ABILITY_NAME_910400^Poison Claw^毒爪^독 발톱^Griffe empoisonnée ^Giftklaue^Garra venenosa
 MST_ABILITY_NAME_910401^Diseased Claw^病害之爪^역병 발톱^Griffe infectée^Virusklaue^Garra enferma
 MST_ABILITY_NAME_910402^Blinding Strike^致盲打擊^암흑의 일격^Frappe aveuglante^Blendhieb^Golpe cegador
@@ -3652,9 +3654,9 @@ MST_ABILITY_NAME_910413^Hardened Carapace^硬化外殼^강화 갑피^Carapace en
 MST_ABILITY_NAME_910414^Extreme Measures^極端措施^극단의 조치^Mesures extrêmes^Extreme Maßnahmen^Medidas extremas
 MST_ABILITY_NAME_910415^Fortified Carapace^強化外殼^요새 갑피^Carapace fortifiée^Gehärteter Carapax^Caparazón fortificado
 MST_ABILITY_NAME_910416^Armored Carapace^裝甲外殼^무장 갑피^Carapace blindée^Gepanzerter Carapax^Caparazón blindado
-MST_ABILITY_NAME_910417^Collecting Water^集水^물 모으기^Collecter l'eau^Wassersammeln^Recolección acuosa
+MST_ABILITY_NAME_910417^Collecting Water^集水^물 모으기^Collecte d'eau^Wassersammeln^Recolección acuosa
 MST_ABILITY_NAME_910418^Hydro Wave^水波動^하이드로 웨이브^Vague hydraulique^Hydrowelle^Ola hidráulica
-MST_ABILITY_NAME_910419^Archfiend of Water^水之凱納槽^물의 카이나초^Monarque noyé^Elementarfürst des Wassers^Archidiablo de agua
+MST_ABILITY_NAME_910419^Archfiend of Water^水之凱納槽^물의 카이나초^Seigneur de l'eau^Elementarfürst des Wassers^Archidiablo de agua
 MST_ABILITY_NAME_910420^Final Struggle^掙扎^최후의 몸부림^Dernières forces^Letztes Aufbegehren^Batalla final
 MST_ABILITY_NAME_910421^Water Barrier^流水屏障^물의 장벽^Hydro-barrière^Wasserbarriere^Barrera acuosa
 MST_ABILITY_NAME_910422^Defensive Stance^防禦姿態^방어 태세^Cache-carapace^Muschelrückzug^Retirada al caparazón
@@ -3668,7 +3670,7 @@ MST_ABILITY_NAME_910429^Storm Ward^暴風領域^폭풍의 영역^Zone torrentiel
 MST_ABILITY_NAME_910430^Charged^充電^충전 상태^Chargé ^Geladen^Cargado
 MST_ABILITY_NAME_910431^Empress of the Winds^風之巴爾巴莉希亞^바람의 발바리시아^Impératrice des vents^Kaiserin des Windes^Emperatriz de los vientos
 MST_ABILITY_NAME_910432^Refreshing Winds^恢復之風^회복의 바람^Vents rafraîchissants^Erfrischende Winde^Vientos refrescantes
-MST_ABILITY_NAME_910433^Guardian of Zot^佐特守護者^조트의 수호자^Gardien de Zot^Wächter von Zot^Guardián de Zot
+MST_ABILITY_NAME_910433^Guardian of Zot^佐特守護者^조트의 수호자^Gardien de Zott^Wächter von Zot^Guardián de Zot
 MST_ABILITY_NAME_910434^Sunder^斬斷^천둥^Bourrasque électrique^Blitzwind^Arrasar
 MST_ABILITY_NAME_910435^Zap^迅擊^신속한 제압^Liquider^Zapp^Liquidar
 MST_ABILITY_NAME_910436^Barbariccia's Spirit^巴爾巴莉希亞之魂^발바리시아의 영혼^Esprit de Barbariccia^Barbarizias Seele^Espíritu de Barbariccia
@@ -3679,8 +3681,8 @@ MST_ABILITY_NAME_910438^Honorable fighter^堂堂正正^정정당당^Combattant r
 MST_ABILITY_NAME_910439^Cloak Closed^合上披風^망토 두르기^Cape fermée^Umhang geschlossen^Capa cerrada
 MST_ABILITY_NAME_910440^Autarch of Flame^火之盧比坎特^불의 루비칸테^Autocrate des flammes^Rubicante, der Flammenherrscher^Autarca llameante
 MST_ABILITY_NAME_910441^Cloak Open^敞開披風^망토 펼치기^Cape ouverte^Umhang geöffnet^Capa abierta
-MST_ABILITY_NAME_910442^I'll Recover You!^我來治療你們！^회복시켜주마!^Je vais te soigner !^Ich werd' dich regenerieren!^¡Te recuperaré!
-MST_ABILITY_NAME_910443^Face me!^放馬過來！^덤벼라!^Fais-moi face !^Komm nur!^¡Enfréntate a mí!
+MST_ABILITY_NAME_910442^I'll Recover You!^我來治療你們！^회복시켜주마!^Je vais te soigner !^Ich will eure Wunden heilen!^¡Te recuperaré!
+MST_ABILITY_NAME_910443^Face Me!^放馬過來！^덤벼라!^Fais-moi face !^Kommt nur!^¡Enfréntate a mí!
 MST_ABILITY_NAME_910444^Zombie Flames^燃燒殭屍^좀비 불꽃^Flammes de zombi ^Zombie-Flammen^Llamas de zombi
 MST_ABILITY_NAME_910445^Strengthen Faith^加深信念^굳건해진 믿음^Foi renforcée^Vertrauen stärken^Reforzar fe
 MST_ABILITY_NAME_910446^Pirate's Soul^海盜魂^해적 정신^Âme de pirate^Piratenseele^Alma de pirata
@@ -3777,3 +3779,15 @@ MST_ABILITY_NAME_910537^Illusion - Phantasmal Forces^幻術 - 幻影力量^마�
 MST_ABILITY_NAME_910538^Master Illusionist^幻術大師^마술의 대가^Maître illusionniste^Meisterillusionist^Maestro ilusionista
 MST_ABILITY_NAME_910539^Phantasmal Ward^幻影守護^유령의 방^Zone fantomatique^Phantasmagorischer Schutz^Guardias fantasmales
 MST_ABILITY_NAME_910540^Knight of Grandshelt^格蘭謝爾特騎士^그랑셸트의 기사^Chevalier de Grandshelt^Ritter aus Grandshelt^Caballero de Grandshelt
+MST_ABILITY_NAME_910552^Refreshing Winds^恢復之風^회복의 바람^Vents rafraîchissants^Erfrischende Winde^Vientos refrescantes
+MST_ABILITY_NAME_910553^Refreshing Winds^恢復之風^회복의 바람^Vents rafraîchissants^Erfrischende Winde^Vientos refrescantes
+MST_ABILITY_NAME_910554^Sunder^斬斷^천둥^Bourrasque électrique^Blitzwind^Arrasar
+MST_ABILITY_NAME_910555^Sunder^斬斷^천둥^Bourrasque électrique^Blitzwind^Arrasar
+MST_ABILITY_NAME_910541^Flying Petals^飛舞花瓣^꽃잎 나빌레라^Pétales volants^Blütenflug^Pétalos voladores
+MST_ABILITY_NAME_910542^Lightning Edge^雷光刃^날 선 번개^Frappe éclair^Blitzschneide^Filo relampagueante
+MST_ABILITY_NAME_910543^Solar Eclipse^日蝕^해가림^Éclipse solaire^Sonnenfinsternis^Eclipse solar
+MST_ABILITY_NAME_910544^Lunar Eclipse^月蝕^달가림^Éclipse lunaire^Mondfinsternis^Eclipse lunar
+MST_ABILITY_NAME_910545^Moonlight Fragment^月光碎片^조각달^Fragment clairdelune^Mondscheinsplitter^Fragmento de luz lunar
+MST_ABILITY_NAME_910546^Spring Haze^春霞^아지랑이 나르샤^Brume soudaine^Frühlingsdunst^Niebla primaveral
+MST_ABILITY_NAME_910547^Vivace^活力^휘모리^Vivacité^Vivace^Vivacidad
+MST_ABILITY_NAME_910548^Starlight Shower^星光雨^미리내^Douche étoilée^Sternenlichtdusche^Lluvia de estrellas

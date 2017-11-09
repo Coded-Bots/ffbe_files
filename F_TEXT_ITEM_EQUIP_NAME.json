@@ -582,7 +582,7 @@ MST_EQUIP_ITEM_NAME_302003700^collab^collab^collab^collab^collab^collab
 MST_EQUIP_ITEM_NAME_403043100^collab^collab^collab^collab^collab^collab
 MST_EQUIP_ITEM_NAME_307001700^Nail Bat^狼牙棒^못 박힌 배트^Batte cloutée^Nagelschläger^Garra
 MST_EQUIP_ITEM_NAME_409013500^Shinra Beta^神羅量產防具^신라 안식 방어구^Shinra Béta^Shinra Beta^Beta Shinra
-MST_EQUIP_ITEM_NAME_406002600^Cloud's Clothes^克勞德衣^클라우드의 옷^Tenue de Cloud^Clouds Kleidung^Ropas de Cloud
+MST_EQUIP_ITEM_NAME_406002600^Cloud's Uniform^克勞德衣^클라우드의 옷^Tenue de Cloud^Clouds Kleidung^Ropas de Cloud
 MST_EQUIP_ITEM_NAME_409013600^Marshal Glove^武術手套^통솔자의 글로브^Gant de maréchal^Marschalhandschuh^Guante de mariscal
 MST_EQUIP_ITEM_NAME_303003200^Revolving Saw^鋸劍^리볼빙 쏘우^Scie motorisée^Drehsäge^Sable motosierra
 MST_EQUIP_ITEM_NAME_403043300^Minstrel's Prayer^吟遊詩人的祈禱^음유시인의 기도^Chant de ménestrel^Bardengebet^Canto de trovador
@@ -705,6 +705,12 @@ MST_EQUIP_ITEM_NAME_1100000085^Malboro's Tentacle^毛爾波爾觸手^몰볼의 �
 MST_EQUIP_ITEM_NAME_1100000094^Malboro's Eye^毛爾波爾之眼^몰볼의 눈알^Œil de Morbol^Morbolauge^Ojo de molbol
 MST_EQUIP_ITEM_NAME_1100000095^Codex of Sword Master^劍法秘笈^검호의 비급^Codex du maître épéiste^Kodex der Schwertkunst^Códice del espadachín
 MST_EQUIP_ITEM_NAME_1100000088^Beastlord^百獸劍王^백수의 검왕^Monarque^Bestienlord^Señor de bestias
+MST_EQUIP_ITEM_NAME_1100000089^Glass Mask^玻璃面具^유리 가면^Masque de verre^Glasmaske^Máscara cristal
+MST_EQUIP_ITEM_NAME_1100000090^Diamond Shield^鑽石盾^다이아 실드^Bouclier en diamant^Diamantener Schild^Escudo diamantino
+MST_EQUIP_ITEM_NAME_1100000091^Hell Claws^地獄之爪^지옥의 발톱^Griffes infernales^Höllenklauen^Garra infernal
+MST_EQUIP_ITEM_NAME_1100000092^Gaia Hammer^大地之鎚^대지의 해머^Marteau de Gaïa^Gaias Hammer^Maza de Gaia
+MST_EQUIP_ITEM_NAME_1100000093^Shadow Dragon Scales^黑龍麟^흑룡의 비늘^Écailles du dragon obscur^Schattendrachenschuppen^Escamas de dragón sombrío
+MST_EQUIP_ITEM_NAME_1100000097^Cloak of Flame^烈焰披風^화염의 망토^Cape ardente ^Flammenumhang^Capa llameante
 MST_EQUIP_ITEM_NAME_1100000098^Fashionable Dancewear^時尚舞蹈服^멋스러운 무대의상^Tenue de danse chic^Modisches Tanzoutfit^Traje de baile fabuloso
 MST_EQUIP_ITEM_NAME_1100000099^Microphone Stand^麥克風架^마이크 스탠드^Pied de micro^Mikrofonständer^Pata de micrófono
 MST_EQUIP_ITEM_NAME_1100000100^Magical Scrunchie^奇幻髮圈^마법의 헤어 타이^Chouchou magique^Magisches Haargummi^Felpa mágica
@@ -721,3 +727,163 @@ MST_EQUIP_ITEM_NAME_1100000105^Collar of the Blessed^祝福首飾^축복받은 �
 MST_EQUIP_ITEM_NAME_1100000106^Jake's Pirate Ring^海盜戒指^제이크의 해적 반지^Anneau de pirate de Jake^Jakes Piratenring^Anillo pirata de Jake
 MST_EQUIP_ITEM_NAME_1100000108^Magical Top Hat^魔術帽^마술 모자^Chapeau magique ^Magischer Zylinder^Sombrero de copa mágico
 MST_EQUIP_ITEM_NAME_1100000112^Loren's Insignia^洛倫的徽章^로렌의 휘장^Insigne de Loren^Lorens Insignie^Insignia de Loren
+MST_EQUIP_ITEM_NAME_1100000113^Hibiscus Hairpin^扶桑花髮飾^무궁화 꽃핀^Épingle en hibiscus^Hibiskushaarnadel^Coletero de hibisco
+MST_EQUIP_ITEM_NAME_409015600^Wind-up Garuda^^^^^
+MST_EQUIP_ITEM_NAME_409015700^Wind-up Y'shtola^^^^^
+MST_EQUIP_ITEM_NAME_409015800^Wind-up Thancred^^^^^
+MST_EQUIP_ITEM_NAME_409015900^Wind-up Minfilia^^^^^
+MST_EQUIP_ITEM_NAME_409016000^Wind-up Yda^^^^^
+MST_EQUIP_ITEM_NAME_409016100^Wind-up Papalymo^^^^^
+MST_EQUIP_ITEM_NAME_409016200^Wind-up Alphinaud^^^^^
+MST_EQUIP_ITEM_NAME_304002100^Murasame+^^^^^
+MST_EQUIP_ITEM_NAME_312001900^Killer Bow+^^^^^
+MST_EQUIP_ITEM_NAME_407002400^Force Armor+^^^^^
+MST_EQUIP_ITEM_NAME_310003100^Bone Rod^^^^^
+MST_EQUIP_ITEM_NAME_305002100^King of Beasts^^^^^
+MST_EQUIP_ITEM_NAME_409016300^Fury Ring^^^^^
+MST_EQUIP_ITEM_NAME_409016400^Alexandrite Ring^^^^^
+MST_EQUIP_ITEM_NAME_409016500^Feral Horn^^^^^
+MST_EQUIP_ITEM_NAME_404002500^Lise's Crown^^^^^
+MST_EQUIP_ITEM_NAME_301002400^Deathstroke^^^^^
+MST_EQUIP_ITEM_NAME_309002100^Holy Gloves^^^^^
+MST_EQUIP_ITEM_NAME_403043700^Charlotte's Cap^^^^^
+MST_EQUIP_ITEM_NAME_405004200^Hawk's Clothes^^^^^
+MST_EQUIP_ITEM_NAME_409016600^Draupnir^^^^^
+MST_EQUIP_ITEM_NAME_407002500^Shadow Mail^^^^^
+MST_EQUIP_ITEM_NAME_302004100^Rusted Sword^^^^^
+MST_EQUIP_ITEM_NAME_308003200^Dragon's Hair^^^^^
+MST_EQUIP_ITEM_NAME_308003300^Dragon's Hair - Replica^^^^^
+MST_EQUIP_ITEM_NAME_302004200^Ryumiel^^^^^
+MST_EQUIP_ITEM_NAME_405004300^Butler's Uniform^^^^^
+MST_EQUIP_ITEM_NAME_403043800^Hairpin of Purity^^^^^
+MST_EQUIP_ITEM_NAME_409016700^Sash of Restraint^^^^^
+MST_EQUIP_ITEM_NAME_304002200^Himonto^^^^^
+MST_EQUIP_ITEM_NAME_404002600^Aranea's Helm^^^^^
+MST_EQUIP_ITEM_NAME_313003000^Valiant II^^^^^
+MST_EQUIP_ITEM_NAME_409016800^A1-Class Powershield^^^^^
+MST_EQUIP_ITEM_NAME_308003400^Precision Lance^^^^^
+MST_EQUIP_ITEM_NAME_405004400^Assist Suit^^^^^
+MST_EQUIP_ITEM_NAME_406003000^Chobham Armor^^^^^
+MST_EQUIP_ITEM_NAME_313003100^Valiant^^^^^
+MST_EQUIP_ITEM_NAME_308003500^Stoss Spear^^^^^
+MST_EQUIP_ITEM_NAME_407002600^Iron Colossus^^^^^Coloso férreo
+MST_EQUIP_ITEM_NAME_302004300^Chaos Blade^^^^^
+MST_EQUIP_ITEM_NAME_402002300^Zodiac Escutcheon^^^^^
+MST_EQUIP_ITEM_NAME_302004400^Death Trap^^^^^
+MST_EQUIP_ITEM_NAME_409016900^Judge Master Cloak^^^^^
+MST_EQUIP_ITEM_NAME_405004500^Basch's Uniform^^^^^
+MST_EQUIP_ITEM_NAME_407002700^Shield Armor^^^^^
+MST_EQUIP_ITEM_NAME_409017000^Wargod's Band^^^^^
+MST_EQUIP_ITEM_NAME_301002500^Highway Star^^^^^
+MST_EQUIP_ITEM_NAME_302004500^Rock Saber^^^^^
+MST_EQUIP_ITEM_NAME_308003600^Beast Piercer^^^^^
+MST_EQUIP_ITEM_NAME_408002800^Sun Robe^^^^^
+MST_EQUIP_ITEM_NAME_409017100^Solar Bangle^^^^^
+MST_EQUIP_ITEM_NAME_409017200^ABS Ring^^^^^
+MST_EQUIP_ITEM_NAME_407002800^Ozetta's Armor^^^^^
+MST_EQUIP_ITEM_NAME_409017300^Pioneer's Gloves^^^^^
+MST_EQUIP_ITEM_NAME_403043900^Crown of the Covenant^^^^^
+MST_EQUIP_ITEM_NAME_307002000^Fangbreaker^^^^^
+MST_EQUIP_ITEM_NAME_306001900^Thor's Hammer^^^^^
+MST_EQUIP_ITEM_NAME_306002000^Thor's Hammer - Replica^^^^^
+MST_EQUIP_ITEM_NAME_302004600^Night Emperor^^^^^
+MST_EQUIP_ITEM_NAME_408002900^Vestal Garb^^^^^
+MST_EQUIP_ITEM_NAME_403044100^Bunny Headband^^^^^
+MST_EQUIP_ITEM_NAME_304002300^Ise-no-Kami^^^^^
+MST_EQUIP_ITEM_NAME_409017500^Magnolia's Flower^^^^^
+MST_EQUIP_ITEM_NAME_302004700^Darkbringer^^^^^
+MST_EQUIP_ITEM_NAME_409017600^Tactical Manual^^^^^
+MST_EQUIP_ITEM_NAME_311003100^Yggdrasil Staff^^^^^
+MST_EQUIP_ITEM_NAME_303003800^Dragvandil^^^^^
+MST_EQUIP_ITEM_NAME_301002600^Sweet Kiss^^^^^
+MST_EQUIP_ITEM_NAME_408003000^Magnolia's Uniform^^^^^
+MST_EQUIP_ITEM_NAME_402002400^Grand M.'s Shield^^^^^
+MST_EQUIP_ITEM_NAME_403044000^Sitting Moogle^^^^^
+MST_EQUIP_ITEM_NAME_404002700^Alterdragon Crown^^^^^
+MST_EQUIP_ITEM_NAME_407002900^Alterdragon Uniform^^^^^
+MST_EQUIP_ITEM_NAME_302004800^Chocobo Wing^^^^^
+MST_EQUIP_ITEM_NAME_301002700^Chocobo Claw^^^^^
+MST_EQUIP_ITEM_NAME_312002000^Chocobo Mace^^^^^
+MST_EQUIP_ITEM_NAME_310003200^Chocobo Feather^^^^^
+MST_EQUIP_ITEM_NAME_311003200^Chocobo Memoria^^^^^
+MST_EQUIP_ITEM_NAME_404002800^Dragoon Helmet^^^^^
+MST_EQUIP_ITEM_NAME_405004600^Vishnu Vest^^^^^
+MST_EQUIP_ITEM_NAME_306002100^Frying Pan^^^^^
+MST_EQUIP_ITEM_NAME_409017700^Carnelian Signet^^^^^
+MST_EQUIP_ITEM_NAME_306002200^Rock Hammer^^^^^
+MST_EQUIP_ITEM_NAME_309002200^Reflect Knuckle^^^^^
+MST_EQUIP_ITEM_NAME_402002500^Cerulean Shield^^^^^
+MST_EQUIP_ITEM_NAME_407003000^Dual Armor^^^^^
+MST_EQUIP_ITEM_NAME_409017800^Aquamarine Ring^^^^^
+MST_EQUIP_ITEM_NAME_302004900^Enhancer+^^^^^Artífice+
+MST_EQUIP_ITEM_NAME_409017900^Invigorator^^^^^
+MST_EQUIP_ITEM_NAME_305002200^Refined Engine Axe^^^^^
+MST_EQUIP_ITEM_NAME_409018000^Killian's Scarf^^^^^
+MST_EQUIP_ITEM_NAME_308003700^Crimson Blood^^^^^
+MST_EQUIP_ITEM_NAME_301002800^Training Dagger^^^^^
+MST_EQUIP_ITEM_NAME_409018100^Patchwork Bear^^^^^
+MST_EQUIP_ITEM_NAME_408003100^Robe of Vigor^^^^^
+MST_EQUIP_ITEM_NAME_314001300^Tamer's Whip^^^^^
+MST_EQUIP_ITEM_NAME_309002300^Tamer's Gloves^^^^^
+MST_EQUIP_ITEM_NAME_301002900^Secret Knife^^^^^
+MST_EQUIP_ITEM_NAME_409018200^Water Choker^^^^^
+MST_EQUIP_ITEM_NAME_311003300^Staff of Resentment^^^^^
+MST_EQUIP_ITEM_NAME_403044200^Black Bandana^^^^^
+MST_EQUIP_ITEM_NAME_403044300^Crown of Justice^^^^^
+MST_EQUIP_ITEM_NAME_304002400^Sasuke^^^^^
+MST_EQUIP_ITEM_NAME_304002500^Sasuke - Replica^^^^^
+MST_EQUIP_ITEM_NAME_304002600^Masamune^^^^^
+MST_EQUIP_ITEM_NAME_309002400^Claws of Darkness^^^^^
+MST_EQUIP_ITEM_NAME_409018300^Fairy's Scrunchie^^^^^
+MST_EQUIP_ITEM_NAME_406003100^Sephiroth's Coat^^^^^
+MST_EQUIP_ITEM_NAME_405004700^Local Guide's Clothes^^^^^
+MST_EQUIP_ITEM_NAME_409018400^Touph Ring^^^^^
+MST_EQUIP_ITEM_NAME_315021800^Twin Viper^^^^^
+MST_EQUIP_ITEM_NAME_313003200^Enemy Launcher^^^^^
+MST_EQUIP_ITEM_NAME_409018500^Bomb Ring^^^^^Anillo de bom
+MST_EQUIP_ITEM_NAME_316001200^Dust Horn^^^^^
+MST_EQUIP_ITEM_NAME_304002700^Right Blade^^^^^
+MST_EQUIP_ITEM_NAME_406003200^Arenalorika^^^^^
+MST_EQUIP_ITEM_NAME_409018600^Rhinestone Ring^^^^^
+MST_EQUIP_ITEM_NAME_313003300^Blaster^^^^^
+MST_EQUIP_ITEM_NAME_314001400^Slaying Tail^^^^^
+MST_EQUIP_ITEM_NAME_409018700^Jeweled Belt^^^^^
+MST_EQUIP_ITEM_NAME_408003200^Strategic Cape^^^^^
+MST_EQUIP_ITEM_NAME_303003900^Lotus Blade Agni^^^^^
+MST_EQUIP_ITEM_NAME_305002300^Thunder Axe Keraunos^^^^^
+MST_EQUIP_ITEM_NAME_310003300^Gale Rod^^^^^
+MST_EQUIP_ITEM_NAME_409018800^Merald's Belt^^^^^
+MST_EQUIP_ITEM_NAME_301003100^Assassin Dagger^^^^^
+MST_EQUIP_ITEM_NAME_301003200^Assassin Dagger - Replica^^^^^
+MST_EQUIP_ITEM_NAME_302005000^Holy Sword Farwell^^^^^
+MST_EQUIP_ITEM_NAME_309002500^Fallen Hope^^^^^
+MST_EQUIP_ITEM_NAME_409018900^Millie's Pendant^^^^^
+MST_EQUIP_ITEM_NAME_409019000^Tri-emblem^^^^^
+MST_EQUIP_ITEM_NAME_312002100^Gale Moon^^^^^
+MST_EQUIP_ITEM_NAME_304002800^Kogarasumaru^^^^^
+MST_EQUIP_ITEM_NAME_313003400^Scarlet Roses^^^^^
+MST_EQUIP_ITEM_NAME_406003300^Riot Gear^^^^^
+MST_EQUIP_ITEM_NAME_301003000^Takemikazuchi^^^^^
+MST_EQUIP_ITEM_NAME_302005100^Steel Pipe^^^^^
+MST_EQUIP_ITEM_NAME_310003400^Wizard Rod+^^^^^Vara de brujo+
+MST_EQUIP_ITEM_NAME_311003400^Bone Staff^^^^^
+MST_EQUIP_ITEM_NAME_401002100^Wind Buckler^^^^^
+MST_EQUIP_ITEM_NAME_409019100^Sphene Ring^^^^^
+MST_EQUIP_ITEM_NAME_304002900^Goho Katana^^^^^
+MST_EQUIP_ITEM_NAME_316001300^Gaia Ocarina^^^^^
+MST_EQUIP_ITEM_NAME_402002600^Shield of Grandshelt^^^^^
+MST_EQUIP_ITEM_NAME_403044400^Microchu Cap^^^^^
+MST_EQUIP_ITEM_NAME_408003300^Cure Robe^^^^^
+MST_EQUIP_ITEM_NAME_403044500^Royal Crown^^^^^
+MST_EQUIP_ITEM_NAME_403044600^Royal Crown - Replica^^^^^
+MST_EQUIP_ITEM_NAME_313003500^Zile Cannon^^^^^
+MST_EQUIP_ITEM_NAME_409019200^Sophia's First-aid Kit^^^^^
+MST_EQUIP_ITEM_NAME_316001400^Nymph Harp^^^^^
+MST_EQUIP_ITEM_NAME_403044700^Bomber's Bicorne^^^^^
+MST_EQUIP_ITEM_NAME_313003600^Brontes^^^^^
+MST_EQUIP_ITEM_NAME_1100000114^Kitty Headband^^^^^
+MST_EQUIP_ITEM_NAME_1100000115^Cloak of Resentment^^^^^
+MST_EQUIP_ITEM_NAME_1100000116^Sparkling Heels^^^^^
+MST_EQUIP_ITEM_NAME_1100000117^Evil Pipe^^^^^
+MST_EQUIP_ITEM_NAME_1100000118^Pink Striped Float^^^^^
+MST_EQUIP_ITEM_NAME_1100000119^Luxurious Feather Boa^^^^^

@@ -1192,5 +1192,23 @@
         "3rXE9wdp": "70001103", 
         "7WYvz1Ep": "70012", 
         "G4L0YIB2": "FF3 Currency+100%"
+    }, 
+    {
+        "25oxcKwN": "50", 
+        "3rXE9wdp": "70001201", 
+        "7WYvz1Ep": "70013", 
+        "G4L0YIB2": "FF4 Currency+50%"
+    }, 
+    {
+        "25oxcKwN": "75", 
+        "3rXE9wdp": "70001202", 
+        "7WYvz1Ep": "70013", 
+        "G4L0YIB2": "FF4 Currency+75%"
+    }, 
+    {
+        "25oxcKwN": "100", 
+        "3rXE9wdp": "70001203", 
+        "7WYvz1Ep": "70013", 
+        "G4L0YIB2": "FF4 Currency+100%"
     }
 ]

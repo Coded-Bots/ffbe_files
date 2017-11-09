@@ -51552,6 +51552,222 @@
         "qo3PECw6": "9001705"
     }, 
     {
+        "6uvHX2JG": "FF4・初級", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "90018010", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "20:101000200:1", 
+        "qo3PECw6": "9001801"
+    }, 
+    {
+        "6uvHX2JG": "FF4・初級", 
+        "G4L0YIB2": "No limit bursts", 
+        "Pzn5h0Ga": "17", 
+        "V36ygRYs": "90018011", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9001801"
+    }, 
+    {
+        "6uvHX2JG": "FF4・初級", 
+        "G4L0YIB2": "No continue", 
+        "Pzn5h0Ga": "38", 
+        "V36ygRYs": "90018012", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9001801"
+    }, 
+    {
+        "6uvHX2JG": "FF4・初級", 
+        "G4L0YIB2": "Clear without an ally being KO", 
+        "Pzn5h0Ga": "33", 
+        "V36ygRYs": "90018013", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9001801"
+    }, 
+    {
+        "6uvHX2JG": "FF4・中級", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "90018020", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "20:106000100:1", 
+        "qo3PECw6": "9001802"
+    }, 
+    {
+        "6uvHX2JG": "FF4・中級", 
+        "G4L0YIB2": "Deal Fire Damage", 
+        "Pzn5h0Ga": "26:1", 
+        "V36ygRYs": "90018021", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9001802"
+    }, 
+    {
+        "6uvHX2JG": "FF4・中級", 
+        "G4L0YIB2": "No limit bursts", 
+        "Pzn5h0Ga": "17", 
+        "V36ygRYs": "90018022", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9001802"
+    }, 
+    {
+        "6uvHX2JG": "FF4・中級", 
+        "G4L0YIB2": "Clear without an ally being KO", 
+        "Pzn5h0Ga": "33", 
+        "V36ygRYs": "90018023", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9001802"
+    }, 
+    {
+        "6uvHX2JG": "FF4・上級", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "90018030", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "20:102007100:1", 
+        "qo3PECw6": "9001803"
+    }, 
+    {
+        "6uvHX2JG": "FF4ｷ??", 
+        "G4L0YIB2": "Deal Ice and Fire Damage", 
+        "Pzn5h0Ga": "26:2,26:1", 
+        "V36ygRYs": "90018031", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9001803"
+    }, 
+    {
+        "6uvHX2JG": "FF4・上級", 
+        "G4L0YIB2": "No Item", 
+        "Pzn5h0Ga": "1", 
+        "V36ygRYs": "90018032", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9001803"
+    }, 
+    {
+        "6uvHX2JG": "FF4・上級", 
+        "G4L0YIB2": "Clear without an ally being KO", 
+        "Pzn5h0Ga": "33", 
+        "V36ygRYs": "90018033", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9001803"
+    }, 
+    {
+        "6uvHX2JG": "FF4・超級", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "90018040", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "20:101003100:1", 
+        "qo3PECw6": "9001804"
+    }, 
+    {
+        "6uvHX2JG": "FF4・超級", 
+        "G4L0YIB2": "Use 3 or more Magic", 
+        "Pzn5h0Ga": "41:2", 
+        "V36ygRYs": "90018041", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9001804"
+    }, 
+    {
+        "6uvHX2JG": "FF4・超級", 
+        "G4L0YIB2": "Use LB", 
+        "Pzn5h0Ga": "16", 
+        "V36ygRYs": "90018042", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9001804"
+    }, 
+    {
+        "6uvHX2JG": "FF4・超級", 
+        "G4L0YIB2": "Clear without an ally being KO", 
+        "Pzn5h0Ga": "33", 
+        "V36ygRYs": "90018043", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9001804"
+    }, 
+    {
+        "6uvHX2JG": "FF4・覚醒級", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "90018050", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "50:1:20", 
+        "qo3PECw6": "9001805"
+    }, 
+    {
+        "6uvHX2JG": "FF4・覚醒級", 
+        "G4L0YIB2": "Part of 4 or less", 
+        "Pzn5h0Ga": "35:4", 
+        "V36ygRYs": "90018051", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "22:504101500:1", 
+        "qo3PECw6": "9001805"
+    }, 
+    {
+        "6uvHX2JG": "FF4・覚醒級", 
+        "G4L0YIB2": "Use LB two or more times", 
+        "Pzn5h0Ga": "49:1", 
+        "V36ygRYs": "90018052", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9001805"
+    }, 
+    {
+        "6uvHX2JG": "FF4・覚醒級", 
+        "G4L0YIB2": "Clear without an ally being KO", 
+        "Pzn5h0Ga": "33", 
+        "V36ygRYs": "90018053", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9001805"
+    }, 
+    {
+        "6uvHX2JG": "FF4 Trial", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "90019010", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "50:0:100:100", 
+        "qo3PECw6": "9001901"
+    }, 
+    {
+        "6uvHX2JG": "FF4 Trial", 
+        "G4L0YIB2": "Finish Golbez with an Esper", 
+        "Pzn5h0Ga": "32:900010570:900010281:1", 
+        "V36ygRYs": "90019011", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "21:1100000093:1", 
+        "qo3PECw6": "9001901"
+    }, 
+    {
+        "6uvHX2JG": "FF4 Trial", 
+        "G4L0YIB2": "Use an LB", 
+        "Pzn5h0Ga": "16", 
+        "V36ygRYs": "90019012", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "23:50:2:100", 
+        "qo3PECw6": "9001901"
+    }, 
+    {
+        "6uvHX2JG": "FF4 Trial", 
+        "G4L0YIB2": "Part of 5 or less", 
+        "Pzn5h0Ga": "35:5", 
+        "V36ygRYs": "90019013", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "10:904000104:1:100:1:0:100000001", 
+        "qo3PECw6": "9001901"
+    }, 
+    {
         "6uvHX2JG": "Festival of the Autumn Moon 2017 INT", 
         "G4L0YIB2": "Complete the quest", 
         "Pzn5h0Ga": "68", 

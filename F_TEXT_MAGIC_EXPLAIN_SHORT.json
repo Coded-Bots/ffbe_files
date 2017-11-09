@@ -166,19 +166,19 @@ MST_MAGIC_SHORTDESCRIPTION_70310^Deal partial unmitigated dark damage on all ene
 MST_MAGIC_SHORTDESCRIPTION_70320^Deal partial unmitigated dark damage on all enemies^對全體敵人發動暗屬性無視部分魔法防禦的攻擊^적 전체에 어둠속성 일부 마법방어 무시 피해^Inflige des dégâts de ténèbres en partie fixes sur tous les ennemis^Teilweise direkter Dunkelschaden, alle Gegner.^Daño absoluto parcial oscuro a todos los enemigos
 MST_MAGIC_SHORTDESCRIPTION_91003^Fire damage to all enemies^對全體敵人發動火屬性攻擊^적 전체에 불속성 피해^Dégâts de feu sur tous les ennemis^Feuerschaden, alle Ziele^Inflige daño de fuego a todos los enemigos.
 MST_MAGIC_SHORTDESCRIPTION_91004^Ice damage to all enemies^對全體敵人發動冰屬性攻擊^적 전체에 얼음속성 피해^Dégâts de glace sur tous les ennemis^Eisschaden, alle Ziele^Inflige daño de frío a todos los enemigos.
-MST_MAGIC_SHORTDESCRIPTION_10380^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_10390^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_20550^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_30380^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_30400^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_30440^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_70330^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_70340^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_70350^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_70360^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_70370^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_70380^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_70390^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_70400^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_70410^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_70420^^^^^^
+MST_MAGIC_SHORTDESCRIPTION_10380^^持續恢復1名隊員的MP^^^^
+MST_MAGIC_SHORTDESCRIPTION_10390^^治療1名隊員的中毒失明睡眠沉默石化狀態^^^^
+MST_MAGIC_SHORTDESCRIPTION_20550^^對1名敵人發動冰屬性攻擊+連續使用時威力上升^^^^
+MST_MAGIC_SHORTDESCRIPTION_30380^^降低全體敵人火屬性耐性的數值^^^^
+MST_MAGIC_SHORTDESCRIPTION_30400^^降低全體敵人雷屬性耐性的數值^^^^
+MST_MAGIC_SHORTDESCRIPTION_30440^^降低全體敵人光屬性耐性的數值^^^^
+MST_MAGIC_SHORTDESCRIPTION_70330^Light damage to all enemies^對全體敵人發動光屬性攻擊^적 전체에 빛속성 피해^Dégâts de lumière sur tous les ennemis ^Lichtschaden, alle Ziele^Inflige daño de luz a todos los enemigos.
+MST_MAGIC_SHORTDESCRIPTION_70340^Light damage to all enemies^對全體敵人發動光屬性攻擊^적 전체에 빛속성 피해^Dégâts de lumière sur tous les ennemis ^Lichtschaden, alle Ziele^Inflige daño de luz a todos los enemigos.
+MST_MAGIC_SHORTDESCRIPTION_70350^^對1名敵人發動火屬性攻擊+降低水屬性耐性的數值^^^^
+MST_MAGIC_SHORTDESCRIPTION_70360^^對1名敵人發動火屬性攻擊+降低火水屬性耐性的數值^^^^
+MST_MAGIC_SHORTDESCRIPTION_70370^^對1名敵人發動火屬性攻擊+提高自身魔力的數值^^^^
+MST_MAGIC_SHORTDESCRIPTION_70380^^對1名敵人發動火屬性攻擊+提高自身魔力的數值^^^^
+MST_MAGIC_SHORTDESCRIPTION_70390^^對1名敵人發動冰屬性攻擊+持續恢復自身MP^^^^
+MST_MAGIC_SHORTDESCRIPTION_70400^^對1名敵人發動冰屬性攻擊+持續恢復自身MP^^^^
+MST_MAGIC_SHORTDESCRIPTION_70410^^對全體敵人發動暗屬性攻擊+降低攻擊防禦魔力精神的數值^^^^
+MST_MAGIC_SHORTDESCRIPTION_70420^^對全體敵人發動暗屬性攻擊+降低攻擊防禦魔力精神、全屬性耐性的數值^^^^

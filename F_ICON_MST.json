@@ -2120,6 +2120,16 @@
         "qtkvrS60": "global_spd_bn_list_00018.png"
     }, 
     {
+        "0HUPxDf1": "9000017", 
+        "G4L0YIB2": "Tower of Zot", 
+        "qtkvrS60": "global_spd_bn_list_00016.png"
+    }, 
+    {
+        "0HUPxDf1": "9000018", 
+        "G4L0YIB2": "Golbez", 
+        "qtkvrS60": "global_spd_bn_list_00017.png"
+    }, 
+    {
         "0HUPxDf1": "9000023", 
         "G4L0YIB2": "Festival of the Autumn Moon", 
         "qtkvrS60": "global_spd_bn_list_00020.png"
@@ -9225,6 +9235,31 @@
         "qtkvrS60": "global_equip_10026.png"
     }, 
     {
+        "0HUPxDf1": "1100000089", 
+        "G4L0YIB2": "Glass Mask", 
+        "qtkvrS60": "global_equip_10027.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000090", 
+        "G4L0YIB2": "Diamond Shield", 
+        "qtkvrS60": "global_equip_10028.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000091", 
+        "G4L0YIB2": "Hell Claws", 
+        "qtkvrS60": "global_equip_10029.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000092", 
+        "G4L0YIB2": "Gaia Hammer", 
+        "qtkvrS60": "global_equip_10030.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000093", 
+        "G4L0YIB2": "Shadow Dragon Scale", 
+        "qtkvrS60": "global_equip_10031.png"
+    }, 
+    {
         "0HUPxDf1": "1100000094", 
         "G4L0YIB2": "Marlboro eye", 
         "qtkvrS60": "global_equip_10037.png"
@@ -9238,6 +9273,11 @@
         "0HUPxDf1": "1100000096", 
         "G4L0YIB2": "Full Moon", 
         "qtkvrS60": "global_materia_1500000013.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000097", 
+        "G4L0YIB2": "Cloak of Flames", 
+        "qtkvrS60": "global_equip_10040.png"
     }, 
     {
         "0HUPxDf1": "1100000098", 
@@ -9528,6 +9568,11 @@
         "0HUPxDf1": "1209000833", 
         "G4L0YIB2": "FF15KG 髪飾り", 
         "qtkvrS60": "item_9134.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000834", 
+        "G4L0YIB2": "Magma Rock Fragments", 
+        "qtkvrS60": "global_item_10137.png"
     }, 
     {
         "0HUPxDf1": "1209000835", 

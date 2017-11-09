@@ -581,8 +581,8 @@ MST_EQUIP_ITEM_SHORTDESCRIPTION_303003100^NA^輕巧的聖王遺劍^NA^NA^NA^NA
 MST_EQUIP_ITEM_SHORTDESCRIPTION_302003700^NA^英雄阿爾·阿瓦德使用的彎刀^NA^NA^NA^NA
 MST_EQUIP_ITEM_SHORTDESCRIPTION_403043100^NA^正義的英雄怪傑羅賓的假面^NA^NA^NA^NA
 MST_EQUIP_ITEM_SHORTDESCRIPTION_307001700^A mysterious weapon brought from the Farplane.^來自異界的神奇武器^이계에서 유입된 수수께끼의 무기^Une arme mystérieuse venant de l'Au-delà.^Eine mysteriöse Waffe aus dem Abyssum.^Un arma misteriosa del Etéreo.
-MST_EQUIP_ITEM_SHORTDESCRIPTION_409013500^A mass-produced protector brought from the Farplane.^來自異界的量產型防具^이계에서 유입된 양산형 방어구^Des protections produites en masse venant de l'Au-delà.^Ein massenweise hergestellter Beschützer aus dem Abyssum.^Un protector fabricado en masa del Etéreo.
-MST_EQUIP_ITEM_SHORTDESCRIPTION_406002600^The clothes of a "former soldier" from another world.^異界「前戰士」的服裝^이계의 '전 솔져'가 입던 옷^Les vêtements d'un "ancien soldat" d'un autre monde.^Die Kleidung eines "ehemaligen Soldaten" aus einer anderen Welt.^La ropa de un "antiguo soldado" de otro mundo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409013500^A mass-produced armlet brought from the Farplane.^來自異界的量產型防具^이계에서 유입된 양산형 방어구^Des protections produites en masse venant de l'Au-delà.^Ein massenweise hergestellter Beschützer aus dem Abyssum.^Un protector fabricado en masa del Etéreo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_406002600^The uniform of a former SOLDIER, a warrior from the Farplane.^異界「前戰士」的服裝^이계의 '전 솔져'가 입던 옷^Les vêtements d'un "ancien soldat" d'un autre monde.^Die Kleidung eines "ehemaligen Soldaten" aus einer anderen Welt.^La ropa de un "antiguo soldado" de otro mundo.
 MST_EQUIP_ITEM_SHORTDESCRIPTION_409013600^A pair of illusive gloves come across by one talented in the art of war.^只有武藝高超的人才能得到的幻之護手^무예에 재능있는 자만이 만날 수 있는 환상의 장갑^Une paire de gants fantomatiques qui aurait été portée par ceux doués dans l'art de la guerre.^Ein Paar trügerischer Handschuhe von jemanden, der die Kriegskunst beherrscht.^Un par de guantes ilusorios que se encontró alguien versado en el arte de la guerra.
 MST_EQUIP_ITEM_SHORTDESCRIPTION_303003200^A treasured sword around which countless teeth revolve.^有無數鋸齒在周圍旋轉的寶劍^무수히 많은 톱날이 주변을 회전하는 보검^Une épée de grande valeur entourée d'innombrables dents.^Ein begehrtes Schwert mit vielen Zähnen.^Una preciada espada que muchos cambiarían por su propia madre.
 MST_EQUIP_ITEM_SHORTDESCRIPTION_403043300^A hair ornament infused with the prayers of a bard.^飽含吟遊詩人的祝福的髮飾^음유시인의 기도가 담긴 머리 장식^Une parure de cheveux imprégnée des prières d'un barde.^Ein Haarschmuck verwoben mit dem Gebet eines Barden.^Un ornamento para el pelo imbuido con las plegarias de un bardo.
@@ -716,6 +716,7 @@ MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000099^Just an ordinary-looking microphone s
 MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000100^A colorful accessory to keep one’s hair neat and tidy.^色彩繽紛的飾品，用於梳整頭髮^머리를 단정하게 정리할 수 있는 화려한 머리끈.^Un accessoire qui permet de garder les cheveux toujours bien coiffé.^Ein farbenfrohes Accessoire, um Haare adrett und ordentliches zu halten.^Un accesorio de colores que ayuda a mantener un cabello estupendo y arreglado.
 MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000101^A mace with the power of serpent. ^含有巨蛇之力的權杖^거대한 뱀의 힘이 깃든 곤봉.^Une massue aux pouvoirs de serpent.^Ein Streitkolben mit der Kraft einer Schlange.^Una maza con el poder de las serpientes.
 MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000107^A pom pom made of metallic strips of paper.^由紙條狀金蔥製成的彩球^금속처럼 빛나는 질감의 종이로 만든 응원용 폼폼.^Un pompon fait de bandes métalliques de papier.^Ein Pompon, der aus metallischen Papierstreifen gemacht wurde.^Un pompón hecho con tiras de papel plateadas.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000097^A Cloak owned by an archfiend, he has a strong sense of honor and fair play, unlike his other peers.^一位魔王曾經持有的披風，該魔王做事公平，享有各種榮譽^사천왕 중 한 명이 한때 소유하고 있었던 망토. 다른 동료들과는 다르게, 그는 비겁한 짓을 좋아하지 않는 등 올바른 도덕관념을 가졌다.^Une cape qui appartenait à un démon qui, contrairement à ses congénères, possédait un grand sens de l'honneur et du fair-play.^Ein Umhang, der einem Elementarfürsten gehört. Anders als seinesgleichen, besitzt er ein starkes Ehrgefühl und Anstand.^Una capa que perteneció a un archidiablo. A diferencia de su estirpe, este tiene un firme sentido del honor y del juego limpio.
 MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000109^An otherworldly spear that radiates with immense power.^能夠釋放強大力量的異形之槍^엄청난 힘을 발하는, 이 세상의 것이 아닌  창.^Une lance d'un autre monde qui irradie d'un immense pouvoir.^Ein befremdlich aussehender Speer, von dem eine mächtige Kraft ausgeht.^Una lanza de otro mundo que irradia un poder inmenso.
 MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000110^A familiar Halloween hat that was once the talk of the town.^這頂帽子與曾經在城裡成為話題的帽子十分相似^어느 마을에서 화제가 되었던 친근한 모양의 할로윈 모자.^Un chapeau d'Halloween familier qui faisait beaucoup parler de lui dans la ville autrefois.^Ein Halloweenhut mit einer auffälligen Ähnlichkeit zu einer gewissen Kopfbedeckung, die in der Vergangenheit zum Stadtgespräch wurde.^Un sombrero de Halloween un tanto familiar que antaño daba mucho que hablar.
 MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000111^This dagger’s origin is unknown, but it appears to be for ceremonial use.^用於某種儀式的匕首^출처는 불분명하나, 의식용으로 만들어진 것으로 추정되는 단검.^Cette dague à l'origine inconnue semble être réservée à un usage cérémonial.^Ein für den zeremionellen Gebrauch angefertigter Dolch.^El origen de esta daga es desconocido. Parece que se hizo para usarse en ceremonias.
@@ -726,3 +727,163 @@ MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000105^A holy collar used to ward off evil.^
 MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000106^A ring found in a cavern deep in the sea.^在深海洞窟中發現的戒指^바닷속 깊은 동굴에서 발굴된 반지.^Un anneau trouvé dans une caverne au fond de la mer.^Ein Ring, der in den Tiefen einer Unterwasserhöhle gefunden wurde.^Un anillo que encontraron en una caverna en las profundidades del mar.
 MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000108^A black top hat shrouded in mystery.^充滿謎團的黑色大禮帽^거리에서 공연하는 마술사들이 주로 착용하는 모자.^Un chapeau noir entouré de mystère.^Ein schwarzer Zylinder, um den sich allerlei Mythen ranken. ^Un sombrero que suelen llevar los artistas callejeros.
 MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000112^The insignia of a captain of the knights of Grandshelt. (Enables special abilities when equipped by Loren)^格蘭謝爾特騎士團長的徽章【『洛倫』裝備時可以發動特定能力】^그랑셸트 기사단장의 휘장 [로렌 장착 시 특정 어빌리티 발동]^L'insigne du capitaine des chevaliers de Grandshelt (permet à Loren d'utiliser des aptitudes spéciales)^Die Insignie eines Kommandanten der Ritter von Grandshelt. (Ermöglicht Spezialfertigkeiten, wenn von Loren getragen)^La insignia de un capitán de los caballeros de Grandshelt. (Activa habilidades especiales si se lo equipa Loren).
+MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000113^A hairpin adorned with beautiful flowers. ^裝飾著美麗花朵的髮飾^아름다운 꽃으로 장식한 머리핀.^Une épingle ornée de magnifiques fleurs.^Eine mit hübschen Blüten verzierte Haarnadel.^Un coletero adornado con unas flores muy bonitas.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409015600^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409015700^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409015800^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409015900^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409016000^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409016100^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409016200^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_304002100^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_312001900^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_407002400^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_310003100^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_305002100^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409016300^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409016400^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409016500^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_404002500^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_301002400^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_309002100^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_403043700^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_405004200^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409016600^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_407002500^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_302004100^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_308003200^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_308003300^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_302004200^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_405004300^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_403043800^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409016700^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_304002200^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_404002600^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_313003000^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409016800^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_308003400^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_405004400^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_406003000^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_313003100^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_308003500^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_407002600^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_302004300^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_402002300^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_302004400^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409016900^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_405004500^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_407002700^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409017000^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_301002500^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_302004500^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_308003600^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_408002800^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409017100^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409017200^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_407002800^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409017300^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_403043900^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_307002000^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_306001900^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_306002000^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_302004600^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_408002900^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_403044100^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_304002300^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409017500^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_302004700^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409017600^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_311003100^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_303003800^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_301002600^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_408003000^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_402002400^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_403044000^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_404002700^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_407002900^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_302004800^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_301002700^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_312002000^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_310003200^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_311003200^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_404002800^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_405004600^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_306002100^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409017700^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_306002200^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_309002200^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_402002500^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_407003000^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409017800^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_302004900^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409017900^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_305002200^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409018000^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_308003700^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_301002800^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409018100^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_408003100^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_314001300^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_309002300^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_301002900^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409018200^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_311003300^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_403044200^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_403044300^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_304002400^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_304002500^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_304002600^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_309002400^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409018300^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_406003100^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_405004700^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409018400^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_315021800^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_313003200^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409018500^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_316001200^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_304002700^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_406003200^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409018600^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_313003300^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_314001400^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409018700^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_408003200^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_303003900^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_305002300^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_310003300^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409018800^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_301003100^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_301003200^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_302005000^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_309002500^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409018900^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409019000^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_312002100^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_304002800^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_313003400^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_406003300^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_301003000^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_302005100^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_310003400^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_311003400^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_401002100^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409019100^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_304002900^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_316001300^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_402002600^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_403044400^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_408003300^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_403044500^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_403044600^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_313003500^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409019200^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_316001400^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_403044700^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_313003600^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000114^ ^ ^ ^ ^ ^ 
+MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000115^ ^ ^ ^ ^ ^ 
+MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000116^ ^ ^ ^ ^ ^ 
+MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000117^ ^ ^ ^ ^ ^ 
+MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000118^ ^ ^ ^ ^ ^ 
+MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000119^ ^ ^ ^ ^ ^ 

@@ -2495,6 +2495,11 @@
         "VC9F3eJn": "人型の上半身と、馬に似た四本の脚を持つ、異界の機械兵器。“バブイルの巨人”内部に出現する。右手に持った長大な槍から繰り出される攻撃は、非常に強力。バブイルの巨人の内部に出現するモンスターは、このてっきへいを含めて、機械型のものばかりである。巨人の内部を巡回し、侵入者を容赦なく攻撃することから、巨人を守るために生み出された警備用の機械だろうと推察されている。"
     }, 
     {
+        "T7aEx3Mj": "Centuar Knight", 
+        "V9j8wJcC": "2060520", 
+        "VC9F3eJn": "Centuar Knight"
+    }, 
+    {
         "T7aEx3Mj": "馬に似た4本の脚と人型の上半身を持つ、アルドールが造りだした機械兵器。", 
         "V9j8wJcC": "2060550", 
         "VC9F3eJn": "馬に似た4本の脚と人型の上半身を持つ、アルドールが造り出した機械兵器。他の兵器に比べ、より白兵戦向きにカスタマイズされている。持ち味の俊足で戦場を駆け、特別製の槍で敵を貫くという攻撃方法を基本としており、機械であるがゆえに疲労も恐怖も感じない厄介な相手。複雑な動作もそつなくこなし、仲間との連携まで取れることを見ても、アルドールの技術水準の高さがうかがえる。"
@@ -4463,6 +4468,41 @@
         "T7aEx3Mj": "Hatred Tune", 
         "V9j8wJcC": "10000012", 
         "VC9F3eJn": "Hatred Tune"
+    }, 
+    {
+        "T7aEx3Mj": "Shadow Dragon", 
+        "V9j8wJcC": "10000013", 
+        "VC9F3eJn": "Shadow Dragon"
+    }, 
+    {
+        "T7aEx3Mj": "Marionette", 
+        "V9j8wJcC": "10000014", 
+        "VC9F3eJn": "Marionette"
+    }, 
+    {
+        "T7aEx3Mj": "Puppeteer", 
+        "V9j8wJcC": "10000015", 
+        "VC9F3eJn": "Puppeteer"
+    }, 
+    {
+        "T7aEx3Mj": "Fell Turtle", 
+        "V9j8wJcC": "10000016", 
+        "VC9F3eJn": "Fell Turtle"
+    }, 
+    {
+        "T7aEx3Mj": "Sandy", 
+        "V9j8wJcC": "10000017", 
+        "VC9F3eJn": "Sandy"
+    }, 
+    {
+        "T7aEx3Mj": "Cindy", 
+        "V9j8wJcC": "10000018", 
+        "VC9F3eJn": "Cindy"
+    }, 
+    {
+        "T7aEx3Mj": "Mindy", 
+        "V9j8wJcC": "10000019", 
+        "VC9F3eJn": "Mindy"
     }, 
     {
         "T7aEx3Mj": "SkeletonWright", 

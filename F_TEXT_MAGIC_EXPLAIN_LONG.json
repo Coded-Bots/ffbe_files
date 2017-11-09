@@ -160,25 +160,25 @@ MST_MAGIC_LONGDESCRIPTION_70250^Deals fire damage to all enemies.^對全體敵�
 MST_MAGIC_LONGDESCRIPTION_70260^Deals fire damage to all enemies. Power increases with use.^對全體敵人發動火屬性攻擊。連續使用時威力上升。^적 전체에 불속성 피해를 주고, 연속해서 사용하면 피해량이 더욱 상승합니다.^Inflige des dégâts de feu à tous les ennemis. Sa puissance augmente lorsqu'elle est utilisée de manière successive.^Fügt allen Gegnern Feuerschaden zu. Wird bei jeder Anwendung stärker.^Inflige daño de fuego a todos los enemigos y aumenta la potencia con el uso.
 MST_MAGIC_LONGDESCRIPTION_70270^Deals ice damage to all enemies.^對全體敵人發動冰屬性攻擊。^적 전체에 얼음속성 피해를 줍니다.^Inflige des dégâts de glace à tous les ennemis.^Fügt allen Gegnern Eisschaden zu.^Inflige daño de hielo a todos los enemigos.
 MST_MAGIC_LONGDESCRIPTION_70280^Deals ice damage to all enemies. Power increases with use.^對全體敵人發動冰屬性攻擊。連續使用時威力上升。^적 전체에 얼음속성 피해를 주고, 연속해서 사용하면 피해량이 더욱 상승합니다.^Inflige des dégâts de glace sur tous les ennemis. Sa puissance augmente lorsqu'elle est utilisée de manière successive.^Fügt allen Gegnern Eisschaden zu. Wird bei jeder Anwendung stärker.^Inflige daño de hielo a todos los enemigos y aumenta la potencia con el uso.
-MST_MAGIC_LONGDESCRIPTION_70290^Deals lightning damage to all enemies.^對全體敵人發動雷屬性攻擊^적 전체에 번개속성 피해를 줍니다.^Inflige des dégâts de foudre sur tous les ennemis.^Fügt allen Gegnern Blitzschaden zu.^Inflige daño de rayo a todos los enemigos.
+MST_MAGIC_LONGDESCRIPTION_70290^Deals lightning damage to all enemies.^對全體敵人發動雷屬性攻擊。^적 전체에 번개속성 피해를 줍니다.^Inflige des dégâts de foudre sur tous les ennemis.^Fügt allen Gegnern Blitzschaden zu.^Inflige daño de rayo a todos los enemigos.
 MST_MAGIC_LONGDESCRIPTION_70300^Deals lightning damage to all enemies. Power increases with use.^對全體敵人發動雷屬性攻擊。連續使用時威力上升。^적 전체에 번개속성 피해를 주고, 연속해서 사용하면 피해량이 더욱 상승합니다.^Inflige des dégâts de foudre sur tous les ennemis. Sa puissance augmente lorsqu'elle est utilisée de manière successive.^Fügt allen Gegnern Blitzschaden zu. Wird bei jeder Anwendung stärker.^Inflige daño de rayo a todos los enemigos y aumenta la potencia con el uso.
 MST_MAGIC_LONGDESCRIPTION_70310^Deals dark damage partially unaffected by DEF to all enemies and allies.^對全體敵人和隊員發動暗屬性無視部分魔法防禦的攻擊。^적과 아군 전체에 어둠속성 일부 마법방어 무시 피해를 줍니다.^Inflige des dégâts de ténèbres qui ignorent la DEF à tous les ennemis et tous les alliés.^Fügt allen Gegnern und Verbündeten direkten Dunkelschaden zu, der teilweise die ABW umgeht.^Daño absoluto parcial oscuro a todos los enemigos y aliados.
 MST_MAGIC_LONGDESCRIPTION_70320^Deals dark damage partially unaffected by DEF to all enemies.^對全體敵人發動暗屬性無視部分魔法防禦的攻擊。^적 전체에 어둠속성 일부 마법방어 무시 피해를 줍니다.^Inflige des dégâts de ténèbres qui ignorent la DEF sur tous les ennemis.^Fügt allen Gegnern Dunkelschaden zu, der die ABW umgeht.^Daño absoluto parcial oscuro a todos los enemigos.
-MST_MAGIC_LONGDESCRIPTION_91003^Fire damage to all enemies^對全體敵人發動火屬性攻擊^적 전체에 불속성 피해^Dégâts de feu sur tous les ennemis^Feuerschaden, alle Ziele^Inflige daño de fuego a todos los enemigos.
-MST_MAGIC_LONGDESCRIPTION_91004^Ice damage to all enemies^對全體敵人發動冰屬性攻擊^적 전체에 얼음속성 피해^Dégâts de glace sur tous les ennemis^Eisschaden, alle Ziele^Inflige daño de frío a todos los enemigos.
-MST_MAGIC_LONGDESCRIPTION_10380^^^^^^
-MST_MAGIC_LONGDESCRIPTION_10390^^^^^^
-MST_MAGIC_LONGDESCRIPTION_20550^^^^^^
-MST_MAGIC_LONGDESCRIPTION_30380^^^^^^
-MST_MAGIC_LONGDESCRIPTION_30400^^^^^^
-MST_MAGIC_LONGDESCRIPTION_30440^^^^^^
-MST_MAGIC_LONGDESCRIPTION_70330^^^^^^
-MST_MAGIC_LONGDESCRIPTION_70340^^^^^^
-MST_MAGIC_LONGDESCRIPTION_70350^^^^^^
-MST_MAGIC_LONGDESCRIPTION_70360^^^^^^
-MST_MAGIC_LONGDESCRIPTION_70370^^^^^^
-MST_MAGIC_LONGDESCRIPTION_70380^^^^^^
-MST_MAGIC_LONGDESCRIPTION_70390^^^^^^
-MST_MAGIC_LONGDESCRIPTION_70400^^^^^^
-MST_MAGIC_LONGDESCRIPTION_70410^^^^^^
-MST_MAGIC_LONGDESCRIPTION_70420^^^^^^
+MST_MAGIC_LONGDESCRIPTION_20200^Deals fire damage to all enemies.^對全體敵人發動火屬性攻擊。^적 전체에 불속성 피해를 줍니다.^Inflige des dégâts de feu à tous les ennemis.^Fügt allen Gegnern Feuerschaden zu.^Inflige daño de fuego a todos los enemigos.
+MST_MAGIC_LONGDESCRIPTION_20210^Deals ice damage to all enemies.^對全體敵人發動冰屬性攻擊。^적 전체에 얼음속성 피해를 줍니다.^Inflige des dégâts de glace à tous les ennemis.^Fügt allen Gegnern Eisschaden zu.^Inflige daño de frío a todos los enemigos.
+MST_MAGIC_LONGDESCRIPTION_10380^^持續恢復1名隊員的MP。^^^^
+MST_MAGIC_LONGDESCRIPTION_10390^^治療1名隊員的中毒失明睡眠沉默石化狀態。^^^^
+MST_MAGIC_LONGDESCRIPTION_20550^^對1名敵人發動冰屬性攻擊。連續使用時威力上升。^^^^
+MST_MAGIC_LONGDESCRIPTION_30380^^降低全體敵人火屬性耐性的數值。^^^^
+MST_MAGIC_LONGDESCRIPTION_30400^^降低全體敵人雷屬性耐性的數值。^^^^
+MST_MAGIC_LONGDESCRIPTION_30440^^降低全體敵人光屬性耐性的數值^^^^
+MST_MAGIC_LONGDESCRIPTION_70330^^對全體敵人發動光屬性攻擊。^^^^
+MST_MAGIC_LONGDESCRIPTION_70340^^對全體敵人發動火屬性攻擊。^^^^
+MST_MAGIC_LONGDESCRIPTION_70350^^對1名敵人發動火屬性攻擊+降低水屬性耐性的數值。^^^^
+MST_MAGIC_LONGDESCRIPTION_70360^^對1名敵人發動火屬性攻擊+降低火水屬性耐性的數值。^^^^
+MST_MAGIC_LONGDESCRIPTION_70370^^對1名敵人發動火屬性攻擊，並提高自身魔力的數值。^^^^
+MST_MAGIC_LONGDESCRIPTION_70380^^對1名敵人發動火屬性攻擊，並提高自身魔力的數值。^^^^
+MST_MAGIC_LONGDESCRIPTION_70390^^對1名敵人發動冰屬性攻擊，並持續恢復自身MP。^^^^
+MST_MAGIC_LONGDESCRIPTION_70400^^對1名敵人發動冰屬性攻擊，並持續恢復自身MP。^^^^
+MST_MAGIC_LONGDESCRIPTION_70410^^對全體敵人發動暗屬性攻擊，並降低攻擊防禦魔力精神的數值。^^^^
+MST_MAGIC_LONGDESCRIPTION_70420^^對全體敵人發動暗屬性攻擊，並降低攻擊防禦魔力精神、全屬性耐性的數值。^^^^
