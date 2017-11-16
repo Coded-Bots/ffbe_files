@@ -506,8 +506,8 @@ MST_LIMITBURST_DESCRIPTION_302000706^Boost MAG and DEF for all allies, and resto
 MST_LIMITBURST_DESCRIPTION_302000804^Restore HP and cure poison, blind, sleep, silence, paralysis, confusion, disease, and stone for all allies^恢復全體隊員的HP並治療全體隊員中毒失明睡眠沉默麻痺混亂生病石化的狀態^아군 전체의 HP와 독, 암흑, 수면, 침묵, 마비, 혼란, 질병 석화 회복^Restaure les PV et soigne Poison, cécité, sommeil, silence, paralysie, confusion, maladie et pétrification pour tous les alliés^Heilt LP und Gift, Blind, Schlaf, Stille, Lähmung, Konfus, Virus und Stein bei allen Verbündeten.^Cura VIT y ven, ceg, sue, sil, par, con, enf y piedra a aliados
 MST_LIMITBURST_DESCRIPTION_302000805^Restore HP and cure poison, blind, sleep, silence, paralysis, confusion, disease, and stone for all allies^恢復全體隊員的HP並治療全體隊員中毒失明睡眠沉默麻痺混亂生病石化的狀態^아군 전체의 HP와 독, 암흑, 수면, 침묵, 마비, 혼란, 질병 석화 회복^Restaure les PV et soigne Poison, cécité, sommeil, silence, paralysie, confusion, maladie et pétrification pour tous les alliés^Heilt LP und Gift, Blind, Schlaf, Stille, Lähmung, Konfus, Virus und Stein bei allen Verbündeten.^Cura VIT y ven, ceg, sue, sil, par, con, enf y piedra a aliados
 MST_LIMITBURST_DESCRIPTION_302000806^Restore HP and cure poison, blind, sleep, silence, paralysis, confusion, disease, and stone, and boost SPR for all allies^恢復全體隊員的HP並治療全體隊員中毒失明睡眠沉默麻痺混亂生病石化的狀態+提高精神的數值^아군 전체의 HP와 독, 암흑, 수면, 침묵, 마비, 혼란, 질병 석화 회복+정신력 상승^Restaure les PV et soigne Poison, cécité, sommeil, silence, paralysie, confusion, maladie et pétrification pour tous les alliés^Heilt LP und Gift, Blind, Schlaf, Stille, Lähmung, Konfus, Virus, Stein und erhöht PSY bei allen Verbündeten.^Cura VIT, ven, ceg, sue, sil, par, con, enf y piedra, y aumenta el ESP a aliados
-MST_LIMITBURST_DESCRIPTION_215000105^Damage one enemy and boost ATK, MAG, SPR, and DEF for all allies^攻擊1名敵人+我方全體的攻擊魔力精神防禦提升^적 1명에게 피해+아군 전체의 공격력, 마력, 정신력, 방어력 상승^Attaque un ennemi et augmente l'ATT, la MAGIE, la PSY et la DEF de tous les alliés^Schaden für 1 Geg. u. erhöht ANG, MAG, PSY u. ABW, alle Verb.^Daño a un enemigo y aumenta ATQ/DEF/MAG/ESP a aliados
-MST_LIMITBURST_DESCRIPTION_215000106^Damage one enemy and boost ATK, MAG, SPR, and DEF for all allies ^攻擊1名敵人+我方全體的攻擊魔力精神防禦提升^적 1명에게 피해+아군 전체의 공격력, 마력, 정신력, 방어력 상승^Attaque un ennemi et augmente l'ATT, la MAGIE, la PSY et la DEF de tous les alliés^Schaden für 1 Geg. u. erhöht ANG, MAG, PSY u. ABW, alle Verb.^Daño a un enemigo y aumenta ATQ/DEF/MAG/ESP a aliados
+MST_LIMITBURST_DESCRIPTION_215000105^Damage one enemy, reduce damage taken for self for two turns, boost ATK, DEF, MAG, and SPR for all allies, and enable point-blank warp-strike for one turn^攻擊1名敵人+2回合內減少對自身的傷害+提高全體隊員攻擊防禦魔力精神的數值+1回合內可以使用「零距離變移破解」^적 1명에게 피해+2턴 동안 사용자가 받는 피해량 감소+아군 전체의 공격력, 방어력, 마력, 정신력 상승+1턴 동안 '영거리 시프트 브레이크' 사용가능^Dégâts sur un ennemi, réduit les dégâts reçus par le lanceur pendant deux tours, augmente ATT/DEF/MAGIE/PSY pour tours les alliés et permet d'utiliser Assauts éclipse critiques pendant un tour^Füge einem Gegner Schaden zu, reduziere zwei Runden lang selbst erhaltenen Schaden, erhöhe ANG, ABW, MAG und PSY für alle Verb. und ermögliche eine Rudne lang Direkt-Warp.^Daña a un enemigo, reduce el daño que recibe el usuario durante 2 turnos, aumenta ATQ/DEF/MAG/ESP de todos los aliados y aprende Quemarropa durante 1 turno
+MST_LIMITBURST_DESCRIPTION_215000106^Damage one enemy, reduce damage taken for self for two turns, boost ATK, DEF, MAG, and SPR for all allies, and enable point-blank warp-strike for one turn^攻擊1名敵人+2回合內減少對自身的傷害+提高全體隊員攻擊防禦魔力精神的數值+1回合內可以使用「零距離變移破解」^적 1명에게 피해+2턴 동안 사용자가 받는 피해량 감소+아군 전체의 공격력, 방어력, 마력, 정신력 상승+1턴 동안 '영거리 시프트 브레이크' 사용가능^Dégâts sur un ennemi, réduit les dégâts reçus par le lanceur pendant deux tours, augmente ATT/DEF/MAGIE/PSY pour tours les alliés et permet d'utiliser Assauts éclipse critiques pendant un tour^Füge einem Gegner Schaden zu, reduziere zwei Runden lang selbst erhaltenen Schaden, erhöhe ANG, ABW, MAG und PSY für alle Verb. und ermögliche eine Rudne lang Direkt-Warp.^Daña a un enemigo, reduce el daño que recibe el usuario durante 2 turnos, aumenta ATQ/DEF/MAG/ESP de todos los aliados y aprende Quemarropa durante 1 turno
 MST_LIMITBURST_DESCRIPTION_100002806^Damage all enemies^攻擊全體敵人^적 전체에 피해^Dégâts sur tous les ennemis^Schaden, alle Ziele^Daña a todos los enemigos
 MST_LIMITBURST_DESCRIPTION_100002606^Boost all elemental resistances for all allies^提高全體隊員全屬性耐性的數值^아군 전체의 모든 속성 저항력 상승^Augmente les résistances élémentaires de tous les alliés^Alle Res. hoch, alle Verb.^Aumenta la res. elemental de aliados
 MST_LIMITBURST_DESCRIPTION_401000104^Damage and reduce dark and lightning resistance for all enemies^攻擊全體敵人 + 降低暗雷屬性耐性^적 전체에 피해+번개와 어둠속성 저항력 감소^Dégâts et réduit la résistance aux ténèbres et à la foudre de tous les ennemis^Schaden und reduzierte Dunkel- und Blitzr. runter, alle Gegner.^Daña y reduce la res. a oscuridad y rayo de todos los enemigos
@@ -834,3 +834,161 @@ MST_LIMITBURST_DESCRIPTION_401002204^Water damage and reduce water resistance fo
 MST_LIMITBURST_DESCRIPTION_401002205^Water damage and reduce water resistance for all enemies^對全體敵人發動水屬性攻擊+降低水屬性耐性的數值^적 전체에 물속성 피해+물속성 저항력 감소^Dégâts d'eau et réduit la résistance à l'eau pour tous les ennemis^Fügt allen Gegnern Wasserschaden zu und reduziert ihre Wasserresistenz.^Daño de agua y reduce la res. al agua a todos los enemigos
 MST_LIMITBURST_DESCRIPTION_401002206^Water damage and reduce water resistance for all enemies^對全體敵人發動水屬性攻擊+降低水屬性耐性的數值^적 전체에 물속성 피해+물속성 저항력 감소^Dégâts d'eau et réduit la résistance à l'eau pour tous les ennemis^Fügt allen Gegnern Wasserschaden zu und reduziert ihre Wasserresistenz.^Daño de agua y reduce la res. al agua a todos los enemigos
 MST_LIMITBURST_DESCRIPTION_401000506^Damage all enemies^攻擊全體敵人^적 전체에 피해^Dégâts sur tous les ennemis^Fügt allen Gegnern Schaden zu.^Daña a todos los enemigos
+MST_LIMITBURST_DESCRIPTION_401000904^Lightning, light, and dark magic damage to all enemies^對全體敵人發動雷光暗屬性魔法攻擊^적 전체에 번개, 빛, 어둠속성 피해^Dégâts de foudre, de lumière et de ténèbres sur tous les ennemis^Fügt allen Gegnern agischen Blitz-, Licht- und Dunkelschaden zu.^Daño mágico de rayo, luz y oscuridad a todos los enemigos
+MST_LIMITBURST_DESCRIPTION_401000905^Lightning, light, and dark magic damage to all enemies^對全體敵人發動雷光暗屬性魔法攻擊^적 전체에 번개, 빛, 어둠속성 피해^Dégâts de foudre, de lumière et de ténèbres sur tous les ennemis^Fügt allen Gegnern agischen Blitz-, Licht- und Dunkelschaden zu.^Daño mágico de rayo, luz y oscuridad a todos los enemigos
+MST_LIMITBURST_DESCRIPTION_312000305^Damage all enemies^^^^^
+MST_LIMITBURST_DESCRIPTION_312000306^Damage all enemies^^^^^
+MST_LIMITBURST_DESCRIPTION_312000404^Damage and reduce ATK, DEF, MAG, and SPR for one enemy^^^^^
+MST_LIMITBURST_DESCRIPTION_312000405^Damage and reduce ATK, DEF, MAG, and SPR for one enemy^^^^^
+MST_LIMITBURST_DESCRIPTION_312000406^Damage and reduce ATK, DEF, MAG, and SPR for one enemy^^^^^
+MST_LIMITBURST_DESCRIPTION_311000105^Damage all enemies^^^^^
+MST_LIMITBURST_DESCRIPTION_311000106^Damage all enemies^^^^^
+MST_LIMITBURST_DESCRIPTION_312000105^Damage and reduce all elemental resistance for all enemies^^^^^
+MST_LIMITBURST_DESCRIPTION_312000106^Damage and reduce all elemental resistance for all enemies^^^^^
+MST_LIMITBURST_DESCRIPTION_312000205^Deal partial unmitigated damage and add chance of confusing one enemy.^^^^^
+MST_LIMITBURST_DESCRIPTION_312000206^Deal partial unmitigated damage and add chance of confusing one enemy.^^^^^
+MST_LIMITBURST_DESCRIPTION_100011805^Damage and reduce light and dark resistance for all enemies, and automatically revived KO'd allies one time^^^^^
+MST_LIMITBURST_DESCRIPTION_100011806^Damage and reduce light and dark resistance for all enemies, and automatically revived KO'd allies one time^^^^^
+MST_LIMITBURST_DESCRIPTION_100012605^^^^^^
+MST_LIMITBURST_DESCRIPTION_100012606^^^^^^
+MST_LIMITBURST_DESCRIPTION_100012704^^^^^^
+MST_LIMITBURST_DESCRIPTION_100012705^^^^^^
+MST_LIMITBURST_DESCRIPTION_100012706^^^^^^
+MST_LIMITBURST_DESCRIPTION_100013203^Ice damage to all enemies^^^^^
+MST_LIMITBURST_DESCRIPTION_100013204^Ice damage to all enemies^^^^^
+MST_LIMITBURST_DESCRIPTION_100013205^Ice damage to all enemies^^^^^
+MST_LIMITBURST_DESCRIPTION_215000605^Deal partial unmitigated damage to one enemy^^^^^
+MST_LIMITBURST_DESCRIPTION_215000606^Deal partial unmitigated damage to one enemy^^^^^
+MST_LIMITBURST_DESCRIPTION_215000705^Damage and inflict random status ailment on all enemies^^^^^
+MST_LIMITBURST_DESCRIPTION_215000706^Damage and inflict random status ailment on all enemies^^^^^
+MST_LIMITBURST_DESCRIPTION_215000406^Damage one enemy^^^^^
+MST_LIMITBURST_DESCRIPTION_212001105^^^^^^
+MST_LIMITBURST_DESCRIPTION_212001106^^^^^^
+MST_LIMITBURST_DESCRIPTION_212000905^^^^^^
+MST_LIMITBURST_DESCRIPTION_212000906^^^^^^
+MST_LIMITBURST_DESCRIPTION_212001204^^^^^^
+MST_LIMITBURST_DESCRIPTION_212001205^^^^^^
+MST_LIMITBURST_DESCRIPTION_212001206^^^^^^
+MST_LIMITBURST_DESCRIPTION_212001404^^^^^^
+MST_LIMITBURST_DESCRIPTION_212001405^^^^^^
+MST_LIMITBURST_DESCRIPTION_212001406^^^^^^
+MST_LIMITBURST_DESCRIPTION_212001303^^^^^^
+MST_LIMITBURST_DESCRIPTION_212001304^^^^^^
+MST_LIMITBURST_DESCRIPTION_212001305^^^^^^
+MST_LIMITBURST_DESCRIPTION_100012005^^^^^^
+MST_LIMITBURST_DESCRIPTION_100012006^^^^^^
+MST_LIMITBURST_DESCRIPTION_100013305^^^^^^
+MST_LIMITBURST_DESCRIPTION_100013306^^^^^^
+MST_LIMITBURST_DESCRIPTION_100012104^^^^^^
+MST_LIMITBURST_DESCRIPTION_100012105^^^^^^
+MST_LIMITBURST_DESCRIPTION_100012106^^^^^^
+MST_LIMITBURST_DESCRIPTION_100012304^^^^^^
+MST_LIMITBURST_DESCRIPTION_100012305^^^^^^
+MST_LIMITBURST_DESCRIPTION_100012306^^^^^^
+MST_LIMITBURST_DESCRIPTION_100012203^^^^^^
+MST_LIMITBURST_DESCRIPTION_100012204^^^^^^
+MST_LIMITBURST_DESCRIPTION_100012205^^^^^^
+MST_LIMITBURST_DESCRIPTION_100006606^Damage and reduce water and earth resistance for all enemies^^^^^
+MST_LIMITBURST_DESCRIPTION_313000105^^^^^^
+MST_LIMITBURST_DESCRIPTION_313000106^^^^^^
+MST_LIMITBURST_DESCRIPTION_313000205^^^^^^
+MST_LIMITBURST_DESCRIPTION_313000206^^^^^^
+MST_LIMITBURST_DESCRIPTION_313000305^^^^^^
+MST_LIMITBURST_DESCRIPTION_313000306^^^^^^
+MST_LIMITBURST_DESCRIPTION_313000404^^^^^^
+MST_LIMITBURST_DESCRIPTION_313000405^^^^^^
+MST_LIMITBURST_DESCRIPTION_313000406^^^^^^
+MST_LIMITBURST_DESCRIPTION_314000104^^^^^^
+MST_LIMITBURST_DESCRIPTION_314000105^^^^^^
+MST_LIMITBURST_DESCRIPTION_314000106^^^^^^
+MST_LIMITBURST_DESCRIPTION_314000203^^^^^^
+MST_LIMITBURST_DESCRIPTION_314000204^^^^^^
+MST_LIMITBURST_DESCRIPTION_314000205^^^^^^
+MST_LIMITBURST_DESCRIPTION_315000104^^^^^^
+MST_LIMITBURST_DESCRIPTION_315000105^^^^^^
+MST_LIMITBURST_DESCRIPTION_315000106^^^^^^
+MST_LIMITBURST_DESCRIPTION_204001505^Damage all enemies^^^^^
+MST_LIMITBURST_DESCRIPTION_204001506^Damage all enemies^^^^^
+MST_LIMITBURST_DESCRIPTION_204001605^Deal partial unmitigated damage to one enemy^^^^^
+MST_LIMITBURST_DESCRIPTION_204001606^Deal partial unmitigated damage to one enemy^^^^^
+MST_LIMITBURST_DESCRIPTION_204000704^Damage all enemies^^^^^
+MST_LIMITBURST_DESCRIPTION_204000705^Damage all enemies^^^^^
+MST_LIMITBURST_DESCRIPTION_204000706^Damage all enemies^^^^^
+MST_LIMITBURST_DESCRIPTION_204000605^Boost ATK, DEF, MAG, and SPR and gradually restore HP and MP for all allies^^^^^
+MST_LIMITBURST_DESCRIPTION_204000306^Restore HP and MP for all allies^^^^^
+MST_LIMITBURST_DESCRIPTION_100011905^^^^^^
+MST_LIMITBURST_DESCRIPTION_100011906^^^^^^
+MST_LIMITBURST_DESCRIPTION_100013404^^^^^^
+MST_LIMITBURST_DESCRIPTION_100013405^^^^^^
+MST_LIMITBURST_DESCRIPTION_100013406^^^^^^
+MST_LIMITBURST_DESCRIPTION_100006006^Damage one enemy and cast berserk on caster^^^^^
+MST_LIMITBURST_DESCRIPTION_100005706^Dark damage, blind, silence, and inflict disease on one enemy^^^^^
+MST_LIMITBURST_DESCRIPTION_100014405^^^^^^
+MST_LIMITBURST_DESCRIPTION_100014406^^^^^^
+MST_LIMITBURST_DESCRIPTION_100014504^^^^^^
+MST_LIMITBURST_DESCRIPTION_100014505^^^^^^
+MST_LIMITBURST_DESCRIPTION_100014506^^^^^^
+MST_LIMITBURST_DESCRIPTION_100014604^^^^^^
+MST_LIMITBURST_DESCRIPTION_100014605^^^^^^
+MST_LIMITBURST_DESCRIPTION_100014606^^^^^^
+MST_LIMITBURST_DESCRIPTION_100014703^^^^^^
+MST_LIMITBURST_DESCRIPTION_100014704^^^^^^
+MST_LIMITBURST_DESCRIPTION_100014705^^^^^^
+MST_LIMITBURST_DESCRIPTION_100014005^^^^^^
+MST_LIMITBURST_DESCRIPTION_100014006^^^^^^
+MST_LIMITBURST_DESCRIPTION_207001005^^^^^^
+MST_LIMITBURST_DESCRIPTION_207001006^^^^^^
+MST_LIMITBURST_DESCRIPTION_100013805^^^^^^
+MST_LIMITBURST_DESCRIPTION_100013806^^^^^^
+MST_LIMITBURST_DESCRIPTION_100013504^^^^^^
+MST_LIMITBURST_DESCRIPTION_100013505^^^^^^
+MST_LIMITBURST_DESCRIPTION_100013506^^^^^^
+MST_LIMITBURST_DESCRIPTION_100013903^Reduce ATK, DEF, MAG, and SPR for one enemy^^^^^
+MST_LIMITBURST_DESCRIPTION_100013904^Reduce ATK, DEF, MAG, and SPR for one enemy^^^^^
+MST_LIMITBURST_DESCRIPTION_100013905^Reduce ATK, DEF, MAG, and SPR for one enemy^^^^^
+MST_LIMITBURST_DESCRIPTION_100014905^Damage all enemies^^^^^
+MST_LIMITBURST_DESCRIPTION_100012505^^^^^^
+MST_LIMITBURST_DESCRIPTION_100012506^^^^^^
+MST_LIMITBURST_DESCRIPTION_100014104^^^^^^
+MST_LIMITBURST_DESCRIPTION_100014105^^^^^^
+MST_LIMITBURST_DESCRIPTION_100014106^^^^^^
+MST_LIMITBURST_DESCRIPTION_100014204^^^^^^
+MST_LIMITBURST_DESCRIPTION_100014205^^^^^^
+MST_LIMITBURST_DESCRIPTION_100014206^^^^^^
+MST_LIMITBURST_DESCRIPTION_100014303^^^^^^
+MST_LIMITBURST_DESCRIPTION_100014304^^^^^^
+MST_LIMITBURST_DESCRIPTION_100014305^^^^^^
+MST_LIMITBURST_DESCRIPTION_100011106^Cast regen and boost DEF and SPR for all allies^^^^^
+MST_LIMITBURST_DESCRIPTION_318000105^^^^^^
+MST_LIMITBURST_DESCRIPTION_318000106^^^^^^
+MST_LIMITBURST_DESCRIPTION_317000105^^^^^^
+MST_LIMITBURST_DESCRIPTION_317000106^^^^^^
+MST_LIMITBURST_DESCRIPTION_320000104^Deal partial unmitigated damage to all enemies^^^^^
+MST_LIMITBURST_DESCRIPTION_320000105^Deal partial unmitigated damage to all enemies^^^^^
+MST_LIMITBURST_DESCRIPTION_320000106^Deal partial unmitigated damage to all enemies^^^^^
+MST_LIMITBURST_DESCRIPTION_319000104^^^^^^
+MST_LIMITBURST_DESCRIPTION_319000105^^^^^^
+MST_LIMITBURST_DESCRIPTION_319000106^^^^^^
+MST_LIMITBURST_DESCRIPTION_316000103^^^^^^
+MST_LIMITBURST_DESCRIPTION_316000104^^^^^^
+MST_LIMITBURST_DESCRIPTION_316000105^^^^^^
+MST_LIMITBURST_DESCRIPTION_100010005^^^^^^
+MST_LIMITBURST_DESCRIPTION_100010006^^^^^^
+MST_LIMITBURST_DESCRIPTION_100015104^Restore HP and MP for all allies^^^^^
+MST_LIMITBURST_DESCRIPTION_100015105^Restore HP and MP for all allies^^^^^
+MST_LIMITBURST_DESCRIPTION_100015106^Restore HP and MP for all allies^^^^^
+MST_LIMITBURST_DESCRIPTION_100015204^Damage all enemies^^^^^
+MST_LIMITBURST_DESCRIPTION_100015205^Damage all enemies^^^^^
+MST_LIMITBURST_DESCRIPTION_100015206^Damage all enemies^^^^^
+MST_LIMITBURST_DESCRIPTION_100015303^Lightning damage to one enemy^^^^^
+MST_LIMITBURST_DESCRIPTION_100015304^Lightning damage to one enemy^^^^^
+MST_LIMITBURST_DESCRIPTION_100015305^Lightning damage to one enemy^^^^^
+MST_LIMITBURST_DESCRIPTION_401002405^Restore HP and remove ATK, DEF, MAG, SPR reductions for all allies and reduce light and water resistance for all enemies^恢復全體隊員的HP+解除攻擊防禦魔力精神降低的效果+降低全體敵人光水屬性耐性的數值^아군 전체의 HP를 회복하고 공격력, 방어력, 마력, 정신력 감소 해제+적 전체의 빛과 물속성 저항력 감소^Restaure les PV et retire la réduction de ATT/DEF/MAGIE/PSY pour tous les alliés et réduit la résistance à la lumière et à l'eau de tous les ennemis^Regeneriert LP und entfernt ANG-, ABW-, MAG- und PSY-Verringerungen von allen Einheiten. Reduziert Licht- und Wasserresistenz aller Gegner.^Recupera la VIT, elimina las reducciones de ATQ, DEF, MAG y ESP de todos los aliados y reduce la res. al agua y a la luz de todos los enemigos
+MST_LIMITBURST_DESCRIPTION_401002406^Restore HP and remove ATK, DEF, MAG, SPR reductions for all allies and reduce light and water resistance for all enemies^恢復全體隊員的HP+解除攻擊防禦魔力精神降低的效果+降低全體敵人光水屬性耐性的數值^아군 전체의 HP를 회복하고 공격력, 방어력, 마력, 정신력 감소 해제+적 전체의 빛과 물속성 저항력 감소^Restaure les PV et retire la réduction de ATT/DEF/MAGIE/PSY pour tous les alliés et réduit la résistance à la lumière et à l'eau de tous les ennemis^Regeneriert LP und entfernt ANG-, ABW-, MAG- und PSY-Verringerungen von allen Einheiten. Reduziert Licht- und Wasserresistenz aller Gegner.^Recupera la VIT, elimina las reducciones de ATQ, DEF, MAG y ESP de todos los aliados y reduce la res. al agua y a la luz de todos los enemigos
+MST_LIMITBURST_DESCRIPTION_401002504^Reduce damage taken for all allies and reduce fire and wind resistance for all enemies^減少對全體隊員的傷害+降低全體敵人火風屬性耐性的數值^아군 전체가 받는 피해량 감소+적 전체의 불과 바람속성 저항력 감소^Réduit les dégâts reçus par tous les alliés et réduit la résistance au feu et au vent de tous les ennemis^Reduziert erhaltenen Schadenen für alle Verb. und reduziert Feuer- sowie Windresistenz aller Gegner.^Reduce el daño que reciben todos los aliados y reduce la res. al fuego y al viento de todos los enemigos
+MST_LIMITBURST_DESCRIPTION_401002505^Reduce damage taken for all allies and reduce fire and wind resistance for all enemies^減少對全體隊員的傷害+降低全體敵人火風屬性耐性的數值^아군 전체가 받는 피해량 감소+적 전체의 불과 바람속성 저항력 감소^Réduit les dégâts reçus par tous les alliés et réduit la résistance au feu et au vent de tous les ennemis^Reduziert erhaltenen Schadenen für alle Verb. und reduziert Feuer- sowie Windresistenz aller Gegner.^Reduce el daño que reciben todos los aliados y reduce la res. al fuego y al viento de todos los enemigos
+MST_LIMITBURST_DESCRIPTION_401002506^Reduce damage taken for all allies and reduce fire and wind resistance for all enemies^減少對全體隊員的傷害+降低全體敵人火風屬性耐性的數值^아군 전체가 받는 피해량 감소+적 전체의 불과 바람속성 저항력 감소^Réduit les dégâts reçus par tous les alliés et réduit la résistance au feu et au vent de tous les ennemis^Reduziert erhaltenen Schadenen für alle Verb. und reduziert Feuer- sowie Windresistenz aller Gegner.^Reduce el daño que reciben todos los aliados y reduce la res. al fuego y al viento de todos los enemigos
+MST_LIMITBURST_DESCRIPTION_401002705^ ^ ^ ^ ^ ^ 
+MST_LIMITBURST_DESCRIPTION_401002706^ ^ ^ ^ ^ ^ 
+MST_LIMITBURST_DESCRIPTION_401001004^ ^ ^ ^ ^ ^ 
+MST_LIMITBURST_DESCRIPTION_401001005^ ^ ^ ^ ^ ^ 

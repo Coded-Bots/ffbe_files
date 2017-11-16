@@ -493,7 +493,7 @@ MST_MATERIA_LONGDESCRIPTION_504213710^Boosts HP by 10% and dark resistance by 5%
 MST_MATERIA_LONGDESCRIPTION_504213720^Boosts HP by 10% and light resistance by 5%.^提高10%HP、5%光屬性耐性的數值。^HP 가 10%, 빛속성 저항력이 5% 상승합니다.^Augmente les PV de 10% et la résistance à la lumière de 5%^Erhöht LP um 10% und Lichtresist. um 5%.^Aumenta la VIT un 10% y la resistencia a la luz un 5%.
 MST_MATERIA_LONGDESCRIPTION_504213730^Restores own MP when traversing exploration maps.^探索任務中移動時恢復自身MP。^탐색 퀘스트에서 걸으면 자신의 MP가 회복합니다.^Restaure les PM en marchant dans les zones explorables^Stellt auf der Erkundungskarte MP wieder her.^Recupera los PM al caminar (por mapas explorables).
 MST_MATERIA_LONGDESCRIPTION_504213740^Boosts ATK and MAG by 30%.^提高30%攻擊魔力的數值。^공격력과 마력이 30% 상승합니다.^Augmente l'ATT et diminue la MAGIE de 30%^Erhöht ANG und MAG um 30%.^Aumenta el ATQ y la MAG un 30%.
-MST_MATERIA_LONGDESCRIPTION_504100110^Boosts MAG by 20%.^提高20%魔力的數值。^마력이 20% 상승합니다.^Augmente la MAGIE de 20%^Erhöht ANG und MAG um 20%.^Aumenta la MAG un 20%.
+MST_MATERIA_LONGDESCRIPTION_504100110^Boosts MAG by 20%.^提高20%魔力的數值。^마력이 20% 상승합니다.^Augmente la MAGIE de 20%^Erhöht MAG um 20%.^Aumenta la MAG un 20%.
 MST_MATERIA_LONGDESCRIPTION_504100860^Enables unit to equip instruments.^可以裝備樂器。^악기를 장착할 수 있게 됩니다.^Permet d'équiper des instruments^Einheit kann mit Instrumenten ausgerüstet werden.^Permite que la unidad se equipe con instrumentos.
 MST_MATERIA_LONGDESCRIPTION_504020460^Deals dark damage to all enemies.^對全體敵人發動暗屬性攻擊。^적 전체에 어둠속성 피해를 줍니다.^Dégâts de ténèbres sur tous les ennemis^Feuerschaden, ein Gegner.^Inflige daño oscuro a todos los enemigos.
 MST_MATERIA_LONGDESCRIPTION_504200610^Deals fire damage to one enemy.^對1名敵人發動火屬性攻擊。^적 1명에게 불속성 피해를 줍니다.^Dégâts de feu sur un ennemi^Fügt einem Gegner Feuerschaden zu.^Inflige daño de fuego a un enemigo.
@@ -636,5 +636,6 @@ MST_MATERIA_LONGDESCRIPTION_504226050^^提高10%魔力精神的數值。^^^^
 MST_MATERIA_LONGDESCRIPTION_504226041^^提高10%攻擊防禦的數值。^^^^
 MST_MATERIA_LONGDESCRIPTION_504226031^^提高40%防禦的數值，並且每回合自動恢復HP。^^^^
 MST_MATERIA_LONGDESCRIPTION_504226380^^提高極限技石對極限技槽的增加量，並提高裝備短劍劍大劍刀時攻擊的數值。^^^^
-MST_MATERIA_LONGDESCRIPTION_1500000032^Boosts HP and MP by 10%.^^^^^
-MST_MATERIA_LONGDESCRIPTION_1500000033^Boosts HP by 25% and enables unit to equip instruments.^^^^^
+MST_MATERIA_LONGDESCRIPTION_1500000032^Boosts HP and MP by 10%.^提高10%HP、MP。^HP와 MP가 10% 상승합니다.^Augmente les PV et les PM de 10%.^Erhöht LP und MP um 10%.^Aumenta la VIT y los PM un 10%.
+MST_MATERIA_LONGDESCRIPTION_1500000033^Boosts HP by 25% and enables unit to equip instruments.^提高25%HP，並且可以裝備「樂器」。^HP가 25% 상승하고, 악기를 장착할 수 있게 됩니다.^Augmente les PV de 25% et permet à une unité d'équiper des instruments.^Erhöht LP um 25% und lässt Instrumente ausrüsten.^Aumenta la VIT un 25% y puede equiparse con instrumentos.
+MST_MATERIA_LONGDESCRIPTION_1500000034^Boosts SPR by 15% and all elemental resistances by 25%, and fills limit burst gauge each turn during battle.^^^^^

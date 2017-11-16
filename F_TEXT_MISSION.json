@@ -219,7 +219,7 @@ MST_MISSION_NAME_3010107^Vault of Hidden Treasures^秘密的寶物庫^비밀의 
 MST_MISSION_NAME_7010101^The Spearmaiden - BGN^光槍少女·初級^빛의 창을 든 소녀·초급^La Lancière de lumière - DBT^Die Lanzenjungfer – ANF^La joven de la lanza - PRI
 MST_MISSION_NAME_7010102^The Spearmaiden - INT^光槍少女·中級^빛의 창을 든 소녀·중급^La Lancière de lumière - INT^Die Lanzenjungfer – FOR^La joven de la lanza - INT
 MST_MISSION_NAME_7010103^The Spearmaiden - ADV^光槍少女·上級^빛의 창을 든 소녀·상급^La Lancière de lumière - PRO^Die Lanzenjungfer – EXP^La joven de la lanza - AVA
-MST_MISSION_NAME_8990103^The Brachiosaur Returns^腕龍再臨^브라키오레이더스 재림^Le retour du brachiosaure^Der Brachioredos kehrt zurück^El regreso del braquiosaurio
+MST_MISSION_NAME_8990103^The Brachiosaur Returns^腕龍再臨^브라키오레이더스 재림^Le retour du brachiosaure^Der Brachioredos kehrt zurück^El regreso del Braquiosaurio
 MST_MISSION_NAME_8991102^Surging Menace^蜂擁而至的強者們^몰려드는 강자들^Une menace imminente^Wachsende Bedrohung^La amenaza se aproxima
 MST_MISSION_NAME_610010100^Dalnakya Cavern Harvest - BGN^達爾納吉亞洞窟採取 初級^달나키아 동굴 채집·초급^Caverne de Dalnakya (Récolte) - DBT^Dalnakia-Höhle-Beutezug - ANF^Caverna de Dalnakya - PRI (rec.)
 MST_MISSION_NAME_610010101^Dalnakya Cavern Harvest - INT^達爾納吉亞洞窟採取 中級^달나키아 동굴 채집·중급^Caverne de Dalnakya (Récolte) - INT^Dalnakia-Höhle-Beutezug - FOR^Caverna de Dalnakya - INT (rec.)
@@ -1562,7 +1562,7 @@ MST_MISSION_NAME_7461000^The Future of Grandshelt^格蘭謝爾特的未來^그�
 MST_MISSION_NAME_7461001^The Power of Trust^可靠的力量^듬직한 힘^Le pouvoir de la confiance^Die Macht des Vertrauens^El poder de la confianza
 MST_MISSION_NAME_7461002^Boiling Waters^噴湧的熱水^불어오는 열수^Eaux bouillantes^Kochendes Wasser^Aguas calientes
 MST_MISSION_NAME_7461003^Crumbling Foothold^崩塌的地面^무너져 내리는 발판^La prise s'effrite^Bröckelnder Halt^Pasos que se deshacen
-MST_MISSION_NAME_7461004^Pooring Magma^熔岩如雨^내리쏟아지는 마그마^Magma déversé^Strömendes Magma^Vertido de magma
+MST_MISSION_NAME_7461004^Pouring Magma^熔岩如雨^내리쏟아지는 마그마^Magma déversé^Strömendes Magma^Vertido de magma
 MST_MISSION_NAME_7461005^Hot Crimson Whirlwind^紅蓮火焰旋風^홍련의 화염 질풍^Tourbillon pourpre ardent^Purpurner Wirbelwind^Torbellino carmesí
 MST_MISSION_NAME_7461006^Guardian of the Fiery Cavern^炎風洞之主^불바람 동굴의 주인^Gardien de la caverne ardente^Wächter der Feuerhöhle^Guardián de la caverna abrasadora
 MST_MISSION_NAME_7461007^Knights for a New Era^新時代的騎士們^새로운 시대의 기사들^Chevaliers d'une nouvelle ère^Ritter einer neuen Ära^Caballeros de una nueva era
@@ -1669,12 +1669,12 @@ MST_MISSION_NAME_11211602^Danadea Factory Ruins - Heroic Determination^達納迪
 MST_MISSION_NAME_11211603^Danadea Factory Ruins - Lordless Ruins^達納迪亞廢工廠·無主的廢墟^다나디아 폐공장·주인 없는 폐허^Danadea - R. de l'usine - Ruines sans seigneur^Danadea-Fabrikruinen - Herrscherlose Ruinen^Ruinas de la fábrica de Danadea - Ruinas sin dueño
 MST_MISSION_NAME_11211604^Danadea Factory Ruins - Ruined Floors^達納迪亞廢工廠·荒廢的地面^다나디아 폐공장·황폐한 바닥^Danadea - R. de l'usine - Étages en ruine^Danadea-Fabrikruinen - Verheerte Stockwerke^Ruinas de la fábrica de Danadea - Suelos en ruinas
 MST_MISSION_NAME_11211605^Danadea Factory Ruins - Gunshots^達納迪亞廢工廠·響亮的槍聲^다나디아 폐공장·울려 퍼지는 총성^Danadea - R. de l'usine - Coups de feu^Danadea-Fabrikruinen - Schüsse^Ruinas de la fábrica de Danadea - Disparos
-MST_MISSION_NAME_11211701^Georl Barrier Activator - Entrance^吉奧爾屏障發生設施·入口^지오르 배리어 발생 시설·입구^Georl - Acti. de la barr. - Entrée^Georl - Barrierenaktivator - Eingang^Activador de la barrera de Georl - Entrada
-MST_MISSION_NAME_11211702^Georl Barrier Activator - Terminal^吉奧爾屏障發生設施·終端^지오르 배리어 발생 시설·단말^Georl - Acti. de la barr. - Terminal^Georl - Barrierenaktivator - Terminal^Activador de la barrera de Georl - Terminal
-MST_MISSION_NAME_11211703^Georl Barrier Activator - Central Area^吉奧爾屏障發生設施·中央區^지오르 배리어 발생 시설·중앙 구획^Georl - Acti. de la barr. - Zone centrale^Georl - Barrierenaktivator - Zentrales Gebiet^Activador de la barrera de Georl - Zona central
-MST_MISSION_NAME_11211704^Georl Barrier Activator - Depths^吉奧爾屏障發生設施·最深處^지오르 배리어 발생 시설·최심층부^Georl - Acti. de la barr. - Profondeurs^Georl - Barrierenaktivator - Tiefen^Activador de la barrera de Georl - Profundidades
-MST_MISSION_NAME_11211705^Georl Barrier Activator - Father and Daughter^吉奧爾屏障發生設施·父女^지오르 배리어 발생 시설·아버지와 딸^Georl - Acti. de la barr. - Père et fille^Georl - Barrierenaktivator - Vater und Tochter^Activador de la barrera de Georl - Padre e hija
-MST_MISSION_NAME_11211706^Georl Barrier Activator - Exploration^吉奧爾屏障發生設施·探索^지오르 배리어 발생 시설·탐색^Georl - Acti. de la barr. - Exploration^Georl - Barrierenaktivator - Erkundung^Activador de la barrera de Georl - Exploración
+MST_MISSION_NAME_11211701^Georl Barrier Station - Entrance^吉奧爾屏障發生設施·入口^지오르 배리어 발생 시설·입구^Georl - Acti. de la barr. - Entrée^Georl - Barrierenaktivator - Eingang^Activador de la barrera de Georl - Entrada
+MST_MISSION_NAME_11211702^Georl Barrier Station - Terminal^吉奧爾屏障發生設施·終端^지오르 배리어 발생 시설·단말^Georl - Acti. de la barr. - Terminal^Georl - Barrierenaktivator - Terminal^Activador de la barrera de Georl - Terminal
+MST_MISSION_NAME_11211703^Georl Barrier Station - Central Area^吉奧爾屏障發生設施·中央區^지오르 배리어 발생 시설·중앙 구획^Georl - Acti. de la barr. - Zone centrale^Georl - Barrierenaktivator - Zentrales Gebiet^Activador de la barrera de Georl - Zona central
+MST_MISSION_NAME_11211704^Georl Barrier Station - Depths^吉奧爾屏障發生設施·最深處^지오르 배리어 발생 시설·최심층부^Georl - Acti. de la barr. - Profondeurs^Georl - Barrierenaktivator - Tiefen^Activador de la barrera de Georl - Profundidades
+MST_MISSION_NAME_11211705^Georl Barrier Station - Father and Daughter^吉奧爾屏障發生設施·父女^지오르 배리어 발생 시설·아버지와 딸^Georl - Acti. de la barr. - Père et fille^Georl - Barrierenaktivator - Vater und Tochter^Activador de la barrera de Georl - Padre e hija
+MST_MISSION_NAME_11211706^Georl Barrier Station - Exploration^吉奧爾屏障發生設施·探索^지오르 배리어 발생 시설·탐색^Georl - Acti. de la barr. - Exploration^Georl - Barrierenaktivator - Erkundung^Activador de la barrera de Georl - Exploración
 MST_MISSION_NAME_11215101^Howling Mountains - Entrance^咆哮岩山·岩山入口^포효하는 바위산·바위산 입구^Montagne hurlante - Entrée^Bergesheulen - Eingang^Montañas aullantes - Entrada
 MST_MISSION_NAME_11215102^Howling Mountains - Steep Trail^咆哮岩山·險峻獸道^포효하는 바위산·험준한 산길^Montagne hurlante - Sentier escarpé^Bergesheulen - Verwehter Pfad^Montañas aullantes - Sendero escarpado
 MST_MISSION_NAME_11215103^Howling Mountains - Bridge of Danger^咆哮岩山·危險吊橋^포효하는 바위산·위기의 현수교^Montagne hurlante - Pont dangereux^Bergesheulen - Gefahrenbrücke^Montañas aullantes - Puente peligroso
@@ -2062,3 +2062,840 @@ MST_MISSION_NAME_9200003^Castle Keep - ELT^萬聖節城堡城樓‧覺醒級^할
 MST_MISSION_NAME_9210001^Castle Inner Chamber INT^萬聖節城堡內部‧中級^할로윈 성 내부의 방·중급^Chambre inté. du château - INT^Innere Burgkammer - FOR^Cámaras interiores del castillo - INT
 MST_MISSION_NAME_9210002^Castle Inner Chamber ELT^萬聖節城堡內部‧覺醒級^할로윈 성 내부의 방·각성급^Chambre inté. du château - EX!^Innere Burgkammer - ELI^Cámaras interiores del castillo - ÉLI
 MST_MISSION_NAME_9210003^Castle Inner Chamber NIGHTMARE^萬聖節城堡內部‧惡夢級^할로윈 성 내부의 방·악몽급^Chambre inté. du château - CAUCHEMAR^Innere Burgkammer - ALBTRAUM^Cámaras interiores del castillo - PES
+MST_MISSION_NAME_1110504^Save the Starving Chocobos!^救救飢餓的陸行鳥！^^^^
+MST_MISSION_NAME_1135507^New Trial of the Sage^賢者的試煉 改^^^^
+MST_MISSION_NAME_1325107^New Trial of the Ruby^紅玉的試煉 改^^^^
+MST_MISSION_NAME_1515007^New Trial of the Giant^巨人的試煉 改^^^^
+MST_MISSION_NAME_1625107^New Trial of the Goddess^女神的試煉 改^^^^
+MST_MISSION_NAME_11310101^Uku Plains - Fertile Lands^烏庫平原・肥沃的大地^^^Uku-Ebene - Fruchtbares Land^
+MST_MISSION_NAME_11310102^Uku Plains - Long Horizon^烏庫平原・一望無際的地平線^^^Uku-Ebene - Endloser Horizont^
+MST_MISSION_NAME_11310103^Uku Plains - Sprawling Green^烏庫平原・連綿不斷的綠意^^^Uku-Ebene - Grüne Weiten^
+MST_MISSION_NAME_11310104^Uku Plains - Grassland Master^烏庫平原・草原之主^^^Uku-Ebene - Meister des Grünlands^
+MST_MISSION_NAME_11310201^Tiram Forest - Shaking Lights^迪利姆之森・晃動的樹影^^^Tiram-Wald - Flimmernder Lichtstrahl^
+MST_MISSION_NAME_11310202^Tiram Forest - Bountiful Nature^迪利姆之森・豐饒的大自然^^^Tiram-Wald - Üppige Fauna^
+MST_MISSION_NAME_11310203^Tiram Forest - Overgrowth^迪利姆之森・叢生的野草^^^Tiram-Wald - ^
+MST_MISSION_NAME_11310204^Tiram Forest - Footsteps of the Beast^迪利姆之森・獸人的腳步聲^^^Tiram-Wald - Schrittgeräusch der Bestienmenschen^
+MST_MISSION_NAME_11310301^Kopan Ruins - Former Heritage^科潘遺蹟群・古老的遺產^^^^
+MST_MISSION_NAME_11310302^Kopan Ruins - Vine-covered Walls^科潘遺蹟群・爬滿常春藤的牆壁^^^^
+MST_MISSION_NAME_11310303^Kopan Ruins - Scars of the Past^科潘遺蹟群・過去的傷痕^^^^
+MST_MISSION_NAME_11310304^Kopan Ruins - The Guardian^科潘遺蹟群・守護者^^^^
+MST_MISSION_NAME_11310401^Tree of Naturia - Up the Tree^那托利亞的大樹・樹上的路^^^^
+MST_MISSION_NAME_11310402^Tree of Naturia - Hollow^那托利亞的大樹・樹洞^^^^
+MST_MISSION_NAME_11310403^Tree of Naturia - Bridge of Branches^那托利亞的大樹・樹枝架橋^^^^
+MST_MISSION_NAME_11310404^Tree of Naturia - Oncoming Shadow^那托利亞的大樹・飛來之影^^^^
+MST_MISSION_NAME_11310501^Petra, Forest of Illusion - Bewitching Light^貝多拉幻想林・幻惑之光^^^^
+MST_MISSION_NAME_11310502^Petra, Forest of Illusion - Wondrous Grove^貝多拉幻想林・不可思議的森林^^^^
+MST_MISSION_NAME_11310503^Petra, Forest of Illusion - Devilish Scent^貝多拉幻想林・魔幻香氣^^^^
+MST_MISSION_NAME_11310504^Petra, Forest of Illusion - Bewitching Tree^貝多拉幻想林・妖樹^^^^
+MST_MISSION_NAME_11310505^Petra, Forest of Illusion - Exploration^貝多拉幻想林・探索^^^^
+MST_MISSION_NAME_11310601^Budoon Jungle - Richly-colored Forest^布德翁密林地帶・多彩之森^^^^
+MST_MISSION_NAME_11310602^Budoon Jungle - Strange Cry^布德翁密林地帶・奇怪鳥鳴^^^^
+MST_MISSION_NAME_11310603^Budoon Jungle - Poisonous Flowers^布德翁密林地帶・有毒花朵^^^^
+MST_MISSION_NAME_11310604^Budoon Jungle - Man-eating Tree^布德翁密林地帶・食人樹^^^^
+MST_MISSION_NAME_11310605^Budoon Jungle - An Offensive Presence^布德翁密林地帶・醜惡氣息^^^^
+MST_MISSION_NAME_11310701^Forbidden Land - Withering Lands^禁斷之地・乾枯的大地^^^^
+MST_MISSION_NAME_11310702^Forbidden Land - Fading Greenery^禁斷之地・綠意斷絕^^^^
+MST_MISSION_NAME_11310703^Forbidden Land - Sprawling Desert^禁斷之地・連綿不斷的沙漠^^^^
+MST_MISSION_NAME_11310704^Forbidden Land - Leader of the Husk^禁斷之地・骸之王^^^^
+MST_MISSION_NAME_11310705^Forbidden Land - Fallen Sage^禁斷之地・墮落的賢者^^^^
+MST_MISSION_NAME_11310801^Petra, Walkway Home - Companion^貝多拉幻想林歸途・同行者^^^^
+MST_MISSION_NAME_11310802^Petra, Walkway Home - Squirmers^貝多拉幻想林歸途・蠢蠢欲動^^^^
+MST_MISSION_NAME_11310803^Petra, Walkway Home - Sense of Fear^貝多拉幻想林歸途・心懷畏懼^^^^
+MST_MISSION_NAME_11310804^Petra, Walkway Home - Master of Illusion^貝多拉幻想林歸途・幻想林之主^^^^
+MST_MISSION_NAME_11310901^Giant Forest - Strange Scenery^巨木森林帶・神奇的景觀^^^^
+MST_MISSION_NAME_11310902^Giant Forest - Subtropical Climate^巨木森林帶・亞熱帶氣候^^^^
+MST_MISSION_NAME_11310903^Giant Forest - Powerful Sunlight^巨木森林帶・灼熱的陽光^^^^
+MST_MISSION_NAME_11310904^Giant Forest - Furious Horned Beast^巨木森林帶・狂暴的角獸^^^^
+MST_MISSION_NAME_11311001^Lake Granceno - Oasis^古蘭賽諾湖・綠洲^^^^
+MST_MISSION_NAME_11311002^Lake Granceno - Peaceful Lakeside^古蘭賽諾湖・靜謐的湖畔^^^^
+MST_MISSION_NAME_11311003^Lake Granceno - A Place to Relax^古蘭賽諾湖・休息地^^^^
+MST_MISSION_NAME_11311004^Lake Granceno - Hidden in the Waterside^古蘭賽諾湖・岸邊的潛伏者^^^^
+MST_MISSION_NAME_11311101^Gagara Sand Cavern - Rocky Area^迦迦拉砂岩洞窟・怪岩地帶^^^^
+MST_MISSION_NAME_11311102^Gagara Sand Cavern - Light Footprints^迦迦拉砂岩洞窟・淺淺的足跡^^^^
+MST_MISSION_NAME_11311103^Gagara Sand Cavern - Windsound Path^迦迦拉砂岩洞窟・風鳴之路^^^^
+MST_MISSION_NAME_11311104^Gagara Sand Cavern - Gigantic Bug^迦迦拉砂岩洞窟・潛藏的巨蟲^^^^
+MST_MISSION_NAME_11311201^Battlegrounds - Azure Knight^決戰場・蒼藍騎士^^^^
+MST_MISSION_NAME_11311202^Battlegrounds - Ice Knight^決戰場・冰炎騎士^^^^
+MST_MISSION_NAME_11311301^Lutal Mine - Abandoned Path^魯塔爾廢坑・被拋棄的路^^^^
+MST_MISSION_NAME_11311302^Lutal Mine - Collapsed Ceiling^魯塔爾廢坑・崩塌的天花板^^^^
+MST_MISSION_NAME_11311303^Lutal Mine - Den of Monsters^魯塔爾廢坑・魔物們的巢穴^^^^
+MST_MISSION_NAME_11311304^Lutal Mine - Mine Remnants^魯塔爾廢坑・開採場遺蹟^^^^
+MST_MISSION_NAME_11311401^Falfa Hill - Sloping Path^法爾法丘陵・平緩的路^^^^
+MST_MISSION_NAME_11311402^Falfa Hill - Whispering Winds^法爾法丘陵・清風掠過^^^^
+MST_MISSION_NAME_11311403^Falfa Hill - Fragrant Flowers^法爾法丘陵・花草芬芳^^^^
+MST_MISSION_NAME_11311404^Falfa Hill - Misty Townscape^法爾法丘陵・朦朧的街道^^^^
+MST_MISSION_NAME_11311405^Falfa Hill - Silver Mantis^法爾法丘陵・白銀的螳螂^^^^
+MST_MISSION_NAME_11311501^Energy Transfer Station - Invader^能量轉換設施・入侵者^^^^
+MST_MISSION_NAME_11311502^Energy Transfer Station - Pursuit^能量轉換設施・追蹤^^^^
+MST_MISSION_NAME_11311503^Energy Transfer Station - Emergency Warning^能量轉換設施・緊急警報^^^^
+MST_MISSION_NAME_11311504^Energy Transfer Station - Beast Sealed Away^能量轉換設施・被封印的魔物^^^^
+MST_MISSION_NAME_11311505^Energy Transfer Station - Nazuu of the Kappa Star^能量轉換設施・十鬥星那茲^^^^
+MST_MISSION_NAME_11311506^Energy Transfer Station - Exploration^能量轉換設施・探索^^^^
+MST_MISSION_NAME_11315101^Ruins of the Water God^水神之座^^^^
+MST_MISSION_NAME_11315102^Trial of the Water God^水神的試煉^^^^
+MST_MISSION_NAME_11410101^Crystallis Cave - Underground Elevator^克里斯塔里斯大洞穴・地下電梯^^^^
+MST_MISSION_NAME_11410102^Crystallis Cave - Mid Level^克里斯塔里斯大洞穴・地下中層^^^^
+MST_MISSION_NAME_11410103^Crystallis Cave - Lower Level^克里斯塔里斯大洞穴・地下深層^^^^
+MST_MISSION_NAME_11410104^Crystallis Cave - The Angered Bird^克里斯塔里斯大洞穴・憤怒的黑鳥^^^^
+MST_MISSION_NAME_11420101^Quartz Sands - Golden Horizon^玻璃的沙漠・蒼白的地平面^^^^
+MST_MISSION_NAME_11420102^Quartz Sands - Cloud of Sand^玻璃的沙漠・揚沙^^^^
+MST_MISSION_NAME_11420103^Quartz Sands - Ruined Territory^玻璃的沙漠・步入毀滅的國土^^^^
+MST_MISSION_NAME_11420104^Quartz Sands - The Armed Statue^玻璃的沙漠・武裝的石像^^^^
+MST_MISSION_NAME_11420201^City of Ash Anabeth - The Mysterious Couple^灰之街亞那貝斯・神秘的二人組^^^^
+MST_MISSION_NAME_11420301^Skylight Desert - Hole in the Zenith^天窗的沙漠・天頂的大洞^^^^
+MST_MISSION_NAME_11420302^Skylight Desert - Confined Sunshine^天窗的沙漠・有限的陽光^^^^
+MST_MISSION_NAME_11420303^Skylight Desert - Isolated Sands^天窗的沙漠・充滿孤獨的沙丘^^^^
+MST_MISSION_NAME_11420304^Skylight Desert - Tentacles in the Dark^天窗的沙漠・在黑暗中蠢動的觸手^^^^
+MST_MISSION_NAME_11420401^Prismatic Stream - Pure Stream^七色的地底河・清澈見底的溪流^^^^
+MST_MISSION_NAME_11420402^Prismatic Stream - Crawling River^七色的地底河・蜿蜒的河道^^^^
+MST_MISSION_NAME_11420403^Prismatic Stream - Wild Crossing^七色的地底河・陌生的渡河^^^^
+MST_MISSION_NAME_11420404^Prismatic Stream - Sol's Provocation^七色的地底河・索菲拉的挑釁^^^^
+MST_MISSION_NAME_11420501^Crystallis Barrier Station - Material Reception^克里斯塔里斯屏障發生設施・物資搬入口^^^^
+MST_MISSION_NAME_11420502^Crystallis Barrier Station - Fuel Storehouse^克里斯塔里斯屏障發生設施・燃料貯藏庫^^^^
+MST_MISSION_NAME_11420503^Crystallis Barrier Station - Central Block^克里斯塔里斯屏障發生設施・中央區域^^^^
+MST_MISSION_NAME_11420504^Crystallis Barrier Station - Depths^克里斯塔里斯屏障發生設施・最深部^^^^
+MST_MISSION_NAME_11420505^Crystallis Barrier Station - Attack of the Armored Weapon^克里斯塔里斯屏障發生設施・襲來的機甲兵器^^^^
+MST_MISSION_NAME_11420601^Varved Wharf - Bottomless Palisade^層疊的崖壁・深不可測的斷崖^^^^
+MST_MISSION_NAME_11420602^Varved Wharf - Stone Steps^層疊的崖壁・雕刻的石階^^^^
+MST_MISSION_NAME_11420603^Varved Wharf - Dangerous Planks^層疊的崖壁・危險的棧道^^^^
+MST_MISSION_NAME_11420604^Varved Wharf - Dark Underground^層疊的崖壁・漆黑的地底^^^^
+MST_MISSION_NAME_11420605^Varved Wharf - Sly Pterosaur^層疊的崖壁・狡猾的翼龍^^^^
+MST_MISSION_NAME_11420701^Forest of Blades - Complicated Intentions^白刃之森・複雜的內心^^^^
+MST_MISSION_NAME_11420702^Forest of Blades - Journey of Fate^白刃之森・命運的旅途^^^^
+MST_MISSION_NAME_11420703^Forest of Blades - Appeal for Mother^白刃之森・尋找被抓走的母親^^^^
+MST_MISSION_NAME_11420704^Forest of Blades - The Frank Troupe^白刃之森・保持距離的同行者^^^^
+MST_MISSION_NAME_11420705^Forest of Blades - The Vigilant Demon^白刃之森・全無死角的惡魔^^^^
+MST_MISSION_NAME_11420801^Runferia Castle - Cell of Lament^倫菲利亞城・猜忌之籠^^^^
+MST_MISSION_NAME_11420802^Runferia Castle - The Impassible Gaoler^倫菲利亞城・攔路的獄卒^^^^
+MST_MISSION_NAME_11420803^Runferia Castle - Encircling Snare^倫菲利亞城・遍布的陷阱^^^^
+MST_MISSION_NAME_11420804^Runferia Castle - Cursed Gallows^倫菲利亞城・被詛咒的刑場^^^^
+MST_MISSION_NAME_11420805^Runferia Castle - The Deadly Two-headed Dragon^倫菲利亞城・召喚死神的雙龍頭^^^^
+MST_MISSION_NAME_11420806^Runferia Castle - Exploration^倫菲利亞城・探索^^^^
+MST_MISSION_NAME_11420901^Fuzzy Flats - To Ilteah^絨毛草原・前往伊爾特亞^^^^
+MST_MISSION_NAME_11420902^Fuzzy Flats - Floating Fluff^絨毛草原・飛來飛去的絨毛^^^^
+MST_MISSION_NAME_11420903^Fuzzy Flats - Protecting Mother^絨毛草原・守護母親^^^^
+MST_MISSION_NAME_11420904^Fuzzy Flats - The Awkward Assassins^絨毛草原・奇怪的刺客們^^^^
+MST_MISSION_NAME_11421001^Illusion Magic Research Facility - Ravaged Laboratory^幻魔導研究設施・破敗的研究室^^^^
+MST_MISSION_NAME_11421002^Illusion Magic Research Facility - Decayed Test Facility^幻魔導研究設施・坍塌的實驗樓^^^^
+MST_MISSION_NAME_11421003^Illusion Magic Research Facility - Undivided Feelings^幻魔導研究設施・無法釋懷的思緒^^^^
+MST_MISSION_NAME_11421004^Illusion Magic Research Facility - Pressing Threat^幻魔導研究設施・漸漸逼近的威脅^^^^
+MST_MISSION_NAME_11421101^Silk Way - Disused Trade Route^絲綢岩道・廢棄的交易路線^^^^
+MST_MISSION_NAME_11421102^Silk Way - Stony Wasteland^絲綢岩道・礫岩的荒野^^^^
+MST_MISSION_NAME_11421103^Silk Way - Endless Road^絲綢岩道・無止境的惡路^^^^
+MST_MISSION_NAME_11421104^Silk Way - Raging Stag^絲綢岩道・兇猛的古鹿^^^^
+MST_MISSION_NAME_11421201^Quicksand Valley - Collapsing Dunes^流沙之谷・崩塌的沙丘^^^^
+MST_MISSION_NAME_11421202^Quicksand Valley - Swirling Quicksand^流沙之谷・流沙漩渦^^^^
+MST_MISSION_NAME_11421203^Quicksand Valley - Bottomless Sands^流沙之谷・深不見底的沙谷^^^^
+MST_MISSION_NAME_11421204^Quicksand Valley - Hunter Under the Sands^流沙之谷・沙底獵人^^^^
+MST_MISSION_NAME_11421301^Room of Oblivion - Burial Way^忘卻的寢室・祭奠之路^^^^
+MST_MISSION_NAME_11421302^Room of Oblivion - Uneasy March^忘卻的寢室・焦躁的行軍^^^^
+MST_MISSION_NAME_11421303^Room of Oblivion - Battle with Time^忘卻的寢室・與時間戰鬥^^^^
+MST_MISSION_NAME_11421304^Room of Oblivion - Golden Dragon^忘卻的寢室・黃金邪龍^^^^
+MST_MISSION_NAME_11421401^Hideaway Lanzatto - Provocation of the Heretic^隱居之處蘭扎特・惡人的挑釁^^^^
+MST_MISSION_NAME_11421402^Hideaway Lanzatto - Ambush^隱居之處蘭扎特・襲來的伏兵^^^^
+MST_MISSION_NAME_11421403^Hideaway Lanzatto - More Traps^隱居之處蘭扎特・更多的陷阱^^^^
+MST_MISSION_NAME_11421404^Hideaway Lanzatto - Cowardly Trick^隱居之處蘭扎特・卑鄙小人的奸計^^^^
+MST_MISSION_NAME_11421405^Hideaway Lanzatto - Zolulu and Delulu^隱居之處蘭扎特・佐魯魯和德魯魯^^^^
+MST_MISSION_NAME_11421406^Hideaway Lanzatto - Yego of the Gamma Star^隱居之處蘭扎特・三鬥星伊戈^^^^
+MST_MISSION_NAME_11421501^Energy Extraction Station - Interior^能量抽取設施・設施內部^^^^
+MST_MISSION_NAME_11421502^Energy Extraction Station - Restricted Area^能量抽取設施・限制區域^^^^
+MST_MISSION_NAME_11421503^Energy Extraction Station - Central Engine Room^能量抽取設施・中央機關室^^^^
+MST_MISSION_NAME_11421504^Energy Extraction Station - Nagi of the Iota Star^能量抽取設施・九鬥星那岐^^^^
+MST_MISSION_NAME_11421505^Energy Extraction Station - Rematch of Destiny^能量抽取設施・宿命的再戰^^^^
+MST_MISSION_NAME_11421506^Energy Extraction Station - Exploration^能量抽取設施・探索^^^^
+MST_MISSION_NAME_11421507^Energy Extraction Station Center - Break In^能量抽取設施中樞・突入^^^^
+MST_MISSION_NAME_11421508^Energy Extraction Station Center - On Guard^能量抽取設施中樞・警戒^^^^
+MST_MISSION_NAME_11421509^Energy Extraction Station Center - Counter Attack^能量抽取設施中樞・迎擊^^^^
+MST_MISSION_NAME_11421510^Energy Extraction Station Center - Security Guards^能量抽取設施中樞・警備兵^^^^
+MST_MISSION_NAME_11421511^Energy Extraction Station Core - Reactor 1^能量抽取設施核心・第一動力爐^^^^
+MST_MISSION_NAME_11421512^Energy Extraction Station Core - Reactor 2^能量抽取設施核心・第二動力爐^^^^
+MST_MISSION_NAME_11421513^Energy Extraction Station Core - Reactor 3^能量抽取設施核心・第三動力爐^^^^
+MST_MISSION_NAME_11421514^Energy Extraction Station Core - Reactor 4^能量抽取設施核心・第四動力爐^^^^
+MST_MISSION_NAME_11421601^Nirvana Woods - Runaway Path^寂滅之森・敗退的小道^^^^
+MST_MISSION_NAME_11421602^Nirvana Woods - Beast Trail^寂滅之森・無主野獸的山路^^^^
+MST_MISSION_NAME_11421603^Nirvana Woods - Starved for Life^寂滅之森・滅絕的生命^^^^
+MST_MISSION_NAME_11421604^Nirvana Woods - Life Stealing Soul^寂滅之森・索命的死靈^^^^
+MST_MISSION_NAME_11421605^Nirvana Woods - Exploration^寂滅之森・探索^^^^
+MST_MISSION_NAME_11421701^Scalestone Way - Stoneblocked Way^鱗岩道路・被岩石堵住的路^^^^
+MST_MISSION_NAME_11421702^Scalestone Way - Falling Rocks^鱗岩道路・崩塌的落石^^^^
+MST_MISSION_NAME_11421703^Scalestone Way - Steep Slope^鱗岩道路・大斜坡^^^^
+MST_MISSION_NAME_11421704^Scalestone Way - The Beast's Assault^鱗岩道路・猛攻的野獸^^^^
+MST_MISSION_NAME_11421801^Deadly Rock Path - Eroded Rocks^遺失岩場・侵蝕怪岩群^^^^
+MST_MISSION_NAME_11421802^Deadly Rock Path - Raging Winds^遺失岩場・狂風大作^^^^
+MST_MISSION_NAME_11421803^Deadly Rock Path - Lost World^遺失岩場・消失的世界^^^^
+MST_MISSION_NAME_11421804^Deadly Rock Path - Howl of Lament^遺失岩場・哀歎的咆哮^^^^
+MST_MISSION_NAME_11421901^Elmaul Archives - Before the Gates^艾爾瑪烏爾的書庫外・門前^^^^
+MST_MISSION_NAME_11421902^Elmaul Archives - Courtyard^艾爾瑪烏爾的書庫外・內院^^^^
+MST_MISSION_NAME_11421903^Elmaul Archives - Pursuers^艾爾瑪烏爾的書庫內・追蹤者們^^^^
+MST_MISSION_NAME_11421904^Elmaul Archives - Full Speed Escape^艾爾瑪烏爾的書庫內・拼命逃亡^^^^
+MST_MISSION_NAME_11421905^Elmaul Archives - Massacre Weapon^艾爾瑪烏爾的書庫內・殺戮兵器^^^^
+MST_MISSION_NAME_11422001^Road to Porchika Village - Intentions^通往波其卡村的道路・內心^^^^
+MST_MISSION_NAME_11422002^Road to Porchika Village - Comrades^通往波其卡村的道路・夥伴^^^^
+MST_MISSION_NAME_11422003^Road to Porchika Village - Worries^通往波其卡村的道路・擔憂^^^^
+MST_MISSION_NAME_11422004^Road to Porchika Village - Presence^通往波其卡村的道路・跡象^^^^
+MST_MISSION_NAME_11422005^Road to Porchika Village - True Form^通往波其卡村的道路・原形^^^^
+MST_MISSION_NAME_11425101^Cave of Rebirth - Forceful Winds^轉生的洞穴・阻擋前進的熱風^^^^
+MST_MISSION_NAME_11425102^Cave of Rebirth - Magma of Destruction^轉生的洞穴・殞命岩漿^^^^
+MST_MISSION_NAME_11425103^Cave of Rebirth - Lava River^轉生的洞穴・熔岩之川^^^^
+MST_MISSION_NAME_11425104^Cave of Rebirth - Cavern of Power^轉生的洞穴・充滿力量的焰洞^^^^
+MST_MISSION_NAME_11425105^Cave of Rebirth - Den of the Invincible Bird^轉生的洞穴・不死鳥的住處^^^^
+MST_MISSION_NAME_11425106^Cave of Rebirth - Trial of Rebirth^轉生的洞穴・轉生的試煉^^^^
+MST_MISSION_NAME_11430101^Madam Hall Outside - The Madam's Trial^夫人公館外周・夫人的試煉^^^^
+MST_MISSION_NAME_11430201^Ancient Ruins - Level 1^古代遺跡・1層^^^^
+MST_MISSION_NAME_4020101^Memories of the Left Behind^倖存者們的心聲^^^^
+MST_MISSION_NAME_4020102^Trustworthy Soldiers^可靠的士兵們^^^^
+MST_MISSION_NAME_4020103^Reunion for Knights^重逢的騎士^^^^
+MST_MISSION_NAME_4020104^Bout Between Friends^朋友之間的較量^^^^
+MST_MISSION_NAME_4020105^Transparent Hesitation^無所遁形的迷惘^^^^
+MST_MISSION_NAME_4020106^Shaking Heart^動搖的心^^^^
+MST_MISSION_NAME_4020107^Prowling Arms^彷徨的兵器^^^^
+MST_MISSION_NAME_4020108^Oath to Mother^向母親發過的誓言^^^^
+MST_MISSION_NAME_4020109^A Nostalgic Journey^令人懷念的旅途^^^^
+MST_MISSION_NAME_4020110^The Hungry Mantis^空腹的螳螂^^^^
+MST_MISSION_NAME_4020111^Emma's Encouragement^埃瑪的鼓勵^^^^
+MST_MISSION_NAME_4020112^Eroded Bitemarks^腐蝕的咬痕^^^^
+MST_MISSION_NAME_4020113^Lustrous Mold^發光的黑色黏菌^^^^
+MST_MISSION_NAME_4020114^The Stuck Sword^拔不出來的劍^^^^
+MST_MISSION_NAME_4020115^Bearer of Bad Memories^繼承邪惡思想之人^^^^
+MST_MISSION_NAME_4020116^Corpse Flood^蜂擁而至的屍體^^^^
+MST_MISSION_NAME_4020117^Crimson Blade^紅之劍^^^^
+MST_MISSION_NAME_4020118^Azure Soul^蒼之魂^^^^
+MST_MISSION_NAME_4020119^To the Future^邁向未來^^^^
+MST_MISSION_NAME_4020201^Undying Grudge^無法消失的憾恨^^^^
+MST_MISSION_NAME_4020202^To the Water Shrine^前往水之神殿^^^^
+MST_MISSION_NAME_4020203^Purifying Water^洗淨污穢之水^^^^
+MST_MISSION_NAME_4020204^Shadow on the Water^湖面上的影子^^^^
+MST_MISSION_NAME_4020205^The Water God's Sadness^水神的擔憂^^^^
+MST_MISSION_NAME_4020206^Elle's Heart^艾爾的思緒^^^^
+MST_MISSION_NAME_4020207^A Place to Return^歸處^^^^
+MST_MISSION_NAME_4020301^Is This a Date!?^這是約會？！^^^^
+MST_MISSION_NAME_4020302^Eavesdropper^偷聽^^^^
+MST_MISSION_NAME_4020303^Shaken^動搖的少女^^^^
+MST_MISSION_NAME_4020304^Splendid Cooperation^絕妙的協作^^^^
+MST_MISSION_NAME_4020305^Uncontrollable Ancient Mech^失控的古代機械^^^^
+MST_MISSION_NAME_4020306^What Can You Do For Me?^我能做到的事^^^^
+MST_MISSION_NAME_4020307^Group Work^合作^^^^
+MST_MISSION_NAME_4020308^Closing the Distance^縮短的距離^^^^
+MST_MISSION_NAME_4020401^A Brief Rest^短暫的休息^^^^
+MST_MISSION_NAME_4020402^Old Friends^舊友^^^^
+MST_MISSION_NAME_4020403^Collecting Old Parts^尋找古代零件^^^^
+MST_MISSION_NAME_4020404^Splendid Cooperation^絕妙的協作^^^^
+MST_MISSION_NAME_4020405^Uncontrollable Ancient Mech^失控的古代機械^^^^
+MST_MISSION_NAME_4020406^A Change in Jake^傑科的變化^^^^
+MST_MISSION_NAME_4020407^A Breath of Fresh Air^煥然一新的心情^^^^
+MST_MISSION_NAME_4020408^Hidden Arms^投入心血的武器^^^^
+MST_MISSION_NAME_4020501^Fina's Determination^菲娜的決心^^^^
+MST_MISSION_NAME_4020502^Another Self^和另一個我^^^^
+MST_MISSION_NAME_4020503^Paladia Once More^再次來到帕拉迪亞^^^^
+MST_MISSION_NAME_4020504^Departing from the Dark^魔人的叛離^^^^
+MST_MISSION_NAME_4020505^To the Base^通往據點的路^^^^
+MST_MISSION_NAME_4020506^Hess's Leader^赫斯的主導者^^^^
+MST_MISSION_NAME_4020507^The Power of Aldore^阿爾多爾之力^^^^
+MST_MISSION_NAME_4020508^Dark Fina's Past^魔人菲娜的過去^^^^
+MST_MISSION_NAME_4020509^The Veritas Persuasion^常暗的勸導^^^^
+MST_MISSION_NAME_4020510^An Unavoidable Conflict^無法撤退的戰鬥^^^^
+MST_MISSION_NAME_4020511^Darkness Sealed Away^被封印的魔人^^^^
+MST_MISSION_NAME_4020512^Birth of Fina^菲娜誕生^^^^
+MST_MISSION_NAME_4020513^Mixed Feelings^被分隔的心^^^^
+MST_MISSION_NAME_4020514^Ideal Figure^理想的模樣^^^^
+MST_MISSION_NAME_4020515^That Which is Protected^想要守護之物^^^^
+MST_MISSION_NAME_4020516^Heart in the Darkness^魔人的心願^^^^
+MST_MISSION_NAME_4020517^Proof of Life^活著的證明^^^^
+MST_MISSION_NAME_4020518^Inheritance of Power^魔力繼承^^^^
+MST_MISSION_NAME_4020519^Fina's Journey^菲娜的旅途^^^^
+MST_MISSION_NAME_4020601^The Chosen Sister^被選中的姊妹^^^^
+MST_MISSION_NAME_4020602^Time for Farewell^訣別之時^^^^
+MST_MISSION_NAME_4020603^Sakura's Independence^櫻的孤獨^^^^
+MST_MISSION_NAME_4020604^Beyond an Era^穿越漫長的時光^^^^
+MST_MISSION_NAME_6000107^Inferno Hollow 1^炎風的洞窟1^^^^
+MST_MISSION_NAME_6000108^Inferno Hollow 2^炎風的洞窟2^^^^
+MST_MISSION_NAME_6000109^Siren's Tower 2^塞壬之塔2^^^^
+MST_MISSION_NAME_6000110^Siren's Tower 3^塞壬之塔3^^^^
+MST_MISSION_NAME_6000111^Inferno Hollow 3^炎風洞窟3^^^^
+MST_MISSION_NAME_6000206^Zadehl Southersands 1^扎德爾沙漠1^^^^
+MST_MISSION_NAME_6000207^Zadehl Southersands 2^扎德爾沙漠2^^^^
+MST_MISSION_NAME_6000208^Lanzelt Mountains 1^蘭澤爾特雪原1^^^^
+MST_MISSION_NAME_6000209^Lanzelt Mountains 2^蘭澤爾特雪原2^^^^
+MST_MISSION_NAME_6000211^Lanzelt Mountains 3^蘭澤爾特雪原3^^^^
+MST_MISSION_NAME_6000304^Thunder Summit 1^雷鳴迴響之頂1^^^^
+MST_MISSION_NAME_6000305^Thunder Summit 2^雷鳴迴響之頂2^^^^
+MST_MISSION_NAME_6000306^Thunder Summit 3^雷鳴迴響之頂3^^^^
+MST_MISSION_NAME_6000406^Wicked Peaks 1^魔山1^^^^
+MST_MISSION_NAME_6000407^Wicked Peaks 2^魔山2^^^^
+MST_MISSION_NAME_6000510^Carbuncle Grove Obtain^卡邦庫爾之森・獲得^^^^
+MST_MISSION_NAME_6000511^Carbuncle Grove Evolve^卡邦庫爾之森・進化^^^^
+MST_MISSION_NAME_6000608^Eroded Castle - Obtain Odin^腐朽的古城・獲得奧汀^^^^
+MST_MISSION_NAME_6000609^Eroded Castle - Evolve Odin^腐朽的古城・奧汀進化^^^^
+MST_MISSION_NAME_6000610^Electric Tower ATM Battle^電波塔ATM之戰^^^^
+MST_MISSION_NAME_6000704^Cave of the Titan - Obtain Titan^泰坦的洞窟・獲得泰坦^^^^
+MST_MISSION_NAME_6000705^Cave of the Titan - Evolve Titan^泰坦的洞窟・泰坦進化^^^^
+MST_MISSION_NAME_6000803^Obtain Lakshmi^吉祥天女・獲得^^^^
+MST_MISSION_NAME_6000804^Evolve Lakshmi^吉祥天女・進化^^^^
+MST_MISSION_NAME_6001002^Obtain Tetra Sylphid^四方風精靈・獲得^^^^
+MST_MISSION_NAME_6001003^Evolve Tetra Sylphid^四方風精靈・進化^^^^
+MST_MISSION_NAME_6001201^Dragon Village Event 1^龍之鄉事件1^^^^
+MST_MISSION_NAME_6001202^Dragon Village Event 2^龍之鄉事件2^^^^
+MST_MISSION_NAME_6001301^Obtain Fenrir^芬里爾・獲得^^^^
+MST_MISSION_NAME_6001302^Evolve Fenrir^芬里爾・進化^^^^
+MST_MISSION_NAME_6001401^Industrial Capital Event 1^工廠都市事件1^^^^
+MST_MISSION_NAME_6001402^Industrial Capital Event 2^工廠都市事件2^^^^
+MST_MISSION_NAME_6001501^Naturia Event 1^那托利亞事件1^^^^
+MST_MISSION_NAME_6001502^Naturia Event 2^那托利亞事件2^^^^
+MST_MISSION_NAME_6001503^Ruins of the Water God_Entrance Event^水神的遺蹟_入口事件^^^^
+MST_MISSION_NAME_6001504^Ruins of the Water God_Field Dialog 1-1^水神的遺蹟_場地對話1-1^^^^
+MST_MISSION_NAME_6001505^Ruins of the Water God_Field Dialog 2-1^水神的遺蹟_場地對話2-1^^^^
+MST_MISSION_NAME_6001506^Ruins of the Water God_Field Dialog 3^水神的遺蹟_場地對話3^^^^
+MST_MISSION_NAME_6001507^Ruins of the Water God_Obtain Leviathan^水神的遺蹟_利維坦・獲得^^^^
+MST_MISSION_NAME_6001508^Ruins of the Water God_Evolve Leviathan^水神的遺蹟_利維坦・進化^^^^
+MST_MISSION_NAME_6001601^Estavilla Event 1^埃斯塔維拉事件1^^^^
+MST_MISSION_NAME_6001602^Estavilla Event 2^埃斯塔維拉事件2^^^^
+MST_MISSION_NAME_6001603^Tooke Town Event 1^圖克鎮事件1^^^^
+MST_MISSION_NAME_6001604^Tooke Town Event 2^圖克鎮事件2^^^^
+MST_MISSION_NAME_6001605^Estavilla Event 3^埃斯塔維拉事件3^^^^
+MST_MISSION_NAME_6001606^Naturia 3^那托利亞3^^^^
+MST_MISSION_NAME_6001607^Energy Transfer Station 3^能量轉換設施3^^^^
+MST_MISSION_NAME_6001608^Estavilla Event 4^埃斯塔維拉事件4^^^^
+MST_MISSION_NAME_7080106^Mana Mystery - BGN^瑪娜的巨大秘密・初級^^^^
+MST_MISSION_NAME_7080107^Mana Mystery - INT^瑪娜的巨大秘密・中級^^^^
+MST_MISSION_NAME_7080108^Mana Mystery - ADV^瑪娜的巨大秘密・上級^^^^
+MST_MISSION_NAME_7080109^Mana Mystery - PRO^瑪娜的巨大秘密・超級^^^^
+MST_MISSION_NAME_7080110^Mana Mystery - ELT^瑪娜的巨大秘密・覺醒級^^^^
+MST_MISSION_NAME_7430105^(Returned) Dangerous Woman Tour - Entrance^【復刻】Dangerous Woman Tour ・入口^^^^
+MST_MISSION_NAME_7430106^(Returned) Dangerous Woman Tour - Lobby^【復刻】Dangerous Woman Tour ・前廳^^^^
+MST_MISSION_NAME_7430107^(Returned) Dangerous Woman Tour - Waiting Room^【復刻】Dangerous Woman Tour ・等候室^^^^
+MST_MISSION_NAME_7430108^(Returned) Dangerous Woman Tour - Main Hall^【復刻】Dangerous Woman Tour ・主廳^^^^
+MST_MISSION_NAME_7560103^Lotus Mage Fina^白蓮魔道士菲娜^^^^
+MST_MISSION_NAME_7560104^Gunner Jake^無名槍士傑科^^^^
+MST_MISSION_NAME_7560105^Heavenly Technician Lid^星虹技師里德^^^^
+MST_MISSION_NAME_7560106^Maritime Strategist Nichol^洸洋軍師尼科爾^^^^
+MST_MISSION_NAME_7560107^Raegen^雷根^^^^
+MST_MISSION_NAME_7610101^Garuda, Lady of the Vortex - INT^風神迦樓羅殲滅戰・中級^^^^
+MST_MISSION_NAME_7610102^Garuda, Lady of the Vortex - ADV^風神迦樓羅殲滅戰・上級^^^^
+MST_MISSION_NAME_7610103^Garuda, Lady of the Vortex - PRO^風神迦樓羅殲滅戰・超級^^^^
+MST_MISSION_NAME_7610104^Garuda, Lady of the Vortex - ELT^風神迦樓羅殲滅戰・覺醒級^^^^
+MST_MISSION_NAME_7620101^The True Garuda^真迦樓羅殲滅戰^^^^
+MST_MISSION_NAME_7630101^Dark Castle - BGN^黑暗城堡・初級^^^^
+MST_MISSION_NAME_7630102^Dark Castle - INT^黑暗城堡・中級^^^^
+MST_MISSION_NAME_7630103^Dark Castle - ADV^黑暗城堡・上級^^^^
+MST_MISSION_NAME_7630104^Dark Castle - PRO^黑暗城堡・超級^^^^
+MST_MISSION_NAME_7630105^Dark Castle - ELT^黑暗城堡・覺醒級^^^^
+MST_MISSION_NAME_7630106^Dark Castle - LGD^黑暗城堡・魔人級^^^^
+MST_MISSION_NAME_7640101^Castle Granth - Exploration (HARD)^格蘭斯城・探索（HARD）^^^^
+MST_MISSION_NAME_7640102^Castle Granth - Exploration (EASY)^格蘭斯城・探索（EASY）^^^^
+MST_MISSION_NAME_7660101^Rebel Against the Empire - INT^反擊帝國・中級^^^^
+MST_MISSION_NAME_7660102^Rebel Against the Empire - ADV^反擊帝國・上級^^^^
+MST_MISSION_NAME_7660103^Rebel Against the Empire - PRO^反擊帝國・超級^^^^
+MST_MISSION_NAME_7660104^Rebel Against the Empire - ELT^反擊帝國・覺醒級^^^^
+MST_MISSION_NAME_7670101^Fort Vaullerey - Battle with Aranea^沃拉雷基地・艾拉尼亞戰^^^^
+MST_MISSION_NAME_7680101^Ogir-Yensa Sandsea - BGN^大沙海奧格・焉薩・初級^^^^
+MST_MISSION_NAME_7680102^Ogir-Yensa Sandsea - INT^大沙海奧格・焉薩・中級^^^^
+MST_MISSION_NAME_7680103^Ogir-Yensa Sandsea - ADV^大沙海奧格・焉薩・上級^^^^
+MST_MISSION_NAME_7680104^Ogir-Yensa Sandsea - PRO^大沙海奧格・焉薩・超級^^^^
+MST_MISSION_NAME_7680105^Ogir-Yensa Sandsea - ELT^大沙海奧格・焉薩・覺醒級^^^^
+MST_MISSION_NAME_7680106^Ogir-Yensa Sandsea - LGD^大沙海奧格・焉薩・魔人級^^^^
+MST_MISSION_NAME_7690101^Nam-Yensa Sandsea - Exploration (HARD)^大沙海奧格・焉薩・探索（HARD）^^^^
+MST_MISSION_NAME_7690102^Nam-Yensa Sandsea - Exploration (EASY)^大沙海奧格・焉薩・探索（EASY）^^^^
+MST_MISSION_NAME_7710101^Luxendarc, Land of Light and Shadow - INT^光與暗的世界盧森達爾克・中級^^^^
+MST_MISSION_NAME_7710102^Luxendarc, Land of Light and Shadow - ADV^光與暗的世界盧森達爾克・上級^^^^
+MST_MISSION_NAME_7710103^Luxendarc, Land of Light and Shadow - PRO^光與暗的世界盧森達爾克・超級^^^^
+MST_MISSION_NAME_7710104^Luxendarc, Land of Light and Shadow - ELT^光與暗的世界盧森達爾克・覺醒級^^^^
+MST_MISSION_NAME_7720101^Abyss Hall 55^無底深淵55層^^^^
+MST_MISSION_NAME_7730101^Fabul Castle - BGN^法布爾城・初級^^^^
+MST_MISSION_NAME_7730102^Fabul Castle - INT^法布爾城・中級^^^^
+MST_MISSION_NAME_7730103^Fabul Castle - ADV^法布爾城・上級^^^^
+MST_MISSION_NAME_7730104^Fabul Castle - PRO^法布爾城・超級^^^^
+MST_MISSION_NAME_7730105^Fabul Castle - ELT^法布爾城・覺醒級^^^^
+MST_MISSION_NAME_7730106^Fabul Castle - LGD^法布爾城・魔人級^^^^
+MST_MISSION_NAME_7740101^Crystal Room - Battle with Kain^水晶之間・凱因戰^^^^
+MST_MISSION_NAME_7760101^Global Version Anniversary Raid - INT^國際版一週年紀念共鬥・中級^^^^
+MST_MISSION_NAME_7760102^Global Version Anniversary Raid - ADV^國際版一週年紀念共鬥・上級^^^^
+MST_MISSION_NAME_7760103^Global Version Anniversary Raid - PRO^國際版一週年紀念共鬥・超級^^^^
+MST_MISSION_NAME_7760104^Global Version Anniversary Raid - ELT^國際版一週年紀念共鬥・覺醒級^^^^
+MST_MISSION_NAME_7770101^Global Version Anniversary Raid - The Great Nian Beast^國際版一週年紀念共鬥・巨年獸戰^^^^
+MST_MISSION_NAME_7780101^Nibelheim - BGN^尼布爾海姆・初級^^^^
+MST_MISSION_NAME_7780102^Nibelheim - INT^尼布爾海姆・中級^^^^
+MST_MISSION_NAME_7780103^Nibelheim - ADV^尼布爾海姆・上級^^^^
+MST_MISSION_NAME_7780104^Nibelheim - PRO^尼布爾海姆・超級^^^^
+MST_MISSION_NAME_7780105^Nibelheim - ELT^尼布爾海姆・覺醒級^^^^
+MST_MISSION_NAME_7780106^Nibelheim - LGD^尼布爾海姆・魔人級^^^^
+MST_MISSION_NAME_7790101^Mt. Nibel - Exploration (HARD)^尼布爾山・探索（HARD）^^^^
+MST_MISSION_NAME_7790102^Mt. Nibel - Exploration (EASY)^尼布爾山・探索（EASY）^^^^
+MST_MISSION_NAME_7810101^Defeat Jie Revors - INT^傑・瑞沃斯討伐・中級^^^^
+MST_MISSION_NAME_7810102^Defeat Jie Revors - ADV^傑・瑞沃斯討伐・上級^^^^
+MST_MISSION_NAME_7810103^Defeat Jie Revors - PRO^傑・瑞沃斯討伐・超級^^^^
+MST_MISSION_NAME_7810104^Defeat Jie Revors - ELT^傑・瑞沃斯討伐・覺醒級^^^^
+MST_MISSION_NAME_7810105^Defeat Jie Revors - LGD^傑・瑞沃斯討伐・魔人級^^^^
+MST_MISSION_NAME_7820101^Defeat Jie Revors - GOD^傑・瑞沃斯討伐・地獄級^^^^
+MST_MISSION_NAME_7830101^Knight's Exam - BGN^騎士團入圍測試・初級^^^^
+MST_MISSION_NAME_7830102^Knight's Exam - INT^騎士團入圍測試・中級^^^^
+MST_MISSION_NAME_7830103^Knight's Exam - ADV^騎士團入圍測試・上級^^^^
+MST_MISSION_NAME_7830104^Knight's Exam - PRO^騎士團入圍測試・超級^^^^
+MST_MISSION_NAME_7830105^Knight's Exam - ELT^騎士團入圍測試・覺醒級^^^^
+MST_MISSION_NAME_7830106^Knight's Exam - LGD^騎士團入圍測試・魔人級^^^^
+MST_MISSION_NAME_7840101^Latius Woods - Past (HARD)^拉提烏斯之森・過去（HARD）^^^^
+MST_MISSION_NAME_7840102^Latius Woods - Past (EASY)^拉提烏斯之森・過去（EASY）^^^^
+MST_MISSION_NAME_7650100^Kunshira and Wadow^庫西拉和瓦多^^^^
+MST_MISSION_NAME_7650101^Reminiscence^敘舊^^^^
+MST_MISSION_NAME_7650102^As a Natra^身為納特拉^^^^
+MST_MISSION_NAME_7650103^Battle for the Trophy^與獲物進行格鬥^^^^
+MST_MISSION_NAME_7650104^Rules of the Hunt^狩獵法的差異^^^^
+MST_MISSION_NAME_7650105^Blood of the Shibyra^無法掩藏的西維拉之血^^^^
+MST_MISSION_NAME_7650106^Rage, Wild Stallion^兇暴的野馬^^^^
+MST_MISSION_NAME_7650107^The Unforgiving Hound^警惕的忍者犬^^^^
+MST_MISSION_NAME_7650200^Two Strangers^兩個陌生人^^^^
+MST_MISSION_NAME_7650201^Lost Travellers^迷路的旅行者^^^^
+MST_MISSION_NAME_7650202^The Long, Rough Way^漫長的荒路^^^^
+MST_MISSION_NAME_7650203^Two Peoples^兩個種族^^^^
+MST_MISSION_NAME_7650204^Icy Flash^冰刃一閃^^^^
+MST_MISSION_NAME_7650205^Erwin's Curiosity^亞溫的好奇心^^^^
+MST_MISSION_NAME_7650206^Beyond the Plains^穿越平原^^^^
+MST_MISSION_NAME_7650207^The Slumbering Bloodsucker^打瞌睡的吸血花^^^^
+MST_MISSION_NAME_7650208^Search for the Outsider^陌生人，遺失物^^^^
+MST_MISSION_NAME_7650300^Loyal Hound^忠義的忍者犬^^^^
+MST_MISSION_NAME_7650301^Wadow's Irritation^瓦多的焦躁^^^^
+MST_MISSION_NAME_7650302^A Dubious Human^可疑之人^^^^
+MST_MISSION_NAME_7650303^Allies in Battle^聯手的二人^^^^
+MST_MISSION_NAME_7650304^Skilled Dog Master^有效的忍犬術^^^^
+MST_MISSION_NAME_7650305^Monsters Scatter^四下逃竄的魔物^^^^
+MST_MISSION_NAME_7650306^Rage, Master of the Forest^憤怒的森林之主^^^^
+MST_MISSION_NAME_7650307^The Nobleman's Messenger^貴人的使者^^^^
+MST_MISSION_NAME_7650400^The Unpleasant Threesome^尷尬的三人^^^^
+MST_MISSION_NAME_7650401^Thoughts of the Ruler^王之信念^^^^
+MST_MISSION_NAME_7650402^Self Introduction^自我介紹^^^^
+MST_MISSION_NAME_7650403^Reservations^芥蒂^^^^
+MST_MISSION_NAME_7650404^Erwin's Confusion^困惑的亞溫^^^^
+MST_MISSION_NAME_7650405^Teamwork How-to^團隊合作^^^^
+MST_MISSION_NAME_7650406^Black Sickle^黑之鐮^^^^
+MST_MISSION_NAME_7650407^A Silencing Visit^沉默降臨^^^^
+MST_MISSION_NAME_7650500^Unending Discord^無法消除的爭執^^^^
+MST_MISSION_NAME_7650501^Strong Words^爭吵^^^^
+MST_MISSION_NAME_7650502^Pathway Below the Tree^被樹木掩埋的道路^^^^
+MST_MISSION_NAME_7650503^Dense Hidden Forest^繁茂密林^^^^
+MST_MISSION_NAME_7650504^Monsters in the Thicket^藏在樹叢中的魔物們^^^^
+MST_MISSION_NAME_7650505^Ruins in the Vines^被森林吞沒的遺蹟^^^^
+MST_MISSION_NAME_7650506^The Green Rock Monster^綠石魔物^^^^
+MST_MISSION_NAME_7650507^Do It For Yourself^力所能及的事^^^^
+MST_MISSION_NAME_7650600^Kunshira's Determination^庫西拉的決心^^^^
+MST_MISSION_NAME_7650601^Trial of the Beasts^經受考驗的獸人們^^^^
+MST_MISSION_NAME_7650602^Inner Ruins - Plaza^遺蹟內部・大廳^^^^
+MST_MISSION_NAME_7650603^Inner Ruins - Garden^遺蹟內部・庭院^^^^
+MST_MISSION_NAME_7650604^Inner Ruins - Hallway^遺蹟內部・走廊^^^^
+MST_MISSION_NAME_7650605^Inner Ruins - Before the Monument^遺蹟內部・石碑之間^^^^
+MST_MISSION_NAME_7650606^Forbidden Existence^禁忌的生命^^^^
+MST_MISSION_NAME_7650607^Resolution and Recognition^決定與決心^^^^
+MST_MISSION_NAME_7650700^Reconciliation of the Beasts^獸人們的和解^^^^
+MST_MISSION_NAME_7650701^Compromise^妥協^^^^
+MST_MISSION_NAME_7650702^Inner Ruins - Corridor^遺蹟內部・迴廊^^^^
+MST_MISSION_NAME_7650703^Inner Ruins - Pillared Chamber^遺蹟內部・柱廊^^^^
+MST_MISSION_NAME_7650704^Inner Ruins - Collapsed Wall^遺蹟內部・腐朽的牆壁^^^^
+MST_MISSION_NAME_7650705^Inner Ruins - Entrance to the Depths^遺蹟內部・深處入口^^^^
+MST_MISSION_NAME_7650706^Wandering Wickedness^彷徨的惡靈^^^^
+MST_MISSION_NAME_7650707^Doppelgangers^相似的人^^^^
+MST_MISSION_NAME_7650800^A Strange Friendship^神奇的朋友^^^^
+MST_MISSION_NAME_7650801^Good Friends^好朋友^^^^
+MST_MISSION_NAME_7650802^Ruin Depths - Great Hall^遺蹟深處・大迴廊^^^^
+MST_MISSION_NAME_7650803^Ruin Depths - Great Pillars^遺蹟深處・大柱廊^^^^
+MST_MISSION_NAME_7650804^Ruin Depths - Before the Sanctuary^遺蹟深處・寶物殿前^^^^
+MST_MISSION_NAME_7650805^Ruin Depths - Sanctuary^遺蹟深處・寶物殿^^^^
+MST_MISSION_NAME_7650806^Ruin Depths^遺蹟最深處^^^^
+MST_MISSION_NAME_7650807^Tyrant in the Ruins^盤踞遺蹟的暴君^^^^
+MST_MISSION_NAME_7650808^A Strange Friendship^神奇的朋友^^^^
+MST_MISSION_NAME_7650900^Extra Stage 1^特別關卡1^^^^
+MST_MISSION_NAME_7650901^Extra Stage 1-1^特別關卡1-1^^^^
+MST_MISSION_NAME_7650902^Extra Stage 1-2^特別關卡1-2^^^^
+MST_MISSION_NAME_7650903^Extra Stage 1-3^特別關卡1-3^^^^
+MST_MISSION_NAME_7650904^Extra Stage 1-4^特別關卡1-4^^^^
+MST_MISSION_NAME_7650905^Extra Stage 1-5^特別關卡1-5^^^^
+MST_MISSION_NAME_7651000^Extra Stage 2^特別關卡2^^^^
+MST_MISSION_NAME_7651001^Extra Stage 2-1^特別關卡2-1^^^^
+MST_MISSION_NAME_7651002^Extra Stage 2-2^特別關卡2-2^^^^
+MST_MISSION_NAME_7651003^Extra Stage 2-3^特別關卡2-3^^^^
+MST_MISSION_NAME_7651004^Extra Stage 2-4^特別關卡2-4^^^^
+MST_MISSION_NAME_7651005^Extra Stage 2-5^特別關卡2-5^^^^
+MST_MISSION_NAME_7700100^The Leader's Scheme^宰相的謀略^^^^
+MST_MISSION_NAME_7700101^Day of the Coronation^加冕儀式當天^^^^Conspiración en la coronación
+MST_MISSION_NAME_7700102^Footing Lost^沉重的步伐^^^^
+MST_MISSION_NAME_7700103^Thoughts of a Brother^身為兄長^^^^
+MST_MISSION_NAME_7700104^The Worrying Man^煩惱的男人^^^^
+MST_MISSION_NAME_7700105^Crossroads^岔路^^^^
+MST_MISSION_NAME_7700106^Attack of the Thieves^盜賊的襲擊^^^^
+MST_MISSION_NAME_7700107^The Sly Aristocrat^狡猾的貴族們^^^^
+MST_MISSION_NAME_7700200^Shera's Voyage^榭拉的旅途^^^^
+MST_MISSION_NAME_7700201^Captain of the Guard^護衛隊長^^^^
+MST_MISSION_NAME_7700202^Before the Royal Castle^王城前^^^^
+MST_MISSION_NAME_7700203^The Path Less Traveled^杳無人煙的街道^^^^
+MST_MISSION_NAME_7700204^The Go-getter Assassin^身手高強的暗殺者^^^^
+MST_MISSION_NAME_7700205^Enroute to the Village^前往村子的路上^^^^
+MST_MISSION_NAME_7700206^A Suspicious Shadow^可疑的影子^^^^
+MST_MISSION_NAME_7700207^Rage, Beast of the Crag^兇暴的岩獸^^^^
+MST_MISSION_NAME_7700208^The Nameless Village^無名之村^^^^
+MST_MISSION_NAME_7700300^Cavern of Trials^試煉洞窟^^^^
+MST_MISSION_NAME_7700301^Ore Hunter^礦石獵人^^^^
+MST_MISSION_NAME_7700302^Path to the Cavern^通往洞窟之路^^^^
+MST_MISSION_NAME_7700303^The Adventurer's Instructions^帶路的冒險家^^^^
+MST_MISSION_NAME_7700304^Cavern Depths^洞窟的最深處^^^^
+MST_MISSION_NAME_7700305^Impending Attack^逼近的兇刃^^^^
+MST_MISSION_NAME_7700306^Trap Set^陷阱^^^^
+MST_MISSION_NAME_7700307^Encroaching Evil^悄悄伸來的魔手^^^^
+MST_MISSION_NAME_7700308^Locked Off Path^被封鎖的道路^^^^
+MST_MISSION_NAME_7700400^Shera's Commandos^榭拉直屬遊擊隊^^^^
+MST_MISSION_NAME_7700401^Fleeting Discomfort^微小的懷疑^^^^
+MST_MISSION_NAME_7700402^The Selfish Mercenary^任性的傭兵^^^^
+MST_MISSION_NAME_7700403^The Serious Doctor^認真的藥師^^^^
+MST_MISSION_NAME_7700404^The Bright Twin Swordsman^開朗的雙刀劍士^^^^
+MST_MISSION_NAME_7700405^The Targeted Village^本應被襲擊的村子^^^^
+MST_MISSION_NAME_7700406^Troops on the Attack^襲來的士兵^^^^
+MST_MISSION_NAME_7700407^An Evil Plot^開始實施的奸計^^^^
+MST_MISSION_NAME_7700408^Rescue for Shera^救出榭拉^^^^
+MST_MISSION_NAME_7700500^Escape from the Cavern^逃出洞窟^^^^
+MST_MISSION_NAME_7700501^Disbelieving Amelia^不守信用的艾美利亞^^^^
+MST_MISSION_NAME_7700502^The Adventurer's Sense^冒險家的嗅覺^^^^
+MST_MISSION_NAME_7700503^Uncharted Path^地圖上沒有的路^^^^
+MST_MISSION_NAME_7700504^Ozetta's Sensation^奧澤塔的感覺^^^^
+MST_MISSION_NAME_7700505^Hidden Exit^秘密通道^^^^
+MST_MISSION_NAME_7700506^Dim Light^微弱的光亮^^^^
+MST_MISSION_NAME_7700507^Evil from Below^地底惡魔^^^^
+MST_MISSION_NAME_7700508^Escape^逃脫^^^^
+MST_MISSION_NAME_7700600^The Followers' Reality^隨從的真相^^^^
+MST_MISSION_NAME_7700601^Soaked in Doubt^越來越深的猜忌^^^^
+MST_MISSION_NAME_7700602^Fear the Worst^疑神疑鬼^^^^
+MST_MISSION_NAME_7700603^The Silent Mile^沉默的行程^^^^
+MST_MISSION_NAME_7700604^Mystery of Amelia^艾美利亞之謎^^^^
+MST_MISSION_NAME_7700605^Doubt and Trust^疑惑與信賴^^^^
+MST_MISSION_NAME_7700606^The Two-headed Dragon^雙頭邪毒龍^^^^
+MST_MISSION_NAME_7700607^Meetup^匯合地點^^^^
+MST_MISSION_NAME_7700608^Conspiracy to the Throne - The Night Before^陰謀的加冕儀式・前夜^^^^Conspiración en la coronación - Noche previa
+MST_MISSION_NAME_7700700^Assassination of Emperor Shera^暗殺皇帝榭拉^^^^
+MST_MISSION_NAME_7700701^As an Emperor^身為皇帝^^^^
+MST_MISSION_NAME_7700702^Counterattack Commence^開始反擊^^^^
+MST_MISSION_NAME_7700703^Flood of Troops^蜂擁而至的私人軍隊^^^^
+MST_MISSION_NAME_7700704^Friends on the Assault^迎戰的同伴們^^^^
+MST_MISSION_NAME_7700705^Madal's Impatience^焦躁的瑪達爾^^^^
+MST_MISSION_NAME_7700706^The Magitek Armor Menace^魔導裝甲的威脅^^^^
+MST_MISSION_NAME_7700707^End of the Conspiracy^陰謀的終結^^^^
+MST_MISSION_NAME_7700800^A New Era^新時代^^^^
+MST_MISSION_NAME_7700801^Proceed and Support^前進之人與支持者^^^^
+MST_MISSION_NAME_7700802^Reckless Assault^魯莽的突擊^^^^
+MST_MISSION_NAME_7700803^The Echo of Gunfire^槍聲響起^^^^
+MST_MISSION_NAME_7700804^The Sound of Boots^軍靴的腳步聲^^^^
+MST_MISSION_NAME_7700805^Final Resistance^最後的抵抗^^^^
+MST_MISSION_NAME_7700806^Behind the Coronation^加冕儀式的背後^^^^Conspiración en la coronación - Tras el telón
+MST_MISSION_NAME_7700807^Behind Brother^兄長的脊背^^^^
+MST_MISSION_NAME_7700900^Extra Stage 1^特別關卡1^^^^
+MST_MISSION_NAME_7700901^Extra Stage 1-1^特別關卡1-1^^^^
+MST_MISSION_NAME_7700902^Extra Stage 1-2^特別關卡1-2^^^^
+MST_MISSION_NAME_7700903^Extra Stage 1-3^特別關卡1-3^^^^
+MST_MISSION_NAME_7700904^Extra Stage 1-4^特別關卡1-4^^^^
+MST_MISSION_NAME_7700905^Extra Stage 1-5^特別關卡1-5^^^^
+MST_MISSION_NAME_7701000^Extra Stage 2^特別關卡2^^^^
+MST_MISSION_NAME_7701001^Extra Stage 2-1^特別關卡2-1^^^^
+MST_MISSION_NAME_7701002^Extra Stage 2-2^特別關卡2-2^^^^
+MST_MISSION_NAME_7701003^Extra Stage 2-3^特別關卡2-3^^^^
+MST_MISSION_NAME_7701004^Extra Stage 2-4^特別關卡2-4^^^^
+MST_MISSION_NAME_7701005^Extra Stage 2-5^特別關卡2-5^^^^
+MST_MISSION_NAME_7750100^Lid's Memories^里德的追憶^^^^
+MST_MISSION_NAME_7750101^Lid's Memories^里德的追憶^^^^
+MST_MISSION_NAME_7750102^Blood's Awakening^覺醒之血^^^^
+MST_MISSION_NAME_7750103^Crazed Warrior Ulrica^狂戰士烏爾麗卡^^^^
+MST_MISSION_NAME_7750104^Loss of Reason^理性喪失^^^^
+MST_MISSION_NAME_7750105^Raging Power^狂暴的力量^^^^
+MST_MISSION_NAME_7750106^Military Man^軍人^^^^
+MST_MISSION_NAME_7750107^The Hungry Raptor^空腹的巨鳥^^^^
+MST_MISSION_NAME_7750108^The Two Who Ran Away^逃走的兩個人^^^^
+MST_MISSION_NAME_7750200^The Mysterious Device^神秘裝置^^^^
+MST_MISSION_NAME_7750201^The Famed Technician^著名技師^^^^
+MST_MISSION_NAME_7750202^News of the Truth^得知真相^^^^
+MST_MISSION_NAME_7750203^Evan's Surprise^驚愕的埃文^^^^
+MST_MISSION_NAME_7750204^The Mage's Ambition^魔道士的目的^^^^
+MST_MISSION_NAME_7750205^Uncontrollable Anger^無法控制的怒火^^^^
+MST_MISSION_NAME_7750206^The Device's Capabilities^裝置的可能性^^^^
+MST_MISSION_NAME_7750207^Great Bug from Below^藏在地下的巨蟲^^^^
+MST_MISSION_NAME_7750208^Heltich's Research^海爾蒂克的研究^^^^
+MST_MISSION_NAME_7750300^Killian's Anxiety^希里安的不安^^^^
+MST_MISSION_NAME_7750301^Legion of Gunsmiths^武器開發部隊^^^^
+MST_MISSION_NAME_7750302^New Weapon Trial^新兵器試用^^^^
+MST_MISSION_NAME_7750303^Putting the Past to Use^實際運用的古代技術^^^^
+MST_MISSION_NAME_7750304^The Leader's Skill^隊長的技能^^^^
+MST_MISSION_NAME_7750305^The Flame-clad Axe^纏繞著火焰的機械斧^^^^
+MST_MISSION_NAME_7750306^Despair-thirsty Demon^熱愛絕望的惡魔^^^^
+MST_MISSION_NAME_7750307^Message from the Captain^開發組長的留言^^^^
+MST_MISSION_NAME_7750400^Unlinking Ideologies^水火不容的思想^^^^
+MST_MISSION_NAME_7750401^Unexpected Reunion^預料之外的重逢^^^^
+MST_MISSION_NAME_7750402^Fight or Flight^拼命逃生^^^^
+MST_MISSION_NAME_7750403^Awakening Crisis^覺醒的危機^^^^
+MST_MISSION_NAME_7750404^Beyond the City^前往市外^^^^
+MST_MISSION_NAME_7750405^Encroaching Siege^漸漸縮小的包圍圈^^^^
+MST_MISSION_NAME_7750406^The Cornered Two^走投無路的二人^^^^
+MST_MISSION_NAME_7750407^An Idea of Power^力之理念^^^^
+MST_MISSION_NAME_7750500^Secret of the Device^裝置的秘密^^^^
+MST_MISSION_NAME_7750501^Soaking in Doubt^越來越深的猜疑^^^^
+MST_MISSION_NAME_7750502^To the Airship Factory^前往飛空艇工廠^^^^
+MST_MISSION_NAME_7750503^The Fearful Truth^令人戰慄的真相^^^^
+MST_MISSION_NAME_7750504^Monster in the Way^攔路的魔物^^^^
+MST_MISSION_NAME_7750505^Evan's Impatience^焦躁的埃文^^^^
+MST_MISSION_NAME_7750506^Fallen Soldiers' Resentment^悲憤的亡靈劍士^^^^
+MST_MISSION_NAME_7750507^Core of Suspicion^疑惑的核心^^^^
+MST_MISSION_NAME_7750600^Battle for Dilmagia^迪爾馬基亞街區戰^^^^
+MST_MISSION_NAME_7750601^The War-torn City^戰火紛飛的街道^^^^
+MST_MISSION_NAME_7750602^Overflowing Casualties^源源不斷的屍靈^^^^
+MST_MISSION_NAME_7750603^Fighting in the Streets^展開混戰的大街^^^^
+MST_MISSION_NAME_7750604^Killian's Efforts^希里安的奮戰^^^^
+MST_MISSION_NAME_7750605^Near Victory^掃蕩在即^^^^
+MST_MISSION_NAME_7750606^The Ghoulish Horseman^載著怨靈的兇馬^^^^
+MST_MISSION_NAME_7750607^Equipment Lost^消失的裝置^^^^
+MST_MISSION_NAME_7750700^Unending Calamity^尚未結束的災難^^^^
+MST_MISSION_NAME_7750701^Understanding the Truth^絕望^^^^
+MST_MISSION_NAME_7750702^March, Army of the Dead^逼近的屍軍^^^^
+MST_MISSION_NAME_7750703^Surrounded^敵陣中的孤立^^^^
+MST_MISSION_NAME_7750704^Predicament^困境^^^^
+MST_MISSION_NAME_7750705^Wild Awakening^覺醒的野性^^^^
+MST_MISSION_NAME_7750706^The Soul-devouring Spirit^噬魂死靈^^^^
+MST_MISSION_NAME_7750707^Brother's Plans^兄長的計劃書^^^^
+MST_MISSION_NAME_7750800^A New Journey^新的旅程^^^^
+MST_MISSION_NAME_7750801^The Limit of Power^力量的極限^^^^
+MST_MISSION_NAME_7750802^The Mage who Stayed^絕不撤退的魔道士^^^^
+MST_MISSION_NAME_7750803^The Humming Rod^低吟的魔杖^^^^
+MST_MISSION_NAME_7750804^Sacrificial Technique^捨身的秘術^^^^
+MST_MISSION_NAME_7750805^Magic Running Out^魔力用盡^^^^
+MST_MISSION_NAME_7750806^Reinforcements^援軍^^^^
+MST_MISSION_NAME_7750807^The Catastrophic Living Weapon^邪惡的生物兵器^^^^
+MST_MISSION_NAME_7750808^A Path to Be Taken^前進的道路^^^^
+MST_MISSION_NAME_7750900^Extra Stage 1^特別關卡1^^^^
+MST_MISSION_NAME_7750901^Extra Stage 1-1^特別關卡1-1^^^^
+MST_MISSION_NAME_7750902^Extra Stage 1-2^特別關卡1-2^^^^
+MST_MISSION_NAME_7750903^Extra Stage 1-3^特別關卡1-3^^^^
+MST_MISSION_NAME_7750904^Extra Stage 1-4^特別關卡1-4^^^^
+MST_MISSION_NAME_7750905^Extra Stage 1-5^特別關卡1-5^^^^
+MST_MISSION_NAME_7751000^Extra Stage 2^特別關卡2^^^^
+MST_MISSION_NAME_7751001^Extra Stage 2-1^特別關卡2-1^^^^
+MST_MISSION_NAME_7751002^Extra Stage 2-2^特別關卡2-2^^^^
+MST_MISSION_NAME_7751003^Extra Stage 2-3^特別關卡2-3^^^^
+MST_MISSION_NAME_7751004^Extra Stage 2-4^特別關卡2-4^^^^
+MST_MISSION_NAME_7751005^Extra Stage 2-5^特別關卡2-5^^^^
+MST_MISSION_NAME_7800100^The Visitors^訪客們^^^^
+MST_MISSION_NAME_7800101^Pursue the Mystery^追查不解之謎^^^^
+MST_MISSION_NAME_7800102^Change of Plans^計劃變更^^^^
+MST_MISSION_NAME_7800103^Prompt Reinforcements^迅速抵達的援軍^^^^
+MST_MISSION_NAME_7800104^Soldiers in Pursuit^追擊的士兵們^^^^
+MST_MISSION_NAME_7800105^Captured^有本事就來抓我^^^^
+MST_MISSION_NAME_7800106^Limitless Power^無限的力量^^^^
+MST_MISSION_NAME_7800107^Attack of the Wolf^襲來的銀狼^^^^
+MST_MISSION_NAME_7800108^The Unwithering Man^深不可測的男人^^^^
+MST_MISSION_NAME_7800200^Lexa and Merald^萊基薩與梅拉路德^^^^
+MST_MISSION_NAME_7800201^When Fates Cross - I^交錯的命運・I^^^^
+MST_MISSION_NAME_7800202^Escape Route^近路^^^^
+MST_MISSION_NAME_7800203^Thick Forest^鬱鬱蔥蔥的森林^^^^
+MST_MISSION_NAME_7800204^The Hidden Pathway^無路之路^^^^
+MST_MISSION_NAME_7800205^Calming Breeze^心曠神怡的風^^^^
+MST_MISSION_NAME_7800206^You Are Quite Absurd^你也夠亂來的^^^^
+MST_MISSION_NAME_7800207^Claw of the Bear^剛爪大熊^^^^
+MST_MISSION_NAME_7800208^Knockout Girl^橫掃眾敵的女人^^^^
+MST_MISSION_NAME_7800300^Dancers of Dragon Village^龍之鄉的舞者^^^^
+MST_MISSION_NAME_7800301^Dragonscale Flower^龍鱗之花^^^^
+MST_MISSION_NAME_7800302^For Everyone^為了大家^^^^
+MST_MISSION_NAME_7800303^To Where There's Water^前往水邊^^^^
+MST_MISSION_NAME_7800304^Advance Without Worry^勇往直前^^^^
+MST_MISSION_NAME_7800305^The Fighting Dancer^戰鬥的舞者^^^^
+MST_MISSION_NAME_7800306^The Raging Beast^狂暴的野獸^^^^
+MST_MISSION_NAME_7800307^When Fates Cross - II^交錯的命運・II^^^^
+MST_MISSION_NAME_7800400^Forced Journey^旅伴^^^^
+MST_MISSION_NAME_7800401^Mysterious, But Able^神秘的高手^^^^
+MST_MISSION_NAME_7800402^Charie's Secret^夏莉的秘密^^^^
+MST_MISSION_NAME_7800403^Elbis's Secret^艾爾比斯的秘密^^^^
+MST_MISSION_NAME_7800404^Nichol's Situation^尼科爾的心事^^^^
+MST_MISSION_NAME_7800405^Decisions and Knowledge^判斷與知識^^^^
+MST_MISSION_NAME_7800406^Plant of Fear^恐怖的植物^^^^
+MST_MISSION_NAME_7800407^Dangerous Flora^危險的毒花^^^^
+MST_MISSION_NAME_7800408^Way to Dragon Village^一路前往龍之鄉^^^^
+MST_MISSION_NAME_7800500^When Fates Cross^交錯的命運^^^^
+MST_MISSION_NAME_7800501^When Fates Cross - III^交錯的命運・III^^^^
+MST_MISSION_NAME_7800502^New Party Formation^新隊伍成立^^^^
+MST_MISSION_NAME_7800503^Nichol's Spectacles^尼科爾的眼鏡^^^^
+MST_MISSION_NAME_7800504^An Important Thing^貴重之物^^^^
+MST_MISSION_NAME_7800505^Mysterious Ruins - Outside^神秘遺蹟・外圍^^^^
+MST_MISSION_NAME_7800506^Mysterious Ruins - Beast at the Doorway^神秘遺蹟・入口的惡魔^^^^
+MST_MISSION_NAME_7800507^Mysterious Ruins - Inside^神秘遺蹟・內部^^^^
+MST_MISSION_NAME_7800600^A Documented Riddle^寫下的謎題^^^^
+MST_MISSION_NAME_7800601^The Girl's Explanation^解謎的女人^^^^
+MST_MISSION_NAME_7800602^Beast In Guard of the Truth^保守秘密的魔物^^^^
+MST_MISSION_NAME_7800603^Little Time Remains^所剩無幾的時間^^^^
+MST_MISSION_NAME_7800604^The Closing Door^漸漸閉合的門^^^^
+MST_MISSION_NAME_7800605^Gathering of the Fairies^聚集的精靈們^^^^
+MST_MISSION_NAME_7800606^Deadly Guardian^殺氣騰騰的守護者^^^^
+MST_MISSION_NAME_7800607^Hate Matters Not^就算被討厭也不要緊^^^^
+MST_MISSION_NAME_7800700^Miraculous Escape^奇蹟般的逃脫^^^^
+MST_MISSION_NAME_7800701^Friends and Trust^夥伴與信賴^^^^
+MST_MISSION_NAME_7800702^The Treacherous Way Back^艱險的歸途^^^^
+MST_MISSION_NAME_7800703^Entangling Plants^互相纏繞的植物^^^^
+MST_MISSION_NAME_7800704^Calling Out for Food^渴望食物的聲音^^^^
+MST_MISSION_NAME_7800705^Beyond the Forest^森林盡頭^^^^
+MST_MISSION_NAME_7800706^An Unwelcome Encounter^不期而遇^^^^
+MST_MISSION_NAME_7800707^The Two Soldiers of Aldore^兩名阿爾多爾士兵^^^^
+MST_MISSION_NAME_7800708^Not How We Do It^……不會這樣做吧？^^^^
+MST_MISSION_NAME_7800800^Separate Ways^不同的路^^^^
+MST_MISSION_NAME_7800801^Wishing for a Reunion^希望有一天還能再見^^^^
+MST_MISSION_NAME_7800802^A Sharp-tongued Girl^疾聲厲色的女人^^^^
+MST_MISSION_NAME_7800803^The Laughing Man^大笑的男人^^^^
+MST_MISSION_NAME_7800804^The Happily Obedient Girl^心甘情願服從的女人^^^^
+MST_MISSION_NAME_7800805^Frenzied Platoon^眼睛充血的士兵們^^^^
+MST_MISSION_NAME_7800806^The Tables Have Turned^反擊^^^^
+MST_MISSION_NAME_7800807^When Fates Cross - After^交錯的命運・後來^^^^
+MST_MISSION_NAME_7800900^Cave of Crystals (Black)^晶石的洞窟【黑】^^^^
+MST_MISSION_NAME_7800901^Cave of Crystals (Black) 1^晶石的洞窟【黑】1^^^^
+MST_MISSION_NAME_7800902^Cave of Crystals (Black) 2^晶石的洞窟【黑】2^^^^
+MST_MISSION_NAME_7800903^Cave of Crystals (Black) 3^晶石的洞窟【黑】3^^^^
+MST_MISSION_NAME_7801000^Cave of Crystals (White)^晶石的洞窟【白】^^^^
+MST_MISSION_NAME_7801001^Cave of Crystals (White) 1^晶石的洞窟【白】1^^^^
+MST_MISSION_NAME_7801002^Cave of Crystals (White) 2^晶石的洞窟【白】2^^^^
+MST_MISSION_NAME_7801003^Cave of Crystals (White) 3^晶石的洞窟【白】3^^^^
+MST_MISSION_NAME_7801100^Cave of Crystals (Green)^晶石的洞窟【綠】^^^^
+MST_MISSION_NAME_7801101^Cave of Crystals (Green) 1^晶石的洞窟【綠】1^^^^
+MST_MISSION_NAME_7801102^Cave of Crystals (Green) 2^晶石的洞窟【綠】2^^^^
+MST_MISSION_NAME_7801103^Cave of Crystals (Green) 3^晶石的洞窟【綠】3^^^^
+MST_MISSION_NAME_7801200^Cave of Crystals (Attack)^晶石的洞窟【進攻】^^^^
+MST_MISSION_NAME_7801201^Cave of Crystals (Attack) 1^晶石的洞窟【進攻】1^^^^
+MST_MISSION_NAME_7801202^Cave of Crystals (Attack) 2^晶石的洞窟【進攻】2^^^^
+MST_MISSION_NAME_7801203^Cave of Crystals (Attack) 3^晶石的洞窟【進攻】3^^^^
+MST_MISSION_NAME_7801300^Cave of Crystals (Defense)^晶石的洞窟【防守】^^^^
+MST_MISSION_NAME_7801301^Cave of Crystals (Defense) 1^晶石的洞窟【防守】1^^^^
+MST_MISSION_NAME_7801302^Cave of Crystals (Defense) 2^晶石的洞窟【防守】2^^^^
+MST_MISSION_NAME_7801303^Cave of Crystals (Defense) 3^晶石的洞窟【防守】3^^^^
+MST_MISSION_NAME_7801400^Cave of Crystals (Tech)^晶石的洞窟【技巧】^^^^
+MST_MISSION_NAME_7801401^Cave of Crystals (Tech) 1^晶石的洞窟【技巧】1^^^^
+MST_MISSION_NAME_7801402^Cave of Crystals (Tech) 2^晶石的洞窟【技巧】2^^^^
+MST_MISSION_NAME_7801403^Cave of Crystals (Tech) 3^晶石的洞窟【技巧】3^^^^
+MST_MISSION_NAME_7801500^Cave of Crystals (Healing)^晶石的洞窟【治癒】^^^^
+MST_MISSION_NAME_7801501^Cave of Crystals (Healing) 1^晶石的洞窟【治癒】1^^^^
+MST_MISSION_NAME_7801502^Cave of Crystals (Healing) 2^晶石的洞窟【治癒】2^^^^
+MST_MISSION_NAME_7801503^Cave of Crystals (Healing) 3^晶石的洞窟【治癒】3^^^^
+MST_MISSION_NAME_7801600^Cave of Crystals (Support)^晶石的洞窟【支援】^^^^
+MST_MISSION_NAME_7801601^Cave of Crystals (Support) 1^晶石的洞窟【支援】1^^^^
+MST_MISSION_NAME_7801602^Cave of Crystals (Support) 2^晶石的洞窟【支援】2^^^^
+MST_MISSION_NAME_7801603^Cave of Crystals (Support) 3^晶石的洞窟【支援】3^^^^
+MST_MISSION_NAME_7850100^Public Practice^公開演習^^^^
+MST_MISSION_NAME_7850101^Knight's Gala^騎士的重要時刻^^^^
+MST_MISSION_NAME_7850102^The Rumored Man^傳說中的男人^^^^
+MST_MISSION_NAME_7850103^Actions of the Elite^精英騎士大顯身手^^^^
+MST_MISSION_NAME_7850104^Eager Bombardment^幹勁十足的炮擊士^^^^
+MST_MISSION_NAME_7850105^Platoon of Power^精銳軍團^^^^
+MST_MISSION_NAME_7850106^The Dexterous Mage^身手高強的魔道士^^^^
+MST_MISSION_NAME_7850107^Cold Power^冷漠的高手^^^^
+MST_MISSION_NAME_7850200^Vanquish Orders^討伐任務^^^^
+MST_MISSION_NAME_7850201^Raegen's Prediction^雷根的想法^^^^
+MST_MISSION_NAME_7850202^Famed Dame^著名的小姑娘^^^^
+MST_MISSION_NAME_7850203^An Awkward Interaction^拘謹的對話^^^^
+MST_MISSION_NAME_7850204^Zile, the Talkative^扎伊爾的玩笑話^^^^
+MST_MISSION_NAME_7850205^Steady March^進軍順利^^^^
+MST_MISSION_NAME_7850206^Reliable Contemporary^可靠的同期^^^^
+MST_MISSION_NAME_7850207^The Starving Bear^飢餓的巨熊^^^^
+MST_MISSION_NAME_7850208^The Nurse's Request^護士的意見^^^^
+MST_MISSION_NAME_7850300^Rest for Knights^騎士們的小憩^^^^
+MST_MISSION_NAME_7850301^Eye of the Bard^吟遊詩人的慧眼^^^^
+MST_MISSION_NAME_7850302^Return to the Royal Capital^通往王都的歸路^^^^
+MST_MISSION_NAME_7850303^Highway of Danger^危險的街道^^^^
+MST_MISSION_NAME_7850304^Bashin' Baddies^打倒魔物^^^^
+MST_MISSION_NAME_7850305^Around the Royal Capital^王都周邊^^^^
+MST_MISSION_NAME_7850306^Makeshift Gang^姑息的盜賊團^^^^
+MST_MISSION_NAME_7850307^The Miraculous Power to Heal^驚人的治癒力^^^^
+MST_MISSION_NAME_7850400^A Private Discussion^密談^^^^
+MST_MISSION_NAME_7850401^Legend of the Founder^建國者的傳承^^^^
+MST_MISSION_NAME_7850402^The Dark Underground^昏暗的地下通道^^^^
+MST_MISSION_NAME_7850403^A Traditional Blade^宛如傳說的劍^^^^
+MST_MISSION_NAME_7850404^Go-getter Guard Lucille^強大的護衛魯西爾^^^^
+MST_MISSION_NAME_7850405^A Powerful Tune^賦予力量的歌聲^^^^
+MST_MISSION_NAME_7850406^Man-eating Pedals^等候的肉食花^^^^
+MST_MISSION_NAME_7850407^True Self^真實身份曝光^^^^
+MST_MISSION_NAME_7850500^Grandshelt Tour^格蘭謝爾特觀光^^^^
+MST_MISSION_NAME_7850501^Sophia's Invitation^索菲婭的邀請^^^^
+MST_MISSION_NAME_7850502^The Tour - The Street^觀光嚮導 街道^^^^
+MST_MISSION_NAME_7850503^The Tour - The Plains^觀光嚮導 平原^^^^
+MST_MISSION_NAME_7850504^The Tour - The Underground^觀光嚮導 地下通道^^^^
+MST_MISSION_NAME_7850505^The Tour - The Caves^觀光嚮導 洞窟^^^^
+MST_MISSION_NAME_7850506^Attack of the Tentacles^襲來的觸手^^^^
+MST_MISSION_NAME_7850507^Scenery Missed^想要讓你看到的景色^^^^
+MST_MISSION_NAME_7850600^Individual Actions^單獨行動^^^^
+MST_MISSION_NAME_7850601^Monsters Transformed^狂暴化的魔物^^^^
+MST_MISSION_NAME_7850602^To Latius Woods^前往拉提烏斯之森^^^^
+MST_MISSION_NAME_7850603^On the Lonely Road^孤獨的路程^^^^
+MST_MISSION_NAME_7850604^Silent March^沉默的行軍^^^^
+MST_MISSION_NAME_7850605^Depressing Weather^陰天^^^^
+MST_MISSION_NAME_7850606^Phantom Lizard^神出鬼沒的蜥蜴^^^^
+MST_MISSION_NAME_7850607^To Be a Knight^騎士的意義^^^^
+MST_MISSION_NAME_7850700^Noisy Pursuers^吵鬧的追蹤者們^^^^
+MST_MISSION_NAME_7850701^Chasing Raegen^追趕雷根^^^^
+MST_MISSION_NAME_7850702^Song of the Guard^護衛之歌^^^^
+MST_MISSION_NAME_7850703^Resounding Bombardment^巨大的炮擊聲^^^^
+MST_MISSION_NAME_7850704^The Twin Blade Master^冷澈的雙劍^^^^
+MST_MISSION_NAME_7850705^The Lightning-clad Demon^纏繞著雷電的魔彈^^^^
+MST_MISSION_NAME_7850706^The Fire-eating Beast^吞食火藥的猛獸^^^^
+MST_MISSION_NAME_7850707^Noisy Pursuers^吵鬧的追蹤者們^^^^
+MST_MISSION_NAME_7850800^Location Discovered^歸宿^^^^
+MST_MISSION_NAME_7850801^Discovering Shadows^跟蹤敗露^^^^
+MST_MISSION_NAME_7850802^Firearm Romance^大炮就是浪漫^^^^
+MST_MISSION_NAME_7850803^Knightly Friendship^騎士的友情^^^^
+MST_MISSION_NAME_7850804^You Call This Romance!?^這叫浪漫嗎？！^^^^
+MST_MISSION_NAME_7850805^The Feel of Magic^越來越近的魔力氣息^^^^
+MST_MISSION_NAME_7850806^Root of the Accident^異變的根源^^^^
+MST_MISSION_NAME_7850807^Flora of Disaster^不祥的魔草^^^^
+MST_MISSION_NAME_7850808^As a Knight of Grandshelt^身為格蘭謝爾特騎士^^^^
+MST_MISSION_NAME_7850900^Cave of Crystals (Black)^晶石的洞窟【黑】^^^^
+MST_MISSION_NAME_7850901^Cave of Crystals (Black) 1^晶石的洞窟【黑】1^^^^
+MST_MISSION_NAME_7850902^Cave of Crystals (Black) 2^晶石的洞窟【黑】2^^^^
+MST_MISSION_NAME_7850903^Cave of Crystals (Black) 3^晶石的洞窟【黑】3^^^^
+MST_MISSION_NAME_7851000^Cave of Crystals (White)^晶石的洞窟【白】^^^^
+MST_MISSION_NAME_7851001^Cave of Crystals (White) 1^晶石的洞窟【白】1^^^^
+MST_MISSION_NAME_7851002^Cave of Crystals (White) 2^晶石的洞窟【白】2^^^^
+MST_MISSION_NAME_7851003^Cave of Crystals (White) 3^晶石的洞窟【白】3^^^^
+MST_MISSION_NAME_7851100^Cave of Crystals (Green)^晶石的洞窟【綠】^^^^
+MST_MISSION_NAME_7851101^Cave of Crystals (Green) 1^晶石的洞窟【綠】1^^^^
+MST_MISSION_NAME_7851102^Cave of Crystals (Green) 2^晶石的洞窟【綠】2^^^^
+MST_MISSION_NAME_7851103^Cave of Crystals (Green) 3^晶石的洞窟【綠】3^^^^
+MST_MISSION_NAME_7851200^Cave of Crystals (Attack)^晶石的洞窟【進攻】^^^^
+MST_MISSION_NAME_7851201^Cave of Crystals (Attack) 1^晶石的洞窟【進攻】1^^^^
+MST_MISSION_NAME_7851202^Cave of Crystals (Attack) 2^晶石的洞窟【進攻】2^^^^
+MST_MISSION_NAME_7851203^Cave of Crystals (Attack) 3^晶石的洞窟【進攻】3^^^^
+MST_MISSION_NAME_7851300^Cave of Crystals (Defense)^晶石的洞窟【防守】^^^^
+MST_MISSION_NAME_7851301^Cave of Crystals (Defense) 1^晶石的洞窟【防守】1^^^^
+MST_MISSION_NAME_7851302^Cave of Crystals (Defense) 2^晶石的洞窟【防守】2^^^^
+MST_MISSION_NAME_7851303^Cave of Crystals (Defense) 3^晶石的洞窟【防守】3^^^^
+MST_MISSION_NAME_7851400^Cave of Crystals (Tech)^晶石的洞窟【技巧】^^^^
+MST_MISSION_NAME_7851401^Cave of Crystals (Tech) 1^晶石的洞窟【技巧】1^^^^
+MST_MISSION_NAME_7851402^Cave of Crystals (Tech) 2^晶石的洞窟【技巧】2^^^^
+MST_MISSION_NAME_7851403^Cave of Crystals (Tech) 3^晶石的洞窟【技巧】3^^^^
+MST_MISSION_NAME_7851500^Cave of Crystals (Healing)^晶石的洞窟【治癒】^^^^
+MST_MISSION_NAME_7851501^Cave of Crystals (Healing) 1^晶石的洞窟【治癒】1^^^^
+MST_MISSION_NAME_7851502^Cave of Crystals (Healing) 2^晶石的洞窟【治癒】2^^^^
+MST_MISSION_NAME_7851503^Cave of Crystals (Healing) 3^晶石的洞窟【治癒】3^^^^
+MST_MISSION_NAME_7851600^Cave of Crystals (Support)^晶石的洞窟【支援】^^^^
+MST_MISSION_NAME_7851601^Cave of Crystals (Support) 1^晶石的洞窟【支援】1^^^^
+MST_MISSION_NAME_7851602^Cave of Crystals (Support) 2^晶石的洞窟【支援】2^^^^
+MST_MISSION_NAME_7851603^Cave of Crystals (Support) 3^晶石的洞窟【支援】3^^^^
+MST_MISSION_NAME_8980101^Chamber of Arms - The Energetic Strategist^十二武具・高尚的軍師^^^^
+MST_MISSION_NAME_8980102^Chamber of Arms - The Troubled Strategist^十二武具・隱藏憎恨的高尚的軍師^^^^
+MST_MISSION_NAME_8980103^Chamber of Arms - Mech of Fury^十二武具・狂亂的機械兵器^^^^
+MST_MISSION_NAME_8980104^Chamber of Arms - Mech of Fury and Sorrow^十二武具・悲哀狂亂的機械兵器^^^^
+MST_MISSION_NAME_8980105^Chamber of Arms - The Mage of Sin^十二武具・罪惡的大魔道士^^^^
+MST_MISSION_NAME_8980106^Chamber of Arms - The Mage of Sin and Taboos^十二武具・禁忌罪惡的大魔道士^^^^
+MST_MISSION_NAME_8980107^Chamber of Arms - Warrior of Bravery^十二武具・英勇的戰士^^^^
+MST_MISSION_NAME_8980108^Chamber of Arms - Warrior of Bravery and Pride^十二武具・驕傲英勇的戰士^^^^
+MST_MISSION_NAME_8980109^Chamber of Arms - The Wicked Magical Beast^十二武具・凶惡的魔獸^^^^
+MST_MISSION_NAME_8980110^Chamber of Arms - The Starving Wicked Beast^十二武具・飢渴凶惡的魔獸^^^^
+MST_MISSION_NAME_8980111^Chamber of Arms - Mage of Purity^十二武具・高潔的魔道士^^^^
+MST_MISSION_NAME_8980112^Chamber of Arms - The Peaceful Mage of Purity^十二武具・拒絕戰鬥的高潔的魔道士^^^^
+MST_MISSION_NAME_8980113^Chamber of Arms - The Assassin of Judgment^十二武具・審判暗殺者^^^^
+MST_MISSION_NAME_8980114^Chamber of Arms - The Demonic Assassin of Judgment^十二武具・被稱為惡魔的審判暗殺者^^^^
+MST_MISSION_NAME_8992801^New Rebirth of the White Dragon^白龍 真降臨^^^^Resurgimiento del Dragón Blanco
+MST_MISSION_NAME_8992901^New Rebirth of the Demon Chimera^惡魔奇美拉 真降臨^^^^Resurgimiento de la Quimera demoníaca
+MST_MISSION_NAME_8993001^New Rebirth of the Brachiosaur^腕龍 真降臨^^^^Resurgimiento del Braquiosaurio
+MST_MISSION_NAME_8993102^New Rebirth of the Intangir^沉睡的獅子 真降臨^^^^Resurgimiento del Intangir
+MST_MISSION_NAME_8993201^New Surging Menace^蜂擁而至的強者們 真降臨^^^^La amenaza se aproxima de nuevo
+MST_MISSION_NAME_8995201^Armor of Oppression - ADV^強力襲來的鐵鎧・上級^^^^La armadura opresora - AVA
+MST_MISSION_NAME_8995202^Armor of Oppression - PRO^強力襲來的鐵鎧・超級^^^^La armadura opresora - PRO
+MST_MISSION_NAME_8995203^Armor of Oppression - ELT^強力襲來的鐵鎧・覺醒級^^^^La armadura opresora - ÉLI
+MST_MISSION_NAME_8995301^Great Explosion Festival - ADV^大爆炸慶典・上級^^^^Un festival explosivo - AVA
+MST_MISSION_NAME_8995302^Great Explosion Festival - PRO^大爆炸慶典・超級^^^^Un festival explosivo - PRO
+MST_MISSION_NAME_8995303^Great Explosion Festival - ELT^大爆炸慶典・覺醒級^^^^Un festival explosivo - ÉLI
+MST_MISSION_NAME_9002201^Dark Symphony - INT^黑暗交響樂・中級^어둠의 교향곡·중급^Symphonie obscure - INT^Dunkle Symphonie - FOR^Sinfonía tenebrosa - INT
+MST_MISSION_NAME_9002202^Dark Symphony - ADV^黑暗交響樂・上級^어둠의 교향곡·상급^Symphonie obscure - PRO^Dunkle Symphonie - EXP^Sinfonía tenebrosa - AVA
+MST_MISSION_NAME_9002203^Dark Symphony - PRO^黑暗交響樂・超級^어둠의 교향곡·최상급^Symphonie obscure - SUP^Dunkle Symphonie - PRO^Sinfonía tenebrosa - PRO
+MST_MISSION_NAME_9002204^Dark Symphony - ELT^黑暗交響樂・覺醒級^어둠의 교향곡·각성급^Symphonie obscure - EX!^Dunkle Symphonie - ELI^Sinfonía tenebrosa - ÉLI

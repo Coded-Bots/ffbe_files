@@ -51912,6 +51912,150 @@
         "qo3PECw6": "9002004"
     }, 
     {
+        "6uvHX2JG": "Dark Symphony - INT", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "90022010", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "20:1209000845:5", 
+        "qo3PECw6": "9002201"
+    }, 
+    {
+        "6uvHX2JG": "Dark Symphony - INT", 
+        "G4L0YIB2": "No items", 
+        "Pzn5h0Ga": "1", 
+        "V36ygRYs": "90022011", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9002201"
+    }, 
+    {
+        "6uvHX2JG": "Dark Symphony - INT", 
+        "G4L0YIB2": "Clear within 5 turns", 
+        "Pzn5h0Ga": "75:1:5", 
+        "V36ygRYs": "90022012", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9002201"
+    }, 
+    {
+        "6uvHX2JG": "Dark Symphony - INT", 
+        "G4L0YIB2": "Use magic", 
+        "Pzn5h0Ga": "5", 
+        "V36ygRYs": "90022013", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9002201"
+    }, 
+    {
+        "6uvHX2JG": "Dark Symphony - ADV", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "90022020", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "20:1209000845:5", 
+        "qo3PECw6": "9002202"
+    }, 
+    {
+        "6uvHX2JG": "Dark Symphony - ADV", 
+        "G4L0YIB2": "Use black magic", 
+        "Pzn5h0Ga": "13:2", 
+        "V36ygRYs": "90022021", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9002202"
+    }, 
+    {
+        "6uvHX2JG": "Dark Symphony - ADV", 
+        "G4L0YIB2": "Clear within 5 turns", 
+        "Pzn5h0Ga": "75:1:5", 
+        "V36ygRYs": "90022022", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9002202"
+    }, 
+    {
+        "6uvHX2JG": "Dark Symphony - ADV", 
+        "G4L0YIB2": "No limit bursts", 
+        "Pzn5h0Ga": "17", 
+        "V36ygRYs": "90022023", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9002202"
+    }, 
+    {
+        "6uvHX2JG": "Dark Symphony - PRO", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "90022030", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "20:1209000845:5", 
+        "qo3PECw6": "9002203"
+    }, 
+    {
+        "6uvHX2JG": "Dark Symphony - PRO", 
+        "G4L0YIB2": "No magic", 
+        "Pzn5h0Ga": "6", 
+        "V36ygRYs": "90022031", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9002203"
+    }, 
+    {
+        "6uvHX2JG": "Dark Symphony - PRO", 
+        "G4L0YIB2": "Clear within 5 turns", 
+        "Pzn5h0Ga": "75:1:5", 
+        "V36ygRYs": "90022032", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9002203"
+    }, 
+    {
+        "6uvHX2JG": "Dark Symphony - PRO", 
+        "G4L0YIB2": "Use no more than 5 items", 
+        "Pzn5h0Ga": "40:5", 
+        "V36ygRYs": "90022033", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9002203"
+    }, 
+    {
+        "6uvHX2JG": "Dark Symphony - ELT", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "90022040", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "20:1209000845:10", 
+        "qo3PECw6": "9002204"
+    }, 
+    {
+        "6uvHX2JG": "Dark Symphony - ELT", 
+        "G4L0YIB2": "Evoke an esper", 
+        "Pzn5h0Ga": "28", 
+        "V36ygRYs": "90022041", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9002204"
+    }, 
+    {
+        "6uvHX2JG": "Dark Symphony - ELT", 
+        "G4L0YIB2": "Use 2 or more limit bursts", 
+        "Pzn5h0Ga": "49:1", 
+        "V36ygRYs": "90022042", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9002204"
+    }, 
+    {
+        "6uvHX2JG": "Dark Symphony - ELT", 
+        "G4L0YIB2": "Party of 5 or less (Companion included)", 
+        "Pzn5h0Ga": "35:5", 
+        "V36ygRYs": "90022043", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9002204"
+    }, 
+    {
         "6uvHX2JG": "Castle Dungeon BGN", 
         "G4L0YIB2": "Complete the quest", 
         "Pzn5h0Ga": "68", 

@@ -900,7 +900,7 @@ MST_UNIT_EXPLAIN_SUMMON_100012006^I have no interest in a boys-only journey,<br>
 MST_UNIT_EXPLAIN_SUMMON_100013305^I am Shera,<br>emperor of Zoldaad.<br>I will help you on your journey.^^^^^
 MST_UNIT_EXPLAIN_SUMMON_100013306^You wish to become one of my commandos?<br>Please wait just a moment.<br>I shall call my maid.^^^^^
 MST_UNIT_EXPLAIN_SUMMON_100012104^A new employer?<br>My services don't come cheap, you know?^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100012105^I am Emilia.<br>I'm also known by...<br>On second though, that's a secret.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100012105^I am Emilia.<br>I'm also known by...<br>On second thought, that's a secret.^^^^^
 MST_UNIT_EXPLAIN_SUMMON_100012106^I shall work to live up to this reward.<br>Is that good enough for you?<br>Not that it matters!^^^^^
 MST_UNIT_EXPLAIN_SUMMON_100012304^I am Ozetta, captain of the Zoldaad Imperial Magitek Armor Squad! I look forward to working with you!^^^^^
 MST_UNIT_EXPLAIN_SUMMON_100012305^I, Ozetta, will give it my utmost!^^^^^
@@ -943,64 +943,66 @@ MST_UNIT_EXPLAIN_SUMMON_100011906^Let's go somewhere together!<br>Leave all the 
 MST_UNIT_EXPLAIN_SUMMON_100013404^Hey, nice to meet ya.<br>I'm Killian of the Dirnado army.^^^^^
 MST_UNIT_EXPLAIN_SUMMON_100013405^What use have you for me,<br>calling me all of the sudden?^^^^^
 MST_UNIT_EXPLAIN_SUMMON_100013406^I don't mind if you call on me,<br>just don't get me wrapped up in some troublesome matter, alright?^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100006006^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100005706^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100014405^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100014406^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100014504^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100014505^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100014506^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100014604^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100014605^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100014606^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100014703^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100014704^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100014705^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100014005^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100014006^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_207001005^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_207001006^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100013805^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100013806^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100013504^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100013505^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100013506^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100013903^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100013904^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100013905^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100012505^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100012506^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100014104^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100014105^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100014106^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100014204^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100014205^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100014206^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100014303^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100014304^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100014305^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100011106^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_318000105^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_318000106^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_317000105^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_317000106^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_320000104^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_320000105^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_320000106^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_319000104^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_319000105^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_319000106^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_316000103^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_316000104^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_316000105^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100010005^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100010006^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100015104^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100015105^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100015106^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100015204^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100015205^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100015206^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100015303^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100015304^^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100015305^^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100006006^Don't be surprised.<br>The other me is still a part of me, after all.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100005706^My research had confirmed it...<br>But to think I too have become<br>one of the visions of legend.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100014405^Pay your respects to the dragon.<br>If you treat it like just another monster, it will surely kill you.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100014406^If you're willing to recognize the power of both dragon and human, then I will stick by your side.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100014504^You require my dance moves?<br>I see... In that case, i will go with you.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100014505^You came to watch me dance? You're in for a treat, just sit back and watch.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100014506^Our journey still isn't over.<br>What do you hope to accomplish with my dancing?^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100014604^There's no need to be scared.<br>You can't still anything from a poor man who has nothing to begin with.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100014605^Might you be a rich man?<br>If so, I might have some extra valuable items to sell you.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100014606^If you have enough money anyway,<br>then why don't you buy something from me?<br>You'll be helping me out, you know?^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100014703^I'm just letting you know,<br>I'm a mage capable of wielding healing magic.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100014704^I choose not to work as a warrior.<br>I am a mage.<br>Leave the healing to me.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100014705^Call me if you need healing.<br>Me and my trained body will follow you wherever you go.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100014005^So this is a vision. How curious.<br>I will join you for a time.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100014006^I would like to see for myself what you are all capable of.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_207001005^He he he... I am the Chosen One.<br>I have been chose to serve.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_207001006^I am a product of the Genova Project.<br>Ha ha ha... Do you understand now?^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100013805^Yahoo!<br>Everything's okay now that I'm here!<br>I'm stronger than I look, you know?^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100013806^From rescuing lost children to vanquishing monsters, you can leave it all up to me!^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100013504^I will protect you all.<br>Now it's time to use my magic.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100013505^You require my magic?<br>It's it's what you desire, then I shall protect you.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100013506^I shall use this power for the sake of fostering peace.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100013903^Hey there, you haven't see Tim, have you?<br>I've been looking for him.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100013904^Eh, you know where Tim is?<br>Tell me, tell me, please tell me!^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100013905^That moron Tim,<br>where could he have gotten off to.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100012505^You want me as one of your comrades.<br>A wise decision.<br>I promise I will be of use to you.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100012506^You want me as one of your comrades.<br>A wise decision.<br>I promise I will be of use to you.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100014104^I'm not good at manual labor,<br>but you can leave the magic to me.<br>I'll do my best not to let you down.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100014105^I'm not good at manual labor,<br>but you can leave the magic to me.<br>I'll do my best not to let you down.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100014106^I'm not good at manual labor,<br>but you can leave the magic to me.<br>I'll do my best not to let you down.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100014204^Oh! So happy to meet you!<br>Or rather, being courteous is paramount.<br>I am a butler, after all.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100014205^Oh! So happy to meet you!<br>Or rather, being courteous is paramount.<br>I am a butler, after all.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100014206^Oh! So happy to meet you!<br>Or rather, being courteous is paramount.<br>I am a butler, after all.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100014303^I'll do my best to attain something.<br>I certainly will not put this encounter to waste.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100014304^I'll do my best to attain something.<br>I certainly will not put this encounter to waste.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100014305^I'll do my best to attain something.<br>I certainly will not put this encounter to waste.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100011106^You need my power?<br>If my dancing can save people,<br>then I'll dance as long as you want!^^^^^
+MST_UNIT_EXPLAIN_SUMMON_318000105^Where are we?<br>Perhaps this is some uncivilized planet?^^^^^
+MST_UNIT_EXPLAIN_SUMMON_318000106^I am Fayt.<br>Fate Linegod.<br>Pleased to meet you.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_317000105^Won't you take me along with you?<br>I would like to help out.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_317000106^I want to know exactly who I am.<br>That's what I will go with you.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_320000104^I am fidel.<br>I spend my days teaching swordsmanship<br>in the village of Sthal.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_320000105^I don't know of how much<br>help I can be to you all...<br>But I will go with you.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_320000106^I will protect Relia.<br>I will not fail.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_319000104^Let me know if there's<br>anything I can help with.<br>I'll do my very best!^^^^^
+MST_UNIT_EXPLAIN_SUMMON_319000105^As long as I have my bow,<br>nothing will stand it our way.<br>Leave support to me!^^^^^
+MST_UNIT_EXPLAIN_SUMMON_319000106^No problems with the climate.<br>This planet does seem hospitable.<br>...But still, where am I?^^^^^
+MST_UNIT_EXPLAIN_SUMMON_316000103^I am Roddick Farrence.<br>Call me Ratix.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_316000104^Even if I'm unable to once again return to Kratus, I want to say as many as possible!^^^^^
+MST_UNIT_EXPLAIN_SUMMON_316000105^Let's go!<br>We mustn't let more people suffer!^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100010005^I apologize for the wait.<br>From here on out, I will fight by your side.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100010006^I apologize for the wait.<br>From here on out, I will fight by your side.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100015104^Nice to meet you, interesting stranger.<br>I wonder what sort of tale I should ask to hear of you?^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100015105^Nice to meet you, interesting stranger.<br>I wonder what sort of tale I should ask to hear of you?^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100015106^Nice to meet you, interesting stranger.<br>I wonder what sort of tale I should ask to hear of you?^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100015204^I'm Bombardier Zile!<br>I felt I was being called, so here I am!^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100015205^I'm Bombardier Zile!<br>I felt I was being called, so here I am!^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100015206^I'm Bombardier Zile!<br>I felt I was being called, so here I am!^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100015303^You would hire me?<br>It would depend on what we're doing and for what reward.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100015304^You would hire me?<br>It would depend on what we're doing and for what reward.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_100015305^You would hire me?<br>It would depend on what we're doing and for what reward.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_401001004^ ^ ^ ^ ^ ^ 
+MST_UNIT_EXPLAIN_SUMMON_401001005^ ^ ^ ^ ^ ^ 

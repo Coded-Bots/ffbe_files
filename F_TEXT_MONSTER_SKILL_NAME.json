@@ -2288,7 +2288,7 @@ MST_MONSTER_SKILL_NAME_169980^Cold air has formed a crystal^冷空氣開始凝�
 MST_MONSTER_SKILL_NAME_169990^Crystal Lazer^結晶雷射^크리스탈 광선^Laser de cristal^Kristalllazer^Láser cristalino
 MST_MONSTER_SKILL_NAME_170000^Crystal Lazer^結晶雷射^크리스탈 광선^Laser de cristal^Kristalllazer^Láser cristalino
 MST_MONSTER_SKILL_NAME_170010^The ice melted, the lazer is broken^冰溶解了，雷射開始不規則反射^얼음이 녹아 광선이 난반사 했다^La glace a fondu, le laser est cassé^Das Eis ist geschmolzen, der Lazer ist kaputt^El hielo se derritió, el láser está roto
-MST_MONSTER_SKILL_NAME_170020^The ice melted, the lazer is broken^冰溶解了，雷射開始不規則反射^얼음이 녹아 광선이 난반사 했다^La glace a fondu, le laser est cassé^Das Eis ist geschmolzen, der Lazer ist kaputt^El hielo se derritió, el láser está roto
+MST_MONSTER_SKILL_NAME_170020^The ice melted, the lazer is broken^冰溶解了，雷射開始不規則反射^muscle pose^La glace a fondu, le laser est cassé^Das Eis ist geschmolzen, der Lazer ist kaputt^El hielo se derritió, el láser está roto
 MST_MONSTER_SKILL_NAME_170030^Blizzara^中暴雪^블리자라^Glace +^Eisra^Hielo+
 MST_MONSTER_SKILL_NAME_170040^Drain More^吸更多血^더 흡혈^Draine davantage^Mehr stehlen^Drenar más
 MST_MONSTER_SKILL_NAME_170050^Drain More and More^吸更多更多血^더욱더 흡혈^Draine encore plus^Noch mehr stehlen^Drenar más y más
@@ -3670,3 +3670,7 @@ MST_MONSTER_SKILL_NAME_183020^^^^^^
 MST_MONSTER_SKILL_NAME_183030^^^^^^
 MST_MONSTER_SKILL_NAME_183040^^^^^^
 MST_MONSTER_SKILL_NAME_183050^^^^^^
+MST_MONSTER_SKILL_NAME_900116^Aura of Resentment^怨恨氣場^분노의 기운^Aura de rancœur^Aura der Verachtung^Aura de rencor
+MST_MONSTER_SKILL_NAME_900117^Dark Dissonance^暗黑不和諧音^어둠의 불협화음^Dissonance obscure^Dunkle Dissonanz^Disonancia oscura
+MST_MONSTER_SKILL_NAME_900118^Dark Dissonance^暗黑不和諧音^어둠의 불협화음^Dissonance obscure^Dunkle Dissonanz^Disonancia oscura
+MST_MONSTER_SKILL_NAME_900119^Deafening Pitch^震耳欲聾^귀를 찢는 고음^Son assourdissant^Ohrenbetäubende Tonhöhe^Nota ensordecedora

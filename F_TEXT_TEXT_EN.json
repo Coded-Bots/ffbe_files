@@ -2009,3 +2009,4 @@ DAILY_QUEST_CLAIM_ALL_PROMPT^Claim all completed quest rewards?^要領取所有�
 SG_UNIT_SORT_UNITEXP^Unit Exp^兵員EXP^유닛 경험치^Exp d'unité^Einheiten-EXP^Exp de unidad
 UNIT_SORT_TYPE_EXPD_BONUS^Success rate^成功率^성공률^Taux de succès^Erfolgswahrscheinlichkeit^Probabilidad de éxito
 SERVER_MSG_503^Mission is Expired^超過任務期限^더 이상 수행할 수 없는 미션입니다.^La mission a expiré^Mission ist abgelaufen^La misión ha caducado
+SERVER_MSG_900^Please log in again. ^請重新登入。^다시 로그인해주십시오.^Veuillez vous reconnecter.^Bitte logge dich erneut ein.^Vuelve a iniciar sesión.
