@@ -426,7 +426,7 @@ MST_EQUIP_ITEM_NAME_402001800^Genji Shield^源氏之盾^겐지의 방패^Bouclie
 MST_EQUIP_ITEM_NAME_1100000041^Snowstorm Shield^暴風雪之盾^눈보라의 방패^Bouclier Brisegivre^Schneesturmschild^Escudo de la ventisca
 MST_EQUIP_ITEM_NAME_1100000042^Candy Gun^糖果火槍^캔디 건^Pistobonbon^Bonbonkanone^Pistola de caramelo
 MST_EQUIP_ITEM_NAME_1100000043^Ice Rosetta^冰凍羅賽塔^아이스 로제타^Rose de glace ^Eis-Rosetta^Rosetta helada
-MST_EQUIP_ITEM_NAME_409011900^Ring of the Lucii^光耀之戒^광요의 반지^Anneau des Lucii^Ring von Lucis^Sello de la Luz
+MST_EQUIP_ITEM_NAME_409011900^Ring of the Lucii^光耀之戒^광요의 반지^Anneau des Lucii^Ring der Lucis^Sello de la Luz
 MST_EQUIP_ITEM_NAME_1100000045^Venomous Edge^帶毒刀^맹독의 단도^Lame venimeuse ^Giftklinge^Filo venenoso
 MST_EQUIP_ITEM_NAME_1100000044^Crimson Slayer^除魔專用鎧甲^마물 퇴치용 갑옷^Tranche-carmin^Purpurtöter^Matabestias escarlata
 MST_EQUIP_ITEM_NAME_1100000046^Beast Cestus^野獸手套^야수의 세스터스^Ceste bestial^Cestus-Bestie^Cestus bestial
@@ -643,7 +643,7 @@ MST_EQUIP_ITEM_NAME_405003800^Azure Gilet^天空藍馬甲^푸른 조끼^Gilet az
 MST_EQUIP_ITEM_NAME_409014000^Gauntlets^鐵手套^건틀릿^Gantelets ^Kampfhandschuh^Guanteletes
 MST_EQUIP_ITEM_NAME_409014100^Ruby Ring^紅寶石戒指^루비 반지^Anneau de rubis^Rubinring^Anillo de rubí
 MST_EQUIP_ITEM_NAME_309001800^Dragon Claws^龍爪^드래곤의 발톱^Croc de dragon^Drachenklauen^Garra de dragón
-MST_EQUIP_ITEM_NAME_405003900^Thermal Suit^耐熱防護服^내열 방호복^Combinaison ignifugée^Hitzefeste Tracht^Traje ignífugo
+MST_EQUIP_ITEM_NAME_405003900^Thermal Suit^耐熱防護服^내열 방호복^Combinaison ignifugée^Hitzeschutzanzug^Traje ignífugo
 MST_EQUIP_ITEM_NAME_402002000^Power Shield^巨力盾^파워 실드^Bouclier de puissance^Kraftschild^Clípeo
 MST_EQUIP_ITEM_NAME_303003400^Iron Duke^鋼鐵公爵^아이언 듀크^Duc d'acier^Eiserner Fürst^Duque de hierro
 MST_EQUIP_ITEM_NAME_409014200^Garnet Bracelet^石榴石手環^가넷의 팔찌^Bracelet de grenat^Granat-Armband^Pulsera de granates
@@ -761,12 +761,12 @@ MST_EQUIP_ITEM_NAME_304002200^Himonto^冰紋刀^^^^Himonto
 MST_EQUIP_ITEM_NAME_404002600^Aranea's Helm^艾拉尼亞頭盔^^^^Yelmo de Aranea
 MST_EQUIP_ITEM_NAME_313003000^Valiant II^勇士Ⅱ^^^^Heroica
 MST_EQUIP_ITEM_NAME_409016800^A1-Class Powershield^士官用特A級盾牌^^^^Escudo de primera clase
-MST_EQUIP_ITEM_NAME_308003400^Precision Lance^精准槍^^^^La Parca
+MST_EQUIP_ITEM_NAME_308003400^Precision Lance^精準長槍^^^^La Parca
 MST_EQUIP_ITEM_NAME_405004400^Assist Suit^輔助服^^^^Exotraje
 MST_EQUIP_ITEM_NAME_406003000^Chobham Armor^查布漢複合裝甲^^^^Blindaje Chobham
 MST_EQUIP_ITEM_NAME_313003100^Valiant^勇士^^^^Valiant
 MST_EQUIP_ITEM_NAME_308003500^Stoss Spear^突刺長槍^^^^Lanza dracónida
-MST_EQUIP_ITEM_NAME_407002600^Iron Colossus^鋼鐵魔導巨兵^^^^Coloso férreo
+MST_EQUIP_ITEM_NAME_407002600^Iron Colossus^鋼鐵魔導巨兵^^Colosse de fer^Eisenkoloss^Coloso férreo
 MST_EQUIP_ITEM_NAME_302004300^Chaos Blade^混沌之劍^^^^Hoja de tormento
 MST_EQUIP_ITEM_NAME_402002300^Zodiac Escutcheon^最強之盾^^^^Non plus ultra
 MST_EQUIP_ITEM_NAME_302004400^Death Trap^死亡陷阱^^^^Trampa mortal
@@ -815,7 +815,7 @@ MST_EQUIP_ITEM_NAME_309002200^Reflect Knuckle^反射拳套^^^^Puños reflectores
 MST_EQUIP_ITEM_NAME_402002500^Cerulean Shield^水盾^^^^Escudo acuoso
 MST_EQUIP_ITEM_NAME_407003000^Dual Armor^杜爾鎧^^^^Armadura dual
 MST_EQUIP_ITEM_NAME_409017800^Aquamarine Ring^海藍石戒指^^^^Anillo de aguamarina
-MST_EQUIP_ITEM_NAME_302004900^Enhancer+^魔化細劍·改^^^^Artífice+
+MST_EQUIP_ITEM_NAME_302004900^Enhancer+^魔化細劍·改^^Lame Soutien +^Verstärker+^Artífice+
 MST_EQUIP_ITEM_NAME_409017900^Invigorator^激勵者^^^^Vigorizador
 MST_EQUIP_ITEM_NAME_305002200^Refined Engine Axe^斬鬼斧·精製^^^^Hacha mecánica refinada
 MST_EQUIP_ITEM_NAME_409018000^Killian's Scarf^基里安圍巾^^^^Bufanda de Killian
@@ -840,9 +840,9 @@ MST_EQUIP_ITEM_NAME_405004700^Local Guide's Clothes^當地嚮導服^^^^Uniforme 
 MST_EQUIP_ITEM_NAME_409018400^Touph Ring^精力充沛的指環^^^^Anillo fuerte
 MST_EQUIP_ITEM_NAME_315021800^Twin Viper^雙頭蛇^^^^Serpiente bicéfala
 MST_EQUIP_ITEM_NAME_313003200^Enemy Launcher^狙敵者^^^^Lanza enemigos
-MST_EQUIP_ITEM_NAME_409018500^Bomb Ring^炸彈婚戒^^^^Anillo de bom
+MST_EQUIP_ITEM_NAME_409018500^Bomb Engagement Ring^炸彈婚戒^^Bague bombo^Bombenverlobungsring^Anillo de bom
 MST_EQUIP_ITEM_NAME_316001200^Dust Horn^沙塵角笛^^^^Cuerno del polvo
-MST_EQUIP_ITEM_NAME_304002700^Right Blade^吸血妖刀^^^^Hoja diestra
+MST_EQUIP_ITEM_NAME_304002700^Light Blade^吸血妖刀^^^^Hoja diestra
 MST_EQUIP_ITEM_NAME_406003200^Arenalorika^複合裝甲^^^^Arenalorika
 MST_EQUIP_ITEM_NAME_409018600^Rhinestone Ring^萊茵石指環^^^^Anillo de rinopiedra
 MST_EQUIP_ITEM_NAME_313003300^Blaster^颶風槍^^^^Pistola blaster
@@ -865,7 +865,7 @@ MST_EQUIP_ITEM_NAME_313003400^Scarlet Roses^緋紅玫瑰^^^^Rosas escarlata
 MST_EQUIP_ITEM_NAME_406003300^Riot Gear^防暴裝甲^^^^Equipo antidisturbios
 MST_EQUIP_ITEM_NAME_301003000^Takemikazuchi^霹劍·武禦雷^^^^Takemikazuchi
 MST_EQUIP_ITEM_NAME_302005100^Steel Pipe^鐵管^^^^Tubo de hierro
-MST_EQUIP_ITEM_NAME_310003400^Wizard Rod+^巫師棒·改^^^^Vara de brujo+
+MST_EQUIP_ITEM_NAME_310003400^Wizard Rod+^巫師棒·改^^^Magierrute+^Vara de brujo+
 MST_EQUIP_ITEM_NAME_311003400^Bone Staff^骨杖^^^^Bastón de hueso
 MST_EQUIP_ITEM_NAME_401002100^Wind Buckler^風之圓盾^^^^Rodela del viento
 MST_EQUIP_ITEM_NAME_409019100^Sphene Ring^榍石戒指^^^^Anillo de Esfene

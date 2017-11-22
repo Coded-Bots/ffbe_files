@@ -239,8 +239,8 @@ MST_DUNGEONS_NAME_74101^Ayaka's Request^彩花的委託^아야카의 의뢰^La r
 MST_DUNGEONS_NAME_74102^Goken's Request^剛健的委託^고우켄의 의뢰^La requête de Goken^Gokens Bitte^El favor de Goken
 MST_DUNGEONS_NAME_74201^Four Noble Devils Incoming!^四魔貴族 襲來！^4대 마귀족, 습격하다!^Quatre nobles démons en approche !^Vier Erhabene Teufel greifen an!^Los Cuatro Demonios Nobles atacan
 MST_DUNGEONS_NAME_74301^Ariana Grande SPD^亞莉安娜格蘭德SPD^아리아나 그란데 SPD^Ariana Grande SPD^Ariana Grande SPD^Ariana Grande SPD
-MST_DUNGEONS_NAME_74401^Destroy the Reactor^魔晄爐破壞作戰^마황로 폭파 작전^Détruire le réacteur ^Zerstöre den Reaktor^Destruyendo el reactor
-MST_DUNGEONS_NAME_74501^Destroy the Reactor - Exploration^魔晄爐破壞作戰・探索^마황로 폭파 작전·탐색^Détruire le réacteur - Exploration ^Zerstöre den Reaktor - Erkundung^Destruyendo el reactor - Exploración
+MST_DUNGEONS_NAME_74401^Destroy the Reactor^魔晄爐破壞作戰^마황로 폭파 작전^Détruire le réacteur ^Reaktorzerstörung^Destruyendo el reactor
+MST_DUNGEONS_NAME_74501^Destroy the Reactor - Exploration^魔晄爐破壞作戰・探索^마황로 폭파 작전·탐색^Détruire le réacteur - Exploration ^Reaktorzerstörung - Erkundung^Destruyendo el reactor - Exploración
 MST_DUNGEONS_NAME_74701^User Submission Raid^用戶投稿共鬥^유저 투고 레이드^Raid du vote des joueurs ^Spielereinsendung-Raubzug^Banda de votación de usuarios
 MST_DUNGEONS_NAME_72901^Daydreaming Adventurer^空想冒險家^꿈꾸는 모험가^L'aventurier rêveur^Tagträumender Abenteurer^El aventurero soñador
 MST_DUNGEONS_NAME_72902^The Underground Pass^地下坑道^지하갱도^Passage souterrain^Unterirdischer Pass^Paso Subterráneo
@@ -323,7 +323,7 @@ MST_DUNGEONS_NAME_60009^Chapter 7 Part 1 Kingdom of Pharm^第七章 前篇 法�
 MST_DUNGEONS_NAME_60010^Chapter 7 Part 2 Land of the Crystals^第七章 中篇 水晶大地^제7장 2부 크리스탈의 대지^Chapitre 7 Partie 2 Terre des cristaux^Kapitel VII Teil II Land der Kristalle^Capítulo 7 Parte 2 Reino de los Cristales
 MST_DUNGEONS_NAME_60011^Chapter 7 Part 3 Chaotic Darkness^第七章 後篇 混沌之暗^제7장 3부 혼돈의 어둠^Chapitre 7 Partie 3 Obscurité chaotique^Kapitel VII Teil III Dunkles Chaos^Capítulo 7 Parte 3 Oscuridad caótica
 MST_DUNGEONS_NAME_74801^The Frozen Cavern^凍結的冰之洞窟^얼어붙은 동굴^La caverne gelée^Die Eishöhle^La caverna congelada
-MST_DUNGEONS_NAME_74901^The Web-Weaving Princesses^化生公主^화생의 프린세스^La princesse métamorphe^Die Prinzessin der Verwandlung^La princesa revivida
+MST_DUNGEONS_NAME_74901^The Web-Weaving Princesses^化生公主^화생의 프린세스^La princesse métamorphe^Die verwunschene Prinzessin^La princesa revivida
 MST_DUNGEONS_NAME_75301^Alexandria Castle^亞力山德利亞城^알렉산드리아 성^Château d'Alexandrie ^Burgstadt Alexandria^Castillo de Alexandria
 MST_DUNGEONS_NAME_75401^Escape from Alexandria Castle^逃離亞力山德利亞城^알렉산드리아 성 탈출^Fuite du château d'Alexandrie^Entkomme aus der Burgstadt Alexandria^Huída del Castillo de Alexandria
 MST_DUNGEONS_NAME_75601^Unit Intro Quest^兵員介紹任務^유닛 소개 퀘스트^Quête d'introduction d'unité^Einheiten-Auftrag^Misión introductoria de unidad
@@ -381,134 +381,134 @@ MST_DUNGEONS_NAME_113107^Forbidden Land^禁斷之地^금단의 땅^Terre interdi
 MST_DUNGEONS_NAME_113108^Petra, Walkway Home^貝多拉幻想林歸途^페트라 환상림 귀로^Pétra, chemin du retour^Petra, Heimweg^Petra, camino a casa
 MST_DUNGEONS_NAME_113109^Giant Forest^巨木森林帶^거목 수림지대^Forêt géante^Gigantischer Waldgürtel^Bosque gigante
 MST_DUNGEONS_NAME_113110^Lake Granceno^古蘭賽諾湖^그랑시노 호수^Lac Granceno^See Granceno^Lago Granceno
-MST_DUNGEONS_NAME_113111^Gagara Sand Cavern^迦迦拉砂岩洞窟^가가라 사암동굴^Caverne de sable de Gagara^Gagara-Sandhöhle^Caverna arenosa de Gagara
+MST_DUNGEONS_NAME_113111^Gagara Sand Cavern^迦迦拉砂岩洞窟^가가라 사암 동굴^Caverne de sable de Gagara^Gagara-Sandhöhle^Caverna arenosa de Gagara
 MST_DUNGEONS_NAME_113112^Battlegrounds^決戰場^결전장^Champ de bataille^Entscheidungsschlachtfeld^Zona de guerra
 MST_DUNGEONS_NAME_113113^Lutal Mine^魯塔爾廢坑^루탈 폐갱^Mine de Lutal^Lutal-Mine^Mina de Lutal
 MST_DUNGEONS_NAME_113114^Falfa Hill^法爾法丘陵^팔파 구릉^Colline de Falfa^Falfa-Hügel^Colina de Falfa
 MST_DUNGEONS_NAME_113115^Energy Transfer Station^能量轉換設施^에너지 변환 시설^Station de transfert d'énergie^Energietransfer-Station^Estación de transferencia de energía
 MST_DUNGEONS_NAME_113151^Ruins of the Water God^水神的遺跡^수신의 유적^Ruines du roi de l'eau^Ruinen des Wassergottes^Ruinas del rey del agua
-MST_DUNGEONS_NAME_114101^Crystallis Cave^克里斯塔里斯大洞穴^크리스탈리스 동굴^Cave de Crystallis ^Höhle von Crystallis^Cueva de Cristalis
+MST_DUNGEONS_NAME_114101^Crystallis Cave^克里斯塔里斯大洞穴^크리스탈리스 동굴^Cave de Crystallis^Höhle von Crystallis^Cueva de Cristalis
 MST_DUNGEONS_NAME_114201^Quartz Sands^玻璃的沙漠^유리수정 사막^Désert de Quartz^Quartzwüste^Arenas de cuarzo
 MST_DUNGEONS_NAME_114202^City of Ash Anabeth^灰之街亞那貝斯^잿빛 도시 아나베스^Anabeth, ville de poussière^Stadt der Asche, Anabeth^Anabeth, ciudad de la ceniza
 MST_DUNGEONS_NAME_114203^Skylight Desert^天窗的沙漠^천창의 사막^Désert de la lumière céleste^Himmelstorwüste^Desierto de luz celeste
 MST_DUNGEONS_NAME_114204^Prismatic Stream^七色的地底河^무지개빛 지하강^Courant prismatique^Prysmatischer Strom^Corriente prismática
-MST_DUNGEONS_NAME_114205^Crystallis Barrier Station^克里斯塔里斯屏障發生設施^크리스탈리스 배리어 발생 시설^Station de barrière Cristalis ^Barrierenaktivator Crystallis^Estación de barrera Cristalis
-MST_DUNGEONS_NAME_114206^Varved Wharf^層疊的崖壁^적층 암벽^^^Atracadero sedimentado
+MST_DUNGEONS_NAME_114205^Crystallis Barrier Station^克里斯塔里斯屏障發生設施^크리스탈리스 배리어 발생 시설^Station de barrière Cristalis^Barrierenaktivator Crystallis^Estación de barrera Cristalis
+MST_DUNGEONS_NAME_114206^Varved Wharf^層疊的崖壁^적층 암벽^Débarcadère sédimenté^Stufenkliff^Atracadero sedimentado
 MST_DUNGEONS_NAME_114207^Forest of Blades^白刃之森^흰 칼날의 숲^Forêt de lames^Klingenwald^Bosque de las cuchillas
 MST_DUNGEONS_NAME_114208^Runferia Castle^倫菲利亞城^룬페리아 성^Château de Runferia^Burg Runferia^Castillo de Runferia
-MST_DUNGEONS_NAME_114209^Fuzzy Flats^絨毛草原^솜털 초원^^^Dehesa difusa
-MST_DUNGEONS_NAME_114210^Illusion Magic Research Facility^幻魔導研究設施^환마도 연구 시설^Institut de l'illusion ^^Instituto de ilusionismo
-MST_DUNGEONS_NAME_114211^Silk Way^絲綢岩道^비단 바위길^Route de la soie^^Ruta de la seda
-MST_DUNGEONS_NAME_114212^Quicksand Valley^流沙之谷^흐르는 모래언덕^Vallée des sables mouvents ^^Valle de arenas movedizas
-MST_DUNGEONS_NAME_114213^Room of Oblivion^忘卻的寢室^망각의 침소^Chambre de l'oubli^^Dormitorio del olvido
-MST_DUNGEONS_NAME_114214^Hideaway Lanzatto^隱居之處蘭扎特^란자토 은거지^Cachette Lanzatto^^Guarida Lanzatto
-MST_DUNGEONS_NAME_114215^Energy Extraction Station^能量抽取設施^에너지 추출 시설^^^Estación de extracción de energía
-MST_DUNGEONS_NAME_114216^Nirvana Woods^寂滅之森^열반의 숲^^^Bosque del nirvana
-MST_DUNGEONS_NAME_114217^Scalestone Way^鱗岩道路^비늘 바위길^^^Travesía escalonada
-MST_DUNGEONS_NAME_114218^Deadly Rock Path^遺失岩場^사라진 바위터^^^Camino de rocas mortal
-MST_DUNGEONS_NAME_114219^Elmaul Archives^艾爾瑪烏爾的書庫外^엘마울의 서고^^Elmaul-Archive^Archivos de Elmaul
-MST_DUNGEONS_NAME_114220^Road to Porchika Village^通往波其卡村的道路^포치카 마을로 가는 길^^^Camino a Porchika
-MST_DUNGEONS_NAME_114251^Cave of Rebirth^轉生的洞穴^윤회의 동굴^^^Cueva del renacimiento
-MST_DUNGEONS_NAME_114301^Madam Hall^夫人公館^마담의 저택^^^Mansión de Madam
-MST_DUNGEONS_NAME_114302^Ancient Ruins Level 1^古代遺跡・1層^고대 유적 1층^^^Ruinas antiguas - 1er piso
-MST_DUNGEONS_NAME_40201^Azure Soul and Crimson Blade^蒼之魂與紅之劍^푸른 영혼과 붉은 검^^^Alma azul y hoja carmesí
-MST_DUNGEONS_NAME_40202^A New Life^新生命^새로운 생명^^^Una nueva vida
-MST_DUNGEONS_NAME_40203^Bazooka of Love^愛的火箭筒大作戰^사랑의 바주카 대작전^^^El bazuca del amor
-MST_DUNGEONS_NAME_40204^Gunsmoke Memories^硝煙記憶^화약 연기의 추억^^^Recuerdos en el humo
-MST_DUNGEONS_NAME_40205^Fina, Fragments of Memories^菲娜，思念的碎片^피나, 마음의 조각^^^Fina, fragmentos del recuerdo
-MST_DUNGEONS_NAME_40206^What Color Bonds Take^羈絆的色彩^그 인연의 빛깔은^^^El color de los vínculos
-MST_DUNGEONS_NAME_60012^Paladia Chapter 1 Part 1^帕拉迪亞 第一章前篇^파라디아편 1장 1부^^Paladia Kapitel 1 Teil 1^Paladia capítulo 1 - 1ª parte
-MST_DUNGEONS_NAME_60013^Paladia Chapter 1 Part 2^帕拉迪亞 第一章中篇^파라디아편 1장 2부^^Paladia Kapitel 1 Teil 2^Paladia capítulo 1 - 2ª parte
-MST_DUNGEONS_NAME_60014^Paladia Chapter 1 Part 3^帕拉迪亞 第一章後篇^파라디아편 1장 3부^^Paladia Kapitel 1 Teil 3^Paladia capítulo 1 - 3ª parte
-MST_DUNGEONS_NAME_60015^Paladia Chapter 2 Part 1^帕拉迪亞 第一章前篇^파라디아편 2장 1부^^Paladia Kapitel 2 Teil 1^Paladia capítulo 2 - 1ª parte
-MST_DUNGEONS_NAME_60016^Paladia Chapter 2 Part 2^帕拉迪亞 第二章後篇^파라디아편 2장 2부^^Paladia Kapitel 2 Teil 2^Paladia capítulo 2 - 2ª parte
-MST_DUNGEONS_NAME_76101^Garuda, Lady of the Vortex^風神迦樓羅殲滅戰^바람신 가루다 토벌전^^Garuda, die Dame des Vortex^Garuda, señora del vórtice
-MST_DUNGEONS_NAME_76201^The True Garuda^真迦樓羅殲滅戰^진 가루다 토벌전^^Die wahre Garuda^La verdadera Garuda
-MST_DUNGEONS_NAME_76301^Dark Castle^黑暗城堡^어둠의 성^^Dunkles Schloss^Castillo oscuro
-MST_DUNGEONS_NAME_76401^Castle Granth - Exploration^格蘭斯城・探索^글랜스 성·탐색^^Schloss Granth - Erkundung^Castillo de Granth - Exploración
-MST_DUNGEONS_NAME_76601^Rebel Against the Empire^反擊帝國^제국을 향한 반격^^Rebellion gegen das Imperium^Rebelión contra el Imperio
-MST_DUNGEONS_NAME_76701^Fort Vaullerey - Battle with Aranea^沃拉雷基地・艾拉尼亞戰^볼라레 기지·아라네아 전^^Vaullerey-Basis - Kampf mit Aranea^Base de Vaullerey - Contra Aranea
-MST_DUNGEONS_NAME_76801^Yensa Sandsea^焉薩大沙海^옌사 대사해^^Yensa-Sandsee^Arenas de Yensa
-MST_DUNGEONS_NAME_76901^Nam-Yensa Sandsea - Exploration^大沙海奧格・焉薩・探索^대사해 냄 옌사·탐색^^Nam-Yensa-Sandsee - Erkundung^Arenas de Nam Yensa - Exploración
-MST_DUNGEONS_NAME_77101^Luxendarc, Land of Light and Shadow^光與暗的世界盧森達爾克^빛과 어둠의 세계 룩센다르크^^Luxendarc, Land von Licht und Schatten^-
-MST_DUNGEONS_NAME_77201^Abyss Hall 55^無底深淵55層^어비스 홀 55층^^Abysshalle 55^-
-MST_DUNGEONS_NAME_77301^Fabul Castle Guard^法布爾城防衛戰^파불 성 수비전^^Verteidigung der Burg Fabul^Defensa del castillo de Fabul
-MST_DUNGEONS_NAME_77401^Crystal Room - Battle with Kain^水晶之間・凱因戰^크리스탈 룸·카인 전^^Kristallraum - Kampf mit Kain^Sala del cristal - Contra Kain
-MST_DUNGEONS_NAME_77601^Global Version Anniversary Raid^國際版一週年紀念共鬥^글로벌판 1주년 기념 레이드^^Globale Version Jubiläumsraubzug^Banda de la versión internacional
-MST_DUNGEONS_NAME_77701^Global Version Anniversary Raid - The Great Nian Beast^國際版一週年紀念共鬥・巨年獸戰^글로벌판 1주년 기념 레이드·거대 니안 전^^Globale Version Jubiläumsraubzug^Banda de ver. internacional - Ataque de la Megabestia Nian
-MST_DUNGEONS_NAME_77801^Nibelheim^尼布爾海姆^니블헤임^^Nibelheim^Nibelheim
-MST_DUNGEONS_NAME_77901^Mt. Nibel - Exploration^尼布爾山・探索^니블 산·탐색^^Berg Nibel - Erkundung^Monte Nibel - Exploración
-MST_DUNGEONS_NAME_78101^Vanquish Jie Revors!^打倒傑・瑞沃斯！^지에 리보즈를 처치하라!^^Überwältige Jie Revors!^-
-MST_DUNGEONS_NAME_78201^Defeat Jie Revors - GOD^傑・瑞沃斯討伐・地獄級^지에 리보즈 토벌전·지옥급^^Wo Schicksale sich kreuzen^-
-MST_DUNGEONS_NAME_78301^Join the Grandshelt Knights!^招募！格蘭謝爾特的騎士^그랑셸트의 기사 모집!^^Überwältige Jie Revors!^¡Únete a los caballeros de Grandshelt!
-MST_DUNGEONS_NAME_78401^Latius Woods - Past^拉提烏斯之森・過去^라티우스의 숲·과거^^Besiege Jie Revors - ALPTRAUM^Bosque de Latius - Pasado
-MST_DUNGEONS_NAME_76501^Kunshira and Wadow^庫西拉和瓦多^쿤시라와 와도우^^Rekrutierung! Die Ritter von Grandshelt^Kunshira y Wadow
-MST_DUNGEONS_NAME_76502^Two Strangers^兩個陌生人^두 사람의 외지인^^Wald von Latius - Vergangenheit^Dos extraños
-MST_DUNGEONS_NAME_76503^Loyal Hound^忠義的忍者犬^충의의 번견^^Grandshelt Kriegslied^Sabueso fiel
-MST_DUNGEONS_NAME_76504^The Unpleasant Threesome^尷尬的三人^거북한 세 사람^^Dunkle Symphonie^Un trio molesto
-MST_DUNGEONS_NAME_76505^Unending Discord^無法消除的爭執^사라지지 않는 불화^^^Discordia sinfín
-MST_DUNGEONS_NAME_76506^Kunshira's Determination^庫西拉的決心^쿤시라의 결심^^^La determinación de Kunshira
-MST_DUNGEONS_NAME_76507^Reconciliation of the Beasts^獸人們的和解^수인들의 화해^^^Reconciliación entre bestias
-MST_DUNGEONS_NAME_76508^A Strange Friendship^神奇的朋友^신비한 친구들^^^Una amistad peculiar
-MST_DUNGEONS_NAME_76509^Extra Stage 1^特別關卡1^엑스트라 스테이지 1^^^Misión extra 1
-MST_DUNGEONS_NAME_76510^Extra Stage 2^特別關卡2^엑스트라 스테이지 2^^^Misión extra 2
-MST_DUNGEONS_NAME_77001^The Leader's Scheme^宰相的謀略^재상의 함정^^^El complot del líder
-MST_DUNGEONS_NAME_77002^Shera's Voyage^榭拉的旅途^시엘라의 여행^^^El viaje de Shera
-MST_DUNGEONS_NAME_77003^Cavern of Trials^試煉洞窟^시련의 동굴^^^La cueva de los desafíos
-MST_DUNGEONS_NAME_77004^Shera's Commandos^榭拉直屬遊擊隊^시엘라 직속 유격대^^^El comando de Shera
-MST_DUNGEONS_NAME_77005^Escape from the Cavern^逃出洞窟^동굴 탈출^^^Escapando de la cueva
-MST_DUNGEONS_NAME_77006^The Followers' Reality^隨從的真相^심복의 진실^^^La verdad sobre el súbdito
-MST_DUNGEONS_NAME_77007^Assassination on Emperor Shera^暗殺皇帝榭拉^시엘라 황제 암살^^^Asesinato del emperador Shera
-MST_DUNGEONS_NAME_77008^A New Era^新時代^새로운 시대^^^Una nueva era
-MST_DUNGEONS_NAME_77009^Extra Stage 1^特別關卡1^엑스트라 스테이지 1^^^Misión extra 1
-MST_DUNGEONS_NAME_77010^Extra Stage 2^特別關卡2^엑스트라 스테이지 2^^^Misión extra 2
-MST_DUNGEONS_NAME_77501^Lid's Memories^里德的追憶^리드의 추억^^^Recuerdos de Lid
-MST_DUNGEONS_NAME_77502^The Mysterious Device^神秘裝置^수수께끼의 장치^^^Un artilugio misterioso
-MST_DUNGEONS_NAME_77503^Killian's Anxiety^希里安的不安^킬리언의 불안^^^La ansiedad de Killian
-MST_DUNGEONS_NAME_77504^Unlinking Ideologies^水火不容的思想^대립하는 사상^^^Ideologías desconectadas
-MST_DUNGEONS_NAME_77505^Secret of the Device^裝置的秘密^장치의 비밀^^^El secreto del artilugio
-MST_DUNGEONS_NAME_77506^Battle for Dilmagia^迪爾馬基亞街區戰^딜마기아 시가전^^^La batalla por Dilmagia
-MST_DUNGEONS_NAME_77507^Unending Calamity^尚未結束的災難^끝없는 재앙^^^Calamidad sinfín
-MST_DUNGEONS_NAME_77508^A New Journey^新的旅程^새로운 여행의 시작^^^Una nueva aventura
-MST_DUNGEONS_NAME_77509^Extra Stage 1^特別關卡1^엑스트라 스테이지 1^^^Misión extra 1
-MST_DUNGEONS_NAME_77510^Extra Stage 2^特別關卡2^엑스트라 스테이지 2^^^Misión extra 2
-MST_DUNGEONS_NAME_78001^The Visitors^訪客們^방문자들^^^Los visitantes
-MST_DUNGEONS_NAME_78002^Lexa and Merald^萊基薩與梅拉路德^렉사와 메랄드^^^Lexa y Merald
-MST_DUNGEONS_NAME_78003^Dancers of Dragon Village^龍之鄉的舞者^용의 마을의 무용수^^^Bailarines del pueblo dragón
-MST_DUNGEONS_NAME_78004^Forced Journey^旅伴^여행과 길동무^^^Viajes forzosos
-MST_DUNGEONS_NAME_78005^Where Destinies Intersect^交錯的命運^교차하는 운명^^^Donde se cruzan los destinos
-MST_DUNGEONS_NAME_78006^A Documented Riddle^寫下的謎題^쓰여진 수수께끼^^^Un acertijo escrito
-MST_DUNGEONS_NAME_78007^Miraculous Escape^奇蹟般的逃脫^기적의 탈출^^^Una escapada milagrosa
-MST_DUNGEONS_NAME_78008^Separate Ways^不同的路^각자의 길^^^Caminos separados
-MST_DUNGEONS_NAME_78009^Cave of Crystals (Black)^晶石的洞窟【黑】^수정의 동굴 [흑]^Caverne de cristaux noirs^^Cueva de los crists negros
-MST_DUNGEONS_NAME_78010^Cave of Crystals (White)^晶石的洞窟【白】^수정의 동굴 [백]^Caverne de cristaux blancs^^Cueva de los crists blancos
-MST_DUNGEONS_NAME_78011^Cave of Crystals (Green)^晶石的洞窟【綠】^수정의 동굴 [녹]^Caverne de cristaux verts^^Cueva de los crists verdes
-MST_DUNGEONS_NAME_78012^Cave of Crystals (Attack)^晶石的洞窟【進攻】^수정의 동굴 [공격]^Caverne de cristaux d'attaque^^Cueva de los crists potentes
-MST_DUNGEONS_NAME_78013^Cave of Crystals (Defense)^晶石的洞窟【防守】^수정의 동굴 [수비]^Caverne de cristaux de défense^^Cueva de los crists guardianes
-MST_DUNGEONS_NAME_78014^Cave of Crystals (Tech)^晶石的洞窟【技巧】^수정의 동굴 [기술]^Caverne de cristaux techniques^^Cueva de los crists técnicos
-MST_DUNGEONS_NAME_78015^Cave of Crystals (Healing)^晶石的洞窟【治癒】^수정의 동굴 [치유]^Caverne de cristaux de soin^^Cueva de los crists curativos
-MST_DUNGEONS_NAME_78016^Cave of Crystals (Support)^晶石的洞窟【支援】^수정의 동굴 [지원]^Caverne de cristaux de soutien^^Cueva de los crists apoyadores
-MST_DUNGEONS_NAME_78501^Public Practice^公開演習^공개 연습^Pratiques publiques^^Entrenamiento público
-MST_DUNGEONS_NAME_78502^Vanquish Orders^討伐任務^토벌 임무^^^Órdenes de aniquilar
-MST_DUNGEONS_NAME_78503^Rest for Knights^騎士們的小憩^기사들의 휴식^^^Descanso para los caballeros
-MST_DUNGEONS_NAME_78504^A Private Discussion^密談^밀담^^^Una discusión privada
-MST_DUNGEONS_NAME_78505^Grandshelt Tour^格蘭謝爾特觀光^그랑셸트 관광^^^De turismo en Grandshelt
-MST_DUNGEONS_NAME_78506^Individual Actions^單獨行動^단독 행동^^^Acciones individuales
-MST_DUNGEONS_NAME_78507^Noisy Pursuers^吵鬧的追蹤者們^소란스러운 추적자들^^^Persecutores escandalosos
-MST_DUNGEONS_NAME_78508^Location Discovered^歸宿^찾아낸 거처^^^Lugar descubierto
-MST_DUNGEONS_NAME_78509^Cave of Crystals (Black)^晶石的洞窟【黑】2^수정의 동굴 [흑]^Caverne de cristaux noirs^^Cueva de los crists negros
-MST_DUNGEONS_NAME_78510^Cave of Crystals (White)^晶石的洞窟【白】2^수정의 동굴 [백]^Caverne de cristaux blancs^^Cueva de los crists blancos
-MST_DUNGEONS_NAME_78511^Cave of Crystals (Green)^晶石的洞窟【綠】3^수정의 동굴 [녹]^Caverne de cristaux verts^^Cueva de los crists verdes
-MST_DUNGEONS_NAME_78512^Cave of Crystals (Attack)^晶石的洞窟【進攻】2^수정의 동굴 [공격]^Caverne de cristaux d'attaque^^Cueva de los crists potentes
-MST_DUNGEONS_NAME_78513^Cave of Crystals (Defense)^晶石的洞窟【防守】1^수정의 동굴 [수비]^Caverne de cristaux de défense^^Cueva de los crists guardianes
-MST_DUNGEONS_NAME_78514^Cave of Crystals (Tech)^晶石的洞窟【技巧】3^수정의 동굴 [기술]^Caverne de cristaux techniques^^Cueva de los crists técnicos
-MST_DUNGEONS_NAME_78515^Cave of Crystals (Healing)^晶石的洞窟【治癒】^수정의 동굴 [치유]^Caverne de cristaux de soin^^Cueva de los crists curativos
-MST_DUNGEONS_NAME_78516^Cave of Crystals (Support)^晶石的洞窟【支援】^수정의 동굴 [지원]^Caverne de cristaux de soutien^^Cueva de los crists apoyadores
-MST_DUNGEONS_NAME_89728^New Rebirth of the White Dragon^白龍 真降臨^백룡 진강림^^^Resurgimiento del Dragón Blanco
-MST_DUNGEONS_NAME_89729^New Rebirth of the Demon Chimera^惡魔奇美拉 真降臨^데빌 키마이라 진강림^^^Resurgimiento de la Quimera demoníaca
-MST_DUNGEONS_NAME_89730^New Rebirth of the Brachiosaur^腕龍 真降臨^브라키오 레이더스 진강림^^^Resurgimiento del Braquiosaurio
-MST_DUNGEONS_NAME_89731^New Rebirth of the Intangir^沉睡的獅子 真降臨^잠자는 사자 진강림^^^Resurgimiento del Intangir
-MST_DUNGEONS_NAME_89732^New Surging Menace^蜂擁而至的強者們 真降臨^몰려드는 강자들 진강림^^^La amenaza se aproxima de nuevo
-MST_DUNGEONS_NAME_89943^Armor of Oppression^強力襲來的鐵鎧^맹위를 떨치는 철갑옷^^^La armadura opresora
-MST_DUNGEONS_NAME_89944^Great Explosion Festival^大爆炸慶典^대폭발 축제^^^Un festival explosivo
+MST_DUNGEONS_NAME_114209^Fuzzy Flats^絨毛草原^솜털 초원^Pré duveteux^Flaumige Felder^Dehesa difusa
+MST_DUNGEONS_NAME_114210^Illusion Magic Research Facility^幻魔導研究設施^환마도 연구 시설^Institut de l'illusion^Forschungsinstitut für Illusionsmagie^Instituto de ilusionismo
+MST_DUNGEONS_NAME_114211^Silk Way^絲綢岩道^비단 바위길^Route de la soie^Seidenstraße^Ruta de la seda
+MST_DUNGEONS_NAME_114212^Quicksand Valley^流沙之谷^흐르는 모래언덕^Vallée des sables mouvants^Treibsandtal^Valle de arenas movedizas
+MST_DUNGEONS_NAME_114213^Room of Oblivion^忘卻的寢室^망각의 침소^Chambre de l'oubli^Schlafkammer des Vergessens^Dormitorio del olvido
+MST_DUNGEONS_NAME_114214^Hideaway Lanzatto^隱居之處蘭扎特^란자토 은거지^Cachette Lanzatto^Refugium Lanzatto^Guarida Lanzatto
+MST_DUNGEONS_NAME_114215^Energy Extraction Station^能量抽取設施^에너지 추출 시설^Station d'extraction d'énergie^Energie-Extraktionsstation^Estación de extracción de energía
+MST_DUNGEONS_NAME_114216^Nirvana Woods^寂滅之森^열반의 숲^Bois du Nirvana^Nirvana-Wälder^Bosque del nirvana
+MST_DUNGEONS_NAME_114217^Scalestone Way^鱗岩道路^비늘 바위길^Traversée Rochécailles^Schuppensteinweg^Travesía escalonada
+MST_DUNGEONS_NAME_114218^Deadly Rock Path^遺失岩場^사라진 바위터^Chemin des roches mortelles^Tödlicher Steinpfad^Camino de rocas mortal
+MST_DUNGEONS_NAME_114219^Elmaul Archives^艾爾瑪烏爾的書庫外^엘마울의 서고^Archives d'Elmaul^Elmaul-Archive^Archivos de Elmaul
+MST_DUNGEONS_NAME_114220^Road to Porchika Village^通往波其卡村的道路^포치카 마을로 가는 길^Vers Porchika^Weg nach Porchika^Camino a Porchika
+MST_DUNGEONS_NAME_114251^Cave of Rebirth^轉生的洞穴^윤회의 동굴^Caverne de la renaissance^Höhle der Wiedergeburt^Cueva del renacimiento
+MST_DUNGEONS_NAME_114301^Madam Hall^夫人公館^마담의 저택^Maison de Dame^Damenresidenz^Mansión de Madam
+MST_DUNGEONS_NAME_114302^Ancient Ruins Level 1^古代遺跡・1層^고대 유적 1층^Ruines anciennes Niv. 1^Uralte Ruinen Ebene 1^Ruinas antiguas - 1er piso
+MST_DUNGEONS_NAME_40201^Azure Soul and Crimson Blade^蒼之魂與紅之劍^푸른 영혼과 붉은 검^Âme azure et Sabre carmin^Azurseele und Purpurklinge^Alma azul y hoja carmesí
+MST_DUNGEONS_NAME_40202^A New Life^新生命^새로운 생명^Une nouvelle vie^Ein neues Leben^Una nueva vida
+MST_DUNGEONS_NAME_40203^Bazooka of Love^愛的火箭筒大作戰^사랑의 바주카 대작전^Le Bazooka de l'amour^Bazooka der Liebe^El bazuca del amor
+MST_DUNGEONS_NAME_40204^Gunsmoke Memories^硝煙記憶^화약 연기의 추억^Souvenirs en fumée^Pulverdampf-Erinnerungen^Recuerdos en el humo
+MST_DUNGEONS_NAME_40205^Fina, Fragments of Memories^菲娜，思念的碎片^피나, 마음의 조각^Fina, Fragments de souvenirs^Fina, Splitter der Erinnerungen^Fina, fragmentos del recuerdo
+MST_DUNGEONS_NAME_40206^What Color Bonds Take^羈絆的色彩^그 인연의 빛깔은^La couleur des liens^Die Farbe der Verbundenheit^El color de los vínculos
+MST_DUNGEONS_NAME_60012^Paladia Chapter 1 Part 1^帕拉迪亞 第一章前篇^파라디아편 1장 1부^Paladia Chapitre 1 Partie 1^Paladia Kapitel 1 Teil 1^Paladia capítulo 1 - 1ª parte
+MST_DUNGEONS_NAME_60013^Paladia Chapter 1 Part 2^帕拉迪亞 第一章中篇^파라디아편 1장 2부^Paladia Chapitre 1 Partie 2^Paladia Kapitel 1 Teil 2^Paladia capítulo 1 - 2ª parte
+MST_DUNGEONS_NAME_60014^Paladia Chapter 1 Part 3^帕拉迪亞 第一章後篇^파라디아편 1장 3부^Paladia Chapitre 1 Partie 3^Paladia Kapitel 1 Teil 3^Paladia capítulo 1 - 3ª parte
+MST_DUNGEONS_NAME_60015^Paladia Chapter 2 Part 1^帕拉迪亞 第一章前篇^파라디아편 2장 1부^Paladia Chapitre 2 Partie 1^Paladia Kapitel 2 Teil 1^Paladia capítulo 2 - 1ª parte
+MST_DUNGEONS_NAME_60016^Paladia Chapter 2 Part 2^帕拉迪亞 第二章後篇^파라디아편 2장 2부^Paladia Chapitre 2 Partie 2^Paladia Kapitel 2 Teil 2^Paladia capítulo 2 - 2ª parte
+MST_DUNGEONS_NAME_76101^Garuda, Lady of the Vortex^風神迦樓羅殲滅戰^바람신 가루다 토벌전^Garuda, dame du Vortex^Garuda, die Dame des Vortex^Garuda, señora del vórtice
+MST_DUNGEONS_NAME_76201^The True Garuda^真迦樓羅殲滅戰^진 가루다 토벌전^Garuda déchaînée^Die wahre Garuda^La verdadera Garuda
+MST_DUNGEONS_NAME_76301^Dark Castle^黑暗城堡^어둠의 성^Château obscur^Dunkles Schloss^Castillo oscuro
+MST_DUNGEONS_NAME_76401^Glaive Castle - Exploration^格蘭斯城・探索^글랜스 성·탐색^Château du Glaive - Exploration^Schloss Granth - Erkundung^Castillo de Granth - Exploración
+MST_DUNGEONS_NAME_76601^Rebel Against the Empire^反擊帝國^제국을 향한 반격^Rébellion contre l'Empire^Rebellion gegen das Imperium^Rebelión contra el Imperio
+MST_DUNGEONS_NAME_76701^Fort Vaullerey - Battle with Aranea^沃拉雷基地・艾拉尼亞戰^볼라레 기지·아라네아 전^Base de Vaullerey - Face à Aranea^Vaullerey-Basis - Kampf mit Aranea^Base de Vaullerey - Contra Aranea
+MST_DUNGEONS_NAME_76801^Yensa Sandsea^焉薩大沙海^옌사 대사해^Mer de sable d'Yensa^Yensa-Sandsee^Arenas de Yensa
+MST_DUNGEONS_NAME_76901^Nam-Yensa Sandsea - Exploration^大沙海奧格・焉薩・探索^대사해 냄 옌사·탐색^Mer de sable de Nam-Yensa^Nam-Yensa-Sandsee - Erkundung^Arenas de Nam Yensa - Exploración
+MST_DUNGEONS_NAME_77101^Luxendarc, Land of Light and Shadow^光與暗的世界盧森達爾克^빛과 어둠의 세계 룩센다르크^Lucsendarc, Terre d'ombre et de lumière<br>^Luxendarc, Land von Licht und Schatten^Luxendarc, tierra de la luz y las sombras
+MST_DUNGEONS_NAME_77201^Abyss Hall 55^無底深淵55層^어비스 홀 55층^Trou abyssal 55^Abysshalle 55^Salón del abismo 55
+MST_DUNGEONS_NAME_77301^Fabul Castle Guard^法布爾城防衛戰^파불 성 수비전^Défense du chât. de Fabul^Verteidigung der Burg Fabul^Defensa del castillo de Fabul
+MST_DUNGEONS_NAME_77401^Crystal Room - Battle with Kain^水晶之間・凱因戰^크리스탈 룸·카인 전^Chambre du cristal - Face à Kain^Kristallraum - Kampf mit Kain^Sala del cristal - Contra Kain
+MST_DUNGEONS_NAME_77601^Global Version Anniversary Raid^國際版一週年紀念共鬥^글로벌판 1주년 기념 레이드^Raid anniversaire version internationale^Globale Version Jubiläumsraubzug^Banda de la versión internacional
+MST_DUNGEONS_NAME_77701^Global Version Anniversary Raid - The Great Nian Beast^國際版一週年紀念共鬥・巨年獸戰^글로벌판 1주년 기념 레이드·거대 니안 전^Raid anniversaire version internationale - Le Nian géant^Globale Version Jubiläumsraubzug^Banda de ver. internacional - Ataque de la Megabestia Nian
+MST_DUNGEONS_NAME_77801^Nibelheim^尼布爾海姆^니블헤임^Niblheim^Nibelheim^Nibelheim
+MST_DUNGEONS_NAME_77901^Mt. Nibel - Exploration^尼布爾山・探索^니블 산·탐색^Mont Nibel - Exploration^Berg Nibel - Erkundung^Monte Nibel - Exploración
+MST_DUNGEONS_NAME_78101^Vanquish Jie Revors!^打倒傑・瑞沃斯！^지에 리보즈를 처치하라!^Battez Jie Revors !^Überwältige Jie Revors!^¡Derrota a Jie Revors!
+MST_DUNGEONS_NAME_78201^Defeat Jie Revors - GOD^傑・瑞沃斯討伐・地獄級^지에 리보즈 토벌전·지옥급^Terrassez Jie Revors - INF^Besiege Jie Revors - ALP^Derrota a Jie Revors - GOD
+MST_DUNGEONS_NAME_78301^Join the Grandshelt Knights!^招募！格蘭謝爾特的騎士^그랑셸트의 기사 모집!^Rejoindre les chevaliers de Grandshelt^Rekrutierung! Die Ritter von Grandshelt^¡Únete a los caballeros de Grandshelt!
+MST_DUNGEONS_NAME_78401^Latius Woods - Past^拉提烏斯之森・過去^라티우스의 숲·과거^Bois de Latius - Passé^Wald von Latius - Vergangenheit^Bosque de Latius - Pasado
+MST_DUNGEONS_NAME_76501^Kunshira and Wadow^庫西拉和瓦多^쿤시라와 와도우^Kushina et Wadow^Kunshira und Wadow^Kunshira y Wadow
+MST_DUNGEONS_NAME_76502^Two Strangers^兩個陌生人^두 사람의 외지인^Deux étrangers^Zwei Fremde^Dos extraños
+MST_DUNGEONS_NAME_76503^Loyal Hound^忠義的忍者犬^충의의 닌자견^Loyauté à tout prix^Treuer Wachhund^Sabueso fiel
+MST_DUNGEONS_NAME_76504^The Unpleasant Threesome^尷尬的三人^거북한 세 사람^Un trio malaisant^Ein unangenehmes Trio^Un trio molesto
+MST_DUNGEONS_NAME_76505^Unending Discord^無法消除的爭執^사라지지 않는 불화^Dispute sans fin^Unaufhörliche Zwietracht^Discordia sinfín
+MST_DUNGEONS_NAME_76506^Kunshira's Determination^庫西拉的決心^쿤시라의 결심^La détermination de Kushina^Kunshiras Entschlossenheit^La determinación de Kunshira
+MST_DUNGEONS_NAME_76507^Reconciliation of the Beasts^獸人們的和解^수인들의 화해^Réconciliation entre bêtes^Versöhnung der Bestienmenschen^Reconciliación entre bestias
+MST_DUNGEONS_NAME_76508^A Strange Friendship^神奇的朋友^신비한 친구들^Une étrange amitié^Eine seltsame Freundschaft^Una amistad peculiar
+MST_DUNGEONS_NAME_76509^Extra Stage 1^特別關卡1^엑스트라 스테이지 1^Niveau bonus 1^Bonusabschnitt 1^Misión extra 1
+MST_DUNGEONS_NAME_76510^Extra Stage 2^特別關卡2^엑스트라 스테이지 2^Niveau bonus 2^Bonusabschnitt 2^Misión extra 2
+MST_DUNGEONS_NAME_77001^The Leader's Scheme^宰相的謀略^재상의 함정^Le plan du chef^Die Pläne des Anführers^El complot del líder
+MST_DUNGEONS_NAME_77002^Shera's Voyage^榭拉的旅途^시엘라의 여행^Le voyage de Shera^Sheras Kommandoeinheit^El viaje de Shera
+MST_DUNGEONS_NAME_77003^Cavern of Trials^試煉洞窟^시련의 동굴^La caverne des épreuves^Höhle der Prüfungen^La cueva de los desafíos
+MST_DUNGEONS_NAME_77004^Shera's Commandos^榭拉直屬遊擊隊^시엘라 직속 유격대^Le commando de Shera^Sheras Kommandoeinheit^El comando de Shera
+MST_DUNGEONS_NAME_77005^Escape from the Cavern^逃出洞窟^동굴 탈출^Fuite de la caverne^Flucht aus der Höhle^Escapando de la cueva
+MST_DUNGEONS_NAME_77006^The Followers' Reality^隨從的真相^심복의 진실^La vérité du disciple^Die Wirklichkeit der Anhänger^La verdad sobre el súbdito
+MST_DUNGEONS_NAME_77007^Assassination on Emperor Shera^暗殺皇帝榭拉^시엘라 황제 암살^Assassinat de l'empereur Shera^Assassination von Kaiser Shera^Asesinato del emperador Shera
+MST_DUNGEONS_NAME_77008^A New Era^新時代^새로운 시대^Une nouvelle ère^Eine neue Ära^Una nueva era
+MST_DUNGEONS_NAME_77009^Extra Stage 1^特別關卡1^엑스트라 스테이지 1^Niveau bonus 1^Bonusabschnitt 1^Misión extra 1
+MST_DUNGEONS_NAME_77010^Extra Stage 2^特別關卡2^엑스트라 스테이지 2^Niveau bonus 2^Bonusabschnitt 2^Misión extra 2
+MST_DUNGEONS_NAME_77501^Lid's Memories^里德的追憶^리드의 추억^Les souvenirs de Lid^Lids Erinnerungen^Recuerdos de Lid
+MST_DUNGEONS_NAME_77502^The Mysterious Device^神秘裝置^수수께끼의 장치^L'appareil mystérieux^Der mysteriöse Apparat^Un artilugio misterioso
+MST_DUNGEONS_NAME_77503^Killian's Anxiety^希里安的不安^킬리언의 불안^L'anxiété de Killian^Kilians Zweifel^La ansiedad de Killian
+MST_DUNGEONS_NAME_77504^Unlinking Ideologies^水火不容的思想^대립하는 사상^Idéologie déconnectée^Unverknüpfbare Ideologien^Ideologías desconectadas
+MST_DUNGEONS_NAME_77505^Secret of the Device^裝置的秘密^장치의 비밀^Le secret de l'appareil^Das Geheimnis des Apparats^El secreto del artilugio
+MST_DUNGEONS_NAME_77506^Battle for Dilmagia^迪爾馬基亞街區戰^딜마기아 시가전^La bataille de Dilmagia^Kampf um Dilmagia^La batalla por Dilmagia
+MST_DUNGEONS_NAME_77507^Unending Calamity^尚未結束的災難^끝없는 재앙^Calamité sans fin^Uferloses Unheil^Calamidad sinfín
+MST_DUNGEONS_NAME_77508^A New Journey^新的旅程^새로운 여행의 시작^Une nouvelle aventure^Ein neuer Aufbruch^Una nueva aventura
+MST_DUNGEONS_NAME_77509^Extra Stage 1^特別關卡1^엑스트라 스테이지 1^Niveau bonus 1^Bonusabschnitt 1^Misión extra 1
+MST_DUNGEONS_NAME_77510^Extra Stage 2^特別關卡2^엑스트라 스테이지 2^Niveau bonus 2^Bonusabschnitt 2^Misión extra 2
+MST_DUNGEONS_NAME_78001^The Visitors^訪客們^방문자들^Les visiteurs^Die Besucher^Los visitantes
+MST_DUNGEONS_NAME_78002^Lexa and Merald^萊基薩與梅拉路德^렉사와 메랄드^Lexa et Merald^Lexa und Merald^Lexa y Merald
+MST_DUNGEONS_NAME_78003^Dancers of Dragon Village^龍之鄉的舞者^용의 마을의 무용수^Danseurs de Dragonia^Tänzer des Drachendorf^Bailarines del pueblo dragón
+MST_DUNGEONS_NAME_78004^Forced Journey^旅伴^여행과 길동무^Voyage forcé^Unfreiwillige Reise^Viajes forzosos
+MST_DUNGEONS_NAME_78005^Where Destinies Intersect^交錯的命運^교차하는 운명^La croisée des destinées^Wo Schicksale sich kreuzen^Donde se cruzan los destinos
+MST_DUNGEONS_NAME_78006^A Documented Riddle^寫下的謎題^쓰여진 수수께끼^Une énigme écrite^Ein verzeichnetes Rätsel^Un acertijo escrito
+MST_DUNGEONS_NAME_78007^Miraculous Escape^奇蹟般的逃脫^기적의 탈출^Fuite miraculeuse^Eine wundersame Flucht^Una escapada milagrosa
+MST_DUNGEONS_NAME_78008^Separate Ways^不同的路^각자의 길^Chemins séparés^Getrennte Wege^Caminos separados
+MST_DUNGEONS_NAME_78009^Cave of Crystals (Black)^晶石的洞窟【黑】^수정의 동굴 [흑]^Caverne de cristaux noirs^Höhle der Kristalle (Schwarz)^Cueva de los crists negros
+MST_DUNGEONS_NAME_78010^Cave of Crystals (White)^晶石的洞窟【白】^수정의 동굴 [백]^Caverne de cristaux blancs^Höhle der Kristalle (Weiß)^Cueva de los crists blancos
+MST_DUNGEONS_NAME_78011^Cave of Crystals (Green)^晶石的洞窟【綠】^수정의 동굴 [녹]^Caverne de cristaux verts^Höhle der Kristalle (Grün)^Cueva de los crists verdes
+MST_DUNGEONS_NAME_78012^Cave of Crystals (Attack)^晶石的洞窟【進攻】^수정의 동굴 [공격]^Caverne de cristaux d'attaque^Höhle der Kristalle (Angriff)^Cueva de los crists potentes
+MST_DUNGEONS_NAME_78013^Cave of Crystals (Defense)^晶石的洞窟【防守】^수정의 동굴 [수비]^Caverne de cristaux de défense^Höhle der Kristalle (Abwehr)^Cueva de los crists guardianes
+MST_DUNGEONS_NAME_78014^Cave of Crystals (Tech)^晶石的洞窟【技巧】^수정의 동굴 [기술]^Caverne de cristaux techniques^Höhle der Kristalle (Technik)^Cueva de los crists técnicos
+MST_DUNGEONS_NAME_78015^Cave of Crystals (Healing)^晶石的洞窟【治癒】^수정의 동굴 [치유]^Caverne de cristaux de soin^Höhle der Kristalle (Heilung)^Cueva de los crists curativos
+MST_DUNGEONS_NAME_78016^Cave of Crystals (Support)^晶石的洞窟【支援】^수정의 동굴 [지원]^Caverne de cristaux de soutien^Höhle der Kristalle (Unterstützung)^Cueva de los crists apoyadores
+MST_DUNGEONS_NAME_78501^Public Practice^公開演習^공개 연습^Pratiques publiques^Öffentliche Übung^Entrenamiento público
+MST_DUNGEONS_NAME_78502^Vanquish Orders^討伐任務^토벌 임무^Entraînement public^Unterwerfungspflicht^Órdenes de aniquilar
+MST_DUNGEONS_NAME_78503^Rest for Knights^騎士們的小憩^기사들의 휴식^Repos de chevaliers^Eine Pause für Ritter^Descanso para los caballeros
+MST_DUNGEONS_NAME_78504^A Private Discussion^密談^밀담^Une discussion privée^Eine private Diskussion^Una discusión privada
+MST_DUNGEONS_NAME_78505^Grandshelt Tour^格蘭謝爾特觀光^그랑셸트 관광^Visite de Grandshelt^Grandshelt-Besichtigung^De turismo en Grandshelt
+MST_DUNGEONS_NAME_78506^Individual Actions^單獨行動^단독 행동^Actions individuelles^Eigenmächtiges Handeln^Acciones individuales
+MST_DUNGEONS_NAME_78507^Noisy Pursuers^吵鬧的追蹤者們^소란스러운 추적자들^Poursuivants bruyants^Lautstarke Verfolger^Persecutores escandalosos
+MST_DUNGEONS_NAME_78508^Location Discovered^歸宿^찾아낸 거처^Endroit découvert^Entdeckter Aufenthaltsort^Lugar descubierto
+MST_DUNGEONS_NAME_78509^Cave of Crystals (Black)^晶石的洞窟【黑】2^수정의 동굴 [흑]^Caverne de cristaux noirs^Höhle der Kristalle (Schwarz)^Cueva de los crists negros
+MST_DUNGEONS_NAME_78510^Cave of Crystals (White)^晶石的洞窟【白】2^수정의 동굴 [백]^Caverne de cristaux blancs^Höhle der Kristalle (Weiß)^Cueva de los crists blancos
+MST_DUNGEONS_NAME_78511^Cave of Crystals (Green)^晶石的洞窟【綠】3^수정의 동굴 [녹]^Caverne de cristaux verts^Höhle der Kristalle (Grün)^Cueva de los crists verdes
+MST_DUNGEONS_NAME_78512^Cave of Crystals (Attack)^晶石的洞窟【進攻】2^수정의 동굴 [공격]^Caverne de cristaux d'attaque^Höhle der Kristalle (Angriff)^Cueva de los crists potentes
+MST_DUNGEONS_NAME_78513^Cave of Crystals (Defense)^晶石的洞窟【防守】1^수정의 동굴 [수비]^Caverne de cristaux de défense^Höhle der Kristalle (Abwehr)^Cueva de los crists guardianes
+MST_DUNGEONS_NAME_78514^Cave of Crystals (Tech)^晶石的洞窟【技巧】3^수정의 동굴 [기술]^Caverne de cristaux techniques^Höhle der Kristalle (Technik)^Cueva de los crists técnicos
+MST_DUNGEONS_NAME_78515^Cave of Crystals (Healing)^晶石的洞窟【治癒】^수정의 동굴 [치유]^Caverne de cristaux de soin^Höhle der Kristalle (Heilung)^Cueva de los crists curativos
+MST_DUNGEONS_NAME_78516^Cave of Crystals (Support)^晶石的洞窟【支援】^수정의 동굴 [지원]^Caverne de cristaux de soutien^Höhle der Kristalle (Unterstützung)^Cueva de los crists apoyadores
+MST_DUNGEONS_NAME_89728^New Rebirth of the White Dragon^白龍 真降臨^백룡 진강림^Renaissance du Dragon blanc +^Neuankunft des Weißdrachen^Resurgimiento del Dragón Blanco
+MST_DUNGEONS_NAME_89729^New Rebirth of the Demon Chimera^惡魔奇美拉 真降臨^데빌 키마이라 진강림^Renaissance de la Khimaira démoniaque +^Neuankunft der Dämonenchimäre^Resurgimiento de la Quimera demoníaca
+MST_DUNGEONS_NAME_89730^New Rebirth of the Brachiosaur^腕龍 真降臨^브라키오 레이더스 진강림^Renaissance du brachiosaure^Neuankunft des Vlakorados^Resurgimiento del Braquiosaurio
+MST_DUNGEONS_NAME_89731^New Rebirth of the Intangir^沉睡的獅子 真降臨^잠자는 사자 진강림^Renaissance du Intangir +^Neuankunft des Schläfers^Resurgimiento del Intangir
+MST_DUNGEONS_NAME_89732^New Surging Menace^蜂擁而至的強者們 真降臨^몰려드는 강자들 진강림^Une menace imminente +^Neuankunft der Wachsenden Bedrohung^La amenaza se aproxima de nuevo
+MST_DUNGEONS_NAME_89943^Armor of Oppression^強力襲來的鐵鎧^맹위를 떨치는 철갑옷^L'armure de l'oppression^Rüstung der Unterdrückung^La armadura opresora
+MST_DUNGEONS_NAME_89944^Great Explosion Festival^大爆炸慶典^대폭발 축제^Un festival explosif^Großes Explosionsfest^Un festival explosivo
 MST_DUNGEONS_NAME_90022^Dark Symphony^黑暗交響樂^어둠의 교향곡^Symphonie obscure^Dunkle Symphonie^Sinfonía tenebrosa

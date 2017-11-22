@@ -1,77 +1,77 @@
-MST_MONSTER_SKILL_NAME_1^<na>^火焰吐息^<na>^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_2^<na>^暴雪吐息^<na>^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_3^<na>^雷電吐息^<na>^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_4^<na>^超療傷^<na>^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_5^<na>^超級復原^<na>^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_6^<na>^恢復固定值^<na>^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_7^<na>^賦予中毒^독 부여^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_8^<na>^賦予沉默^침묵 부여^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_9^<na>^賦予生病^질병 부여^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_10^<na>^賦予失明^암흑 부여^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_11^<na>^賦予睡眠^수면 부여^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_12^<na>^賦予麻痹^마비 부여^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_13^<na>^賦予混亂^혼란 부여^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_14^<na>^賦予石化^석화 부여^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_15^<na>^十針刺^바늘 10개^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_16^<na>^五十針刺^바늘 50개^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_17^<na>^百針刺^바늘 100개^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_18^<na>^十針刺（火）^바늘 10개(불)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_19^<na>^五十針刺（火）^바늘 50개(불)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_20^<na>^百針刺（火）^바늘 100개(불)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_21^<na>^十針刺（冰）^바늘 10개(얼음)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_22^<na>^五十針刺（冰）^바늘 50개(얼음)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_23^<na>^百針刺（冰）^바늘 100개(얼음)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_24^<na>^十針刺（雷）^바늘 10개(번개)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_25^<na>^五十針刺（雷）^바늘 50개(번개)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_26^<na>^百針刺（雷）^바늘 100개(번개)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_27^<na>^十針刺（水）^바늘 10개(물)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_28^<na>^五十針刺（水）^바늘 50개(물)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_29^<na>^百針刺（水）^바늘 100개(물)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_30^<na>^十針刺（風）^바늘 10개(바람)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_31^<na>^五十針刺（風）^바늘 50개(바람)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_32^<na>^百針刺（風）^바늘 100개(바람)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_33^<na>^十針刺（土）^바늘 10개(땅)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_34^<na>^五十針刺（土）^바늘 50개(땅)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_35^<na>^百針刺（土）^바늘 100개(땅)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_36^<na>^十針刺（光）^바늘 10개(빛)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_37^<na>^五十針刺（光）^바늘 50개(빛)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_38^<na>^百針刺（光）^바늘 100개(빛)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_39^<na>^十針刺（暗）^바늘 10개(어둠)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_40^<na>^五十針刺（暗）^바늘 50개(어둠)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_41^<na>^百針刺（暗）^바늘 100개(어둠)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_42^<na>^十針刺（冰火）^바늘 10개(불, 얼음)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_43^<na>^五十針刺（冰火）^바늘 50개(불, 얼음)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_44^<na>^百針刺（冰火）^바늘 100개(불, 얼음)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_45^<na>^（全）十針刺^(전체) 바늘 10개^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_46^<na>^（全）五十針刺^(전체) 바늘 50개^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_47^<na>^（全）百針刺^(전체) 바늘 100개^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_48^<na>^（全）十針刺（火）^(전체) 바늘 10개(불)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_49^<na>^（全）五十針刺（火）^(전체) 바늘 50개(불)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_50^<na>^（全）百針刺（火）^(전체) 바늘 100개(불)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_51^<na>^（全）十針刺（冰）^(전체) 바늘 10개(얼음)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_52^<na>^（全）五十針刺（冰）^(전체) 바늘 50개(얼음)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_53^<na>^（全）百針刺（冰）^(전체) 바늘 100개(얼음)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_54^<na>^（全）十針刺（雷）^(전체) 바늘 10개(번개)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_55^<na>^（全）五十針刺（雷）^(전체) 바늘 50개(번개)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_56^<na>^（全）百針刺（雷）^(전체) 바늘 100개(번개)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_57^<na>^（全）十針刺（水）^(전체) 바늘 10개(물)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_58^<na>^（全）五十針刺（水）^(전체) 바늘 50개(물)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_59^<na>^（全）百針刺（水）^(전체) 바늘 100개(물)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_60^<na>^（全）十針刺（風）^(전체) 바늘 10개(바람)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_61^<na>^（全）五十針刺（風）^(전체) 바늘 50개(바람)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_62^<na>^（全）百針刺（風）^(전체) 바늘 100개(바람)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_63^<na>^（全）十針刺（土）^(전체) 바늘 10개(땅)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_64^<na>^（全）五十針刺（土）^(전체) 바늘 50개(땅)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_65^<na>^（全）百針刺（土）^(전체) 바늘 100개(땅)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_66^<na>^（全）十針刺（光）^(전체) 바늘 10개(빛)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_67^<na>^（全）五十針刺（光）^(전체) 바늘 50개(빛)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_68^<na>^（全）百針刺（光）^(전체) 바늘 100개(빛)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_69^<na>^（全）十針刺（暗）^(전체) 바늘 10개(어둠)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_70^<na>^（全）五十針刺（暗）^(전체) 바늘 50개(어둠)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_71^<na>^（全）百針刺（暗）^(전체) 바늘 100개(어둠)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_72^<na>^（全）十針刺（冰火）^(전체) 바늘 10개(불, 얼음)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_73^<na>^（全）五十針刺（冰火）^(전체) 바늘 50개(불, 얼음)^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_74^<na>^（全）百針刺（冰火）^(전체) 바늘 100개(불, 얼음)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_1^Fire Breath^火焰吐息^<na>^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_2^Blizzard Breath^暴雪吐息^<na>^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_3^<NA>^雷電吐息^<na>^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_4^<NA>^超療傷^<na>^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_5^<NA>^超級復原^<na>^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_6^<NA>^恢復固定值^<na>^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_7^<NA>^賦予中毒^독 부여^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_8^<NA>^賦予沉默^침묵 부여^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_9^<NA>^賦予生病^질병 부여^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_10^<NA>^賦予失明^암흑 부여^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_11^<NA>^賦予睡眠^수면 부여^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_12^<NA>^賦予麻痹^마비 부여^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_13^<NA>^賦予混亂^혼란 부여^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_14^<NA>^賦予石化^석화 부여^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_15^<NA>^十針刺^바늘 10개^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_16^<NA>^五十針刺^바늘 50개^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_17^<NA>^百針刺^바늘 100개^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_18^<NA>^十針刺（火）^바늘 10개(불)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_19^<NA>^五十針刺（火）^바늘 50개(불)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_20^<NA>^百針刺（火）^바늘 100개(불)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_21^<NA>^十針刺（冰）^바늘 10개(얼음)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_22^<NA>^五十針刺（冰）^바늘 50개(얼음)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_23^<NA>^百針刺（冰）^바늘 100개(얼음)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_24^<NA>^十針刺（雷）^바늘 10개(번개)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_25^<NA>^五十針刺（雷）^바늘 50개(번개)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_26^<NA>^百針刺（雷）^바늘 100개(번개)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_27^<NA>^十針刺（水）^바늘 10개(물)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_28^<NA>^五十針刺（水）^바늘 50개(물)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_29^<NA>^百針刺（水）^바늘 100개(물)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_30^<NA>^十針刺（風）^바늘 10개(바람)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_31^<NA>^五十針刺（風）^바늘 50개(바람)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_32^<NA>^百針刺（風）^바늘 100개(바람)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_33^<NA>^十針刺（土）^바늘 10개(땅)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_34^<NA>^五十針刺（土）^바늘 50개(땅)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_35^<NA>^百針刺（土）^바늘 100개(땅)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_36^<NA>^十針刺（光）^바늘 10개(빛)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_37^<NA>^五十針刺（光）^바늘 50개(빛)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_38^<NA>^百針刺（光）^바늘 100개(빛)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_39^<NA>^十針刺（暗）^바늘 10개(어둠)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_40^<NA>^五十針刺（暗）^바늘 50개(어둠)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_41^<NA>^百針刺（暗）^바늘 100개(어둠)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_42^<NA>^十針刺（冰火）^바늘 10개(불, 얼음)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_43^<NA>^五十針刺（冰火）^바늘 50개(불, 얼음)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_44^<NA>^百針刺（冰火）^바늘 100개(불, 얼음)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_45^<NA>^（全）十針刺^(전체) 바늘 10개^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_46^<NA>^（全）五十針刺^(전체) 바늘 50개^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_47^<NA>^（全）百針刺^(전체) 바늘 100개^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_48^<NA>^（全）十針刺（火）^(전체) 바늘 10개(불)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_49^<NA>^（全）五十針刺（火）^(전체) 바늘 50개(불)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_50^<NA>^（全）百針刺（火）^(전체) 바늘 100개(불)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_51^<NA>^（全）十針刺（冰）^(전체) 바늘 10개(얼음)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_52^<NA>^（全）五十針刺（冰）^(전체) 바늘 50개(얼음)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_53^<NA>^（全）百針刺（冰）^(전체) 바늘 100개(얼음)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_54^<NA>^（全）十針刺（雷）^(전체) 바늘 10개(번개)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_55^<NA>^（全）五十針刺（雷）^(전체) 바늘 50개(번개)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_56^<NA>^（全）百針刺（雷）^(전체) 바늘 100개(번개)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_57^<NA>^（全）十針刺（水）^(전체) 바늘 10개(물)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_58^<NA>^（全）五十針刺（水）^(전체) 바늘 50개(물)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_59^<NA>^（全）百針刺（水）^(전체) 바늘 100개(물)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_60^<NA>^（全）十針刺（風）^(전체) 바늘 10개(바람)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_61^<NA>^（全）五十針刺（風）^(전체) 바늘 50개(바람)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_62^<NA>^（全）百針刺（風）^(전체) 바늘 100개(바람)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_63^<NA>^（全）十針刺（土）^(전체) 바늘 10개(땅)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_64^<NA>^（全）五十針刺（土）^(전체) 바늘 50개(땅)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_65^<NA>^（全）百針刺（土）^(전체) 바늘 100개(땅)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_66^<NA>^（全）十針刺（光）^(전체) 바늘 10개(빛)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_67^<NA>^（全）五十針刺（光）^(전체) 바늘 50개(빛)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_68^<NA>^（全）百針刺（光）^(전체) 바늘 100개(빛)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_69^<NA>^（全）十針刺（暗）^(전체) 바늘 10개(어둠)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_70^<NA>^（全）五十針刺（暗）^(전체) 바늘 50개(어둠)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_71^<NA>^（全）百針刺（暗）^(전체) 바늘 100개(어둠)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_72^<NA>^（全）十針刺（冰火）^(전체) 바늘 10개(불, 얼음)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_73^<NA>^（全）五十針刺（冰火）^(전체) 바늘 50개(불, 얼음)^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_74^<NA>^（全）百針刺（冰火）^(전체) 바늘 100개(불, 얼음)^<na>^<na>^<na>
 MST_MONSTER_SKILL_NAME_110010^Libra^窺伺探測^라이브라^Acuité^Analyse^Libra
 MST_MONSTER_SKILL_NAME_110020^Cure^療傷^케알^Soin^Vita^Cura
 MST_MONSTER_SKILL_NAME_110030^Blindna^復明^블라나^Vision^Lux^Luz
@@ -173,15 +173,15 @@ MST_MONSTER_SKILL_NAME_130330^Shellga^超魔防護^셸가^Barrière X^Vallga^Esc
 MST_MONSTER_SKILL_NAME_130340^Deprotega^超弱守^디프로테가^Anti-Bouclier X^Deprotega^AntiCoraza+
 MST_MONSTER_SKILL_NAME_130350^Deshellga^超弱心^디셸가^Anti-Barrière X^Devallga^AntiEscudo+
 MST_MONSTER_SKILL_NAME_130360^Imperilga^強弱化^위가^Vulnérabilité X^Morbiga^Aquiles+
-MST_MONSTER_SKILL_NAME_140010^Stone^飛石^돌 던지기^Caillasse^Steinwurf^Piedra
+MST_MONSTER_SKILL_NAME_140010^Gravel^飛石^돌 던지기^Caillasse^Steinwurf^Piedra
 MST_MONSTER_SKILL_NAME_140020^Goblin Punch^妖精拳^고블린 펀치^Poing gobelin^Goblinhieb^Golpe de duende
 MST_MONSTER_SKILL_NAME_140030^Flamethrower^火炎放射^화염 방사^Lance-flammes^Flammenwerfer^Lanzallamas
 MST_MONSTER_SKILL_NAME_140040^Vampire^吸血^흡혈^Vampire^Blutsaugen^Chupasangre
 MST_MONSTER_SKILL_NAME_140050^Seed Cannon^種子大炮^씨앗 대포^Graine-obus^Saatkanone^Cañón de semillas
-MST_MONSTER_SKILL_NAME_140060^Laser Eye^微波眼^메이저 아이^Fovéa^Laserauge^Ojo láser
-MST_MONSTER_SKILL_NAME_140070^<na>^火焰吐息^불꽃의 숨결^Souffle de feu^Feueratem^Aliento de fuego
+MST_MONSTER_SKILL_NAME_140060^Maser Eye^微波眼^메이저 아이^Fovéa^Laserauge^Ojo láser
+MST_MONSTER_SKILL_NAME_140070^Fire Breath^火焰吐息^불꽃의 숨결^Souffle de feu^Feueratem^Aliento de fuego
 MST_MONSTER_SKILL_NAME_140080^Aqua Breath^流水吐息^물의 숨결^Souffle d'eau^Wasseratem^Aliento de agua
-MST_MONSTER_SKILL_NAME_140090^Electrocute^電擊^전기 충격^Électrochoc^Elektroschock^Electroshock
+MST_MONSTER_SKILL_NAME_140090^Electric Shock^電擊^전기 충격^Électrochoc^Elektroschock^Electroshock
 MST_MONSTER_SKILL_NAME_140100^Gatling Gun^機關炮^개틀링 건^Mitrailleuse^Gatling-Kanone^Ametralladora
 MST_MONSTER_SKILL_NAME_140110^Drill Shot^徹甲彈^철갑탄^Balle antichar^Panzerschuss^Bala explosiva
 MST_MONSTER_SKILL_NAME_140120^Guard-Off^破防^방어 금지^Déclin^Entblößen^Desprevenido
@@ -243,7 +243,7 @@ MST_MONSTER_SKILL_NAME_150250^Gaze^凝視^노려보기^Mauvais œil^Böser Blick
 MST_MONSTER_SKILL_NAME_150260^Crash^衝撞^몸통 박치기^Collision^Rammen^Placaje
 MST_MONSTER_SKILL_NAME_150261^Crash^衝撞^몸통 박치기^Collision^Rammen^Placaje
 MST_MONSTER_SKILL_NAME_150270^Axe^斧頭^도끼^Hache^Axt^Hacha
-MST_MONSTER_SKILL_NAME_150280^Lamb Chop^頭槌^박치기^Coup de tête^Kopfstoß^Cabezazo
+MST_MONSTER_SKILL_NAME_150280^Head Butt^頭槌^박치기^Coup de tête^Kopfstoß^Cabezazo
 MST_MONSTER_SKILL_NAME_150290^Magnitude 8^8級地震^매그니튜드 8^Magnitude 8^Magnitude 8^Magnitud 8
 MST_MONSTER_SKILL_NAME_150300^Silver Lance^白銀槍^실버 랜스^Lance en argent^Silberlanze^Lanza plateada
 MST_MONSTER_SKILL_NAME_150310^Poison Mist^毒霧^독안개^Brume empoisonnée^Giftnebel^Niebla venenosa
@@ -269,7 +269,7 @@ MST_MONSTER_SKILL_NAME_150470^Potion^治療劑^포션^Potion^Trank^Poción
 MST_MONSTER_SKILL_NAME_150480^Dagger Toss^短劍^단검^Dague^Dolch^Daga
 MST_MONSTER_SKILL_NAME_150490^Bag Punch^圍毆^몰매^Sac de frappe^Zusammenschlagen^Linchamiento
 MST_MONSTER_SKILL_NAME_150491^Bag Punch^圍毆^몰매^Sac de frappe^Zusammenschlagen^Linchamiento
-MST_MONSTER_SKILL_NAME_150500^Fire Breath^火炎^화염^Souffle de feu^Feueratem^Aliento de fuego
+MST_MONSTER_SKILL_NAME_150500^Flames^火炎^화염^Souffle de feu^Feueratem^Aliento de fuego
 MST_MONSTER_SKILL_NAME_150510^Ignite^爆炸^폭발^Explosion^Explosion^Explosión
 MST_MONSTER_SKILL_NAME_150520^Boil^集熱^열 흡수^Incandescence^Aufheizen^Hervir
 MST_MONSTER_SKILL_NAME_150530^Fire^炎^불꽃^Flammes^Feuer^Fuego
@@ -279,7 +279,7 @@ MST_MONSTER_SKILL_NAME_150560^You're Next^下一個就是你^다음은 네 차�
 MST_MONSTER_SKILL_NAME_150570^Fist of Fury^認真一擊^진심이 담긴 주먹^Coup puissant^Volle Wucht^Puño asesino
 MST_MONSTER_SKILL_NAME_150580^Thread^絲線^실^Soie paralysante^Faden^Hilos
 MST_MONSTER_SKILL_NAME_150590^Warsong^戰鬥之歌^진군가^Chant de guerre^Kampflied^Canción de guerra
-MST_MONSTER_SKILL_NAME_150600^Screech^混亂之聲^혼돈의 외침^Cri strident^Kreischen^Voz perturbadora
+MST_MONSTER_SKILL_NAME_150600^Panic Voice^混亂之聲^혼돈의 외침^Cri strident^Kreischen^Voz perturbadora
 MST_MONSTER_SKILL_NAME_150610^Sandstorm^沙塵暴^모래폭풍^Tempête de sable^Sandsturm^Tormenta de arena
 MST_MONSTER_SKILL_NAME_150620^Bone^擲骨^뼈^Os^Knochen^Hueso
 MST_MONSTER_SKILL_NAME_150630^Frost Blast^冰焰^블레이즈^Souffle de givre^Feuersbrunst^Descarga helada
@@ -301,7 +301,7 @@ MST_MONSTER_SKILL_NAME_150780^Bile^消化液^소화액^Sucs digestifs^Magensäur
 MST_MONSTER_SKILL_NAME_150790^Pincers^反擊之角^뿔로 되받아치기^Pinces^Scheren^Pinzas
 MST_MONSTER_SKILL_NAME_150800^Sandstorm^沙塵風暴^샌드스톰^Tempête de sable^Sandsturm^Tormenta de arena
 MST_MONSTER_SKILL_NAME_150810^Mythril Dagger^秘銀短劍^미스릴 단검^Dague en mithril^Mithrildolch^Daga de mitrilo
-MST_MONSTER_SKILL_NAME_150820^Gaze^視線^시선^Regard^Böser Blick^Mirada fija
+MST_MONSTER_SKILL_NAME_150820^Peer^視線^시선^Regard^Böser Blick^Mirada fija
 MST_MONSTER_SKILL_NAME_150830^Bear Hug^巨熊擁抱^베어 허그^Étreinte sanglante^Bärenkuss^Abrazo del oso
 MST_MONSTER_SKILL_NAME_150840^Chilling Whisper^冰之吐息^얼음의 숨결^Murmure glaçant^Frostflüstern^Susurro gélido
 MST_MONSTER_SKILL_NAME_150850^Diamond Dust^鑽石星塵^다이아몬드 더스트^Poussière de diamant^Diamantstaub^Polvo de diamantes
@@ -311,7 +311,7 @@ MST_MONSTER_SKILL_NAME_150870^Self-Repair^自我修復^자가복원^Auto-répara
 MST_MONSTER_SKILL_NAME_150880^Mirror of Equity^明鏡^잔잔한 거울^Sérénité ^Kata^Tranquilidad
 MST_MONSTER_SKILL_NAME_150890^Fingersnap^醒夢^백일몽^Éveil^Fieberwahn^Agudeza
 MST_MONSTER_SKILL_NAME_150900^Lunatic Voice^狂迷之聲^광기의 노래^Voix ensorcelante^Wahnstimme^Voz lunática
-MST_MONSTER_SKILL_NAME_150910^Maelstrom^大漩渦^마엘스트롬^Maelström^Mahlstrom^Vórtice
+MST_MONSTER_SKILL_NAME_150910^Malstrom^大漩渦^마엘스트롬^Maelström^Mahlstrom^Vórtice
 MST_MONSTER_SKILL_NAME_150920^Scorch^火炎流^화연류^Brûlure^Versengen^Incandescencia
 MST_MONSTER_SKILL_NAME_150930^Snowstorm^吹雪^눈보라^Tempête de neige^Schneesturm^Tormenta de nieve
 MST_MONSTER_SKILL_NAME_150940^Bolt^閃電^번개^Fulguration^Donnerkeil^Rayo
@@ -421,10 +421,10 @@ MST_MONSTER_SKILL_NAME_152000^Vampire^吸血^흡혈^Vampire^Blutsaugen^Chupasang
 MST_MONSTER_SKILL_NAME_152010^Healing Earth^大地治癒^대지의 치유^Terre reposante ^Heilende Erde^Tierra curativa
 MST_MONSTER_SKILL_NAME_152020^Running Rampant^失控中^폭주 중^Course effrénée^Blinde Wut^Enloquecido
 MST_MONSTER_SKILL_NAME_152030^Prismatic Spore^七色花粉^오색 꽃가루^Spore prismatique^Prismatische Spore^Espora prismática
-MST_MONSTER_SKILL_NAME_152040^Rampage^失控^폭주^Fureur^Wut^Matanza
+MST_MONSTER_SKILL_NAME_152040^Rage About^失控^폭주^Fureur^Wut^Matanza
 MST_MONSTER_SKILL_NAME_152050^Healing Earth^大地治癒^대지의 치유^Terre reposante ^Heilende Erde^Tierra curativa
 MST_MONSTER_SKILL_NAME_152060^Ice^冷氣^냉기^Glaçon^Eis^Hielo
-MST_MONSTER_SKILL_NAME_152070^Death Kettle^死神鐮刀^사신의 낫^Chaudron de l'Enfer^Todeskessel^Guadaña mortal
+MST_MONSTER_SKILL_NAME_152070^Death Scythe^死神鐮刀^사신의 낫^Chaudron de l'Enfer^Todeskessel^Guadaña mortal
 MST_MONSTER_SKILL_NAME_152080^Life Steal^盜命^라이프 스틸^Vol-vie^Leben stehlen^Robavida
 MST_MONSTER_SKILL_NAME_152090^Soul Steal^盜魂^소울 스틸^Vol-âme^Seelen stehlen^Robaalmas
 MST_MONSTER_SKILL_NAME_152100^Ill Storm^猛毒風暴^일 스톰^Tempête pestilentiel^Sturm Ill^Tormenta pestilente
@@ -432,13 +432,13 @@ MST_MONSTER_SKILL_NAME_152110^Ghastly Light^幽魂之光^유령의 빛^Lumière 
 MST_MONSTER_SKILL_NAME_152120^Fowl Slash^水鳥劍^수조검^Tranche-oiseau^Federklinge^Corte de pájaro
 MST_MONSTER_SKILL_NAME_152130^Marionette^傀儡木偶^마리오네트^Marionette^Marionette^Marioneta
 MST_MONSTER_SKILL_NAME_152140^Crescent Moon Slash^落月破斬^낙월파참^Croissant de Lune ^Halbmondklinge^Corte de luna creciente
-MST_MONSTER_SKILL_NAME_152150^Trample^踐踏^짓밟기^Piétinement^Trampeln^Pisotear
+MST_MONSTER_SKILL_NAME_152150^Stomp^踐踏^짓밟기^Piétinement^Trampeln^Pisotear
 MST_MONSTER_SKILL_NAME_152160^Dark Sphere^黑暗晶球^다크 스피어^Sphère obscure ^Dunkle Sphäre^Esfera oscura
-MST_MONSTER_SKILL_NAME_152170^Fury^誘惑^템테이션^Tentation^Furie^Tentación
+MST_MONSTER_SKILL_NAME_152170^Temptation^誘惑^템테이션^Tentation^Furie^Tentación
 MST_MONSTER_SKILL_NAME_152180^Energy Drain^吸收體力^체력흡수^Drain d'endurance^Energie stehlen^Drenaje de energía
 MST_MONSTER_SKILL_NAME_152190^Horrify^恐怖^호러^Effrayer^Erschrecken^Horripilar
 MST_MONSTER_SKILL_NAME_152200^Storm Conduction^招雷^번개 소환^Drain électrique^Sturmruf^Rayo
-MST_MONSTER_SKILL_NAME_152210^Resurrection^再生^재생^Restauration^Wiedergeburt^Regeneración
+MST_MONSTER_SKILL_NAME_152210^Rebirth^再生^재생^Restauration^Wiedergeburt^Regeneración
 MST_MONSTER_SKILL_NAME_152220^Blade Bash^刀背打^칼등치기^Dos de la lame^Klingenschlag^Golpe entumecedor
 MST_MONSTER_SKILL_NAME_152230^Winding Strike^挑擊^감아치기^Coup de manche^Windschlag^Golpe de gancho
 MST_MONSTER_SKILL_NAME_152240^Moonlight^月影^달빛^Clair de Lune ^Mondlicht^Luz de luna
@@ -457,12 +457,12 @@ MST_MONSTER_SKILL_NAME_152360^N/A^光球^라이트 볼^Boule de lumière ^Lichtb
 MST_MONSTER_SKILL_NAME_152370^Psychotic Bind^精神束縛^사이코 바인드^Lien psychotique ^Psychofessel^Atadura psíquica
 MST_MONSTER_SKILL_NAME_152380^Flame Mace^火焰鞭^불꽃의 채찍^Masse de flammes^Flammenkeule^Golpe flamígero
 MST_MONSTER_SKILL_NAME_152390^Prism Light^棱鏡之光^프리즘 라이트^Lumière prismatique ^Prismatisches Licht^Luz prismática
-MST_MONSTER_SKILL_NAME_152400^Resurrection^再生^재생^Restauration^Wiedergeburt^Regeneración
+MST_MONSTER_SKILL_NAME_152400^Rebirth^再生^재생^Restauration^Wiedergeburt^Regeneración
 MST_MONSTER_SKILL_NAME_152410^Tsunami^大海嘯^대해일^Tsunami^Tsunami^Tsunami
 MST_MONSTER_SKILL_NAME_152420^Sweep^橫掃^쓸어버리기^Balayage^Niedermähen^Corte horizontal
 MST_MONSTER_SKILL_NAME_152430^Transform^變形^모습 바꾸기^Transformation^Verwandlung^Transformación
 MST_MONSTER_SKILL_NAME_152440^Tentacle^觸手^촉수^Tentacule^Rubys Tentakel^Tentáculo
-MST_MONSTER_SKILL_NAME_152450^Crazy Mad^發狂了^격노 중^Fou de colère ^Vollkommen irre^Locura
+MST_MONSTER_SKILL_NAME_152450^Gone Mad^發狂了^격노 중^Fou de colère ^Vollkommen irre^Locura
 MST_MONSTER_SKILL_NAME_152460^Mad Ochu Dance^憤怒的食腐獸之舞^분노한 오츄의 춤^Dance de l'otyugh en colère^Verrückter Küsschentanz^Danza de ochú loca
 MST_MONSTER_SKILL_NAME_152470^Leech^吸收^흡수^Sangsue^Blutsauger^Sanguijuela
 MST_MONSTER_SKILL_NAME_152480^Double Break Breath^雙重破壞吐息^더블 브레이크 숨결^Double souffle coupé ^Doppelbrecherhauch^Aliento rompedor doble
@@ -523,8 +523,8 @@ MST_MONSTER_SKILL_NAME_153020^1,000 needles...it's looking at me...^萬針刺…
 MST_MONSTER_SKILL_NAME_153030^Missile Burst^炸裂導彈^미사일 작렬^Explosion de missile^Raketenschlag^Misil devastador
 MST_MONSTER_SKILL_NAME_153040^Machine Gun^機關槍^머신건^Mitrailleuse ^Maschinengewehr^Metralleta
 MST_MONSTER_SKILL_NAME_153050^Missile Burst^炸裂導彈^미사일 작렬^Explosion de missile^Raketenschlag^Misil devastador
-MST_MONSTER_SKILL_NAME_153060^Burst^亂射^난사^Mortier^Einschlag^Ráfaga
-MST_MONSTER_SKILL_NAME_153070^Burst^亂射^난사^Mortier^Einschlag^Ráfaga
+MST_MONSTER_SKILL_NAME_153060^Blast^亂射^난사^Mortier^Einschlag^Ráfaga
+MST_MONSTER_SKILL_NAME_153070^Blast^亂射^난사^Mortier^Einschlag^Ráfaga
 MST_MONSTER_SKILL_NAME_153080^Heave^哀嚎^쳐올리기^Ravager^Werfen^Hocicazo
 MST_MONSTER_SKILL_NAME_153090^Heave^哀嚎^쳐올리기^Ravager^Werfen^Hocicazo
 MST_MONSTER_SKILL_NAME_153100^Scratch^猛抓^할퀴기^Écorchure^Kratzen^Arañazo
@@ -540,9 +540,9 @@ MST_MONSTER_SKILL_NAME_153420^The water wall is broken!^水壁 被破壞了！^�
 MST_MONSTER_SKILL_NAME_153430^It's recluded into a defensive position!^躲在裡面 防禦姿態！^틀어박혀 방어 태세!^Position défensive activée !^Es hat sich in eine Verteidigungsposition zurückgezogen!^¡Se ha puesto en posición defensiva!
 MST_MONSTER_SKILL_NAME_153440^Ray^指尖射線^손끝^Rayon^Strahl^Toque pétreo
 MST_MONSTER_SKILL_NAME_153450^Tornado^龍捲風^토네이도^Tornade^Tornado^Tornado
-MST_MONSTER_SKILL_NAME_153460^Maelstrom^大漩渦^마엘스트롬^Maelström^Mahlstrom^Vórtice
-MST_MONSTER_SKILL_NAME_153470^Maelstrom^大漩渦^마엘스트롬^Maelström^Mahlstrom^Vórtice
-MST_MONSTER_SKILL_NAME_153480^Lightning^雷鳴^천둥번개^Éclairs^Lightning^Relámpago
+MST_MONSTER_SKILL_NAME_153460^Malstrom^大漩渦^마엘스트롬^Maelström^Mahlstrom^Vórtice
+MST_MONSTER_SKILL_NAME_153470^Malstrom^大漩渦^마엘스트롬^Maelström^Mahlstrom^Vórtice
+MST_MONSTER_SKILL_NAME_153480^Thunder Clap^雷鳴^천둥번개^Éclairs^Lightning^Relámpago
 MST_MONSTER_SKILL_NAME_153490^Wrapped up in the wind^被風 包圍了^바람에 휩싸인다^Cerné par le vent ^In Wind gehüllt^Se ha rodeado de viento
 MST_MONSTER_SKILL_NAME_153500^The wind disappeared^風 散去了^바람이 사라졌다^Le vent a disparu ^Der Wind ist weg^El viento ha desaparecido
 MST_MONSTER_SKILL_NAME_153510^Scorch^火焰流^화염룡^Flambée^Versengen^Infierno
@@ -619,7 +619,7 @@ MST_MONSTER_SKILL_NAME_154040^You're not getting away, you hear?!^「我說了�
 MST_MONSTER_SKILL_NAME_154050^Machine Cannon^機關加農^머신 포격^Canon automatique^Maschinenkanone^Cañón ametrallador
 MST_MONSTER_SKILL_NAME_154060^Where do you think you're going?!^「藏哪了，有本事別跑啊！」^어디냐! 은근슬쩍 도망가지 마라!^Où est-ce que tu comptes aller comme ça ?^Wo steckst du? Zeig dich gefälligst!^¡¿A dónde os creéis que vais?!
 MST_MONSTER_SKILL_NAME_154070^Missile^導彈^미사일^Missile^Rakete^Misil
-MST_MONSTER_SKILL_NAME_154080^Charge^充電^충전^Charge^Aufladen^Carga
+MST_MONSTER_SKILL_NAME_154080^Electric Charge^充電^충전^Charge^Aufladen^Carga
 MST_MONSTER_SKILL_NAME_154090^Magic interception systems activated^魔法迎擊系統啟動^마법 요격 시스템 기동^Système d'interception magique activé^Arkane Gegenmaßnahmen aktiviert^Sistemas de bloqueo mágico activados
 MST_MONSTER_SKILL_NAME_154100^Serious damage confirmed^確認損傷慘重^심각한 피해 확인^Dégâts importants détectés^Schaden erreicht kritisches Niveau^Daño crítico detectado
 MST_MONSTER_SKILL_NAME_154110^Punch^拳頭^펀치^Poing^Schlag^Puñetazo
@@ -697,7 +697,7 @@ MST_MONSTER_SKILL_NAME_154810^Anti-Magic^消魔^안티 매직^Anti-magie^Zaubers
 MST_MONSTER_SKILL_NAME_154820^Counter-Magic^魔反鏡^카운터 매직^Miroir magique^Zauberschild^Contraataque mágico
 MST_MONSTER_SKILL_NAME_154830^Saintly Beam^神聖光束^성스러운 광선^Rayon sacré^Laserinferno^Rayo santo
 MST_MONSTER_SKILL_NAME_154840^Charge^突進^돌진^Charge^Vormarsch^Embestida
-MST_MONSTER_SKILL_NAME_154850^Fire Breath^火焰^화염^Souffle de feu^Feueratem^Aliento de fuego
+MST_MONSTER_SKILL_NAME_154850^Flames^火焰^화염^Souffle de feu^Feueratem^Aliento de fuego
 MST_MONSTER_SKILL_NAME_154860^Claws^爪^발톱^Griffes^Klauen^Zarpas
 MST_MONSTER_SKILL_NAME_154870^It's rampaging after blood!^為追求鮮血而失控了！^피를 찾아 폭주하고 있다!^Il est enragé et a soif de sang !^Er verfällt in einen Blutrausch!^¡Está enloquecido y quiere sangre!
 MST_MONSTER_SKILL_NAME_154880^It's rotting and rampaging!^身體快要腐爛而失控了！^몸이 붕괴되어 폭주하고 있다!^Il se décompose et est enragé !^Er tobt und modert!^¡Está enloquecido y descomponiéndose!
@@ -750,7 +750,7 @@ MST_MONSTER_SKILL_NAME_155340^Weapon Regen^武器再生^무기 재생^Régénér
 MST_MONSTER_SKILL_NAME_155350^This is far from the strongest of swords!^「不可能！　這不是最強的劍嗎……^이럴 수가! 최강의 검이 아니었나!^C'est la plus puissante des épées, et de loin !^Ich dachte, das wäre Excalibur?!^¡Esta espada no es lo que esperaba!
 MST_MONSTER_SKILL_NAME_155360^Firearms are so boring!^「遠程攻擊太沒品位了！^원거리 무기 따윈 시시하다!^Les armes à feu n'ont vraiment aucun intérêt !^Fernkampfwaffen sind so langweilig!^¡Las armas de fuego me aburren!
 MST_MONSTER_SKILL_NAME_155370^Vendetta^復仇模式^복수 모드^Contre vengeur^Vendetta^Venganza
-MST_MONSTER_SKILL_NAME_155380^Electrocute^電擊^전기 충격^Électrochoc^Elektroschock^Electroshock
+MST_MONSTER_SKILL_NAME_155380^Electric Shock^電擊^전기 충격^Électrochoc^Elektroschock^Electroshock
 MST_MONSTER_SKILL_NAME_155410^Wind Slash^鎌鼬^칼날 돌풍^Bourrasque^Windsichel^Ventolera
 MST_MONSTER_SKILL_NAME_155420^Imperial army, advance!^「皇國軍，前進！」^제국군, 전진!^Armée impériale, en avant toute !^Imperiale Armee, vorwärts Marsch!^¡Ejercito imperial, en marcha!
 MST_MONSTER_SKILL_NAME_155430^Imperial army, advance!^「皇國軍，前進！」^제국군, 전진!^Armée impériale, en avant toute !^Imperiale Armee, vorwärts Marsch!^¡Ejercito imperial, en marcha!
@@ -799,7 +799,7 @@ MST_MONSTER_SKILL_NAME_155850^Pressure^重壓^짓누르기^Pression^Druck^Presi�
 MST_MONSTER_SKILL_NAME_155860^Pressure^重壓^짓누르기^Pression^Druck^Presión
 MST_MONSTER_SKILL_NAME_155870^Hysteric Voices^歇斯底里之聲^신경질적인 외침^Voix hystériques^Hysterie^Voces histéricas
 MST_MONSTER_SKILL_NAME_155880^Hysteric Voices^歇斯底里之聲^신경질적인 외침^Voix hystériques^Hysterie^Voces histéricas
-MST_MONSTER_SKILL_NAME_155890^Screech^混亂之聲^혼돈의 외침^Cri strident^Kreischen^Voz perturbadora
+MST_MONSTER_SKILL_NAME_155890^Panic Voice^混亂之聲^혼돈의 외침^Cri strident^Kreischen^Voz perturbadora
 MST_MONSTER_SKILL_NAME_155900^Screech^尖叫之聲^찢어지는 목소리^Hurlement^Kreischen^Chillido
 MST_MONSTER_SKILL_NAME_155910^Screech^尖叫之聲^찢어지는 목소리^Hurlement^Kreischen^Chillido
 MST_MONSTER_SKILL_NAME_155920^Gaia's Wrath^大地之怒^대지의 분노^Colère de Gaïa^Gaias Wut^Ira de la tierra
@@ -858,7 +858,7 @@ MST_MONSTER_SKILL_NAME_159340^Genesis^起源^제네시스^Genèse^Genesis^Génes
 MST_MONSTER_SKILL_NAME_159350^Genesis^起源^제네시스^Genèse^Genesis^Génesis
 MST_MONSTER_SKILL_NAME_159360^Destiny^命運^데스티니^Destin^Schicksal^Destino
 MST_MONSTER_SKILL_NAME_159370^Resurrection^恢復^리저렉션^Résurrection^Wiederauferstehung^Resurrección
-MST_MONSTER_SKILL_NAME_159380^Meteor^流星^미티어^Météore^Meteo^Meteorito
+MST_MONSTER_SKILL_NAME_159380^Meteorite^流星^미티어^Météore^Meteo^Meteorito
 MST_MONSTER_SKILL_NAME_159390^Endless^永無止境^엔드리스^Infinité^Endlos^Infinito
 MST_MONSTER_SKILL_NAME_159400^Revival^復興^리바이브^Résurrection^Wiederbelebung^Revivir
 MST_MONSTER_SKILL_NAME_900000^Death Declaration^餘命宣告^죽음의 명령^Peine de mort^Todeserklärung^Pena de muerte
@@ -888,7 +888,7 @@ MST_MONSTER_SKILL_NAME_156280^Remedy^萬能藥^만능약^Remède^Allheilmittel^R
 MST_MONSTER_SKILL_NAME_156290^Gungnir^奧汀神槍^궁니르^Gungnir^Gungnir^Gungnir
 MST_MONSTER_SKILL_NAME_156300^Bladeblitz^全斬^전방위 베기^Lame éclair^Klingenblitz^Relámpago de acero
 MST_MONSTER_SKILL_NAME_156310^Critical^暴擊^치명타^Coup critique^Volltreffer^Crítico
-MST_MONSTER_SKILL_NAME_156320^Ochu Dance^新食腐獸之舞^네오츄의 춤^Dance du Néotyugh^Küsschentanz^Danza de ochú
+MST_MONSTER_SKILL_NAME_156320^Neochu Dance^新食腐獸之舞^네오츄의 춤^Dance du Néotyugh^Küsschentanz^Danza de ochú
 MST_MONSTER_SKILL_NAME_156330^Rush^衝鋒^러쉬^Précipitation^Neumondaura^Empujón
 MST_MONSTER_SKILL_NAME_156340^First Aid^應急處理^응급처치^Premiers soins^Erste Hilfe^Primeros auxilios
 MST_MONSTER_SKILL_NAME_156350^Unholy Darkness^暗黑神聖^다크 홀리^Ténèbres impies^Unheilige Dunkelheit^Oscuridad impía
@@ -994,11 +994,11 @@ MST_MONSTER_SKILL_NAME_157290^Aqua Breath^流水吐息^물의 숨결^Souffle d'e
 MST_MONSTER_SKILL_NAME_157300^Aqua Breath^流水吐息^물의 숨결^Souffle d'eau^Wasseratem^Aliento de agua
 MST_MONSTER_SKILL_NAME_157310^Aqua Breath^流水吐息^물의 숨결^Souffle d'eau^Wasseratem^Aliento de agua
 MST_MONSTER_SKILL_NAME_157320^Aqua Breath^流水吐息^물의 숨결^Souffle d'eau^Wasseratem^Aliento de agua
-MST_MONSTER_SKILL_NAME_157330^Thunderbolt^閃電^천둥번개^Électrodécharge ^Blitzschlag^Electrodescarga
-MST_MONSTER_SKILL_NAME_157340^Thunderbolt^閃電^천둥번개^Électrodécharge ^Blitzschlag^Electrodescarga
-MST_MONSTER_SKILL_NAME_157350^Thunderbolt^閃電^천둥번개^Électrodécharge ^Blitzschlag^Electrodescarga
-MST_MONSTER_SKILL_NAME_157360^Thunderbolt^閃電^천둥번개^Électrodécharge ^Blitzschlag^Electrodescarga
-MST_MONSTER_SKILL_NAME_157370^Thunderbolt^閃電^천둥번개^Électrodécharge ^Blitzschlag^Electrodescarga
+MST_MONSTER_SKILL_NAME_157330^Flash of Lightning^閃電^천둥번개^Électrodécharge ^Blitzschlag^Electrodescarga
+MST_MONSTER_SKILL_NAME_157340^Flash of Lightning^閃電^천둥번개^Électrodécharge ^Blitzschlag^Electrodescarga
+MST_MONSTER_SKILL_NAME_157350^Flash of Lightning^閃電^천둥번개^Électrodécharge ^Blitzschlag^Electrodescarga
+MST_MONSTER_SKILL_NAME_157360^Flash of Lightning^閃電^천둥번개^Électrodécharge ^Blitzschlag^Electrodescarga
+MST_MONSTER_SKILL_NAME_157370^Flash of Lightning^閃電^천둥번개^Électrodécharge ^Blitzschlag^Electrodescarga
 MST_MONSTER_SKILL_NAME_157380^Icestorm^吹雪^눈보라^Blizzard^Blizzard^Tormenta de hielo
 MST_MONSTER_SKILL_NAME_157390^Icestorm^吹雪^눈보라^Blizzard^Blizzard^Tormenta de hielo
 MST_MONSTER_SKILL_NAME_157400^Icestorm^吹雪^눈보라^Blizzard^Blizzard^Tormenta de hielo
@@ -1009,11 +1009,11 @@ MST_MONSTER_SKILL_NAME_157440^Poison Breath^劇毒吐息^맹독 숨결^Souffle t
 MST_MONSTER_SKILL_NAME_157450^Poison Breath^劇毒吐息^맹독 숨결^Souffle toxique^Giftatem^Aliento tóxico
 MST_MONSTER_SKILL_NAME_157460^Poison Breath^劇毒吐息^맹독 숨결^Souffle toxique^Giftatem^Aliento tóxico
 MST_MONSTER_SKILL_NAME_157470^Poison Breath^劇毒吐息^맹독 숨결^Souffle toxique^Giftatem^Aliento tóxico
-MST_MONSTER_SKILL_NAME_157480^Maelstrom^大漩渦^마엘스트롬^Maelström^Mahlstrom^Vórtice
-MST_MONSTER_SKILL_NAME_157490^Maelstrom^大漩渦^마엘스트롬^Maelström^Mahlstrom^Vórtice
-MST_MONSTER_SKILL_NAME_157500^Maelstrom^大漩渦^마엘스트롬^Maelström^Mahlstrom^Vórtice
-MST_MONSTER_SKILL_NAME_157510^Maelstrom^大漩渦^마엘스트롬^Maelström^Mahlstrom^Vórtice
-MST_MONSTER_SKILL_NAME_157520^Maelstrom^大漩渦^마엘스트롬^Maelström^Mahlstrom^Vórtice
+MST_MONSTER_SKILL_NAME_157480^Malstrom^大漩渦^마엘스트롬^Maelström^Mahlstrom^Vórtice
+MST_MONSTER_SKILL_NAME_157490^Malstrom^大漩渦^마엘스트롬^Maelström^Mahlstrom^Vórtice
+MST_MONSTER_SKILL_NAME_157500^Malstrom^大漩渦^마엘스트롬^Maelström^Mahlstrom^Vórtice
+MST_MONSTER_SKILL_NAME_157510^Malstrom^大漩渦^마엘스트롬^Maelström^Mahlstrom^Vórtice
+MST_MONSTER_SKILL_NAME_157520^Malstrom^大漩渦^마엘스트롬^Maelström^Mahlstrom^Vórtice
 MST_MONSTER_SKILL_NAME_157530^X Slash^X斬^X자 베기^Entaille en croix^Überkreuzhieb^Corte cruzado
 MST_MONSTER_SKILL_NAME_157540^X Slash^X斬^X자 베기^Entaille en croix^Überkreuzhieb^Corte cruzado
 MST_MONSTER_SKILL_NAME_157550^Tsubame Gaeshi^燕迴斬^제비반전술^Tsubame Gaeshi^Tsubame Gaeshi^Tsubame Gaeshi
@@ -1043,54 +1043,54 @@ MST_MONSTER_SKILL_NAME_157780^Divine^聖光^디바인^Divin^Göttlich^Divino
 MST_MONSTER_SKILL_NAME_157790^Divine Shot^聖徒射擊^성스러운 사격^Tir divin^Göttlicher Schuss^Disparo divino
 MST_MONSTER_SKILL_NAME_157800^Blowback^全爆裂^풀 버스트^Tir intensifié^Rückstoß^Daño colateral
 MST_MONSTER_SKILL_NAME_157810^Dawn of Judgment^裁決曉光^심판의 새벽빛^Lumière du jugement^Licht des Urteils^Luz del juicio
-MST_MONSTER_SKILL_NAME_157820^Crush^壓殺^크러쉬 다운^Compression^Zerquetschen^Triturar
+MST_MONSTER_SKILL_NAME_157820^Crash Down^壓殺^크러쉬 다운^Compression^Zerquetschen^Triturar
 MST_MONSTER_SKILL_NAME_157860^Blizzaga^大暴雪^블리자가^Glace X^Eisga^Hielo++
 MST_MONSTER_SKILL_NAME_157870^Blizzara^中暴雪^블리자라^Glace +^Eisra^Hielo+
 MST_MONSTER_SKILL_NAME_157880^Curaja^超療傷^케알가^Soin Max^Vitaja^Cura+++
 MST_MONSTER_SKILL_NAME_157890^The light is converging!^聚光^빛이 구속한다^La lumière converge !^Das Licht fließt zusammen!^¡La luz se está acumulando!
 MST_MONSTER_SKILL_NAME_157900^A massive beam of light is forming!^大量光在聚集^방대한 빛이 모여든다^Un énorme rayon de lumière se forme !^Ein massiver Lichtstrahl formt sich!^¡Está creándose rayo de luz enorme!
 MST_MONSTER_SKILL_NAME_157910^It's widely flapping its wings!^張開了羽翼^커다랗게 날개를 펼친다^Il déploie complètement ses ailes !^Es schlägt mit den Flügeln!^¡Está batiendo las alas violentamente!
-MST_MONSTER_SKILL_NAME_157920^NA^美拉^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_157930^NA^閃電斬^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_157940^NA^閃電斬^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_157950^NA^火焰斬^화염 베기^Tranche-flammes^Flammenstreich^Corte flamígero
-MST_MONSTER_SKILL_NAME_157960^NA^火焰斬^화염 베기^Tranche-flammes^Flammenstreich^Corte flamígero
-MST_MONSTER_SKILL_NAME_157970^NA^屠戮^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_157980^NA^屠戮^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_157920^Frizz^美拉^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_157930^Thunder Slash^閃電斬^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_157940^Thunder Slash^閃電斬^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_157950^Flame Slash^火焰斬^화염 베기^Tranche-flammes^Flammenstreich^Corte flamígero
+MST_MONSTER_SKILL_NAME_157960^Flame Slash^火焰斬^화염 베기^Tranche-flammes^Flammenstreich^Corte flamígero
+MST_MONSTER_SKILL_NAME_157970^Frenzy^屠戮^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_157980^Frenzy^屠戮^NA^NA^NA^NA
 MST_MONSTER_SKILL_NAME_157990^Muscle Pose^肌肉姿勢^근육 포즈^Pose musculeuse^Muskelpose^Pose musculosa
 MST_MONSTER_SKILL_NAME_158000^Muscle Pose^肌肉姿勢^근육 포즈^Pose musculeuse^Muskelpose^Pose musculosa
 MST_MONSTER_SKILL_NAME_158010^Critical Swing^痛恨一擊^통한의 일격^Coup massif^Kritischer Hieb^Gancho crítico
 MST_MONSTER_SKILL_NAME_158020^Critical Swing^痛恨一擊^통한의 일격^Coup massif^Kritischer Hieb^Gancho crítico
 MST_MONSTER_SKILL_NAME_158030^After Spark^地獄雷打^애프터 스파크^Après l'étincelle^Nach dem Funken^Gancho crítico
-MST_MONSTER_SKILL_NAME_158040^NA^閃耀氣息^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158050^NA^烈焰^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158060^NA^沙塵^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158070^NA^灼熱^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158080^NA^美拉佐瑪^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158090^NA^拉里霍^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158100^NA^瑪霍托恩^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158110^NA^美拉蓋亞^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158120^NA^貝基拉格恩^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158130^NA^貝霍伊米^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158140^NA^精神壁障^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158150^NA^龍王之怒^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158160^NA^魔力覺醒^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158170^NA^撕咬^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_158040^C-C-Cold Breath^閃耀氣息^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_158050^Inferno^烈焰^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_158060^Sandstorm^沙塵^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_158070^Sunbake^灼熱^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_158080^Kafrizz^美拉佐瑪^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_158090^Snooze^拉里霍^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_158100^Fizzle^瑪霍托恩^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_158110^Kafrizzle^美拉蓋亞^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_158120^Kasizzle^貝基拉格恩^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_158130^Midheal^貝霍伊米^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_158140^Mind Barrier^精神壁障^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_158150^Dragonlord's Rage^龍王之怒^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_158160^Channel Anger^魔力覺醒^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_158170^Bite Off^撕咬^NA^NA^NA^NA
 MST_MONSTER_SKILL_NAME_158180^Roar^咆哮^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158190^NA^烈焰^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158200^NA^暗之波動^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158210^NA^凍結波動^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158220^NA^基拉^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158230^NA^流浪金屬史萊姆 逃跑了！^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158240^NA^淨化魔力^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158250^NA^龍王的 攻撃 提升了^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158260^NA^龍王的 防禦 提升了^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158270^NA^龍王的 魔力 提升了^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158280^NA^龍王的 精神 提升了^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158290^NA^美拉蓋亞^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158300^NA^灼熱^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158310^NA^美拉佐瑪^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158320^NA^貝基拉格恩^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_158190^Inferno^烈焰^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_158200^Wave of Panic^暗之波動^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_158210^Disruptive Wave^凍結波動^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_158220^Sizz^基拉^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_158230^Liquid metal slime ran away!^流浪金屬史萊姆 逃跑了！^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_158240^Magic Purification^淨化魔力^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_158250^Dragonlord's ATK increased^龍王的 攻撃 提升了^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_158260^Dragonlord's DEF increased^龍王的 防禦 提升了^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_158270^Dragonlord's MAG increased^龍王的 魔力 提升了^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_158280^Dragonlord's SPR increased^龍王的 精神 提升了^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_158290^Kafrizzle^美拉蓋亞^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_158300^Sunbake^灼熱^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_158310^Kafrizz^美拉佐瑪^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_158320^Kasizzle^貝基拉格恩^NA^NA^NA^NA
 MST_MONSTER_SKILL_NAME_153770^Meteor^隕石^메테오^Météore^Meteo^Meteo
 MST_MONSTER_SKILL_NAME_153750^Negation^重置氣場^리셋의 오라^Négation^Negation^Anulación
 MST_MONSTER_SKILL_NAME_158330^Pollen^花粉^꽃가루^Pollen^Pollen^Polen
@@ -1100,21 +1100,21 @@ MST_MONSTER_SKILL_NAME_158360^Running Rampant^失控中^폭주 중^Course effré
 MST_MONSTER_SKILL_NAME_158370^Entwine^纏擊^휘감기^Lier^Umschlingen^Enredar
 MST_MONSTER_SKILL_NAME_158380^Nutrient Absorption^吸收養分^양분흡수^Nutrition^Nährstoffabsorption^Absorber nutrientes
 MST_MONSTER_SKILL_NAME_158390^Healing Earth^大地治癒^대지의 치유^Terre reposante^Heilende Erde^Tierra curativa
-MST_MONSTER_SKILL_NAME_158400^Screech^混亂之聲^혼돈의 외침^Cri strident^Kreischen^Voz perturbadora
+MST_MONSTER_SKILL_NAME_158400^Panic Voice^混亂之聲^혼돈의 외침^Cri strident^Kreischen^Voz perturbadora
 MST_MONSTER_SKILL_NAME_158410^Revitalize^活性化^활성화^Revitalisation^Revitalisierung^Revitalizar
 MST_MONSTER_SKILL_NAME_158420^Scratch^猛抓^할퀴기^Écorchure^Kratzen^Arañazo
 MST_MONSTER_SKILL_NAME_158430^Snap^撲咬^깨물기^Morsure^Beißen^Mordiscazo
-MST_MONSTER_SKILL_NAME_158440^Flame Ball^焰球^화구^Orbe de feu^Flammenball^Bola de llamas
+MST_MONSTER_SKILL_NAME_158440^Flame Sphere^焰球^화구^Orbe de feu^Flammenball^Bola de llamas
 MST_MONSTER_SKILL_NAME_158450^Ball of Fire^火焰球^화염구^Boule de flammes^Feuerball^Bola de fuego
 MST_MONSTER_SKILL_NAME_158460^Flaming Wind^熱風^열풍^Souffle ardent^Flammenwind^Soplo ardiente
 MST_MONSTER_SKILL_NAME_158470^Smoke^噴煙^분연^Fumée^Rauch^Humo
 MST_MONSTER_SKILL_NAME_158480^Pulverize^捏碎^깔아뭉개기^Pulvériser^Pulverisieren^Pulverizar
 MST_MONSTER_SKILL_NAME_158490^I'm gonna eat you!^「讓我吃」^먹게 해줘어어^J'vais te bouffer !^Ich fresse dich!^¡Voy a devorarte!
 MST_MONSTER_SKILL_NAME_158500^Talon^鉤爪^갈고리발톱^Serre ^Klaue^Garra
-MST_MONSTER_SKILL_NAME_158510^<na>^火焰吐息^불꽃의 숨결^<na>^Feueratem^<na>
+MST_MONSTER_SKILL_NAME_158510^Fire Breath^火焰吐息^불꽃의 숨결^<na>^Feueratem^<na>
 MST_MONSTER_SKILL_NAME_158520^Electric Breath^雷擊吐息^전격의 숨결^Souffle électrique ^Elektrohauch^Hálito eléctrico
 MST_MONSTER_SKILL_NAME_158530^Glide^滑翔^활공^Planer^Gleiten^Planeo
-MST_MONSTER_SKILL_NAME_158540^<na>^火焰吐息^불꽃의 숨결^<na>^Feueratem^<na>
+MST_MONSTER_SKILL_NAME_158540^Fire Breath^火焰吐息^불꽃의 숨결^<na>^Feueratem^<na>
 MST_MONSTER_SKILL_NAME_158550^It took a deep breath!^大吸了一口氣^크게 숨을 빨아들인다^Il prend une grand inspiration !^Es atmete tief ein!^¡Está aspirando fuertemente!
 MST_MONSTER_SKILL_NAME_158560^Mikazuchi summoned a heat wave!^「雷神發動了熱・波・招・来！」^미카즈치는 열파초래를 사용했다!^Mikazuchi invoque une onde de chaleur !^Mikazuchi beschwor eine Hitzewelle!^¡Mikazuchi invoca una ola de calor!
 MST_MONSTER_SKILL_NAME_158570^Mikazuchi summoned lightning!^「雷神發動了豪・雪・招・来！」^미카즈치는 열파초래를 사용했다!^Mikazuchi invoque la foudre !^Mikazuchi beschwor Blitz!^¡Mikazuchi invoca una ventisca!
@@ -1216,15 +1216,15 @@ MST_MONSTER_SKILL_NAME_159940^Paralyzing Tentacle^麻痺觸手^마비촉수^Tent
 MST_MONSTER_SKILL_NAME_159950^Poison Mist^毒霧^독안개^Brume empoisonnée^Giftnebel^Niebla venenosa
 MST_MONSTER_SKILL_NAME_159960^Freezing Dust^冰凍塵埃^얼음가루^Cryogénie^Frierender Staub^Polvo gélido
 MST_MONSTER_SKILL_NAME_159970^Suction^吸入^흡입^Succion  ^Sog^Succión
-MST_MONSTER_SKILL_NAME_159980^Rampage^失控^폭주^Fureur^Raserei^Matanza
+MST_MONSTER_SKILL_NAME_159980^Rage About^失控^폭주^Fureur^Raserei^Matanza
 MST_MONSTER_SKILL_NAME_159990^Fly Above^跳起^날아오르다^Survoler^Überfliegen^Despegue
 MST_MONSTER_SKILL_NAME_160000^Crystal Lance^水晶長槍^크리스탈의 창^Lance de cristal^Kristalllanze^Lanza cristalina
 MST_MONSTER_SKILL_NAME_160010^Neigh^嘶鳴^울음소리^Hennissement^Gewieher^Relinche
 MST_MONSTER_SKILL_NAME_160020^Dimension^次元^차원^Dimension^Dimension^Dimensión
 MST_MONSTER_SKILL_NAME_160030^Annul^虛無指尖^무의 손끝^Doigt du néant^Auflösen^Anular
 MST_MONSTER_SKILL_NAME_160040^Ink^墨水^먹물^Encre^Tinte^Tinta
-MST_MONSTER_SKILL_NAME_160050^Tentacle^章魚腳^문어발^Tentacule ^Tentakel^Tentáculo
-MST_MONSTER_SKILL_NAME_160060^Tentacle^章魚腳^문어발^Tentacule ^Tentakel^Tentáculo
+MST_MONSTER_SKILL_NAME_160050^Octo Tentacle^章魚腳^문어발^Tentacule ^Tentakel^Tentáculo
+MST_MONSTER_SKILL_NAME_160060^Octo Tentacle^章魚腳^문어발^Tentacule ^Tentakel^Tentáculo
 MST_MONSTER_SKILL_NAME_160070^Orthros has transformed!^奧爾特羅斯的體質發生了變化！^오르토스의 체질이 변화했다!^Orthros s'est transformé^Orthros hat sich verwandelt!^¡Ultros se ha transformado!
 MST_MONSTER_SKILL_NAME_160080^Haste^急速^헤이스트^Booster^Eile^Prisa
 MST_MONSTER_SKILL_NAME_160090^Protect^物防護^프로테스^Bouclier^Protes^Coraza
@@ -1273,8 +1273,8 @@ MST_MONSTER_SKILL_NAME_160391^Beatdown^擊倒^때려눕히기^Riposte^Niederschl
 MST_MONSTER_SKILL_NAME_160400^Wing Attack^飛翼^날개 공격^Coup d'aile^Flügelangriff^Aletazo
 MST_MONSTER_SKILL_NAME_160410^Cyclonic^大旋風^대선풍^Cyclone^Zyklonal^Ciclón
 MST_MONSTER_SKILL_NAME_160420^Tail^尾巴^꼬리^Queue^Schwanzhieb^Cola
-MST_MONSTER_SKILL_NAME_160430^Blaze^烈火^화염^Flambée^Lohe^Llamarada
-MST_MONSTER_SKILL_NAME_160440^Blaze^烈火^화염^Flambée^Lohe^Llamarada
+MST_MONSTER_SKILL_NAME_160430^Emblaze^烈火^화염^Flambée^Lohe^Llamarada
+MST_MONSTER_SKILL_NAME_160440^Emblaze^烈火^화염^Flambée^Lohe^Llamarada
 MST_MONSTER_SKILL_NAME_160450^Flare^核爆^플레어^Brasier^Flamme^Fulgor
 MST_MONSTER_SKILL_NAME_160460^Full Power^能量全開！^파워 전개!^Pleine puissance^Volle Kraft^Poder máximo
 MST_MONSTER_SKILL_NAME_160470^It's gathering a great power!^巨大的能量正在集中^방대한 에너지가 모이고 있다^Ça concentre sa puissance !^Es sammelt große Kraft!^¡Está concentrando poder!
@@ -1288,8 +1288,8 @@ MST_MONSTER_SKILL_NAME_160550^Fireball^火球^파이어 볼^Boules de feu^Feuerb
 MST_MONSTER_SKILL_NAME_160560^Snort^鼻息^콧김^Reniflement^Schnauben^Resoplido
 MST_MONSTER_SKILL_NAME_160570^Meteor^隕石^메테오^Météore^Meteo^Meteo
 MST_MONSTER_SKILL_NAME_160580^Ink^墨水^먹물^Encre ^Tinte^Tinta
-MST_MONSTER_SKILL_NAME_160590^Tentacle^章魚腳^문어발^Tentacule ^Tentakel^Tentáculo
-MST_MONSTER_SKILL_NAME_160600^Tentacle^章魚腳^문어발^Tentacule ^Tentakel^Tentáculo
+MST_MONSTER_SKILL_NAME_160590^Octo Tentacle^章魚腳^문어발^Tentacule ^Tentakel^Tentáculo
+MST_MONSTER_SKILL_NAME_160600^Octo Tentacle^章魚腳^문어발^Tentacule ^Tentakel^Tentáculo
 MST_MONSTER_SKILL_NAME_160610^Haste^急速^문어발^Booster^Eile^Prisa
 MST_MONSTER_SKILL_NAME_160620^Protect^物防護^프로테스^Bouclier^Protes^Coraza
 MST_MONSTER_SKILL_NAME_160630^Hailstone^落石^우박^Grêle^Hagelstein^Lluvia de rocas
@@ -1366,8 +1366,8 @@ MST_MONSTER_SKILL_NAME_161330^Water^流水^워터^Eau^Aqua^Aqua
 MST_MONSTER_SKILL_NAME_161340^Press^施壓^프레스^Presse^Drücken^Aplastar
 MST_MONSTER_SKILL_NAME_161350^Press^施壓^프레스^Presse^Drücken^Aplastar
 MST_MONSTER_SKILL_NAME_161360^Elemental Shift^弱點轉換^위크 체인지^Changement d'élément^Elementarwechsel^Cambio de elemento
-MST_MONSTER_SKILL_NAME_161370^NA^衝撞^NA^NA^NA^Golpe de cuerpo
-MST_MONSTER_SKILL_NAME_161380^NA^衝撞^NA^NA^NA^Golpe de cuerpo
+MST_MONSTER_SKILL_NAME_161370^Body Slam^衝撞^NA^NA^NA^Golpe de cuerpo
+MST_MONSTER_SKILL_NAME_161380^Body Slam^衝撞^NA^NA^NA^Golpe de cuerpo
 MST_MONSTER_SKILL_NAME_161390^Charge Through^突擊^돌격!^Charge !^Vormarsch!^Carga
 MST_MONSTER_SKILL_NAME_161400^Eerie Sound Wave^怪音波^괴음파^Ondes nocives^Schwebende Klangwelle^Ultrasonido extraño
 MST_MONSTER_SKILL_NAME_161410^Bright Flash^光閃^섬광^Éclat lumineux^Heller Blitz^Destello brillante
@@ -1546,7 +1546,7 @@ MST_MONSTER_SKILL_NAME_162740^Grand Cross^大十字^그랜드 크로스^Croix su
 MST_MONSTER_SKILL_NAME_162750^Grand Cross^大十字^그랜드 크로스^Croix suprême^Supernova^Gran cruz
 MST_MONSTER_SKILL_NAME_162760^Will-o'-the-Wisp^鬼火^도깨비불^Onibi^Irrlicht^Onibi
 MST_MONSTER_SKILL_NAME_162770^Grit^深惡痛絕^불굴의 투지^Cran^Schneid^Arrojo
-MST_MONSTER_SKILL_NAME_162780^Spore^散播種子^씨앗 날리기^Spore^Spore^Espora
+MST_MONSTER_SKILL_NAME_162780^Spread Spore^散播種子^씨앗 날리기^Spore^Spore^Espora
 MST_MONSTER_SKILL_NAME_162790^The light is converging!^聚光^빛이 구속한다^La lumière converge !^Das Licht fließt zusammen^La luz se está acumulando
 MST_MONSTER_SKILL_NAME_162800^The light has dispersed^聚集的光消散了^구속한 빛이 안개처럼 흩어졌다^La lumière a disparu^Das Licht verschwindet^La luz se ha dispersado
 MST_MONSTER_SKILL_NAME_162810^Death Ray^必殺光線^필살광선^Rayon mortel^Todesstrahl^Rayo de la muerte
@@ -1693,7 +1693,7 @@ MST_MONSTER_SKILL_NAME_164200^Blinder^障目^눈찌르기^Éblouissement^Blender
 MST_MONSTER_SKILL_NAME_164210^Super Leech^超吸收^초흡수^Super aspiration^Supersauger^Supersanguijuela
 MST_MONSTER_SKILL_NAME_164220^Tentacle^觸手^촉수^Tentacule^Tentakel^Tentáculo
 MST_MONSTER_SKILL_NAME_164230^Pollen^花粉^꽃가루^Pollen^Pollen^Polen
-MST_MONSTER_SKILL_NAME_164240^Crazy Mad^發狂了^격노 중^Fou de colère^Erzürnen^Encolerizado
+MST_MONSTER_SKILL_NAME_164240^Gone Mad^發狂了^격노 중^Fou de colère^Erzürnen^Encolerizado
 MST_MONSTER_SKILL_NAME_164250^Mad Ochu Dance^憤怒的食腐獸之舞^분노한 오츄의 춤^Dance de l'otyugh en colère^Verrückter Ochutanz^Danza del ochú enojado
 MST_MONSTER_SKILL_NAME_164260^Tornado^龍捲風^토네이도^Tornade^Tornado^Tornado
 MST_MONSTER_SKILL_NAME_164270^Aeroga^大勁風^에어로가^Vent X^Aeroga^Aero++
@@ -1749,7 +1749,7 @@ MST_MONSTER_SKILL_NAME_164750^Shaking Eruption^振動地上爆炸^진동 지상�
 MST_MONSTER_SKILL_NAME_164760^Shaking Eruption^振動地上爆炸^진동 지상폭파^Éruption grondante^Erschütterung^Erupción temblorosa
 MST_MONSTER_SKILL_NAME_164770^Quicksand Breath^流沙吐息^흐르는 모래숨결^Souffle de sable^Treibsandatem^Aliento de arenas movedizas
 MST_MONSTER_SKILL_NAME_164780^Quicksand Breath^流沙吐息^흐르는 모래숨결^Souffle de sable^Treibsandatem^Aliento de arenas movedizas
-MST_MONSTER_SKILL_NAME_164790^NA^冥晶龍飛走了^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_164790^Nef Garumudo left^冥晶龍飛走了^NA^NA^NA^NA
 MST_MONSTER_SKILL_NAME_164810^Darkra^中暗黑^다크라^Ténèbres +^Darkra^Sombra+
 MST_MONSTER_SKILL_NAME_164820^Darkga^大暗黑^다크가^Ténèbres X^Darkga^Sombra++
 MST_MONSTER_SKILL_NAME_164830^Clad in the magic of darkness^憑依黑暗之魔^마의 어둠을 휘감다^Vêtu de la magie des ténèbres^Gehüllt in Dunkelmagie^Envuelto con magia de la oscuridad
@@ -1785,7 +1785,7 @@ MST_MONSTER_SKILL_NAME_165120^Thrust^刺擊^찌르기^Frappe^Stoß^Estocada
 MST_MONSTER_SKILL_NAME_165130^Flamethrower^火炎放射^화염 방사^Lance-flammes^Flammenwerfer^Lanzallamas
 MST_MONSTER_SKILL_NAME_165140^Missile^導彈^미사일^Missile^Rakete^Misil
 MST_MONSTER_SKILL_NAME_165150^Auto-gun^機槍^기관총^Arme automatique^Automatikgewehr^Autopistola
-MST_MONSTER_SKILL_NAME_165160^Trample^踐踏^짓밟기^Piétinement^Stampfen^Pisotón
+MST_MONSTER_SKILL_NAME_165160^Stomp^踐踏^짓밟기^Piétinement^Stampfen^Pisotón
 MST_MONSTER_SKILL_NAME_165170^Rampage^橫衝直撞^날뛰기^Massacrer^Raserei^Enloquecido
 MST_MONSTER_SKILL_NAME_165180^Toss Up^上挑^치받기^Pile ou face^Platzwahl^Arrojo
 MST_MONSTER_SKILL_NAME_165190^Heave^抽噎^내던지기^Ravager^Werfen^Hocicazo
@@ -1864,8 +1864,8 @@ MST_MONSTER_SKILL_NAME_165930^Terror Breath^恐怖吐息^공포의 숨결^Souffl
 MST_MONSTER_SKILL_NAME_165940^Gravity Breath^重力吐息^중력의 숨결^Souffle de gravité^Schwerkraftatem^Aliento gravitador
 MST_MONSTER_SKILL_NAME_165950^Gravity Breath^重力吐息^중력의 숨결^Souffle de gravité^Schwerkraftatem^Aliento gravitador
 MST_MONSTER_SKILL_NAME_165960^Leech^吸收^흡수^Sangsue^Blutsauger^Sanguijuela
-MST_MONSTER_SKILL_NAME_165970^Lightning Strike^落雷^낙뢰^Éclair de foudre^Donnerspalter^Corte fulmíneo
-MST_MONSTER_SKILL_NAME_165980^Lightning Strike^落雷^낙뢰^Éclair de foudre^Donnerspalter^Corte fulmíneo
+MST_MONSTER_SKILL_NAME_165970^Lightning Crash^落雷^낙뢰^Éclair de foudre^Donnerspalter^Corte fulmíneo
+MST_MONSTER_SKILL_NAME_165980^Lightning Crash^落雷^낙뢰^Éclair de foudre^Donnerspalter^Corte fulmíneo
 MST_MONSTER_SKILL_NAME_165990^Poison Sting^毒針^독침^Dard empoisonné^Giftstachel^Aguja tóxico
 MST_MONSTER_SKILL_NAME_166000^Poison Sting^毒針^독침^Dard empoisonné^Giftstachel^Aguja tóxico
 MST_MONSTER_SKILL_NAME_166010^Swallow^吞噬^삼키기^Avaler^Verschlingen^Tragar
@@ -1882,14 +1882,14 @@ MST_MONSTER_SKILL_NAME_166110^Sweeping Spin^大迴旋^대회전^Tourbillon^Durch
 MST_MONSTER_SKILL_NAME_166120^Sweeping Spin^大迴旋^대회전^Tourbillon^Durchschlagender Schwung^Giro arrollador
 MST_MONSTER_SKILL_NAME_166130^Voice of Terror^恐怖之聲^공포의 목소리^Voix terrorisante^Stimme des Terrors^Voz del terror
 MST_MONSTER_SKILL_NAME_166140^Voice of Terror^恐怖之聲^공포의 목소리^Voix terrorisante^Stimme des Terrors^Voz del terror
-MST_MONSTER_SKILL_NAME_166150^NA^龍尾掃^용 꼬리 반전술^Revers de dragon^Drachenumkehr^Dracovuelta
-MST_MONSTER_SKILL_NAME_166160^NA^龍尾掃^용 꼬리 반전술^Revers de dragon^Drachenumkehr^Dracovuelta
-MST_MONSTER_SKILL_NAME_166170^NA^烈風劍^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_166180^NA^烈風劍^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_166190^Fire Breath^火炎^화염^Souffle de feu^In Flammen^Inflamar
-MST_MONSTER_SKILL_NAME_166200^Fire Breath^火炎^화염^Souffle de feu^In Flammen^Inflamar
-MST_MONSTER_SKILL_NAME_166210^NA^炙熱波動^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_166220^NA^炙熱波動^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_166150^Dragon Tail Flap^龍尾掃^용 꼬리 반전술^Revers de dragon^Drachenumkehr^Dracovuelta
+MST_MONSTER_SKILL_NAME_166160^Dragon Tail Flap^龍尾掃^용 꼬리 반전술^Revers de dragon^Drachenumkehr^Dracovuelta
+MST_MONSTER_SKILL_NAME_166170^Gale Blade^烈風劍^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_166180^Gale Blade^烈風劍^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_166190^Flames^火炎^화염^Souffle de feu^In Flammen^Inflamar
+MST_MONSTER_SKILL_NAME_166200^Flames^火炎^화염^Souffle de feu^In Flammen^Inflamar
+MST_MONSTER_SKILL_NAME_166210^Heat Wave^炙熱波動^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_166220^Heat Wave^炙熱波動^NA^NA^NA^NA
 MST_MONSTER_SKILL_NAME_166230^Death Kettle^死神鐮刀^사신의 낫^NA^NA^NA
 MST_MONSTER_SKILL_NAME_166240^Death Kettle^死神鐮刀^사신의 낫^NA^NA^NA
 MST_MONSTER_SKILL_NAME_166250^Triple Threat^三連擊^3연속 공격^Triple menace^Dreifachbedrohung^Amenaza triple
@@ -1900,10 +1900,10 @@ MST_MONSTER_SKILL_NAME_166290^Tail Beat^尾擊^꼬리 충격^Attaque caudale^Sch
 MST_MONSTER_SKILL_NAME_166300^Tail Beat^尾擊^꼬리 충격^Attaque caudale^Schwanzschlag^Golpecola
 MST_MONSTER_SKILL_NAME_166310^Supersonic Wave^超音波^초음파^Vague supersonique^Schallwelle^Onda supersónica
 MST_MONSTER_SKILL_NAME_166320^Supersonic Wave^超音波^초음파^Vague supersonique^Schallwelle^Onda supersónica
-MST_MONSTER_SKILL_NAME_166330^Berserk Mode^狂暴化^베르세르크^Mode Berserker^Berserker-Modus^Modo enloquecido
-MST_MONSTER_SKILL_NAME_166340^Berserk Mode^狂暴化^베르세르크^Mode Berserker^Berserker-Modus^Modo enloquecido
-MST_MONSTER_SKILL_NAME_166350^NA^超高速水波^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_166360^NA^超高速水波^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_166330^Berserk^狂暴化^베르세르크^Mode Berserker^Berserker-Modus^Modo enloquecido
+MST_MONSTER_SKILL_NAME_166340^Berserk^狂暴化^베르세르크^Mode Berserker^Berserker-Modus^Modo enloquecido
+MST_MONSTER_SKILL_NAME_166350^High Speed Nabla^超高速水波^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_166360^High Speed Nabla^超高速水波^NA^NA^NA^NA
 MST_MONSTER_SKILL_NAME_166370^Megaflare^百萬核爆^메가플레어^MégaBrasier^Megaflamme^Megafulgor
 MST_MONSTER_SKILL_NAME_166380^3^3^3^3^3^3
 MST_MONSTER_SKILL_NAME_166390^2^2^2^2^2^2
@@ -1931,7 +1931,7 @@ MST_MONSTER_SKILL_NAME_166600^Active Spore^活躍孢子^불온한 포자^Spore a
 MST_MONSTER_SKILL_NAME_166610^Great Whirlwind^大旋風^태풍^Grand tourbillon^Sturmböe^Gran torbellino
 MST_MONSTER_SKILL_NAME_166620^Tail^尾巴^꼬리^Queue^Schwanzhieb^Cola
 MST_MONSTER_SKILL_NAME_166630^Disaster^災禍^재난^Désastre^Desaster^Catástrofe
-MST_MONSTER_SKILL_NAME_166640^Trample^踐踏^짓밟기^Piétinement^Stampfen^Pisotón
+MST_MONSTER_SKILL_NAME_166640^Stomp^踐踏^짓밟기^Piétinement^Stampfen^Pisotón
 MST_MONSTER_SKILL_NAME_166650^Tantrum^跺腳^발버둥질^Colère^Ausraster^Rabieta
 MST_MONSTER_SKILL_NAME_166660^Self-Destruct^自爆^자폭^Auto-destruction^Selbstzerstörung^Kamikaze
 MST_MONSTER_SKILL_NAME_166670^Deafening Pitch^震耳欲聾之聲^초고음^Ton assourdissant^Ohrenbetäubend^Tono ensordecedor
@@ -1944,7 +1944,7 @@ MST_MONSTER_SKILL_NAME_166730^Dissonance^不和諧音^불협화음^Dissonance^Di
 MST_MONSTER_SKILL_NAME_166740^Dissonance^不和諧音^불협화음^Dissonance^Dissonanz^Desafinación
 MST_MONSTER_SKILL_NAME_166750^Dissonance^不和諧音^불협화음^Dissonance^Dissonanz^Desafinación
 MST_MONSTER_SKILL_NAME_166760^Dissonance^不和諧音^불협화음^Dissonance^Dissonanz^Desafinación
-MST_MONSTER_SKILL_NAME_166810^Bodyblow^衝撞^혼신의 일격^Charge violente^Body Slam^Quebrantacuerpos
+MST_MONSTER_SKILL_NAME_166810^Body Slam^衝撞^혼신의 일격^Charge violente^Body Slam^Quebrantacuerpos
 MST_MONSTER_SKILL_NAME_166820^Drill Press^鑽頭震動^드릴 드라이브^Frappe foreuse^Bohrattacke^Taladrador
 MST_MONSTER_SKILL_NAME_166830^Rocket Launcher^火箭發射器^로켓탄 발사기^Lanceur de roquettes^Raketenwerfer^Lanzadora
 MST_MONSTER_SKILL_NAME_166840^Machine Gun^機關槍^머신건^Mitrailleuse^Maschinengewehr^Metralleta
@@ -1971,7 +1971,7 @@ MST_MONSTER_SKILL_NAME_167040^Reload^上彈^리로드^Rechargement^Krönung^Apog
 MST_MONSTER_SKILL_NAME_167050^Bomb Blast Barrage^大型轟炸機亂射^빅 봄버 마구 쏘기^Volée de grosses bombes^Sperrfeuer - Großer Bomber^Barrera bombazo
 MST_MONSTER_SKILL_NAME_167060^Fire^火焰^파이어^Feu^Feuer^Piro
 MST_MONSTER_SKILL_NAME_167070^Drill Press^鑽頭震動^드릴 드라이브^Frappe foreuse^Bohrattacke^Taladrador
-MST_MONSTER_SKILL_NAME_167080^Ruby's Tentacle^觸手^촉수^Tentacule^Tentakel^Tentáculo
+MST_MONSTER_SKILL_NAME_167080^Tentacle^觸手^촉수^Tentacule^Tentakel^Tentáculo
 MST_MONSTER_SKILL_NAME_167090^Bite^撲咬^물고 늘어지기^Morsure^Biss^Mordisco
 MST_MONSTER_SKILL_NAME_167100^Drain Tentacle^吸血觸手^드레인 촉수^Tentacule aspirant^Saugtentakel^Tentáculo drenador
 MST_MONSTER_SKILL_NAME_167110^Tonfa^東方棍^톤파^Tonfa^Tonfa^Tonfa
@@ -1986,7 +1986,7 @@ MST_MONSTER_SKILL_NAME_167190^Stonga^大落石^스톤가^Terre X^Steinega^Piedra
 MST_MONSTER_SKILL_NAME_167200^Sweep^橫掃^쓸어버리기^Balayage^Niedermähen^Corte horizontal
 MST_MONSTER_SKILL_NAME_167210^Hack^斬擊^베어내다^Entaille^Aufschlitzen^Rajador
 MST_MONSTER_SKILL_NAME_167220^Weapon Break^潰武^무기 브레이크^Brise-arme^Waffenbrecher^Rompearma
-MST_MONSTER_SKILL_NAME_167230^Ruby's Tentacle^觸手^촉수^Tentacule^Tentakel^Tentáculo
+MST_MONSTER_SKILL_NAME_167230^Tentacle^觸手^촉수^Tentacule^Tentakel^Tentáculo
 MST_MONSTER_SKILL_NAME_167240^Confusing Tentacle^混亂觸手^혼란 촉수^Tentacule-confusion^Verwirrender Tentakel^Tentáculo confundidor
 MST_MONSTER_SKILL_NAME_167250^Vampire^吸血^흡혈^Vampire^Blutsaugen^Chupasangre
 MST_MONSTER_SKILL_NAME_167260^Leech^吸收^흡수^Sangsue^Blutsauger^Sanguijuela
@@ -2038,7 +2038,7 @@ MST_MONSTER_SKILL_NAME_900061^Genesis^起源^제네시스^Genèse^Genesis^Génes
 MST_MONSTER_SKILL_NAME_900062^Genesis^起源^제네시스^Genèse^Genesis^Génesis
 MST_MONSTER_SKILL_NAME_900063^Destiny^命運^데스티니^Destin^Schicksal^Destino
 MST_MONSTER_SKILL_NAME_900064^Resurrection^恢復^리저렉션^Résurrection^Wiederauferstehung^Resurrección
-MST_MONSTER_SKILL_NAME_900065^Meteor^流星^미티어^Météore^Meteo^Meteorito
+MST_MONSTER_SKILL_NAME_900065^Meteorite^流星^미티어^Météore^Meteo^Meteorito
 MST_MONSTER_SKILL_NAME_900066^Endless^永無止境^엔드리스^Infinité^Endlos^Infinito
 MST_MONSTER_SKILL_NAME_900067^Revival^復興^리바이브^Résurrection^Wiederbelebung^Revivir
 MST_MONSTER_SKILL_NAME_900068^Let's dance^來跳舞吧^렛츠 댄스^Que la fête commence ^Lass uns tanzen!^¡A bailar!
@@ -2159,7 +2159,7 @@ MST_MONSTER_SKILL_NAME_168400^Face Slap^摑耳光^따귀^Gifle^Ohrfeige^Tortazo
 MST_MONSTER_SKILL_NAME_168410^Ink Squirt^液體噴濺^침 뱉기^Éclat d'encre^Tintenstrahl^Chorro de tinta
 MST_MONSTER_SKILL_NAME_168420^Ray of Light^光線^광선^Rayon de lumière^Lichtstrahl^Rayo de luz
 MST_MONSTER_SKILL_NAME_168430^Stone Throw^投石^돌팔매^Jet de pierre^Steinwurf^Pedrada
-MST_MONSTER_SKILL_NAME_168440^Bound^飛撲^뛰어들기^Lien^Herumspringen^Atado
+MST_MONSTER_SKILL_NAME_168440^Binder^飛撲^뛰어들기^Lien^Herumspringen^Atado
 MST_MONSTER_SKILL_NAME_168450^Horn of Weakness^弱化角笛^약자의 뿔피리^Corne affaiblissante^Horn der Schwäche^Cuerno debilitador
 MST_MONSTER_SKILL_NAME_168460^Black Thorn^黑刺棘^검은 가시^Épine noire^Schwarzdorn^Espina negra
 MST_MONSTER_SKILL_NAME_168470^Skewer^穿刺^꼬챙이^Embrocher^Spieß^Pincho moruno
@@ -2180,11 +2180,11 @@ MST_MONSTER_SKILL_NAME_168610^Spider's Net^蜘蛛網^거미줄^Toile d'araignée
 MST_MONSTER_SKILL_NAME_168620^Ball of Lightning^雷球^번개탄^Boule de foudre^Blitzball^Bola centelleante
 MST_MONSTER_SKILL_NAME_168630^Electrical Discharge^放電^방전^Décharge électrique^Elektrische Entladung^Descarga eléctrica
 MST_MONSTER_SKILL_NAME_168640^Electrical Discharge^放電^방전^Décharge électrique^Elektrische Entladung^Descarga eléctrica
-MST_MONSTER_SKILL_NAME_168650^Bound^飛撲^뛰어들기^Lien^Herumspringen^Atado
+MST_MONSTER_SKILL_NAME_168650^Binder^飛撲^뛰어들기^Lien^Herumspringen^Atado
 MST_MONSTER_SKILL_NAME_168660^Thunder Swing^雷霆震蕩^번개의 그네^Coup électrique^Donnerschwung^Golpe trueno
 MST_MONSTER_SKILL_NAME_168670^Spider's Net^蜘蛛網^거미줄^Toile d'araignée^Spinnennetz^Telaraña
 MST_MONSTER_SKILL_NAME_168680^Ball of Lightning^雷球^번개탄^Boule de foudre^Blitzball^Bola centelleante
-MST_MONSTER_SKILL_NAME_168690^Bound^飛撲^뛰어들기^Lien^Herumspringen^Atado
+MST_MONSTER_SKILL_NAME_168690^Binder^飛撲^뛰어들기^Lien^Herumspringen^Atado
 MST_MONSTER_SKILL_NAME_168700^Thunder Swing^雷霆震蕩^번개의 그네^Coup électrique^Donnerschwung^Golpe trueno
 MST_MONSTER_SKILL_NAME_168710^Electrical Discharge^放電^거미줄^Décharge électrique^Elektrische Entladung^Descarga eléctrica
 MST_MONSTER_SKILL_NAME_168720^Thunder Swing^雷霆震蕩^번개탄^Coup électrique^Donnerschwung^Golpe trueno
@@ -2201,7 +2201,7 @@ MST_MONSTER_SKILL_NAME_168820^Berserk Mode^狂暴^광폭화^Berserk^Berserker-Mo
 MST_MONSTER_SKILL_NAME_168830^Beard Attack^鬍鬚攻擊^수염 공격^Barbattaque^Widerhakenangriff^Barbataque
 MST_MONSTER_SKILL_NAME_168840^The beard is glowing^鬍鬚正在發光^수염이 빛나고 있다^La barbe brille^Glühender Widerhaken^Brilla la barba
 MST_MONSTER_SKILL_NAME_168850^Steady Beard Attack^沉著鬍鬚攻擊^앉아서 수염 공격^Barbattaque solide^Stetiger Widerhakenangriff^Barbataque fijo
-MST_MONSTER_SKILL_NAME_168860^Bound^飛撲^뛰어들기^Lien^Herumspringen^Atado
+MST_MONSTER_SKILL_NAME_168860^Binder^飛撲^뛰어들기^Lien^Herumspringen^Atado
 MST_MONSTER_SKILL_NAME_168870^Lightning's Howl^雷之咆哮^전격 포효^Hurlement foudroyant^Lightnings Heulen^Aullido lumínico
 MST_MONSTER_SKILL_NAME_168880^Skewer^穿刺^꼬챙이^Embrocher^Spieß^Pincho moruno
 MST_MONSTER_SKILL_NAME_168890^Coin Throw^丟錢^동전 던지기^Jet de pièces^Münzwurf^Arrojamonedas
@@ -2228,7 +2228,7 @@ MST_MONSTER_SKILL_NAME_169090^Mucus^黏液^점액^Mucus^Schleim^Mucosidad
 MST_MONSTER_SKILL_NAME_169100^Sweet Scent^香甜氣息^달콤한 향기^Doux arôme^Süßer Duft^Dulce aroma
 MST_MONSTER_SKILL_NAME_169110^Flower's Nectar^花蜜^꿀^Nectar de fleur^Blumennektar^Néctar de flor
 MST_MONSTER_SKILL_NAME_169120^Crash^衝撞^몸통 박치기^Collision^Rammen^Placaje
-MST_MONSTER_SKILL_NAME_169130^Gaze^凝視^응시하기^Mauvais œil^Böser Blick^Mirada fija
+MST_MONSTER_SKILL_NAME_169130^Gaze Upon^凝視^응시하기^Mauvais œil^Böser Blick^Mirada fija
 MST_MONSTER_SKILL_NAME_169140^Gulp^大口吞^삼키기^Engloutir^Schluck^Engullir
 MST_MONSTER_SKILL_NAME_169150^Dive^急速下降^급강하^Plongeon en piquet^Sturzflug^Caída en picado
 MST_MONSTER_SKILL_NAME_169160^Cursed Sword^詛咒之劍^저주받은 검^Épée maudite^Verfluchtes Schwert^Espada maldita
@@ -2251,8 +2251,8 @@ MST_MONSTER_SKILL_NAME_169610^Anger Rush^好煩好煩^울컥울컥하다^Montée
 MST_MONSTER_SKILL_NAME_169620^Chew Up^大口啃咬^통째로 베어먹기^Mastication^Zerkleinern^Mascar
 MST_MONSTER_SKILL_NAME_169630^Aqua Breath^流水吐息^아쿠아 숨결^Souffle d'eau^Wasseratem^Aliento de agua
 MST_MONSTER_SKILL_NAME_169640^Cold Breath^寒冷吐息^추위의 숨결^Souffle gelé^Kalter Atem^Hálito frío
-MST_MONSTER_SKILL_NAME_169650^<na>^火焰吐息^파이어 숨결^<na>^<na>^<na>
-MST_MONSTER_SKILL_NAME_169660^Thunderbolt^閃電^천둥번개^Électrodécharge^Blitzschlag^Electrodescarga
+MST_MONSTER_SKILL_NAME_169650^Fire Breath^火焰吐息^파이어 숨결^<na>^<na>^<na>
+MST_MONSTER_SKILL_NAME_169660^Flash of Lightning^閃電^천둥번개^Électrodécharge^Blitzschlag^Electrodescarga
 MST_MONSTER_SKILL_NAME_169670^Roar^咆哮^포효^Intimidation^Gebrüll^Rugido
 MST_MONSTER_SKILL_NAME_169680^Poison Breath^劇毒吐息^맹독 숨결^Souffle toxique^Giftatem^Aliento tóxico
 MST_MONSTER_SKILL_NAME_169690^Strong Claw^強烈爪擊^강렬한 손톱^Griffe puissante^Starke Kralle^Garra poderosa
@@ -2306,7 +2306,7 @@ MST_MONSTER_SKILL_NAME_170160^Hit^毆打^때리기^Coup^Treffer^Golpe
 MST_MONSTER_SKILL_NAME_170170^Hit^毆打^때리기^Coup^Treffer^Golpe
 MST_MONSTER_SKILL_NAME_170180^Blizzara^中暴雪^블리자라^Glace +^Eisra^Hielo+
 MST_MONSTER_SKILL_NAME_170190^Cure^療傷^케알^Soin^Vita^Cura
-MST_MONSTER_SKILL_NAME_170200^Thunder Slash^雷鳴劍^뇌명검^Foudrolle^Donnerhieb^Sable eléctrico
+MST_MONSTER_SKILL_NAME_170200^Lightning Slash^雷鳴劍^뇌명검^Foudrolle^Donnerhieb^Sable eléctrico
 MST_MONSTER_SKILL_NAME_170210^Meteor power has been removed^隕石之力解除了^메테오 파워가 해제되었다^Le pouvoir du météore a été retiré^Meteorkraft wurde entfernt^El poder de meteo se ha eliminado
 MST_MONSTER_SKILL_NAME_170220^Flare power has been removed^核爆之力解除了^플레어 파워가 해제되었다^Le pouvoir du brasier a été retiré^Flammenkarft wurde entfernt^El poder del fulgor se ha eliminado
 MST_MONSTER_SKILL_NAME_170230^Shock^激震^충격타^Choc^Schock^Impacto
@@ -2387,7 +2387,7 @@ MST_MONSTER_SKILL_NAME_170970^Bone Rush^骸骨連擊^본 러쉬^Prise osseuse^Kn
 MST_MONSTER_SKILL_NAME_170980^Bone Drake's Claw^死龍之爪^사룡의 발톱^Griffe de dragon-squelette^Kralle des Knochendrachen^Garra de pato óseo
 MST_MONSTER_SKILL_NAME_170990^Bone Drake's Struggle^死龍踐踏^사룡의 발버둥^Lutte de dragon-squelette^Ringen des Knochendrachen^Pelea de pato óseo
 MST_MONSTER_SKILL_NAME_171000^Crunch Up^咬碎^씹어 으깨기^Croquer tout cru^Zerknirschen^Trocear
-MST_MONSTER_SKILL_NAME_171010^Poison Fang^猛毒之牙^맹독 송곳니^Croc venimeux^Giftfang^Garra venenosa
+MST_MONSTER_SKILL_NAME_171010^Poison Fangs^猛毒之牙^맹독 송곳니^Croc venimeux^Giftfang^Garra venenosa
 MST_MONSTER_SKILL_NAME_171020^Paralyzing Fang^麻痺之牙^마비 송곳니^Croc paralysant^Betäubender Fang^Colmillo paralizante
 MST_MONSTER_SKILL_NAME_171030^Stone Fang^石化之牙^석화 송곳니^Croc pétrifiant^Steinfang^Colmillo pétreo
 MST_MONSTER_SKILL_NAME_171040^Pistol Shot^撞飛^튕겨내기^Tir de pistolet^Pistolenschuss^Disparo
@@ -2577,1099 +2577,1099 @@ MST_MONSTER_SKILL_NAME_900105^Dream Stealer^盜夢者^꿈도둑^Volrêve^Traumdi
 MST_MONSTER_SKILL_NAME_900106^Accursed Flames^詛咒之炎^저주의 화염^Flammes maudites^Verfluchte Flammen^Llamas malditas
 MST_MONSTER_SKILL_NAME_900107^Hailfire^火雨^누리불^Grêlon ardent^Hagelfeuer^Granizo igneo
 MST_MONSTER_SKILL_NAME_900108^Horror^恐懼^호러^Terreur^Horror^Horror
-MST_MONSTER_SKILL_NAME_900109^Soul Siphon^吸魂^영혼 흡수^Siphon spectral^Seelensiphon^Succión de alma
+MST_MONSTER_SKILL_NAME_900109^Soul Siphon^吸魂^영혼 흡수^Siphon spectral^Seelensiphon^Succión de alma
 MST_MONSTER_SKILL_NAME_900110^Eternal Torment^無盡苦痛^끊임없는 고통^Tourment éternel^Ewige Pein^Tormento eterno
 MST_MONSTER_SKILL_NAME_900111^Shadow Storm^暗影風暴^그림자 폭풍^Tempête obscure^Schattensturm^Tormenta sombría
 MST_MONSTER_SKILL_NAME_900112^Death Declaration^餘命宣告^죽음의 명령^Peine de mort^Todeserklärung^Pena de muerte
 MST_MONSTER_SKILL_NAME_900113^Dream Stealer^盜夢者^꿈도둑^Volrêve^Traumdieb^Ladrón de sueños
 MST_MONSTER_SKILL_NAME_900114^Accursed Flames^詛咒之炎^저주의 화염^Flammes maudites^Verfluchte Flammen^Llamas malditas
 MST_MONSTER_SKILL_NAME_900115^Hailfire^火雨^누리불^Grêlon ardent^Hagelfeuer^Granizo igneo
-MST_MONSTER_SKILL_NAME_172520^^^^^^
-MST_MONSTER_SKILL_NAME_172530^^^^^^
-MST_MONSTER_SKILL_NAME_172540^^^^^^
-MST_MONSTER_SKILL_NAME_172550^^^^^^
-MST_MONSTER_SKILL_NAME_172560^^^^^^
-MST_MONSTER_SKILL_NAME_172570^^^^^^
-MST_MONSTER_SKILL_NAME_172580^^^^^^
-MST_MONSTER_SKILL_NAME_172590^^^^^^
-MST_MONSTER_SKILL_NAME_172600^^^^^^
-MST_MONSTER_SKILL_NAME_172610^^^^^^
-MST_MONSTER_SKILL_NAME_172620^^^^^^
-MST_MONSTER_SKILL_NAME_172630^^^^^^
-MST_MONSTER_SKILL_NAME_172640^^^^^^
-MST_MONSTER_SKILL_NAME_172650^^^^^^
-MST_MONSTER_SKILL_NAME_172660^^^^^^
-MST_MONSTER_SKILL_NAME_172670^^^^^^
-MST_MONSTER_SKILL_NAME_172680^^^^^^
-MST_MONSTER_SKILL_NAME_172690^^^^^^
-MST_MONSTER_SKILL_NAME_172700^^^^^^
-MST_MONSTER_SKILL_NAME_172710^^^^^^
-MST_MONSTER_SKILL_NAME_172720^^^^^^
-MST_MONSTER_SKILL_NAME_172730^^^^^^
-MST_MONSTER_SKILL_NAME_172740^^^^^^
-MST_MONSTER_SKILL_NAME_172750^^^^^^
-MST_MONSTER_SKILL_NAME_172760^^^^^^
-MST_MONSTER_SKILL_NAME_172770^^^^^^
-MST_MONSTER_SKILL_NAME_172780^^^^^^
-MST_MONSTER_SKILL_NAME_172790^^^^^^
-MST_MONSTER_SKILL_NAME_172800^^^^^^
-MST_MONSTER_SKILL_NAME_172810^^^^^^
-MST_MONSTER_SKILL_NAME_172820^^^^^^
-MST_MONSTER_SKILL_NAME_172830^^^^^^
-MST_MONSTER_SKILL_NAME_172840^^^^^^
-MST_MONSTER_SKILL_NAME_172850^^^^^^
-MST_MONSTER_SKILL_NAME_172860^^^^^^
-MST_MONSTER_SKILL_NAME_172870^^^^^^
-MST_MONSTER_SKILL_NAME_172880^^^^^^
-MST_MONSTER_SKILL_NAME_172890^^^^^^
-MST_MONSTER_SKILL_NAME_172900^^^^^^
-MST_MONSTER_SKILL_NAME_172910^^^^^^
-MST_MONSTER_SKILL_NAME_172920^^^^^^
-MST_MONSTER_SKILL_NAME_172930^^^^^^
-MST_MONSTER_SKILL_NAME_172940^^^^^^
-MST_MONSTER_SKILL_NAME_172950^^^^^^
-MST_MONSTER_SKILL_NAME_172960^^^^^^
-MST_MONSTER_SKILL_NAME_172970^^^^^^
-MST_MONSTER_SKILL_NAME_172980^^^^^^
-MST_MONSTER_SKILL_NAME_172990^^^^^^
-MST_MONSTER_SKILL_NAME_173000^^^^^^
-MST_MONSTER_SKILL_NAME_173010^^^^^^
-MST_MONSTER_SKILL_NAME_173020^^^^^^
-MST_MONSTER_SKILL_NAME_173030^^^^^^
-MST_MONSTER_SKILL_NAME_173040^^^^^^
-MST_MONSTER_SKILL_NAME_173050^^^^^^
-MST_MONSTER_SKILL_NAME_173060^^^^^^
-MST_MONSTER_SKILL_NAME_173070^^^^^^
-MST_MONSTER_SKILL_NAME_173080^^^^^^
-MST_MONSTER_SKILL_NAME_173090^^^^^^
-MST_MONSTER_SKILL_NAME_173100^^^^^^
-MST_MONSTER_SKILL_NAME_173110^^^^^^
-MST_MONSTER_SKILL_NAME_173120^^^^^^
-MST_MONSTER_SKILL_NAME_173130^^^^^^
-MST_MONSTER_SKILL_NAME_173140^^^^^^
-MST_MONSTER_SKILL_NAME_173150^^^^^^
-MST_MONSTER_SKILL_NAME_173160^^^^^^
-MST_MONSTER_SKILL_NAME_173170^^^^^^
-MST_MONSTER_SKILL_NAME_173180^^^^^^
-MST_MONSTER_SKILL_NAME_173190^^^^^^
-MST_MONSTER_SKILL_NAME_173200^^^^^^
-MST_MONSTER_SKILL_NAME_173210^^^^^^
-MST_MONSTER_SKILL_NAME_173220^^^^^^
-MST_MONSTER_SKILL_NAME_173230^^^^^^
-MST_MONSTER_SKILL_NAME_173240^^^^^^
-MST_MONSTER_SKILL_NAME_173250^^^^^^
-MST_MONSTER_SKILL_NAME_173260^^^^^^
-MST_MONSTER_SKILL_NAME_173270^^^^^^
-MST_MONSTER_SKILL_NAME_173280^^^^^^
-MST_MONSTER_SKILL_NAME_173290^^^^^^
-MST_MONSTER_SKILL_NAME_173300^^^^^^
-MST_MONSTER_SKILL_NAME_173310^^^^^^
-MST_MONSTER_SKILL_NAME_173320^^^^^^
-MST_MONSTER_SKILL_NAME_173330^^^^^^
-MST_MONSTER_SKILL_NAME_173340^^^^^^
-MST_MONSTER_SKILL_NAME_173350^^^^^^
-MST_MONSTER_SKILL_NAME_173360^^^^^^
-MST_MONSTER_SKILL_NAME_173370^^^^^^
-MST_MONSTER_SKILL_NAME_173380^^^^^^
-MST_MONSTER_SKILL_NAME_173390^^^^^^
-MST_MONSTER_SKILL_NAME_173400^^^^^^
-MST_MONSTER_SKILL_NAME_173410^^^^^^
-MST_MONSTER_SKILL_NAME_173420^^^^^^
-MST_MONSTER_SKILL_NAME_173430^^^^^^
-MST_MONSTER_SKILL_NAME_173440^^^^^^
-MST_MONSTER_SKILL_NAME_173450^^^^^^
-MST_MONSTER_SKILL_NAME_173460^^^^^^
-MST_MONSTER_SKILL_NAME_173470^^^^^^
-MST_MONSTER_SKILL_NAME_173480^^^^^^
-MST_MONSTER_SKILL_NAME_173490^^^^^^
-MST_MONSTER_SKILL_NAME_173500^^^^^^
-MST_MONSTER_SKILL_NAME_173510^^^^^^
-MST_MONSTER_SKILL_NAME_173520^^^^^^
-MST_MONSTER_SKILL_NAME_173530^^^^^^
-MST_MONSTER_SKILL_NAME_173540^^^^^^
-MST_MONSTER_SKILL_NAME_173550^^^^^^
-MST_MONSTER_SKILL_NAME_173560^^^^^^
-MST_MONSTER_SKILL_NAME_173570^^^^^^
-MST_MONSTER_SKILL_NAME_173580^^^^^^
-MST_MONSTER_SKILL_NAME_173590^^^^^^
-MST_MONSTER_SKILL_NAME_173600^^^^^^
-MST_MONSTER_SKILL_NAME_173610^^^^^^
-MST_MONSTER_SKILL_NAME_173620^^^^^^
-MST_MONSTER_SKILL_NAME_173630^^^^^^
-MST_MONSTER_SKILL_NAME_173640^^^^^^
-MST_MONSTER_SKILL_NAME_173650^^^^^^
-MST_MONSTER_SKILL_NAME_173660^^^^^^
-MST_MONSTER_SKILL_NAME_173670^^^^^^
-MST_MONSTER_SKILL_NAME_173680^^^^^^
-MST_MONSTER_SKILL_NAME_173690^^^^^^
-MST_MONSTER_SKILL_NAME_173700^^^^^^
-MST_MONSTER_SKILL_NAME_173710^^^^^^
-MST_MONSTER_SKILL_NAME_173720^^^^^^
-MST_MONSTER_SKILL_NAME_173730^^^^^^
-MST_MONSTER_SKILL_NAME_173740^^^^^^
-MST_MONSTER_SKILL_NAME_173750^^^^^^
-MST_MONSTER_SKILL_NAME_173760^^^^^^
-MST_MONSTER_SKILL_NAME_173770^^^^^^
-MST_MONSTER_SKILL_NAME_173780^^^^^^
-MST_MONSTER_SKILL_NAME_173790^^^^^^
-MST_MONSTER_SKILL_NAME_173800^^^^^^
-MST_MONSTER_SKILL_NAME_173810^^^^^^
-MST_MONSTER_SKILL_NAME_173820^^^^^^
-MST_MONSTER_SKILL_NAME_173830^^^^^^
-MST_MONSTER_SKILL_NAME_173840^^^^^^
-MST_MONSTER_SKILL_NAME_173850^^^^^^
-MST_MONSTER_SKILL_NAME_173860^^^^^^
-MST_MONSTER_SKILL_NAME_173870^^^^^^
-MST_MONSTER_SKILL_NAME_173880^^^^^^
-MST_MONSTER_SKILL_NAME_173890^^^^^^
-MST_MONSTER_SKILL_NAME_173900^^^^^^
-MST_MONSTER_SKILL_NAME_173910^^^^^^
-MST_MONSTER_SKILL_NAME_173920^^^^^^
-MST_MONSTER_SKILL_NAME_173930^^^^^^
-MST_MONSTER_SKILL_NAME_173940^^^^^^
-MST_MONSTER_SKILL_NAME_173950^^^^^^
-MST_MONSTER_SKILL_NAME_173960^^^^^^
-MST_MONSTER_SKILL_NAME_173970^^^^^^
-MST_MONSTER_SKILL_NAME_173980^^^^^^
-MST_MONSTER_SKILL_NAME_173990^^^^^^
-MST_MONSTER_SKILL_NAME_174000^^^^^^
-MST_MONSTER_SKILL_NAME_174010^^^^^^
-MST_MONSTER_SKILL_NAME_174020^^^^^^
-MST_MONSTER_SKILL_NAME_174030^^^^^^
-MST_MONSTER_SKILL_NAME_174040^^^^^^
-MST_MONSTER_SKILL_NAME_174050^^^^^^
-MST_MONSTER_SKILL_NAME_174060^^^^^^
-MST_MONSTER_SKILL_NAME_174070^^^^^^
-MST_MONSTER_SKILL_NAME_174080^^^^^^
-MST_MONSTER_SKILL_NAME_174090^^^^^^
-MST_MONSTER_SKILL_NAME_174100^^^^^^
-MST_MONSTER_SKILL_NAME_174110^^^^^^
-MST_MONSTER_SKILL_NAME_174120^^^^^^
-MST_MONSTER_SKILL_NAME_174130^^^^^^
-MST_MONSTER_SKILL_NAME_174140^^^^^^
-MST_MONSTER_SKILL_NAME_174150^^^^^^
-MST_MONSTER_SKILL_NAME_174160^^^^^^
-MST_MONSTER_SKILL_NAME_174170^^^^^^
-MST_MONSTER_SKILL_NAME_174180^^^^^^
-MST_MONSTER_SKILL_NAME_174190^^^^^^
-MST_MONSTER_SKILL_NAME_174200^^^^^^
-MST_MONSTER_SKILL_NAME_174210^^^^^^
-MST_MONSTER_SKILL_NAME_174220^^^^^^
-MST_MONSTER_SKILL_NAME_174230^^^^^^
-MST_MONSTER_SKILL_NAME_174240^^^^^^
-MST_MONSTER_SKILL_NAME_174250^^^^^^
-MST_MONSTER_SKILL_NAME_174260^^^^^^
-MST_MONSTER_SKILL_NAME_174270^^^^^^
-MST_MONSTER_SKILL_NAME_174280^^^^^^
-MST_MONSTER_SKILL_NAME_174290^^^^^^
-MST_MONSTER_SKILL_NAME_174300^^^^^^
-MST_MONSTER_SKILL_NAME_174310^^^^^^
-MST_MONSTER_SKILL_NAME_174320^^^^^^
-MST_MONSTER_SKILL_NAME_174330^^^^^^
-MST_MONSTER_SKILL_NAME_174340^^^^^^
-MST_MONSTER_SKILL_NAME_174350^^^^^^
-MST_MONSTER_SKILL_NAME_174360^^^^^^
-MST_MONSTER_SKILL_NAME_174370^^^^^^
-MST_MONSTER_SKILL_NAME_174380^^^^^^
-MST_MONSTER_SKILL_NAME_174390^^^^^^
-MST_MONSTER_SKILL_NAME_174400^^^^^^
-MST_MONSTER_SKILL_NAME_174410^^^^^^
-MST_MONSTER_SKILL_NAME_174420^^^^^^
-MST_MONSTER_SKILL_NAME_174430^^^^^^
-MST_MONSTER_SKILL_NAME_174440^^^^^^
-MST_MONSTER_SKILL_NAME_174450^^^^^^
-MST_MONSTER_SKILL_NAME_174460^^^^^^
-MST_MONSTER_SKILL_NAME_174470^^^^^^
-MST_MONSTER_SKILL_NAME_174480^^^^^^
-MST_MONSTER_SKILL_NAME_174490^^^^^^
-MST_MONSTER_SKILL_NAME_174500^^^^^^
-MST_MONSTER_SKILL_NAME_174510^^^^^^
-MST_MONSTER_SKILL_NAME_174520^^^^^^
-MST_MONSTER_SKILL_NAME_174530^^^^^^
-MST_MONSTER_SKILL_NAME_174540^^^^^^
-MST_MONSTER_SKILL_NAME_174550^^^^^^
-MST_MONSTER_SKILL_NAME_174560^^^^^^
-MST_MONSTER_SKILL_NAME_174570^^^^^^
-MST_MONSTER_SKILL_NAME_174580^^^^^^
-MST_MONSTER_SKILL_NAME_174590^^^^^^
-MST_MONSTER_SKILL_NAME_174600^^^^^^
-MST_MONSTER_SKILL_NAME_174610^^^^^^
-MST_MONSTER_SKILL_NAME_174620^^^^^^
-MST_MONSTER_SKILL_NAME_174630^^^^^^
-MST_MONSTER_SKILL_NAME_174640^^^^^^
-MST_MONSTER_SKILL_NAME_174650^^^^^^
-MST_MONSTER_SKILL_NAME_174660^^^^^^
-MST_MONSTER_SKILL_NAME_174670^^^^^^
-MST_MONSTER_SKILL_NAME_174680^^^^^^
-MST_MONSTER_SKILL_NAME_174690^^^^^^
-MST_MONSTER_SKILL_NAME_174700^^^^^^
-MST_MONSTER_SKILL_NAME_174710^^^^^^
-MST_MONSTER_SKILL_NAME_174720^^^^^^
-MST_MONSTER_SKILL_NAME_174730^^^^^^
-MST_MONSTER_SKILL_NAME_174740^^^^^^
-MST_MONSTER_SKILL_NAME_174750^^^^^^
-MST_MONSTER_SKILL_NAME_174760^^^^^^
-MST_MONSTER_SKILL_NAME_174770^^^^^^
-MST_MONSTER_SKILL_NAME_174780^^^^^^
-MST_MONSTER_SKILL_NAME_174790^^^^^^
-MST_MONSTER_SKILL_NAME_174800^^^^^^
-MST_MONSTER_SKILL_NAME_174810^^^^^^
-MST_MONSTER_SKILL_NAME_174820^^^^^^
-MST_MONSTER_SKILL_NAME_174830^^^^^^
-MST_MONSTER_SKILL_NAME_174840^^^^^^
-MST_MONSTER_SKILL_NAME_174850^^^^^^
-MST_MONSTER_SKILL_NAME_174860^^^^^^
-MST_MONSTER_SKILL_NAME_174870^^^^^^
-MST_MONSTER_SKILL_NAME_174880^^^^^^
-MST_MONSTER_SKILL_NAME_174890^^^^^^
-MST_MONSTER_SKILL_NAME_174900^^^^^^
-MST_MONSTER_SKILL_NAME_174910^^^^^^
-MST_MONSTER_SKILL_NAME_174920^^^^^^
-MST_MONSTER_SKILL_NAME_174930^^^^^^
-MST_MONSTER_SKILL_NAME_174940^^^^^^
-MST_MONSTER_SKILL_NAME_174950^^^^^^
-MST_MONSTER_SKILL_NAME_174960^^^^^^
-MST_MONSTER_SKILL_NAME_174970^^^^^^
-MST_MONSTER_SKILL_NAME_174971^^^^^^
-MST_MONSTER_SKILL_NAME_174980^^^^^^
-MST_MONSTER_SKILL_NAME_174990^^^^^^
-MST_MONSTER_SKILL_NAME_175000^^^^^^
-MST_MONSTER_SKILL_NAME_175010^^^^^^
-MST_MONSTER_SKILL_NAME_175020^^^^^^
-MST_MONSTER_SKILL_NAME_175030^^^^^^
-MST_MONSTER_SKILL_NAME_175040^^^^^^
-MST_MONSTER_SKILL_NAME_175050^^^^^^
-MST_MONSTER_SKILL_NAME_175060^^^^^^
-MST_MONSTER_SKILL_NAME_175070^^^^^^
-MST_MONSTER_SKILL_NAME_175080^^^^^^
-MST_MONSTER_SKILL_NAME_175090^^^^^^
-MST_MONSTER_SKILL_NAME_175100^^^^^^
-MST_MONSTER_SKILL_NAME_175110^^^^^^
-MST_MONSTER_SKILL_NAME_175120^^^^^^
-MST_MONSTER_SKILL_NAME_175130^^^^^^
-MST_MONSTER_SKILL_NAME_175140^^^^^^
-MST_MONSTER_SKILL_NAME_175150^^^^^^
-MST_MONSTER_SKILL_NAME_175160^^^^^^
-MST_MONSTER_SKILL_NAME_175170^^^^^^
-MST_MONSTER_SKILL_NAME_175180^^^^^^
-MST_MONSTER_SKILL_NAME_175190^^^^^^
-MST_MONSTER_SKILL_NAME_175200^^^^^^
-MST_MONSTER_SKILL_NAME_175210^^^^^^
-MST_MONSTER_SKILL_NAME_175220^^^^^^
-MST_MONSTER_SKILL_NAME_175230^^^^^^
-MST_MONSTER_SKILL_NAME_175240^^^^^^
-MST_MONSTER_SKILL_NAME_175250^^^^^^
-MST_MONSTER_SKILL_NAME_175260^^^^^^
-MST_MONSTER_SKILL_NAME_175270^^^^^^
-MST_MONSTER_SKILL_NAME_175280^^^^^^
-MST_MONSTER_SKILL_NAME_175290^^^^^^
-MST_MONSTER_SKILL_NAME_175300^^^^^^
-MST_MONSTER_SKILL_NAME_175310^^^^^^
-MST_MONSTER_SKILL_NAME_175320^^^^^^
-MST_MONSTER_SKILL_NAME_175330^^^^^^
-MST_MONSTER_SKILL_NAME_175340^^^^^^
-MST_MONSTER_SKILL_NAME_175350^^^^^^
-MST_MONSTER_SKILL_NAME_175360^^^^^^
-MST_MONSTER_SKILL_NAME_175370^^^^^^
-MST_MONSTER_SKILL_NAME_175380^^^^^^
-MST_MONSTER_SKILL_NAME_175390^^^^^^
-MST_MONSTER_SKILL_NAME_175400^^^^^^
-MST_MONSTER_SKILL_NAME_175410^^^^^^
-MST_MONSTER_SKILL_NAME_175420^^^^^^
-MST_MONSTER_SKILL_NAME_175430^^^^^^
-MST_MONSTER_SKILL_NAME_175440^^^^^^
-MST_MONSTER_SKILL_NAME_175450^^^^^^
-MST_MONSTER_SKILL_NAME_175460^^^^^^
-MST_MONSTER_SKILL_NAME_175470^^^^^^
-MST_MONSTER_SKILL_NAME_175480^^^^^^
-MST_MONSTER_SKILL_NAME_175490^^^^^^
-MST_MONSTER_SKILL_NAME_175500^^^^^^
-MST_MONSTER_SKILL_NAME_175510^^^^^^
-MST_MONSTER_SKILL_NAME_175520^^^^^^
-MST_MONSTER_SKILL_NAME_175530^^^^^^
-MST_MONSTER_SKILL_NAME_175540^^^^^^
-MST_MONSTER_SKILL_NAME_175550^^^^^^
-MST_MONSTER_SKILL_NAME_175560^^^^^^
-MST_MONSTER_SKILL_NAME_175570^^^^^^
-MST_MONSTER_SKILL_NAME_175580^^^^^^
-MST_MONSTER_SKILL_NAME_175590^^^^^^
-MST_MONSTER_SKILL_NAME_175600^^^^^^
-MST_MONSTER_SKILL_NAME_175610^^^^^^
-MST_MONSTER_SKILL_NAME_175620^^^^^^
-MST_MONSTER_SKILL_NAME_175630^^^^^^
-MST_MONSTER_SKILL_NAME_175640^^^^^^
-MST_MONSTER_SKILL_NAME_175650^^^^^^
-MST_MONSTER_SKILL_NAME_175660^^^^^^
-MST_MONSTER_SKILL_NAME_175670^^^^^^
-MST_MONSTER_SKILL_NAME_175680^^^^^^
-MST_MONSTER_SKILL_NAME_175690^^^^^^
-MST_MONSTER_SKILL_NAME_175700^^^^^^
-MST_MONSTER_SKILL_NAME_175710^^^^^^
-MST_MONSTER_SKILL_NAME_175720^^^^^^
-MST_MONSTER_SKILL_NAME_175730^^^^^^
-MST_MONSTER_SKILL_NAME_175740^^^^^^
-MST_MONSTER_SKILL_NAME_175750^^^^^^
-MST_MONSTER_SKILL_NAME_175760^^^^^^
-MST_MONSTER_SKILL_NAME_175770^^^^^^
-MST_MONSTER_SKILL_NAME_175780^^^^^^
-MST_MONSTER_SKILL_NAME_175790^^^^^^
-MST_MONSTER_SKILL_NAME_175800^^^^^^
-MST_MONSTER_SKILL_NAME_175810^^^^^^
-MST_MONSTER_SKILL_NAME_175820^^^^^^
-MST_MONSTER_SKILL_NAME_175830^^^^^^
-MST_MONSTER_SKILL_NAME_175840^^^^^^
-MST_MONSTER_SKILL_NAME_175850^^^^^^
-MST_MONSTER_SKILL_NAME_175860^^^^^^
-MST_MONSTER_SKILL_NAME_175870^^^^^^
-MST_MONSTER_SKILL_NAME_175880^^^^^^
-MST_MONSTER_SKILL_NAME_175890^^^^^^
-MST_MONSTER_SKILL_NAME_175900^^^^^^
-MST_MONSTER_SKILL_NAME_175910^^^^^^
-MST_MONSTER_SKILL_NAME_175920^^^^^^
-MST_MONSTER_SKILL_NAME_175930^^^^^^
-MST_MONSTER_SKILL_NAME_175940^^^^^^
-MST_MONSTER_SKILL_NAME_175950^^^^^^
-MST_MONSTER_SKILL_NAME_175960^^^^^^
-MST_MONSTER_SKILL_NAME_175970^^^^^^
-MST_MONSTER_SKILL_NAME_175980^^^^^^
-MST_MONSTER_SKILL_NAME_175990^^^^^^
-MST_MONSTER_SKILL_NAME_176000^^^^^^
-MST_MONSTER_SKILL_NAME_176010^^^^^^
-MST_MONSTER_SKILL_NAME_176020^^^^^^
-MST_MONSTER_SKILL_NAME_176030^^^^^^
-MST_MONSTER_SKILL_NAME_176040^^^^^^
-MST_MONSTER_SKILL_NAME_176050^^^^^^
-MST_MONSTER_SKILL_NAME_176060^^^^^^
-MST_MONSTER_SKILL_NAME_176070^^^^^^
-MST_MONSTER_SKILL_NAME_176080^^^^^^
-MST_MONSTER_SKILL_NAME_176090^^^^^^
-MST_MONSTER_SKILL_NAME_176100^^^^^^
-MST_MONSTER_SKILL_NAME_176110^^^^^^
-MST_MONSTER_SKILL_NAME_176120^^^^^^
-MST_MONSTER_SKILL_NAME_176130^^^^^^
-MST_MONSTER_SKILL_NAME_176140^^^^^^
-MST_MONSTER_SKILL_NAME_176150^^^^^^
-MST_MONSTER_SKILL_NAME_176160^^^^^^
-MST_MONSTER_SKILL_NAME_176170^^^^^^
-MST_MONSTER_SKILL_NAME_176180^^^^^^
-MST_MONSTER_SKILL_NAME_176190^^^^^^
-MST_MONSTER_SKILL_NAME_176200^^^^^^
-MST_MONSTER_SKILL_NAME_176210^^^^^^
-MST_MONSTER_SKILL_NAME_176220^^^^^^
-MST_MONSTER_SKILL_NAME_176230^^^^^^
-MST_MONSTER_SKILL_NAME_176240^^^^^^
-MST_MONSTER_SKILL_NAME_176250^^^^^^
-MST_MONSTER_SKILL_NAME_176260^^^^^^
-MST_MONSTER_SKILL_NAME_176270^^^^^^
-MST_MONSTER_SKILL_NAME_176280^^^^^^
-MST_MONSTER_SKILL_NAME_176290^^^^^^
-MST_MONSTER_SKILL_NAME_176300^^^^^^
-MST_MONSTER_SKILL_NAME_176310^^^^^^
-MST_MONSTER_SKILL_NAME_176320^^^^^^
-MST_MONSTER_SKILL_NAME_176330^^^^^^
-MST_MONSTER_SKILL_NAME_176340^^^^^^
-MST_MONSTER_SKILL_NAME_176350^^^^^^
-MST_MONSTER_SKILL_NAME_176360^^^^^^
-MST_MONSTER_SKILL_NAME_176370^^^^^^
-MST_MONSTER_SKILL_NAME_176380^^^^^^
-MST_MONSTER_SKILL_NAME_176390^^^^^^
-MST_MONSTER_SKILL_NAME_176400^^^^^^
-MST_MONSTER_SKILL_NAME_176410^^^^^^
-MST_MONSTER_SKILL_NAME_176420^^^^^^
-MST_MONSTER_SKILL_NAME_176430^^^^^^
-MST_MONSTER_SKILL_NAME_176440^^^^^^
-MST_MONSTER_SKILL_NAME_176450^^^^^^
-MST_MONSTER_SKILL_NAME_176460^^^^^^
-MST_MONSTER_SKILL_NAME_176470^^^^^^
-MST_MONSTER_SKILL_NAME_176480^^^^^^
-MST_MONSTER_SKILL_NAME_176490^^^^^^
-MST_MONSTER_SKILL_NAME_176500^^^^^^
-MST_MONSTER_SKILL_NAME_176510^^^^^^
-MST_MONSTER_SKILL_NAME_176520^^^^^^
-MST_MONSTER_SKILL_NAME_176530^^^^^^
-MST_MONSTER_SKILL_NAME_176540^^^^^^
-MST_MONSTER_SKILL_NAME_176550^^^^^^
-MST_MONSTER_SKILL_NAME_176560^^^^^^
-MST_MONSTER_SKILL_NAME_176570^^^^^^
-MST_MONSTER_SKILL_NAME_176580^^^^^^
-MST_MONSTER_SKILL_NAME_176590^^^^^^
-MST_MONSTER_SKILL_NAME_176600^^^^^^
-MST_MONSTER_SKILL_NAME_176610^^^^^^
-MST_MONSTER_SKILL_NAME_176620^^^^^^
-MST_MONSTER_SKILL_NAME_176630^^^^^^
-MST_MONSTER_SKILL_NAME_176640^^^^^^
-MST_MONSTER_SKILL_NAME_176650^^^^^^
-MST_MONSTER_SKILL_NAME_176660^^^^^^
-MST_MONSTER_SKILL_NAME_176670^^^^^^
-MST_MONSTER_SKILL_NAME_176680^^^^^^
-MST_MONSTER_SKILL_NAME_176690^^^^^^
-MST_MONSTER_SKILL_NAME_176700^^^^^^
-MST_MONSTER_SKILL_NAME_176710^^^^^^
-MST_MONSTER_SKILL_NAME_176720^^^^^^
-MST_MONSTER_SKILL_NAME_176730^^^^^^
-MST_MONSTER_SKILL_NAME_176740^^^^^^
-MST_MONSTER_SKILL_NAME_176750^^^^^^
-MST_MONSTER_SKILL_NAME_176760^^^^^^
-MST_MONSTER_SKILL_NAME_176770^^^^^^
-MST_MONSTER_SKILL_NAME_176780^^^^^^
-MST_MONSTER_SKILL_NAME_176790^^^^^^
-MST_MONSTER_SKILL_NAME_176800^^^^^^
-MST_MONSTER_SKILL_NAME_176810^^^^^^
-MST_MONSTER_SKILL_NAME_176820^^^^^^
-MST_MONSTER_SKILL_NAME_176830^^^^^^
-MST_MONSTER_SKILL_NAME_176840^^^^^^
-MST_MONSTER_SKILL_NAME_176850^^^^^^
-MST_MONSTER_SKILL_NAME_176860^^^^^^
-MST_MONSTER_SKILL_NAME_176870^^^^^^
-MST_MONSTER_SKILL_NAME_176880^^^^^^
-MST_MONSTER_SKILL_NAME_176890^^^^^^
-MST_MONSTER_SKILL_NAME_176900^^^^^^
-MST_MONSTER_SKILL_NAME_176910^^^^^^
-MST_MONSTER_SKILL_NAME_176920^^^^^^
-MST_MONSTER_SKILL_NAME_176930^^^^^^
-MST_MONSTER_SKILL_NAME_176940^^^^^^
-MST_MONSTER_SKILL_NAME_176950^^^^^^
-MST_MONSTER_SKILL_NAME_176960^^^^^^
-MST_MONSTER_SKILL_NAME_176970^^^^^^
-MST_MONSTER_SKILL_NAME_176980^^^^^^
-MST_MONSTER_SKILL_NAME_176990^^^^^^
-MST_MONSTER_SKILL_NAME_177000^^^^^^
-MST_MONSTER_SKILL_NAME_177010^^^^^^
-MST_MONSTER_SKILL_NAME_177020^^^^^^
-MST_MONSTER_SKILL_NAME_177030^^^^^^
-MST_MONSTER_SKILL_NAME_177040^^^^^^
-MST_MONSTER_SKILL_NAME_177050^^^^^^
-MST_MONSTER_SKILL_NAME_177060^^^^^^
-MST_MONSTER_SKILL_NAME_177070^^^^^^
-MST_MONSTER_SKILL_NAME_177080^^^^^^
-MST_MONSTER_SKILL_NAME_177090^^^^^^
-MST_MONSTER_SKILL_NAME_177100^^^^^^
-MST_MONSTER_SKILL_NAME_177110^^^^^^
-MST_MONSTER_SKILL_NAME_177120^^^^^^
-MST_MONSTER_SKILL_NAME_177130^^^^^^
-MST_MONSTER_SKILL_NAME_177140^^^^^^
-MST_MONSTER_SKILL_NAME_177150^^^^^^
-MST_MONSTER_SKILL_NAME_177160^^^^^^
-MST_MONSTER_SKILL_NAME_177170^^^^^^
-MST_MONSTER_SKILL_NAME_177180^^^^^^
-MST_MONSTER_SKILL_NAME_177190^^^^^^
-MST_MONSTER_SKILL_NAME_177200^^^^^^
-MST_MONSTER_SKILL_NAME_177210^^^^^^
-MST_MONSTER_SKILL_NAME_177220^^^^^^
-MST_MONSTER_SKILL_NAME_177230^^^^^^
-MST_MONSTER_SKILL_NAME_177240^^^^^^
-MST_MONSTER_SKILL_NAME_177250^^^^^^
-MST_MONSTER_SKILL_NAME_177260^^^^^^
-MST_MONSTER_SKILL_NAME_177270^^^^^^
-MST_MONSTER_SKILL_NAME_177280^^^^^^
-MST_MONSTER_SKILL_NAME_177290^^^^^^
-MST_MONSTER_SKILL_NAME_177300^^^^^^
-MST_MONSTER_SKILL_NAME_177310^^^^^^
-MST_MONSTER_SKILL_NAME_177320^^^^^^
-MST_MONSTER_SKILL_NAME_177330^^^^^^
-MST_MONSTER_SKILL_NAME_177340^^^^^^
-MST_MONSTER_SKILL_NAME_177350^^^^^^
-MST_MONSTER_SKILL_NAME_177360^^^^^^
-MST_MONSTER_SKILL_NAME_177370^^^^^^
-MST_MONSTER_SKILL_NAME_177380^^^^^^
-MST_MONSTER_SKILL_NAME_177390^^^^^^
-MST_MONSTER_SKILL_NAME_177400^^^^^^
-MST_MONSTER_SKILL_NAME_177410^^^^^^
-MST_MONSTER_SKILL_NAME_177420^^^^^^
-MST_MONSTER_SKILL_NAME_177430^^^^^^
-MST_MONSTER_SKILL_NAME_177440^^^^^^
-MST_MONSTER_SKILL_NAME_177450^^^^^^
-MST_MONSTER_SKILL_NAME_177460^^^^^^
-MST_MONSTER_SKILL_NAME_177470^^^^^^
-MST_MONSTER_SKILL_NAME_177480^^^^^^
-MST_MONSTER_SKILL_NAME_177490^^^^^^
-MST_MONSTER_SKILL_NAME_177500^^^^^^
-MST_MONSTER_SKILL_NAME_177510^^^^^^
-MST_MONSTER_SKILL_NAME_177520^^^^^^
-MST_MONSTER_SKILL_NAME_177530^^^^^^
-MST_MONSTER_SKILL_NAME_177540^^^^^^
-MST_MONSTER_SKILL_NAME_177550^^^^^^
-MST_MONSTER_SKILL_NAME_177560^^^^^^
-MST_MONSTER_SKILL_NAME_177570^^^^^^
-MST_MONSTER_SKILL_NAME_177580^^^^^^
-MST_MONSTER_SKILL_NAME_177590^^^^^^
-MST_MONSTER_SKILL_NAME_177600^^^^^^
-MST_MONSTER_SKILL_NAME_177610^^^^^^
-MST_MONSTER_SKILL_NAME_177620^^^^^^
-MST_MONSTER_SKILL_NAME_177630^^^^^^
-MST_MONSTER_SKILL_NAME_177640^^^^^^
-MST_MONSTER_SKILL_NAME_177650^^^^^^
-MST_MONSTER_SKILL_NAME_177660^^^^^^
-MST_MONSTER_SKILL_NAME_177670^^^^^^
-MST_MONSTER_SKILL_NAME_177680^^^^^^
-MST_MONSTER_SKILL_NAME_177690^^^^^^
-MST_MONSTER_SKILL_NAME_177700^^^^^^
-MST_MONSTER_SKILL_NAME_177710^^^^^^
-MST_MONSTER_SKILL_NAME_177720^^^^^^
-MST_MONSTER_SKILL_NAME_177730^^^^^^
-MST_MONSTER_SKILL_NAME_177740^^^^^^
-MST_MONSTER_SKILL_NAME_177750^^^^^^
-MST_MONSTER_SKILL_NAME_177760^^^^^^
-MST_MONSTER_SKILL_NAME_177770^^^^^^
-MST_MONSTER_SKILL_NAME_177780^^^^^^
-MST_MONSTER_SKILL_NAME_177790^^^^^^
-MST_MONSTER_SKILL_NAME_177800^^^^^^
-MST_MONSTER_SKILL_NAME_177810^^^^^^
-MST_MONSTER_SKILL_NAME_177820^^^^^^
-MST_MONSTER_SKILL_NAME_177830^^^^^^
-MST_MONSTER_SKILL_NAME_177840^^^^^^
-MST_MONSTER_SKILL_NAME_177850^^^^^^
-MST_MONSTER_SKILL_NAME_177860^^^^^^
-MST_MONSTER_SKILL_NAME_177870^^^^^^
-MST_MONSTER_SKILL_NAME_177880^^^^^^
-MST_MONSTER_SKILL_NAME_177890^^^^^^
-MST_MONSTER_SKILL_NAME_177900^^^^^^
-MST_MONSTER_SKILL_NAME_177910^^^^^^
-MST_MONSTER_SKILL_NAME_177920^^^^^^
-MST_MONSTER_SKILL_NAME_177930^^^^^^
-MST_MONSTER_SKILL_NAME_177940^^^^^^
-MST_MONSTER_SKILL_NAME_177950^^^^^^
-MST_MONSTER_SKILL_NAME_177960^^^^^^
-MST_MONSTER_SKILL_NAME_177970^^^^^^
-MST_MONSTER_SKILL_NAME_177980^^^^^^
-MST_MONSTER_SKILL_NAME_177990^^^^^^
-MST_MONSTER_SKILL_NAME_178000^^^^^^
-MST_MONSTER_SKILL_NAME_178010^^^^^^
-MST_MONSTER_SKILL_NAME_178020^^^^^^
-MST_MONSTER_SKILL_NAME_178030^^^^^^
-MST_MONSTER_SKILL_NAME_178040^^^^^^
-MST_MONSTER_SKILL_NAME_178050^^^^^^
-MST_MONSTER_SKILL_NAME_178060^^^^^^
-MST_MONSTER_SKILL_NAME_178070^^^^^^
-MST_MONSTER_SKILL_NAME_178080^^^^^^
-MST_MONSTER_SKILL_NAME_178090^^^^^^
-MST_MONSTER_SKILL_NAME_178100^^^^^^
-MST_MONSTER_SKILL_NAME_178110^^^^^^
-MST_MONSTER_SKILL_NAME_178120^^^^^^
-MST_MONSTER_SKILL_NAME_178130^^^^^^
-MST_MONSTER_SKILL_NAME_178140^^^^^^
-MST_MONSTER_SKILL_NAME_178150^^^^^^
-MST_MONSTER_SKILL_NAME_178160^^^^^^
-MST_MONSTER_SKILL_NAME_178170^^^^^^
-MST_MONSTER_SKILL_NAME_178180^^^^^^
-MST_MONSTER_SKILL_NAME_178190^^^^^^
-MST_MONSTER_SKILL_NAME_178200^^^^^^
-MST_MONSTER_SKILL_NAME_178210^^^^^^
-MST_MONSTER_SKILL_NAME_178220^^^^^^
-MST_MONSTER_SKILL_NAME_178230^^^^^^
-MST_MONSTER_SKILL_NAME_178240^^^^^^
-MST_MONSTER_SKILL_NAME_178250^^^^^^
-MST_MONSTER_SKILL_NAME_178260^^^^^^
-MST_MONSTER_SKILL_NAME_178270^^^^^^
-MST_MONSTER_SKILL_NAME_178280^^^^^^
-MST_MONSTER_SKILL_NAME_178290^^^^^^
-MST_MONSTER_SKILL_NAME_178300^^^^^^
-MST_MONSTER_SKILL_NAME_178310^^^^^^
-MST_MONSTER_SKILL_NAME_178320^^^^^^
-MST_MONSTER_SKILL_NAME_178330^^^^^^
-MST_MONSTER_SKILL_NAME_178340^^^^^^
-MST_MONSTER_SKILL_NAME_178350^^^^^^
-MST_MONSTER_SKILL_NAME_178360^^^^^^
-MST_MONSTER_SKILL_NAME_178370^^^^^^
-MST_MONSTER_SKILL_NAME_178380^^^^^^
-MST_MONSTER_SKILL_NAME_178390^^^^^^
-MST_MONSTER_SKILL_NAME_178400^^^^^^
-MST_MONSTER_SKILL_NAME_178410^^^^^^
-MST_MONSTER_SKILL_NAME_178420^^^^^^
-MST_MONSTER_SKILL_NAME_178430^^^^^^
-MST_MONSTER_SKILL_NAME_178440^^^^^^
-MST_MONSTER_SKILL_NAME_178450^^^^^^
-MST_MONSTER_SKILL_NAME_178460^^^^^^
-MST_MONSTER_SKILL_NAME_178470^^^^^^
-MST_MONSTER_SKILL_NAME_178480^^^^^^
-MST_MONSTER_SKILL_NAME_178490^^^^^^
-MST_MONSTER_SKILL_NAME_178500^^^^^^
-MST_MONSTER_SKILL_NAME_178510^^^^^^
-MST_MONSTER_SKILL_NAME_178520^^^^^^
-MST_MONSTER_SKILL_NAME_178530^^^^^^
-MST_MONSTER_SKILL_NAME_178540^^^^^^
-MST_MONSTER_SKILL_NAME_178550^^^^^^
-MST_MONSTER_SKILL_NAME_178560^^^^^^
-MST_MONSTER_SKILL_NAME_178570^^^^^^
-MST_MONSTER_SKILL_NAME_178580^^^^^^
-MST_MONSTER_SKILL_NAME_178590^^^^^^
-MST_MONSTER_SKILL_NAME_178600^^^^^^
-MST_MONSTER_SKILL_NAME_178610^^^^^^
-MST_MONSTER_SKILL_NAME_178620^^^^^^
-MST_MONSTER_SKILL_NAME_178630^^^^^^
-MST_MONSTER_SKILL_NAME_178640^^^^^^
-MST_MONSTER_SKILL_NAME_178650^^^^^^
-MST_MONSTER_SKILL_NAME_178660^^^^^^
-MST_MONSTER_SKILL_NAME_178670^^^^^^
-MST_MONSTER_SKILL_NAME_178680^^^^^^
-MST_MONSTER_SKILL_NAME_178690^^^^^^
-MST_MONSTER_SKILL_NAME_178700^^^^^^
-MST_MONSTER_SKILL_NAME_178710^^^^^^
-MST_MONSTER_SKILL_NAME_178720^^^^^^
-MST_MONSTER_SKILL_NAME_178730^^^^^^
-MST_MONSTER_SKILL_NAME_178740^^^^^^
-MST_MONSTER_SKILL_NAME_178750^^^^^^
-MST_MONSTER_SKILL_NAME_178760^^^^^^
-MST_MONSTER_SKILL_NAME_178770^^^^^^
-MST_MONSTER_SKILL_NAME_178780^^^^^^
-MST_MONSTER_SKILL_NAME_178790^^^^^^
-MST_MONSTER_SKILL_NAME_178800^^^^^^
-MST_MONSTER_SKILL_NAME_178810^^^^^^
-MST_MONSTER_SKILL_NAME_178820^^^^^^
-MST_MONSTER_SKILL_NAME_178830^^^^^^
-MST_MONSTER_SKILL_NAME_178840^^^^^^
-MST_MONSTER_SKILL_NAME_178850^^^^^^
-MST_MONSTER_SKILL_NAME_178860^^^^^^
-MST_MONSTER_SKILL_NAME_178870^^^^^^
-MST_MONSTER_SKILL_NAME_178880^^^^^^
-MST_MONSTER_SKILL_NAME_178890^^^^^^
-MST_MONSTER_SKILL_NAME_178900^^^^^^
-MST_MONSTER_SKILL_NAME_178910^^^^^^
-MST_MONSTER_SKILL_NAME_178920^^^^^^
-MST_MONSTER_SKILL_NAME_178930^^^^^^
-MST_MONSTER_SKILL_NAME_178940^^^^^^
-MST_MONSTER_SKILL_NAME_178950^^^^^^
-MST_MONSTER_SKILL_NAME_178960^^^^^^
-MST_MONSTER_SKILL_NAME_178970^^^^^^
-MST_MONSTER_SKILL_NAME_178980^^^^^^
-MST_MONSTER_SKILL_NAME_178990^^^^^^
-MST_MONSTER_SKILL_NAME_179000^^^^^^
-MST_MONSTER_SKILL_NAME_179010^^^^^^
-MST_MONSTER_SKILL_NAME_179020^^^^^^
-MST_MONSTER_SKILL_NAME_179030^^^^^^
-MST_MONSTER_SKILL_NAME_179040^^^^^^
-MST_MONSTER_SKILL_NAME_179050^^^^^^
-MST_MONSTER_SKILL_NAME_179060^^^^^^
-MST_MONSTER_SKILL_NAME_179070^^^^^^
-MST_MONSTER_SKILL_NAME_179080^^^^^^
-MST_MONSTER_SKILL_NAME_179090^^^^^^
-MST_MONSTER_SKILL_NAME_179100^^^^^^
-MST_MONSTER_SKILL_NAME_179110^^^^^^
-MST_MONSTER_SKILL_NAME_179120^^^^^^
-MST_MONSTER_SKILL_NAME_179130^^^^^^
-MST_MONSTER_SKILL_NAME_179140^^^^^^
-MST_MONSTER_SKILL_NAME_179150^^^^^^
-MST_MONSTER_SKILL_NAME_179160^^^^^^
-MST_MONSTER_SKILL_NAME_179170^^^^^^
-MST_MONSTER_SKILL_NAME_179180^^^^^^
-MST_MONSTER_SKILL_NAME_179190^^^^^^
-MST_MONSTER_SKILL_NAME_179200^^^^^^
-MST_MONSTER_SKILL_NAME_179210^^^^^^
-MST_MONSTER_SKILL_NAME_179220^^^^^^
-MST_MONSTER_SKILL_NAME_179230^^^^^^
-MST_MONSTER_SKILL_NAME_179240^^^^^^
-MST_MONSTER_SKILL_NAME_179250^^^^^^
-MST_MONSTER_SKILL_NAME_179260^^^^^^
-MST_MONSTER_SKILL_NAME_179270^^^^^^
-MST_MONSTER_SKILL_NAME_179280^^^^^^
-MST_MONSTER_SKILL_NAME_179290^^^^^^
-MST_MONSTER_SKILL_NAME_179300^^^^^^
-MST_MONSTER_SKILL_NAME_179310^^^^^^
-MST_MONSTER_SKILL_NAME_179320^^^^^^
-MST_MONSTER_SKILL_NAME_179330^^^^^^
-MST_MONSTER_SKILL_NAME_179340^^^^^^
-MST_MONSTER_SKILL_NAME_179341^^^^^^
-MST_MONSTER_SKILL_NAME_179350^^^^^^
-MST_MONSTER_SKILL_NAME_179351^^^^^^
-MST_MONSTER_SKILL_NAME_179360^^^^^^
-MST_MONSTER_SKILL_NAME_179370^^^^^^
-MST_MONSTER_SKILL_NAME_179380^^^^^^
-MST_MONSTER_SKILL_NAME_179390^^^^^^
-MST_MONSTER_SKILL_NAME_179400^^^^^^
-MST_MONSTER_SKILL_NAME_179410^^^^^^
-MST_MONSTER_SKILL_NAME_179420^^^^^^
-MST_MONSTER_SKILL_NAME_179440^^^^^^
-MST_MONSTER_SKILL_NAME_179450^^^^^^
-MST_MONSTER_SKILL_NAME_179460^^^^^^
-MST_MONSTER_SKILL_NAME_179470^^^^^^
-MST_MONSTER_SKILL_NAME_179480^^^^^^
-MST_MONSTER_SKILL_NAME_179490^^^^^^
-MST_MONSTER_SKILL_NAME_179500^^^^^^
-MST_MONSTER_SKILL_NAME_179510^^^^^^
-MST_MONSTER_SKILL_NAME_179520^^^^^^
-MST_MONSTER_SKILL_NAME_179530^^^^^^
-MST_MONSTER_SKILL_NAME_179540^^^^^^
-MST_MONSTER_SKILL_NAME_179550^^^^^^
-MST_MONSTER_SKILL_NAME_179560^^^^^^
-MST_MONSTER_SKILL_NAME_179570^^^^^^
-MST_MONSTER_SKILL_NAME_179580^^^^^^
-MST_MONSTER_SKILL_NAME_179590^^^^^^
-MST_MONSTER_SKILL_NAME_179600^^^^^^
-MST_MONSTER_SKILL_NAME_179610^^^^^^
-MST_MONSTER_SKILL_NAME_179620^^^^^^
-MST_MONSTER_SKILL_NAME_179630^^^^^^
-MST_MONSTER_SKILL_NAME_179640^^^^^^
-MST_MONSTER_SKILL_NAME_179650^^^^^^
-MST_MONSTER_SKILL_NAME_179660^^^^^^
-MST_MONSTER_SKILL_NAME_179670^^^^^^
-MST_MONSTER_SKILL_NAME_179680^^^^^^
-MST_MONSTER_SKILL_NAME_179690^^^^^^
-MST_MONSTER_SKILL_NAME_179700^^^^^^
-MST_MONSTER_SKILL_NAME_179710^^^^^^
-MST_MONSTER_SKILL_NAME_179720^^^^^^
-MST_MONSTER_SKILL_NAME_179730^^^^^^
-MST_MONSTER_SKILL_NAME_179740^^^^^^
-MST_MONSTER_SKILL_NAME_179750^^^^^^
-MST_MONSTER_SKILL_NAME_179760^^^^^^
-MST_MONSTER_SKILL_NAME_179770^^^^^^
-MST_MONSTER_SKILL_NAME_179780^^^^^^
-MST_MONSTER_SKILL_NAME_179790^^^^^^
-MST_MONSTER_SKILL_NAME_179800^^^^^^
-MST_MONSTER_SKILL_NAME_179810^^^^^^
-MST_MONSTER_SKILL_NAME_179820^^^^^^
-MST_MONSTER_SKILL_NAME_179830^^^^^^
-MST_MONSTER_SKILL_NAME_179840^^^^^^
-MST_MONSTER_SKILL_NAME_179850^^^^^^
-MST_MONSTER_SKILL_NAME_179860^^^^^^
-MST_MONSTER_SKILL_NAME_179870^^^^^^
-MST_MONSTER_SKILL_NAME_179880^^^^^^
-MST_MONSTER_SKILL_NAME_179890^^^^^^
-MST_MONSTER_SKILL_NAME_179900^^^^^^
-MST_MONSTER_SKILL_NAME_179910^^^^^^
-MST_MONSTER_SKILL_NAME_179920^^^^^^
-MST_MONSTER_SKILL_NAME_179930^^^^^^
-MST_MONSTER_SKILL_NAME_179940^^^^^^
-MST_MONSTER_SKILL_NAME_179950^^^^^^
-MST_MONSTER_SKILL_NAME_179960^^^^^^
-MST_MONSTER_SKILL_NAME_179970^^^^^^
-MST_MONSTER_SKILL_NAME_179980^^^^^^
-MST_MONSTER_SKILL_NAME_179990^^^^^^
-MST_MONSTER_SKILL_NAME_180000^^^^^^
-MST_MONSTER_SKILL_NAME_180010^^^^^^
-MST_MONSTER_SKILL_NAME_180020^^^^^^
-MST_MONSTER_SKILL_NAME_180030^^^^^^
-MST_MONSTER_SKILL_NAME_180040^^^^^^
-MST_MONSTER_SKILL_NAME_180050^^^^^^
-MST_MONSTER_SKILL_NAME_180060^^^^^^
-MST_MONSTER_SKILL_NAME_180070^^^^^^
-MST_MONSTER_SKILL_NAME_180080^^^^^^
-MST_MONSTER_SKILL_NAME_180090^^^^^^
-MST_MONSTER_SKILL_NAME_180100^^^^^^
-MST_MONSTER_SKILL_NAME_180110^^^^^^
-MST_MONSTER_SKILL_NAME_180120^^^^^^
-MST_MONSTER_SKILL_NAME_180130^^^^^^
-MST_MONSTER_SKILL_NAME_180140^^^^^^
-MST_MONSTER_SKILL_NAME_180150^^^^^^
-MST_MONSTER_SKILL_NAME_180160^^^^^^
-MST_MONSTER_SKILL_NAME_180170^^^^^^
-MST_MONSTER_SKILL_NAME_180180^^^^^^
-MST_MONSTER_SKILL_NAME_180190^^^^^^
-MST_MONSTER_SKILL_NAME_180200^^^^^^
-MST_MONSTER_SKILL_NAME_180210^^^^^^
-MST_MONSTER_SKILL_NAME_180220^^^^^^
-MST_MONSTER_SKILL_NAME_180230^^^^^^
-MST_MONSTER_SKILL_NAME_180240^^^^^^
-MST_MONSTER_SKILL_NAME_180250^^^^^^
-MST_MONSTER_SKILL_NAME_180260^^^^^^
-MST_MONSTER_SKILL_NAME_180270^^^^^^
-MST_MONSTER_SKILL_NAME_180280^^^^^^
-MST_MONSTER_SKILL_NAME_180290^^^^^^
-MST_MONSTER_SKILL_NAME_180300^^^^^^
-MST_MONSTER_SKILL_NAME_180310^^^^^^
-MST_MONSTER_SKILL_NAME_180320^^^^^^
-MST_MONSTER_SKILL_NAME_180321^^^^^^
-MST_MONSTER_SKILL_NAME_180322^^^^^^
-MST_MONSTER_SKILL_NAME_180323^^^^^^
-MST_MONSTER_SKILL_NAME_180324^^^^^^
-MST_MONSTER_SKILL_NAME_180325^^^^^^
-MST_MONSTER_SKILL_NAME_180326^^^^^^
-MST_MONSTER_SKILL_NAME_180327^^^^^^
-MST_MONSTER_SKILL_NAME_180330^^^^^^
-MST_MONSTER_SKILL_NAME_180340^^^^^^
-MST_MONSTER_SKILL_NAME_180350^^^^^^
-MST_MONSTER_SKILL_NAME_180360^^^^^^
-MST_MONSTER_SKILL_NAME_180370^^^^^^
-MST_MONSTER_SKILL_NAME_180380^^^^^^
-MST_MONSTER_SKILL_NAME_180390^^^^^^
-MST_MONSTER_SKILL_NAME_180400^^^^^^
-MST_MONSTER_SKILL_NAME_180410^^^^^^
-MST_MONSTER_SKILL_NAME_180420^^^^^^
-MST_MONSTER_SKILL_NAME_180421^^^^^^
-MST_MONSTER_SKILL_NAME_180422^^^^^^
-MST_MONSTER_SKILL_NAME_180423^^^^^^
-MST_MONSTER_SKILL_NAME_180424^^^^^^
-MST_MONSTER_SKILL_NAME_180425^^^^^^
-MST_MONSTER_SKILL_NAME_180426^^^^^^
-MST_MONSTER_SKILL_NAME_180427^^^^^^
-MST_MONSTER_SKILL_NAME_180428^^^^^^
-MST_MONSTER_SKILL_NAME_180429^^^^^^
-MST_MONSTER_SKILL_NAME_180430^^^^^^
-MST_MONSTER_SKILL_NAME_180431^^^^^^
-MST_MONSTER_SKILL_NAME_180432^^^^^^
-MST_MONSTER_SKILL_NAME_180433^^^^^^
-MST_MONSTER_SKILL_NAME_180434^^^^^^
-MST_MONSTER_SKILL_NAME_180440^^^^^^
-MST_MONSTER_SKILL_NAME_180450^^^^^^
-MST_MONSTER_SKILL_NAME_180460^^^^^^
-MST_MONSTER_SKILL_NAME_180470^^^^^^
-MST_MONSTER_SKILL_NAME_180480^^^^^^
-MST_MONSTER_SKILL_NAME_180490^^^^^^
-MST_MONSTER_SKILL_NAME_180500^^^^^^
-MST_MONSTER_SKILL_NAME_180510^^^^^^
-MST_MONSTER_SKILL_NAME_180520^^^^^^
-MST_MONSTER_SKILL_NAME_180530^^^^^^
-MST_MONSTER_SKILL_NAME_180540^^^^^^
-MST_MONSTER_SKILL_NAME_180550^^^^^^
-MST_MONSTER_SKILL_NAME_180560^^^^^^
-MST_MONSTER_SKILL_NAME_180570^^^^^^
-MST_MONSTER_SKILL_NAME_180580^^^^^^
-MST_MONSTER_SKILL_NAME_180590^^^^^^
-MST_MONSTER_SKILL_NAME_180600^^^^^^
-MST_MONSTER_SKILL_NAME_180610^^^^^^
-MST_MONSTER_SKILL_NAME_180620^^^^^^
-MST_MONSTER_SKILL_NAME_180630^^^^^^
-MST_MONSTER_SKILL_NAME_180640^^^^^^
-MST_MONSTER_SKILL_NAME_180650^^^^^^
-MST_MONSTER_SKILL_NAME_180660^^^^^^
-MST_MONSTER_SKILL_NAME_180670^^^^^^
-MST_MONSTER_SKILL_NAME_180680^^^^^^
-MST_MONSTER_SKILL_NAME_180690^^^^^^
-MST_MONSTER_SKILL_NAME_180700^^^^^^
-MST_MONSTER_SKILL_NAME_180710^^^^^^
-MST_MONSTER_SKILL_NAME_180720^^^^^^
-MST_MONSTER_SKILL_NAME_180730^^^^^^
-MST_MONSTER_SKILL_NAME_180740^^^^^^
-MST_MONSTER_SKILL_NAME_180750^^^^^^
-MST_MONSTER_SKILL_NAME_180760^^^^^^
-MST_MONSTER_SKILL_NAME_180770^^^^^^
-MST_MONSTER_SKILL_NAME_180780^^^^^^
-MST_MONSTER_SKILL_NAME_180790^^^^^^
-MST_MONSTER_SKILL_NAME_180800^^^^^^
-MST_MONSTER_SKILL_NAME_180810^^^^^^
-MST_MONSTER_SKILL_NAME_180820^^^^^^
-MST_MONSTER_SKILL_NAME_180830^^^^^^
-MST_MONSTER_SKILL_NAME_180840^^^^^^
-MST_MONSTER_SKILL_NAME_180850^^^^^^
-MST_MONSTER_SKILL_NAME_180860^^^^^^
-MST_MONSTER_SKILL_NAME_180870^^^^^^
-MST_MONSTER_SKILL_NAME_180880^^^^^^
-MST_MONSTER_SKILL_NAME_180890^^^^^^
-MST_MONSTER_SKILL_NAME_180900^^^^^^
-MST_MONSTER_SKILL_NAME_180910^^^^^^
-MST_MONSTER_SKILL_NAME_180920^^^^^^
-MST_MONSTER_SKILL_NAME_180930^^^^^^
-MST_MONSTER_SKILL_NAME_180940^^^^^^
-MST_MONSTER_SKILL_NAME_180950^^^^^^
-MST_MONSTER_SKILL_NAME_180960^^^^^^
-MST_MONSTER_SKILL_NAME_180970^^^^^^
-MST_MONSTER_SKILL_NAME_180980^^^^^^
-MST_MONSTER_SKILL_NAME_180990^^^^^^
-MST_MONSTER_SKILL_NAME_181000^^^^^^
-MST_MONSTER_SKILL_NAME_181001^^^^^^
-MST_MONSTER_SKILL_NAME_181002^^^^^^
-MST_MONSTER_SKILL_NAME_181003^^^^^^
-MST_MONSTER_SKILL_NAME_181004^^^^^^
-MST_MONSTER_SKILL_NAME_181005^^^^^^
-MST_MONSTER_SKILL_NAME_181006^^^^^^
-MST_MONSTER_SKILL_NAME_181007^^^^^^
-MST_MONSTER_SKILL_NAME_181008^^^^^^
-MST_MONSTER_SKILL_NAME_181010^^^^^^
-MST_MONSTER_SKILL_NAME_181020^^^^^^
-MST_MONSTER_SKILL_NAME_181030^^^^^^
-MST_MONSTER_SKILL_NAME_181040^^^^^^
-MST_MONSTER_SKILL_NAME_181050^^^^^^
-MST_MONSTER_SKILL_NAME_181060^^^^^^
-MST_MONSTER_SKILL_NAME_181070^^^^^^
-MST_MONSTER_SKILL_NAME_181080^^^^^^
-MST_MONSTER_SKILL_NAME_181090^^^^^^
-MST_MONSTER_SKILL_NAME_181100^^^^^^
-MST_MONSTER_SKILL_NAME_181110^^^^^^
-MST_MONSTER_SKILL_NAME_181120^^^^^^
-MST_MONSTER_SKILL_NAME_181130^^^^^^
-MST_MONSTER_SKILL_NAME_181140^^^^^^
-MST_MONSTER_SKILL_NAME_181150^^^^^^
-MST_MONSTER_SKILL_NAME_181160^^^^^^
-MST_MONSTER_SKILL_NAME_181170^^^^^^
-MST_MONSTER_SKILL_NAME_181180^^^^^^
-MST_MONSTER_SKILL_NAME_181190^^^^^^
-MST_MONSTER_SKILL_NAME_181200^^^^^^
-MST_MONSTER_SKILL_NAME_181210^^^^^^
-MST_MONSTER_SKILL_NAME_181220^^^^^^
-MST_MONSTER_SKILL_NAME_181230^^^^^^
-MST_MONSTER_SKILL_NAME_181240^^^^^^
-MST_MONSTER_SKILL_NAME_181250^^^^^^
-MST_MONSTER_SKILL_NAME_181260^^^^^^
-MST_MONSTER_SKILL_NAME_181270^^^^^^
-MST_MONSTER_SKILL_NAME_181280^^^^^^
-MST_MONSTER_SKILL_NAME_181290^^^^^^
-MST_MONSTER_SKILL_NAME_181300^^^^^^
-MST_MONSTER_SKILL_NAME_181310^^^^^^
-MST_MONSTER_SKILL_NAME_181320^^^^^^
-MST_MONSTER_SKILL_NAME_181330^^^^^^
-MST_MONSTER_SKILL_NAME_181340^^^^^^
-MST_MONSTER_SKILL_NAME_181350^^^^^^
-MST_MONSTER_SKILL_NAME_181360^^^^^^
-MST_MONSTER_SKILL_NAME_181370^^^^^^
-MST_MONSTER_SKILL_NAME_181380^^^^^^
-MST_MONSTER_SKILL_NAME_181390^^^^^^
-MST_MONSTER_SKILL_NAME_181400^^^^^^
-MST_MONSTER_SKILL_NAME_181410^^^^^^
-MST_MONSTER_SKILL_NAME_181420^^^^^^
-MST_MONSTER_SKILL_NAME_181430^^^^^^
-MST_MONSTER_SKILL_NAME_181440^^^^^^
-MST_MONSTER_SKILL_NAME_181450^^^^^^
-MST_MONSTER_SKILL_NAME_181460^^^^^^
-MST_MONSTER_SKILL_NAME_181470^^^^^^
-MST_MONSTER_SKILL_NAME_181480^^^^^^
-MST_MONSTER_SKILL_NAME_181490^^^^^^
-MST_MONSTER_SKILL_NAME_181500^^^^^^
-MST_MONSTER_SKILL_NAME_181510^^^^^^
-MST_MONSTER_SKILL_NAME_181520^^^^^^
-MST_MONSTER_SKILL_NAME_181530^^^^^^
-MST_MONSTER_SKILL_NAME_181540^^^^^^
-MST_MONSTER_SKILL_NAME_181550^^^^^^
-MST_MONSTER_SKILL_NAME_181560^^^^^^
-MST_MONSTER_SKILL_NAME_181570^^^^^^
-MST_MONSTER_SKILL_NAME_181580^^^^^^
-MST_MONSTER_SKILL_NAME_181590^^^^^^
-MST_MONSTER_SKILL_NAME_181600^^^^^^
-MST_MONSTER_SKILL_NAME_181610^^^^^^
-MST_MONSTER_SKILL_NAME_181620^^^^^^
-MST_MONSTER_SKILL_NAME_181630^^^^^^
-MST_MONSTER_SKILL_NAME_181640^^^^^^
-MST_MONSTER_SKILL_NAME_181650^^^^^^
-MST_MONSTER_SKILL_NAME_181660^^^^^^
-MST_MONSTER_SKILL_NAME_181670^^^^^^
-MST_MONSTER_SKILL_NAME_181680^^^^^^
-MST_MONSTER_SKILL_NAME_181690^^^^^^
-MST_MONSTER_SKILL_NAME_181700^^^^^^
-MST_MONSTER_SKILL_NAME_181710^^^^^^
-MST_MONSTER_SKILL_NAME_181720^^^^^^
-MST_MONSTER_SKILL_NAME_181730^^^^^^
-MST_MONSTER_SKILL_NAME_181740^^^^^^
-MST_MONSTER_SKILL_NAME_181750^^^^^^
-MST_MONSTER_SKILL_NAME_181760^^^^^^
-MST_MONSTER_SKILL_NAME_181770^^^^^^
-MST_MONSTER_SKILL_NAME_181780^^^^^^
-MST_MONSTER_SKILL_NAME_181790^^^^^^
-MST_MONSTER_SKILL_NAME_181800^^^^^^
-MST_MONSTER_SKILL_NAME_181810^^^^^^
-MST_MONSTER_SKILL_NAME_181820^^^^^^
-MST_MONSTER_SKILL_NAME_181830^^^^^^
-MST_MONSTER_SKILL_NAME_181840^^^^^^
-MST_MONSTER_SKILL_NAME_181850^^^^^^
-MST_MONSTER_SKILL_NAME_181860^^^^^^
-MST_MONSTER_SKILL_NAME_181870^^^^^^
-MST_MONSTER_SKILL_NAME_181880^^^^^^
-MST_MONSTER_SKILL_NAME_181890^^^^^^
-MST_MONSTER_SKILL_NAME_181900^^^^^^
-MST_MONSTER_SKILL_NAME_181910^^^^^^
-MST_MONSTER_SKILL_NAME_181920^^^^^^
-MST_MONSTER_SKILL_NAME_181930^^^^^^
-MST_MONSTER_SKILL_NAME_181940^^^^^^
-MST_MONSTER_SKILL_NAME_181950^^^^^^
-MST_MONSTER_SKILL_NAME_181960^^^^^^
-MST_MONSTER_SKILL_NAME_181970^^^^^^
-MST_MONSTER_SKILL_NAME_181980^^^^^^
-MST_MONSTER_SKILL_NAME_181990^^^^^^
-MST_MONSTER_SKILL_NAME_182000^^^^^^
-MST_MONSTER_SKILL_NAME_182010^^^^^^
-MST_MONSTER_SKILL_NAME_182020^^^^^^
-MST_MONSTER_SKILL_NAME_182030^^^^^^
-MST_MONSTER_SKILL_NAME_182040^^^^^^
-MST_MONSTER_SKILL_NAME_182050^^^^^^
-MST_MONSTER_SKILL_NAME_182060^^^^^^
-MST_MONSTER_SKILL_NAME_182070^^^^^^
-MST_MONSTER_SKILL_NAME_182080^^^^^^
-MST_MONSTER_SKILL_NAME_182090^^^^^^
-MST_MONSTER_SKILL_NAME_182100^^^^^^
-MST_MONSTER_SKILL_NAME_182110^^^^^^
-MST_MONSTER_SKILL_NAME_182120^^^^^^
-MST_MONSTER_SKILL_NAME_182130^^^^^^
-MST_MONSTER_SKILL_NAME_182140^^^^^^
-MST_MONSTER_SKILL_NAME_182150^^^^^^
-MST_MONSTER_SKILL_NAME_182160^^^^^^
-MST_MONSTER_SKILL_NAME_182170^^^^^^
-MST_MONSTER_SKILL_NAME_182180^^^^^^
-MST_MONSTER_SKILL_NAME_182190^^^^^^
-MST_MONSTER_SKILL_NAME_182200^^^^^^
-MST_MONSTER_SKILL_NAME_182210^^^^^^
-MST_MONSTER_SKILL_NAME_182220^^^^^^
-MST_MONSTER_SKILL_NAME_182230^^^^^^
-MST_MONSTER_SKILL_NAME_182240^^^^^^
-MST_MONSTER_SKILL_NAME_182250^^^^^^
-MST_MONSTER_SKILL_NAME_182260^^^^^^
-MST_MONSTER_SKILL_NAME_182270^^^^^^
-MST_MONSTER_SKILL_NAME_182280^^^^^^
-MST_MONSTER_SKILL_NAME_182290^^^^^^
-MST_MONSTER_SKILL_NAME_182300^^^^^^
-MST_MONSTER_SKILL_NAME_182310^^^^^^
-MST_MONSTER_SKILL_NAME_182320^^^^^^
-MST_MONSTER_SKILL_NAME_182330^^^^^^
-MST_MONSTER_SKILL_NAME_182340^^^^^^
-MST_MONSTER_SKILL_NAME_182350^^^^^^
-MST_MONSTER_SKILL_NAME_182360^^^^^^
-MST_MONSTER_SKILL_NAME_182370^^^^^^
-MST_MONSTER_SKILL_NAME_182380^^^^^^
-MST_MONSTER_SKILL_NAME_182390^^^^^^
-MST_MONSTER_SKILL_NAME_182400^^^^^^
-MST_MONSTER_SKILL_NAME_182410^^^^^^
-MST_MONSTER_SKILL_NAME_182420^^^^^^
-MST_MONSTER_SKILL_NAME_182430^^^^^^
-MST_MONSTER_SKILL_NAME_182440^^^^^^
-MST_MONSTER_SKILL_NAME_182450^^^^^^
-MST_MONSTER_SKILL_NAME_182460^^^^^^
-MST_MONSTER_SKILL_NAME_182470^^^^^^
-MST_MONSTER_SKILL_NAME_182471^^^^^^
-MST_MONSTER_SKILL_NAME_182472^^^^^^
-MST_MONSTER_SKILL_NAME_182480^^^^^^
-MST_MONSTER_SKILL_NAME_182490^^^^^^
-MST_MONSTER_SKILL_NAME_182500^^^^^^
-MST_MONSTER_SKILL_NAME_182510^^^^^^
-MST_MONSTER_SKILL_NAME_182520^^^^^^
-MST_MONSTER_SKILL_NAME_182530^^^^^^
-MST_MONSTER_SKILL_NAME_182540^^^^^^
-MST_MONSTER_SKILL_NAME_182550^^^^^^
-MST_MONSTER_SKILL_NAME_182560^^^^^^
-MST_MONSTER_SKILL_NAME_182570^^^^^^
-MST_MONSTER_SKILL_NAME_182580^^^^^^
-MST_MONSTER_SKILL_NAME_182590^^^^^^
-MST_MONSTER_SKILL_NAME_182600^^^^^^
-MST_MONSTER_SKILL_NAME_182610^^^^^^
-MST_MONSTER_SKILL_NAME_182620^^^^^^
-MST_MONSTER_SKILL_NAME_182630^^^^^^
-MST_MONSTER_SKILL_NAME_182640^^^^^^
-MST_MONSTER_SKILL_NAME_182650^^^^^^
-MST_MONSTER_SKILL_NAME_182660^^^^^^
-MST_MONSTER_SKILL_NAME_182670^^^^^^
-MST_MONSTER_SKILL_NAME_182680^^^^^^
-MST_MONSTER_SKILL_NAME_182690^^^^^^
-MST_MONSTER_SKILL_NAME_182700^^^^^^
-MST_MONSTER_SKILL_NAME_182710^^^^^^
-MST_MONSTER_SKILL_NAME_182720^^^^^^
-MST_MONSTER_SKILL_NAME_182730^^^^^^
-MST_MONSTER_SKILL_NAME_182740^^^^^^
-MST_MONSTER_SKILL_NAME_182750^^^^^^
-MST_MONSTER_SKILL_NAME_182760^^^^^^
-MST_MONSTER_SKILL_NAME_182770^^^^^^
-MST_MONSTER_SKILL_NAME_182780^^^^^^
-MST_MONSTER_SKILL_NAME_182790^^^^^^
-MST_MONSTER_SKILL_NAME_182800^^^^^^
-MST_MONSTER_SKILL_NAME_182810^^^^^^
-MST_MONSTER_SKILL_NAME_182820^^^^^^
-MST_MONSTER_SKILL_NAME_182830^^^^^^
-MST_MONSTER_SKILL_NAME_182840^^^^^^
-MST_MONSTER_SKILL_NAME_182850^^^^^^
-MST_MONSTER_SKILL_NAME_182860^^^^^^
-MST_MONSTER_SKILL_NAME_182870^^^^^^
-MST_MONSTER_SKILL_NAME_182880^^^^^^
-MST_MONSTER_SKILL_NAME_182890^^^^^^
-MST_MONSTER_SKILL_NAME_182900^^^^^^
-MST_MONSTER_SKILL_NAME_182910^^^^^^
-MST_MONSTER_SKILL_NAME_182920^^^^^^
-MST_MONSTER_SKILL_NAME_182930^^^^^^
-MST_MONSTER_SKILL_NAME_182940^^^^^^
-MST_MONSTER_SKILL_NAME_182950^^^^^^
-MST_MONSTER_SKILL_NAME_182960^^^^^^
-MST_MONSTER_SKILL_NAME_182970^^^^^^
-MST_MONSTER_SKILL_NAME_182980^^^^^^
-MST_MONSTER_SKILL_NAME_182990^^^^^^
-MST_MONSTER_SKILL_NAME_183000^^^^^^
-MST_MONSTER_SKILL_NAME_183010^^^^^^
-MST_MONSTER_SKILL_NAME_183020^^^^^^
-MST_MONSTER_SKILL_NAME_183030^^^^^^
-MST_MONSTER_SKILL_NAME_183040^^^^^^
-MST_MONSTER_SKILL_NAME_183050^^^^^^
+MST_MONSTER_SKILL_NAME_172520^Wind Blade^^^^^
+MST_MONSTER_SKILL_NAME_172530^Slipstream^^^^^
+MST_MONSTER_SKILL_NAME_172540^Wind Blade^^^^^
+MST_MONSTER_SKILL_NAME_172550^Wicked Foil^^^^^
+MST_MONSTER_SKILL_NAME_172560^Slipstream^^^^^
+MST_MONSTER_SKILL_NAME_172570^Wind Blade^^^^^
+MST_MONSTER_SKILL_NAME_172580^Wicked Foil^^^^^
+MST_MONSTER_SKILL_NAME_172590^Slipstream^^^^^
+MST_MONSTER_SKILL_NAME_172600^Downburst^^^^^
+MST_MONSTER_SKILL_NAME_172610^Wind Blade^^^^^
+MST_MONSTER_SKILL_NAME_172620^Wicked Foil^^^^^
+MST_MONSTER_SKILL_NAME_172630^Slipstream^^^^^
+MST_MONSTER_SKILL_NAME_172640^Downburst^^^^^
+MST_MONSTER_SKILL_NAME_172650^Plumage^^^^^
+MST_MONSTER_SKILL_NAME_172660^Its wings have exploded!^^^^^
+MST_MONSTER_SKILL_NAME_172670^Wind Blade^^^^^
+MST_MONSTER_SKILL_NAME_172680^Wicked Foil^^^^^
+MST_MONSTER_SKILL_NAME_172690^Slipstream^^^^^
+MST_MONSTER_SKILL_NAME_172700^Downburst^^^^^
+MST_MONSTER_SKILL_NAME_172710^Downburst^^^^^
+MST_MONSTER_SKILL_NAME_172720^Plumage^^^^^
+MST_MONSTER_SKILL_NAME_172730^Its wings have exploded!^^^^^
+MST_MONSTER_SKILL_NAME_172740^Aerial Blast^^^^^
+MST_MONSTER_SKILL_NAME_172750^Aerial Blast^^^^^
+MST_MONSTER_SKILL_NAME_172760^Aerial Blast^^^^^
+MST_MONSTER_SKILL_NAME_172770^Aerial Blast^^^^^
+MST_MONSTER_SKILL_NAME_172780^Time to kill or be killed!^^^^^
+MST_MONSTER_SKILL_NAME_172790^We'll mince you to pieces!^^^^^
+MST_MONSTER_SKILL_NAME_172800^Wicked Foil^^^^^
+MST_MONSTER_SKILL_NAME_172810^Wicked Foil^^^^^
+MST_MONSTER_SKILL_NAME_172820^Downburst^^^^^
+MST_MONSTER_SKILL_NAME_172830^Wind Blade^^^^^
+MST_MONSTER_SKILL_NAME_172840^Wind Blade^^^^^
+MST_MONSTER_SKILL_NAME_172850^Slipstream^^^^^
+MST_MONSTER_SKILL_NAME_172860^Wind Blade^^^^^
+MST_MONSTER_SKILL_NAME_172870^Wicked Foil^^^^^
+MST_MONSTER_SKILL_NAME_172880^Slipstream^^^^^
+MST_MONSTER_SKILL_NAME_172890^Scorch^^^^^
+MST_MONSTER_SKILL_NAME_172900^Snowstorm^^^^^
+MST_MONSTER_SKILL_NAME_172910^Bolt^^^^^
+MST_MONSTER_SKILL_NAME_172920^Earthquake^^^^^
+MST_MONSTER_SKILL_NAME_172930^The white dragon unleased its wrath^^^^^
+MST_MONSTER_SKILL_NAME_172940^White Dragon's Protection^^^^^
+MST_MONSTER_SKILL_NAME_172950^White Dragon's Roar^^^^^
+MST_MONSTER_SKILL_NAME_172960^White Dragon's Awe^^^^^
+MST_MONSTER_SKILL_NAME_172970^Blaze^^^^^
+MST_MONSTER_SKILL_NAME_172980^Icestorm^^^^^
+MST_MONSTER_SKILL_NAME_172990^Thunderbolt^^^^^
+MST_MONSTER_SKILL_NAME_173000^Venom Breath^^^^^
+MST_MONSTER_SKILL_NAME_173010^Chimera Pupil^^^^^
+MST_MONSTER_SKILL_NAME_173020^Romp^^^^^
+MST_MONSTER_SKILL_NAME_173030^Sweep^^^^^
+MST_MONSTER_SKILL_NAME_173040^Beast's Seal^^^^^
+MST_MONSTER_SKILL_NAME_173050^Beast's Roar^^^^^
+MST_MONSTER_SKILL_NAME_173060^Tsunami^^^^^
+MST_MONSTER_SKILL_NAME_173070^Waterga^^^^^
+MST_MONSTER_SKILL_NAME_173080^Blizzaga^^^^^
+MST_MONSTER_SKILL_NAME_173090^Gigantic Tornado^^^^^
+MST_MONSTER_SKILL_NAME_173100^Stone Gaze^^^^^
+MST_MONSTER_SKILL_NAME_173110^Strike^^^^^
+MST_MONSTER_SKILL_NAME_173120^Mow Down^^^^^
+MST_MONSTER_SKILL_NAME_173130^Surge, raging waters!^^^^^
+MST_MONSTER_SKILL_NAME_173140^Haste^^^^^
+MST_MONSTER_SKILL_NAME_173150^Protect^^^^^
+MST_MONSTER_SKILL_NAME_173160^Tsunami^^^^^
+MST_MONSTER_SKILL_NAME_173170^Waterga^^^^^
+MST_MONSTER_SKILL_NAME_173180^Blizzaga^^^^^
+MST_MONSTER_SKILL_NAME_173190^Flood^^^^^
+MST_MONSTER_SKILL_NAME_173200^Stone Gaze^^^^^
+MST_MONSTER_SKILL_NAME_173210^Gigantic Tornado^^^^^
+MST_MONSTER_SKILL_NAME_173220^Strike^^^^^
+MST_MONSTER_SKILL_NAME_173230^Mow Down^^^^^
+MST_MONSTER_SKILL_NAME_173240^Surge, raging waters!^^^^^
+MST_MONSTER_SKILL_NAME_173250^Haste^^^^^
+MST_MONSTER_SKILL_NAME_173260^Protect^^^^^
+MST_MONSTER_SKILL_NAME_173270^Sealing Foam^^^^^
+MST_MONSTER_SKILL_NAME_173280^Bubbles of Rage^^^^^
+MST_MONSTER_SKILL_NAME_173290^Spin^^^^^
+MST_MONSTER_SKILL_NAME_173300^Disaster^^^^^
+MST_MONSTER_SKILL_NAME_173310^Meteor^^^^^
+MST_MONSTER_SKILL_NAME_173320^Ultima^^^^^
+MST_MONSTER_SKILL_NAME_173330^Focusing magic power!^^^^^
+MST_MONSTER_SKILL_NAME_173340^Strike^^^^^
+MST_MONSTER_SKILL_NAME_173350^Counter^^^^^
+MST_MONSTER_SKILL_NAME_173360^Dual Thrust^^^^^
+MST_MONSTER_SKILL_NAME_173370^Skewer^^^^^
+MST_MONSTER_SKILL_NAME_173380^Fighting Spirit^^^^^
+MST_MONSTER_SKILL_NAME_173390^Foot Trip^^^^^
+MST_MONSTER_SKILL_NAME_173400^Sonic Boom^^^^^
+MST_MONSTER_SKILL_NAME_173410^Aeroga^^^^^
+MST_MONSTER_SKILL_NAME_173420^Dive^^^^^
+MST_MONSTER_SKILL_NAME_173430^Shock Wave^^^^^
+MST_MONSTER_SKILL_NAME_173440^Bash^^^^^
+MST_MONSTER_SKILL_NAME_173450^Stone Gaze^^^^^
+MST_MONSTER_SKILL_NAME_173460^Hose^^^^^
+MST_MONSTER_SKILL_NAME_173470^Curse^^^^^
+MST_MONSTER_SKILL_NAME_173480^Takedown^^^^^
+MST_MONSTER_SKILL_NAME_173490^Shock Wave^^^^^
+MST_MONSTER_SKILL_NAME_173500^Bladeblitz^^^^^
+MST_MONSTER_SKILL_NAME_173510^Charge^^^^^
+MST_MONSTER_SKILL_NAME_173520^Bite^^^^^
+MST_MONSTER_SKILL_NAME_173530^War Cry^^^^^
+MST_MONSTER_SKILL_NAME_173540^Spore^^^^^
+MST_MONSTER_SKILL_NAME_173550^Leech^^^^^
+MST_MONSTER_SKILL_NAME_173560^Floral Bouquet^^^^^
+MST_MONSTER_SKILL_NAME_173570^Spore Dance^^^^^
+MST_MONSTER_SKILL_NAME_173580^Smelly Breath^^^^^
+MST_MONSTER_SKILL_NAME_173590^Bile^^^^^
+MST_MONSTER_SKILL_NAME_173600^Active^^^^^
+MST_MONSTER_SKILL_NAME_173610^Tentacle^^^^^
+MST_MONSTER_SKILL_NAME_173620^Super Leech^^^^^
+MST_MONSTER_SKILL_NAME_173630^Firaga^^^^^
+MST_MONSTER_SKILL_NAME_173640^Stonga^^^^^
+MST_MONSTER_SKILL_NAME_173650^Waterga^^^^^
+MST_MONSTER_SKILL_NAME_173660^Poison Stab^^^^^
+MST_MONSTER_SKILL_NAME_173670^Blizzaga^^^^^
+MST_MONSTER_SKILL_NAME_173680^Bioga^^^^^
+MST_MONSTER_SKILL_NAME_173690^Stop^^^^^
+MST_MONSTER_SKILL_NAME_173700^Blindga^^^^^
+MST_MONSTER_SKILL_NAME_173710^Darkga^^^^^
+MST_MONSTER_SKILL_NAME_173720^Crushing Fang^^^^^
+MST_MONSTER_SKILL_NAME_173730^Strong Claw^^^^^
+MST_MONSTER_SKILL_NAME_173740^Flame Saber^^^^^
+MST_MONSTER_SKILL_NAME_173750^Flame Saber^^^^^
+MST_MONSTER_SKILL_NAME_173760^Diamond Saber^^^^^
+MST_MONSTER_SKILL_NAME_173770^Diamond Saber^^^^^
+MST_MONSTER_SKILL_NAME_173780^Thunder Saber^^^^^
+MST_MONSTER_SKILL_NAME_173790^Thunder Saber^^^^^
+MST_MONSTER_SKILL_NAME_173800^Healing Light^^^^^
+MST_MONSTER_SKILL_NAME_173810^Healing Light^^^^^
+MST_MONSTER_SKILL_NAME_173820^Healing Light^^^^^
+MST_MONSTER_SKILL_NAME_173830^Air Blast^^^^^
+MST_MONSTER_SKILL_NAME_173840^Air Blast^^^^^
+MST_MONSTER_SKILL_NAME_173850^Ice Smash^^^^^
+MST_MONSTER_SKILL_NAME_173860^Ice Smash^^^^^
+MST_MONSTER_SKILL_NAME_173870^Fireball^^^^^
+MST_MONSTER_SKILL_NAME_173880^Fireball^^^^^
+MST_MONSTER_SKILL_NAME_173890^Diamond Missile^^^^^
+MST_MONSTER_SKILL_NAME_173900^Diamond Missile^^^^^
+MST_MONSTER_SKILL_NAME_173910^Evil Gate^^^^^
+MST_MONSTER_SKILL_NAME_173920^Evil Gate^^^^^
+MST_MONSTER_SKILL_NAME_173930^Miasmatic Breath^^^^^
+MST_MONSTER_SKILL_NAME_173940^Miasmatic Breath^^^^^
+MST_MONSTER_SKILL_NAME_173950^Four Blast^^^^^
+MST_MONSTER_SKILL_NAME_173960^Four Blast^^^^^
+MST_MONSTER_SKILL_NAME_173970^Body Slam^^^^^
+MST_MONSTER_SKILL_NAME_173980^Body Slam^^^^^
+MST_MONSTER_SKILL_NAME_173990^Fire Shot^^^^^
+MST_MONSTER_SKILL_NAME_174000^Fire Shot^^^^^
+MST_MONSTER_SKILL_NAME_174010^Scratch^^^^^
+MST_MONSTER_SKILL_NAME_174020^Scratch^^^^^
+MST_MONSTER_SKILL_NAME_174030^Protect Drain^^^^^
+MST_MONSTER_SKILL_NAME_174040^Protect Drain^^^^^
+MST_MONSTER_SKILL_NAME_174050^Super Sonic^^^^^
+MST_MONSTER_SKILL_NAME_174060^Super Sonic^^^^^
+MST_MONSTER_SKILL_NAME_174070^Holy Ball^^^^^
+MST_MONSTER_SKILL_NAME_174080^Holy Ball^^^^^
+MST_MONSTER_SKILL_NAME_174090^Bubble Breath^^^^^
+MST_MONSTER_SKILL_NAME_174100^Bubble Breath^^^^^
+MST_MONSTER_SKILL_NAME_174110^Eye Beam^^^^^
+MST_MONSTER_SKILL_NAME_174120^Eye Beam^^^^^
+MST_MONSTER_SKILL_NAME_174130^Diving Attack^^^^^
+MST_MONSTER_SKILL_NAME_174140^Diving Attack^^^^^
+MST_MONSTER_SKILL_NAME_174150^Trap Level 1^^^^^
+MST_MONSTER_SKILL_NAME_174160^Trap Level 1^^^^^
+MST_MONSTER_SKILL_NAME_174170^Trap Level 2^^^^^
+MST_MONSTER_SKILL_NAME_174180^Trap Level 2^^^^^
+MST_MONSTER_SKILL_NAME_174190^Melting Wave^^^^^
+MST_MONSTER_SKILL_NAME_174200^Melting Wave^^^^^
+MST_MONSTER_SKILL_NAME_174210^Lunatic^^^^^
+MST_MONSTER_SKILL_NAME_174220^Lunatic^^^^^
+MST_MONSTER_SKILL_NAME_174230^Power Boost^^^^^
+MST_MONSTER_SKILL_NAME_174240^Power Boost^^^^^
+MST_MONSTER_SKILL_NAME_174250^Rose Claw^^^^^
+MST_MONSTER_SKILL_NAME_174260^Half Banish^^^^^
+MST_MONSTER_SKILL_NAME_174270^Lamian Naga^^^^^
+MST_MONSTER_SKILL_NAME_174280^Dashing Thrust^^^^^
+MST_MONSTER_SKILL_NAME_174290^Dashing Thrust^^^^^
+MST_MONSTER_SKILL_NAME_174300^Eye of the Warrior^^^^^
+MST_MONSTER_SKILL_NAME_174310^Dual Vacuum Slash^^^^^
+MST_MONSTER_SKILL_NAME_174320^Counter Slash^^^^^
+MST_MONSTER_SKILL_NAME_174330^Counter Spell^^^^^
+MST_MONSTER_SKILL_NAME_174340^Cure^^^^^
+MST_MONSTER_SKILL_NAME_174350^It's wearing a water membrane^^^^^
+MST_MONSTER_SKILL_NAME_174360^Its water wear burst open^^^^^
+MST_MONSTER_SKILL_NAME_174370^Ferocious Current^^^^^
+MST_MONSTER_SKILL_NAME_174380^White Breath^^^^^
+MST_MONSTER_SKILL_NAME_174390^Shadowflare^^^^^
+MST_MONSTER_SKILL_NAME_174400^Its water membrane is trembling^^^^^
+MST_MONSTER_SKILL_NAME_174410^It is conjuring powerful magic^^^^^
+MST_MONSTER_SKILL_NAME_174420^Blazing Warhead^^^^^
+MST_MONSTER_SKILL_NAME_174430^Blazing Warhead^^^^^
+MST_MONSTER_SKILL_NAME_174440^Torrential Warhead^^^^^
+MST_MONSTER_SKILL_NAME_174450^Torrential Warhead^^^^^
+MST_MONSTER_SKILL_NAME_174460^Carnage Flare^^^^^
+MST_MONSTER_SKILL_NAME_174470^Carnage Flare^^^^^
+MST_MONSTER_SKILL_NAME_174480^Tornado Cross^^^^^
+MST_MONSTER_SKILL_NAME_174490^Tornado Cross^^^^^
+MST_MONSTER_SKILL_NAME_174500^Magic Fists^^^^^
+MST_MONSTER_SKILL_NAME_174510^Magic Fists^^^^^
+MST_MONSTER_SKILL_NAME_174520^Eye of Light^^^^^
+MST_MONSTER_SKILL_NAME_174530^Magnum Opus^^^^^
+MST_MONSTER_SKILL_NAME_174540^Magnum Opus^^^^^
+MST_MONSTER_SKILL_NAME_174550^It's melted together with magic power^^^^^
+MST_MONSTER_SKILL_NAME_174560^Luminous Ring^^^^^
+MST_MONSTER_SKILL_NAME_174570^The hole in the space is opening^^^^^
+MST_MONSTER_SKILL_NAME_174580^Black Hole^^^^^
+MST_MONSTER_SKILL_NAME_174590^Flames of Anger^^^^^
+MST_MONSTER_SKILL_NAME_174600^Storm of Resentment^^^^^
+MST_MONSTER_SKILL_NAME_174610^Its resistance to fire and wind have been taken away^^^^^
+MST_MONSTER_SKILL_NAME_174620^Arsmagna^^^^^
+MST_MONSTER_SKILL_NAME_174630^Miasmatic Breath^^^^^
+MST_MONSTER_SKILL_NAME_174640^Poison Mist^^^^^
+MST_MONSTER_SKILL_NAME_174650^Constrict^^^^^
+MST_MONSTER_SKILL_NAME_174660^Constrict^^^^^
+MST_MONSTER_SKILL_NAME_174670^Watergun^^^^^
+MST_MONSTER_SKILL_NAME_174680^Watergun^^^^^
+MST_MONSTER_SKILL_NAME_174690^Rampage^^^^^
+MST_MONSTER_SKILL_NAME_174700^Ink^^^^^
+MST_MONSTER_SKILL_NAME_174710^Paralyzing Pollen^^^^^
+MST_MONSTER_SKILL_NAME_174720^Cellular Regeneration^^^^^
+MST_MONSTER_SKILL_NAME_174730^Poisonous Liquid^^^^^
+MST_MONSTER_SKILL_NAME_174740^Water^^^^^
+MST_MONSTER_SKILL_NAME_174750^Lunatic Voice^^^^^
+MST_MONSTER_SKILL_NAME_174760^Trample^^^^^
+MST_MONSTER_SKILL_NAME_174770^Manuplatoshiza^^^^^
+MST_MONSTER_SKILL_NAME_174780^Trample^^^^^
+MST_MONSTER_SKILL_NAME_174790^Manuplatoshiza^^^^^
+MST_MONSTER_SKILL_NAME_174800^Auto-gun^^^^^
+MST_MONSTER_SKILL_NAME_174810^Vertical Missile^^^^^
+MST_MONSTER_SKILL_NAME_174820^Trample^^^^^
+MST_MONSTER_SKILL_NAME_174830^Manuplatoshiza^^^^^
+MST_MONSTER_SKILL_NAME_174840^Auto-gun^^^^^
+MST_MONSTER_SKILL_NAME_174850^Vertical Missile^^^^^
+MST_MONSTER_SKILL_NAME_174860^Spear Shock^^^^^
+MST_MONSTER_SKILL_NAME_174870^Shrapnel^^^^^
+MST_MONSTER_SKILL_NAME_174880^Trample^^^^^
+MST_MONSTER_SKILL_NAME_174890^Manuplatoshiza^^^^^
+MST_MONSTER_SKILL_NAME_174900^Auto-gun^^^^^
+MST_MONSTER_SKILL_NAME_174910^Vertical Missile^^^^^
+MST_MONSTER_SKILL_NAME_174920^Spear Shock^^^^^
+MST_MONSTER_SKILL_NAME_174930^Shrapnel^^^^^
+MST_MONSTER_SKILL_NAME_174940^Fuselage Detonation^^^^^
+MST_MONSTER_SKILL_NAME_174950^Front Thrust^^^^^
+MST_MONSTER_SKILL_NAME_174960^Dash Thrust^^^^^
+MST_MONSTER_SKILL_NAME_174970^Brandish^^^^^
+MST_MONSTER_SKILL_NAME_174971^Brandish^^^^^
+MST_MONSTER_SKILL_NAME_174980^Smash^^^^^
+MST_MONSTER_SKILL_NAME_174990^Swooping Blow^^^^^
+MST_MONSTER_SKILL_NAME_175000^Air Superiority^^^^^
+MST_MONSTER_SKILL_NAME_175010^Air Superiority^^^^^
+MST_MONSTER_SKILL_NAME_175020^Air Superiority^^^^^
+MST_MONSTER_SKILL_NAME_175030^Roundhouse Kick^^^^^
+MST_MONSTER_SKILL_NAME_175040^Flying Remnants^^^^^
+MST_MONSTER_SKILL_NAME_175050^Radical Belief^^^^^
+MST_MONSTER_SKILL_NAME_175060^Wind Reader^^^^^
+MST_MONSTER_SKILL_NAME_175070^Over Boost^^^^^
+MST_MONSTER_SKILL_NAME_175080^Over Boost^^^^^
+MST_MONSTER_SKILL_NAME_175090^Over Boost^^^^^
+MST_MONSTER_SKILL_NAME_175100^Over Boost^^^^^
+MST_MONSTER_SKILL_NAME_175110^Firaga^^^^^
+MST_MONSTER_SKILL_NAME_175120^Waterga^^^^^
+MST_MONSTER_SKILL_NAME_175130^Aeroga^^^^^
+MST_MONSTER_SKILL_NAME_175140^Stonga^^^^^
+MST_MONSTER_SKILL_NAME_175150^Numbing Whip^^^^^
+MST_MONSTER_SKILL_NAME_175160^Sticky Liquid^^^^^
+MST_MONSTER_SKILL_NAME_175170^Ochu Dance^^^^^
+MST_MONSTER_SKILL_NAME_175180^High-speed Spin^^^^^
+MST_MONSTER_SKILL_NAME_175190^Pollen^^^^^
+MST_MONSTER_SKILL_NAME_175200^Pollinization^^^^^
+MST_MONSTER_SKILL_NAME_175210^Boost^^^^^
+MST_MONSTER_SKILL_NAME_175220^Crash^^^^^
+MST_MONSTER_SKILL_NAME_175230^Malstrom^^^^^
+MST_MONSTER_SKILL_NAME_175240^Pincers^^^^^
+MST_MONSTER_SKILL_NAME_175250^Butt Kick^^^^^
+MST_MONSTER_SKILL_NAME_175260^Shifting Sands^^^^^
+MST_MONSTER_SKILL_NAME_175270^Absorption^^^^^
+MST_MONSTER_SKILL_NAME_175280^Bile^^^^^
+MST_MONSTER_SKILL_NAME_175290^Mythril Bubble^^^^^
+MST_MONSTER_SKILL_NAME_175300^Water Gun^^^^^
+MST_MONSTER_SKILL_NAME_175310^Magnitude 8^^^^^
+MST_MONSTER_SKILL_NAME_175320^Hailstone^^^^^
+MST_MONSTER_SKILL_NAME_175330^Millstone^^^^^
+MST_MONSTER_SKILL_NAME_175340^Blizzaga^^^^^
+MST_MONSTER_SKILL_NAME_175350^Aeroga^^^^^
+MST_MONSTER_SKILL_NAME_175360^Mirror of Equity^^^^^
+MST_MONSTER_SKILL_NAME_175370^Moonlight Fall^^^^^
+MST_MONSTER_SKILL_NAME_175380^Exorcising Storm^^^^^
+MST_MONSTER_SKILL_NAME_175390^Blade Flash - Awakened^^^^^
+MST_MONSTER_SKILL_NAME_175400^Mirror of Retribution^^^^^
+MST_MONSTER_SKILL_NAME_175410^Heavensplitter^^^^^
+MST_MONSTER_SKILL_NAME_175420^Crimson Flash^^^^^
+MST_MONSTER_SKILL_NAME_175430^Blade Flash - Final^^^^^
+MST_MONSTER_SKILL_NAME_175440^Fatal Bloom^^^^^
+MST_MONSTER_SKILL_NAME_175450^Crimson Era^^^^^
+MST_MONSTER_SKILL_NAME_175460^Base of the Stream^^^^^
+MST_MONSTER_SKILL_NAME_175470^Power Break^^^^^
+MST_MONSTER_SKILL_NAME_175480^Royal Armlet^^^^^
+MST_MONSTER_SKILL_NAME_175490^Lift Spirits^^^^^
+MST_MONSTER_SKILL_NAME_175500^Shield Impact^^^^^
+MST_MONSTER_SKILL_NAME_175510^Embolden^^^^^
+MST_MONSTER_SKILL_NAME_175520^Fortify^^^^^
+MST_MONSTER_SKILL_NAME_175530^General's Command^^^^^
+MST_MONSTER_SKILL_NAME_175540^Shield Bash^^^^^
+MST_MONSTER_SKILL_NAME_175550^Imperial Lance^^^^^
+MST_MONSTER_SKILL_NAME_175560^Guard Smite^^^^^
+MST_MONSTER_SKILL_NAME_175570^Great Wall^^^^^
+MST_MONSTER_SKILL_NAME_175580^Invincible Heart^^^^^
+MST_MONSTER_SKILL_NAME_175590^Sweet Breath^^^^^
+MST_MONSTER_SKILL_NAME_175600^Grand Delta^^^^^
+MST_MONSTER_SKILL_NAME_175610^Bioga^^^^^
+MST_MONSTER_SKILL_NAME_175620^Leech^^^^^
+MST_MONSTER_SKILL_NAME_175630^Crypt Dust^^^^^
+MST_MONSTER_SKILL_NAME_175640^Predation^^^^^
+MST_MONSTER_SKILL_NAME_175650^Wind Slash^^^^^
+MST_MONSTER_SKILL_NAME_175660^Mind Sickle^^^^^
+MST_MONSTER_SKILL_NAME_175670^Snare^^^^^
+MST_MONSTER_SKILL_NAME_175680^Chew^^^^^
+MST_MONSTER_SKILL_NAME_175690^Electric Shock^^^^^
+MST_MONSTER_SKILL_NAME_175700^Scatter Laser^^^^^
+MST_MONSTER_SKILL_NAME_175710^Auto-gun^^^^^
+MST_MONSTER_SKILL_NAME_175720^Silver Lance^^^^^
+MST_MONSTER_SKILL_NAME_175730^Charge^^^^^
+MST_MONSTER_SKILL_NAME_175740^Stomp^^^^^
+MST_MONSTER_SKILL_NAME_175750^Energy Balance^^^^^
+MST_MONSTER_SKILL_NAME_175760^Magitek Laser^^^^^
+MST_MONSTER_SKILL_NAME_175770^Peer^^^^^
+MST_MONSTER_SKILL_NAME_175780^Plasma^^^^^
+MST_MONSTER_SKILL_NAME_175790^Overflow^^^^^
+MST_MONSTER_SKILL_NAME_175800^Brain Shocker^^^^^
+MST_MONSTER_SKILL_NAME_175810^Brutish Mentality^^^^^
+MST_MONSTER_SKILL_NAME_175820^Brutish Mentality^^^^^
+MST_MONSTER_SKILL_NAME_175830^Brutish Mentality^^^^^
+MST_MONSTER_SKILL_NAME_175840^Brutish Mentality^^^^^
+MST_MONSTER_SKILL_NAME_175850^Berserk Mode^^^^^
+MST_MONSTER_SKILL_NAME_175860^Double Tomahawk^^^^^
+MST_MONSTER_SKILL_NAME_175870^Smash^^^^^
+MST_MONSTER_SKILL_NAME_175880^Angry Attack^^^^^
+MST_MONSTER_SKILL_NAME_175890^Tiger Break^^^^^
+MST_MONSTER_SKILL_NAME_175900^Power Break^^^^^
+MST_MONSTER_SKILL_NAME_175910^Meteor^^^^^
+MST_MONSTER_SKILL_NAME_175920^Reaper^^^^^
+MST_MONSTER_SKILL_NAME_175930^Reaper^^^^^
+MST_MONSTER_SKILL_NAME_175940^Reaper^^^^^
+MST_MONSTER_SKILL_NAME_175950^Pressure is tightening!^^^^^
+MST_MONSTER_SKILL_NAME_175960^Pressure is tightening!^^^^^
+MST_MONSTER_SKILL_NAME_175970^Pressure is tightening!^^^^^
+MST_MONSTER_SKILL_NAME_175980^The pressure is overwhelming!^^^^^
+MST_MONSTER_SKILL_NAME_175990^The pressure is overwhelming!^^^^^
+MST_MONSTER_SKILL_NAME_176000^The pressure is overwhelming!^^^^^
+MST_MONSTER_SKILL_NAME_176010^Power is being released!^^^^^
+MST_MONSTER_SKILL_NAME_176020^Power is being released!^^^^^
+MST_MONSTER_SKILL_NAME_176030^Drifting off...^^^^^
+MST_MONSTER_SKILL_NAME_176040^It's dozing off...^^^^^
+MST_MONSTER_SKILL_NAME_176050^Awoken^^^^^
+MST_MONSTER_SKILL_NAME_176060^It's in a deep sleep^^^^^
+MST_MONSTER_SKILL_NAME_176070^Meteor^^^^^
+MST_MONSTER_SKILL_NAME_176080^Thunderous Meteor^^^^^
+MST_MONSTER_SKILL_NAME_176090^Heave^^^^^
+MST_MONSTER_SKILL_NAME_176100^Lion's Rough Claw^^^^^
+MST_MONSTER_SKILL_NAME_176110^Drowsy Phage^^^^^
+MST_MONSTER_SKILL_NAME_176120^Bacteriophage^^^^^
+MST_MONSTER_SKILL_NAME_176130^Rake^^^^^
+MST_MONSTER_SKILL_NAME_176140^Violent Scratch^^^^^
+MST_MONSTER_SKILL_NAME_176150^Awakening Anger^^^^^
+MST_MONSTER_SKILL_NAME_176160^It yawned...^^^^^
+MST_MONSTER_SKILL_NAME_176170^Heavenly Collapse^^^^^
+MST_MONSTER_SKILL_NAME_176180^Lamb Chop^^^^^
+MST_MONSTER_SKILL_NAME_176190^Lamb Chop^^^^^
+MST_MONSTER_SKILL_NAME_176200^Warsong^^^^^
+MST_MONSTER_SKILL_NAME_176210^Crash^^^^^
+MST_MONSTER_SKILL_NAME_176220^Crash^^^^^
+MST_MONSTER_SKILL_NAME_176230^Magic Ballad^^^^^
+MST_MONSTER_SKILL_NAME_176240^Magic Ballad^^^^^
+MST_MONSTER_SKILL_NAME_176250^Whirlwind^^^^^
+MST_MONSTER_SKILL_NAME_176260^Whirlwind^^^^^
+MST_MONSTER_SKILL_NAME_176270^Aero^^^^^
+MST_MONSTER_SKILL_NAME_176280^Aero^^^^^
+MST_MONSTER_SKILL_NAME_176290^Chocomet^^^^^
+MST_MONSTER_SKILL_NAME_176300^Chocomet^^^^^
+MST_MONSTER_SKILL_NAME_176310^Fear^^^^^
+MST_MONSTER_SKILL_NAME_176320^Silencega^^^^^
+MST_MONSTER_SKILL_NAME_176330^Sleepga^^^^^
+MST_MONSTER_SKILL_NAME_176340^It responded to magic^^^^^
+MST_MONSTER_SKILL_NAME_176350^Aquatic Hurricane^^^^^
+MST_MONSTER_SKILL_NAME_176360^Tri-attack^^^^^
+MST_MONSTER_SKILL_NAME_176370^Sonic Turn^^^^^
+MST_MONSTER_SKILL_NAME_176380^Thunder^^^^^
+MST_MONSTER_SKILL_NAME_176390^Fire^^^^^
+MST_MONSTER_SKILL_NAME_176400^Recovery^^^^^
+MST_MONSTER_SKILL_NAME_176410^Boil^^^^^
+MST_MONSTER_SKILL_NAME_176420^Fire^^^^^
+MST_MONSTER_SKILL_NAME_176430^Firaja^^^^^
+MST_MONSTER_SKILL_NAME_176440^Hellfire^^^^^
+MST_MONSTER_SKILL_NAME_176450^Something's moving in the coffin^^^^^
+MST_MONSTER_SKILL_NAME_176460^Something's moving in the coffin^^^^^
+MST_MONSTER_SKILL_NAME_176470^Shocking Shell^^^^^
+MST_MONSTER_SKILL_NAME_176480^Shocking Shell^^^^^
+MST_MONSTER_SKILL_NAME_176490^Light of Destruction^^^^^
+MST_MONSTER_SKILL_NAME_176500^Light of Destruction^^^^^
+MST_MONSTER_SKILL_NAME_176510^Australis^^^^^
+MST_MONSTER_SKILL_NAME_176520^Australis^^^^^
+MST_MONSTER_SKILL_NAME_176530^It's wrapped in a suspicious light!^^^^^
+MST_MONSTER_SKILL_NAME_176540^It's wrapped in a suspicious light!^^^^^
+MST_MONSTER_SKILL_NAME_176550^They were swallowed into the coffin!^^^^^
+MST_MONSTER_SKILL_NAME_176560^A strange figure appeared from the coffin!^^^^^
+MST_MONSTER_SKILL_NAME_176570^This is our all-out attack!^^^^^
+MST_MONSTER_SKILL_NAME_176580^Feel our blades!^^^^^
+MST_MONSTER_SKILL_NAME_176590^Counter Zapper^^^^^
+MST_MONSTER_SKILL_NAME_176600^Your attack sent a piece of them flying^^^^^
+MST_MONSTER_SKILL_NAME_176610^Your attack sent some liquid flying^^^^^
+MST_MONSTER_SKILL_NAME_176620^Chaos Rampage^^^^^
+MST_MONSTER_SKILL_NAME_176630^Sewage is pouring down!^^^^^
+MST_MONSTER_SKILL_NAME_176640^Lethal Stab^^^^^
+MST_MONSTER_SKILL_NAME_176650^Mjul Ujul^^^^^
+MST_MONSTER_SKILL_NAME_176660^Megyornia^^^^^
+MST_MONSTER_SKILL_NAME_176670^Poisonous Bleeding^^^^^
+MST_MONSTER_SKILL_NAME_176680^Fire Beam^^^^^
+MST_MONSTER_SKILL_NAME_176690^Fire Beam^^^^^
+MST_MONSTER_SKILL_NAME_176700^Blizzard Beam^^^^^
+MST_MONSTER_SKILL_NAME_176710^Blizzard Beam^^^^^
+MST_MONSTER_SKILL_NAME_176720^Thunder Beam^^^^^
+MST_MONSTER_SKILL_NAME_176730^Thunder Beam^^^^^
+MST_MONSTER_SKILL_NAME_176740^Toxic Laser^^^^^
+MST_MONSTER_SKILL_NAME_176750^Toxic Laser^^^^^
+MST_MONSTER_SKILL_NAME_176760^Magitek Coating^^^^^
+MST_MONSTER_SKILL_NAME_176770^Magitek Coating^^^^^
+MST_MONSTER_SKILL_NAME_176780^Overheat^^^^^
+MST_MONSTER_SKILL_NAME_176790^Axe^^^^^
+MST_MONSTER_SKILL_NAME_176800^Sweep^^^^^
+MST_MONSTER_SKILL_NAME_176810^Sturdy Stance^^^^^
+MST_MONSTER_SKILL_NAME_176820^Sturdy Stance^^^^^
+MST_MONSTER_SKILL_NAME_176830^Great Axe Slash^^^^^
+MST_MONSTER_SKILL_NAME_176840^Great Axe Slash^^^^^
+MST_MONSTER_SKILL_NAME_176850^Axe Demolition Slash^^^^^
+MST_MONSTER_SKILL_NAME_176860^Axe Demolition Slash^^^^^
+MST_MONSTER_SKILL_NAME_176870^Flashing Shot^^^^^
+MST_MONSTER_SKILL_NAME_176880^Bubble Blow^^^^^
+MST_MONSTER_SKILL_NAME_176890^Sphere Blow^^^^^
+MST_MONSTER_SKILL_NAME_176900^Bubble Blow^^^^^
+MST_MONSTER_SKILL_NAME_176910^Sphere Blow^^^^^
+MST_MONSTER_SKILL_NAME_176920^Pure - Water Ball^^^^^
+MST_MONSTER_SKILL_NAME_176930^Bubble Blow^^^^^
+MST_MONSTER_SKILL_NAME_176940^Sphere Blow^^^^^
+MST_MONSTER_SKILL_NAME_176950^Pure - Water Ball^^^^^
+MST_MONSTER_SKILL_NAME_176960^Dirty - Water Ball^^^^^
+MST_MONSTER_SKILL_NAME_176970^Bubble Blow^^^^^
+MST_MONSTER_SKILL_NAME_176980^Sphere Blow^^^^^
+MST_MONSTER_SKILL_NAME_176990^Pure - Water Ball^^^^^
+MST_MONSTER_SKILL_NAME_177000^Dirty - Water Ball^^^^^
+MST_MONSTER_SKILL_NAME_177010^Deadly - Water Ball^^^^^
+MST_MONSTER_SKILL_NAME_177020^Chaotic Spout^^^^^
+MST_MONSTER_SKILL_NAME_177030^Disruptive Winds^^^^^
+MST_MONSTER_SKILL_NAME_177040^Disruptive Winds^^^^^
+MST_MONSTER_SKILL_NAME_177050^Calming Stroke^^^^^
+MST_MONSTER_SKILL_NAME_177060^Calming Stroke^^^^^
+MST_MONSTER_SKILL_NAME_177070^Dark Calming Stroke^^^^^
+MST_MONSTER_SKILL_NAME_177080^Sudden Madness^^^^^
+MST_MONSTER_SKILL_NAME_177090^Sudden Madness^^^^^
+MST_MONSTER_SKILL_NAME_177100^Strong Breeze^^^^^
+MST_MONSTER_SKILL_NAME_177110^Strong Breeze^^^^^
+MST_MONSTER_SKILL_NAME_177120^Default I^^^^^
+MST_MONSTER_SKILL_NAME_177130^Default II^^^^^
+MST_MONSTER_SKILL_NAME_177140^Brave II^^^^^
+MST_MONSTER_SKILL_NAME_177150^Insightful Trial^^^^^
+MST_MONSTER_SKILL_NAME_177160^Wicked Sight^^^^^
+MST_MONSTER_SKILL_NAME_177170^Mumyoh-no-yami^^^^^
+MST_MONSTER_SKILL_NAME_177180^Anya-no-koishi^^^^^
+MST_MONSTER_SKILL_NAME_177190^The trial was cancelled^^^^^
+MST_MONSTER_SKILL_NAME_177200^Thunderstrike^^^^^
+MST_MONSTER_SKILL_NAME_177210^Thundaja^^^^^
+MST_MONSTER_SKILL_NAME_177220^Judgment Bolt^^^^^
+MST_MONSTER_SKILL_NAME_177230^Lightning Wave^^^^^
+MST_MONSTER_SKILL_NAME_177240^Blizzard^^^^^
+MST_MONSTER_SKILL_NAME_177250^Blizzaja^^^^^
+MST_MONSTER_SKILL_NAME_177260^Diamond Dust^^^^^
+MST_MONSTER_SKILL_NAME_177270^Shooting Hail^^^^^
+MST_MONSTER_SKILL_NAME_177280^Water^^^^^
+MST_MONSTER_SKILL_NAME_177290^Thundara^^^^^
+MST_MONSTER_SKILL_NAME_177300^Blizzara^^^^^
+MST_MONSTER_SKILL_NAME_177310^Tornado^^^^^
+MST_MONSTER_SKILL_NAME_177320^Watera^^^^^
+MST_MONSTER_SKILL_NAME_177330^Hack^^^^^
+MST_MONSTER_SKILL_NAME_177340^Chaaarge!^^^^^
+MST_MONSTER_SKILL_NAME_177350^Reinforcements^^^^^
+MST_MONSTER_SKILL_NAME_177360^Simultaneous Attack^^^^^
+MST_MONSTER_SKILL_NAME_177370^Allure^^^^^
+MST_MONSTER_SKILL_NAME_177380^No Need For Questions!^^^^^
+MST_MONSTER_SKILL_NAME_177390^Store^^^^^
+MST_MONSTER_SKILL_NAME_177400^Darkside^^^^^
+MST_MONSTER_SKILL_NAME_177410^Lance^^^^^
+MST_MONSTER_SKILL_NAME_177420^Ice Spear^^^^^
+MST_MONSTER_SKILL_NAME_177430^Copper Hourglass^^^^^
+MST_MONSTER_SKILL_NAME_177440^Hi-Potion^^^^^
+MST_MONSTER_SKILL_NAME_177450^Holy Torch^^^^^
+MST_MONSTER_SKILL_NAME_177460^Hermes' Shoes^^^^^
+MST_MONSTER_SKILL_NAME_177470^Jump^^^^^
+MST_MONSTER_SKILL_NAME_177480^Doublejump^^^^^
+MST_MONSTER_SKILL_NAME_177490^Meteor^^^^^
+MST_MONSTER_SKILL_NAME_177500^Inescapable Horn^^^^^
+MST_MONSTER_SKILL_NAME_177510^Penetrate^^^^^
+MST_MONSTER_SKILL_NAME_177520^Disruptive Shot^^^^^
+MST_MONSTER_SKILL_NAME_177530^Doubleshot^^^^^
+MST_MONSTER_SKILL_NAME_177540^Shadowbinder^^^^^
+MST_MONSTER_SKILL_NAME_177550^Curaja^^^^^
+MST_MONSTER_SKILL_NAME_177560^Armor Break^^^^^
+MST_MONSTER_SKILL_NAME_177570^Iai Strike^^^^^
+MST_MONSTER_SKILL_NAME_177580^Bladeblitz^^^^^
+MST_MONSTER_SKILL_NAME_177590^Abandon^^^^^
+MST_MONSTER_SKILL_NAME_177600^Body Breaker^^^^^
+MST_MONSTER_SKILL_NAME_177610^Nonpareil^^^^^
+MST_MONSTER_SKILL_NAME_177620^Fingersnap^^^^^
+MST_MONSTER_SKILL_NAME_177630^Dive^^^^^
+MST_MONSTER_SKILL_NAME_177640^Great Whirlwind^^^^^
+MST_MONSTER_SKILL_NAME_177650^Stone Gaze^^^^^
+MST_MONSTER_SKILL_NAME_177660^Bash^^^^^
+MST_MONSTER_SKILL_NAME_177670^Paralyzing Tentacle^^^^^
+MST_MONSTER_SKILL_NAME_177680^Super Leech^^^^^
+MST_MONSTER_SKILL_NAME_177690^Shifting Sands^^^^^
+MST_MONSTER_SKILL_NAME_177700^Sweep^^^^^
+MST_MONSTER_SKILL_NAME_177710^Confuse^^^^^
+MST_MONSTER_SKILL_NAME_177720^Sandstorm^^^^^
+MST_MONSTER_SKILL_NAME_177730^Curaja^^^^^
+MST_MONSTER_SKILL_NAME_177740^Thundara^^^^^
+MST_MONSTER_SKILL_NAME_177750^Watera^^^^^
+MST_MONSTER_SKILL_NAME_177760^Bite^^^^^
+MST_MONSTER_SKILL_NAME_177770^Spray^^^^^
+MST_MONSTER_SKILL_NAME_177780^Northern Cross^^^^^
+MST_MONSTER_SKILL_NAME_177790^Southern Cross^^^^^
+MST_MONSTER_SKILL_NAME_177800^Metal Cutter^^^^^
+MST_MONSTER_SKILL_NAME_177810^Drill^^^^^
+MST_MONSTER_SKILL_NAME_177820^Flamethrower^^^^^
+MST_MONSTER_SKILL_NAME_177830^Hayate^^^^^
+MST_MONSTER_SKILL_NAME_177840^Howl^^^^^
+MST_MONSTER_SKILL_NAME_177850^Big Burst^^^^^
+MST_MONSTER_SKILL_NAME_177860^Direct Gaze^^^^^
+MST_MONSTER_SKILL_NAME_177870^Mythril Bubble^^^^^
+MST_MONSTER_SKILL_NAME_177880^Face Slap^^^^^
+MST_MONSTER_SKILL_NAME_177890^Fascinating Look^^^^^
+MST_MONSTER_SKILL_NAME_177900^Flash^^^^^
+MST_MONSTER_SKILL_NAME_177910^Berserk Mode^^^^^
+MST_MONSTER_SKILL_NAME_177920^Paralyze^^^^^
+MST_MONSTER_SKILL_NAME_177930^Firaga^^^^^
+MST_MONSTER_SKILL_NAME_177940^Blizzaga^^^^^
+MST_MONSTER_SKILL_NAME_177950^Thundaga^^^^^
+MST_MONSTER_SKILL_NAME_177960^Darkga^^^^^
+MST_MONSTER_SKILL_NAME_177970^Disaster^^^^^
+MST_MONSTER_SKILL_NAME_177980^Entwined^^^^^
+MST_MONSTER_SKILL_NAME_177990^Firaga^^^^^
+MST_MONSTER_SKILL_NAME_178000^Firaga^^^^^
+MST_MONSTER_SKILL_NAME_178010^Firaja^^^^^
+MST_MONSTER_SKILL_NAME_178020^Flare^^^^^
+MST_MONSTER_SKILL_NAME_178030^Flare^^^^^
+MST_MONSTER_SKILL_NAME_178040^Stonga^^^^^
+MST_MONSTER_SKILL_NAME_178050^Shamshir^^^^^
+MST_MONSTER_SKILL_NAME_178060^Fire Breath^^^^^
+MST_MONSTER_SKILL_NAME_178070^Fire Breath^^^^^
+MST_MONSTER_SKILL_NAME_178080^Dive^^^^^
+MST_MONSTER_SKILL_NAME_178090^Dive^^^^^
+MST_MONSTER_SKILL_NAME_178100^Dispel^^^^^
+MST_MONSTER_SKILL_NAME_178110^Flammable Wing^^^^^
+MST_MONSTER_SKILL_NAME_178120^Flammable Wing^^^^^
+MST_MONSTER_SKILL_NAME_178130^Flammable Wing^^^^^
+MST_MONSTER_SKILL_NAME_178140^Red Hot Feathers^^^^^
+MST_MONSTER_SKILL_NAME_178150^Flames of Reincarnation^^^^^
+MST_MONSTER_SKILL_NAME_178160^Flames of Reincarnation^^^^^
+MST_MONSTER_SKILL_NAME_178170^Wolf's Claw^^^^^
+MST_MONSTER_SKILL_NAME_178180^Wolf Claw Combo^^^^^
+MST_MONSTER_SKILL_NAME_178190^Wicked Claw Flash^^^^^
+MST_MONSTER_SKILL_NAME_178200^Spirits have entered into Adferra!^^^^^
+MST_MONSTER_SKILL_NAME_178210^Wolf's Claw^^^^^
+MST_MONSTER_SKILL_NAME_178220^Wolf's Claw^^^^^
+MST_MONSTER_SKILL_NAME_178230^Wolf's Claw^^^^^
+MST_MONSTER_SKILL_NAME_178240^Wolf Claw Combo^^^^^
+MST_MONSTER_SKILL_NAME_178250^Wolf Claw Combo^^^^^
+MST_MONSTER_SKILL_NAME_178260^Wolf Claw Combo^^^^^
+MST_MONSTER_SKILL_NAME_178270^Wicked Claw Flash^^^^^
+MST_MONSTER_SKILL_NAME_178280^Wicked Claw Flash^^^^^
+MST_MONSTER_SKILL_NAME_178290^Wicked Claw Flash^^^^^
+MST_MONSTER_SKILL_NAME_178300^Howl^^^^^
+MST_MONSTER_SKILL_NAME_178310^Gnaw Off^^^^^
+MST_MONSTER_SKILL_NAME_178320^Spirits have wrapped Adferra!^^^^^
+MST_MONSTER_SKILL_NAME_178330^Fire Claw of Death^^^^^
+MST_MONSTER_SKILL_NAME_178340^Ice Claw of Death^^^^^
+MST_MONSTER_SKILL_NAME_178350^Water Claw of Death^^^^^
+MST_MONSTER_SKILL_NAME_178360^Wind Claw of Death^^^^^
+MST_MONSTER_SKILL_NAME_178370^Lightning Claw of Death^^^^^
+MST_MONSTER_SKILL_NAME_178380^Earth Claw of Death^^^^^
+MST_MONSTER_SKILL_NAME_178390^World of Rot^^^^^
+MST_MONSTER_SKILL_NAME_178400^The beast's true nature has awakened!^^^^^
+MST_MONSTER_SKILL_NAME_178410^Blazing Drive^^^^^
+MST_MONSTER_SKILL_NAME_178420^Backfire^^^^^
+MST_MONSTER_SKILL_NAME_178430^Throw Down^^^^^
+MST_MONSTER_SKILL_NAME_178440^Continuous Slash^^^^^
+MST_MONSTER_SKILL_NAME_178450^Self-Repair^^^^^
+MST_MONSTER_SKILL_NAME_178460^Self-Repair^^^^^
+MST_MONSTER_SKILL_NAME_178470^Self-Repair^^^^^
+MST_MONSTER_SKILL_NAME_178480^Self-Repair^^^^^
+MST_MONSTER_SKILL_NAME_178490^Calamity Fang^^^^^
+MST_MONSTER_SKILL_NAME_178500^Calamity Fang^^^^^
+MST_MONSTER_SKILL_NAME_178510^Gnaw Off^^^^^
+MST_MONSTER_SKILL_NAME_178520^Defensive Instinct^^^^^
+MST_MONSTER_SKILL_NAME_178530^Pistol Shot^^^^^
+MST_MONSTER_SKILL_NAME_178540^Crushing Defeat^^^^^
+MST_MONSTER_SKILL_NAME_178550^Crushing Defeat^^^^^
+MST_MONSTER_SKILL_NAME_178560^Life Drainer^^^^^
+MST_MONSTER_SKILL_NAME_178570^Life Drainer^^^^^
+MST_MONSTER_SKILL_NAME_178580^Gasious Dissemination^^^^^
+MST_MONSTER_SKILL_NAME_178590^Gasious Dissemination^^^^^
+MST_MONSTER_SKILL_NAME_178600^Venom Blast^^^^^
+MST_MONSTER_SKILL_NAME_178610^Venom Blast^^^^^
+MST_MONSTER_SKILL_NAME_178620^Sharp Claws^^^^^
+MST_MONSTER_SKILL_NAME_178630^The Hunt^^^^^
+MST_MONSTER_SKILL_NAME_178640^Sharp Claws^^^^^
+MST_MONSTER_SKILL_NAME_178650^The Hunt^^^^^
+MST_MONSTER_SKILL_NAME_178660^Thundaga^^^^^
+MST_MONSTER_SKILL_NAME_178670^Sharp Claws^^^^^
+MST_MONSTER_SKILL_NAME_178680^The Hunt^^^^^
+MST_MONSTER_SKILL_NAME_178690^Thundaga^^^^^
+MST_MONSTER_SKILL_NAME_178700^Tooth For A Tooth^^^^^
+MST_MONSTER_SKILL_NAME_178710^Sharp Claws^^^^^
+MST_MONSTER_SKILL_NAME_178720^The Hunt^^^^^
+MST_MONSTER_SKILL_NAME_178730^Thundaga^^^^^
+MST_MONSTER_SKILL_NAME_178740^Tooth For A Tooth^^^^^
+MST_MONSTER_SKILL_NAME_178750^Tooth For A Tooth^^^^^
+MST_MONSTER_SKILL_NAME_178760^Getting Prepared^^^^^
+MST_MONSTER_SKILL_NAME_178770^Bloodthirsty^^^^^
+MST_MONSTER_SKILL_NAME_178780^Fire^^^^^
+MST_MONSTER_SKILL_NAME_178790^The Hunt^^^^^
+MST_MONSTER_SKILL_NAME_178800^Bloodthirsty^^^^^
+MST_MONSTER_SKILL_NAME_178810^Thunderous Storm^^^^^
+MST_MONSTER_SKILL_NAME_178820^Thunderous Storm^^^^^
+MST_MONSTER_SKILL_NAME_178830^Tooth For A Tooth^^^^^
+MST_MONSTER_SKILL_NAME_178840^Tooth For A Tooth^^^^^
+MST_MONSTER_SKILL_NAME_178850^Getting Prepared^^^^^
+MST_MONSTER_SKILL_NAME_178860^Howling Roar^^^^^
+MST_MONSTER_SKILL_NAME_178870^Blaster^^^^^
+MST_MONSTER_SKILL_NAME_178880^Silence^^^^^
+MST_MONSTER_SKILL_NAME_178890^Thundara^^^^^
+MST_MONSTER_SKILL_NAME_178900^Blizzara^^^^^
+MST_MONSTER_SKILL_NAME_178910^Crystal Lance^^^^^
+MST_MONSTER_SKILL_NAME_178920^Barrage^^^^^
+MST_MONSTER_SKILL_NAME_178930^Firaga^^^^^
+MST_MONSTER_SKILL_NAME_178940^Thundaga^^^^^
+MST_MONSTER_SKILL_NAME_178950^Osmose^^^^^
+MST_MONSTER_SKILL_NAME_178960^Meltdown^^^^^
+MST_MONSTER_SKILL_NAME_178970^Bite^^^^^
+MST_MONSTER_SKILL_NAME_178980^Petro Breath^^^^^
+MST_MONSTER_SKILL_NAME_178990^Sandstorm^^^^^
+MST_MONSTER_SKILL_NAME_179000^Bite^^^^^
+MST_MONSTER_SKILL_NAME_179010^Strike^^^^^
+MST_MONSTER_SKILL_NAME_179020^Charge^^^^^
+MST_MONSTER_SKILL_NAME_179030^Plasma^^^^^
+MST_MONSTER_SKILL_NAME_179040^Crush^^^^^
+MST_MONSTER_SKILL_NAME_179050^Scatter Laser^^^^^
+MST_MONSTER_SKILL_NAME_179060^Launcher^^^^^
+MST_MONSTER_SKILL_NAME_179070^Self-Repair^^^^^
+MST_MONSTER_SKILL_NAME_179080^Last Song^^^^^
+MST_MONSTER_SKILL_NAME_179090^Requiem^^^^^
+MST_MONSTER_SKILL_NAME_179100^Blizzaga^^^^^
+MST_MONSTER_SKILL_NAME_179110^Attack Song^^^^^
+MST_MONSTER_SKILL_NAME_179120^Healing Song^^^^^
+MST_MONSTER_SKILL_NAME_179130^Protecting Song^^^^^
+MST_MONSTER_SKILL_NAME_179140^Siren Song^^^^^
+MST_MONSTER_SKILL_NAME_179150^Lethargy^^^^^
+MST_MONSTER_SKILL_NAME_179160^Heavy Shot^^^^^
+MST_MONSTER_SKILL_NAME_179170^Double Shot^^^^^
+MST_MONSTER_SKILL_NAME_179180^Disruptive Shot^^^^^
+MST_MONSTER_SKILL_NAME_179190^Leg Shot^^^^^
+MST_MONSTER_SKILL_NAME_179200^Arm Shot^^^^^
+MST_MONSTER_SKILL_NAME_179210^Blackout^^^^^
+MST_MONSTER_SKILL_NAME_179220^Thunder Scheme^^^^^
+MST_MONSTER_SKILL_NAME_179230^Doubleshot^^^^^
+MST_MONSTER_SKILL_NAME_179240^Blast^^^^^
+MST_MONSTER_SKILL_NAME_179250^Mirage^^^^^
+MST_MONSTER_SKILL_NAME_179260^Illude^^^^^
+MST_MONSTER_SKILL_NAME_179270^Suiton^^^^^
+MST_MONSTER_SKILL_NAME_179280^Hyoton^^^^^
+MST_MONSTER_SKILL_NAME_179290^Tornado Slash^^^^^
+MST_MONSTER_SKILL_NAME_179300^Shadowbinder^^^^^
+MST_MONSTER_SKILL_NAME_179310^Flashing Ball^^^^^
+MST_MONSTER_SKILL_NAME_179320^Poison Mist^^^^^
+MST_MONSTER_SKILL_NAME_179330^Dying Flora^^^^^
+MST_MONSTER_SKILL_NAME_179340^Way of the Selfless^^^^^
+MST_MONSTER_SKILL_NAME_179341^Way of the Selfless^^^^^
+MST_MONSTER_SKILL_NAME_179350^Heat Drive^^^^^
+MST_MONSTER_SKILL_NAME_179351^Heat Drive^^^^^
+MST_MONSTER_SKILL_NAME_179360^Elemental Power^^^^^
+MST_MONSTER_SKILL_NAME_179370^Unknown Traitor^^^^^
+MST_MONSTER_SKILL_NAME_179380^Straighten Up^^^^^
+MST_MONSTER_SKILL_NAME_179390^Bladeblitz^^^^^
+MST_MONSTER_SKILL_NAME_179400^Firaja^^^^^
+MST_MONSTER_SKILL_NAME_179410^Stonja^^^^^
+MST_MONSTER_SKILL_NAME_179420^Drain Blade^^^^^
+MST_MONSTER_SKILL_NAME_179440^Fire Sword^^^^^
+MST_MONSTER_SKILL_NAME_179450^Gaia's Roar^^^^^
+MST_MONSTER_SKILL_NAME_179460^Thunder Sword^^^^^
+MST_MONSTER_SKILL_NAME_179470^Dual Slash^^^^^
+MST_MONSTER_SKILL_NAME_179480^Ruby Light^^^^^
+MST_MONSTER_SKILL_NAME_179490^Healing Ruby^^^^^
+MST_MONSTER_SKILL_NAME_179500^Ruby Mischief^^^^^
+MST_MONSTER_SKILL_NAME_179510^Ruby Flash^^^^^
+MST_MONSTER_SKILL_NAME_179520^Ruby Sparkle^^^^^
+MST_MONSTER_SKILL_NAME_179530^Metamorphosis^^^^^
+MST_MONSTER_SKILL_NAME_179540^Metamorphosis^^^^^
+MST_MONSTER_SKILL_NAME_179550^Dark power is running wild!^^^^^
+MST_MONSTER_SKILL_NAME_179560^The wall of light has been destroyed by darkness!^^^^^
+MST_MONSTER_SKILL_NAME_179570^The light's spark is changing^^^^^
+MST_MONSTER_SKILL_NAME_179580^Searing Light^^^^^
+MST_MONSTER_SKILL_NAME_179590^Searing Light Over^^^^^
+MST_MONSTER_SKILL_NAME_179600^Crash^^^^^
+MST_MONSTER_SKILL_NAME_179610^Crash^^^^^
+MST_MONSTER_SKILL_NAME_179620^Crash^^^^^
+MST_MONSTER_SKILL_NAME_179630^Dangerous Needle^^^^^
+MST_MONSTER_SKILL_NAME_179640^Dangerous Needle^^^^^
+MST_MONSTER_SKILL_NAME_179650^Dangerous Needle^^^^^
+MST_MONSTER_SKILL_NAME_179660^Dash Punch^^^^^
+MST_MONSTER_SKILL_NAME_179670^Dash Punch^^^^^
+MST_MONSTER_SKILL_NAME_179680^Guillotine^^^^^
+MST_MONSTER_SKILL_NAME_179690^Lost Blow^^^^^
+MST_MONSTER_SKILL_NAME_179700^Biora^^^^^
+MST_MONSTER_SKILL_NAME_179710^Cling^^^^^
+MST_MONSTER_SKILL_NAME_179720^Flamethrower^^^^^
+MST_MONSTER_SKILL_NAME_179730^Wing Flap^^^^^
+MST_MONSTER_SKILL_NAME_179740^Hellish Combo^^^^^
+MST_MONSTER_SKILL_NAME_179750^Trine^^^^^
+MST_MONSTER_SKILL_NAME_179760^Great Horn^^^^^
+MST_MONSTER_SKILL_NAME_179770^Fire From Hell^^^^^
+MST_MONSTER_SKILL_NAME_179780^Counter Hell Combo^^^^^
+MST_MONSTER_SKILL_NAME_179790^Counter Trine^^^^^
+MST_MONSTER_SKILL_NAME_179800^Guillotine^^^^^
+MST_MONSTER_SKILL_NAME_179810^Quake^^^^^
+MST_MONSTER_SKILL_NAME_179820^Stomp Down^^^^^
+MST_MONSTER_SKILL_NAME_179830^Kick Away^^^^^
+MST_MONSTER_SKILL_NAME_179840^Magnitude 8^^^^^
+MST_MONSTER_SKILL_NAME_179850^Earth Wall^^^^^
+MST_MONSTER_SKILL_NAME_179860^Fragmental Rock^^^^^
+MST_MONSTER_SKILL_NAME_179870^Great Explosion^^^^^
+MST_MONSTER_SKILL_NAME_179880^Slap^^^^^
+MST_MONSTER_SKILL_NAME_179890^Double Lariat^^^^^
+MST_MONSTER_SKILL_NAME_179900^Aspir Explosion^^^^^
+MST_MONSTER_SKILL_NAME_179910^Blue Flames^^^^^
+MST_MONSTER_SKILL_NAME_179920^Frozen Flame Shot^^^^^
+MST_MONSTER_SKILL_NAME_179930^Blizzard Bomb^^^^^
+MST_MONSTER_SKILL_NAME_179940^Fire^^^^^
+MST_MONSTER_SKILL_NAME_179950^Blizzard^^^^^
+MST_MONSTER_SKILL_NAME_179960^Thunder^^^^^
+MST_MONSTER_SKILL_NAME_179970^Water^^^^^
+MST_MONSTER_SKILL_NAME_179980^Stone^^^^^
+MST_MONSTER_SKILL_NAME_179990^Aero^^^^^
+MST_MONSTER_SKILL_NAME_180000^Dear^^^^^
+MST_MONSTER_SKILL_NAME_180010^Dark^^^^^
+MST_MONSTER_SKILL_NAME_180020^Exploooding!^^^^^
+MST_MONSTER_SKILL_NAME_180030^Great Explosion^^^^^
+MST_MONSTER_SKILL_NAME_180040^Power focused, attack power at 2x!^^^^^
+MST_MONSTER_SKILL_NAME_180050^Slap^^^^^
+MST_MONSTER_SKILL_NAME_180060^Double Lariat^^^^^
+MST_MONSTER_SKILL_NAME_180070^The ground is covered in flames^^^^^
+MST_MONSTER_SKILL_NAME_180080^Aspir Explosion^^^^^
+MST_MONSTER_SKILL_NAME_180090^Mother bomb is screaming^^^^^
+MST_MONSTER_SKILL_NAME_180100^Mother bomb is screaming^^^^^
+MST_MONSTER_SKILL_NAME_180110^Mother bomb is screaming^^^^^
+MST_MONSTER_SKILL_NAME_180120^Mother bomb is screaming^^^^^
+MST_MONSTER_SKILL_NAME_180130^Mother bomb is screaming^^^^^
+MST_MONSTER_SKILL_NAME_180140^Flaming mother bomb exploded^^^^^
+MST_MONSTER_SKILL_NAME_180150^Blue Flames^^^^^
+MST_MONSTER_SKILL_NAME_180160^Power focused, magic power at 2x!^^^^^
+MST_MONSTER_SKILL_NAME_180170^Frozen Flame Shot^^^^^
+MST_MONSTER_SKILL_NAME_180180^Blizzard Bomb^^^^^
+MST_MONSTER_SKILL_NAME_180190^Father bomb is screaming^^^^^
+MST_MONSTER_SKILL_NAME_180200^Father bomb is screaming^^^^^
+MST_MONSTER_SKILL_NAME_180210^Father bomb is screaming^^^^^
+MST_MONSTER_SKILL_NAME_180220^Father bomb is screaming^^^^^
+MST_MONSTER_SKILL_NAME_180230^Father bomb is screaming^^^^^
+MST_MONSTER_SKILL_NAME_180240^Fire^^^^^
+MST_MONSTER_SKILL_NAME_180250^Blizzard^^^^^
+MST_MONSTER_SKILL_NAME_180260^Thunder^^^^^
+MST_MONSTER_SKILL_NAME_180270^Water^^^^^
+MST_MONSTER_SKILL_NAME_180280^Stone^^^^^
+MST_MONSTER_SKILL_NAME_180290^Aero^^^^^
+MST_MONSTER_SKILL_NAME_180300^Dear^^^^^
+MST_MONSTER_SKILL_NAME_180310^Dark^^^^^
+MST_MONSTER_SKILL_NAME_180320^Fire bomb junior is tremling^^^^^
+MST_MONSTER_SKILL_NAME_180321^Ice bomb junior is trembling^^^^^
+MST_MONSTER_SKILL_NAME_180322^Thunder bomb junior is trembling^^^^^
+MST_MONSTER_SKILL_NAME_180323^Water bomb junior is trembling^^^^^
+MST_MONSTER_SKILL_NAME_180324^Wind bomb junior is trembling^^^^^
+MST_MONSTER_SKILL_NAME_180325^Stone bomb junior is trembling^^^^^
+MST_MONSTER_SKILL_NAME_180326^Light bomb junior is trembling^^^^^
+MST_MONSTER_SKILL_NAME_180327^Dark bomb junior is trembling^^^^^
+MST_MONSTER_SKILL_NAME_180330^Imperil^^^^^
+MST_MONSTER_SKILL_NAME_180340^Self-Destruct^^^^^
+MST_MONSTER_SKILL_NAME_180350^Self-Destruct^^^^^
+MST_MONSTER_SKILL_NAME_180360^Self-Destruct^^^^^
+MST_MONSTER_SKILL_NAME_180370^Self-Destruct^^^^^
+MST_MONSTER_SKILL_NAME_180380^Self-Destruct^^^^^
+MST_MONSTER_SKILL_NAME_180390^Self-Destruct^^^^^
+MST_MONSTER_SKILL_NAME_180400^Self-Destruct^^^^^
+MST_MONSTER_SKILL_NAME_180410^Self-Destruct^^^^^
+MST_MONSTER_SKILL_NAME_180420^Samonbaad^^^^^
+MST_MONSTER_SKILL_NAME_180421^Samonbaad^^^^^
+MST_MONSTER_SKILL_NAME_180422^Samonbaad^^^^^
+MST_MONSTER_SKILL_NAME_180423^Samonbaad^^^^^
+MST_MONSTER_SKILL_NAME_180424^Samonbaad^^^^^
+MST_MONSTER_SKILL_NAME_180425^Samonbaad^^^^^
+MST_MONSTER_SKILL_NAME_180426^Samonbaad^^^^^
+MST_MONSTER_SKILL_NAME_180427^Samonbaad^^^^^
+MST_MONSTER_SKILL_NAME_180428^Samonbaad^^^^^
+MST_MONSTER_SKILL_NAME_180429^Samonbaad^^^^^
+MST_MONSTER_SKILL_NAME_180430^A bomb has been produced!^^^^^
+MST_MONSTER_SKILL_NAME_180431^A bomb has been produced!^^^^^
+MST_MONSTER_SKILL_NAME_180432^A bomb has been produced!^^^^^
+MST_MONSTER_SKILL_NAME_180433^A bomb has been produced!^^^^^
+MST_MONSTER_SKILL_NAME_180434^A bomb has been produced!^^^^^
+MST_MONSTER_SKILL_NAME_180440^Black Flames^^^^^
+MST_MONSTER_SKILL_NAME_180450^White Flames^^^^^
+MST_MONSTER_SKILL_NAME_180460^Distortion^^^^^
+MST_MONSTER_SKILL_NAME_180470^Flames of Madness^^^^^
+MST_MONSTER_SKILL_NAME_180480^Revelation^^^^^
+MST_MONSTER_SKILL_NAME_180490^Counter Beak^^^^^
+MST_MONSTER_SKILL_NAME_180500^Counter Flame^^^^^
+MST_MONSTER_SKILL_NAME_180510^About to explode!^^^^^
+MST_MONSTER_SKILL_NAME_180520^Self-Destruct^^^^^
+MST_MONSTER_SKILL_NAME_180530^Flames of Rage^^^^^
+MST_MONSTER_SKILL_NAME_180540^Protectga^^^^^
+MST_MONSTER_SKILL_NAME_180550^Eerie Sound Wave^^^^^
+MST_MONSTER_SKILL_NAME_180560^Charge^^^^^
+MST_MONSTER_SKILL_NAME_180570^Heavenly Ruin^^^^^
+MST_MONSTER_SKILL_NAME_180580^Stun Grenade^^^^^
+MST_MONSTER_SKILL_NAME_180590^Assault Position^^^^^
+MST_MONSTER_SKILL_NAME_180600^Assault Position^^^^^
+MST_MONSTER_SKILL_NAME_180610^Assault Position^^^^^
+MST_MONSTER_SKILL_NAME_180620^Bayonet^^^^^
+MST_MONSTER_SKILL_NAME_180630^Suppression^^^^^
+MST_MONSTER_SKILL_NAME_180640^Heat Bayonet^^^^^
+MST_MONSTER_SKILL_NAME_180650^Heat Suppression^^^^^
+MST_MONSTER_SKILL_NAME_180660^Ice Bayonet^^^^^
+MST_MONSTER_SKILL_NAME_180670^Ice Suppression^^^^^
+MST_MONSTER_SKILL_NAME_180680^Live Shaver^^^^^
+MST_MONSTER_SKILL_NAME_180690^Above Water Stance^^^^^
+MST_MONSTER_SKILL_NAME_180700^Levatation Stance^^^^^
+MST_MONSTER_SKILL_NAME_180710^Magazine Reload^^^^^
+MST_MONSTER_SKILL_NAME_180720^Sorcer Snipe^^^^^
+MST_MONSTER_SKILL_NAME_180730^Sorcer Sharing^^^^^
+MST_MONSTER_SKILL_NAME_180740^Heat Snipe^^^^^
+MST_MONSTER_SKILL_NAME_180750^Heat Sharing^^^^^
+MST_MONSTER_SKILL_NAME_180760^Ice Snipe^^^^^
+MST_MONSTER_SKILL_NAME_180770^Ice Sharing^^^^^
+MST_MONSTER_SKILL_NAME_180780^Gravestone Refusal^^^^^
+MST_MONSTER_SKILL_NAME_180790^Mourning Refusal^^^^^
+MST_MONSTER_SKILL_NAME_180800^Ecstatic Gloom^^^^^
+MST_MONSTER_SKILL_NAME_180810^Strength of Rage^^^^^
+MST_MONSTER_SKILL_NAME_180820^Killer Intent^^^^^
+MST_MONSTER_SKILL_NAME_180830^Confession^^^^^
+MST_MONSTER_SKILL_NAME_180840^With My People^^^^^
+MST_MONSTER_SKILL_NAME_180850^Cradle of Souls^^^^^
+MST_MONSTER_SKILL_NAME_180860^Spell of Refusal^^^^^
+MST_MONSTER_SKILL_NAME_180870^Tears of Grief^^^^^
+MST_MONSTER_SKILL_NAME_180880^Bitter Scream^^^^^
+MST_MONSTER_SKILL_NAME_180890^Scream of Despair^^^^^
+MST_MONSTER_SKILL_NAME_180900^Life Snatch Embrace^^^^^
+MST_MONSTER_SKILL_NAME_180910^Breath of Regret^^^^^
+MST_MONSTER_SKILL_NAME_180920^Blessed Burial^^^^^
+MST_MONSTER_SKILL_NAME_180930^Shackles of Despair^^^^^
+MST_MONSTER_SKILL_NAME_180940^Loitering Dead^^^^^
+MST_MONSTER_SKILL_NAME_180950^Confession^^^^^
+MST_MONSTER_SKILL_NAME_180960^With My People^^^^^
+MST_MONSTER_SKILL_NAME_180970^Cradle of Souls^^^^^
+MST_MONSTER_SKILL_NAME_180980^Spell of Refusal^^^^^
+MST_MONSTER_SKILL_NAME_180990^Tears of Grief^^^^^
+MST_MONSTER_SKILL_NAME_181000^Dystopia^^^^^
+MST_MONSTER_SKILL_NAME_181001^Conveyed how to use magic^^^^^
+MST_MONSTER_SKILL_NAME_181002^Retaliate^^^^^
+MST_MONSTER_SKILL_NAME_181003^Conveyed how to counter^^^^^
+MST_MONSTER_SKILL_NAME_181004^Conveyed ultimate magic^^^^^
+MST_MONSTER_SKILL_NAME_181005^Conveyed how to use power^^^^^
+MST_MONSTER_SKILL_NAME_181006^Conveyed how to master power^^^^^
+MST_MONSTER_SKILL_NAME_181007^Just like that.^^^^^
+MST_MONSTER_SKILL_NAME_181008^Please use what you've been taught.^^^^^
+MST_MONSTER_SKILL_NAME_181010^Charge^^^^^
+MST_MONSTER_SKILL_NAME_181020^Missile^^^^^
+MST_MONSTER_SKILL_NAME_181030^Charge^^^^^
+MST_MONSTER_SKILL_NAME_181040^Missile^^^^^
+MST_MONSTER_SKILL_NAME_181050^Punch Rush^^^^^
+MST_MONSTER_SKILL_NAME_181060^Charge^^^^^
+MST_MONSTER_SKILL_NAME_181070^Missile^^^^^
+MST_MONSTER_SKILL_NAME_181080^Punch Rush^^^^^
+MST_MONSTER_SKILL_NAME_181090^Mysterious Wave^^^^^
+MST_MONSTER_SKILL_NAME_181100^Charge^^^^^
+MST_MONSTER_SKILL_NAME_181110^Missile^^^^^
+MST_MONSTER_SKILL_NAME_181120^Punch Rush^^^^^
+MST_MONSTER_SKILL_NAME_181130^Mysterious Wave^^^^^
+MST_MONSTER_SKILL_NAME_181140^Summersault Kick^^^^^
+MST_MONSTER_SKILL_NAME_181150^Spin Press^^^^^
+MST_MONSTER_SKILL_NAME_181160^Charge^^^^^
+MST_MONSTER_SKILL_NAME_181170^Missile^^^^^
+MST_MONSTER_SKILL_NAME_181180^Punch Rush^^^^^
+MST_MONSTER_SKILL_NAME_181190^Mysterious Wave^^^^^
+MST_MONSTER_SKILL_NAME_181200^Summersault Kick^^^^^
+MST_MONSTER_SKILL_NAME_181210^Spin Press^^^^^
+MST_MONSTER_SKILL_NAME_181220^Elemental Burst^^^^^
+MST_MONSTER_SKILL_NAME_181230^Stop Movement^^^^^
+MST_MONSTER_SKILL_NAME_181240^Cleanse^^^^^
+MST_MONSTER_SKILL_NAME_181250^Extermination Mode^^^^^
+MST_MONSTER_SKILL_NAME_181260^Deadly Missile^^^^^
+MST_MONSTER_SKILL_NAME_181270^10,000 Needles^^^^^
+MST_MONSTER_SKILL_NAME_181280^10,000 Needles Combo^^^^^
+MST_MONSTER_SKILL_NAME_181290^Workload x3!^^^^^
+MST_MONSTER_SKILL_NAME_181300^Tease^^^^^
+MST_MONSTER_SKILL_NAME_181310^Firaja^^^^^
+MST_MONSTER_SKILL_NAME_181320^Blizzaja^^^^^
+MST_MONSTER_SKILL_NAME_181330^Self-Destruct^^^^^
+MST_MONSTER_SKILL_NAME_181340^Stop^^^^^
+MST_MONSTER_SKILL_NAME_181350^Ensroll Eye^^^^^
+MST_MONSTER_SKILL_NAME_181360^Energy supply depleted^^^^^
+MST_MONSTER_SKILL_NAME_181370^Energy Charge Complete^^^^^
+MST_MONSTER_SKILL_NAME_181380^Particle Beam^^^^^
+MST_MONSTER_SKILL_NAME_181390^Maximum Wave Shot^^^^^
+MST_MONSTER_SKILL_NAME_181400^Charge Core^^^^^
+MST_MONSTER_SKILL_NAME_181410^Repair^^^^^
+MST_MONSTER_SKILL_NAME_181420^Plasma^^^^^
+MST_MONSTER_SKILL_NAME_181430^Crush^^^^^
+MST_MONSTER_SKILL_NAME_181440^Wave Cannon^^^^^
+MST_MONSTER_SKILL_NAME_181450^Revitalize^^^^^
+MST_MONSTER_SKILL_NAME_181460^Ink^^^^^
+MST_MONSTER_SKILL_NAME_181470^Absorb^^^^^
+MST_MONSTER_SKILL_NAME_181480^Whirlpool^^^^^
+MST_MONSTER_SKILL_NAME_181490^Jump About^^^^^
+MST_MONSTER_SKILL_NAME_181500^Tornado^^^^^
+MST_MONSTER_SKILL_NAME_181510^Flood^^^^^
+MST_MONSTER_SKILL_NAME_181520^Quake^^^^^
+MST_MONSTER_SKILL_NAME_181530^Flare^^^^^
+MST_MONSTER_SKILL_NAME_181540^Aeroga Blade^^^^^
+MST_MONSTER_SKILL_NAME_181550^Thundaga Blade^^^^^
+MST_MONSTER_SKILL_NAME_181560^Stonga Blade^^^^^
+MST_MONSTER_SKILL_NAME_181570^Evil Sweep^^^^^
+MST_MONSTER_SKILL_NAME_181580^Evil Cutter^^^^^
+MST_MONSTER_SKILL_NAME_181590^Cursed Black Sphere^^^^^
+MST_MONSTER_SKILL_NAME_181600^Demonic Cackle^^^^^
+MST_MONSTER_SKILL_NAME_181610^Focusing magic power!^^^^^
+MST_MONSTER_SKILL_NAME_181620^It's flinching from the light!^^^^^
+MST_MONSTER_SKILL_NAME_181630^It's trembling from the light!^^^^^
+MST_MONSTER_SKILL_NAME_181640^Dual Black Magic^^^^^
+MST_MONSTER_SKILL_NAME_181650^T Magic Blade^^^^^
+MST_MONSTER_SKILL_NAME_181660^Dark Wave^^^^^
+MST_MONSTER_SKILL_NAME_181670^Gaia's Wrath^^^^^
+MST_MONSTER_SKILL_NAME_181680^Rock Deposition^^^^^
+MST_MONSTER_SKILL_NAME_181690^Stone Conceal^^^^^
+MST_MONSTER_SKILL_NAME_181700^Rock Slide^^^^^
+MST_MONSTER_SKILL_NAME_181710^Gigantic Feast^^^^^
+MST_MONSTER_SKILL_NAME_181720^Severe Earthquake^^^^^
+MST_MONSTER_SKILL_NAME_181730^Gigantic Growth^^^^^
+MST_MONSTER_SKILL_NAME_181740^Giant Crusher^^^^^
+MST_MONSTER_SKILL_NAME_181750^Earth Scramble^^^^^
+MST_MONSTER_SKILL_NAME_181760^Alluring Embrace^^^^^
+MST_MONSTER_SKILL_NAME_181770^Great Dance^^^^^
+MST_MONSTER_SKILL_NAME_181780^Evil Purifying Light^^^^^
+MST_MONSTER_SKILL_NAME_181790^Right Hand of Love^^^^^
+MST_MONSTER_SKILL_NAME_181800^Left Hand of Abundance^^^^^
+MST_MONSTER_SKILL_NAME_181810^Charm of the Goddess^^^^^
+MST_MONSTER_SKILL_NAME_181820^Physical Reaction^^^^^
+MST_MONSTER_SKILL_NAME_181830^Makeshift Punch^^^^^
+MST_MONSTER_SKILL_NAME_181840^Makeshift Punch^^^^^
+MST_MONSTER_SKILL_NAME_181850^Makeshift Punch^^^^^
+MST_MONSTER_SKILL_NAME_181860^Eyes Shut^^^^^
+MST_MONSTER_SKILL_NAME_181870^Eyes Shut^^^^^
+MST_MONSTER_SKILL_NAME_181880^Armor Break^^^^^
+MST_MONSTER_SKILL_NAME_181890^Armor Break^^^^^
+MST_MONSTER_SKILL_NAME_181900^Armor Break^^^^^
+MST_MONSTER_SKILL_NAME_181910^All-out Slash^^^^^
+MST_MONSTER_SKILL_NAME_181920^All-out Slash^^^^^
+MST_MONSTER_SKILL_NAME_181930^All-out Slash^^^^^
+MST_MONSTER_SKILL_NAME_181940^Mow Down^^^^^
+MST_MONSTER_SKILL_NAME_181950^Mow Down^^^^^
+MST_MONSTER_SKILL_NAME_181960^Weapon Break^^^^^
+MST_MONSTER_SKILL_NAME_181970^Weapon Break^^^^^
+MST_MONSTER_SKILL_NAME_181980^Armor Break^^^^^
+MST_MONSTER_SKILL_NAME_181990^Armor Break^^^^^
+MST_MONSTER_SKILL_NAME_182000^All In Formation^^^^^
+MST_MONSTER_SKILL_NAME_182010^All In Formation^^^^^
+MST_MONSTER_SKILL_NAME_182020^Paralyzing Mucus^^^^^
+MST_MONSTER_SKILL_NAME_182030^Paralyzing Mucus^^^^^
+MST_MONSTER_SKILL_NAME_182040^Crash^^^^^
+MST_MONSTER_SKILL_NAME_182050^Crash^^^^^
+MST_MONSTER_SKILL_NAME_182060^Gaia's Wrath^^^^^
+MST_MONSTER_SKILL_NAME_182070^Sweep^^^^^
+MST_MONSTER_SKILL_NAME_182080^Quake^^^^^
+MST_MONSTER_SKILL_NAME_182090^Pierce Through^^^^^
+MST_MONSTER_SKILL_NAME_182100^Heave^^^^^
+MST_MONSTER_SKILL_NAME_182110^Roar^^^^^
+MST_MONSTER_SKILL_NAME_182120^Rage^^^^^
+MST_MONSTER_SKILL_NAME_182130^Poison Teeth^^^^^
+MST_MONSTER_SKILL_NAME_182140^Poison Teeth^^^^^
+MST_MONSTER_SKILL_NAME_182150^Vital Gnaw^^^^^
+MST_MONSTER_SKILL_NAME_182160^Vital Gnaw^^^^^
+MST_MONSTER_SKILL_NAME_182170^Poison Sting^^^^^
+MST_MONSTER_SKILL_NAME_182180^Crash^^^^^
+MST_MONSTER_SKILL_NAME_182190^Gaze Upon^^^^^
+MST_MONSTER_SKILL_NAME_182200^Seed Scatter^^^^^
+MST_MONSTER_SKILL_NAME_182210^Trouble Seed^^^^^
+MST_MONSTER_SKILL_NAME_182220^Ochu Dance^^^^^
+MST_MONSTER_SKILL_NAME_182230^Ochu Kiss^^^^^
+MST_MONSTER_SKILL_NAME_182240^Crushing Gnaw^^^^^
+MST_MONSTER_SKILL_NAME_182250^Ochu Shout^^^^^
+MST_MONSTER_SKILL_NAME_182260^Coil^^^^^
+MST_MONSTER_SKILL_NAME_182270^Aeroga^^^^^
+MST_MONSTER_SKILL_NAME_182280^Aeroja^^^^^
+MST_MONSTER_SKILL_NAME_182290^All I've Got^^^^^
+MST_MONSTER_SKILL_NAME_182300^Pity^^^^^
+MST_MONSTER_SKILL_NAME_182310^Smelly Breath^^^^^
+MST_MONSTER_SKILL_NAME_182320^Baaad Breath^^^^^
+MST_MONSTER_SKILL_NAME_182330^Tentacle^^^^^
+MST_MONSTER_SKILL_NAME_182340^Whip Barrage^^^^^
+MST_MONSTER_SKILL_NAME_182350^Whip Strike^^^^^
+MST_MONSTER_SKILL_NAME_182360^Highly Poisonous Whip^^^^^
+MST_MONSTER_SKILL_NAME_182370^Merciless Whip^^^^^
+MST_MONSTER_SKILL_NAME_182380^Deadend^^^^^
+MST_MONSTER_SKILL_NAME_182390^Atomic Ray^^^^^
+MST_MONSTER_SKILL_NAME_182400^Crypt Dust^^^^^
+MST_MONSTER_SKILL_NAME_182410^Stop^^^^^
+MST_MONSTER_SKILL_NAME_182420^Silence^^^^^
+MST_MONSTER_SKILL_NAME_182430^Confuse^^^^^
+MST_MONSTER_SKILL_NAME_182440^Penetrating Laser^^^^^
+MST_MONSTER_SKILL_NAME_182450^Body Multiplication^^^^^
+MST_MONSTER_SKILL_NAME_182460^Reflect^^^^^
+MST_MONSTER_SKILL_NAME_182470^Rebirth^^^^^
+MST_MONSTER_SKILL_NAME_182471^Rebirth^^^^^
+MST_MONSTER_SKILL_NAME_182472^Rebirth^^^^^
+MST_MONSTER_SKILL_NAME_182480^Rebirth^^^^^
+MST_MONSTER_SKILL_NAME_182490^Neighing^^^^^
+MST_MONSTER_SKILL_NAME_182500^Pincers^^^^^
+MST_MONSTER_SKILL_NAME_182510^Piercing Horn^^^^^
+MST_MONSTER_SKILL_NAME_182520^Heave^^^^^
+MST_MONSTER_SKILL_NAME_182530^Charge^^^^^
+MST_MONSTER_SKILL_NAME_182540^Sandstorm^^^^^
+MST_MONSTER_SKILL_NAME_182550^Gaze^^^^^
+MST_MONSTER_SKILL_NAME_182560^Dragon Dive^^^^^
+MST_MONSTER_SKILL_NAME_182570^Aeroga^^^^^
+MST_MONSTER_SKILL_NAME_182580^Great Whirlwind^^^^^
+MST_MONSTER_SKILL_NAME_182590^Malstrom^^^^^
+MST_MONSTER_SKILL_NAME_182600^Roar^^^^^
+MST_MONSTER_SKILL_NAME_182610^Auto-gun^^^^^
+MST_MONSTER_SKILL_NAME_182620^Coiling^^^^^
+MST_MONSTER_SKILL_NAME_182630^Dark^^^^^
+MST_MONSTER_SKILL_NAME_182640^Darkra^^^^^
+MST_MONSTER_SKILL_NAME_182650^Machine-Gun Fire^^^^^
+MST_MONSTER_SKILL_NAME_182660^Watergun^^^^^
+MST_MONSTER_SKILL_NAME_182670^Brachium has become hazy^^^^^
+MST_MONSTER_SKILL_NAME_182680^Judgment of Dark^^^^^
+MST_MONSTER_SKILL_NAME_182690^Judgment of Light^^^^^
+MST_MONSTER_SKILL_NAME_182700^Judgment of Evil^^^^^
+MST_MONSTER_SKILL_NAME_182710^Capital Punishment^^^^^
+MST_MONSTER_SKILL_NAME_182720^First Pain^^^^^
+MST_MONSTER_SKILL_NAME_182730^Full Speed Claw^^^^^
+MST_MONSTER_SKILL_NAME_182740^Behead^^^^^
+MST_MONSTER_SKILL_NAME_182750^Assassination Anticipation^^^^^
+MST_MONSTER_SKILL_NAME_182760^Hide in the Dark^^^^^
+MST_MONSTER_SKILL_NAME_182770^Brachium has become violently strong!^^^^^
+MST_MONSTER_SKILL_NAME_182780^Demonic Decision^^^^^
+MST_MONSTER_SKILL_NAME_182790^Eternal Darkness^^^^^
+MST_MONSTER_SKILL_NAME_182800^Twilight Prison^^^^^
+MST_MONSTER_SKILL_NAME_182810^Devil's Claw^^^^^
+MST_MONSTER_SKILL_NAME_182820^Bloodspray^^^^^
+MST_MONSTER_SKILL_NAME_182830^Invitation to Ruin^^^^^
+MST_MONSTER_SKILL_NAME_182840^Magic is being absorbed!^^^^^
+MST_MONSTER_SKILL_NAME_182850^Brachium has become hazy^^^^^
+MST_MONSTER_SKILL_NAME_182860^Judgment of Light^^^^^
+MST_MONSTER_SKILL_NAME_182870^Judgment of Evil^^^^^
+MST_MONSTER_SKILL_NAME_182880^Capital Punishment^^^^^
+MST_MONSTER_SKILL_NAME_182890^First Pain^^^^^
+MST_MONSTER_SKILL_NAME_182900^Full Speed Claw^^^^^
+MST_MONSTER_SKILL_NAME_182910^Bite^^^^^
+MST_MONSTER_SKILL_NAME_182920^Bite^^^^^
+MST_MONSTER_SKILL_NAME_182930^Incisor^^^^^
+MST_MONSTER_SKILL_NAME_182940^Anger Rush^^^^^
+MST_MONSTER_SKILL_NAME_182950^Megaton Punch^^^^^
+MST_MONSTER_SKILL_NAME_182960^Bite^^^^^
+MST_MONSTER_SKILL_NAME_182970^Chew Up^^^^^
+MST_MONSTER_SKILL_NAME_182980^Pollinization^^^^^
+MST_MONSTER_SKILL_NAME_182990^Variation - Ochu Dance^^^^^
+MST_MONSTER_SKILL_NAME_183000^Variation - Ochu Dance^^^^^
+MST_MONSTER_SKILL_NAME_183010^Variation - Ochu Kiss^^^^^
+MST_MONSTER_SKILL_NAME_183020^Variation - Ochu Shout^^^^^
+MST_MONSTER_SKILL_NAME_183030^Super Leech^^^^^
+MST_MONSTER_SKILL_NAME_183040^Stonga^^^^^
+MST_MONSTER_SKILL_NAME_183050^Stone Gaze^^^^^
 MST_MONSTER_SKILL_NAME_900116^Aura of Resentment^怨恨氣場^분노의 기운^Aura de rancœur^Aura der Verachtung^Aura de rencor
 MST_MONSTER_SKILL_NAME_900117^Dark Dissonance^暗黑不和諧音^어둠의 불협화음^Dissonance obscure^Dunkle Dissonanz^Disonancia oscura
 MST_MONSTER_SKILL_NAME_900118^Dark Dissonance^暗黑不和諧音^어둠의 불협화음^Dissonance obscure^Dunkle Dissonanz^Disonancia oscura

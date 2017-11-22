@@ -164,21 +164,21 @@ MST_MAGIC_SHORTDESCRIPTION_70290^Lightning damage to all enemies^對全體敵人
 MST_MAGIC_SHORTDESCRIPTION_70300^Lightning damage all enemies and increase power with use^對全體敵人發動雷屬性攻擊+連續使用時威力上升^적 전체에 번개속성 피해+연속 사용 시 피해량 상승^Dégâts de foudre sur tous les ennemis. Sa puissance augmente lorsqu'elle est utilisée de manière successive^Blitzschaden für alle Gegner, der bei jedem Angriff zunimmt.^Daño de rayo a todos los enemigos y aumenta la potencia con el uso
 MST_MAGIC_SHORTDESCRIPTION_70310^Deal partial unmitigated dark damage on all enemies and allies^對全體敵人和隊員發動暗屬性無視部分魔法防禦的攻擊^적과 아군 전체에 어둠속성 일부 마법방어 무시 피해^Inflige des dégâts de ténèbres en partie fixes sur tous les ennemis et tous les alliés^Teilweise direkter Dunkelschaden, alle Gegner und Verbündete.^Daño absoluto parcial oscuro a todos los enemigos y aliados
 MST_MAGIC_SHORTDESCRIPTION_70320^Deal partial unmitigated dark damage on all enemies^對全體敵人發動暗屬性無視部分魔法防禦的攻擊^적 전체에 어둠속성 일부 마법방어 무시 피해^Inflige des dégâts de ténèbres en partie fixes sur tous les ennemis^Teilweise direkter Dunkelschaden, alle Gegner.^Daño absoluto parcial oscuro a todos los enemigos
-MST_MAGIC_SHORTDESCRIPTION_91003^Fire damage to all enemies^對全體敵人發動火屬性攻擊^적 전체에 불속성 피해^Dégâts de feu sur tous les ennemis^Feuerschaden, alle Ziele^Inflige daño de fuego a todos los enemigos.
-MST_MAGIC_SHORTDESCRIPTION_91004^Ice damage to all enemies^對全體敵人發動冰屬性攻擊^적 전체에 얼음속성 피해^Dégâts de glace sur tous les ennemis^Eisschaden, alle Ziele^Inflige daño de frío a todos los enemigos.
-MST_MAGIC_SHORTDESCRIPTION_10380^^持續恢復1名隊員的MP^^^^
-MST_MAGIC_SHORTDESCRIPTION_10390^^治療1名隊員的中毒失明睡眠沉默石化狀態^^^^
-MST_MAGIC_SHORTDESCRIPTION_20550^^對1名敵人發動冰屬性攻擊+連續使用時威力上升^^^^
-MST_MAGIC_SHORTDESCRIPTION_30380^^降低全體敵人火屬性耐性的數值^^^^
-MST_MAGIC_SHORTDESCRIPTION_30400^^降低全體敵人雷屬性耐性的數值^^^^
-MST_MAGIC_SHORTDESCRIPTION_30440^^降低全體敵人光屬性耐性的數值^^^^
-MST_MAGIC_SHORTDESCRIPTION_70330^Light damage to all enemies^對全體敵人發動光屬性攻擊^적 전체에 빛속성 피해^Dégâts de lumière sur tous les ennemis ^Lichtschaden, alle Ziele^Inflige daño de luz a todos los enemigos.
-MST_MAGIC_SHORTDESCRIPTION_70340^Light damage to all enemies^對全體敵人發動光屬性攻擊^적 전체에 빛속성 피해^Dégâts de lumière sur tous les ennemis ^Lichtschaden, alle Ziele^Inflige daño de luz a todos los enemigos.
-MST_MAGIC_SHORTDESCRIPTION_70350^^對1名敵人發動火屬性攻擊+降低水屬性耐性的數值^^^^
-MST_MAGIC_SHORTDESCRIPTION_70360^^對1名敵人發動火屬性攻擊+降低火水屬性耐性的數值^^^^
-MST_MAGIC_SHORTDESCRIPTION_70370^^對1名敵人發動火屬性攻擊+提高自身魔力的數值^^^^
-MST_MAGIC_SHORTDESCRIPTION_70380^^對1名敵人發動火屬性攻擊+提高自身魔力的數值^^^^
-MST_MAGIC_SHORTDESCRIPTION_70390^^對1名敵人發動冰屬性攻擊+持續恢復自身MP^^^^
-MST_MAGIC_SHORTDESCRIPTION_70400^^對1名敵人發動冰屬性攻擊+持續恢復自身MP^^^^
-MST_MAGIC_SHORTDESCRIPTION_70410^^對全體敵人發動暗屬性攻擊+降低攻擊防禦魔力精神的數值^^^^
-MST_MAGIC_SHORTDESCRIPTION_70420^^對全體敵人發動暗屬性攻擊+降低攻擊防禦魔力精神、全屬性耐性的數值^^^^
+MST_MAGIC_SHORTDESCRIPTION_91003^Fire damage to all enemies^對全體敵人發動火屬性攻擊^적 전체에 불속성 피해^Dégâts de feu sur tous les ennemis^Feuerschaden, alle Ziele^Inflige daño de fuego a todos los enemigos
+MST_MAGIC_SHORTDESCRIPTION_91004^Ice damage to all enemies^對全體敵人發動冰屬性攻擊^적 전체에 얼음속성 피해^Dégâts de glace sur tous les ennemis^Eisschaden, alle Ziele^Inflige daño de frío a todos los enemigos
+MST_MAGIC_SHORTDESCRIPTION_10380^Gradually restore MP for one ally^持續恢復1名隊員的MP^^^^Recupera poco a poco la VIT de un aliado
+MST_MAGIC_SHORTDESCRIPTION_10390^Cure poison, blind, sleep, silence, and petrification for one ally^治療1名隊員的中毒失明睡眠沉默石化狀態^^^^Cura ven, ceg, sue, sil y pie a un aliado
+MST_MAGIC_SHORTDESCRIPTION_20550^Ice damage one enemy and power up with consecutive use^對1名敵人發動冰屬性攻擊+連續使用時威力上升^^^^Daño de hielo a un enemigo y aumenta potencia con el uso consecutivo
+MST_MAGIC_SHORTDESCRIPTION_30380^Reduce fire resistance for all enemies^降低全體敵人火屬性耐性的數值^^^^Reduce la res. al fuego de todos los enemigos
+MST_MAGIC_SHORTDESCRIPTION_30400^Reduce lightning resistance for all enemies^降低全體敵人雷屬性耐性的數值^^^^Reduce la res. al rayo de todos los enemigos
+MST_MAGIC_SHORTDESCRIPTION_30440^Reduce light resistance for all enemies^降低全體敵人光屬性耐性的數值^^^^Reduce la res. a la luz de todos los enemigos
+MST_MAGIC_SHORTDESCRIPTION_70330^Light damage to all enemies^對全體敵人發動光屬性攻擊^적 전체에 빛속성 피해^Dégâts de lumière sur tous les ennemis ^Lichtschaden, alle Ziele^Daño de luz a todos los enemigos
+MST_MAGIC_SHORTDESCRIPTION_70340^Light damage to all enemies^對全體敵人發動光屬性攻擊^적 전체에 빛속성 피해^Dégâts de lumière sur tous les ennemis ^Lichtschaden, alle Ziele^Daño de luz a todos los enemigos
+MST_MAGIC_SHORTDESCRIPTION_70350^Fire damage and reduce water resistance for one enemy^對1名敵人發動火屬性攻擊＋降低水屬性耐性^적 1명에게 불속성 피해+물속성 저항력 감소^Dégâts de feu sur un ennemi et réduit la résistance à l'eau^Feuerschaden und red. Wasserres., ein Ziel^Daño de fuego a un enemigo y reduce su res. al agua
+MST_MAGIC_SHORTDESCRIPTION_70360^Fire damage and reduce water resistance for one enemy^對1名敵人發動火屬性攻擊＋降低水屬性耐性^적 1명에게 불속성 피해+물속성 저항력 감소^Dégâts de feu sur un ennemi et réduit la résistance à l'eau^Feuerschaden und red. Wasserres., ein Ziel^Daño de fuego a un enemigo y reduce su res. al agua
+MST_MAGIC_SHORTDESCRIPTION_70370^Fire damage one enemy and boost own MAG^對1名敵人發動火屬性攻擊+提高自身魔力的數值^적 1명에게 불속성 피해+사용자의 마력 상승^Dégâts de feu sur un ennemi et augmente la MAGIE du lanceur^Fügt einem Gegner  Feuerschaden zu und erhöht eigene MAG.^Daño de fuego a un enemigo y aumenta la MAG del usuario
+MST_MAGIC_SHORTDESCRIPTION_70380^Fire damage one enemy and boost own MAG^對1名敵人發動火屬性攻擊+提高自身魔力的數值^적 1명에게 불속성 피해+사용자의 마력 상승^Dégâts de feu sur un ennemi et augmente la MAGIE du lanceur^Fügt einem Gegner  Feuerschaden zu und erhöht eigene MAG.^Daño de fuego a un enemigo y aumenta la MAG del usuario
+MST_MAGIC_SHORTDESCRIPTION_70390^Ice damage one enemy and gradually restore own MP^對1名敵人發動冰屬性攻擊+持續恢復自身MP^적 1명에게 얼음속성 피해+사용자의 MP 서서히 회복^Dégâts de glace sur un ennemi et restaure les PM du lanceur à chaque tour^Fügt einem Gegner Eisschaden zu und stellt eigene MP allmählich wieder her.^Daño de hielo a un enemigo y recupera los PM poco a poco
+MST_MAGIC_SHORTDESCRIPTION_70400^Ice damage one enemy and gradually restore own MP^對1名敵人發動冰屬性攻擊+持續恢復自身MP^적 1명에게 얼음속성 피해+사용자의 MP 서서히 회복^Dégâts de glace sur un ennemi et restaure les PM du lanceur à chaque tour^Fügt einem Gegner Eisschaden zu und stellt eigene MP allmählich wieder her.^Daño de hielo a un enemigo y recupera los PM poco a poco
+MST_MAGIC_SHORTDESCRIPTION_70410^Dark damage and reduce ATK, DEF, MAG, and SPR for all enemies^對全體敵人發動暗屬性攻擊+降低攻擊防禦魔力精神^적 전체에 어둠속성 피해+공격력, 방어력, 마력, 정신력 감소^Dégâts de ténèbres et réduit l'ATT, la DEF, la MAGIE et la PSY de tous les ennemis ^Dunkelschaden und ANG, ABW, MAG und PSY runter, alle Gegner.^Daño oscuro a los enemigos y reduce su ATQ/DEF/MAG/ESP
+MST_MAGIC_SHORTDESCRIPTION_70420^Dark damage and reduce ATK, DEF, MAG, and SPR for all enemies^對全體敵人發動暗屬性攻擊+降低攻擊防禦魔力精神^적 전체에 어둠속성 피해+공격력, 방어력, 마력, 정신력 감소^Dégâts de ténèbres et réduit l'ATT, la DEF, la MAGIE et la PSY de tous les ennemis ^Dunkelschaden und ANG, ABW, MAG und PSY runter, alle Gegner.^Daño oscuro a los enemigos y reduce su ATQ/DEF/MAG/ESP
