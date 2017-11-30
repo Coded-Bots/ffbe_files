@@ -397,7 +397,7 @@ MST_ABILITY_NAME_202820^Gravity Ball^重力球^중력 구슬^Gravisphère^Gravit
 MST_ABILITY_NAME_202830^Holy Light^聖光^성광^Lumière divine ^Heiliges Licht^Luz divina
 MST_ABILITY_NAME_202840^Saintly Wall^聖壁^성스러운 벽^Mur saint^Heilige Mauer^Muro santo
 MST_ABILITY_NAME_202850^Power Surge^龍槍^용창^Lance de dragon^Energieschub^Lanza de dragón
-MST_ABILITY_NAME_202860^Dragoon Spirit^龍騎士之魂^용기사의 혼^Esprit de dragon ^Geist des Dragoners^Corazón de dragón
+MST_ABILITY_NAME_202860^Dragoon Spirit^龍騎士之魂^용기사의 혼^Esprit de dragon ^Dragonerseele^Corazón de dragón
 MST_ABILITY_NAME_202870^Dragon Dive^龍躍俯擊^용의 돌진^Plongeon du dragon^Drachensprung^Asalto de dragón
 MST_ABILITY_NAME_202880^Charge Shot^蓄力射擊^충전 사격^Tir chargé ^Geladener Schuss^Tiro cargado
 MST_ABILITY_NAME_202890^Sharpshot^瞄準射擊^저격^Tir acéré ^Scharfschuss^Tiro certero
@@ -616,7 +616,7 @@ MST_ABILITY_NAME_207540^Radiant Light^光芒照耀^레디언트 라이트^Lux ra
 MST_ABILITY_NAME_207530^Goddess's Revelation^聖女神之奇跡^성스러운 여신의 기적^Révélation de la déesse^Offenbarung der Göttin^Revelación de diosa
 MST_ABILITY_NAME_207420^Fire Creator's Power^炎業神之力^염업신의 힘^Puiss. Créateur du feu^Macht des Feuergottes^Poder de Prometeo
 MST_ABILITY_NAME_207450^Flare Saber^焰光劍^플레어 세이버^Sabre brasier^Flammensäbel^Sable flamígero
-MST_ABILITY_NAME_207460^Flare Ride+^焰光斬·改^강화 플레어 라이드^Galop enflammé +^Flammenritt Plus^Galope flamígero +
+MST_ABILITY_NAME_207460^Flare Ride+^焰光斬·改^강화 플레어 라이드^Galop enflammé +^Flammenritt Plus^Galope flamígero+
 MST_ABILITY_NAME_207440^Brave Strike^勇氣強襲^브레이브 스트라이크^Frappe de bravoure ^Mutiger Schlag^Golpe bravo
 MST_ABILITY_NAME_207480^Vows of War^死鬥誓言^사투의 맹세^Serment de guerre^Kriegsgelübde^Votos de guerra
 MST_ABILITY_NAME_207500^Undying Flame^不滅之炎^불멸의 불꽃^Feu éternel^Ewige Flamme^Llama eterna
@@ -1662,7 +1662,7 @@ MST_ABILITY_NAME_209930^Dwarven Force^矮人潛力^드워프의 저력^Pouvoir n
 MST_ABILITY_NAME_209940^Poison Resistance^毒無效^독 무효^Immunité (poison)^Giftresistenz^Inmune al veneno
 MST_ABILITY_NAME_209950^Abominable Child^禁忌之子^혐오스러운 아이^Enfant abominable ^Unheilvolles Kind^Niña maldita
 MST_ABILITY_NAME_209960^Raging Fists^乱擊^난격^Poings de colère ^Fäuste des Zorns^Puños de la ira
-MST_ABILITY_NAME_209980^Dragon Foot^雙龍腳^쌍룡각^Patte de dragon ^Drachentatze^Patada de dragón
+MST_ABILITY_NAME_209980^Dragon Foot^雙龍腳^쌍룡각^Patte de dragon ^Drachentatze^Talón de dragón
 MST_ABILITY_NAME_209990^Carnal Incense^剛體香^강체향^Encens charnel^Unzüchtiger Rauch^Incienso carnal
 MST_ABILITY_NAME_210000^Crushing Fist^破壞拳^파괴권^Poings pulvérisateurs^Schmetterfaust^Puños pulverizadores
 MST_ABILITY_NAME_210010^Will to Live^生命意志^생명의 의지^Volonté de vivre^Wille zu Leben^Voluntad para vivir
@@ -1708,7 +1708,7 @@ MST_ABILITY_NAME_210400^Magickal Refrain^魔力之詩^마력의 시^Refrain magi
 MST_ABILITY_NAME_210410^Nameless Song^無名詩^이름없는 시^Chant sans titre ^Namenloses Lied^Canción sin nombre
 MST_ABILITY_NAME_210420^Durai Papers^迪萊白書^듀라이 백서^Papiers de Durai^Durai-Schriften^Manual de Durai
 MST_ABILITY_NAME_210430^Writer of History^歷史講述者^역사의 기록사^Scribes de l'histoire ^Geschichtsschreiber^Escritor de historia
-MST_ABILITY_NAME_210440^Royal Armlet^近衛騎士^근위기사^Garde royale^Königliche Garde^Guardia real
+MST_ABILITY_NAME_210440^Royal Bodyguard^近衛騎士^근위기사^Garde royale^Königliche Garde^Guardia real
 MST_ABILITY_NAME_210450^Knighthood^騎士道^기사도^Code du chevalier^Ritterschaft^Caballería
 MST_ABILITY_NAME_210460^Blood Weapon^嗜血武裝^피의 무기^Arme de sang^Blutwaffe^Arma sangrienta
 MST_ABILITY_NAME_210470^Abyssal Blade^罪惡斬^악마의 검^Lame abyssale ^Abyssklinge^Hoja abismal
@@ -2861,7 +2861,7 @@ MST_ABILITY_NAME_216480^Dragon Crash^龍墜^용추^Chute du dragon^Drachenramme^
 MST_ABILITY_NAME_216490^Super Heavenfall Spear^飛天滅龍槍・極^비천명룡창·극^Lance tombeciel+^Superhimmelsfallspeer^Lanza derrumbacielos+
 MST_ABILITY_NAME_216500^Dragon Sealer^封龍的血族^용을 봉인한 일족^Scelleur de dragons^Drachenverbanner^Confinador de dragones
 MST_ABILITY_NAME_216510^Airborne Combatant^擅長空戰的長槍手^하늘의 자유로운 창술사^Aéro combattant^Luftkämpfer^Combatiente aéreo
-MST_ABILITY_NAME_216520^Dragoon's Pride^龍騎士的驕傲^용기사의 긍지^Orgueil de dragonnier^Drachenstolz^Orgullo de dragón
+MST_ABILITY_NAME_216520^Dragoon's Pride^龍騎士的驕傲^용기사의 긍지^Orgueil de dragonnier^Dragonerstolz^Orgullo de dragón
 MST_ABILITY_NAME_216530^Pure Strike^清淨一擊^청정의 일격^Coup pur^Reiner Schlag^Golpe puro
 MST_ABILITY_NAME_216540^Light Drake Crest^龍紋・陽^용의 문장·양^Emblème dragon lumineux^Lichtdrachenwappen^Emblema dragón luminoso
 MST_ABILITY_NAME_216550^Dark Drake Crest^龍紋・陰^용의 문장·음^Emblème dragon obscur^Dunkeldrachenwappen^Emblema dragón oscuro

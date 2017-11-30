@@ -241,7 +241,7 @@ MST_MATERIA_NAME_504206850^Azure Armor^蒼龍風格鎧甲^푸른 용의 갑옷^A
 MST_MATERIA_NAME_504100740^Auto-Refresh^自動精神振奮^자동 리프레쉬^Auto-Recharge^Auto-Erfrischung^AutoRefrescar
 MST_MATERIA_NAME_504100980^Equip L Shield^裝備輕盾^가벼운 방패 장비^Bouclier léger^Leichtes Schild ausrüsten^Equipar escudo L
 MST_MATERIA_NAME_504207380^Mage Cannon^魔導炮擊^마도포^Canon magique ^Magiekanone^Cañón mágico
-MST_MATERIA_NAME_504207410^Large Sword Mastery^大劍奧義^대검의 극의^Maîtrise des épées longues^Langschwert-Meister^Maestría de espada G
+MST_MATERIA_NAME_504207410^Large Sword Mastery^大劍奧義^대검의 비법^Maîtrise des épées longues^Langschwert-Meister^Maestría de espada G
 MST_MATERIA_NAME_504207770^Divine Seal^神封印^신성한 문장^Sceau divin^Göttliches Siegel^Sello divino
 MST_MATERIA_NAME_504208090^Protection of the Twelve^十二神的守護^12신의 가호^Égide des dieux ^Schutz der Götter^Guarda de los dioses
 MST_MATERIA_NAME_504208100^Shard of Genius^睿智的結晶^예지의 결정^Éclat de génie ^Splitter des Genies^Fragmento de ingenio
@@ -570,72 +570,72 @@ MST_MATERIA_NAME_1500000027^Blighted Despot^旱災獨裁者^오염된 폭군^Tyr
 MST_MATERIA_NAME_1500000028^Drowned King^洪災之王^익사한 왕^Monarque noyé^Ertrunkener König^Rey ahogado
 MST_MATERIA_NAME_1500000029^Lunarian's Hate^月之民的憎恨^달의 주민의 증오^Haine de Sélénite^Hass der Lunarier^Ira lunaria
 MST_MATERIA_NAME_1500000031^Barbariccia's Spirit^巴爾巴莉希亞之魂^발바리시아의 영혼^Esprit de Barbariccia^Barbarizias Seele^Espíritu de Barbariccia
-MST_MATERIA_NAME_504020270^Graviga^^^^^
-MST_MATERIA_NAME_504218970^True Shard of Genius^^^^^
-MST_MATERIA_NAME_504218980^True Follower's Oath^^^^^
-MST_MATERIA_NAME_504218990^True Hydaelyn Guard^^^^^
-MST_MATERIA_NAME_504219000^True Spirit of Freedom^^^^^
-MST_MATERIA_NAME_504219010^True Sage's Prajna^^^^^
-MST_MATERIA_NAME_504010380^Refresh^^^^^
-MST_MATERIA_NAME_504219930^Yohtoh Lore^^^^^
-MST_MATERIA_NAME_504219940^Heavy Chimera^^^^^
-MST_MATERIA_NAME_504219950^Anti-Disaster^^^^^
-MST_MATERIA_NAME_504220140^Battler^^^^^
-MST_MATERIA_NAME_504220280^Beast's Heart^^^^^
-MST_MATERIA_NAME_504220290^Half-elf's Heart^^^^^
-MST_MATERIA_NAME_504220270^Knight of Gemma^^^^^
-MST_MATERIA_NAME_504220620^Brawn^^^^^
-MST_MATERIA_NAME_504220630^Intrique^^^^^
-MST_MATERIA_NAME_504100020^HP +20%^^^^^
-MST_MATERIA_NAME_504220650^Wind Resistance +20%^^^^^
-MST_MATERIA_NAME_504220660^Great Mage's Aura^^^^^
-MST_MATERIA_NAME_504220680^Nature Loving Swordsman^^^^^
-MST_MATERIA_NAME_504221550^Mood Maker^^^^^
-MST_MATERIA_NAME_504221560^Secret H Armor^^^^^
-MST_MATERIA_NAME_504221570^Calamity Border^^^^^
-MST_MATERIA_NAME_504221580^Callous Stategist^^^^^
-MST_MATERIA_NAME_504221590^Imperial Talent^^^^^
-MST_MATERIA_NAME_504221600^Spirit Fighter^^^^^
-MST_MATERIA_NAME_504221610^Spirit Magician^^^^^
-MST_MATERIA_NAME_504221620^Auto-Bravery^^^^^
-MST_MATERIA_NAME_504221630^Auto-Faith^^^^^
-MST_MATERIA_NAME_504221640^Earth Resistance +20%^^^^^
-MST_MATERIA_NAME_504222860^Chosen One^^^^^
-MST_MATERIA_NAME_504222870^Shadow Bearer^^^^^
-MST_MATERIA_NAME_504221650^Agnès' Crystalguard Captain^^^^^
-MST_MATERIA_NAME_504221660^Fragment of Thought^^^^^
-MST_MATERIA_NAME_504221670^Equip Helm^^^^^
-MST_MATERIA_NAME_504221680^Pure-bred Summoner^^^^^
-MST_MATERIA_NAME_504221690^Monk's Enlightenment^^^^^
-MST_MATERIA_NAME_504221700^Attack - Castle Warfare^^^^^
-MST_MATERIA_NAME_504221710^Magic - Castle Warfare^^^^^
-MST_MATERIA_NAME_504221720^Mental Clarity^^^^^
-MST_MATERIA_NAME_504221730^Lion's Awakening^^^^^
-MST_MATERIA_NAME_504221740^Sleep^^^^^
-MST_MATERIA_NAME_504223800^Dark Resistance +20%^^^^^
-MST_MATERIA_NAME_504010100^Raise^^^^^
-MST_MATERIA_NAME_504213980^Dual White Magic^^^^^
-MST_MATERIA_NAME_504223810^EVO MAG +15%^^^^^
-MST_MATERIA_NAME_504223820^Kappower^^^^^
-MST_MATERIA_NAME_504224170^Axe Professional^^^^^
-MST_MATERIA_NAME_504224190^Hungry Wolf^^^^^
-MST_MATERIA_NAME_504224490^Quintessence^^^^^
-MST_MATERIA_NAME_504224840^Barrier Mage's Oath^^^^^
-MST_MATERIA_NAME_504224860^Thunderous Desire^^^^^
-MST_MATERIA_NAME_504224870^Destructive Desire^^^^^
-MST_MATERIA_NAME_504224900^Bomb Spirit^^^^^
-MST_MATERIA_NAME_504224910^Bomb Arms^^^^^
-MST_MATERIA_NAME_504213160^Fire Resistance +20%^^^^^
-MST_MATERIA_NAME_504224920^Equip Sword^^^^^
-MST_MATERIA_NAME_504224930^Modish Witch^^^^^
-MST_MATERIA_NAME_504225930^Necropolis^^^^^
-MST_MATERIA_NAME_504225720^Fortune Baby^^^^^
-MST_MATERIA_NAME_504225890^Vigorous Build^^^^^
-MST_MATERIA_NAME_504213170^Water Resistance +20%^^^^^
-MST_MATERIA_NAME_504226050^Mage's Request^^^^^
-MST_MATERIA_NAME_504226041^Knight's Request^^^^^
-MST_MATERIA_NAME_504226031^Ruling Fiend^^^^^
-MST_MATERIA_NAME_504226380^Hero's Vow - Darkness^^^^^
+MST_MATERIA_NAME_504020270^Graviga^強重力^^^^
+MST_MATERIA_NAME_504218970^True Shard of Genius^真・睿智的結晶^^^^
+MST_MATERIA_NAME_504218980^True Follower's Oath^真・追隨者的誓言^^^^
+MST_MATERIA_NAME_504218990^True Hydaelyn Guard^真・海德林的加護^^^^
+MST_MATERIA_NAME_504219000^True Spirit of Freedom^真・不羈的氣焰^^^^
+MST_MATERIA_NAME_504219010^True Sage's Prajna^真・賢人的智慧^^^^
+MST_MATERIA_NAME_504010380^Refresh^精神振奮^^^^
+MST_MATERIA_NAME_504219930^Yohtoh Lore^妖刀的知識^^^^
+MST_MATERIA_NAME_504219940^Heavy Chimera^重型奇美拉^^^^
+MST_MATERIA_NAME_504219950^Anti-Disaster^反災禍^^^^
+MST_MATERIA_NAME_504220140^Battler^戰鬥酒鬼^^^^
+MST_MATERIA_NAME_504220280^Beast's Heart^獸人的心^^^^
+MST_MATERIA_NAME_504220290^Half-elf's Heart^混血精靈的心^^^^
+MST_MATERIA_NAME_504220270^Knight of Gemma^傑馬騎士^^^^
+MST_MATERIA_NAME_504220620^Brawn^頑強^^^^
+MST_MATERIA_NAME_504220630^Intrique^戰術^^^^
+MST_MATERIA_NAME_504100020^HP +20%^HP+20%^^^^
+MST_MATERIA_NAME_504220650^Wind Resistance +20%^風屬性耐性+20%^^^^
+MST_MATERIA_NAME_504220660^Great Mage's Aura^大魔道士的詠唱法^^^^
+MST_MATERIA_NAME_504220680^Nature Loving Swordsman^熱愛自然的魔法劍士^^^^
+MST_MATERIA_NAME_504221550^Mood Maker^開心果^^^^
+MST_MATERIA_NAME_504221560^Secret H Armor^重鎧的秘義^^^^
+MST_MATERIA_NAME_504221570^Calamity Border^災禍邊緣^^^^
+MST_MATERIA_NAME_504221580^Callous Stategist^殘酷的謀略家^^^^
+MST_MATERIA_NAME_504221590^Imperial Talent^賢帝的修養^^^^
+MST_MATERIA_NAME_504221600^Spirit Fighter^精神戰士^^^^
+MST_MATERIA_NAME_504221610^Spirit Magician^精神魔術師^^^^
+MST_MATERIA_NAME_504221620^Auto-Bravery^自動勇氣^^^^
+MST_MATERIA_NAME_504221630^Auto-Faith^自動信念^^^^
+MST_MATERIA_NAME_504221640^Earth Resistance +20%^土屬性耐性+20%^^^^
+MST_MATERIA_NAME_504222860^Chosen One^被選中的人^^^^
+MST_MATERIA_NAME_504222870^Shadow Bearer^影之肩負者^^^^
+MST_MATERIA_NAME_504221650^Agnès' Crystalguard Captain^艾尼亞絲大人救援隊隊長^^^^
+MST_MATERIA_NAME_504221660^Fragment of Thought^思念的碎片^^^^
+MST_MATERIA_NAME_504221670^Equip Helm^頭盔裝備^^^^
+MST_MATERIA_NAME_504221680^Pure-bred Summoner^純血的召喚士^^^^
+MST_MATERIA_NAME_504221690^Monk's Enlightenment^武僧的領悟^^^^
+MST_MATERIA_NAME_504221700^Attack - Castle Warfare^攻·城內戰的知識^^^^
+MST_MATERIA_NAME_504221710^Magic - Castle Warfare^魔·城內戰的知識^^^^
+MST_MATERIA_NAME_504221720^Mental Clarity^平靜的心^^^^
+MST_MATERIA_NAME_504221730^Lion's Awakening^獅子的覺醒^^^^
+MST_MATERIA_NAME_504221740^Sleep^陷入沉睡^^^^
+MST_MATERIA_NAME_504223800^Dark Resistance +20%^暗屬性耐性+20%^^^^
+MST_MATERIA_NAME_504010100^Raise^復活^^^^
+MST_MATERIA_NAME_504213980^Dual White Magic^W白魔法^^^^
+MST_MATERIA_NAME_504223810^EVO MAG +15%^召喚魔法+15%^^^^
+MST_MATERIA_NAME_504223820^Kappower^河童之力^^^^
+MST_MATERIA_NAME_504224170^Axe Professional^專家·斧^^^^
+MST_MATERIA_NAME_504224190^Hungry Wolf^餓狼再起^^^^
+MST_MATERIA_NAME_504224490^Quintessence^第五元素^^^^
+MST_MATERIA_NAME_504224840^Barrier Mage's Oath^壁魔道士的誓言^^^^
+MST_MATERIA_NAME_504224860^Thunderous Desire^避雷的期望^^^^
+MST_MATERIA_NAME_504224870^Destructive Desire^破暗的期望^^^^
+MST_MATERIA_NAME_504224900^Bomb Spirit^炸彈魂^^^^
+MST_MATERIA_NAME_504224910^Bomb Arms^炸彈臂^^^^
+MST_MATERIA_NAME_504213160^Fire Resistance +20%^火屬性耐性+20%^^^^
+MST_MATERIA_NAME_504224920^Equip Sword^劍裝備^^^^
+MST_MATERIA_NAME_504224930^Modish Witch^時尚女巫^^^^
+MST_MATERIA_NAME_504225930^Necropolis^墓園^^^^
+MST_MATERIA_NAME_504225720^Fortune Baby^幸運兒^^^^
+MST_MATERIA_NAME_504225890^Vigorous Build^質樸剛健^^^^
+MST_MATERIA_NAME_504213170^Water Resistance +20%^水屬性耐性+20%^^^^
+MST_MATERIA_NAME_504226050^Mage's Request^魔道士的祈願^^^^
+MST_MATERIA_NAME_504226041^Knight's Request^騎士的祈願^^^^
+MST_MATERIA_NAME_504226031^Ruling Fiend^裁決的惡魔^^^^
+MST_MATERIA_NAME_504226380^Hero's Vow - Darkness^英雄誓言·暗^^^^
 MST_MATERIA_NAME_1500000032^Cheerful Tune^輕快旋律^경쾌한 선율^Air enjoué^Fröhliche Melodie^Tono alegre
 MST_MATERIA_NAME_1500000033^Instrumental Flair^樂器天賦^연주자의 자질^Style instrumental^Instrumentales Flair^Estilo instrumental
-MST_MATERIA_NAME_1500000034^Magic Sanctuary^^^^^
+MST_MATERIA_NAME_1500000034^Magic Sanctuary^^^^^Santuario mágico
