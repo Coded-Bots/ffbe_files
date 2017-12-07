@@ -230,7 +230,7 @@ MST_MONSTER_SKILL_NAME_150120^Flash^閃光^플래시^Flash^Gleißer^Flash
 MST_MONSTER_SKILL_NAME_150130^Unseen Strike^無形一擊^보이지 않는 일격^Coup imprévu^Unsichtbarer Schlag^Golpe invisible
 MST_MONSTER_SKILL_NAME_150140^Elbow^肘擊^팔꿈치^Coude^Ellbogen^Codo
 MST_MONSTER_SKILL_NAME_150150^Hysteric Voices^歇斯底里之聲^신경질적인 외침^Voix hystériques^Hysterie^Voces histéricas
-MST_MONSTER_SKILL_NAME_150160^Scintillation^閃光彈^섬광탄^tion^Blendgranate^Bomba centella
+MST_MONSTER_SKILL_NAME_150160^Scintillation^閃光彈^섬광탄^Scintillation^Blendgranate^Bomba centella
 MST_MONSTER_SKILL_NAME_150170^Needle Breath^風之翼^날개폭풍^Souffle épineux^Nadelatem^Aliento cortante
 MST_MONSTER_SKILL_NAME_150180^Pressure^重壓^짓누르기^Pression^Druck^Presión
 MST_MONSTER_SKILL_NAME_150190^Magitek Laser^魔導射線^마도 레이저^Laser magitech^Magitek-Laser^Láser Magitec
@@ -251,7 +251,7 @@ MST_MONSTER_SKILL_NAME_150320^Bow^射箭^활^Arc^Bogen^Arco
 MST_MONSTER_SKILL_NAME_150330^Cure^療傷^케알^Soin^Vita^Cura
 MST_MONSTER_SKILL_NAME_150331^Cure^療傷^케알^Soin^Vita^Cura
 MST_MONSTER_SKILL_NAME_150332^Cure^療傷^케알^Soin^Vita^Cura
-MST_MONSTER_SKILL_NAME_150340^Claw^利爪^손톱^Griffes^Klaue^Garra
+MST_MONSTER_SKILL_NAME_150340^Claw^利爪^손톱^Griffes^Klauen^Garra
 MST_MONSTER_SKILL_NAME_150350^Great Whirlwind^大旋風^태풍^Grand tourbillon^Sturmböe^Gran torbellino
 MST_MONSTER_SKILL_NAME_150360^Revitalize^活性化^활성화^Revitalisation^Revitalisierung^Revitalizar
 MST_MONSTER_SKILL_NAME_150370^Sweep^橫掃^쓸어버리기^Balayage^Niedermähen^Corte horizontal
@@ -517,11 +517,11 @@ MST_MONSTER_SKILL_NAME_152960^Charge^蓄力^충전^Charge^Laden^Carga
 MST_MONSTER_SKILL_NAME_152970^Wave Cannon^波動炮^파동포^Rayon-particules^Wellengeschütz^Cañón de ondas
 MST_MONSTER_SKILL_NAME_152980^Wave Cannon^波動炮^파동포^Rayon-particules^Wellengeschütz^Cañón de ondas
 MST_MONSTER_SKILL_NAME_152990^Crystal Rain^水晶之雨^크리스탈 레인^Pluie de cristaux^Kristallregen^Lluvia de cristal
-MST_MONSTER_SKILL_NAME_153000^Machine Gun^機關槍^머신건^Mitrailleuse ^Maschinengewehr^Metralleta
+MST_MONSTER_SKILL_NAME_153000^Machine Gun^機關槍^머신건^Fusil mitrailleur^Maschinengewehr^Metralleta
 MST_MONSTER_SKILL_NAME_153010^Run away...nope, it's looking at me...^裝作逃走……盯著這裡^도망가…는 척 하면서 이쪽을 보고 있다^Il fuit... non il me regarde...^Weglaufen ... Nein, es sieht mich an ...^Se va… pues no, se nos queda mirando…
 MST_MONSTER_SKILL_NAME_153020^1,000 needles...it's looking at me...^萬針刺……盯著這裡^바늘 만 개… 이쪽을 보고 있다^1000 aiguilles... il me regarde...^1.000 Nadeln ... Es sieht mich an ...^1.000… nos está mirando…
 MST_MONSTER_SKILL_NAME_153030^Missile Burst^炸裂導彈^미사일 작렬^Explosion de missile^Raketenschlag^Misil devastador
-MST_MONSTER_SKILL_NAME_153040^Machine Gun^機關槍^머신건^Mitrailleuse ^Maschinengewehr^Metralleta
+MST_MONSTER_SKILL_NAME_153040^Machine Gun^機關槍^머신건^Fusil mitrailleur^Maschinengewehr^Metralleta
 MST_MONSTER_SKILL_NAME_153050^Missile Burst^炸裂導彈^미사일 작렬^Explosion de missile^Raketenschlag^Misil devastador
 MST_MONSTER_SKILL_NAME_153060^Blast^亂射^난사^Mortier^Einschlag^Ráfaga
 MST_MONSTER_SKILL_NAME_153070^Blast^亂射^난사^Mortier^Einschlag^Ráfaga
@@ -1160,7 +1160,7 @@ MST_MONSTER_SKILL_NAME_158960^Limiters Deactivated^解除限制^리미터 해제
 MST_MONSTER_SKILL_NAME_158970^Horn^尖角^뿔^Corne^Horn^Cuerno
 MST_MONSTER_SKILL_NAME_158980^Earth Shaker^大地搖動^어스쉐이커^Tremblement de terre^Erdstoß^Sismo
 MST_MONSTER_SKILL_NAME_158990^Dark Mist^暗霧^어둠의 안개^Brume obscure ^Dunkler Nebel^Niebla oscura
-MST_MONSTER_SKILL_NAME_159000^Claw^爪^손톱^Griffes^Klaue^Zarpa
+MST_MONSTER_SKILL_NAME_159000^Claw^爪^손톱^Griffes^Klauen^Zarpa
 MST_MONSTER_SKILL_NAME_159010^Heat Collection^收集熱量^열 모으기^Concentrer la chaleur ^Hitzesammlung^Concentrar calor
 MST_MONSTER_SKILL_NAME_159020^Hell Ball^煉獄球^연옥구^Boule infernale^Höllenball^Bola infernal
 MST_MONSTER_SKILL_NAME_159030^Hellflame^獄炎^지옥염^Flammes de l'enfer ^Höllenflamme^Llamas del infierno
@@ -1778,7 +1778,7 @@ MST_MONSTER_SKILL_NAME_165050^Life Drain^吸取生命^에너지 드레인^Drain 
 MST_MONSTER_SKILL_NAME_165060^Spin^旋轉^세차게 휘두르기^Coup de queue^Peitschenhieb^Tiovivo
 MST_MONSTER_SKILL_NAME_165070^Snowball^雪球^스노우 볼^Boule de neige^Schneeball^Bola de nieve
 MST_MONSTER_SKILL_NAME_165080^Ice Break^破冰^아이스 브레이크^Eruption glaciaire^Eisbrecher^Rompehielo
-MST_MONSTER_SKILL_NAME_165090^Machine Gun^機關槍^머신건^Mitrailleuse^Maschinengewehr^Metralleta
+MST_MONSTER_SKILL_NAME_165090^Machine Gun^機關槍^머신건^Fusil mitrailleur^Maschinengewehr^Metralleta
 MST_MONSTER_SKILL_NAME_165100^Snap^撲咬^깨물기^Morsure^Nagen^Mordisco
 MST_MONSTER_SKILL_NAME_165110^Pierce^刺透^밀어붙이기^Transpercer^Stechen^Perforación
 MST_MONSTER_SKILL_NAME_165120^Thrust^刺擊^찌르기^Frappe^Stoß^Estocada
@@ -1944,39 +1944,39 @@ MST_MONSTER_SKILL_NAME_166730^Dissonance^不和諧音^불협화음^Dissonance^Di
 MST_MONSTER_SKILL_NAME_166740^Dissonance^不和諧音^불협화음^Dissonance^Dissonanz^Desafinación
 MST_MONSTER_SKILL_NAME_166750^Dissonance^不和諧音^불협화음^Dissonance^Dissonanz^Desafinación
 MST_MONSTER_SKILL_NAME_166760^Dissonance^不和諧音^불협화음^Dissonance^Dissonanz^Desafinación
-MST_MONSTER_SKILL_NAME_166810^Body Slam^衝撞^혼신의 일격^Charge violente^Body Slam^Quebrantacuerpos
+MST_MONSTER_SKILL_NAME_166810^Body Slam^衝撞^혼신의 일격^Charge violente^Körperschlag^Topetazo
 MST_MONSTER_SKILL_NAME_166820^Drill Press^鑽頭震動^드릴 드라이브^Frappe foreuse^Bohrattacke^Taladrador
-MST_MONSTER_SKILL_NAME_166830^Rocket Launcher^火箭發射器^로켓탄 발사기^Lanceur de roquettes^Raketenwerfer^Lanzadora
+MST_MONSTER_SKILL_NAME_166830^Rocket Launcher^火箭發射器^로켓탄 발사기^Tir de roquettes^Raketenwerfer^Lanzadora
 MST_MONSTER_SKILL_NAME_166840^Machine Gun^機關槍^머신건^Mitrailleuse^Maschinengewehr^Metralleta
 MST_MONSTER_SKILL_NAME_166850^Tonfa^東方棍^톤파^Tonfa^Tonfa^Tonfa
-MST_MONSTER_SKILL_NAME_166860^Pulse Beam^雷射機槍^머신건 빔^Rayon mitrailleuse^Maschinengewehrstrahl^Rayo metralleta
-MST_MONSTER_SKILL_NAME_166870^Wave Blast^波動^파동^Onde^Welle^Ola
-MST_MONSTER_SKILL_NAME_166880^Rending Claws^爪鉗^갈퀴손^Main griffeuse^Handklaue^Manogarra
+MST_MONSTER_SKILL_NAME_166860^Pulse Beam^雷射機槍^머신건 빔^Canon laser^Strahlenpistole^Cañón de rayos
+MST_MONSTER_SKILL_NAME_166870^Wave Blast^波動^파동^Onde de choc^Welle^Onda
+MST_MONSTER_SKILL_NAME_166880^Rending Claws^爪鉗^갈퀴손^Main griffeuse^Klaue^Garra de mano
 MST_MONSTER_SKILL_NAME_166890^Tentacle^觸手^촉수^Tentacule^Tentakel^Tentáculo
 MST_MONSTER_SKILL_NAME_166900^Bite^撲咬^물고 늘어지기^Morsure^Biss^Mordisco
 MST_MONSTER_SKILL_NAME_166910^Drain Tentacle^吸血觸手^드레인 촉수^Tentacule aspirant^Saugtentakel^Tentáculo drenador
-MST_MONSTER_SKILL_NAME_166920^Smoke Shot^煙霧射擊^스모크 샷^Tir de fumée^Rauchschuss^Disparo de humo
-MST_MONSTER_SKILL_NAME_166930^Double Barrel^雙機槍^더블 머신건^Double mitrailleuse^Doppel-Maschinengewehr^Metralleta doble
-MST_MONSTER_SKILL_NAME_166940^Machine Gun^機關槍^머신건^Mitrailleuse^Maschinenkanone^Metralleta
-MST_MONSTER_SKILL_NAME_166950^Tail Laser^蠍尾雷射^테일 레이저^Queue laser^Schwanzlaser^Cola láser
-MST_MONSTER_SKILL_NAME_166960^Locked On Target^「鎖定目標」^'타겟 록 온'^Cible verrouillée^Ziel anvisiert^Objetivo visado
-MST_MONSTER_SKILL_NAME_166970^Focused Fire^火槍攻擊^총격^Mitraillage^Kanone^Pistola
+MST_MONSTER_SKILL_NAME_166920^Smoke Shot^煙霧射擊^스모크 샷^Tir de fumée^Rauchschuss^Tiro de humo
+MST_MONSTER_SKILL_NAME_166930^Double Barrel^雙機槍^더블 머신건^Double mitrailleuse^2X-Maschinengewehr^Metralleta W
+MST_MONSTER_SKILL_NAME_166940^Machine Gun^機關槍^머신건^Fusil mitrailleur^Maschinenkanone^Metralleta
+MST_MONSTER_SKILL_NAME_166950^Tail Laser^蠍尾雷射^테일 레이저^Laser caudal^Schwanzlaser^Cola láser
+MST_MONSTER_SKILL_NAME_166960^Locked On Target^「鎖定目標」^'타겟 록 온'^Cible verrouillée^Ziel anvisiert^Puntería
+MST_MONSTER_SKILL_NAME_166970^Focused Fire^火槍攻擊^총격^Mitraillage^Gewehr^Fuego concentrado
 MST_MONSTER_SKILL_NAME_166980^Scorpion Tail^蠍尾^스콜피온 테일^Queue de scorpion^Skorpionsschwanz^Cola de escorpión
-MST_MONSTER_SKILL_NAME_166990^The guard scorpion raises its tail.^抬高尾巴警戒中^꼬리를 치켜올려 경계하고 있다^Il est en alerte lorsque sa queue est dressée^Mit gehobenem Schwanz ist es wachsam^Está alerta con la cola hacia arriba
-MST_MONSTER_SKILL_NAME_167000^Big Bomber^大型轟炸機^빅 봄버^Grosse bombe^Großer Bomber^Bombazo
-MST_MONSTER_SKILL_NAME_167010^Rear Gun^後方機關槍^후방 머신건^Mitrailleuse arrière^Hinteres Maschinengewehr^Metralleta trasera
-MST_MONSTER_SKILL_NAME_167020^Counterattack^「反擊」^'반격'^Contre-attaque^Vergeltungsschlag^Contraataque
-MST_MONSTER_SKILL_NAME_167030^Moon Energy^能量球^에너지 볼^Énergie lunaire^Mondenergie^Energía lunar
-MST_MONSTER_SKILL_NAME_167040^Reload^上彈^리로드^Rechargement^Krönung^Apogeo
-MST_MONSTER_SKILL_NAME_167050^Bomb Blast Barrage^大型轟炸機亂射^빅 봄버 마구 쏘기^Volée de grosses bombes^Sperrfeuer - Großer Bomber^Barrera bombazo
+MST_MONSTER_SKILL_NAME_166990^The guard scorpion raises its tail.^抬高尾巴警戒中^꼬리를 치켜올려 경계하고 있다^Position d'alerte^Der erhobene Schwanz zeigt, dass es wachsam ist.^Alerta para contraatacar con la cola
+MST_MONSTER_SKILL_NAME_167000^Big Bomber^大型轟炸機^빅 봄버^Bombardement^Großer Bomber^Bombardero
+MST_MONSTER_SKILL_NAME_167010^Rear Gun^後方機關槍^후방 머신건^Mitrailleuse arrière^Hinteres Maschinengewehr^Cañón trasero
+MST_MONSTER_SKILL_NAME_167020^Counterattack^「反擊」^'반격'^Contre-attaque^Gegenangriff^Contraataque
+MST_MONSTER_SKILL_NAME_167030^Moon Energy^能量球^에너지 볼^Boule d'énergie^Energiekugel^Bola de energía
+MST_MONSTER_SKILL_NAME_167040^Reload^上彈^리로드^Rechargement^Nachladen^Recarga
+MST_MONSTER_SKILL_NAME_167050^Bomb Blast Barrage^大型轟炸機亂射^빅 봄버 마구 쏘기^Bombardement continu^Sperrfeuer - Großer Bomber^Ráfaga bombardera
 MST_MONSTER_SKILL_NAME_167060^Fire^火焰^파이어^Feu^Feuer^Piro
-MST_MONSTER_SKILL_NAME_167070^Drill Press^鑽頭震動^드릴 드라이브^Frappe foreuse^Bohrattacke^Taladrador
+MST_MONSTER_SKILL_NAME_167070^Drill Press^鑽頭震動^드릴 드라이브^Frappe foreuse^Bohrtrieb^Taladrador
 MST_MONSTER_SKILL_NAME_167080^Tentacle^觸手^촉수^Tentacule^Tentakel^Tentáculo
 MST_MONSTER_SKILL_NAME_167090^Bite^撲咬^물고 늘어지기^Morsure^Biss^Mordisco
 MST_MONSTER_SKILL_NAME_167100^Drain Tentacle^吸血觸手^드레인 촉수^Tentacule aspirant^Saugtentakel^Tentáculo drenador
 MST_MONSTER_SKILL_NAME_167110^Tonfa^東方棍^톤파^Tonfa^Tonfa^Tonfa
-MST_MONSTER_SKILL_NAME_167120^Machine Gun^機關槍^머신건^Mitrailleuse^Maschinengewehr^Metralleta
-MST_MONSTER_SKILL_NAME_167130^The guard scorpion lowers its tail.^解除警戒^경계를 풀다^Il n'est plus en alerte^Es ist nicht länger wachsam^Ya no está alerta
+MST_MONSTER_SKILL_NAME_167120^Machine Gun^機關槍^머신건^Fusil mitrailleur^Maschinengewehr^Metralleta
+MST_MONSTER_SKILL_NAME_167130^The guard scorpion lowers its tail.^解除警戒^경계를 풀다^Position normale^Es ist nicht länger wachsam^Fuera de alerta
 MST_MONSTER_SKILL_NAME_167140^Big Burst^大爆炸^대폭발^Grande explosion^Großer Rausch^Gran estallido
 MST_MONSTER_SKILL_NAME_167150^Charge^突進^돌진^Charge^Ansturm^Carga
 MST_MONSTER_SKILL_NAME_167160^Sandstorm^沙塵暴^모래폭풍^Tempête de sable^Sandsturm^Tormenta de arena
@@ -2128,7 +2128,7 @@ MST_MONSTER_SKILL_NAME_168090^Demonic Vortex^砂鬼漩渦^사귀의 소용돌이
 MST_MONSTER_SKILL_NAME_168100^Fancy Meteor^幻想流星^팬시 메테오^Beau météore^Fantasiemeteor^Meteorito ostentoso
 MST_MONSTER_SKILL_NAME_168110^Angel Veil^天使面紗^천사의 베일^Voile angélique^Engelsschleier^Velo angelical
 MST_MONSTER_SKILL_NAME_168120^Hyper Shot^超越射擊^하이퍼 샷^Tir foudroyant^Hyperschuss^Tiro fulmíneo
-MST_MONSTER_SKILL_NAME_168130^Machine Gun^機關槍^머신건^Mitrailleuse^Maschinengewehr^Metralleta
+MST_MONSTER_SKILL_NAME_168130^Machine Gun^機關槍^머신건^Fusil mitrailleur^Maschinengewehr^Metralleta
 MST_MONSTER_SKILL_NAME_168140^Safekeep^防禦^방어^Sécuriser^In Sicherheit^Asegurar
 MST_MONSTER_SKILL_NAME_168150^Issue Orders^號令^호령^Commandement^Einsatzbefehl^Ordenar
 MST_MONSTER_SKILL_NAME_168160^Bladeblitz^全斬^전방위 베기^Lame éclair^Klingenblitz^Relámpago de acero
@@ -2318,7 +2318,7 @@ MST_MONSTER_SKILL_NAME_170280^Gaia's Power^大地之力^대지의 힘^Pouvoir de
 MST_MONSTER_SKILL_NAME_170290^Supersonic Wave^超音波^초음파^Vague supersonique^Schallwelle^Onda supersónica
 MST_MONSTER_SKILL_NAME_170300^React to Attack!^對攻擊產生反應！^공격에 반응!^Réaction à l'attaque !^Zurückschlagen!^¡Reacciona al ataque!
 MST_MONSTER_SKILL_NAME_170310^It stiffened^變硬了^단단해졌다^Il s'est endurci^Es ist erstarrt^Se ha endurecido
-MST_MONSTER_SKILL_NAME_170320^The guard scorpion lowers its tail.^解除警戒^경계를 풀다^Il n'est plus en alerte^Es ist nicht länger wachsam^Ya no está alerta
+MST_MONSTER_SKILL_NAME_170320^The guard scorpion lowers its tail.^解除警戒^경계를 풀다^Il n'est plus en alerte^Es ist nicht länger wachsam^Fuera de alerta.
 MST_MONSTER_SKILL_NAME_170330^Fang of Confusion^混亂之牙^혼란의 송곳니^Croc de confusion^Fang der Konfusion^Colmillo de la confusión
 MST_MONSTER_SKILL_NAME_170340^Howling Moon^月夜狼嚎^하울링 문^Lune hurlante^Mondheulen^Luna aullante
 MST_MONSTER_SKILL_NAME_170350^Icestorm^吹雪^눈보라^Blizzard^Blizzard^Tormenta de nieve
@@ -2951,8 +2951,8 @@ MST_MONSTER_SKILL_NAME_176140^Violent Scratch^^^^^
 MST_MONSTER_SKILL_NAME_176150^Awakening Anger^^^^^
 MST_MONSTER_SKILL_NAME_176160^It yawned...^^^^^
 MST_MONSTER_SKILL_NAME_176170^Heavenly Collapse^^^^^
-MST_MONSTER_SKILL_NAME_176180^Lamb Chop^^^^^
-MST_MONSTER_SKILL_NAME_176190^Lamb Chop^^^^^
+MST_MONSTER_SKILL_NAME_176180^Head Butt^^^^^
+MST_MONSTER_SKILL_NAME_176190^Head Butt^^^^^
 MST_MONSTER_SKILL_NAME_176200^Warsong^^^^^
 MST_MONSTER_SKILL_NAME_176210^Crash^^^^^
 MST_MONSTER_SKILL_NAME_176220^Crash^^^^^
@@ -3000,7 +3000,7 @@ MST_MONSTER_SKILL_NAME_176630^Sewage is pouring down!^^^^^
 MST_MONSTER_SKILL_NAME_176640^Lethal Stab^^^^^
 MST_MONSTER_SKILL_NAME_176650^Mjul Ujul^^^^^
 MST_MONSTER_SKILL_NAME_176660^Megyornia^^^^^
-MST_MONSTER_SKILL_NAME_176670^Poisonous Bleeding^^^^^
+MST_MONSTER_SKILL_NAME_176670^virulent poison^^^^^
 MST_MONSTER_SKILL_NAME_176680^Fire Beam^^^^^
 MST_MONSTER_SKILL_NAME_176690^Fire Beam^^^^^
 MST_MONSTER_SKILL_NAME_176700^Blizzard Beam^^^^^
@@ -3020,7 +3020,7 @@ MST_MONSTER_SKILL_NAME_176830^Great Axe Slash^^^^^
 MST_MONSTER_SKILL_NAME_176840^Great Axe Slash^^^^^
 MST_MONSTER_SKILL_NAME_176850^Axe Demolition Slash^^^^^
 MST_MONSTER_SKILL_NAME_176860^Axe Demolition Slash^^^^^
-MST_MONSTER_SKILL_NAME_176870^Flashing Shot^^^^^
+MST_MONSTER_SKILL_NAME_176870^Flash Grenade^^^^^
 MST_MONSTER_SKILL_NAME_176880^Bubble Blow^^^^^
 MST_MONSTER_SKILL_NAME_176890^Sphere Blow^^^^^
 MST_MONSTER_SKILL_NAME_176900^Bubble Blow^^^^^
@@ -3164,7 +3164,7 @@ MST_MONSTER_SKILL_NAME_178270^Wicked Claw Flash^^^^^
 MST_MONSTER_SKILL_NAME_178280^Wicked Claw Flash^^^^^
 MST_MONSTER_SKILL_NAME_178290^Wicked Claw Flash^^^^^
 MST_MONSTER_SKILL_NAME_178300^Howl^^^^^
-MST_MONSTER_SKILL_NAME_178310^Gnaw Off^^^^^
+MST_MONSTER_SKILL_NAME_178310^Snap^^^^^
 MST_MONSTER_SKILL_NAME_178320^Spirits have wrapped Adferra!^^^^^
 MST_MONSTER_SKILL_NAME_178330^Fire Claw of Death^^^^^
 MST_MONSTER_SKILL_NAME_178340^Ice Claw of Death^^^^^
@@ -3177,17 +3177,17 @@ MST_MONSTER_SKILL_NAME_178400^The beast's true nature has awakened!^^^^^
 MST_MONSTER_SKILL_NAME_178410^Blazing Drive^^^^^
 MST_MONSTER_SKILL_NAME_178420^Backfire^^^^^
 MST_MONSTER_SKILL_NAME_178430^Throw Down^^^^^
-MST_MONSTER_SKILL_NAME_178440^Continuous Slash^^^^^
+MST_MONSTER_SKILL_NAME_178440^Slash Combo^^^^^
 MST_MONSTER_SKILL_NAME_178450^Self-Repair^^^^^
 MST_MONSTER_SKILL_NAME_178460^Self-Repair^^^^^
 MST_MONSTER_SKILL_NAME_178470^Self-Repair^^^^^
 MST_MONSTER_SKILL_NAME_178480^Self-Repair^^^^^
 MST_MONSTER_SKILL_NAME_178490^Calamity Fang^^^^^
 MST_MONSTER_SKILL_NAME_178500^Calamity Fang^^^^^
-MST_MONSTER_SKILL_NAME_178510^Gnaw Off^^^^^
+MST_MONSTER_SKILL_NAME_178510^Snap^^^^^
 MST_MONSTER_SKILL_NAME_178520^Defensive Instinct^^^^^
 MST_MONSTER_SKILL_NAME_178530^Pistol Shot^^^^^
-MST_MONSTER_SKILL_NAME_178540^Crushing Defeat^^^^^
+MST_MONSTER_SKILL_NAME_178540^Slam^^^^^
 MST_MONSTER_SKILL_NAME_178550^Crushing Defeat^^^^^
 MST_MONSTER_SKILL_NAME_178560^Life Drainer^^^^^
 MST_MONSTER_SKILL_NAME_178570^Life Drainer^^^^^
@@ -3219,7 +3219,7 @@ MST_MONSTER_SKILL_NAME_178820^Thunderous Storm^^^^^
 MST_MONSTER_SKILL_NAME_178830^Tooth For A Tooth^^^^^
 MST_MONSTER_SKILL_NAME_178840^Tooth For A Tooth^^^^^
 MST_MONSTER_SKILL_NAME_178850^Getting Prepared^^^^^
-MST_MONSTER_SKILL_NAME_178860^Howling Roar^^^^^
+MST_MONSTER_SKILL_NAME_178860^Lore^^^^^
 MST_MONSTER_SKILL_NAME_178870^Blaster^^^^^
 MST_MONSTER_SKILL_NAME_178880^Silence^^^^^
 MST_MONSTER_SKILL_NAME_178890^Thundara^^^^^
@@ -3311,7 +3311,7 @@ MST_MONSTER_SKILL_NAME_179730^Wing Flap^^^^^
 MST_MONSTER_SKILL_NAME_179740^Hellish Combo^^^^^
 MST_MONSTER_SKILL_NAME_179750^Trine^^^^^
 MST_MONSTER_SKILL_NAME_179760^Great Horn^^^^^
-MST_MONSTER_SKILL_NAME_179770^Fire From Hell^^^^^
+MST_MONSTER_SKILL_NAME_179770^Hell Flame^^^^^
 MST_MONSTER_SKILL_NAME_179780^Counter Hell Combo^^^^^
 MST_MONSTER_SKILL_NAME_179790^Counter Trine^^^^^
 MST_MONSTER_SKILL_NAME_179800^Guillotine^^^^^
@@ -3522,7 +3522,7 @@ MST_MONSTER_SKILL_NAME_181560^Stonga Blade^^^^^
 MST_MONSTER_SKILL_NAME_181570^Evil Sweep^^^^^
 MST_MONSTER_SKILL_NAME_181580^Evil Cutter^^^^^
 MST_MONSTER_SKILL_NAME_181590^Cursed Black Sphere^^^^^
-MST_MONSTER_SKILL_NAME_181600^Demonic Cackle^^^^^
+MST_MONSTER_SKILL_NAME_181600^Demon's Cackle^^^^^
 MST_MONSTER_SKILL_NAME_181610^Focusing magic power!^^^^^
 MST_MONSTER_SKILL_NAME_181620^It's flinching from the light!^^^^^
 MST_MONSTER_SKILL_NAME_181630^It's trembling from the light!^^^^^
@@ -3531,7 +3531,7 @@ MST_MONSTER_SKILL_NAME_181650^T Magic Blade^^^^^
 MST_MONSTER_SKILL_NAME_181660^Dark Wave^^^^^
 MST_MONSTER_SKILL_NAME_181670^Gaia's Wrath^^^^^
 MST_MONSTER_SKILL_NAME_181680^Rock Deposition^^^^^
-MST_MONSTER_SKILL_NAME_181690^Stone Conceal^^^^^
+MST_MONSTER_SKILL_NAME_181690^Stone Rapture^^^^^
 MST_MONSTER_SKILL_NAME_181700^Rock Slide^^^^^
 MST_MONSTER_SKILL_NAME_181710^Gigantic Feast^^^^^
 MST_MONSTER_SKILL_NAME_181720^Severe Earthquake^^^^^
@@ -3632,7 +3632,7 @@ MST_MONSTER_SKILL_NAME_182640^Darkra^^^^^
 MST_MONSTER_SKILL_NAME_182650^Machine-Gun Fire^^^^^
 MST_MONSTER_SKILL_NAME_182660^Watergun^^^^^
 MST_MONSTER_SKILL_NAME_182670^Brachium has become hazy^^^^^
-MST_MONSTER_SKILL_NAME_182680^Judgment of Dark^^^^^
+MST_MONSTER_SKILL_NAME_182680^Dark Judgment^^^^^
 MST_MONSTER_SKILL_NAME_182690^Judgment of Light^^^^^
 MST_MONSTER_SKILL_NAME_182700^Judgment of Evil^^^^^
 MST_MONSTER_SKILL_NAME_182710^Capital Punishment^^^^^

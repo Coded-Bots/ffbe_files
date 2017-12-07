@@ -377,7 +377,7 @@ MST_ITEM_NAME_106301700^collab^冥晶龍共鬥硬幣^collab^collab^collab^collab
 MST_ITEM_NAME_106301710^collab^冥晶龍感應結晶^collab^collab^collab^collab
 MST_ITEM_NAME_106302400^Memory Candy^回憶糖果^추억의 알사탕^Bonbon du souvenir^Bonbon der Erinnerung^Caramelo del recuerdo
 MST_ITEM_NAME_106302500^collab^四魔貴族共鬥硬幣^collab^collab^collab^collab
-MST_ITEM_NAME_106302700^1/35th Soldier^1/35神羅兵^1/35 신라병^Soldat 1/35^1/35 Soldat^Soldado 1/35
+MST_ITEM_NAME_106302700^1/35th Soldier^1/35神羅兵^1/35 신라병^Garde Shinra 1/35^1/35-Soldat^Soldado 1/35
 MST_ITEM_NAME_211000100^Breath of Life^生命之息^생명의 숨결^Souffle de vie ^Elektrolader^Soplo de vida
 MST_ITEM_NAME_211000200^Twilight Stone^黃昏之石^황혼의 돌^Pierre du crépuscule ^Dämmerungsstein^Piedra del ocaso
 MST_ITEM_NAME_211000300^Dusk Jewel^宵暗寶珠^어스름의 보주^Joyau crépusculaire^Staubjuwel^Joya del atardecer
@@ -497,6 +497,7 @@ MST_ITEM_NAME_1209000837^Metal Gigantuar Coin^金屬巨型仙人掌硬幣^메탈
 MST_ITEM_NAME_1209000836^Lantern^燈籠^연등^Lanterne^Laterne^Farol
 MST_ITEM_NAME_1209000839^Metal Gigantuar Coin^金屬巨型仙人掌硬幣^메탈 사보텐더 코인^Jeton de Méga pampinator^Metallkaktoriusmünze^Moneda de cactilión de metal
 MST_ITEM_NAME_1209000847^Metal Gigantuar Coin^金屬巨型仙人掌硬幣^메탈 사보텐더 코인^Jeton de Méga pampinator^Metallkaktoriusmünze^Moneda de cactilión de metal
+MST_ITEM_NAME_1209000848^Metal Gigantuar Coin^金屬巨型仙人掌硬幣^메탈 사보텐더 코인^Jeton de Méga pampinator^Metallkaktoriusmünze^Moneda de cactilión de metal
 MST_ITEM_NAME_1209000838^Skeleton Key^骷髏鑰匙^스켈레톤 키^Clé squelette ^Skelettschlüssel^Llave esqueleto
 MST_ITEM_NAME_105006100^Ramsey's Pillow^小羊枕頭^램지의 베개^Oreiller de Ramsey^Ramseys Kopfkissen^Cojín de Ramsey
 MST_ITEM_NAME_105006200^Monkey Baby^小猴子^몽키 베이비^Bébé singe^Affenbaby^Bebé mono
@@ -516,8 +517,8 @@ MST_ITEM_NAME_106303600^Urutan Flower^兀魯坦之花^우루탄의 꽃^Fleur d'U
 MST_ITEM_NAME_106303700^Charybdis Raid Coin^漩渦珊瑚共鬥硬幣^카리브디스 레이드 코인^Jeton de Charybdis^Charybdis Raubzugmünze^Moneda de banda de Charybdis
 MST_ITEM_NAME_106303800^Pink Tail^粉色尾巴^분홍색 꼬리^Queue rose^Pinker Schweif^Cola rosa
 MST_ITEM_NAME_106303900^Nian Beast Raid Coin^年獸共鬥硬幣^니안 레이드 코인^Jeton de Nian^Nian-Bestie Raubzugmünze^Moneda de Bestia de Nian
-MST_ITEM_NAME_106304000^Etched Coin^賢女的獎牌^현자의 메달^^Ziselierte Münze^Moneda con grabado
-MST_ITEM_NAME_106304100^Jie Revors Raid Coin^傑·瑞沃斯共鬥硬幣^지에 리보즈 레이드 코인^Jeton de Jie Revors^Jie Revors Raubzugmünze^Moneda de banda de Jie Revors
+MST_ITEM_NAME_106304000^Etched Coin^賢女的獎牌^현자의 메달^Jeton gravé^Ziselierte Münze^Moneda con grabado
+MST_ITEM_NAME_106304100^Jie Revorse Raid Coin^傑·瑞沃斯共鬥硬幣^지에 리보즈 레이드 코인^Jeton de Jie Revorse^Jie Revorse Raubzugmünze^Moneda de banda de Jie Revors
 MST_ITEM_NAME_106304200^Training Bokken^訓練用的木劍^훈련용 목검^Sabre en bois d'entraî.^Training-Bokken^Espada de práctica
 MST_ITEM_NAME_107002700^Red Supercite^紅色超魔石^붉은 초월마석^Gigalithe rouge^Roter Supermaginit^Supercita roja
 MST_ITEM_NAME_107002800^Blue Supercite^藍色超魔石^푸른 초월마석^Gigalithe bleue^Blauer Supermaginit^Supercita azul
@@ -527,12 +528,12 @@ MST_ITEM_NAME_107003100^Black Supercite^黑色超魔石^검정 초월마석^Giga
 MST_ITEM_NAME_107003200^Yellow Supercite^黃色超魔石^노란 초월마석^Gigalithe jaune^Gelber Supermaginit^Supercita amarilla
 MST_ITEM_NAME_107003300^Orange Supercite^橙色超魔石^주황 초월마석^Gigalithe orange^Oranger Supermaginit^Supercita naranja
 MST_ITEM_NAME_107003400^Violet Supercite^紫色超魔石^보라 초월마석^Gigalithe violet^Violetter Supermaginit^Supercita lila
-MST_ITEM_NAME_109301000^Slate Fragment - Blue^石板碎片·藍^석판 조각·파랑^Éclat de tablette - bleu^Steintafelsplitter - Blau^Trozo de pizarra azul
-MST_ITEM_NAME_109301010^Slate Fragment - Blue^石板碎片·藍^석판 조각·파랑^Éclat de tablette - bleu^Steintafelsplitter - Blau^Trozo de pizarra azul
-MST_ITEM_NAME_109301020^Slate Fragment - Blue^石板碎片·藍^석판 조각·파랑^Éclat de tablette - bleu^Steintafelsplitter - Blau^Trozo de pizarra azul
-MST_ITEM_NAME_109301030^Slate Fragment - Blue^石板碎片·藍^석판 조각·파랑^Éclat de tablette - bleu^Steintafelsplitter - Blau^Trozo de pizarra azul
-MST_ITEM_NAME_109301040^Slate Fragment - Blue^石板碎片·藍^석판 조각·파랑^Éclat de tablette - bleu^Steintafelsplitter - Blau^Trozo de pizarra azul
-MST_ITEM_NAME_109301050^Slate Fragment - Blue^石板碎片·藍^석판 조각·파랑^Éclat de tablette - bleu^Steintafelsplitter - Blau^Trozo de pizarra azul
+MST_ITEM_NAME_109301000^Sectored Circle - Blue^石板碎片·藍^석판 조각·파랑^Éclat de tablette - bleu^Steintafelsplitter - Blau^Trozo de pizarra azul
+MST_ITEM_NAME_109301010^Sectored Circle - Blue^石板碎片·藍^석판 조각·파랑^Éclat de tablette - bleu^Steintafelsplitter - Blau^Trozo de pizarra azul
+MST_ITEM_NAME_109301020^Sectored Circle - Blue^石板碎片·藍^석판 조각·파랑^Éclat de tablette - bleu^Steintafelsplitter - Blau^Trozo de pizarra azul
+MST_ITEM_NAME_109301030^Sectored Circle - Blue^石板碎片·藍^석판 조각·파랑^Éclat de tablette - bleu^Steintafelsplitter - Blau^Trozo de pizarra azul
+MST_ITEM_NAME_109301040^Sectored Circle - Blue^石板碎片·藍^석판 조각·파랑^Éclat de tablette - bleu^Steintafelsplitter - Blau^Trozo de pizarra azul
+MST_ITEM_NAME_109301050^Sectored Circle - Blue^石板碎片·藍^석판 조각·파랑^Éclat de tablette - bleu^Steintafelsplitter - Blau^Trozo de pizarra azul
 MST_ITEM_NAME_205000300^Corrosive Powder^侵蝕之粉^침식의 가루^Poudre corrosive^Korrosives Pulver^Polvo corrosivo
 MST_ITEM_NAME_218000100^Earth Jewel^大地寶玉^땅의 보옥^Joyau de la terre^Erdjuwel^Joya de la tierra
 MST_ITEM_NAME_218000200^Laser Sensor^激光傳感器^레이저 센서^Capteur laser^Lasersensor^Sensor láser
@@ -542,7 +543,7 @@ MST_ITEM_NAME_218000500^Lump of Scrap^碎鐵塊^고철 덩어리^Copeau de fer^E
 MST_ITEM_NAME_218000600^Metal Fragment^金屬碎片^금속의 파편^Fragment de métal^Metallsplitter^Fragmento metálico
 MST_ITEM_NAME_218000700^Dark Matter Fragment^暗物質碎片^다크 스타의 조각^Frag. de matière noire^Dunkle Materie-Splitter^Trozo de materia oscura
 MST_ITEM_NAME_218000800^Snow Crystal^六花晶^스노우 크리스탈^Cristal de neige^Schneekristall^Cristal de nieve
-MST_ITEM_NAME_218000900^Fairy Feather^妖精翅膀^요정의 깃털^Plume de fée^Feenflügel^Pluma de hada
+MST_ITEM_NAME_218000900^Fairy Wing^妖精翅膀^요정의 깃털^Plume de fée^Feenflügel^Pluma de hada
 MST_ITEM_NAME_218001000^Bug Feeler^蟲子觸角^곤충의 더듬이^Antenne d'insecte^Käferfühler^Antena de insecto
 MST_ITEM_NAME_218001100^Ghoul Bone^死靈之骨^사령의 뼈^Os de goule^Ghulknochen^Hueso de ghoul
 MST_ITEM_NAME_218001200^Monster Fiber^魔物纖維^마물의 섬유^Fibre de monstre^Monsterfaser^Fibra de monstruo

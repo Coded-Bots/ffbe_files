@@ -250,7 +250,7 @@ MST_MATERIA_LONGDESCRIPTION_504208120^Boosts all elemental resistance by 10%.^�
 MST_MATERIA_LONGDESCRIPTION_504101080^Boost physical damage inflicted on beasts. Not stackable.^物理攻擊時提高對獸人系魔物的傷害。無法重複裝備。^일반 공격 실행 시 야수형 마물에게 주는 피해량이 상승합니다. 중복 장착 불가.^Dégâts physiques accrus contre les monstres de type bête. Pas cumulable.^Erhöht den physischen Schaden gegen Bestien. Nicht stapelbar.^Aumenta el daño físico infligido contra bestias. No acumulable.
 MST_MATERIA_LONGDESCRIPTION_504208480^Boosts MP by 10% and ATK and DEF by 5%.^提高10%MP、5%攻擊防禦數值。^MP가 10%, 공격력과 방어력이 5% 상승합니다.^Augmente les PM de 10%, l'ATT et la DEF de 5%^Erhöht MP um 10 %, ANG und ABW um 5 %^Aumenta los PM un 10% y ATQ/DEF un 5%
 MST_MATERIA_LONGDESCRIPTION_504208490^Boosts MP by 10% and MAG and SPR by 5%.^提高10%MP、5%魔力精神數值。^MP가 10%, 마력과 정신력이 5% 상승합니다.^Augmente les PM de 10%, la MAGIE et la PSY de 5%^Erhöht MP um 10 %, MAG und PSY um 5 %^Aumenta los PM un 10% y MAG/ESP un 5%
-MST_MATERIA_LONGDESCRIPTION_504208500^Deals damage partially unaffected by DEF and randomly inflicts poison, blind, sleep, silence, paralysis, confusion, disease, or stone on all enemies.^對全體敵人發動水風屬性無視部分魔法防禦的攻擊並隨機施加毒失明睡眠沉默麻痺混亂生病石化效果。^적 전체에 물, 바람속성의 일부 마법 방어 무시 피해를 주고, 무작위 상태이상을 부여합니다.^Inflige des dégâts en partie fixes et une altération d'état au hasard à tous les ennemis^Heilt beim Benutzer Gift, BLENDEN und VIRUS.^Daño absoluto parcial de agua y estado alterado al azar a enemigos
+MST_MATERIA_LONGDESCRIPTION_504208500^Deal partial unmitigated water/wind damage and randomly inflict poison, blind, sleep, silence, paralysis, confusion, disease, and stone on all enemies^對全體敵人發動水風屬性無視部分魔法防禦的攻擊並隨機施加毒失明睡眠沉默麻痺混亂生病石化效果。^적 전체에 물, 바람속성의 일부 마법 방어 무시 피해를 주고, 무작위 상태이상을 부여합니다.^Inflige des dégâts en partie fixes et une altération d'état au hasard à tous les ennemis^Heilt beim Benutzer Gift, BLENDEN und VIRUS.^Daño absoluto parcial de agua y estado alterado al azar a enemigos
 MST_MATERIA_LONGDESCRIPTION_504208510^Boosts MAG when equipped with a rod. Not stackable.^提高裝備魔棒時魔力的數值。無法重複裝備。^홀장을 장착하면 마력이 상승합니다. 중복 장착 불가.^Augmente la MAGIE lorsqu'un sceptre est équipé. Pas cumulable.^Erhöht MAG, wenn mit Stab ausgerüstet. Nicht stapelbar.^Aumenta la MAG al llevar varas. No acumulable.
 MST_MATERIA_LONGDESCRIPTION_504208570^Deals damage partially unaffected by DEF to all enemies.^對全體敵人發動無視部分防禦的攻擊。^적 전체에 일부 방어 무시 피해를 줍니다.^Dégâts en partie fixes sur tous les ennemis^Fügt allen Gegnern Schaden zu, der teilweise die Abwehr umgeht.^Daño absoluto parcial a todos los enemigos
 MST_MATERIA_LONGDESCRIPTION_504208900^Boosts light resistance by 15%.^提高15%光屬性耐性的數值。^빛속성 저항력이 15% 상승합니다.^Augmente la résistance à la lumière de 15%^Erhöht Lichtresistenz um 15 %.^Aumenta la resistencia a la luz un 15%
@@ -503,7 +503,7 @@ MST_MATERIA_LONGDESCRIPTION_504214360^Boosts ATK and MAG by 20%.^提高20%攻擊
 MST_MATERIA_LONGDESCRIPTION_504214720^Boosts DEF and SPR when equipped with heavy armor.^提高裝備重鎧甲時防禦精神的數值。^중갑을 장착하면 방어력과 정신력이 상승합니다.^Augmente la DEF et la PSY quand une armure lourde est équipée^Erhöht ABW und PSY, wenn mit schwerer Rüstung ausgerüstet.^Aumenta la DEF y el ESP al llevar armadura pesada.
 MST_MATERIA_LONGDESCRIPTION_504211360^Boosts physical and magic damage against dragon monsters. Not stackable.^物理、魔法攻擊時提高對龍系魔物的傷害。無法重複裝備。^물리, 마법공격 시 드래곤형 마물에게 주는 피해량이 상승합니다. [중복 장착 불가]^Augmente les dégâts physiques et magiques contre les dragons. Pas cumulable.^Erhöht physischen und magischen Schaden gegen Drachen. Nicht stapelbar.^Aumenta el daño físico y mágico contra dragones. No acumulable.
 MST_MATERIA_LONGDESCRIPTION_504214930^Boosts DEF and MAG when equipped with a rod.^提高裝備魔棒時防禦魔力的數值。^홀장을 장착하면 방어력과 마력이 상승합니다.^Augmente la DEF et la MAGIE lorsqu’un sceptre est équipé^Erhöht ABW und MAG, wenn mit Stab ausgerüstet.^Aumenta la DEF y la MAG al llevar una vara.
-MST_MATERIA_LONGDESCRIPTION_504214990^Boosts ATK when a single weapon is equipped in both hands.^當兩隻手只有一把武器時，提高攻擊的數值。^양손의 장비가 무기 1개일 경우 공격력이 상승합니다.^Augmente l'ATT quand deux armes à une main sont équipées^Erhöht ANG, wenn eine einhändige Waffe beidhändig ausger. ist.^Aumenta el ATQ al equipar una sola arma en las dos manos.
+MST_MATERIA_LONGDESCRIPTION_504214990^Boosts ATK when a single weapon is equipped in both hands.^當兩隻手只有一把武器時，提高攻擊的數值。^양손의 장비가 무기 1개일 경우 공격력이 상승합니다.^Augmente l'ATT quand une seule arme est équipée (dans les mains)^Erhöht ANG, wenn eine einhändige Waffe beidhändig ausger. ist.^Aumenta el ATQ al equipar una sola arma en las dos manos.
 MST_MATERIA_LONGDESCRIPTION_504215180^Boosts ice resistance by 15%.^提高15%冰屬性耐性的數值。^얼음속성 저항력이 15% 상승합니다.^Augmente la résistance à la glace de 15%^Erhöht Eisresistenz um 15%.^Aumenta la resistencia al frío un 15%.
 MST_MATERIA_LONGDESCRIPTION_504215190^Boosts MP and ATK by 10%.^提高10%MP、攻擊的數值。^MP와 공격력이 10% 상승합니다.^Augmente les PM et l'ATT de 10%^Erhöht MP und ANG um 10%^Aumenta los PM y el ATQ un 10%.
 MST_MATERIA_LONGDESCRIPTION_504215200^Boosts HP and SPR by 10%.^提高10%HP、精神的數值。^HP와 정신력이 10% 상승합니다.^Augmente les PV et la PSY de 10%^Erhöht LP und PSY um 10%.^Aumenta la VIT y el ESP un 10%.
@@ -570,72 +570,72 @@ MST_MATERIA_LONGDESCRIPTION_1500000027^Boost ATK/HP by 20% and earth resistance 
 MST_MATERIA_LONGDESCRIPTION_1500000028^Boost DEF by 40% and water resistance by 25%^提高40%防禦、25%水屬性耐性的數值^방어력 40%, 물속성 저항력 25% 상승^Augmente la DEF de 40% et la résistance à l'eau de 25%^Erhöht ABW um 40% und Wasserresistenz um 25%.^Aumenta DEF un 40% y res. al agua un 25%
 MST_MATERIA_LONGDESCRIPTION_1500000029^Boost MAG by 25% and MP by 15%^提高25%魔力、15%MP的數值^마력 25%, MP 15% 상승^Augmente la MAGIE de 25% et les PM de 15%^Erhöht MAG um 25% und MP um 15%.^Aumenta MAG un 25% y PM un 15%
 MST_MATERIA_LONGDESCRIPTION_1500000031^Boosts HP by 30% and boosts magic damage inflicted to human, beast, avian and stone monsters. Not stackable.^提高30%HP，魔法攻擊時提高對人形系、野獸系、鳥系、岩石系魔物的傷害。（無法重複裝備）^HP가 30% 상승하고, 마법공격 시 인간형, 야수형, 조류형, 암석형 마물에게 주는 피해량이 상승합니다. [중복 장착 불가]^Augmente les PV de 30% et les dégâts magiques contre les humains, les bêtes, les oiseaux, et les statues. Non cumulable.^Erhöht LP um 30% und steigert mag. Schaden gegen Menschen, Bestien, Vögel und Steinmonster (Nicht stapelbar).^Aumenta la VIT un 30% y potencia el daño mágico contra humanos, bestias, aves y pétreos (no acumulable).
-MST_MATERIA_LONGDESCRIPTION_504020270^^對全體敵人造成現有HP3/4的傷害。^^^^
-MST_MATERIA_LONGDESCRIPTION_504218970^^提高裝備手杖時精神的數值，並提高裝備法袍時防禦的數值。^^^^
-MST_MATERIA_LONGDESCRIPTION_504218980^^提高15%HP、攻擊的數值。^^^^
-MST_MATERIA_LONGDESCRIPTION_504218990^^提高15%全屬性耐性的數值。^^^^
-MST_MATERIA_LONGDESCRIPTION_504219000^^一定機率閃避物理攻擊，並提高20%攻擊的數值。^^^^
-MST_MATERIA_LONGDESCRIPTION_504219010^^提高15%HP、25%魔力的數值。^^^^
-MST_MATERIA_LONGDESCRIPTION_504010380^^持續恢復1名隊員的MP。^^^^
-MST_MATERIA_LONGDESCRIPTION_504219930^^提高裝備刀時攻擊和魔力的數值。^^^^
-MST_MATERIA_LONGDESCRIPTION_504219940^^提高裝備重鎧甲時HP精神的數值。^^^^
-MST_MATERIA_LONGDESCRIPTION_504219950^^中毒失明睡眠沉默麻痺混亂無效。^^^^
-MST_MATERIA_LONGDESCRIPTION_504220140^^提高20%HP、30%攻擊的數值。^^^^
-MST_MATERIA_LONGDESCRIPTION_504220280^^提高裝備格鬥武器或衣服時攻擊的數值。^^^^
-MST_MATERIA_LONGDESCRIPTION_504220290^^提高20%HP、防禦精神的數值、10%光屬性耐性的數值。^^^^
-MST_MATERIA_LONGDESCRIPTION_504220270^^提高10%HPMP、15%攻擊防禦魔力精神的數值。^^^^
-MST_MATERIA_LONGDESCRIPTION_504220620^^提高5%HPMP、10%攻擊的數值。^^^^
-MST_MATERIA_LONGDESCRIPTION_504220630^^提高5%HPMP、10%魔力的數值。^^^^
-MST_MATERIA_LONGDESCRIPTION_504100020^^提高20%HP的數值。^^^^
-MST_MATERIA_LONGDESCRIPTION_504220650^^提高20%風屬性耐性的數值。^^^^
-MST_MATERIA_LONGDESCRIPTION_504220660^^提高15%HPMP、精神的數值，並且每回合自動恢復MP。^^^^
-MST_MATERIA_LONGDESCRIPTION_504220680^^提高裝備劍時攻擊的數值，並提高裝備法袍時魔力的數值。^^^^
-MST_MATERIA_LONGDESCRIPTION_504221550^^提高30%HP，戰鬥開始時和從無法戰鬥狀態中復活時，提高極限技石對自身極限技槽的增加量。^^^^
-MST_MATERIA_LONGDESCRIPTION_504221560^^提高裝備重鎧甲時HP防禦的數值。^^^^
-MST_MATERIA_LONGDESCRIPTION_504221570^^提高全體隊員防禦精神、全屬性耐性的數值。^^^^
-MST_MATERIA_LONGDESCRIPTION_504221580^^提高20%HP、15%攻擊魔力的數值。^^^^
-MST_MATERIA_LONGDESCRIPTION_504221590^^提高5%HP%、20%精神的數值，並且每回合自動恢復HP。^^^^
-MST_MATERIA_LONGDESCRIPTION_504221600^^提高10%攻擊的數值，並且物理攻擊時提高對精靈系魔物的傷害。^^^^
-MST_MATERIA_LONGDESCRIPTION_504221610^^提高10%魔力的數值，並且魔法攻擊時提高對精靈系魔物的傷害。^^^^
-MST_MATERIA_LONGDESCRIPTION_504221620^^每回合提高攻擊的數值。^^^^
-MST_MATERIA_LONGDESCRIPTION_504221630^^每回合提高魔力的數值。^^^^
-MST_MATERIA_LONGDESCRIPTION_504221640^^提高20%土屬性耐性的數值。^^^^
-MST_MATERIA_LONGDESCRIPTION_504222860^^提高20%火屬性耐性的數值，並提高裝備劍時攻擊的數值，同時提高裝備輕鎧甲時HP攻擊的數值。^^^^
-MST_MATERIA_LONGDESCRIPTION_504222870^^不易被敵人攻擊，並提高裝備短劍時攻擊的數值。^^^^
-MST_MATERIA_LONGDESCRIPTION_504221650^^提高20%HP，並提高裝備劍時攻擊的數值。^^^^
-MST_MATERIA_LONGDESCRIPTION_504221660^^提高25%魔力、15%風屬性耐性的數值。^^^^
-MST_MATERIA_LONGDESCRIPTION_504221670^^可以裝備頭盔。^^^^
-MST_MATERIA_LONGDESCRIPTION_504221680^^提高40%魔力、20%精神的數值，發動召喚魔法時提高10%幻獸狀態。^^^^
-MST_MATERIA_LONGDESCRIPTION_504221690^^提高裝備格鬥武器時攻擊防禦的數值。^^^^
-MST_MATERIA_LONGDESCRIPTION_504221700^^提高10%攻擊的數值，並且物理攻擊時提高對人形系魔物的傷害。^^^^
-MST_MATERIA_LONGDESCRIPTION_504221710^^提高10%魔力的數值，並且魔法攻擊時提高對人形系魔物的傷害。^^^^
-MST_MATERIA_LONGDESCRIPTION_504221720^^提高20%攻擊精神的數值，混亂無效。^^^^
-MST_MATERIA_LONGDESCRIPTION_504221730^^提高30%魔力的數值，並受到物理攻擊時一定機率發動「隕石」。^^^^
-MST_MATERIA_LONGDESCRIPTION_504221740^^恢復自身的HPMP，並降低防禦精神的數值，同時施加睡眠效果。^^^^
-MST_MATERIA_LONGDESCRIPTION_504223800^^提高20%暗屬性耐性的數值。^^^^
-MST_MATERIA_LONGDESCRIPTION_504010100^^使1名隊員從無法戰鬥狀態中復活。^^^^
-MST_MATERIA_LONGDESCRIPTION_504213980^^1回合內可使用2次白魔法。^^^^
-MST_MATERIA_LONGDESCRIPTION_504223810^^發動召喚魔法時提高15%幻獸狀態。^^^^
-MST_MATERIA_LONGDESCRIPTION_504223820^^提高1名隊員水屬性耐性的數值，並降低雷屬性耐性的數值。^^^^
-MST_MATERIA_LONGDESCRIPTION_504224170^^提高裝備斧時攻擊的數值。^^^^
-MST_MATERIA_LONGDESCRIPTION_504224190^^生病無效+HP降低到一定數值以下時，持續恢復HPMP。^^^^
-MST_MATERIA_LONGDESCRIPTION_504224490^^提高裝備魔棒、法袍時魔力的數值，並可以裝備2個單手武器。^^^^
-MST_MATERIA_LONGDESCRIPTION_504224840^^提高25%精神的數值，並提高裝備手杖時精神的數值。^^^^
-MST_MATERIA_LONGDESCRIPTION_504224860^^提高5%HPMP、雷屬性耐性的數值。^^^^
-MST_MATERIA_LONGDESCRIPTION_504224870^^提高5%HPMP、暗屬性耐性的數值。^^^^
-MST_MATERIA_LONGDESCRIPTION_504224900^^降低50%冰屬性耐性的數值，並且每回合自動增加極限技槽，同時降低30%火屬性耐性的數值。^^^^
-MST_MATERIA_LONGDESCRIPTION_504224910^^提高自身攻擊的數值，並將自身的物理攻擊賦予火屬性。^^^^
-MST_MATERIA_LONGDESCRIPTION_504213160^^提高20%火屬性耐性的數值。^^^^
-MST_MATERIA_LONGDESCRIPTION_504224920^^可以裝備劍。^^^^
-MST_MATERIA_LONGDESCRIPTION_504224930^^提高裝備魔棒時魔力精神的數值。^^^^
-MST_MATERIA_LONGDESCRIPTION_504225930^^物理、魔法攻擊時提高對野獸、鳥、人形、蟲、植物系魔物的傷害。^^^^
-MST_MATERIA_LONGDESCRIPTION_504225720^^提高10%HP、中毒失明睡眠沉默麻痺混亂生病石化耐性。^^^^
-MST_MATERIA_LONGDESCRIPTION_504225890^^提高40%攻擊的數值，並且每回合提高防禦的數值。^^^^
-MST_MATERIA_LONGDESCRIPTION_504213170^^提高20%水屬性耐性的數值。^^^^
-MST_MATERIA_LONGDESCRIPTION_504226050^^提高10%魔力精神的數值。^^^^
-MST_MATERIA_LONGDESCRIPTION_504226041^^提高10%攻擊防禦的數值。^^^^
-MST_MATERIA_LONGDESCRIPTION_504226031^^提高40%防禦的數值，並且每回合自動恢復HP。^^^^
-MST_MATERIA_LONGDESCRIPTION_504226380^^提高極限技石對極限技槽的增加量，並提高裝備短劍劍大劍刀時攻擊的數值。^^^^
+MST_MATERIA_LONGDESCRIPTION_504020270^Deals damage to all enemies equal to 3/4 their current HP.^對全體敵人造成現有HP3/4的傷害。^^^^Daña y reduce la VIT de todos los enemigos en 3/4.
+MST_MATERIA_LONGDESCRIPTION_504218970^Boosts SPR when equipped with a staff, and DEF when equipped with a robe.^提高裝備手杖時精神的數值，並提高裝備法袍時防禦的數值。^^^^Aumenta el ESP al llevar bastón y la DEF al llevar túnica.
+MST_MATERIA_LONGDESCRIPTION_504218980^Boost HP and ATK by 15%.^提高15%HP、攻擊的數值。^^^^Aumenta la VIT y el ATQ un 15%.
+MST_MATERIA_LONGDESCRIPTION_504218990^Boosts fire, ice, lightning, water, wind, earth, light, and dark resistance by 15%.^提高15%全屬性耐性的數值。^^^^Aumenta la resistencia al fuego, hielo, rayo, agua, viento, tierra, luz y oscuridad un 15%.
+MST_MATERIA_LONGDESCRIPTION_504219000^Adds chance of dodging some physical attacks and boosts ATK by 20%.^一定機率閃避物理攻擊，並提高20%攻擊的數值。^^^^Puede esquivar ataques físicos y aumenta el ATQ un 20%.
+MST_MATERIA_LONGDESCRIPTION_504219010^Boosts HP by 15% and MAG by 25%.^提高15%HP、25%魔力的數值。^^^^Aumenta la VIT un 15% y la MAG un 25%.
+MST_MATERIA_LONGDESCRIPTION_504010380^Gradually restores MP for one ally.^持續恢復1名隊員的MP。^^^^Recupera los PM de un aliado poco a poco.
+MST_MATERIA_LONGDESCRIPTION_504219930^Boosts ATK and MAG when equipped with a katana.^提高裝備刀時攻擊和魔力的數值。^^^^Aumenta el ATQ y la MAG al llevar katana.
+MST_MATERIA_LONGDESCRIPTION_504219940^Boosts HP and SPR when equipped with heavy armor.^提高裝備重鎧甲時HP精神的數值。^^^^Aumenta la VIT y el ESP al llevar armadura pesada.
+MST_MATERIA_LONGDESCRIPTION_504219950^Nullifies poison, blind, sleep, silence, paralysis, and confusion.^中毒失明睡眠沉默麻痺混亂無效。^^^^Anula veneno, ceguera, sueño, silencio, parálisis y confusión.
+MST_MATERIA_LONGDESCRIPTION_504220140^Boosts HP by 20% and ATK by 30%.^提高20%HP、30%攻擊的數值。^^^^Aumenta la VIT un 20% y el ATQ un 30%.
+MST_MATERIA_LONGDESCRIPTION_504220280^Boosts ATK when equipped with martial arts gear.^提高裝備格鬥武器或衣服時攻擊的數值。^^^^Aumenta el ATQ al usar puños o llevar ropa.
+MST_MATERIA_LONGDESCRIPTION_504220290^Boosts HP, DEF, and SPR by 20%, and light resistance by 10%.^提高20%HP、防禦精神的數值、10%光屬性耐性的數值。^^^^Aumenta la VIT, la DEF y el ESP un 20%, aumenta la resistencia a la luz un 10%.
+MST_MATERIA_LONGDESCRIPTION_504220270^Boosts HP and MP by 10%, and ATK, DEF, MAG, and SPR by 15%.^提高10%HPMP、15%攻擊防禦魔力精神的數值。^^^^Aumenta la VIT y los PM un 10% y el ATQ, la DEF, la MAG y el ESP un 15%.
+MST_MATERIA_LONGDESCRIPTION_504220620^Boosts HP and MP by 5%, and ATK by 10%.^提高5%HPMP、10%攻擊的數值。^^^^Aumenta la VIT y los PM un 5% y el ATQ un 10%.
+MST_MATERIA_LONGDESCRIPTION_504220630^Boosts HP and MP by 5%, and MAG by 10%.^提高5%HPMP、10%魔力的數值。^^^^Aumenta la VIT y los PM un 5% y la MAG un 10%.
+MST_MATERIA_LONGDESCRIPTION_504100020^Boosts HP by 20%.^提高20%HP的數值。^^^^Aumenta la VIT un 20%.
+MST_MATERIA_LONGDESCRIPTION_504220650^Boosts wind resistance by 20%.^提高20%風屬性耐性的數值。^^^^Aumenta la resistencia al viento un 20%.
+MST_MATERIA_LONGDESCRIPTION_504220660^Boosts HP, MP and SPR by 15%, and gradually restores MP every turn.^提高15%HPMP、精神的數值，並且每回合自動恢復MP。^^^^Aumenta la VIT, los PM y el ESP un 15%, y recupera PM cada turno.
+MST_MATERIA_LONGDESCRIPTION_504220680^Boosts ATK when equipped with a sword, and MAG when equipped with a robe.^提高裝備劍時攻擊的數值，並提高裝備法袍時魔力的數值。^^^^Aumenta el ATQ al llevar espada y la MAG al llevar túnica.
+MST_MATERIA_LONGDESCRIPTION_504221550^Boosts HP by 30%, and increase own fill rate of burst stones at the beginning of battle or after being revived.^提高30%HP，戰鬥開始時和從無法戰鬥狀態中復活時，提高極限技石對自身極限技槽的增加量。^^^^Aumenta la VIT un 30% y las piedras de estallido recuperan más EL al principio del combate o tras ser revivido.
+MST_MATERIA_LONGDESCRIPTION_504221560^Boosts HP and DEF when equipped with heavy armor.^提高裝備重鎧甲時HP防禦的數值。^^^^Aumenta la VIT y la DEF al llevar armadura pesada.
+MST_MATERIA_LONGDESCRIPTION_504221570^Boosts DEF, SP, and fire, ice, lightning, water, wind, earth, light, and dark resistance for all allies.^提高全體隊員防禦精神、全屬性耐性的數值。^^^^Aumenta la DEF, el ESP y la resistencia al fuego, hielo, rayo, agua, viento, tierra, luz y oscuridad de todos los aliados.
+MST_MATERIA_LONGDESCRIPTION_504221580^Boosts HP by 20%, and ATK and MAG by 15%.^提高20%HP、15%攻擊魔力的數值。^^^^Aumenta la VIT un 20% y el ATQ y la MAG un 15%.
+MST_MATERIA_LONGDESCRIPTION_504221590^Boost HP by 5%, SPR by 20%, and gradually restores HP every turn.^提高5%HP%、20%精神的數值，並且每回合自動恢復HP。^^^^Aumenta la VIT un 5%, el ESP un 20% y recupera la VIT cada turno.
+MST_MATERIA_LONGDESCRIPTION_504221600^Boosts ATK by 10%, and boosts physical damage dealt against fairies.^提高10%攻擊的數值，並且物理攻擊時提高對精靈系魔物的傷害。^^^^Aumenta el ATQ un 10% y el daño físico contra espíritus.
+MST_MATERIA_LONGDESCRIPTION_504221610^Boosts MAG by 10%, and boosts magic damage dealt against fairies.^提高10%魔力的數值，並且魔法攻擊時提高對精靈系魔物的傷害。^^^^Aumenta la MAG un 10% y el daño mágico contra espíritus.
+MST_MATERIA_LONGDESCRIPTION_504221620^Boosts ATK every turn.^每回合提高攻擊的數值。^^^^Aumenta el ATQ cada turno.
+MST_MATERIA_LONGDESCRIPTION_504221630^Boosts MAG every turn.^每回合提高魔力的數值。^^^^Aumenta la MAG cada turno.
+MST_MATERIA_LONGDESCRIPTION_504221640^Boosts earth resistance by 20%.^提高20%土屬性耐性的數值。^^^^Aumenta la resistencia a la tierra un 20%.
+MST_MATERIA_LONGDESCRIPTION_504222860^Boosts fire resistance by 20%, ATK when equipped with a sword, and HP and ATK when equipped with light armor.^提高20%火屬性耐性的數值，並提高裝備劍時攻擊的數值，同時提高裝備輕鎧甲時HP攻擊的數值。^^^^Aumenta la resistencia al fuego un 20%, aumenta el ATQ al llevar una espada y aumenta la VIT y el ATQ al llevar una armadura pesada.
+MST_MATERIA_LONGDESCRIPTION_504222870^Decreases chance of being targeted, and boosts ATK when equipped with a short sword.^不易被敵人攻擊，並提高裝備短劍時攻擊的數值。^^^^Reduce la posibilidad de ser atacado y aumenta el ATQ al llevar espada corta.
+MST_MATERIA_LONGDESCRIPTION_504221650^Boosts HP by 20%, and boosts ATK when equipped with a sword.^提高20%HP，並提高裝備劍時攻擊的數值。^^^^Aumenta la VIT un 20% y el ATQ al llevar espada.
+MST_MATERIA_LONGDESCRIPTION_504221660^Boosts MAG by 25%, and wind resistance by 15%.^提高25%魔力、15%風屬性耐性的數值。^^^^Aumenta la MAG un 25% y la resistencia al viento un 15%.
+MST_MATERIA_LONGDESCRIPTION_504221670^Enables unit to equip helms.^可以裝備頭盔。^^^^Puede equiparse con cascos.
+MST_MATERIA_LONGDESCRIPTION_504221680^Boosts MAG by 40% and SPR by 20%, and boosts parameters of espers evoked by 10%.^提高40%魔力、20%精神的數值，發動召喚魔法時提高10%幻獸狀態。^^^^Aumenta la MAG un 40%, el ESP un 20% y los parámetros de los espers un 10%.
+MST_MATERIA_LONGDESCRIPTION_504221690^Boosts ATK and DEF when equipped with fists.^提高裝備格鬥武器時攻擊防禦的數值。^^^^Aumenta el ATQ y la DEF al usar puños.
+MST_MATERIA_LONGDESCRIPTION_504221700^Boosts ATK by 10% and boosts physical damage against humans.^提高10%攻擊的數值，並且物理攻擊時提高對人形系魔物的傷害。^^^^Aumenta el ATQ un 10% y aumenta el daño físico contra humanos.
+MST_MATERIA_LONGDESCRIPTION_504221710^Boosts MAG by 10% and boosts magic damage against humans.^提高10%魔力的數值，並且魔法攻擊時提高對人形系魔物的傷害。^^^^Aumenta la MAG un 10% y aumenta el daño físico contra humanos.
+MST_MATERIA_LONGDESCRIPTION_504221720^Boosts ATK and SPR by 20% and nullifies confusion.^提高20%攻擊精神的數值，混亂無效。^^^^Aumenta el ATQ y el ESP un 20% y anula confusión.
+MST_MATERIA_LONGDESCRIPTION_504221730^Boosts MAG by 30% and adds chance of activating meteor when receiving a physical attack.^提高30%魔力的數值，並受到物理攻擊時一定機率發動「隕石」。^^^^Aumenta la MAG un 30% y puede activar Meteo al recibir un ataque físico.
+MST_MATERIA_LONGDESCRIPTION_504221740^Restores own HP and MP, reduces own DEF and SPR, and puts self to sleep.^恢復自身的HPMP，並降低防禦精神的數值，同時施加睡眠效果。^^^^Recupera la VIT y los PM, reduce la DEF y el ESP y duerme al usuario.
+MST_MATERIA_LONGDESCRIPTION_504223800^Boosts dark resistance by 20%^提高20%暗屬性耐性的數值。^^^^Aumenta la resistencia a la oscuridad un 20%.
+MST_MATERIA_LONGDESCRIPTION_504010100^Revives one ally.^使1名隊員從無法戰鬥狀態中復活。^^^^Revive a un aliado K.O.
+MST_MATERIA_LONGDESCRIPTION_504213980^Enables white magic to be used two times in one turn.^1回合內可使用2次白魔法。^^^^Puede usar magia blanca dos veces en un mismo turno.
+MST_MATERIA_LONGDESCRIPTION_504223810^Boosts parameters of espers evoked by 15%.^發動召喚魔法時提高15%幻獸狀態。^^^^Aumenta los parámetros de los espers un 15%.
+MST_MATERIA_LONGDESCRIPTION_504223820^Boosts water resistance and reduces lightning resistance for one ally.^提高1名隊員水屬性耐性的數值，並降低雷屬性耐性的數值。^^^^Aumenta la resistencia al agua y reduce la resistencia al rayo de un aliado.
+MST_MATERIA_LONGDESCRIPTION_504224170^Boosts ATK when equipped with an axe.^提高裝備斧時攻擊的數值。^^^^Aumenta el ATQ al llevar un hacha.
+MST_MATERIA_LONGDESCRIPTION_504224190^Nullifies disease, and gradually restores HP and MP when HP is below a certain point.^生病無效+HP降低到一定數值以下時，持續恢復HPMP。^^^^Anula enfermedad y recupera la VIT y los PM poco a poco cuando la VIT baja a cierto punto.
+MST_MATERIA_LONGDESCRIPTION_504224490^Boosts MAG when equipped with a rod or robe, and enables dual-wielding of single-handed weapons.^提高裝備魔棒、法袍時魔力的數值，並可以裝備2個單手武器。^^^^Aumenta la MAG al llevar vara o túnica y puede llevar dos armas de una mano.
+MST_MATERIA_LONGDESCRIPTION_504224840^Boosts SPR by 25% and boosts SPR when equipped with a staff.^提高25%精神的數值，並提高裝備手杖時精神的數值。^^^^Aumenta el ESP un 25% y también aumenta el ESP al llevar un bastón.
+MST_MATERIA_LONGDESCRIPTION_504224860^Boosts HP, MP, and lightning resistance by 5%.^提高5%HPMP、雷屬性耐性的數值。^^^^Aumenta la VIT, los PM y la resistencia al rayo un 5%.
+MST_MATERIA_LONGDESCRIPTION_504224870^Boosts HP, MP, and dark resistance by 5%.^提高5%HPMP、暗屬性耐性的數值。^^^^Aumenta la VIT, los PM y la resistencia a la oscuridad un 5%.
+MST_MATERIA_LONGDESCRIPTION_504224900^Reduces ice resistance by 50%, increases limit burst gauge every turn, and boosts fire resistance by 30%.^降低50%冰屬性耐性的數值，並且每回合自動增加極限技槽，同時降低30%火屬性耐性的數值。^^^^Reduce la resistencia al hielo un 50%, la barra de EL se llena más rápido y aumenta la resistencia al fuego un 30%.
+MST_MATERIA_LONGDESCRIPTION_504224910^Boosts own ATK and adds fire element to own physical attack.^提高自身攻擊的數值，並將自身的物理攻擊賦予火屬性。^^^^Aumenta el ATQ y añade elemento fuego a los ataques físicos del usuario.
+MST_MATERIA_LONGDESCRIPTION_504213160^Boosts fire resistance by 20%.^提高20%火屬性耐性的數值。^^^^Aumenta la resistencia al fuego un 20%.
+MST_MATERIA_LONGDESCRIPTION_504224920^Enables unit to equip swords.^可以裝備劍。^^^^Se puede equipar con dos espadas.
+MST_MATERIA_LONGDESCRIPTION_504224930^Boosts MAG and SPR when equipped with a rod.^提高裝備魔棒時魔力精神的數值。^^^^Aumenta la MAG y el ESP al llevar una vara.
+MST_MATERIA_LONGDESCRIPTION_504225930^Boosts physical and magic damage again beast, avian, human, bug, and plantoid monsters.^物理、魔法攻擊時提高對野獸、鳥、人形、蟲、植物系魔物的傷害。^^^^Aumenta el daño físico y mágico contra bestias, aves, humanos y plantas.
+MST_MATERIA_LONGDESCRIPTION_504225720^Boosts HP by 10% and poison, blind, sleep, silence, paralysis, confusion, disease, and stone resistance.^提高10%HP、中毒失明睡眠沉默麻痺混亂生病石化耐性。^^^^Aumenta la VIT un 10% y la resistencia al veneno, ceguera, sueño, silencio, parálisis, confusión, enfermedad y piedra.
+MST_MATERIA_LONGDESCRIPTION_504225890^Boosts ATK by 40% and boosts DEF every turn.^提高40%攻擊的數值，並且每回合提高防禦的數值。^^^^Aumenta el ATQ un 40% y la DEF cada turno.
+MST_MATERIA_LONGDESCRIPTION_504213170^Boosts water resistance by 20%.^提高20%水屬性耐性的數值。^^^^Aumenta la resistencia al agua un 20%.
+MST_MATERIA_LONGDESCRIPTION_504226050^Boosts MAG and SPR by 10%.^提高10%魔力精神的數值。^^^^Aumenta la MAG y el ESP un 10%.
+MST_MATERIA_LONGDESCRIPTION_504226041^Boosts ATK and DEF by 10%.^提高10%攻擊防禦的數值。^^^^Aumenta el ATQ y la DEF un 10%.
+MST_MATERIA_LONGDESCRIPTION_504226031^Boosts DEF by 40%, and restore HP every turn.^提高40%防禦的數值，並且每回合自動恢復HP。^^^^Aumenta la DEF un 40% y recupera VIT cada turno.
+MST_MATERIA_LONGDESCRIPTION_504226380^Increases fill rate of burst stones, and boosts ATK when equipped with a short sword, sword, large sword, or katana.^提高極限技石對極限技槽的增加量，並提高裝備短劍劍大劍刀時攻擊的數值。^^^^Las piedras de estallido recuperan más EL y aumenta el ATQ al llevar espada corta, espada, espada larga o katana.
 MST_MATERIA_LONGDESCRIPTION_1500000032^Boosts HP and MP by 10%.^提高10%HP、MP。^HP와 MP가 10% 상승합니다.^Augmente les PV et les PM de 10%.^Erhöht LP und MP um 10%.^Aumenta la VIT y los PM un 10%.
 MST_MATERIA_LONGDESCRIPTION_1500000033^Boosts HP by 25% and enables unit to equip instruments.^提高25%HP，並且可以裝備「樂器」。^HP가 25% 상승하고, 악기를 장착할 수 있게 됩니다.^Augmente les PV de 25% et permet à une unité d'équiper des instruments.^Erhöht LP um 25% und lässt Instrumente ausrüsten.^Aumenta la VIT un 25% y puede equiparse con instrumentos.
-MST_MATERIA_LONGDESCRIPTION_1500000034^Boosts SPR by 15% and all elemental resistances by 25%, and fills limit burst gauge each turn during battle.^^^^^Aumenta el ESP un 15% y la resistencia a todos los elementos un 25%, la barra de EL se llena cada turno durante el combate.
+MST_MATERIA_LONGDESCRIPTION_1500000034^Boosts SPR by 15% and all elemental resistances by 25%, and fills limit burst gauge each turn during battle.^提高15%精神的數值，提高25%全屬性耐性的數值，並且每回合自動增加極限技槽。^정신력이 15%, 모든 속성 저항력이 25% 상승하고 전투 중 매 턴마다 LB 게이지가 증가합니다.^Augmente la PSY de 15%, toutes les résistances élémentaires de 25% et la jauge de limite à chaque tour en combat.^Erhöht PSY um 15%, sowie alle Elementarresistenzen um 25%. Limitmeter füllt sich jede Runde eines Kampfes.^Aumenta el ESP un 15% y la resistencia a todos los elementos un 25%, la barra de EL se llena cada turno durante el combate.
