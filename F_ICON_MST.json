@@ -415,6 +415,41 @@
         "qtkvrS60": "global_ability_10014.png"
     }, 
     {
+        "0HUPxDf1": "910610", 
+        "G4L0YIB2": "Jinx - Emberfrost Brew", 
+        "qtkvrS60": "global_ability_10015.png"
+    }, 
+    {
+        "0HUPxDf1": "910611", 
+        "G4L0YIB2": "Jinx - Geysershock Brew", 
+        "qtkvrS60": "global_ability_10016.png"
+    }, 
+    {
+        "0HUPxDf1": "910613", 
+        "G4L0YIB2": "Jinx - Cycloseismic Brew", 
+        "qtkvrS60": "global_ability_10017.png"
+    }, 
+    {
+        "0HUPxDf1": "910624", 
+        "G4L0YIB2": "Hex Eye", 
+        "qtkvrS60": "global_ability_10018.png"
+    }, 
+    {
+        "0HUPxDf1": "910625", 
+        "G4L0YIB2": "Wicked Eye", 
+        "qtkvrS60": "global_ability_10019.png"
+    }, 
+    {
+        "0HUPxDf1": "910645", 
+        "G4L0YIB2": "Frozen Armor", 
+        "qtkvrS60": "global_ability_10020.png"
+    }, 
+    {
+        "0HUPxDf1": "910646", 
+        "G4L0YIB2": "Hand in Hand", 
+        "qtkvrS60": "global_ability_10021.png"
+    }, 
+    {
         "0HUPxDf1": "1000001", 
         "G4L0YIB2": "バトルマスアイコン", 
         "qtkvrS60": "runningevent_icon_battle.png"
@@ -2153,6 +2188,21 @@
         "0HUPxDf1": "9000027", 
         "G4L0YIB2": "Dark Symphony", 
         "qtkvrS60": "global_spd_bn_list_00024.png"
+    }, 
+    {
+        "0HUPxDf1": "9000028", 
+        "G4L0YIB2": "Eternal Winter", 
+        "qtkvrS60": "global_spd_bn_list_00025.png"
+    }, 
+    {
+        "0HUPxDf1": "9000029", 
+        "G4L0YIB2": "Eternal Winter Cutscenes", 
+        "qtkvrS60": "global_spd_bn_list_00026.png"
+    }, 
+    {
+        "0HUPxDf1": "9000031", 
+        "G4L0YIB2": "The Huge Gingerbread Man", 
+        "qtkvrS60": "global_spd_bn_list_00028.png"
     }, 
     {
         "0HUPxDf1": "10100100", 
@@ -9395,6 +9445,36 @@
         "qtkvrS60": "global_equip_10059.png"
     }, 
     {
+        "0HUPxDf1": "1100000120", 
+        "G4L0YIB2": "Pocket Watch", 
+        "qtkvrS60": "global_equip_10060.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000121", 
+        "G4L0YIB2": "Snowbear", 
+        "qtkvrS60": "global_equip_10068.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000122", 
+        "G4L0YIB2": "Tinkererbow", 
+        "qtkvrS60": "global_equip_10061.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000123", 
+        "G4L0YIB2": "Christmas Bell", 
+        "qtkvrS60": "global_equip_10069.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000124", 
+        "G4L0YIB2": "Reindeer Hairband", 
+        "qtkvrS60": "global_equip_10070.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000125", 
+        "G4L0YIB2": "Snow Princess Gown", 
+        "qtkvrS60": "global_equip_10071.png"
+    }, 
+    {
         "0HUPxDf1": "1106300100", 
         "G4L0YIB2": "MogCake", 
         "qtkvrS60": "global_item_10011.png"
@@ -9660,6 +9740,16 @@
         "qtkvrS60": "global_item_10146.png"
     }, 
     {
+        "0HUPxDf1": "1209000849", 
+        "G4L0YIB2": "Candy Cane", 
+        "qtkvrS60": "global_item_10155.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000850", 
+        "G4L0YIB2": "Glowing Star", 
+        "qtkvrS60": "global_item_10156.png"
+    }, 
+    {
         "0HUPxDf1": "1300000001", 
         "G4L0YIB2": "Ancient Coin", 
         "qtkvrS60": "global_item_10047.png"
@@ -9713,5 +9803,10 @@
         "0HUPxDf1": "1500000030", 
         "G4L0YIB2": "Codex of Sword Master", 
         "qtkvrS60": "global_materia_1500000014.png"
+    }, 
+    {
+        "0HUPxDf1": "1500000035", 
+        "G4L0YIB2": "Joyful Spirit", 
+        "qtkvrS60": "global_materia_1500000015.png"
     }
 ]

@@ -121,7 +121,7 @@ MST_NPC_NAME_1106030^Old Man^老人^노인^Vieillard^Alter Mann^Anciano
 MST_NPC_NAME_1106040^Retired Martial Artist^原武道家^전직 무술가^Combattant à la retraite^Früherer Kampfkünstler^Luchador retirado
 MST_NPC_NAME_1106050^Suspicious Youth^可疑的年輕人^수상한 젊은이^Jeune personne étrange^Verdächtiger Jüngling^Joven sospechoso
 MST_NPC_NAME_1106060^Woman^女性^여자^Femme^Frau^Mujer
-MST_NPC_NAME_1106061^Girl^小姑娘^딸^Jeune fille^Tochter^Niña
+MST_NPC_NAME_1106061^Girl^小姑娘^딸^Jeune fille^Tochter^Chica
 MST_NPC_NAME_1107010^Woman^女性^여자^Femme^Frau^Mujer
 MST_NPC_NAME_1107030^Old Man^老人^노인^Vieillard^Alter Mann^Anciano
 MST_NPC_NAME_1107040^Crewman^船員^선원^Matelot^Matrose^Tripulante
@@ -506,97 +506,114 @@ MST_NPC_NAME_1520012^Factory Manager^工廠經營者^공장 경영자^Patron d'u
 MST_NPC_NAME_1520013^Skilled Worker^熟練工^숙련공^Travailleur compétent^Erfahrener Arbeiter^Trabajador experimentado
 MST_NPC_NAME_1520014^Recycler^回收利用店^재활용 업자^Spécialiste du recyclage^Recycler^Reciclador
 MST_NPC_NAME_1520015^Puppy^小狗^강아지^Chiot^Welpe^Cachorrito
-MST_NPC_NAME_100003210^Emperor Shera^皇帝榭拉^^^^
-MST_NPC_NAME_100003310^Emilia^埃米利亞^^^^
-MST_NPC_NAME_100004210^Veritas of the Bolt^迅雷之維利亞斯2^^^^
-MST_NPC_NAME_100004310^Veritas of the Frost^冰刃之維利亞斯2^^^^
-MST_NPC_NAME_100004810^Elfdrit^艾達利特^^^^
-MST_NPC_NAME_100006500^Levnato of the Alpha Star^一鬥星雷文納特^^^^
-MST_NPC_NAME_100006600^Zeno of the Beta Star^二鬥星傑諾^^^^
-MST_NPC_NAME_100006700^Yego of the Gamma Star^三鬥星伊戈^^^^
-MST_NPC_NAME_100006710^Yego of the Gamma Star^三鬥星伊戈^^^^
-MST_NPC_NAME_100006720^Yego of the Gamma Star (Ride)^三鬥星伊戈（騎士）^^^^
-MST_NPC_NAME_100006730^Yego of the Gamma Star (Ride)^三鬥星伊戈（騎士）^^^^
-MST_NPC_NAME_100006900^Epsilon Star^五鬥星^^^^
-MST_NPC_NAME_100007000^Zeta Star^六鬥星^^^^
-MST_NPC_NAME_100007100^Eta Star^七鬥星^^^^
-MST_NPC_NAME_100007300^Nagi of the Iota Star^九鬥星那岐^^^^
-MST_NPC_NAME_100007400^Nazuu of the Kappa Star^十鬥星納茨^^^^
-MST_NPC_NAME_100007500^Zolulu of the Lambda Star^十一鬥星佐魯魯^^^^
-MST_NPC_NAME_100007600^Delulu of the Mu Star^十二鬥星德魯魯^^^^
-MST_NPC_NAME_100007700^Nu Star^十三鬥星^^^^
-MST_NPC_NAME_100008000^Pi Star^十六鬥星^^^^
-MST_NPC_NAME_100010400^Fong^霍恩^^^^
-MST_NPC_NAME_100010500^Palte^巴爾特^^^^
-MST_NPC_NAME_100010600^Kunshira^庫西拉^^^^
-MST_NPC_NAME_100010610^Kunshira (standing)^庫西拉（直立）^^^^
-MST_NPC_NAME_100010700^Yashka^雅修卡^^^^
-MST_NPC_NAME_100010800^Wadow^瓦多^^^^
-MST_NPC_NAME_100010900^Erwin^亞溫^^^^
-MST_NPC_NAME_100011300^Ozetta^奧澤塔^^^^
-MST_NPC_NAME_100011400^Riley^萊利^^^^
-MST_NPC_NAME_100011600^Prime Minister Madal^宰相·瑪達爾^^^^Primer ministro Madal
-MST_NPC_NAME_100011700^Ishil^伊修爾^^^^
-MST_NPC_NAME_100011800^Franis^弗拉尼斯^^^^
-MST_NPC_NAME_100011900^Yuraisha^尤萊莎^^^^
-MST_NPC_NAME_100012000^Potchi^波奇^^^^
-MST_NPC_NAME_100012020^Potchika^波奇卡^^^^
-MST_NPC_NAME_100012100^Madam^夫人^^^^
-MST_NPC_NAME_100012200^Killian^希里安^^^^
-MST_NPC_NAME_100012300^Lexa^萊基薩^^^^
-MST_NPC_NAME_100012400^Elbis^艾爾比斯^^^^
-MST_NPC_NAME_100012500^Merald^梅拉路德^^^^
-MST_NPC_NAME_100012600^Rowen^羅溫^^^^
-MST_NPC_NAME_100012610^Rowen (casual)^羅溫（便服）^^^^
-MST_NPC_NAME_100013100^Yona^約拿^^^^
-MST_NPC_NAME_100013200^Hooded Man^披斗篷的男人^^^^
-MST_NPC_NAME_100013300^Ryumynui^魯米努依^^^^
-MST_NPC_NAME_100013400^Zile^扎伊爾^^^^
-MST_NPC_NAME_100013500^Lucille^魯西爾^^^^
-MST_NPC_NAME_200100270^Green Enemy Captain^敵方隊長（綠）^^^^
-MST_NPC_NAME_200103210^Vision Researcher^幻魔導研究者^^^^
-MST_NPC_NAME_200103510^Chocobo^陸行鳥^^^^
-MST_NPC_NAME_200103520^Black Chocobo^黑陸行鳥^^^^
-MST_NPC_NAME_200105800^Natura Soldier^納特拉族士兵^^^^
-MST_NPC_NAME_200105900^Natura Man^納特拉族男^^^^
-MST_NPC_NAME_200106000^Natura Woman^納特拉族女^^^^
-MST_NPC_NAME_200106100^Natura Child^納特拉族小孩^^^^
-MST_NPC_NAME_200106200^Shibyra Soldier^西維拉族士兵^^^^
-MST_NPC_NAME_200106300^Shibyra Man^西維拉族男^^^^
-MST_NPC_NAME_200106400^Shibyra Woman^西維拉族女^^^^
-MST_NPC_NAME_200106500^Shibyra Child^西維拉族小孩^^^^
-MST_NPC_NAME_200106600^Arisocrat 1^貴族1^^^^
-MST_NPC_NAME_200106610^Arisocrat 2^貴族2^^^^
-MST_NPC_NAME_200106620^Arisocrat 3^貴族3^^^^
-MST_NPC_NAME_200106900^Kappa^河童^^^^
-MST_NPC_NAME_200107000^General Steward^普通男傭^^^^
-MST_NPC_NAME_200107100^Office Worker^普通女傭^^^^
-MST_NPC_NAME_200107200^Hess Warrior^赫斯戰士^^^^
-MST_NPC_NAME_200107300^Knight Private^普通騎士^^^^
-MST_NPC_NAME_200107310^Knight Private 2^普通騎士2^^^^
-MST_NPC_NAME_200107320^Knight Private 3^普通騎士3^^^^
-MST_NPC_NAME_900105200^Giant Malboro^大毛爾波爾^^^^
-MST_NPC_NAME_900105300^Dwarf Malboro^小毛爾波爾^^^^
-MST_NPC_NAME_1102170^Worker^工作人員^^^^
-MST_NPC_NAME_1150060^Farmer^農場主^^^^
-MST_NPC_NAME_1530010^Natura Man^納特拉族男性^^^^
-MST_NPC_NAME_1530011^Weakened Natura^病弱的納特拉族男性^^^^
-MST_NPC_NAME_1530012^Disgruntled Natura^憤懣的納特拉族男性^^^^
-MST_NPC_NAME_1530013^Worried Natura Brother^擔心哥哥的納特拉族男性^^^^
-MST_NPC_NAME_1540010^Shibyra Man^西維拉族男性^^^^
-MST_NPC_NAME_1540011^Shibyra Woman^西維拉族女性^^^^
-MST_NPC_NAME_1540012^Shibyra Scientist^西維拉族科學家^^^^
-MST_NPC_NAME_1540013^Shibyra Doctor^西維拉族醫生^^^^
-MST_NPC_NAME_1540014^Moody Shibyra^心情糟糕的西維拉族男性^^^^
-MST_NPC_NAME_1550010^Stern Shibyra^目光兇煞的西維拉族男性^^^^
-MST_NPC_NAME_1560010^Blacksmith^男性鍛冶師^^^^
-MST_NPC_NAME_1560011^Shortcut Girl^短髮女孩^^^^
-MST_NPC_NAME_1560012^Adventurer^男性冒險家^^^^
-MST_NPC_NAME_1570010^Troubled Kappa^不知所措的河童^^^^
-MST_NPC_NAME_1570011^Water Worker Kappa^河童水工匠^^^^
-MST_NPC_NAME_1580010^Vigilante^男性自衛團員^^^^
-MST_NPC_NAME_1580011^Manufacturer^男性加工商^^^^
-MST_NPC_NAME_1590010^Worrisome Man^操心的男性^^^^
-MST_NPC_NAME_1590011^Merchant^男性商人^^^^
-MST_NPC_NAME_1590012^Boy^男孩^^^^
-MST_NPC_NAME_1590013^Large Handsome Man^穿著講究的魁梧男性^^^^
+MST_NPC_NAME_100003210^Emperor Shera^皇帝榭拉^시엘라 황제^^^Emperador Shera
+MST_NPC_NAME_100003310^Emilia^埃米利亞^에밀리아^^^Emilia
+MST_NPC_NAME_100004210^Veritas of the Bolt^迅雷之維利亞斯2^맹렬한 우레의 베리어스 2^^^Veritas el centelleante
+MST_NPC_NAME_100004310^Veritas of the Frost^冰刃之維利亞斯2^얼음 칼날의 베리어스 2^^^Veritas el gélido
+MST_NPC_NAME_100004810^Elfdrit^艾達利特^엘다리트^^^Elfodrit
+MST_NPC_NAME_100006500^Levnato of the Alpha Star^一鬥星雷文納特^일성투사 레브나트^^^Levnato de la estrella Alfa
+MST_NPC_NAME_100006600^Zeno of the Beta Star^二鬥星傑諾^이성투사 제노^^^Zeno de la estrella Beta
+MST_NPC_NAME_100006700^Yego of the Gamma Star^三鬥星伊戈^삼성투사 이고^^^Yego de la estrella Gamma
+MST_NPC_NAME_100006710^Yego of the Gamma Star^三鬥星伊戈^삼성투사 이고^^^Yego de la estrella Gamma
+MST_NPC_NAME_100006720^Yego of the Gamma Star (Ride)^三鬥星伊戈（騎士）^삼성투사 이고 (라이드)^^^Yego de la estrella Gamma (a caballo)
+MST_NPC_NAME_100006730^Yego of the Gamma Star (Ride)^三鬥星伊戈（騎士）^삼성투사 이고 (라이드)^^^Yego de la estrella Gamma (a caballo)
+MST_NPC_NAME_100006900^Epsilon Star^五鬥星^오성투사^^^Estrella Epsilón
+MST_NPC_NAME_100007000^Zeta Star^六鬥星^육성투사^^^Estrella Zeta
+MST_NPC_NAME_100007100^Eta Star^七鬥星^칠성투사^^^Estrella Eta
+MST_NPC_NAME_100007300^Nagi of the Iota Star^九鬥星那岐^구성투사 나기^^^Nagi de la estrella Iota
+MST_NPC_NAME_100007400^Nazuu of the Kappa Star^十鬥星納茨^십성투사 나즈^^^Nazuu de la estrella Kappa
+MST_NPC_NAME_100007500^Zolulu of the Lambda Star^十一鬥星佐魯魯^십일성투사 조루루^^^Zolulu de la estrella Lambda
+MST_NPC_NAME_100007600^Delulu of the Mu Star^十二鬥星德魯魯^십이성투사 데루루^^^Delulu de la estrella Mu
+MST_NPC_NAME_100007700^Nu Star^十三鬥星^십삼성투사^^^Estrella Nu
+MST_NPC_NAME_100008000^Pi Star^十六鬥星^십육성투사^^^Estrella Pi
+MST_NPC_NAME_100010400^Fong^霍恩^혼^^^Fong
+MST_NPC_NAME_100010500^Palte^巴爾特^파르테^^^Palte
+MST_NPC_NAME_100010600^Kunshira^庫西拉^쿤시라^^^Kunshira
+MST_NPC_NAME_100010610^Kunshira (standing)^庫西拉（直立）^쿤시라(스탠딩)^^^Kunshira (de pie)
+MST_NPC_NAME_100010700^Yashka^雅修卡^야슈카^^^Yashka
+MST_NPC_NAME_100010800^Wadow^瓦多^와도우^^^Wadow
+MST_NPC_NAME_100010900^Erwin^亞溫^어윈^^^Erwin
+MST_NPC_NAME_100011300^Ozetta^奧澤塔^오제타^^^Ozetta
+MST_NPC_NAME_100011400^Riley^萊利^라일리^^^Riley
+MST_NPC_NAME_100011600^Prime Minister Madal^宰相·瑪達爾^재상 마다르^^^Primer ministro Madal
+MST_NPC_NAME_100011700^Ishil^伊修爾^이실^^^Ishil
+MST_NPC_NAME_100011800^Franis^弗拉尼斯^프란시스^^^Franis
+MST_NPC_NAME_100011900^Yuraisha^尤萊莎^유라이샤^^^Yuraisha
+MST_NPC_NAME_100012000^Potchi^波奇^포치^^^Potchi
+MST_NPC_NAME_100012020^Potchika^波奇卡^포치카^^^Potchika
+MST_NPC_NAME_100012100^Madam^夫人^마담^^^Señora
+MST_NPC_NAME_100012200^Killian^希里安^킬리언^^^Killian
+MST_NPC_NAME_100012300^Lexa^萊基薩^렉사^^^Lexa
+MST_NPC_NAME_100012400^Elbis^艾爾比斯^엘비스^^^Elbis
+MST_NPC_NAME_100012500^Merald^梅拉路德^메랄드^^^Merald
+MST_NPC_NAME_100012600^Rowen^羅溫^로웬^^^Rowen
+MST_NPC_NAME_100012610^Rowen (casual)^羅溫（便服）^로웬(사복)^^^Rowen (informal)
+MST_NPC_NAME_100013100^Yona^約拿^요나^^^Yona
+MST_NPC_NAME_100013200^Hooded Man^披斗篷的男人^후드를 쓴 남자^^^Hombre encapuchado
+MST_NPC_NAME_100013300^Ryumynui^魯米努依^류미누이^^^Ryumynui
+MST_NPC_NAME_100013400^Zile^扎伊爾^자일^^^Zile
+MST_NPC_NAME_100013500^Lucille^魯西爾^루실^^^Lucille
+MST_NPC_NAME_200100270^Green Enemy Captain^敵方隊長（綠）^적의 대장(녹)^^^Capitán enemigo verde
+MST_NPC_NAME_200103210^Vision Researcher^幻魔導研究者^환마도 연구자^^^Investigador de visiones
+MST_NPC_NAME_200103510^Chocobo^陸行鳥^초코보^^^Chocobo
+MST_NPC_NAME_200103520^Black Chocobo^黑陸行鳥^검정 초코보^^^Chocobo negro
+MST_NPC_NAME_200105800^Natura Soldier^納特拉族士兵^나투라 족 병사^^^Soldado natura
+MST_NPC_NAME_200105900^Natura Man^納特拉族男^나투라 족 남자^^^Hombre natura
+MST_NPC_NAME_200106000^Natura Woman^納特拉族女^나투라 족 여자^^^Mujer natura
+MST_NPC_NAME_200106100^Natura Child^納特拉族小孩^나투라 족 어린아이^^^Niño natura
+MST_NPC_NAME_200106200^Shibyra Soldier^西維拉族士兵^시빌라 족 병사^^^Soldado shibyra
+MST_NPC_NAME_200106300^Shibyra Man^西維拉族男^시빌라 족 남자^^^Hombre shibyra
+MST_NPC_NAME_200106400^Shibyra Woman^西維拉族女^시빌라 족 여자^^^Mujer shibyra
+MST_NPC_NAME_200106500^Shibyra Child^西維拉族小孩^시빌라 족 어린아이^^^Niño shibyra
+MST_NPC_NAME_200106600^Arisocrat 1^貴族1^귀족 1^^^Aristócrata 1
+MST_NPC_NAME_200106610^Arisocrat 2^貴族2^귀족 2^^^Aristócrata 2
+MST_NPC_NAME_200106620^Arisocrat 3^貴族3^귀족 3^^^Aristócrata 3
+MST_NPC_NAME_200106900^Kappa^河童^캇파^^^Kappa
+MST_NPC_NAME_200107000^General Steward^普通男傭^범용 집사 남자^^^General Steward
+MST_NPC_NAME_200107100^Office Worker^普通女傭^범용 급사 여자^^^Oficinista
+MST_NPC_NAME_200107200^Hess Warrior^赫斯戰士^헤스의 전사^^^Guerrero de Hess
+MST_NPC_NAME_200107300^Knight Private^普通騎士^범용 기사^^^Caballero
+MST_NPC_NAME_200107310^Knight Private 2^普通騎士2^범용 기사 2^^^Caballero 2
+MST_NPC_NAME_200107320^Knight Private 3^普通騎士3^범용 기사 3^^^Caballero 3
+MST_NPC_NAME_900105200^Giant Malboro^大毛爾波爾^대형 몰볼^^^Molbol gigante
+MST_NPC_NAME_900105300^Dwarf Malboro^小毛爾波爾^소형 몰볼^^^Molbol enano
+MST_NPC_NAME_1102170^Worker^工作人員^종업원^^^Obrero
+MST_NPC_NAME_1150060^Farmer^農場主^농장주^^^Granjero
+MST_NPC_NAME_1530010^Natura Man^納特拉族男性^나투라 족 남자^^^Hombre natura
+MST_NPC_NAME_1530011^Weakened Natura^病弱的納特拉族男性^병약한 나투라 족 남자^^^Natura debilitado
+MST_NPC_NAME_1530012^Disgruntled Natura^憤懣的納特拉族男性^불만을 품은 나투라 족 남자^^^Natura enojado
+MST_NPC_NAME_1530013^Worried Natura Brother^擔心哥哥的納特拉族男性^형을 걱정하는 나투라 족 동생^^^Hermano natura preocupado
+MST_NPC_NAME_1540010^Shibyra Man^西維拉族男性^시빌라 족 남자^^^Hombre shibyra
+MST_NPC_NAME_1540011^Shibyra Woman^西維拉族女性^시빌라 족 여자^^^Mujer shibyra
+MST_NPC_NAME_1540012^Shibyra Scientist^西維拉族科學家^시빌라 족 과학자^^^Científico shibyra
+MST_NPC_NAME_1540013^Shibyra Doctor^西維拉族醫生^시빌라 족 의사^^^Médico shibyra
+MST_NPC_NAME_1540014^Moody Shibyra^心情糟糕的西維拉族男性^까다로운 시빌라 족 남자^^^Shibyra temperamental
+MST_NPC_NAME_1550010^Stern Shibyra^目光兇煞的西維拉族男性^눈초리가 사나운 시빌라 족 남자^^^Shibyra intransigente
+MST_NPC_NAME_1560010^Blacksmith^男性鍛冶師^대장장이 남자^^^Herrero
+MST_NPC_NAME_1560011^Shortcut Girl^短髮女孩^숏컷 여자아이^^^Chica con pelo corto
+MST_NPC_NAME_1560012^Adventurer^男性冒險家^모험가 남자^^^Aventurero
+MST_NPC_NAME_1570010^Troubled Kappa^不知所措的河童^곤란한 캇파^^^Kappa preocupado
+MST_NPC_NAME_1570011^Water Worker Kappa^河童水工匠^물 장인 캇파^^^Obrero kappa
+MST_NPC_NAME_1580010^Vigilante^男性自衛團員^자경단 남자^^^Vigilante
+MST_NPC_NAME_1580011^Manufacturer^男性加工商^가공상 남자^^^Fabricante
+MST_NPC_NAME_1590010^Worrisome Man^操心的男性^걱정이 많은 남자^^^Hombre preocupadizo
+MST_NPC_NAME_1590011^Merchant^男性商人^상인 남자^^^Mercader
+MST_NPC_NAME_1590012^Boy^男孩^남자아이^^^Chico
+MST_NPC_NAME_1590013^Large Handsome Man^穿著講究的魁梧男性^말쑥한 차림의 덩치 좋은 남자^^^Hombre apuesto y alto
+MST_NPC_NAME_900011^Christine^克莉絲汀^크리스틴^Christine^Christine^Christine
+MST_NPC_NAME_900012^Snowbear^雪熊^눈곰^Ourseneige^Schneebär^Oso de nieve
+MST_NPC_NAME_900013^Christine Dead^克莉絲汀(死亡)^크리스틴(사망)^Christine (morte)^Christine (Tot)^Christine (muerta)
+MST_NPC_NAME_900014^Snowman Dead^雪熊(死亡)^눈곰(사망)^Ourseneige (mort)^Schneebär (Tot)^Oso de nieve (muerto)
+MST_NPC_NAME_900015^Cruze^科魯茲 ^크루즈^Cruze^Cruze^Cruze
+MST_NPC_NAME_900016^Angelica^安潔莉卡^안젤리카^Angelica^Angelica^Angelica
+MST_NPC_NAME_900017^Kryla^克里菈^크릴라^Kryla^Kryla^Kryla
+MST_NPC_NAME_900018^Cruze Dead^科魯茲(死亡)^크루즈(사망)^Cruze (mort)^Cruze (Tot)^Cruze (muerto)
+MST_NPC_NAME_900019^Cruze Weak^科魯茲(虛弱)^크루즈(허약)^Cruze (affaibli)^Cruze (Schwach)^Cruze (débil)
+MST_NPC_NAME_900020^Angelica Dead^安潔莉卡(死亡)^안젤리카(사망)^Angelica (morte)^Angelica (Tot)^Angelica (débil)
+MST_NPC_NAME_900021^Angelica Weak^安潔莉卡(虛弱)^안젤리카(허약)^Angelica (affaiblie)^Angelica (Schwach)^Chica alegre
+MST_NPC_NAME_900022^Cheerful Girl^開朗少女^발랄한 소녀^Fille joyeuse^Heiteres Mädchen^Chico ruidoso
+MST_NPC_NAME_900023^Loud Boy^喧鬧的男孩^목소리가 큰 소년^Garçon bruyant^Lauter Junge^Hombre
+MST_NPC_NAME_900024^Scary-looking Man^可怕的老爹^무서워 보이는 아저씨^Homme effrayant^Beängstigender Mann^Hombre aterrador
+MST_NPC_NAME_900025^Worrisome Lady^操心的女性^걱정스러운 아주머니^Dame inquiète^Besorgte Dame^Señora preocupadiza
+MST_NPC_NAME_900026^Loud Old Man^大嗓門老爺爺^큰 소리로 말하는 노인^Vieil homme bruyant^Lauter alter Mann^Anciano ruidoso
+MST_NPC_NAME_900027^Leader^領導者^리더^Chef^Anführer^Líder

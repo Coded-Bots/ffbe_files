@@ -227,6 +227,7 @@ MST_TOWNSTORE_NAME_900130^King Mog^莫古利王^모그리 왕^Roi mog^König Mog
 MST_TOWNSTORE_NAME_900131^King Mog^莫古利王^모그리 왕^Roi mog^König Mogry^Rey Moguri
 MST_TOWNSTORE_NAME_7000003^King Mog^莫古利王^모그리 왕^Roi mog^König Mogry^Rey Moguri
 MST_TOWNSTORE_NAME_900124^Mog Minister^莫古利大臣^모그리 대신^Ministre mog^Mogryminister^Ministro Moguri
+MST_TOWNSTORE_NAME_7000005^Mog Minister^莫古利大臣^모그리 대신^Ministre mog^Mogryminister^Ministro Moguri
 MST_MEDAL_EXCHANGE_EXPLAIN_71801^0^0^0^0^0^0
 MST_MEDAL_EXCHANGE_EXPLAIN_71802^0^0^0^0^0^0
 MST_MEDAL_EXCHANGE_EXPLAIN_71803^0^0^0^0^0^0
@@ -539,3 +540,23 @@ MST_MEDAL_EXCHANGE_EXPLAIN_72057^0^0^0^0^0^0
 MST_MEDAL_EXCHANGE_EXPLAIN_72058^0^0^0^0^0^0
 MST_MEDAL_EXCHANGE_EXPLAIN_72059^0^0^0^0^0^0
 MST_MEDAL_EXCHANGE_EXPLAIN_72060^0^0^0^0^0^0
+MST_MEDAL_EXCHANGE_EXPLAIN_10200^0^0^0^0^0^0
+MST_MEDAL_EXCHANGE_EXPLAIN_10201^0^0^0^0^0^0
+MST_MEDAL_EXCHANGE_EXPLAIN_10202^0^0^0^0^0^0
+MST_MEDAL_EXCHANGE_EXPLAIN_10203^This moogle has the power to increase the trust master <color=255:255:0>Snowbear</color>.<br>5%↑^此莫古利此擁有能夠強化信賴度滿點報酬的力量 <color=255:255:0>雪熊</color>.<br>5%↑^해당 모그리는 트러스트 마스터 <color=255:255:0>눈곰</color>의 트러스트치를 5% 올려줍니다.^Ce mog a le pouvoir d'améliorer la récompense de confiance absolue : <color=255:255:0>Ourseneige</color> de 5%.^Dieser Mogry besitzt die Kraft, die Wahre-Treue zu verstärken<color=255:255:0>Snowbear</color>.<br>5%↑^Este moguri tiene el poder de mejorar el Maestro Fiel <color=255:255:0>Oso polar</color>.<br>5%↑
+MST_MEDAL_EXCHANGE_EXPLAIN_10204^This moogle has the power to increase the trust master <color=255:255:0>Magic Sanctuary</color>.<br>5%↑^此莫古利此擁有能夠強化信賴度滿點報酬的力量 <color=255:255:0>魔法聖殿</color>.<br>5%↑^해당 모그리는 트러스트 마스터 <color=255:255:0>마법 성역</color>의 트러스트치를 5% 올려줍니다.^Ce mog a le pouvoir d'améliorer la récompense de confiance absolue : <color=255:255:0>Sanctuaire magique</color> de 5%.^Dieser Mogry besitzt die Kraft, die Wahre-Treue zu verstärken<color=255:255:0>Magische Zuflucht</color>.<br>5%↑^Este moguri tiene el poder de mejorar el Maestro Fiel <color=255:255:0>Santuario mágico</color>.<br>5%↑
+MST_MEDAL_EXCHANGE_EXPLAIN_10205^This moogle has the power to increase the trust master <color=255:255:0>Tinkererbow</color>.<br>5%↑^此莫古利此擁有能夠強化信賴度滿點報酬的力量 <color=255:255:0>機械工匠之弓</color>.<br>5%↑^해당 모그리는 트러스트 마스터 <color=255:255:0>세공사의 활</color>의 트러스트치를 5% 올려줍니다.^Ce mog a le pouvoir d'améliorer la récompense de confiance absolue : <color=255:255:0>Arc de bricoleuse</color> de 5%.^Dieser Mogry besitzt die Kraft, die Wahre-Treue zu verstärken<color=255:255:0>Tüftlerbogen</color>.<br>5%↑^Este moguri tiene el poder de mejorar el Maestro Fiel <color=255:255:0>Arco del juguetero</color>.<br>5%↑
+MST_MEDAL_EXCHANGE_EXPLAIN_10206^This moogle has the power to increase the trust master <color=255:255:0>Dream Harp</color>.<br>5%↑^此莫古利此擁有能夠強化信賴度滿點報酬的力量 <color=255:255:0>夢之豎琴</color>.<br>5%↑^해당 모그리는 트러스트 마스터 <color=255:255:0>꿈의 하프</color>의 트러스트치를 5% 올려줍니다.^Ce mog a le pouvoir d'améliorer la récompense de confiance absolue : <color=255:255:0>Lyre onirique</color> de 5%^Dieser Mogry besitzt die Kraft, die Wahre-Treue zu verstärken<color=255:255:0>Traumharfe</color>.<br>5%↑^Este moguri tiene el poder de mejorar el Maestro Fiel <color=255:255:0>Arpa onírica</color>.<br>5%↑
+MST_MEDAL_EXCHANGE_EXPLAIN_10207^0^0^0^0^0^0
+MST_MEDAL_EXCHANGE_EXPLAIN_10208^0^0^0^0^0^0
+MST_MEDAL_EXCHANGE_EXPLAIN_10209^0^0^0^0^0^0
+MST_MEDAL_EXCHANGE_EXPLAIN_10210^0^0^0^0^0^0
+MST_MEDAL_EXCHANGE_EXPLAIN_10211^0^0^0^0^0^0
+MST_MEDAL_EXCHANGE_EXPLAIN_10212^0^0^0^0^0^0
+MST_MEDAL_EXCHANGE_EXPLAIN_10213^0^0^0^0^0^0
+MST_MEDAL_EXCHANGE_EXPLAIN_10214^0^0^0^0^0^0
+MST_MEDAL_EXCHANGE_EXPLAIN_10215^0^0^0^0^0^0
+MST_MEDAL_EXCHANGE_EXPLAIN_10216^0^0^0^0^0^0
+MST_MEDAL_EXCHANGE_EXPLAIN_10217^0^0^0^0^0^0
+MST_MEDAL_EXCHANGE_EXPLAIN_10218^0^0^0^0^0^0
+MST_TOWNSTORE_NAME_7000005^Mog Minister^莫古利大臣^모그리 대신^Ministre mog^Mogryminister^Ministro Moguri

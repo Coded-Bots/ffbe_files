@@ -327,16 +327,16 @@ MST_EQUIP_ITEM_SHORTDESCRIPTION_409008600^A hat able to increase one's understan
 MST_EQUIP_ITEM_SHORTDESCRIPTION_301001500^A short sword with unique comb like peaks.^呈鋸齒狀的特殊短劍^칼등이 빗 모양을 한 특수한 단검^Une épée courte avec une pointe spéciale en forme de crête.^Ein Kurzschwert mit einzigartigen Stacheln.^Una espada corta de inusual diseño en forma de sierra.
 MST_EQUIP_ITEM_SHORTDESCRIPTION_304001200^A katana oozing with venom.^時刻浸染著猛毒的刀^항상 맹독이 배어 있는 도^Un katana imprégné de venin.^Ein vor Gift triefendes Katana.^Una katana que rezuma veneno.
 MST_EQUIP_ITEM_SHORTDESCRIPTION_409002800^A ring that greatly repels lightning.^能大幅提高雷之守護的戒指^보다 강력한 번개의 가호가 걸린 반지^Un anneau qui repousse très bien la foudre.^Ring, der Blitze abweist.^Un anillo que repele enormemente el rayo.
-MST_EQUIP_ITEM_SHORTDESCRIPTION_302002100^^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_303001800^^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_305001400^^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_311001800^^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_302002200^^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_305001500^^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_308001800^^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_309001100^^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_401001200^^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_402001500^^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_302002100^A sword brought from the Farplane and wielded by a machine soldier.^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_303001800^A legendary sword wielded by a brave warrior from the Farplane.^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_305001400^A battle axe made from iron.^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_311001800^A cane which can seal away magic.^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_302002200^A magic sword covered in holy flames.^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_305001500^A double-edged axe seemingly modeled after the moon.^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_308001800^A spear once wielded by a sea demon god from the Farplane.^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_309001100^Claws modeled after that of a falcon's.^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_401001200^A shield modeled after a metal slime.^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_402001500^A great shield which harbors the dignity of a great boss.^^^^^
 MST_EQUIP_ITEM_SHORTDESCRIPTION_308001900^A high-spec weapon made by a dedicated craftsman.^由手藝精湛的工匠精心製造的高性能武器^장인의 고집이 느껴지는 고성능 무기^Une arme au très grand potentiel fabriquée par un artisan passionné.^Eine hochwertige Waffe gemacht von einem leidenschaftlichen Schmied.^Un arma potente hecha por un artesano apasionado.
 MST_EQUIP_ITEM_SHORTDESCRIPTION_306001500^A hammer made from the hide of a beast.^用野獸毛皮製作的鎚子^짐승의 모피를 사용해 만든 망치^Un marteau fabriqué à partir des poils d'une bête.^Ein Hammer gemacht aus dem Huf einer Bestie.^Un martillo hecho con el pelaje de una bestia.
 MST_EQUIP_ITEM_SHORTDESCRIPTION_404001100^A helmet worn by imperial commanders.^指揮官級別的帝國兵所裝備的頭盔^지휘관 급의 제국군이 장비하는 투구^Un casque porté par les commandants impériaux.^Ein Helm eines imperialen Kommandanten.^Un yermo portado por comandantes imperiales.
@@ -580,9 +580,9 @@ MST_EQUIP_ITEM_SHORTDESCRIPTION_302003600^NA^力量非同小可的聖王遺劍^N
 MST_EQUIP_ITEM_SHORTDESCRIPTION_303003100^NA^輕巧的聖王遺劍^NA^NA^NA^NA
 MST_EQUIP_ITEM_SHORTDESCRIPTION_302003700^NA^英雄阿爾·阿瓦德使用的彎刀^NA^NA^NA^NA
 MST_EQUIP_ITEM_SHORTDESCRIPTION_403043100^NA^正義的英雄怪傑羅賓的假面^NA^NA^NA^NA
-MST_EQUIP_ITEM_SHORTDESCRIPTION_307001700^A mysterious weapon brought from the Farplane.^來自異界的神奇武器^이계에서 유입된 수수께끼의 무기^Une arme mystérieuse venant de l'Au-delà.^Eine mysteriöse Waffe aus dem Abyssum.^Un arma misteriosa del Etéreo.
-MST_EQUIP_ITEM_SHORTDESCRIPTION_409013500^A mass-produced armlet brought from the Farplane.^來自異界的量產型防具^이계에서 유입된 양산형 방어구^Des protections produites en masse venant de l'Au-delà.^Ein massenweise hergestellter Beschützer aus dem Abyssum.^Un protector fabricado en masa del Etéreo.
-MST_EQUIP_ITEM_SHORTDESCRIPTION_406002600^The uniform of a former SOLDIER, a warrior from the Farplane.^異界「前戰士」的服裝^이계의 '전 솔져'가 입던 옷^Les vêtements d'un "ancien soldat" d'un autre monde.^Die Kleidung eines "ehemaligen Soldaten" aus einer anderen Welt.^La ropa de un "antiguo soldado" de otro mundo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_307001700^A mysterious weapon brought from another world.^來自異界的神奇武器^이계에서 유입된 수수께끼의 무기^Arme d'origine inconnue venant de l'Au-delà.^Eine mysteriöse Waffe aus einer fremden Welt.^Arma misteriosa procedente de un mundo lejano.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409013500^A mass-produced armlet brought from another world.^來自異界的量產型防具^이계에서 유입된 양산형 방어구^Armure produite en série par Shinra venant de l'Au-delà.^Eine in einer fernen Welt in Massenproduktion hergestellte Rüstung.^Accesorio defensivo fabricado en un mundo lejano. 
+MST_EQUIP_ITEM_SHORTDESCRIPTION_406002600^The uniform of a former SOLDIER, a warrior from another world.^異界「前戰士」的服裝^이계의 '전 솔져'가 입던 옷^Vêtements d'un ancien SOLDAT venant d'un autre monde.^Die aus einer fernen Welt stammende Kleidung eines ehemaligen SOLDAT-Mitglieds.^Atuendo perteneciente a un antiguo SOLDADO originario de un mundo lejano.
 MST_EQUIP_ITEM_SHORTDESCRIPTION_409013600^A pair of illusive gloves come across by one talented in the art of war.^只有武藝高超的人才能得到的幻之護手^무예에 재능있는 자만이 만날 수 있는 환상의 장갑^Une paire de gants fantomatiques qui aurait été portée par ceux doués dans l'art de la guerre.^Ein Paar trügerischer Handschuhe von jemanden, der die Kriegskunst beherrscht.^Un par de guantes ilusorios que se encontró alguien versado en el arte de la guerra.
 MST_EQUIP_ITEM_SHORTDESCRIPTION_303003200^A treasured sword around which countless teeth revolve.^有無數鋸齒在周圍旋轉的寶劍^무수히 많은 톱날이 주변을 회전하는 보검^Une épée de grande valeur entourée d'innombrables dents.^Ein begehrtes Schwert mit vielen Zähnen.^Una preciada espada que muchos cambiarían por su propia madre.
 MST_EQUIP_ITEM_SHORTDESCRIPTION_403043300^A hair ornament infused with the prayers of a bard.^包含吟遊詩人的祝福的髮飾^음유시인의 기도가 담긴 머리 장식^Une parure de cheveux imprégnée des prières d'un barde.^Ein Haarschmuck verwoben mit dem Gebet eines Barden.^Un ornamento para el pelo imbuido con las plegarias de un bardo.
@@ -728,164 +728,168 @@ MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000106^A ring found in a cavern deep in the 
 MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000108^A black top hat shrouded in mystery.^充滿謎團的黑色大禮帽^거리에서 공연하는 마술사들이 주로 착용하는 모자.^Un chapeau noir entouré de mystère.^Ein schwarzer Zylinder, um den sich allerlei Mythen ranken. ^Un sombrero que suelen llevar los artistas callejeros.
 MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000112^The insignia of a captain of the knights of Grandshelt. (Enables special abilities when equipped by Loren)^格蘭謝爾特騎士團長的徽章【『洛倫』裝備時可以發動特定能力】^그랑셸트 기사단장의 휘장 [로렌 장착 시 특정 어빌리티 발동]^L'insigne du capitaine des chevaliers de Grandshelt (permet à Loren d'utiliser des aptitudes spéciales)^Die Insignie eines Kommandanten der Ritter von Grandshelt. (Ermöglicht Spezialfertigkeiten, wenn von Loren getragen)^La insignia de un capitán de los caballeros de Grandshelt. (Activa habilidades especiales si se lo equipa Loren).
 MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000113^A hairpin adorned with beautiful flowers. ^裝飾著美麗花朵的髮飾^아름다운 꽃으로 장식한 머리핀.^Une épingle ornée de magnifiques fleurs.^Eine mit hübschen Blüten verzierte Haarnadel.^Un coletero adornado con unas flores muy bonitas.
-MST_EQUIP_ITEM_SHORTDESCRIPTION_409015600^A magic doll modeled after a primal brought from the Farplane.^模仿異界蠻神所製作的魔法人偶^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_409015700^A magic doll modeled after a sage brought from the Farplane.^模仿異界賢人所製作的魔法人偶^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_409015800^A magic doll modeled after a sage brought from the Farplane.^模仿異界賢人所製作的魔法人偶^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_409015900^A magic doll modeled after a lord brought from the Farplane.^模仿異界盟主所製作的魔法人偶^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_409016000^A magic doll modeled after a sage brought from the Farplane.^模仿異界賢人所製作的魔法人偶^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_409016100^A magic doll modeled after a sage brought from the Farplane.^模仿異界賢人所製作的魔法人偶^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_409016200^A magic doll modeled after a noble son brought from the Farplane.^模仿異界名門子弟所製作的魔法人偶^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_304002100^An attractive katana with enhanced abilities.^性能強化的妖刀^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_312001900^An expert bow with enhanced abilities.^性能強化，適合熟練者的弓^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_407002400^Anti-magic armor with enhanced abilities.^性能強化，擁有魔法耐性的鎧甲^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_310003100^A rod made from a beast's bone.^以獸骨製作的魔棒^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_305002100^A war axe one wielded by a king of beasts.^獸王所使用的戰斧^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_409016300^A ring that uses its user's anger to increase their ATK.^能透過憤怒提高攻擊力的戒指^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_409016400^A ring inlaid with alexandrite.^鑲著變色石的戒指^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_409016500^Proof that one has defeated a great monster.^打倒強力魔物的證明^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_404002500^A female warrior's helm brought from the Farplane.^來自異界的女戰士頭盔^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_301002400^A thieve's short sword brought from the Farplane.^來自異界的盜賊短劍^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_309002100^A pair of holy gloves brought from the Farplane.^來自異界的神聖手套^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_403043700^A hat brought from the Farplane.^來自異界的帽子^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_405004200^Clothes brought from the Farplane.^來自異界的衣服^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_409016600^A bracer brought from the Farplane.^來自異界的手環^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_407002500^A set of heavy armor brought from the Farplane.^來自異界的重鎧甲^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_302004100^A mysterious sword brought from the Farplane.^來自異界的謎之劍^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_308003200^A spear capable of splitting the heavens themselves.^撕裂天地之槍^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_308003300^A replica of the spear capable of splitting the heavens themselves.^撕裂天地之槍的複製品^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_302004200^A sword shrouded in a mysterious light.^環繞著不可思議光芒的劍^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_405004300^A uniform worn but those in the service of others.^為了執事製作的服裝^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_403043800^A pure hairpin filled with innocence.^包含純潔之心的純真髮飾^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_409016700^A sash worn by a certain ninja clan.^忍之一族所攜帶的帶子^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_304002200^An ice blade with a beautiful edge.^擁有美麗刀紋的冰之刀^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_404002600^A helm beloved by a female dragoon in the Farplane.^異界的女性龍騎士珍愛的頭盔^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_313003000^A reinforced gun brought from the faraway world of Eos.^來自異界伊歐斯的火槍強化型^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_409016800^A shield used by a military nation located in the Farplane.^異界軍事國家所使用的盾牌^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_308003400^A spear brought from the faraway world of Eos.^來自異界伊歐斯的長槍^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_405004400^A suit brought from the faraway world of Eos.^來自異界伊歐斯的衣服^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_406003000^A set of light armor brought from the faraway world of Eos.^來自異界伊歐斯的輕鎧甲^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_313003100^A gun brought from the faraway world of Eos.^來自異界伊歐斯的火槍^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_308003500^A spear beloved by a female dragoon in the Farplane.^異界的女性龍騎士珍愛的長槍^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_407002600^Heavy armor too gigantic to be worn by humans.^對人類來說太過巨大的重鎧甲^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_302004300^A sword used by a warrior from the Farplane.^異界武人所使用的劍^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_402002300^A shield brought from the Farplane.^來自異界的盾牌^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_302004400^A small sword brought from the Farplane.^來自異界的小型劍^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_409016900^A thick and heavy cloak brought from the Farplane.^來自異界的厚重披風^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_405004500^A uniform brought from the Farplane.^來自異界的服裝^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_407002700^A set of armor brought from the Farplane.^來自異界的鎧甲^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_409017000^An accessory brought from the Farplane.^來自異界的首飾^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_301002500^A short sword used by a warrior from the Farplane.^異界武人所使用的短劍^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_302004500^A sword made from stone and filled with the magic power of earth.^以帶有土之魔力的岩石所削製的劍^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_308003600^A long spear used in hunting.^使用於狩獵的長槍^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_408002800^A robe containing the power of the sun.^封印著太陽之力的法袍^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_409017100^A bangle filled with the power of light.^帶有光之力的手環^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_409017200^A ring that activates absolve shield.^能產生吸收盾的^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_407002800^A set of heavy armor that endows its wearer with the spirit of a hero.^繼承英雄意志的重鎧甲^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_409017300^A pair of gloves for pioneers.^為了拓荒者製作的手套^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_403043900^A crown created in celebration of the new emperor's coronation.^為了新皇帝的戴冠紀念儀式所製作的王冠^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_307002000^A ball-topped mace named after its ability to break fangs.^掛著鐵球並擁有牙碎別名的權杖^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_306001900^A hammer named for the god who commands lightning.^以掌管雷電之神的名字所命名的鎚子^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_306002000^A replica of the hammer named for the god who commands lightning.^以掌管雷電之神的名字所命名的鎚子複製品^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_302004600^A sword brought from the faraway world of Luxendarc.^來自異界ルクセンダルク的劍^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_408002900^A vestal garb brought from the faraway world of Luxendarc.^來自異界ルクセンダルク的祈禱服^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_403044100^A sexy headband brought from the Farplane.^來自異界的性感髮飾^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_304002300^A famed blade brought from the faraway world of Luxendarc.^來自異界ルクセンダルク的名刀^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_409017500^A flower hairpin brought from the faraway world of Luxendarc.^來自異界ルクセンダルク的花髮飾^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_302004700^A dark sword brought from the faraway world of Luxendarc.^來自異界ルクセンダルク的黑暗劍^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_409017600^A manual left to a favorite pupil by a master swordsman from the Farplane.^異界的劍聖愛徒所留下的戰術書^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_311003100^A staff brought from the faraway world of Luxendarc.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_303003800^A treasured blade brought from the faraway world of Luxendarc.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_301002600^A short sword brought from the faraway world of Luxendarc.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_408003000^Clothes brought from the faraway world of Luxendarc.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_402002400^A heavy shield brought from the faraway world of Luxendarc.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_403044000^A hat modeled in the shape of a moogle.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_404002700^A crown modeled after a dragon said to appear in the dimensional vortex.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_407002900^A set of armor modeled after a dragon said to appear in the dimensional vortex.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_302004800^A wonderful sword designed by a chocobo.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_301002700^A wonderful dagger designed by a chocobo.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_312002000^A wonderful bow designed by a chocobo.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_310003200^A wonderful staff designed by a chocobo.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_311003200^A wonderful book bound by a chocobo.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_404002800^A helm once worn by a dragoon from the Farplane.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_405004600^A vest once worn by a bard from the Farplane.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_306002100^A frying pan filled with the love of a wife for her husband.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_409017700^A signet from the Farplane infused with the power of a bomb.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_306002200^A hammer infused with the power of earth.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_309002200^A knuckle which reduces the shock of magic attacks.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_402002500^A shield blessed with the protection of water.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_407003000^An incredibly sturdy set of heavy armor.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_409017800^A ring inlaid with aquamarine.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_302004900^A magic sword with increased abilities.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_409017900^A gauntlet which increases one's power to heal the body.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_305002200^A restored ancient axe.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_409018000^A crimson scarf which has been used for some time.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_308003700^A spear stained with dragon's blood.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_301002800^A small blade small enough to be easily wielded by young girls.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_409018100^A plush bear which holds a mysterious power.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_408003100^A very sturdily made robe.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_314001300^A whip made from a great nian beast's tail.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_309002300^A pair of gloves made from the pelt and claws of a nian beast.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_301002900^A small knife valued as a reserve piece.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_409018200^A necklace made for the princess of ice.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_311003300^A staff used by a hot-blooded clergyman.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_403044200^A great thief's beloved bandana.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_403044300^A crown made for a just ruler.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_304002400^The beloved katana of a legendary ninja.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_304002500^A replica of the beloved katana of a legendary ninja.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_304002600^A katana with an extravagantly long blade.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_309002400^A claw infused with dark power.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_409018300^The beloved scrunchie of a young fairy.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_406003100^A black leather coat with armored shoulders.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_405004700^A costume worn by a local guide.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_409018400^A ring thought to have been produced by the Shinra Company.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_315021800^A throwing weapon said to resemble two poisonous snakes.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_313003200^A weapon with a squared body which has nine individual barrels inside of it.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_409018500^A promise ring that one would give to their partner.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_316001200^A horn flute that increases MAG and SPR.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_304002700^A katana with a blade of light.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_406003200^A set of light armor imbued with the wisdom of the people of the desert.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_409018600^A ring that increases SPR.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_313003300^A gun that fires bullets infused with the power of lightning.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_314001400^A whip that greatly increases MAG.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_409018700^A belt inlaid with beautiful gemstones.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_408003200^A cape which brings out one's hidden potential.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_303003900^A large sword imbued with fire magic.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_305002300^An axe imbued with lightning magic.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_310003300^A large rod inlaid with green gemstones.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_409018800^A belt popular among the Shibyra women.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_301003100^A sword sword capable of cutting through to one's very soul.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_301003200^A replica of the sword sword capable of cutting through to one's very soul.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_302005000^A sword from the Farplane imbued with the power of light.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_309002500^Fighting gloves from the Farplane capable of amplifying the power of light.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_409018900^A pendant from the Farplane filled with strong emotions.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_409019000^A divine emblem from the Farplane with a great hidden power.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_312002100^A bow from the Farplane with the power of wind.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_304002800^A katana from the Farplane with the power of dark.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_313003400^A phaser from the Farplane imbued with the power of earth.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_406003300^A protector used in the Farplane.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_301003000^A short sword from the Farplane imbued with the power of lightning.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_302005100^A pipe made from iron brought from the Farplane.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_310003400^A wizard's rod with enhanced abilities.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_311003400^A staff made from the bones of a beast which lived a long time.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_401002100^A light shield blessed with the protection of the wind.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_409019100^A ring inlaid with sphene.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_304002900^A long katana modeled after the beloved sword of a loyal shogun.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_316001300^An ocarina blessed with the protection of earth.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_402002600^A heavy shield used by the Grandshelt military.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_403044400^A hat modeled in the shape of a microchu.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_408003300^A robe worn by orderlies in the Grandshelt military.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_403044500^A gorgeous crown.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_403044600^A replica of a gorgeous crown.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_313003500^A cannon developed by Zile, the bombardier.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_409019200^A first-aid kit belovedly used by the Sophia, the nurse.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_316001400^A harp which gives off a sound that makes anyone who hears it happy.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_403044700^A hat which is useful when one's aim is to achieve on the battlefield.^^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_313003600^A gun which fires specially produced bullets.^^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409015600^A magic doll modeled after a primal brought from the Farplane.^模仿異界蠻神所製作的魔法人偶^이계의 야만신을 본떠 만든 마법 인형.^^^Un muñeco mágico con aspecto primitivo del Etéreo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409015700^A magic doll modeled after a sage brought from the Farplane.^模仿異界賢人所製作的魔法人偶^이계의 현자를 본떠 만든 마법 인형.^^^Un muñeco mágico con aspecto primitivo del Etéreo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409015800^A magic doll modeled after a sage brought from the Farplane.^模仿異界賢人所製作的魔法人偶^이계의 현자를 본떠 만든 마법 인형.^^^Un muñeco mágico con aspecto primitivo del Etéreo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409015900^A magic doll modeled after a lord brought from the Farplane.^模仿異界盟主所製作的魔法人偶^이계의 맹주를 본떠 만든 마법 인형.^^^Un muñeco mágico con aspecto primitivo del Etéreo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409016000^A magic doll modeled after a sage brought from the Farplane.^模仿異界賢人所製作的魔法人偶^이계의 현자를 본떠 만든 마법 인형.^^^Un muñeco mágico con aspecto primitivo del Etéreo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409016100^A magic doll modeled after a sage brought from the Farplane.^模仿異界賢人所製作的魔法人偶^이계의 현자를 본떠 만든 마법 인형.^^^Un muñeco mágico con aspecto primitivo del Etéreo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409016200^A magic doll modeled after a noble son brought from the Farplane.^模仿異界名門子弟所製作的魔法人偶^이계의 어느 명문가의 장남을 본떠 만든 마법 인형.^^^Un muñeco mágico con aspecto primitivo del Etéreo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_304002100^An attractive katana with enhanced abilities.^性能強化的妖刀^더욱 성능을 끌어올린 도.^^^Una katana muy bonita con propiedades mejoradas.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_312001900^An expert bow with enhanced abilities.^性能強化，適合熟練者的弓^성능을 더욱 끌어올린 숙련자용 활.^^^Un arco de experto con propiedades mejoradas.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_407002400^Anti-magic armor with enhanced abilities.^性能強化，擁有魔法耐性的鎧甲^성능을 더욱 끌어올린, 마법에 대한 저항력을 지닌 갑옷.^^^Una armadura antimagia con propiedades mejoradas.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_310003100^A rod made from a beast's bone.^以獸骨製作的魔棒^짐승의 뼈로 만든 홀장.^^^Una vara elaborada con el hueso de una bestia.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_305002100^A war axe one wielded by a king of beasts.^獸王所使用的戰斧^야수왕이 사용한 거대한 전투용 도끼.^^^Un hacha de guerra que antaño portó el Rey de las Bestias.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409016300^A ring that uses its user's anger to increase their ATK.^能透過憤怒提高攻擊力的戒指^분노라는 감정을 이용해 공격력을 끌어올린 반지.^^^Un anillo que usa la furia de su portador para aumentar su ATQ.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409016400^A ring inlaid with alexandrite.^鑲著變色石的戒指^알렉산드라이트가 박혀 있는 반지.^^^Un anillo con alexandrita incrustada.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409016500^Proof that one has defeated a great monster.^打倒強力魔物的證明^강력한 마물을 쓰러뜨린 증명.^^^La prueba de que uno ha derrotado a un monstruo poderoso.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_404002500^A female warrior's helm brought from the Farplane.^來自異界的女戰士頭盔^이계에서 유입된 여전사의 투구.^^^El casco de una guerrera del Etéreo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_301002400^A thieve's short sword brought from the Farplane.^來自異界的盜賊短劍^이계에서 유입된 도적의 단검.^^^La espada corta de un ladrón del Etéreo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_309002100^A pair of holy gloves brought from the Farplane.^來自異界的神聖手套^이계에서 유입된 성스러운 글로브.^^^Un par de guantes sagrados del Etéreo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_403043700^A hat brought from the Farplane.^來自異界的帽子^이계에서 유입된 쌍 고깔 모자^^^Una gorra del Etéreo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_405004200^Clothes brought from the Farplane.^來自異界的衣服^이계에서 유입된 가벼운 옷.^^^Ropa del Etéreo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409016600^A bracer brought from the Farplane.^來自異界的手環^이계에서 유입된 금색의 팔찌.^^^Un brazalete del Etéreo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_407002500^A set of heavy armor brought from the Farplane.^來自異界的重鎧甲^이계에서 유입된 중갑.^^^Un set de armadura pesada del Etéreo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_302004100^A mysterious sword brought from the Farplane.^來自異界的謎之劍^이계에서 유입된 수수께끼의 검.^^^Una espada misteriosa del Etéreo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_308003200^A spear capable of splitting the heavens themselves.^撕裂天地之槍^하늘과 땅을 갈라버린다고 알려진 창.^^^Una lanza capaz de atravesar el propio cielo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_308003300^A replica of the spear capable of splitting the heavens themselves.^撕裂天地之槍的複製品^하늘과 땅을 갈라버린다고 알려진 창의 레플리카.^^^Una réplica de la lanza capaz de atravesar el propio cielo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_302004200^A sword shrouded in a mysterious light.^環繞著不可思議光芒的劍^신비한 힘에 둘러싸인 검.^^^Una espada envuelta por una luz misteriosa.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_405004300^A uniform worn but those in the service of others.^為了管家製作的服裝^집사를 위해 만들어진 맞춤옷.^^^Un uniforme que lleva todo aquel que está al servicio de otro.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_403043800^A pure hairpin filled with innocence.^包含純潔之心的純真髮飾^진심이 담긴 순수의 머리 장식.^^^Un coletero imbuido de pureza e inocencia.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409016700^A sash worn by a certain ninja clan.^忍之一族所攜帶的腰帶^어느 닌자 일족이 착용하는 혁대.^^^La banda típica de un clan ninja.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_304002200^An ice blade with a beautiful edge.^擁有美麗刀紋的冰之刀^아름다운 칼날을 자랑하는 얼음의 도.^^^Una espada de hielo con un filo muy cuidado.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_404002600^A helm beloved by a female dragoon in the Farplane.^異界的女性龍騎士珍愛的頭盔^이계 이오스에서 유입된 검은 투구.^^^El preciado casco de una dragontina del Etéreo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_313003000^A reinforced gun brought from the faraway world of Eos.^來自異界伊歐斯的火槍強化型^이계 이오스에서 유입된 특수한 총의 강화 버전.^^^Una pistola reforzada del lejano mundo de Eos.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409016800^A shield used by a military nation located in the Farplane.^異界軍事國家所使用的盾牌^이계 이오스의 군사국가에서 사용하는 실드.^^^Un escudo que usaba una nación militarista del Etéreo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_308003400^A spear brought from the faraway world of Eos.^來自異界伊歐斯的長槍^이계 이오스에서 유입된 창.^^^Una lanza del lejano mundo de Eos.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_405004400^A suit brought from the faraway world of Eos.^來自異界伊歐斯的衣服^이계 이오스에서 유입된 옷.^^^Un traje del lejano mundo de Eos.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_406003000^A set of light armor brought from the faraway world of Eos.^來自異界伊歐斯的輕鎧甲^이계 이오스에서 유입된 경갑.^^^Un set de armadura ligera del lejano mundo de Eos.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_313003100^A gun brought from the faraway world of Eos.^來自異界伊歐斯的火槍^이계 이오스에서 유입된 총.^^^Un arma del lejano mundo de Eos.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_308003500^A spear beloved by a female dragoon in the Farplane.^異界的女性龍騎士珍愛的長槍^이계의 아름다운 용기사가 애용하던 창.^^^La preciada lanza de una dragontina del Etéreo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_407002600^Heavy armor too gigantic to be worn by humans.^對人類來說太過巨大的重鎧甲^사람이 입기엔 지나치게 거대한 중갑.^^^Una armadura demasiado grande para que la lleve un humano.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_302004300^A sword used by a warrior from the Farplane.^異界武人所使用的劍^이계의 무인이 사용하던 검.^^^Una espada que solía usar un guerrero del Etéreo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_402002300^A shield brought from the Farplane.^來自異界的盾牌^익계에서 유입된 방패.^^^Un escudo del Etéreo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_302004400^A small sword brought from the Farplane.^來自異界的小型劍^이계에서 유입된 소형검.^^^Una espada pequeña del Etéreo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409016900^A thick and heavy cloak brought from the Farplane.^來自異界的厚重披風^이계에서 유입된 중후한 망토.^^^Una capa gruesa y pesada del Etéreo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_405004500^A uniform brought from the Farplane.^來自異界的服裝^이계에서 유입된 옷.^^^Un uniforme del Etéreo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_407002700^A set of armor brought from the Farplane.^來自異界的鎧甲^이계에서 유입된 갑옷.^^^Un set de armadura del Etéreo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409017000^An accessory brought from the Farplane.^來自異界的首飾^이계에서 유입된 장신구.^^^Un accesorio del Etéreo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_301002500^A short sword used by a warrior from the Farplane.^異界武人所使用的短劍^이계의 무인이 사용하던 단검.^^^La espada corta que solía usar un guerrero del Etéreo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_302004500^A sword made from stone and filled with the magic power of earth.^以帶有土之魔力的岩石所削製的劍^땅의 마력이 감도는 바위를 깎아내어 만든 검.^^^Una espada hecha de piedra e imbuida con el poder mágico de la tierra.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_308003600^A long spear used in hunting.^使用於狩獵的長槍^사냥에 사용되는 긴 창.^^^Una lanza larga que se usa para cazar.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_408002800^A robe containing the power of the sun.^封印著太陽之力的法袍^태양의 힘이 봉인된 로브.^^^Una túnica que está imbuida con el poder del sol.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409017100^A bangle filled with the power of light.^帶有光之力的手環^빛의 힘을 지닌 팔찌.^^^Un brazal imbuido con el poder de la luz.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409017200^A ring that activates absorber.^能生成吸收盾的指環^흡수 기능이 있는 팔찌.^^^Un anillo que activa Amortiguador.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_407002800^A set of heavy armor that endows its wearer with the spirit of a hero.^繼承英雄意志的重鎧甲^영웅의 의지를 잇는 중갑.^^^Un set de armadura pesada que dota a su portador con el espíritu de un héroe.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409017300^A pair of gloves for pioneers.^為了拓荒者製作的手套^개척자를 위한 글로브.^^^Un par de guantes para pioneros.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_403043900^A crown created in celebration of the new emperor's coronation.^為了新皇帝的戴冠紀念儀式所製作的王冠^새로운 황제를 기념하기 위해 만든 왕관.^^^Una corona que se creó para celebrar la coronación del nuevo emperador.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_307002000^A ball-topped mace named after its ability to break fangs.^掛著鐵球並擁有牙碎別名的棒^송곳니를 부순다는 이름을 가진 철구슬 달린 메이스.^^^Un mazo cuyo nombre hace referencia a su facilidad para romper colmillos.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_306001900^A hammer named for the god who commands lightning.^以掌管雷電之神的名字所命名的鎚子^번개를 관장하는 신의 이름을 지닌 망치.^^^Un martillo que lleva el nombre del dios que controla el rayo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_306002000^A replica of the hammer named for the god who commands lightning.^以掌管雷電之神的名字所命名的鎚子複製品^번개를 관장하는 신의 이름을 지닌 망치의 레플리카.^^^Una réplica del martillo que lleva el nombre del dios que controla el rayo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_302004600^A sword brought from the faraway world of Luxendarc.^來自異界盧森達爾克的劍^이계 룩센다르크에서 유입된 검.^^^Una espada del lejano mundo de Luxendarc.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_408002900^A vestal garb brought from the faraway world of Luxendarc.^來自異界盧森達爾克的祈禱服^이계 룩센다르크에서 유입된 로브.^^^Un traje clerical del lejano mundo de Luxendarc.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_403044100^A sexy headband brought from the Farplane.^來自異界的性感髮飾^이계 룩센다르크에서 유입된 섹시한 머리띠.^^^Una banda para el pelo muy sexi del Etéreo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_304002300^A famed blade brought from the faraway world of Luxendarc.^來自異界盧森達爾克的名刀^이계 룩센다르크에서 유입된 명검.^^^Una famosa espada del lejano mundo de Luxendarc.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409017500^A flower hairpin brought from the faraway world of Luxendarc.^來自異界盧森達爾克的花髮飾^이계 룩센다르크에서 유입된 꽃장식.^^^Un coletero de flores del lejano mundo de Luxendarc.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_302004700^A dark sword brought from the faraway world of Luxendarc.^來自異界盧森達爾克的黑暗劍^이계 룩센다르크에서 유입된 암흑검.^^^Una espada oscura del lejano mundo de Luxendarc.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409017600^A manual left to a favorite pupil by a master swordsman from the Farplane.^異界的劍聖愛徒所留下的戰術書^이계의 검성이 제자를 위해 남긴 전술서.^^^Un manual que le dejó un maestro espadachín del Etéreo a su alumna favorita.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_311003100^A staff brought from the faraway world of Luxendarc.^來自異界盧森達爾克的手杖^이계 룩센다르크에서 유입된 지팡이.^^^Un bastón del lejano mundo de Luxendarc.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_303003800^A treasured blade brought from the faraway world of Luxendarc.^來自異界盧森達爾克的寶劍^이계 룩센다르크에서 유입된 보검.^^^Una valiosa espada del lejano mundo de Luxendarc.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_301002600^A short sword brought from the faraway world of Luxendarc.^來自異界盧森達爾克的短劍^이계 룩센다르크에서 유입된 단검.^^^Una espada corta del lejano mundo de Luxendarc.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_408003000^Clothes brought from the faraway world of Luxendarc.^來自異界盧森達爾克的衣服^이계 룩센다르크에서 유입된 옷.^^^Ropa del lejano mundo de Luxendarc.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_402002400^A heavy shield brought from the faraway world of Luxendarc.^來自異界盧森達爾克的重盾^이계 룩센다르크에서 유입된 무거운 방패.^^^Un escudo pesado del lejano mundo de Luxendarc.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_403044000^A hat modeled in the shape of a moogle.^模仿莫古利造型的帽子^모그리의 모습을 본떠 만든 모자.^^^Un sombrero con forma de moguri.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_404002700^A crown modeled after a dragon said to appear in the dimensional vortex.^模仿出沒在次元夾縫的龍所製作的頭冠^차원의 틈새에 나타난다고 하는 용을 본떠 만든 왕관.^^^Una corona con la forma del dragón que, según cuentan, apareció en la Grieta.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_407002900^A set of armor modeled after a dragon said to appear in the dimensional vortex.^模仿出沒在次元夾縫的龍所製作的鎧甲^차원의 틈새에 나타난다고 하는 용을 본떠 만든 갑옷.^^^Un set de armadura con la forma del dragón que, según cuentan, apareció en la Grieta.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_302004800^A wonderful sword inspired by chocobos.^帶有精美陸行鳥圖樣的劍^초코보 장식이 새겨져 있는 훌륭한 검.^^^Una espada fantástica con diseño de chocobo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_301002700^A wonderful dagger inspired by chocobos.^帶有精美陸行鳥圖樣的短劍^초코보 장식이 새겨져 있는 훌륭한 단검.^^^Una daga fantástica con diseño de chocobo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_312002000^A wonderful bow inspired by chocobos.^帶有精美陸行鳥圖樣的弓^초코보 장식이 새겨져 있는 훌륭한 활.^^^Un arco fantástico con diseño de chocobo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_310003200^A wonderful staff inspired by chocobos.^帶有精美陸行鳥圖樣的魔棒^초코보 장식이 새겨져 있는 훌륭한 홀장.^^^Un fantástico bastón con diseño de chocobo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_311003200^A wonderful book bound in chocobo fashion.^以陸行鳥圖案裝訂的精美書本^초코보 그림이 그려진 훌륭한 책.^^^Un fantástico libro con diseño de chocobo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_404002800^A helm once worn by a dragoon from the Farplane.^異界龍騎士所裝備的頭盔^이계에서 유입된 용기사의 투구.^^^Un casco que en el pasado portó un dragontino del Etéreo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_405004600^A vest once worn by a bard from the Farplane.^異界吟遊詩人所穿過的背心^이계의 음유시인이 입던 조끼.^^^Un chaleco que en el pasado se ponía un bardo del Etéreo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_306002100^A frying pan filled with the love of a wife for her husband.^平底鍋內充滿著妻子對丈夫的愛情^남편을 향한 아내의 사랑이 담긴 프라이팬.^^^Una sartén imbuida por el amor que siente una esposa hacia su marido.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409017700^A signet from the Farplane infused with the power of a bomb.^寄宿著炸彈之力的異界戒指^봄의 힘이 깃든 이계의 반지.^^^Un anillo de un mundo lejano que está imbuido con el poder de un bom.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_306002200^A hammer infused with the power of earth.^蘊含土之魔力的鎚子^땅의 마력이 감도는 바위를 깎아내어 만든 망치.^^^Un martillo imbuido con el poder de la tierra.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_309002200^A knuckle which reduces the shock of magic attacks.^能減緩攻擊型魔法衝擊的拳套^공격마법에 따른 충격을 완화해 주는 격투무기.^^^Un puño que reduce el daño de los ataques mágicos.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_402002500^A shield blessed with the protection of water.^受到水之加護的盾^물의 가호를 받을 수 있는 방패.^^^Un escudo bendecido con la protección del agua.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_407003000^An incredibly sturdy set of heavy armor.^非常堅固的重鎧甲^엄청나게 단단한 중갑.^^^Un set de armadura pesada increíblemente robusto.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409017800^A ring inlaid with aquamarine.^鑲有海藍寶石的戒指^아쿠아마린이 중앙에 박혀 있는 반지.^^^Un anillo que tiene aguamarina incrustada.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_302004900^A magic sword with increased abilities.^性能強化的魔法之劍^고성능의 마법검.^^^Una espada mágica con propiedades aumentadas.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409017900^A gauntlet which increases one's power to heal the body.^強化身體治癒能力的手套^신체의 치유능력을 올려주는 건틀렛.^^^Unos guanteletes que aumentan el poder curativo de su portador.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_305002200^A restored ancient axe.^古代之斧的改良品^고대의 도끼를 개량한 것.^^^Una antigua hacha restaurada.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409018000^A crimson scarf which has been used for some time.^被使用過一段時間的深紅色圍巾^여기저기 찢어진 진홍색의 스카프.^^^Una bufanda carmesí que lleva usándose algún tiempo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_308003700^A spear stained with dragon's blood.^沾染龍之血的長槍^용을 토벌하기 위해 특수 제작된 창.^^^Una lanza manchada con la sangre de un dragón.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_301002800^A small blade small enough to be easily wielded by young girls.^女性也能輕易使用的暗藏刀器^암살용으로 제작된 날카로운 도.^^^Una espada lo suficientemente pequeña como para que puedan usarla niñas pequeñas.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409018100^A plush bear which holds a mysterious power.^擁有不可思議力量的熊娃娃^신비한 힘을 지닌 곰돌이 인형.^^^Un oso de peluche que alberga un misterioso poder.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_408003100^A very sturdily made robe.^做工十分堅固的法袍^특수한 재료로 만들어진 질긴 로브.^^^Una túnica bastante resistente.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_314001300^A whip made from a great nian beast's tail.^使用巨年獸的尾巴所製作的鞭子^니안의 꼬리로 만든 채찍.^^^Un látigo elaborado con la cola de la megabestia nian.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_309002300^A pair of gloves made from the pelt and claws of a nian beast.^使用年獸的皮與爪所製作的手套^니안의 가죽과 발톱으로 만든 세스터스.^^^Un par de guantes elaborados con la piel y las garras de la bestia nian.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_301002900^A small knife valued as a reserve piece.^當作備用武器使用的重要小型匕首^예비 무기로 애용되는 소형 나이프.^^^Un cuchillo pequeño que es valioso como pieza de reserva.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409018200^A necklace made for the princess of ice.^為了冰之王女所製作的首飾^얼음 여왕을 위해 제작된 아름다운 목걸이.^^^Un colgante que se creó para la princesa de hielo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_311003300^A staff used by a hot-blooded clergyman.^血氣方剛的聖職者所使用過的手杖^혈기 왕성한 성직자가 사용하던 지팡이.^^^Un bastón que solía usar un clérigo apasionado.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_403044200^A great thief's beloved bandana.^大盜珍愛的頭巾^어느 대도적이 애용했다는 반다나.^^^La querida bandana de un gran ladrón.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_403044300^A crown made for a just ruler.^為了公平的統治者所製作的頭冠^공명정대한 통치자를 위해 제작된, 마력이 감도는 왕관.^^^Una corona que se creó para un gobernante justo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_304002400^The beloved katana of a legendary ninja.^傳說中的忍者所使用過的愛刀^전설의 닌자가 애용한 도.^^^La preciada katana de un ninja legendario.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_304002500^A replica of the beloved katana of a legendary ninja.^傳說中的忍者所使用過的愛刀複製品^전설의 닌자가 애용한 도의ㅐ 레플리카.^^^La réplica de la preciada katana de un ninja legendario.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_304002600^A katana with an extravagantly long blade.^擁有極長刀身的太刀^터무니없이 긴 칼날을 지닌 도.^^^Una katana con una hoja extremadamente larga.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_309002400^A claw infused with dark power.^蘊含暗之力的爪子^어둠의 힘이 깃든 강력한 발톱.^^^Una garra imbuida con poder oscuro.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409018300^The beloved scrunchie of a young fairy.^妖精少女珍愛的髮圈^어느 요정 소녀가 애용했다고 알려진 작은 슈슈.^^^La preciada banda para el pelo de una joven hada.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_406003100^A black leather coat with armored shoulders.^附有肩部鎧甲的黑色皮衣^어깨 부분에 금속의 아머가 달려 있는 검은 가죽 코트.^^^Un abrigo de cuero negro con hombreras reforzadas.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_405004700^A costume worn by a local guide.^當地的導遊少女所穿著的傳統服裝^현지 가이드 소녀가 착용한 코스튬.^^^Un traje que suele llevar una guía local.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409018400^A ring thought to have been produced by the Shinra Company.^被認為是神羅公司所開發的戒指^신라 컴퍼니가 개발했다고 알려진 희귀한 반지.^^^Un anillo que parece haber sido fabricado la Compañía Shinra.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_315021800^A throwing weapon said to resemble two poisonous snakes.^被比喻成兩條毒蛇的巨大投擲武器^두 마리의 독사가 연상되는 날이 달린 거대한 투척무기.^^^Un arma arrojadiza que, según cuentan, se parece a dos serpientes venenosas.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_313003200^A weapon with a squared body which has nine individual barrels inside of it.^四角形的炮身上裝有九個炮口的兵器^네모난 포신에 아홉 개의 사출구가 달린 병기.^^^Un arma de base cuadrada que contiene nueve cañones individuales dentro.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409018500^A promise ring that one would give to their partner.^贈送給同伴的誓言之環^파트너에게 선물하는 맹세의 반지.^^^Un anillo especial que normalmente se le regala a la pareja. 
+MST_EQUIP_ITEM_SHORTDESCRIPTION_316001200^A horn flute that increases MAG and SPR.^能提高魔力與精神力的角笛^마력과 정신력을 올려주는 피리.^^^Una flauta elaborada a partir de un cuerno que aumenta la MAG y el ESP.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_304002700^A katana with a blade of light.^刀身發著光的太刀^빛의 칼날을 지닌 도.^^^Una katana con una hoja de luz.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_406003200^A set of light armor imbued with the wisdom of the people of the desert.^蘊含了沙漠人民智慧的輕鎧甲^사막에 사는 사람들의 지혜가 담긴 경갑.^^^Un set de armadura ligera imbuida con la sabiduría de la gente del desierto.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409018600^A ring that increases SPR.^能提高精神力的戒指^정신력을 올려주는 반지.^^^Un anillo que aumenta el ESP.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_313003300^A gun that fires bullets infused with the power of lightning.^能發射帶有雷屬性子彈的火槍^번개속성의 탄환을 발사하는 총.^^^Una pistola que dispara balas imbuidas con el poder de la luz.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_314001400^A whip that greatly increases MAG.^能大幅提高魔力的鞭子^마력을 크게 상승시켜 주는 채찍.^^^Un látigo que aumenta la MAG enormemente.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409018700^A belt inlaid with beautiful gemstones.^鑲有美麗寶石的腰帶^고급스러운 보석이 박힌 벨트.^^^Un cinturón con gemas preciosas incrustadas.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_408003200^A cape which brings out one's hidden potential.^能引發潛能的外套^잠재능력을 끌어올려 주는 외투.^^^Una capa que resalta el potencial oculto de quien la porta.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_303003900^A large sword imbued with fire magic.^寄宿著火之魔力的大劍^불의 마력이 깃든 대검.^^^Una espada enorme imbuida con magia de fuego.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_305002300^An axe imbued with lightning magic.^寄宿著雷之魔力的斧頭^번개의 말력이 깃든 도끼.^^^Un hacha imbuida con la magia del rayo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_310003300^A large rod inlaid with a large green gemstone.^鑲有綠寶石的大型魔棒^녹색의 보석이 박힌 거대한 홀장.^^^Una vara grande con una gema verde incrustada.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409018800^A belt popular among the Shibyra women.^在西維拉女性中相當有人氣的腰帶^시빌라 족 여성들에게 인기있는 허리띠.^^^Un cinturón bastante popular entre las mujeres de los shibyra.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_301003100^A sword capable of cutting through to one's very soul.^撕裂靈魂的短劍^영혼조차 갈라버릴 정도로 날카로운 단검.^^^Una espada capaz de cortar hasta el alma de los enemigos.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_301003200^A replica of the sword sword capable of cutting through to one's very soul.^撕裂靈魂的短劍複製品^영혼조차 갈라버릴 정도로 날카로운 단검의 레플리카.^^^La réplica de una espada capaz de cortar hasta el alma de los enemigos.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_302005000^A sword from the Farplane imbued with the power of light.^帶著光之力的異界之劍^빛의 힘을 지닌 이계의 검.^^^Una espada del Etéreo imbuida con el poder de la luz.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_309002500^Fighting gloves from the Farplane capable of amplifying the power of light.^能增幅光之力的異界格鬥手甲^빛의 힘을 증폭시켜주는 이계의 격투 장갑.^^^Guantes de lucha del Etéreo que amplifican el poder de la luz.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409018900^A pendant from the Farplane filled with strong emotions.^充滿強烈思念的異界護身符^강한 마음이 담긴 이계의 부적.^^^Un colgante del Etéreo imbuido con emociones muy profundas.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409019000^A divine emblem from the Farplane with a great hidden power.^蘊含強大力量的異界神之徽章^강력한 힘을 지닌 이계의 어느 신의 문장.^^^Un emblema divino del Etéreo con un gran poder oculto.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_312002100^A bow from the Farplane with the power of wind.^充滿風之力的異界之弓^바람의 힘이 깃든 강력한 이계의 활.^^^Un arco del Etéreo dotado con el poder del viento.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_304002800^A katana from the Farplane with the power of dark.^充滿暗之力的異界之刀^어둠의 힘이 깃든 이계의 도.^^^Una katana del Etéreo dotada con el poder de la oscuridad.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_313003400^A phaser from the Farplane imbued with the power of earth.^帶有大地之力的異界火槍^대지의 힘이 깃든 이계의 페이즈건.^^^Un arma del Etéreo imbuida con el poder de la tierra.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_406003300^A protector used in the Farplane.^異界所使用的護具^이계에서 사용하던 프로텍터.^^^Una armadura que se usa en el Etéreo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_301003000^A short sword from the Farplane imbued with the power of lightning.^帶有雷之力的異界短劍^번개의 힘을 지닌 이계의 단검.^^^Una espada corta del Etéreo imbuida con el poder del rayo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_302005100^A pipe made from iron brought from the Farplane.^來自異界的鐵管^이계에서 유입된 철제 파이프.^^^Un tubo de hierro del Etéreo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_310003400^A wizard's rod with enhanced abilities.^性能強化的巫師棒^더욱 성능이 높아진 마도사 홀장.^^^Una vara de un hechicero que cuenta con propiedades mejoradas.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_311003400^A staff made from the bones of a beast which lived a long time.^使用長命野獸的骨頭所製作的手杖^긴 수명을 지닌 짐승의 뼈로 만든 지팡이.^^^Un bastón hecho con los huesos de una bestia que murió hace mucho tiempo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_401002100^A light shield blessed with the protection of the wind.^受到風之加護的輕盾^바람의 가호를 받은 가벼운 방패.^^^Un escudo ligero bendecido con la protección del viento.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409019100^A ring inlaid with sphene.^鑲有榍石的戒指^설석이 박혀 있는 반지.^^^Un anillo con titanita incrustada.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_304002900^A long katana modeled after the beloved sword of a loyal warrior.^模仿忠肝義膽武將的愛刀所製作的太刀^충성심이 깊은 장병의 도를 본따 만든 도검.^^^Una katana larga elaborada en semejanza a la preciada espada de un shogun.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_316001300^An ocarina blessed with the protection of earth.^受到土之加護的笛子^땅의 가호를 받은 오카리나.^^^Una ocarina que cuenta con la bendición protectora de la tierra.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_402002600^A heavy shield used by the Grandshelt military.^格蘭謝爾特軍所使用的重盾^그랑셸트 군에서 사용하는 무거운 방패.^^^Un escudo pesado que usa el ejército de Grandshelt.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_403044400^A hat modeled in the shape of a microchu.^模仿食腐獸的模樣所製作的帽子^코츄의 모습을 본떠 만든 모자.^^^Un sombrero con la forma de un microchú.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_408003300^A robe worn by orderlies in the Grandshelt military.^格蘭謝爾特軍的軍醫所披戴的長袍^그랑셸트 군의 위생병이 두르는 로브.^^^Una túnica que llevan los soldados de menor rango de Grandshelt.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_403044500^A gorgeous crown.^輝煌的頭冠^눈부시게 빛나는 화려한 왕관.^^^Una corona preciosa.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_403044600^A replica of a gorgeous crown.^輝煌的頭冠複製品^눈부시게 빛나는 화려한 왕관의 레플리카.^^^Una réplica de una corona preciosa.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_313003500^A cannon developed by Zile, the bombardier^砲擊士扎伊爾所開發的大砲^포격사 자일이 개발한 대포.^^^Un cañón diseñado por Zile el artillero.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409019200^A beloved first-aid kit used by the nurse, Sophia^護士索菲婭愛用的急救箱^종군 간호사 소피아가 애용하던 구급함.^^^Un botiquín que usa Sofía, la enfermera.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_316001400^A harp which gives off a sound that makes anyone who hears it happy.^能演奏出讓聽者幸福之音色的豎琴^듣는 이로 하여금 행복을 전해주는 음색을 만들어내는 하프.^^^Un harpa que produce un sonido que alegra a la gente.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_403044700^A hat used to promote a person's prominence on the battlefield^能充分展現戰場功績的帽子^전장에서 공적을 어필하기 위해 쓰는 모자.^^^Un sombrero que sirve para desenvolverse mejor en el campo de batalla.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_313003600^A gun which fires specially produced bullets.^能發射特殊加工子彈的火槍^특수 가공된 탄환을 발사하는 총.^^^Una pistola que dispara balas especiales.
 MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000114^A headband that resembles a pair of kitty ears.^有著一對貓耳朵的髮帶^고양이 귀가 달린 헤어밴드^Un serre-tête qui ressemble à une paire d'oreilles de chaton.^Ein Stirnband, das von einem Paar Katzenohren geziert wird.^Una cinta para el pelo con forma de orejas de gatita.
 MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000115^A cloak filled with endless resentment.^充滿無盡怨念的披風^한없는 분노로 가득 찬 망토^Une cape remplit d'une rancœur éternelle.^Ein Mantel, der mit endloser Verachtung gefüllt ist.^Una capa imbuida con un rencor infinito.
 MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000116^A pair of heels that sparkle.^閃閃發光的高跟鞋^반짝거리는 구두 한 켤레^Une paire de talons qui scintillent.^Ein Paar glitzernder Highheels.^Un par de tacones que brillan.
 MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000117^A cursed pipe that can produce hypnotic pitches.^詛咒的笛子，可以吹出催眠的旋律。^최면의 소리를 내는 저주받은 파이프^Une flûte maudite qui produit un son hypnotisant.^Eine verfluchte Pfeife, die hypnotische Tonlagen erzeugen kann.^Una flauta maldita que produce sonidos hipnóticos.
 MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000118^An inflatable swimming float that has been imbued with magical powers.^充滿魔法力量的游泳圈^마법의 힘이 깃든 공기 주입식 수영 튜브^Une bouée gonflable permettant de nager remplie de pouvoirs magiques.^Ein aufblasbarer Rettungsring, der mit magischen Kräften versehen wurde. ^Un flotador inflable que tiene poderes mágicos.
 MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000119^An elegant piece of fashion accessory for one to keep their style in check.^為了維持個人風格的時尚流行飾品^스타일 관리를 위한 우아한 패션 액세서리 ^Un élégant accessoire de mode, qui permet d'être toujours au top de l'élégance.^Ein elegantes Fashionaccessoire, um jemandem das gewisse "Etwas" zu geben.^Un accesorio elegante que sirve para ir a la moda.
-MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000120^ ^ ^ ^ ^ ^ 
-MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000121^ ^ ^ ^ ^ ^ 
+MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000120^A pocket-sized mechanical thingamajig that tells time.^能夠放入口袋中的機械錶，可以用來確認時間^주머니 정도 크기의, 시간을 알리는 도구^Un petit objet mécanique qui tient dans la poche et qui indique l'heure.^Eine Gegenstand im Taschenformat, an dem sich die Zeit ablesen lässt.^Un artilujio mecánico de bolsillo que muestra la hora.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000121^Though the constant companion of Christine, none know of where it came from.^雖然來源不明，但它是克莉絲汀無可替代的夥伴^크리스틴의 둘도 없는 친구로, 어디서 왔는지는 알 수 없다.^Bien qu'il accompagne Christine partout, personne ne sait d'où il vient.^Obwohl er Christines ständiger Begleiter ist, vermag niemand so recht zu sagen, woher er eigentlich kommt.^El compañero de Christine. Se desconoce de dónde viene este oso.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000122^A bow made from mechanical parts found all around Carrie's workshop. ^利用凱莉工作室中的機械零件製成的弓^캐리의 작업장에 있는 기계 부품으로 만들어진 활.^Un arc fait de parties mécaniques trouvées un peu partout dans l'atelier de Carrie.^Ein Bogen, der aus mechanischen Teilen konstruiert wurde, die allesamt bei Carries Werkstatt gefunden wurden.^Un arco compuesto de piezas mecánicas que se puede encontrar en cualquier parte del taller de Carrie.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000123^A large bell decorated with some holiday ornaments.^有著節慶裝飾點綴的大鐘^겨울 축제를 장식하는 커다란 종.^Une énorme cloche ornée de décorations festives.^Eine große Glocke, die mit einigen festlichen Verzierungen bestückt wurde.^Una campana grande decorada con algunos ornamentos.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000124^A magical hairband worn mainly by children to resemble their favorite reindeer.^具有魔法力量的髮箍，多由孩童配戴，以模仿他們喜愛的馴鹿^순록을 닮고 싶어 하는 아이들이 주로 사용한다는 마법의 머리띠.^Un serre-tête magique principalement porté par les enfants désireux de ressembler à leur renne préféré.^Ein besonders bei Kindern beliebtes magisches Haarband, die es tragen, um auszusehen, wie ihr Lieblingsrentier.^Una diadema mágica que se ponen los niños que quieren parecerse a su ciervo favorito.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000125^A crystal blue shoulderless gown only befitting a princess.^僅適合公主穿著的水晶藍平肩禮服^공주님과 어울리는 맑은 푸른색의 민소매 드레스.^Une robe à épaules dénudées au teint bleu cristallin que seule une princesse saurait porter.^Ein kristallblaues, schulterfreies Kleid, das alleine einer Prinzessin würdig ist.^Un vestido azul claro sin hombros digno de una princesa.

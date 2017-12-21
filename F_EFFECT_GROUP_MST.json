@@ -5159,6 +5159,328 @@
         "rPHs9p8F": "0:2:-20:0:1:3:28,10:2:-20:0:1:3:28,20:2:-20:0:1:3:28,30:2:-20:0:1:3:28,40:2:-20:0:1:3:28"
     }, 
     {
+        "1fVZ3rKd": "1:7:1", 
+        "5A8SmwyC": "1:1900343:99999999:1:2:2:0:0", 
+        "h9UFW3qt": "christine_atk", 
+        "qIy86WvJ": "1900354", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "1:9:1,50:12:1", 
+        "5A8SmwyC": "1:1900344:99999999:1:2:2:0:0", 
+        "h9UFW3qt": "kryla_atk", 
+        "qIy86WvJ": "1900355", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "1:7:1", 
+        "5A8SmwyC": "1:1001860:99999999:1:2:2:0:0", 
+        "h9UFW3qt": "tcarrie_atk1", 
+        "qIy86WvJ": "1900356", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "1:7:1", 
+        "5A8SmwyC": "1:1001980:99999999:1:2:2:0:0", 
+        "h9UFW3qt": "tcarrie_atk2", 
+        "qIy86WvJ": "1900357", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "1:175:1", 
+        "5A8SmwyC": "0:1900345:99999999:0:2:2:0:0", 
+        "h9UFW3qt": "XM17_christine_lb5_R", 
+        "qIy86WvJ": "1900358", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "1:46:1", 
+        "5A8SmwyC": "0:1900346:99999999:1:2:2:0:0", 
+        "h9UFW3qt": "XM17_christine_lb5_hit", 
+        "qIy86WvJ": "1900359", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "", 
+        "5A8SmwyC": "0:1900347:99999999:3:2:2:-50:-30", 
+        "h9UFW3qt": "XM17_christine_lb5_dash", 
+        "qIy86WvJ": "1900360", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "", 
+        "5A8SmwyC": "1:5001150:99999999:2:2:2:0:150", 
+        "h9UFW3qt": "XM17_christine_eff_strobe", 
+        "qIy86WvJ": "1900361", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "1:175:1", 
+        "5A8SmwyC": "0:1900348:99999999:0:2:2:0:0", 
+        "h9UFW3qt": "XM17_christine_lb6_R", 
+        "qIy86WvJ": "1900362", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "1:47:1", 
+        "5A8SmwyC": "0:1900349:99999999:1:2:2:0:0", 
+        "h9UFW3qt": "XM17_christine_lb6_hit", 
+        "qIy86WvJ": "1900363", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "", 
+        "5A8SmwyC": "0:1900350:99999999:3:2:2:-50:-30", 
+        "h9UFW3qt": "XM17_christine_lb6_dash", 
+        "qIy86WvJ": "1900364", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "", 
+        "5A8SmwyC": "0:1900351:99999999:0:2:2:0:0", 
+        "h9UFW3qt": "XM17_christine_lb6_flakes", 
+        "qIy86WvJ": "1900365", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "1:71:1", 
+        "5A8SmwyC": "0:1900352:99999999:0:2:2:0:0", 
+        "h9UFW3qt": "XM17_kryla_lb5_F", 
+        "qIy86WvJ": "1900366", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "", 
+        "5A8SmwyC": "0:1900353:99999999:0:2:2:0:0", 
+        "h9UFW3qt": "XM17_kryla_lb5_R", 
+        "qIy86WvJ": "1900367", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "1:71:1", 
+        "5A8SmwyC": "0:1900354:99999999:0:2:2:0:0", 
+        "h9UFW3qt": "XM17_kryla_lb6_F", 
+        "qIy86WvJ": "1900368", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "1:11:1,18:11:1,36:11:1,1:9:1,1:104:1", 
+        "5A8SmwyC": "0:1900355:99999999:3:2:2:-100:0", 
+        "h9UFW3qt": "XM17_tcarrie_lb4_unitF", 
+        "qIy86WvJ": "1900369", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "1:54:1", 
+        "5A8SmwyC": "0:1900356:99999999:1:2:2:0:0", 
+        "h9UFW3qt": "XM17_tcarrie_lb4_enemyF", 
+        "qIy86WvJ": "1900370", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "", 
+        "5A8SmwyC": "1:1900357:99999999:2:2:2:0:150", 
+        "h9UFW3qt": "XM17_tcarrie_lb4_eff_strobe", 
+        "qIy86WvJ": "1900371", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "1:11:1,18:11:1,36:11:1,1:9:1,1:104:1", 
+        "5A8SmwyC": "0:1900358:99999999:3:2:2:-100:0", 
+        "h9UFW3qt": "XM17_tcarrie_lb5_unitF", 
+        "qIy86WvJ": "1900372", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "1:54:1", 
+        "5A8SmwyC": "0:1900359:99999999:1:2:2:0:0", 
+        "h9UFW3qt": "XM17_tcarrie_lb5_enemyF", 
+        "qIy86WvJ": "1900373", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "", 
+        "5A8SmwyC": "1:1900360:99999999:1:2:2:0:0", 
+        "h9UFW3qt": "XM17_tcarrie_lb5_eff_fadeblack", 
+        "qIy86WvJ": "1900374", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "", 
+        "5A8SmwyC": "1:5001790:99999999:2:2:2:0:150", 
+        "h9UFW3qt": "XM17_tcarrie_lb5_eff_strobe", 
+        "qIy86WvJ": "1900375", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "1:11:1,18:11:1,36:11:1,1:9:1,1:104:1", 
+        "5A8SmwyC": "0:1900361:99999999:3:2:2:-110:0", 
+        "h9UFW3qt": "XM17_tcarrie_lb6_unitF", 
+        "qIy86WvJ": "1900376", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "1:54:1", 
+        "5A8SmwyC": "0:1900362:99999999:1:2:2:0:0", 
+        "h9UFW3qt": "XM17_tcarrie_lb6_enemyF", 
+        "qIy86WvJ": "1900377", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "1:59:1", 
+        "5A8SmwyC": "0:1900363:99999999:0:2:2:0:0", 
+        "h9UFW3qt": "XM17_tcarrie_lb6_R", 
+        "qIy86WvJ": "1900378", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "", 
+        "5A8SmwyC": "1:5001800:99999999:2:2:2:0:150", 
+        "h9UFW3qt": "XM17_tcarrie_lb6_eff_strobe", 
+        "qIy86WvJ": "1900379", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "", 
+        "5A8SmwyC": "0:1900364:99999999:0:2:2:0:0", 
+        "h9UFW3qt": "XM17_tcarrie_lb6_snow", 
+        "qIy86WvJ": "1900380", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "0:82:1", 
+        "5A8SmwyC": "0:5010030:99999999:1:2:2:0:0", 
+        "h9UFW3qt": "XM17_kryla_lighteff_blue", 
+        "qIy86WvJ": "1900398", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "0:82:1", 
+        "5A8SmwyC": "0:5010040:99999999:1:2:2:0:0", 
+        "h9UFW3qt": "XM17_kryla_lighteff_green", 
+        "qIy86WvJ": "1900399", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "0:82:1", 
+        "5A8SmwyC": "0:5010060:99999999:1:2:2:0:0", 
+        "h9UFW3qt": "XM17_kryla_lighteff_orange", 
+        "qIy86WvJ": "1900400", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "0:82:1", 
+        "5A8SmwyC": "0:5010100:99999999:1:2:2:0:0", 
+        "h9UFW3qt": "XM17_kryla_lighteff_red", 
+        "qIy86WvJ": "1900401", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "24:24:1,0:103:1,20:80:1,45:54:1,50:104:1", 
+        "5A8SmwyC": "0:1900392:99999999:3:2:2:0:0", 
+        "h9UFW3qt": "FFBE_Gilbert_lb6_UnitFront", 
+        "qIy86WvJ": "1900409", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "0:54:1", 
+        "5A8SmwyC": "0:1900393:99999999:0:2:2:150:150", 
+        "h9UFW3qt": "FFBE_Gilbert_lb6_UnitRangeBack", 
+        "qIy86WvJ": "1900410", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "", 
+        "5A8SmwyC": "0:1900394:99999999:0:2:2:0:0", 
+        "h9UFW3qt": "FFBE_Gilbert_lb6_Back", 
+        "qIy86WvJ": "1900411", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "35:81:1", 
+        "5A8SmwyC": "0:1900382:99999999:3:2:2:0:-30", 
+        "h9UFW3qt": "XM17_kryla_nullchant_field_F", 
+        "qIy86WvJ": "1900412", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "55:104:1", 
+        "5A8SmwyC": "0:1900383:99999999:3:2:2:0:0", 
+        "h9UFW3qt": "XM17_kryla_nullchant_allunit_self_F", 
+        "qIy86WvJ": "1900413", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "55:104:1", 
+        "5A8SmwyC": "0:1900383:99999999:1:2:2:0:0", 
+        "h9UFW3qt": "XM17_kryla_nullchant_allunit_target_F", 
+        "qIy86WvJ": "1900414", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "", 
+        "5A8SmwyC": "1:1900384:99999999:0:2:2:0:0", 
+        "h9UFW3qt": "XM17_kryla_nullchant_effFadeBlack", 
+        "qIy86WvJ": "1900415", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "22:83:1", 
+        "5A8SmwyC": "0:1900395:99999999:1:2:2:0:0", 
+        "h9UFW3qt": "XM17_kryla_hexeye_enemy_F", 
+        "qIy86WvJ": "1900416", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "1:29:1", 
+        "5A8SmwyC": "0:1900396:99999999:0:2:2:0:100", 
+        "h9UFW3qt": "XM17_kryla_hexeye_enemyfield_F", 
+        "qIy86WvJ": "1900417", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "", 
+        "5A8SmwyC": "0:1900397:99999999:0:2:2:0:100", 
+        "h9UFW3qt": "XM17_kryla_hexeye_enemyfield_R", 
+        "qIy86WvJ": "1900418", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "22:83:1", 
+        "5A8SmwyC": "0:1900398:99999999:1:2:2:0:0", 
+        "h9UFW3qt": "XM17_kryla_evileye_enemy_F", 
+        "qIy86WvJ": "1900419", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "1:29:1", 
+        "5A8SmwyC": "0:1900399:99999999:0:2:2:0:100", 
+        "h9UFW3qt": "XM17_kryla_evileye_enemyfield_F", 
+        "qIy86WvJ": "1900420", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "", 
+        "5A8SmwyC": "0:1900400:99999999:0:2:2:0:100", 
+        "h9UFW3qt": "XM17_kryla_evileye_enemyfield_R", 
+        "qIy86WvJ": "1900421", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "", 
+        "5A8SmwyC": "0:1900401:99999999:0:2:2:0:100", 
+        "h9UFW3qt": "XM17_kryla_evileye_effFadeBlack", 
+        "qIy86WvJ": "1900422", 
+        "rPHs9p8F": ""
+    }, 
+    {
+        "1fVZ3rKd": "20:12:1,25:12:1,30:12:1,35:12:1,40:12:1,45:12:1,50:12:1,55:12:1,60:12:1,65:12:1", 
+        "5A8SmwyC": "20:1001732:99999999:2:2:2:0:0,25:1001732:99999999:2:2:2:0:0,30:1001732:99999999:2:2:2:0:0,35:1001732:99999999:2:2:2:0:0,40:1001732:99999999:2:2:2:0:0,45:1001732:99999999:2:2:2:0:0,50:1001732:99999999:2:2:2:0:0,55:1001732:99999999:2:2:2:0:0,60:1001732:99999999:2:2:2:0:0,65:1001732:99999999:2:2:2:0:0,40:4000011:99999999:2:2:2:40:150", 
+        "h9UFW3qt": "XM17_tcarrie_toy", 
+        "qIy86WvJ": "1900423", 
+        "rPHs9p8F": ""
+    }, 
+    {
         "1fVZ3rKd": "1:29:1", 
         "5A8SmwyC": "1:2000000:99999999:1:2:2:0:40", 
         "h9UFW3qt": "fire", 

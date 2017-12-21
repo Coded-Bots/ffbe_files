@@ -254,7 +254,7 @@ MST_UNIT_NAME_204000116^Dark Knight Cecil^暗黑騎士塞西爾^암흑기사 세
 MST_UNIT_NAME_204001103^Edge^艾吉^엣지^Edge^Edge^Edge
 MST_UNIT_NAME_204001104^Edge^艾吉^엣지^Edge^Edge^Edge
 MST_UNIT_NAME_204001105^Edge^艾吉^엣지^Edge^Edge^Edge
-MST_UNIT_NAME_204000106^Cecil^塞西爾^세실^Cecil^Cecil^Cecil
+MST_UNIT_NAME_204000106^Cecil^塞西爾^세실^Cécil^Cecil^Cecil
 MST_UNIT_NAME_204000405^Rydia^莉迪亞^리디아^Rydia^Rydia^Rydia
 MST_UNIT_NAME_204000205^Kain^凱因^카인^Kain^Kain^Kain
 MST_UNIT_NAME_904000105^Trust Moogle^信賴度莫古利^트러스트 모그리^Mog de confiance^Treuemogry^Moguri fiel
@@ -679,8 +679,8 @@ MST_UNIT_NAME_303000205^<na>^<na>^<na>^<na>^<na>^<na>
 MST_UNIT_NAME_303000206^<na>^<na>^<na>^<na>^<na>^<na>
 MST_UNIT_NAME_207000105^Cloud^克勞德^클라우드^Cloud^Cloud^Cloud
 MST_UNIT_NAME_207000106^Cloud^克勞德^클라우드^Cloud^Cloud^Cloud
-MST_UNIT_NAME_100009805^Elfreeda^艾爾弗里德^엘프리데^Elfreeda^Elfreeda^Elfreeda
-MST_UNIT_NAME_100009806^Elfreeda^艾爾弗里德^엘프리데^Elfreeda^Elfreeda^Elfreeda
+MST_UNIT_NAME_100009805^Elfreeda^艾爾弗里德^엘프리데^Elfreeda^Elfriede^Elfreeda
+MST_UNIT_NAME_100009806^Elfreeda^艾爾弗里德^엘프리데^Elfreeda^Elfriede^Elfreeda
 MST_UNIT_NAME_100009903^Conrad^孔拉德^콘래드^Conrad^Conrad^Conrad
 MST_UNIT_NAME_100009904^Conrad^孔拉德^콘래드^Conrad^Conrad^Conrad
 MST_UNIT_NAME_100009905^Conrad^孔拉德^콘래드^Conrad^Conrad^Conrad
@@ -884,67 +884,67 @@ MST_UNIT_NAME_401002204^Pirate Jake^海盜傑科^해적 제이크^Jake, pirate^P
 MST_UNIT_NAME_401002205^Pirate Jake^海盜傑科^해적 제이크^Jake, pirate^Piraten-Jake^Jake pirata
 MST_UNIT_NAME_401002206^Pirate Jake^海盜傑科^해적 제이크^Jake, pirate^Piraten-Jake^Jake pirata
 MST_UNIT_NAME_401000506^Black Cat Lid^黑貓里德^검은 고양이 리드^Chatte noire Lid^Schwarze Katze Lid^Lid minina negra
-MST_UNIT_NAME_212001105^Gabranth^加布藍斯^가브라스^^Gabranth^Gabranth
-MST_UNIT_NAME_212001106^Gabranth^加布藍斯^가브라스^^Gabranth^Gabranth
-MST_UNIT_NAME_212000905^Basch^巴修^바슈^^Basch^Basch
-MST_UNIT_NAME_212000906^Basch^巴修^바슈^^Basch^Basch
-MST_UNIT_NAME_212001204^Vayne^裴因^베인^^Vayne^Vayne
-MST_UNIT_NAME_212001205^Vayne^裴因^베인^^Vayne^Vayne
-MST_UNIT_NAME_212001206^Vayne^裴因^베인^^Vayne^Vayne
-MST_UNIT_NAME_212001404^Drace^朵芮絲^드레이스^^Drace^Drace
-MST_UNIT_NAME_212001405^Drace^朵芮絲^드레이스^^Drace^Drace
-MST_UNIT_NAME_212001406^Drace^朵芮絲^드레이스^^Drace^Drace
-MST_UNIT_NAME_212001303^Larsa^拉薩^라사^^Larsa^Larsa
-MST_UNIT_NAME_212001304^Larsa^拉薩^라사^^Larsa^Larsa
-MST_UNIT_NAME_212001305^Larsa^拉薩^라사^^Larsa^Larsa
-MST_UNIT_NAME_100012005^Gunner Jake^無名槍士傑科^무명의 총잡이 제이크^Jake, l'as du revolver^Pistolero Jake^Jake el pistolero
-MST_UNIT_NAME_100012006^Gunner Jake^無名槍士傑科^무명의 총잡이 제이크^Jake, l'as du revolver^Pistolero Jake^Jake el pistolero
-MST_UNIT_NAME_100013305^Emperor Shera^榭拉皇帝^시엘라 황제^^^Emperador Shera
-MST_UNIT_NAME_100013306^Emperor Shera^榭拉皇帝^시엘라 황제^^^Emperador Shera
-MST_UNIT_NAME_100012104^Emilia^埃米利亞^에밀리아^^Emilia^Emilia
-MST_UNIT_NAME_100012105^Emilia^埃米利亞^에밀리아^^Emilia^Emilia
-MST_UNIT_NAME_100012106^Emilia^埃米利亞^에밀리아^^Emilia^Emilia
-MST_UNIT_NAME_100012304^Ozetta^奧澤塔^오제타^^Ozetta^Ozetta
-MST_UNIT_NAME_100012305^Ozetta^奧澤塔^오제타^^Ozetta^Ozetta
-MST_UNIT_NAME_100012306^Ozetta^奧澤塔^오제타^^Ozetta^Ozetta
-MST_UNIT_NAME_100012203^Riley^萊利^라일리^^Riley^Riley
-MST_UNIT_NAME_100012204^Riley^萊利^라일리^^Riley^Riley
-MST_UNIT_NAME_100012205^Riley^萊利^라일리^^Riley^Riley
+MST_UNIT_NAME_212001105^Gabranth^加布藍斯^가브라스^Gabranth^Gabranth^Gabranth
+MST_UNIT_NAME_212001106^Gabranth^加布藍斯^가브라스^Gabranth^Gabranth^Gabranth
+MST_UNIT_NAME_212000905^Basch^巴修^바슈^Basch^Basch^Basch
+MST_UNIT_NAME_212000906^Basch^巴修^바슈^Basch^Basch^Basch
+MST_UNIT_NAME_212001204^Vayne^裴因^베인^Vayne^Vayne^Vayne
+MST_UNIT_NAME_212001205^Vayne^裴因^베인^Vayne^Vayne^Vayne
+MST_UNIT_NAME_212001206^Vayne^裴因^베인^Vayne^Vayne^Vayne
+MST_UNIT_NAME_212001404^Drace^朵芮絲^드레이스^Drace^Drace^Drace
+MST_UNIT_NAME_212001405^Drace^朵芮絲^드레이스^Drace^Drace^Drace
+MST_UNIT_NAME_212001406^Drace^朵芮絲^드레이스^Drace^Drace^Drace
+MST_UNIT_NAME_212001303^Larsa^拉薩^라사^Larsa^Larsa^Larsa
+MST_UNIT_NAME_212001304^Larsa^拉薩^라사^Larsa^Larsa^Larsa
+MST_UNIT_NAME_212001305^Larsa^拉薩^라사^Larsa^Larsa^Larsa
+MST_UNIT_NAME_100012005^Gunner Jake^無名槍士傑科^무명의 총잡이 제이크^Jake, as du revolver^Pistolero Jake^Jake el pistolero
+MST_UNIT_NAME_100012006^Gunner Jake^無名槍士傑科^무명의 총잡이 제이크^Jake, as du revolver^Pistolero Jake^Jake el pistolero
+MST_UNIT_NAME_100013305^Emperor Shera^榭拉皇帝^시엘라 황제^Empereur Shera^Imperator Shera^Emperador Shera
+MST_UNIT_NAME_100013306^Emperor Shera^榭拉皇帝^시엘라 황제^Empereur Shera^Imperator Shera^Emperador Shera
+MST_UNIT_NAME_100012104^Emilia^埃米利亞^에밀리아^Émilia^Emilia^Emilia
+MST_UNIT_NAME_100012105^Emilia^埃米利亞^에밀리아^Émilia^Emilia^Emilia
+MST_UNIT_NAME_100012106^Emilia^埃米利亞^에밀리아^Émilia^Emilia^Emilia
+MST_UNIT_NAME_100012304^Ozetta^奧澤塔^오제타^Ozetta^Ozetta^Ozetta
+MST_UNIT_NAME_100012305^Ozetta^奧澤塔^오제타^Ozetta^Ozetta^Ozetta
+MST_UNIT_NAME_100012306^Ozetta^奧澤塔^오제타^Ozetta^Ozetta^Ozetta
+MST_UNIT_NAME_100012203^Riley^萊利^라일리^Riley^Riley^Riley
+MST_UNIT_NAME_100012204^Riley^萊利^라일리^Riley^Riley^Riley
+MST_UNIT_NAME_100012205^Riley^萊利^라일리^Riley^Riley^Riley
 MST_UNIT_NAME_100006606^Camille^卡米爾^카밀^Camille^Camille^Camille
-MST_UNIT_NAME_313000105^Tiz^提茲^티즈^^^Tiz
-MST_UNIT_NAME_313000106^Tiz^提茲^티즈^^^Tiz
-MST_UNIT_NAME_313000205^Agnès^艾尼亞絲^아니에스^^^Agnès
-MST_UNIT_NAME_313000206^Agnès^艾尼亞絲^아니에스^^^Agnès
-MST_UNIT_NAME_313000305^Bravo Bunny Agnès^兔女郎艾尼亞絲^아니에스 브라보 바니^^^Agnès conejita
-MST_UNIT_NAME_313000306^Bravo Bunny Agnès^兔女郎艾尼亞絲^아니에스 브라보 바니^^^Agnès conejita
-MST_UNIT_NAME_313000404^Edea^伊迪婭^이데아^^^Edea
-MST_UNIT_NAME_313000405^Edea^伊迪婭^이데아^^^Edea
-MST_UNIT_NAME_313000406^Edea^伊迪婭^이데아^^^Edea
-MST_UNIT_NAME_314000104^Yew^尤^유우^^^Yew
-MST_UNIT_NAME_314000105^Yew^尤^유우^^^Yew
-MST_UNIT_NAME_314000106^Yew^尤^유우^^^Yew
-MST_UNIT_NAME_314000203^Magnolia^瑪古諾利婭^매그놀리아^^^Magnolia
-MST_UNIT_NAME_314000204^Magnolia^瑪古諾利婭^매그놀리아^^^Magnolia
-MST_UNIT_NAME_314000205^Magnolia^瑪古諾利婭^매그놀리아^^^Magnolia
-MST_UNIT_NAME_315000104^Rinne^林奈^린네^^^Rinne
-MST_UNIT_NAME_315000105^Rinne^林奈^린네^^^Rinne
-MST_UNIT_NAME_315000106^Rinne^林奈^린네^^^Rinne
-MST_UNIT_NAME_204001505^Pure Summoner Rydia^無瑕召喚士莉迪亞^순수의 소환사 리디아^^^Rydia invocadora pura
-MST_UNIT_NAME_204001506^Pure Summoner Rydia^無瑕召喚士莉迪亞^순수의 소환사 리디아^^^Rydia invocadora pura
-MST_UNIT_NAME_204001605^Studious Dragoon Kain^極致龍騎士凱因^궁극의 용기사 카인^^^Kain élite draconarius
-MST_UNIT_NAME_204001606^Studious Dragoon Kain^極致龍騎士凱因^궁극의 용기사 카인^^^Kain élite draconarius
-MST_UNIT_NAME_204000704^Yang^楊^얀^^^Yang
-MST_UNIT_NAME_204000705^Yang^楊^얀^^^Yang
-MST_UNIT_NAME_204000706^Yang^楊^얀^^^Yang
-MST_UNIT_NAME_204000603^Edward^吉爾伯特^길버트^^^Gilberto
-MST_UNIT_NAME_204000604^Edward^吉爾伯特^길버트^^^Gilberto
-MST_UNIT_NAME_204000605^Edward^吉爾伯特^길버트^^^Gilberto
-MST_UNIT_NAME_204000306^Rosa^羅莎^로자^^^Rosa
-MST_UNIT_NAME_100011905^Heavenly Technician Lid^星虹技師里德^성홍의 기술자 리드^^Himmlische Technikerin Lid^Lid ingeniera cósmica
-MST_UNIT_NAME_100011906^Heavenly Technician Lid^星虹技師里德^성홍의 기술자 리드^^Himmlische Technikerin Lid^Lid ingeniera cósmica
-MST_UNIT_NAME_100013404^Killian^希里安^킬리언^^Killian^Killian
-MST_UNIT_NAME_100013405^Killian^希里安^킬리언^^Killian^Killian
-MST_UNIT_NAME_100013406^Killian^希里安^킬리언^^Killian^Killian
+MST_UNIT_NAME_313000105^Tiz^提茲^티즈^Tiz^Tiz^Tiz
+MST_UNIT_NAME_313000106^Tiz^提茲^티즈^Tiz^Tiz^Tiz
+MST_UNIT_NAME_313000205^Agnès^艾尼亞絲^아니에스^Agnès^Agnès^Agnès
+MST_UNIT_NAME_313000206^Agnès^艾尼亞絲^아니에스^Agnès^Agnès^Agnès
+MST_UNIT_NAME_313000305^Bravo Bunny Agnès^兔女郎艾尼亞絲^아니에스 브라보 바니^Agnès lapinou^Bravo Häschen Agnes^Agnès conejita bravo
+MST_UNIT_NAME_313000306^Bravo Bunny Agnès^兔女郎艾尼亞絲^아니에스 브라보 바니^Agnès lapinou^Bravo Häschen Agnes^Agnès conejita bravo
+MST_UNIT_NAME_313000404^Edea^伊迪婭^이데아^Édéa^Edea^Edea
+MST_UNIT_NAME_313000405^Edea^伊迪婭^이데아^Édéa^Edea^Edea
+MST_UNIT_NAME_313000406^Edea^伊迪婭^이데아^Édéa^Edea^Edea
+MST_UNIT_NAME_314000104^Yew^尤^유우^Yew^Yew^Yew
+MST_UNIT_NAME_314000105^Yew^尤^유우^Yew^Yew^Yew
+MST_UNIT_NAME_314000106^Yew^尤^유우^Yew^Yew^Yew
+MST_UNIT_NAME_314000203^Magnolia^瑪古諾利婭^매그놀리아^Magnolia^Magnolia^Magnolia
+MST_UNIT_NAME_314000204^Magnolia^瑪古諾利婭^매그놀리아^Magnolia^Magnolia^Magnolia
+MST_UNIT_NAME_314000205^Magnolia^瑪古諾利婭^매그놀리아^Magnolia^Magnolia^Magnolia
+MST_UNIT_NAME_315000104^Rinne^林奈^린네^Rinne^Rinne^Rinne
+MST_UNIT_NAME_315000105^Rinne^林奈^린네^Rinne^Rinne^Rinne
+MST_UNIT_NAME_315000106^Rinne^林奈^린네^Rinne^Rinne^Rinne
+MST_UNIT_NAME_204001505^Pure Summoner Rydia^無瑕召喚士莉迪亞^순수의 소환사 리디아^Rydia, pure invocatrice^Reine Beschwörerin Rydia^Rydia invocadora pura
+MST_UNIT_NAME_204001506^Pure Summoner Rydia^無瑕召喚士莉迪亞^순수의 소환사 리디아^Rydia, pure invocatrice^Reine Beschwörerin Rydia^Rydia invocadora pura
+MST_UNIT_NAME_204001605^Studious Dragoon Kain^極致龍騎士凱因^궁극의 용기사 카인^Kain, dragonnier studieux^Strebsamer Dragoner Kain^Kain élite draconarius
+MST_UNIT_NAME_204001606^Studious Dragoon Kain^極致龍騎士凱因^궁극의 용기사 카인^Kain, dragonnier studieux^Strebsamer Dragoner Kain^Kain élite draconarius
+MST_UNIT_NAME_204000704^Yang^楊^얀^Yang^Yang^Yang
+MST_UNIT_NAME_204000705^Yang^楊^얀^Yang^Yang^Yang
+MST_UNIT_NAME_204000706^Yang^楊^얀^Yang^Yang^Yang
+MST_UNIT_NAME_204000603^Edward^吉爾伯特^길버트^Edward^Edward^Gilberto
+MST_UNIT_NAME_204000604^Edward^吉爾伯特^길버트^Edward^Edward^Gilberto
+MST_UNIT_NAME_204000605^Edward^吉爾伯特^길버트^Edward^Edward^Gilberto
+MST_UNIT_NAME_204000306^Rosa^羅莎^로자^Rosa^Rosa^Rosa
+MST_UNIT_NAME_100011905^Heavenly Technician Lid^星虹技師里德^성홍의 기술자 리드^Lid, ingénieure cosmique^Himmlische Technikerin Lid^Lid ingeniera cósmica
+MST_UNIT_NAME_100011906^Heavenly Technician Lid^星虹技師里德^성홍의 기술자 리드^Lid, ingénieure cosmique^Himmlische Technikerin Lid^Lid ingeniera cósmica
+MST_UNIT_NAME_100013404^Killian^希里安^킬리언^Killian^Killian^Killian
+MST_UNIT_NAME_100013405^Killian^希里安^킬리언^Killian^Killian^Killian
+MST_UNIT_NAME_100013406^Killian^希里安^킬리언^Killian^Killian^Killian
 MST_UNIT_NAME_100006006^Ulrica^烏爾麗卡^울리카^Ulrica^Ulrica^Ulrica
 MST_UNIT_NAME_100005706^Heltich^海爾蒂克^헬틱^Heltich^Heltich^Heltich
 MST_UNIT_NAME_100014405^Reberta^蕾貝爾塔^리베르타^Réberta^Reberta^Reberta
@@ -970,8 +970,8 @@ MST_UNIT_NAME_100013506^Shylt^希爾特^실트^Shylt^Shylt^Silt
 MST_UNIT_NAME_100013903^Mim^米姆^밈^Mim^Mim^Mim
 MST_UNIT_NAME_100013904^Mim^米姆^밈^Mim^Mim^Mim
 MST_UNIT_NAME_100013905^Mim^米姆^밈^Mim^Mim^Mim
-MST_UNIT_NAME_100012505^Maritime Strategist Nichol^洸洋軍師尼科爾^광양의 참모 니콜^Nichol, stratège maritime ^^Nichol estratega marino
-MST_UNIT_NAME_100012506^Maritime Strategist Nichol^洸洋軍師尼科爾^광양의 참모 니콜^Nichol, stratège maritime ^^Nichol estratega marino
+MST_UNIT_NAME_100012505^Maritime Strategist Nichol^洸洋軍師尼科爾^광양의 참모 니콜^Nichol, stratège maritime ^Maritimer Stratege Nichol^Nichol estratega marino
+MST_UNIT_NAME_100012506^Maritime Strategist Nichol^洸洋軍師尼科爾^광양의 참모 니콜^Nichol, stratège maritime ^Maritimer Stratege Nichol^Nichol estratega marino
 MST_UNIT_NAME_100014104^Lexa^萊基薩^렉사^Lexa^Lexa^Lexa
 MST_UNIT_NAME_100014105^Lexa^萊基薩^렉사^Lexa^Lexa^Lexa
 MST_UNIT_NAME_100014106^Lexa^萊基薩^렉사^Lexa^Lexa^Lexa
@@ -998,7 +998,7 @@ MST_UNIT_NAME_316000105^Roddick^拉提庫斯^라틱스^Roddick^Roddick^Roddick
 MST_UNIT_NAME_100010005^Raegen^雷根^레겐^Raegen^Raegen^Raegen
 MST_UNIT_NAME_100010006^Raegen^雷根^레겐^Raegen^Raegen^Raegen
 MST_UNIT_NAME_100015104^Ryumynui^魯米努依^류미누이^Ryumynui^Ryumynui^Ryumynui
-MST_UNIT_NAME_100015105^Ryumynui^魯米努依^류미누이^Ryumynui^Ryumynui^Ryumynui
+MST_UNIT_NAME_100015105^Ryumynui^魯米努依^^Ryumynui^Ryumynui^Ryumynui
 MST_UNIT_NAME_100015106^Ryumynui^魯米努依^류미누이^Ryumynui^Ryumynui^Ryumynui
 MST_UNIT_NAME_100015204^Zile^扎伊爾^자일^Zile^Zile^Zile
 MST_UNIT_NAME_100015205^Zile^扎伊爾^자일^Zile^Zile^Zile
@@ -1006,3 +1006,11 @@ MST_UNIT_NAME_100015206^Zile^扎伊爾^자일^Zile^Zile^Zile
 MST_UNIT_NAME_100015303^Lucille^魯西爾^루실^Lucille^Lucille^Lucille
 MST_UNIT_NAME_100015304^Lucille^魯西爾^루실^Lucille^Lucille^Lucille
 MST_UNIT_NAME_100015305^Lucille^魯西爾^루실^Lucille^Lucille^Lucille
+MST_UNIT_NAME_401002605^Christine^克莉絲汀^크리스틴^Christine^Christine^Christine
+MST_UNIT_NAME_401002606^Christine^克莉絲汀^크리스틴^Christine^Christine^Christine
+MST_UNIT_NAME_401002705^Kryla^克里菈^크라일라^Kryla^Kryla^Kryla
+MST_UNIT_NAME_401002706^Kryla^克里菈^크라일라^Kryla^Kryla^Kryla
+MST_UNIT_NAME_401002804^Tinkerer Carrie^機械工匠凱莉^세공사 캐리^Carrie bricoleuse^Tüftler Carrie^Carrie la juguetera
+MST_UNIT_NAME_401002805^Tinkerer Carrie^機械工匠凱莉^세공사 캐리^Carrie bricoleuse^Tüftler Carrie^Carrie la juguetera
+MST_UNIT_NAME_401002806^Tinkerer Carrie^機械工匠凱莉^세공사 캐리^Carrie bricoleuse^Tüftler Carrie^Carrie la juguetera
+MST_UNIT_NAME_100003906^Gilbert^吉爾貝^질베르^Gilbert^Gilbert^Gilberto

@@ -24,7 +24,7 @@ MST_AREA_NAME_701^The Spearmaiden^光槍少女^빛의 창을 든 소녀^La Lanci
 MST_AREA_NAME_220^Valentine Exploration^情人節探索^밸런타인 탐색^Saint Valentin - Exploration^Valentinserkundung^San Valentín (Exp.)
 MST_AREA_NAME_221^The Enchanted Maze^夢幻迷宮^몽환의 미궁^Le labyrinthe des illusions^Der verwunschene Irrgarten^El Laberinto Encantado
 MST_AREA_NAME_702^Imperial Saga^Imperial SaGa^임페리얼 사가^Imperial Saga^Imperial Saga^Imperial Saga
-MST_AREA_NAME_703^Orbonne Vaults^歐博納地下書庫^오본느 지하 서고^Les archives d'Orbonne^OrbonneSchließfach^Criptas de Orbonne
+MST_AREA_NAME_703^Orbonne Vaults^歐博納地下書庫^오본느 지하 서고^Les archives d'Orbonne^Orbonne-Archive^Criptas de Orbonne
 MST_AREA_NAME_704^The Hanging Edge^封鎖區域垂落邊緣^봉쇄구역 행드 엣지^La Cité Suspendue^Bodhum^El Despeñadero
 MST_AREA_NAME_705^The Giant of Babel^巴別巨人^바빌의 거인^Le Géant de Babel^Der Gigant von Babel^El Gigante de Babel
 MST_AREA_NAME_131^Olderion Federation^聯邦國家奧爾德里昂^올데리온 연방^Fédération d'Olderion^Republik Olderion^Federación Olderion
@@ -136,13 +136,13 @@ MST_AREA_NAME_1142^Crystalis Underground^克里斯塔里斯地下^크리스탈�
 MST_AREA_NAME_1143^???^？？？^???^???^???^???
 MST_AREA_NAME_402^2nd Anniversary Short Story^二週年短篇故事^2주년 기념·짧은 이야기^2e anniversaire - histoire courte^2-Jahre-Jubiläum Kurzgeschichte^2º aniversario: Relatos breves
 MST_AREA_NAME_600^Playback 1^playback1^playback 1^Revoir 1^Playback 1^Playback 1
-MST_AREA_NAME_747^FFBE Raid - King of Darkness^FFBE 共鬥 - 漆黑帝王^유닛 일러스트 콘테스트 레이드^Raid FFBE - Roi des Ténèbres^FFBE Raubzug - König der Dunkelheit^FFBE Evento de banda - El rey de la oscuridad
+MST_AREA_NAME_747^FFBE Raid - King of Darkness^FFBE 共鬥 - 漆黑帝王^FFBE 레이드 - 어둠의 군주^Raid FFBE - Roi des Ténèbres^FFBE Raubzug - König der Dunkelheit^FFBE Evento de banda - El rey de la oscuridad
 MST_AREA_NAME_761^Garuda, Lady of the Vortex^風神迦樓羅殲滅戰^바람신 가루다 토벌전^Garuda, dame du Vortex^Garuda, die Dame des Vortex^Garuda, señora del vórtice
 MST_AREA_NAME_762^The True Garuda^真迦樓羅殲滅戰^진 가루다 토벌전^Garuda déchaînée^Die wahre Garuda^La verdadera Garuda
 MST_AREA_NAME_763^Dark Castle^黑暗城堡^어둠의 성^Château obscur^Dunkles Schloss^Castillo oscuro
 MST_AREA_NAME_764^Glaive Castle - Exploration^格蘭斯城・探索^글랜스 성·탐색^Château de Granth - Exploration^Schloss Granth - Erkundung^Castillo de Granth - Exploración
 MST_AREA_NAME_765^Pride of Gungan^群岩的珍寶^건간의 재보^Fierté de Gungan^Stolz Gungans^El orgullo de Gungan
-MST_AREA_NAME_766^Rebel Against the Empire^反擊帝國^제국을 향한 반격^Rébellion contre l'Empire^Rebellion gegen das Imperium^Rebelión contra el Imperio
+MST_AREA_NAME_766^Imperial Infiltration^反擊帝國^제국을 향한 반격^Œil pour œil^Rachefeldzug^Ojo por ojo
 MST_AREA_NAME_767^Fort Vaullerey - Battle with Aranea^沃拉雷基地・艾拉尼亞戰^볼라레 기지·아라네아 전^Base de Vaullerey - Face à Aranea^Vaullerey-Basis - Kampf mit Aranea^Base de Vaullerey - Contra Aranea
 MST_AREA_NAME_768^Yensa Sandsea^焉薩大沙海^옌사 대사해^Yensa - Entre désert et mer^Yensa-Sandsee^Arenas de Yensa
 MST_AREA_NAME_769^Nam-Yensa Sandsea - Exploration^大沙海奧格・焉薩・探索^대사해 냄 옌사·탐색^Yensa - Exploration^Nam-Yensa-Sandsee - Erkundung^Arenas de Nam Yensa - Exploración
@@ -163,3 +163,6 @@ MST_AREA_NAME_783^Join the Grandshelt Knights!^招募！格蘭謝爾特的騎士
 MST_AREA_NAME_784^Latius Woods - Past^拉提烏斯之森・過去^라티우스의 숲·과거^Bois de Latius - Passé^Wald von Latius - Vergangenheit^Bosque de Latius - Pasado
 MST_AREA_NAME_785^Grandshelt Warsong^格蘭謝爾特戰功詩^그랑셸트 무훈시^Chant de guerre de Grandshelt^Grandshelt Kriegslied^Himno de guerra de Grandshelt
 MST_AREA_NAME_922^Dark Symphony^黑暗交響樂^어둠의 교향곡^Symphonie obscure^Dunkle Symphonie^Sinfonía tenebrosa
+MST_AREA_NAME_923^Eternal Winter - Battle^永恆之冬 - 戰鬥^영원한 겨울 - 전투^Hiver éternel - Combat^Ewiger Winter - Kampf^Invierno eterno - Combate
+MST_AREA_NAME_924^Eternal Winter - Story^永恆之冬 - 劇情^영원한 겨울 -  스토리^Hiver éternel - Histoire^Ewiger Winter - Story^Invierno eterno - Historia
+MST_AREA_NAME_925^The Giant Gingerbread Man^巨大薑餅人^거대 진저맨^Le bonhomme d'épices géant^Der riesige Lebkuchenmann^El hombre de jengibre gigante
