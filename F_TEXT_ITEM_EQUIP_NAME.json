@@ -671,8 +671,8 @@ MST_EQUIP_ITEM_NAME_409014800^Tourmaline Ring^電氣石戒指^토르말린 반�
 MST_EQUIP_ITEM_NAME_403043600^Frozen Crown^冰羽王冠^얼음깃 왕관^Couronne gelée^Eiskrone^Corona gélida
 MST_EQUIP_ITEM_NAME_314001200^Hidden Chains^隱身鎖鐮^은닉의 사슬낫^Chaînes cachées^Verborgene Ketten^Cadenas ocultas
 MST_EQUIP_ITEM_NAME_409014900^Concealing Cloth^隱身包袱^은신용 보자기^Peignoir dissimulant^Verbergendes Stofftuch^Paño ocultador
-MST_EQUIP_ITEM_NAME_311002700^Holy Wand^神聖魔杖^성스러운 마법봉^Baguette sacrée^Heiliger Stab^Vara sagrada
-MST_EQUIP_ITEM_NAME_311002800^Holy Wand - Replica^神聖魔杖·複製品^성스러운 마법봉·레플리카^Baguette sacrée - réplique^Heiliger Stab - Replik^Réplica de Vara sagrada
+MST_EQUIP_ITEM_NAME_311002700^Holy Wand^神聖魔杖^성스러운 마법봉^Baguette sacrée^Heiliger Stab^Varita sagrada
+MST_EQUIP_ITEM_NAME_311002800^Holy Wand - Replica^神聖魔杖·複製品^성스러운 마법봉·레플리카^Baguette sacrée - réplique^Heiliger Stab - Replik^Réplica de varita sagrada
 MST_EQUIP_ITEM_NAME_409015000^Clan Master's Headband^上忍護額^상급 닌자의 써클렛^Bandeau du chef de clan^Klanmeister-Stirnband^Bandana de jefe de clan
 MST_EQUIP_ITEM_NAME_406002900^Samurai Princess's Armor^公主武士的鎧甲^사무라이 공주의 무사 갑옷^Armure de la princesse samouraï^Rüstung der Samurai-Prinzessin^Armadura de p. samurai
 MST_EQUIP_ITEM_NAME_405004100^Doctor's Garment^藥師的窄袖服^약사의 옷^Tenue de pharmacien^Arztgewandung^Vestimenta de doctor
@@ -872,7 +872,7 @@ MST_EQUIP_ITEM_NAME_409019100^Sphene Ring^榍石戒指^설석 반지^Anneau de S
 MST_EQUIP_ITEM_NAME_304002900^Goho Katana^護法軍刀^보호의 군도^Katana de défense^Katana der Schutzhoheit^Katana Goho
 MST_EQUIP_ITEM_NAME_316001300^Gaia Ocarina^大地陶笛^대지의 오카리나^Ocarina de Gaïa^Gaia-Okarina^Ocarina de Gaia
 MST_EQUIP_ITEM_NAME_402002600^Shield of Grandshelt^格蘭謝爾特軍盾^그랑셸트군의 방패^Bouclier de Grandshelt^Grandshelt-Schild^Escudo de Grandshelt
-MST_EQUIP_ITEM_NAME_403044400^Microchu Cap^食腐獸帽^코츄 모자^Couvre-chef Microtyugh^Mikroküsschenkappe^Gorro de microchú
+MST_EQUIP_ITEM_NAME_403044400^Microchu Cap^食腐獸帽^코츄 모자^Couvre-chef Microtyugh^Mikroküsschenkappe^Gorra de microchú
 MST_EQUIP_ITEM_NAME_408003300^Cure Robe^治癒法袍^큐어 로브^Tunique soignante ^Heilungsrobe^Túnica sanadora
 MST_EQUIP_ITEM_NAME_403044500^Royal Crown^皇室王冠^로얄 크라운^Couronne royale^Königliche Krone^Corona real
 MST_EQUIP_ITEM_NAME_403044600^Royal Crown - Replica^皇室王冠·複製品^로얄 크라운·레플리카^Couronne royale - Réplique^Königliche Krone - Replika^Réplica de Corona real
@@ -893,3 +893,9 @@ MST_EQUIP_ITEM_NAME_1100000122^Tinkererbow^機械工匠之弓^세공사의 활^A
 MST_EQUIP_ITEM_NAME_1100000123^Holiday Bell^節慶大鐘^겨울 축제의 종^Cloche des fêtes^Festglocke^Campana festiva
 MST_EQUIP_ITEM_NAME_1100000124^Reindeer Hairband^鹿角髮箍^사슴뿔 머리띠^Serre-tête de renne^Rentier-Haarband^Diadema de ciervo
 MST_EQUIP_ITEM_NAME_1100000125^Snow Gown^雪花禮服^눈꽃 드레스^Robe des neiges^Schneekleid^Vestido de invierno
+MST_EQUIP_ITEM_NAME_1100000126^Lightbringer^光明使者^라이트 브링거^Illuminateur^Lichtbringer^Iluminador
+MST_EQUIP_ITEM_NAME_1100000127^Grasping Sphere^掌中魔球^클링 스피어^Sphère de cupidité^Fesselkristall^Esfera de la codicia
+MST_EQUIP_ITEM_NAME_1100000128^Staff of Blizzards^冰杖^빙설의 지팡이^Bâton blizzard^Blizzardstab^Bastón de la ventisca
+MST_EQUIP_ITEM_NAME_1100000129^Wing Edges^翼刃^윙 엣지^Dague ailée^Flügelschneide^Daga alada
+MST_EQUIP_ITEM_NAME_1100000130^Salamander's Gauntlets^火焰蜥蜴手甲^샐러맨더^Gantelets de salamandre^Salamanderhandschuhe^Guanteletes de salamandra
+MST_EQUIP_ITEM_NAME_1100000131^Crag Splitter^大地之劍^대지의 검^Briseterre^Kliffbrecher^Partepiedras

@@ -350,6 +350,7 @@ EQUIP_SORT_TYPE_DEF^DEF^防禦^방어력^Défense^Abwehr^Defensa
 EQUIP_SORT_TYPE_INT^MAG^魔力^마력^MAGIE^MAG^MAG
 EQUIP_SORT_TYPE_MND^SPR^精神^정신력^PSY^PSY^ESP
 EQUIP_SORT_TYPE_TYPE^Type^種類^종류^Type^Typ^Tipo
+EQUIP_SORT_TYPE_NAME^Item Name^^^^^
 CRAFT_BLACKSMITH^Forge^裝備^대장간^Forge^Schmiede^Forja
 CRAFT_MATERIA^Ability^能力^어빌리티^Aptitudes^Fertigkeit^Habilidad
 CRAFT_ITEM^Synthesize^道具^조합^Synthèse^Synthese^Sintetizar
@@ -719,7 +720,7 @@ AWARD_ARCHIVE^Battle Record^戰績^전적^Historique des combats^Kampfaufzeichnu
 AWARD_DETAIL^Trophy Details^勳章詳情^훈장 상세^Détail des trophées^Trophäendetails^Detalles de trofeo
 AWARD_DETAIL_CONFIRM_TITLE^Trophy Conditions Met^達成獲得獎盃條件^트로피 획득 조건 달성^Conditions remplies^Trophäenvoraussetzungen erfüllt^Requisitos de trofeo completados
 AWARD_REWARD_LIST^Rewards^報酬一覽^보상 목록^Récompenses^Belohnungen^Recompensas
-AWARD_REWARD_SUBTEXT^<param=trophy_color> <param=award_name> Reward ^<param=award_name><param=trophy_color>獲得報酬^<param=award_name><param=trophy_color>획득 보상^Récompense <param=trophy_color> <param=award_name> ^<param=trophy_color> <param=award_name> Belohnung ^Recompensa por <param=award_name> de <param=trophy_color> 
+AWARD_REWARD_SUBTEXT^<param=trophy_color> <param=award_name> Reward ^<param=award_name><param=trophy_color>獲得報酬^<param=award_name><param=trophy_color>획득 보상^Récompense <param=trophy_color> <param=award_name> ^<param=trophy_color> <param=award_name> Belohnung ^Rec. <param=award_name> de <param=trophy_color> 
 TROPHY_COLOR_GOLD^Gold^金盃^금상^Or^Gold^Oro
 TROPHY_COLOR_SILVER^Silver^銀盃^은상^Argent^Silber^Plata
 TROPHY_COLOR_BRONZE^Bronze^銅盃^동상^Bronze^Bronze^Bronce
@@ -1206,6 +1207,7 @@ BAD_STATE_DESC_5^Confusion^混亂^혼란^Confusion^Konfus^Confusión
 BAD_STATE_DESC_6^Disease^生病^질병^Maladie ^Virus^Virus
 BAD_STATE_DESC_7^Stone^石化^석화^Pétrification^Stein^Piedra
 SG_BAD_STATE_DESC_^Hex^咒毒^저주^Maléfice^Fluch^Maleficio
+SG_BAD_STATE_DESC_25^Hex^咒毒^저주^Maléfice^Fluch^Maleficio
 LANGUAGE_TOP^Language^語言^언어^Langue^Sprache^Idioma
 LANGUAGE_CONFIRM_TOP^Download Confirmation^確認下載^다운로드 확인^Confirmer le téléchargement^Download-Bestätigung^Confirmación de descarga
 LANGUAGE_NOTICE^Do you want to download the %s language? Estimated download size: %d MB.^是否要下載%s語言包？<br>下載檔案大小：約%dMB.^%s 언어팩을 다운로드 하시겠습니까? 다운로드 용량: %d MB^Voulez-vous télécharger le contenu du jeu en %s ? Taille estimée du téléchargement : %d Mo.^Möchtest du die Sprache %s herunterladen? Geschätzte Download-Größe: %d MB.^¿Quieres descargar el idioma %s? Espacio requerido aproximado: %d MB.
@@ -1390,7 +1392,7 @@ SERVER_MSG_214^Unable to exchange as the battle rank point exchange period has e
 SERVER_MSG_215^The app will be closed so that trust data can be adjusted. Please check the News section for details.^為修正信賴度情報結束應用程式。詳情請見通知。^트러스트 정보가 수정되었으므로, 어플리케이션을 한번 종료합니다. 자세한 내용은 공지사항을 확인해주세요.^L'application va fermer pour ajuster les données de confiance. Veuillez vous référer à section "Dernières infos" pour plus de détails.^App wird geschlossen, sodass sensible Daten angepasst werden können. Details findest du unter „Neues“.^Se cerrará la App para ajustar los datos de fidelidad. Por favor comprueba la pantalla de Noticias para saber los detalles.
 SERVER_MSG_216^New data exists.<br>Returning to the title screen.^發現新資料。<br>返回標題畫面。^새로운 데이터가 있습니다.<br>초기 화면으로 돌아갑니다.^Présence de nouvelles données.<br>Retour à l'écran-titre.^Es existieren neue Daten.<br>Rückkehr zum Titelbildschirm.^Nuevos datos encontrados.<br>Volviendo a la pantalla de título.
 CHALLENGE_REWARD_TITLE^Mission Clear Reward!^達成挑戰報酬！^미션 완료 보상!^Objectif rempli !^Missionsabschluss-Belohnung!^¡Objetivo completado!
-CHALLENGE_REWARD_MSG^You will receive the following items for completing the mission.^達成挑戰，將會獲得以下獎勵道具。^모든 미션 완료 보상으로 아래와 같은 아이템을 지급합니다.^Vous avez reçu les objets suivants pour avoir teminé une ou plusieurs missions :^Du erhältst die folgenden Gegenstände für den Abschluss der Mission:^Te entregamos las siguientes recompensas por completar un objetivo una misión.
+CHALLENGE_REWARD_MSG^You will receive the following items for completing the mission.^達成挑戰，將會獲得以下獎勵道具。^모든 미션 완료 보상으로 아래와 같은 아이템을 지급합니다.^Vous avez reçu les objets suivants pour avoir teminé une ou plusieurs missions :^Du erhältst die folgenden Gegenstände für den Abschluss der Mission:^Te entregamos las siguientes recompensas por completar el objetivo de la misión.
 CHALLENGE_COMPLETE_REWARD_TITLE^Mission Completion Reward!^完成挑戰報酬！^모든 미션 완료 보상!^Objectif rempli !^Missionsabschluss-Belohnung!^¡Objetivos completados!
 CHALLENGE_COMPLETE_REWARD_MSG^You will receive the following items for completing all missions for %s.^完成%s的挑戰，將會獲得以下獎勵道具。^%s의 모든 미션 완료 달성 보상으로 아래와 같은 아이템을 지급합니다.^Vous recevrez les objets suivants pour avoir teminé tous les objectifs d'une mission : ^Du erhältst die folgenden Gegenstände für den Abschluss aller Missionen für %s.^Te entregamos las siguientes recompensas por completar todos los objetivos de una misión.
 RB_SS_DAILY_REWARD_MAIL_TITLE^Battle Arena Participation Reward!^鬥技場戰鬥參加報酬！^결투장 전투 참가 보상!^Récomp. de participation à l'Arène !^Kampfarena-Teilnahmebelohnung!^¡Recompensa por entrar en la Arena!
@@ -1947,8 +1949,8 @@ AG_CHARITY_BUNDLE_DESC^This bundle is in response to the incident which took pla
 ONCE_A_DAY^Once a Day^1日1次限定^1일 1회 한정^Une fois par jour^Einmal pro Tag ^Una vez al día
 SG_MISSION_LOCK_COUNT^Available Attempts: 1^可進行次數：1^가능 시도 횟수: 1^Essais possibles : 1^Verfügbare Versuche^Intentos disponibles: 1
 CRAFT_FILTER_TITLE_POSSESSION^Recipes held:^持有配方：^보유 제작법:^Recettes possédées :^Rezepte in Besitz:^Receta en mano
-ANNIVERSARY_CELEBRATION_BUNDLE_DESC^ ^ ^ ^ ^ ^ 
-ANNIVERSARY_CELEBRATION_BUNDLE_TITLE^ ^ ^ ^ ^ ^ 
+ANNIVERSARY_CELEBRATION_BUNDLE_DESC^Celebrate our 1st anniversary with this limited time only anniversary bundle!<br>^購買期間限定的週年禮包，慶祝一週年的到來！^한정 기간 동안 판매되는 1주년 기념 세트상품!^Célébrez notre 1er anniversaire avec ce lot disponible pendant une durée limitée !^Feiert unser 1. Jubiläum mit diesem Jubiläumspaket für begrenzte Zeit!^¡Celebra nuestro 1er aniversario con este lote único y limitado!
+ANNIVERSARY_CELEBRATION_BUNDLE_TITLE^Anniversary Celebration Bundle^歡慶一週年紀念禮包^1주년 기념 세트상품^Lot de célébration de l'anniversaire ^Jubiläumsfeierpaket^Lote de celebración de aniversario
 MSG_EXPEDITION_ACHIEVEMENT_TITLE^Relic Rewards^古代遺產報酬^유물 보상^Récompenses (Reliques)^Reliktbelohnungen^Recompensas de reliquias
 MSG_EXPEDITION_ACHIEVEMENT_MESSAGE^You have been awarded the following items:^已獲得以下報酬：^다음과 같은 보상을 지급해드립니다:^Vous avez reçu les récompenses suivantes :^Du erhältst die folgenden Gegenstände^Te han otorgado los siguientes objetos:
 MYTHRIL_CHEST_OF_ABUNDANCE_BUNDLE_TITLE^Mythril Chest of Abundance^富裕秘銀寶箱^풍성한 미스릴 보물상자^Coffre en mithril de l'abondance^Mythriltruhe des Überflusses^Cofre de mitrilo de abundancia

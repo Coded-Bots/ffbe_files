@@ -52380,6 +52380,150 @@
         "qo3PECw6": "9002501"
     }, 
     {
+        "6uvHX2JG": "Kings Knight - INT", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "90026010", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "20:1209000851:100", 
+        "qo3PECw6": "9002601"
+    }, 
+    {
+        "6uvHX2JG": "Kings Knight - INT", 
+        "G4L0YIB2": "No items", 
+        "Pzn5h0Ga": "1", 
+        "V36ygRYs": "90026011", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9002601"
+    }, 
+    {
+        "6uvHX2JG": "Kings Knight - INT", 
+        "G4L0YIB2": "Clear within 5 turns", 
+        "Pzn5h0Ga": "75:1:5", 
+        "V36ygRYs": "90026012", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9002601"
+    }, 
+    {
+        "6uvHX2JG": "Kings Knight - INT", 
+        "G4L0YIB2": "Clear without an ally being KO", 
+        "Pzn5h0Ga": "33", 
+        "V36ygRYs": "90026013", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9002601"
+    }, 
+    {
+        "6uvHX2JG": "Kings Knight - ADV", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "90026020", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "20:1209000851:200", 
+        "qo3PECw6": "9002602"
+    }, 
+    {
+        "6uvHX2JG": "Kings Knight - ADV", 
+        "G4L0YIB2": "Use black magic", 
+        "Pzn5h0Ga": "13:2", 
+        "V36ygRYs": "90026021", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9002602"
+    }, 
+    {
+        "6uvHX2JG": "Kings Knight - ADV", 
+        "G4L0YIB2": "Clear within 5 turns", 
+        "Pzn5h0Ga": "75:1:5", 
+        "V36ygRYs": "90026022", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9002602"
+    }, 
+    {
+        "6uvHX2JG": "Kings Knight - ADV", 
+        "G4L0YIB2": "No limit bursts", 
+        "Pzn5h0Ga": "17", 
+        "V36ygRYs": "90026023", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9002602"
+    }, 
+    {
+        "6uvHX2JG": "Kings Knight - PRO", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "90026030", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "20:1209000851:300", 
+        "qo3PECw6": "9002603"
+    }, 
+    {
+        "6uvHX2JG": "Kings Knight - PRO", 
+        "G4L0YIB2": "Use Magic 3 or more times", 
+        "Pzn5h0Ga": "41:2", 
+        "V36ygRYs": "90026031", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9002603"
+    }, 
+    {
+        "6uvHX2JG": "Kings Knight - PRO", 
+        "G4L0YIB2": "Clear within 5 turns", 
+        "Pzn5h0Ga": "75:1:5", 
+        "V36ygRYs": "90026032", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9002603"
+    }, 
+    {
+        "6uvHX2JG": "Kings Knight - PRO", 
+        "G4L0YIB2": "Use no more than 5 items", 
+        "Pzn5h0Ga": "40:5", 
+        "V36ygRYs": "90026033", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9002603"
+    }, 
+    {
+        "6uvHX2JG": "Kings Knight - ELT", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "90026040", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "50:1:40", 
+        "qo3PECw6": "9002604"
+    }, 
+    {
+        "6uvHX2JG": "Kings Knight - ELT", 
+        "G4L0YIB2": "Evoke an esper", 
+        "Pzn5h0Ga": "28", 
+        "V36ygRYs": "90026041", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:20", 
+        "qo3PECw6": "9002604"
+    }, 
+    {
+        "6uvHX2JG": "Kings Knight - ELT", 
+        "G4L0YIB2": "Use 2 or more limit bursts", 
+        "Pzn5h0Ga": "49:1", 
+        "V36ygRYs": "90026042", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:20", 
+        "qo3PECw6": "9002604"
+    }, 
+    {
+        "6uvHX2JG": "Kings Knight - ELT", 
+        "G4L0YIB2": "Use no more than 5 items", 
+        "Pzn5h0Ga": "40:5", 
+        "V36ygRYs": "90026043", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:20", 
+        "qo3PECw6": "9002604"
+    }, 
+    {
         "6uvHX2JG": "Castle Dungeon BGN", 
         "G4L0YIB2": "Complete the quest", 
         "Pzn5h0Ga": "68", 

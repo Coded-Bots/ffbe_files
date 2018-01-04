@@ -2205,6 +2205,11 @@
         "qtkvrS60": "global_spd_bn_list_00028.png"
     }, 
     {
+        "0HUPxDf1": "9000032", 
+        "G4L0YIB2": "Kings Knight Gametitle", 
+        "qtkvrS60": "dic_kingsknight.png"
+    }, 
+    {
         "0HUPxDf1": "10100100", 
         "G4L0YIB2": "戦貴族", 
         "qtkvrS60": "award_10100100.png"
@@ -9475,6 +9480,36 @@
         "qtkvrS60": "global_equip_10071.png"
     }, 
     {
+        "0HUPxDf1": "1100000126", 
+        "G4L0YIB2": "Lightbringer", 
+        "qtkvrS60": "global_equip_10062.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000127", 
+        "G4L0YIB2": "Grasping Sphere", 
+        "qtkvrS60": "global_equip_10063.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000128", 
+        "G4L0YIB2": "Staff of Blizzards", 
+        "qtkvrS60": "global_equip_10064.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000129", 
+        "G4L0YIB2": "Wing Edges", 
+        "qtkvrS60": "global_equip_10065.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000130", 
+        "G4L0YIB2": "Salamanders Gauntlets", 
+        "qtkvrS60": "global_equip_10066.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000131", 
+        "G4L0YIB2": "Crag Splitter", 
+        "qtkvrS60": "global_equip_10067.png"
+    }, 
+    {
         "0HUPxDf1": "1106300100", 
         "G4L0YIB2": "MogCake", 
         "qtkvrS60": "global_item_10011.png"
@@ -9748,6 +9783,46 @@
         "0HUPxDf1": "1209000850", 
         "G4L0YIB2": "Glowing Star", 
         "qtkvrS60": "global_item_10156.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000851", 
+        "G4L0YIB2": "Khalam Medal", 
+        "qtkvrS60": "global_item_10154.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000852", 
+        "G4L0YIB2": "Royal Fire Orb", 
+        "qtkvrS60": "global_item_10147.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000853", 
+        "G4L0YIB2": "Royal Earth Orb", 
+        "qtkvrS60": "global_item_10148.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000854", 
+        "G4L0YIB2": "Royal Wind Orb", 
+        "qtkvrS60": "global_item_10149.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000855", 
+        "G4L0YIB2": "Royal Water Orb", 
+        "qtkvrS60": "global_item_10150.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000856", 
+        "G4L0YIB2": "Royal Dark Orb", 
+        "qtkvrS60": "global_item_10151.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000857", 
+        "G4L0YIB2": "Royal Light Orb", 
+        "qtkvrS60": "global_item_10152.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000858", 
+        "G4L0YIB2": "Regalite", 
+        "qtkvrS60": "global_item_10153.png"
     }, 
     {
         "0HUPxDf1": "1300000001", 

@@ -1051,8 +1051,8 @@ MST_MONSTER_SKILL_NAME_157890^The light is converging!^聚光^빛이 구속한�
 MST_MONSTER_SKILL_NAME_157900^A massive beam of light is forming!^大量光在聚集^방대한 빛이 모여든다^Un énorme rayon de lumière se forme !^Ein massiver Lichtstrahl formt sich!^¡Está creándose rayo de luz enorme!
 MST_MONSTER_SKILL_NAME_157910^It's widely flapping its wings!^張開了羽翼^커다랗게 날개를 펼친다^Il déploie complètement ses ailes !^Es schlägt mit den Flügeln!^¡Está batiendo las alas violentamente!
 MST_MONSTER_SKILL_NAME_157920^Frizz^美拉^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_157930^Thunder Slash^閃電斬^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_157940^Thunder Slash^閃電斬^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_157930^Thunder Slash^閃電斬^NA^NA^NA^Golpe trueno
+MST_MONSTER_SKILL_NAME_157940^Thunder Slash^閃電斬^NA^NA^NA^Golpe trueno
 MST_MONSTER_SKILL_NAME_157950^Flame Slash^火焰斬^화염 베기^Tranche-flammes^Flammenstreich^Corte flamígero
 MST_MONSTER_SKILL_NAME_157960^Flame Slash^火焰斬^화염 베기^Tranche-flammes^Flammenstreich^Corte flamígero
 MST_MONSTER_SKILL_NAME_157970^Frenzy^屠戮^NA^NA^NA^NA
@@ -3677,3 +3677,13 @@ MST_MONSTER_SKILL_NAME_900119^Deafening Pitch^震耳欲聾^귀를 찢는 고음^
 MST_MONSTER_SKILL_NAME_900120^Consume^消耗^소모^Consumer^Verzehren^Consumir
 MST_MONSTER_SKILL_NAME_900121^Body Slam^全力衝撞^몸통 박치기^Coup au corps^Körperschlag^Golpe corporal
 MST_MONSTER_SKILL_NAME_900122^Angry Expression^憤怒展現^화난 얼굴^Expression furieuse^Böse Miene^Expresión furiosa
+MST_MONSTER_SKILL_NAME_900123^Shadow Hatred^暗影怨念^그림자의 증오^Haine ténébreuse^Schattenhass^Odio sombrío
+MST_MONSTER_SKILL_NAME_900124^Fireballs^大火球^대화구^Boules de feu^Große Feuerkugel^Lluvia de fuego
+MST_MONSTER_SKILL_NAME_900125^Dark Vengeance^暗黑復仇^어둠의 복수^Terrible vengeance^Dunkle Rache^Venganza oscura
+MST_MONSTER_SKILL_NAME_900126^Fire Breath^火焰吐息^불의 숨결^Souffle de feu^Feueratem^Aliento de fuego
+MST_MONSTER_SKILL_NAME_900127^Dragon Breath^龍之吐息^용의 숨결^Souffle de dragon^Drachenatem^Aliento de dragón
+MST_MONSTER_SKILL_NAME_900128^Grim Wrath^駭人怒氣^음산한 숨결^Colère sombre^Grimmiger Zorn^Cólera ominosa
+MST_MONSTER_SKILL_NAME_900129^Bellowing Roar^咆哮^포효^Rugissement féroce^Bellendes Brüllen^Bramido salvaje
+MST_MONSTER_SKILL_NAME_900130^Bellowing Roar^咆哮^포효^Rugissement féroce^Bellendes Brüllen^Bramido salvaje
+MST_MONSTER_SKILL_NAME_900131^Bellowing Roar^咆哮^포효^Rugissement féroce^Bellendes Brüllen^Bramido salvaje
+MST_MONSTER_SKILL_NAME_900132^Bellowing Roar^咆哮^포효^Rugissement féroce^Bellendes Brüllen^Bramido salvaje
