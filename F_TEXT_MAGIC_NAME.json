@@ -1,185 +1,185 @@
-MST_MAGIC_NAME_10010^Libra^窺伺探測^라이브라^Acuité^Analyse^Libra
-MST_MAGIC_NAME_10020^Cure^療傷^케알^Soin^Vita^Cura
-MST_MAGIC_NAME_10030^Blindna^復明^블라나^Vision^Lux^Luz
-MST_MAGIC_NAME_10040^Vox^解咒^보컬^Voix^Vox^Vocal
-MST_MAGIC_NAME_10050^Poisona^解毒^포이즈나^Sérum^Poisona^Pura
-MST_MAGIC_NAME_10060^Banish^放逐^배니시^Banissement^Verbannung^Tenue
-MST_MAGIC_NAME_10070^Cura^中療傷^케알라^Soin +^Vitra^Cura+
-MST_MAGIC_NAME_10080^Paralyna^解麻^파라나^Mouvement^Paralyna^Paralina
-MST_MAGIC_NAME_10090^Stona^解石^스토나^Chair^Perseus^Relax
-MST_MAGIC_NAME_10100^Raise^復活^레이즈^Vie^Engel^Lázaro
-MST_MAGIC_NAME_10110^Esuna^復原^에스나^Guérison ^Medica^Esna
-MST_MAGIC_NAME_10120^Regen^再生^리제네^Récup^Regena^Revitalia
-MST_MAGIC_NAME_10121^Regen (Auto)^再生（自動）^리제네(AUTO용)^Récup (auto)^Regena (auto)^Revitalia (Auto)
-MST_MAGIC_NAME_10130^Dispel^驅魔^디스펠^Dissipation^Bann^Antimagia
-MST_MAGIC_NAME_10140^Cleanse^治病^리부트^Antivirus^Avir^Asepsis
-MST_MAGIC_NAME_10150^Curada^齊療傷^케알다^Soin X^Vigra^Cura++
-MST_MAGIC_NAME_10160^Curaga^超療傷^케알가^Soin Max^Vitaga^Cura+++
-MST_MAGIC_NAME_10210^Holy^神聖^홀리^Sidéral^Sanctus^Sanctus
-MST_MAGIC_NAME_20010^Fire^火焰^파이어^Feu^Feuer^Piro
-MST_MAGIC_NAME_20020^Blizzard^暴雪^블리자드^Glace^Eis^Hielo
-MST_MAGIC_NAME_20030^Thunder^雷電^선더^Foudre^Blitz^Electro
-MST_MAGIC_NAME_20040^Water^流水^워터^Eau^Aqua^Aqua
-MST_MAGIC_NAME_20050^Aero^勁風^에어로^Vent^Aero^Aero
-MST_MAGIC_NAME_20060^Stone^落石^스톤^Terre^Terra^Piedra
-MST_MAGIC_NAME_20070^Bio^毒化^바이오^Toxine^Bio^Bio
-MST_MAGIC_NAME_20080^Fira^中火焰^파이라^Feu +^Feura^Piro+
-MST_MAGIC_NAME_20090^Blizzara^中暴雪^블리자라^Glace +^Eisra^Hielo+
-MST_MAGIC_NAME_20100^Thundara^中雷電^선더라^Foudre +^Blitzra^Electro+
-MST_MAGIC_NAME_20110^Watera^中流水^워터라^Eau +^Aquara^Aqua+
-MST_MAGIC_NAME_20120^Aerora^中勁風^에어로라^Vent +^Aerora^Aero+
-MST_MAGIC_NAME_20130^Stonra^中落石^스톤라^Terre +^Terrara^Piedra+
-MST_MAGIC_NAME_20150^Gravity^重力^그라비데^Gravité^Gravitas^Gravedad
-MST_MAGIC_NAME_20160^Drain^吸血^드레인^Saignée^Subvita^Drenaje
-MST_MAGIC_NAME_20170^Comet^彗星^코멧^Comète^Komet^Cometa
-MST_MAGIC_NAME_20180^Biora^猛毒化 ^바이오라^Toxine +^Biora^Bio+
-MST_MAGIC_NAME_20190^Osmose^攝魔^아스필^Aspire^Osmose^Aspir
-MST_MAGIC_NAME_20200^Firaga^大火焰^파이가^Feu X^Feuga^Piro++
-MST_MAGIC_NAME_20210^Blizzaga^大暴雪^블리자가^Glace X^Eisga^Hielo++
-MST_MAGIC_NAME_20220^Thundaga^大雷電^선더가^Foudre X^Blitzga^Electro++
-MST_MAGIC_NAME_20230^Waterga^大流水^워터가^Eau X^Aquaga^Aqua++
-MST_MAGIC_NAME_20240^Aeroga^大勁風^에어로가^Vent X^Aeroga^Aero++
-MST_MAGIC_NAME_20250^Stonga^大落石^스톤가^Terre X^Terraga^Piedra++
-MST_MAGIC_NAME_20260^Bioga^劇毒化^바이오가^Toxine X^Bioga^Bio++
-MST_MAGIC_NAME_20270^Graviga^強重力^그라비가^Gravité X^Graviga^Gravedad++
-MST_MAGIC_NAME_20280^Death^致死一擊^데스^Mort^Exitus^Muerte
-MST_MAGIC_NAME_20350^Flare^核爆^플레어^Brasier^Flamme^Fulgor
-MST_MAGIC_NAME_20430^Meteor^隕石^메테오^Météore^Meteo^Meteo
-MST_MAGIC_NAME_20440^Ultima^究極^알테마^Ultima^Ultima^Artema
-MST_MAGIC_NAME_30010^Sleep^催眠^슬리플^Sommeil^Schlaf^Morfeo
-MST_MAGIC_NAME_30020^Blind^盲目^블라인^Cécité^Blind^Tiniebla
-MST_MAGIC_NAME_30030^Barfire^抗火^바파이^Anti-Feu ^Exfeu^AntiFuego
-MST_MAGIC_NAME_30040^Barblizzard^抗冰^바블리자^Anti-Glace^Exeis^AntiFrío
-MST_MAGIC_NAME_30050^Barthunder^抗雷^바선더^Anti-Foudre^Exblitz^AntiRayo
-MST_MAGIC_NAME_30060^Barwater^抗水^바워터^Anti-Eau^Exaqua^AntiAgua
-MST_MAGIC_NAME_30070^Baraero^抗風^바에어로^Anti-Vent^Exaero^AntiAero
-MST_MAGIC_NAME_30080^Barstone^抗土^바스톤^Anti-Terre^Exterra^AntiPiedra
-MST_MAGIC_NAME_30090^Protect^物防護^프로테스^Bouclier^Protes^Coraza
-MST_MAGIC_NAME_30091^Protect (Auto)^物防護（自動）^프로테스(AUTO용)^Bouclier (auto)^Protes (auto)^Coraza (Auto)
-MST_MAGIC_NAME_30100^Silence^沉默^사일런스^Silence^Stille^Mutis
-MST_MAGIC_NAME_30110^Barfira^全抗火^바파이라^Anti-Feu +^Exfeura^AntiFuego+
-MST_MAGIC_NAME_30120^Barblizzara^全抗冰^바블리자라^Anti-Glace +^Exeisra^AntiFrío+
-MST_MAGIC_NAME_30130^Barthundara^全抗雷^바선더라^Anti-Foudre +^Exblitzra^AntiRayo+
-MST_MAGIC_NAME_30140^Shell^魔防護^셸^Barrière^Vallum^Escudo
-MST_MAGIC_NAME_30141^Shell (Auto)^魔防護（自動）^셸(AUTO용)^Barrière (auto)^Vallum (auto)^Escudo (Auto)
-MST_MAGIC_NAME_30150^Deprotect^弱守^디프로테^Retire-Bouclier^Deprotes^AntiCoraza
-MST_MAGIC_NAME_30160^Deshell^弱心^디셸^Retire-Barrière^Devall^AntiEscudo
-MST_MAGIC_NAME_30170^Barwatera^全抗水^바워터라^Anti-Eau +^Exaquara^AntiAgua+
-MST_MAGIC_NAME_30180^Baraerora^全抗風^바에어로라^Anti-Vent +^Exaerora^AntiAero+
-MST_MAGIC_NAME_30190^Barstonra^全抗土^바스톤라^Anti-Terre +^Exterrara^AntiPiedra+
-MST_MAGIC_NAME_30200^Imperil^弱化^위크^Vulnérabilité^Morbid^Aquiles
-MST_MAGIC_NAME_30210^Bravery^勇氣^브레이브^Bravoure^Courage^Bravura
-MST_MAGIC_NAME_30220^Faith^信念^페이스^Foi^Ener^Fe
-MST_MAGIC_NAME_30260^Barfiraga^超抗火^바파이가^Anti-Feu X^Exfeuga^AntiFuego++
-MST_MAGIC_NAME_30270^Barblizzaga^超抗冰^바블리자가^Anti-Glace X^Exeisga^AntiHielo++
-MST_MAGIC_NAME_30280^Barthundaga^超抗雷^바선더가^Anti-Foudre X^Exblitzga^AntiElectro++
-MST_MAGIC_NAME_30320^Protectga^超物防護^프로테가^Bouclier +^Protega^Coraza+
-MST_MAGIC_NAME_10200^Dispelga^強消^디스펠가^Dissipation X^Bannga^Antimagia++
-MST_MAGIC_NAME_30330^Shellga^廣魔防殼^셸가^Barrière X^Vallga^Escudo+
-MST_MAGIC_NAME_10180^Full-Life^大復活^어레이즈^Vie Max^Erzengel^Lázaro+
-MST_MAGIC_NAME_30211^Brave (Auto)^勇氣（自動）^브레이브(AUTO용)^Bravoure (auto)^Courage (auto)^Bravura (Auto)
-MST_MAGIC_NAME_30221^Faith (Auto)^信念（自動）^페이스(AUTO용)^Foi (auto)^Ener (auto)^Fe (Auto)
-MST_MAGIC_NAME_10122^Regen (Champion)^再生（霸者的鬥氣）^리제네(패자의 투기용)^Récup (Champion)^Regen (Champion)^Revitalia (Campeón)
-MST_MAGIC_NAME_10190^Esunaga^強復原^에스나가^Guérison X^Esunaga^Esna+
-MST_MAGIC_NAME_20171^Bluff (Comet)^逞強（彗星）^강한 척하기[코멧]^Bluff (Comète)^Bluff (Komet)^Farol (Cometa)
-MST_MAGIC_NAME_20290^Firaja^強火焰^파이자^Feu max^Feuka^Piro+++
-MST_MAGIC_NAME_20300^Blizzaja^強暴雪^블리자쟈^Glace max^Eiska^Hielo+++
-MST_MAGIC_NAME_20310^Thundaja^強雷電^선더쟈^Foudre max^Blitzka^Electro+++
-MST_MAGIC_NAME_20320^Waterja^強流水^워터쟈^Eau max^Aquaka^Aqua+++
-MST_MAGIC_NAME_20330^Aeroja^強勁風^에어로쟈^Vent max^Aeroka^Aero+++
-MST_MAGIC_NAME_20340^Stonja^強落石^스톤쟈^Terre max^Terraka^Piedra+++
-MST_MAGIC_NAME_20370^Burst^炸裂^버스트^Implosion^Einschlag^Descarga
-MST_MAGIC_NAME_20390^Tornado^龍捲風^토네이도^Tornade ^Tornado^Tornado
-MST_MAGIC_NAME_20400^Quake^地槌^퀘이크^Séisme^Beben^Seísmo
-MST_MAGIC_NAME_20450^Dark^暗黑^다크^Ténèbres^Dunkel^Sombra
-MST_MAGIC_NAME_20460^Darkra^中暗黑^다크라^Ténèbres +^Darkra^Sombra+
-MST_MAGIC_NAME_20470^Darkga^大暗黑^다크가^Ténèbres X^Darkga^Sombra++
-MST_MAGIC_NAME_30290^Barwaterga^超抗水^바워터가^Anti-Eau X^Exaquaga^AntiAgua++
-MST_MAGIC_NAME_30300^Baraeroga^超抗風^바에어로가^Anti-Vent X^Exaeroga^AntiAero++
-MST_MAGIC_NAME_30310^Barstonga^超抗土^바스톤가^Anti-Terre X^Exterraga^AntiPiedra++
-MST_MAGIC_NAME_30370^Reflect^反射^리플렉트^Miroir^Reflek^Espejo
-MST_MAGIC_NAME_70010^Thundaga^大雷電^선더가^Foudre X^Blitzga^Electro++
-MST_MAGIC_NAME_70020^Thundaga^大雷電^선더가^Foudre X^Blitzga^Electro++
-MST_MAGIC_NAME_70030^Curaga^超療傷^케알가^Soin Max^Vitaga^Cura+++
-MST_MAGIC_NAME_70040^Curaga^超療傷^케알가^Soin Max^Vitaga^Cura+++
-MST_MAGIC_NAME_70050^Curaga^超療傷^케알가^Soin Max^Vitaga^Cura+++
-MST_MAGIC_NAME_70060^Curaga^超療傷^케알가^Soin Max^Vitaga^Cura+++
-MST_MAGIC_NAME_70070^Barthundara^全抗雷^바선더라^Anti-Foudre +^Exblitzra^AntiRayo+
-MST_MAGIC_NAME_70080^Barthundara^全抗雷^바선더라^Anti-Foudre +^Exblitzra^AntiRayo+
-MST_MAGIC_NAME_70090^Raise^復活^레이즈^Vie^Engel^Lázaro
-MST_MAGIC_NAME_70100^Raise^復活^레이즈^Vie^Engel^Lázaro
-MST_MAGIC_NAME_70110^Curada^齊療傷^케알다^Soin X^Vigra^Cura++
-MST_MAGIC_NAME_70120^Curada^齊療傷^케알다^Soin X^Vigra^Cura++
-MST_MAGIC_NAME_20480^Death^致死一擊^데스^Mort^Exitus^Muerte
-MST_MAGIC_NAME_20490^Alterna^吸收^얼터너^Alternance^Alterna^Versus
-MST_MAGIC_NAME_10280^Holy^神聖^홀리^Sidéral^Sanctus^Sanctus
-MST_MAGIC_NAME_91000^Regen^再生^리제네^Récup^Regena^Revitalia
-MST_MAGIC_NAME_91001^Mortar Beacon^烽火砲擊^모르타르 비콘^Mortier éclaireur ^Mörserfeuer ^Señal de mortero
-MST_MAGIC_NAME_10230^Reraise^重生^리레이즈^Auréole^Atoxi^Autolázaro
-MST_MAGIC_NAME_10123^Regen^再生（漆黑）^리제네^Récup^Regena^Revitalia
-MST_MAGIC_NAME_10124^Regen^再生（淨水治療）^리제네^Récup^Regena^Revitalia
-MST_MAGIC_NAME_10125^Regen^再生（王族戒指）^리제네^Récup^Regena^Revitalia
-MST_MAGIC_NAME_10170^Banishga^強放逐^배니시가^Banissement X^Exkommunikation^Tenue++
-MST_MAGIC_NAME_10220^Full Cure^痊癒^풀 케어^Soin total ^Volle Heilung^Cura total
-MST_MAGIC_NAME_10240^Dia^淨化^디아^Lumen^Dia^Día
-MST_MAGIC_NAME_10250^Diara^中淨化^디아라^Lumen +^Diara^Día+
-MST_MAGIC_NAME_10260^Diaga^大淨化^디아가^Lumen X^Diaga^Día++
-MST_MAGIC_NAME_10270^Diaja^強淨化^디아쟈^Lumen max^Diaja^Día+++
-MST_MAGIC_NAME_10290^Curaja^聖療^케알쟈^Giga Soin^Vitaja^Cura++++
-MST_MAGIC_NAME_20360^Freeze^冰結^프리즈^Gel^Frost^Congelación
-MST_MAGIC_NAME_20380^Flood^洪水^플러드^Inondation^Flut^Inundación
-MST_MAGIC_NAME_20410^Impact^衝擊^임팩트^Impact^Aufprall^Impacto
-MST_MAGIC_NAME_20420^Meltdown^熔毀^멜트 다운^Fusion^Kernschmelze^Fusión
-MST_MAGIC_NAME_30230^Sleepga^強催眠^슬리플가^Sommeil X^Schlafga^Morfeo++
-MST_MAGIC_NAME_70190^Waterga^大流水^워터가^Eau X^Aquaga^Aqua++
-MST_MAGIC_NAME_70200^Waterga^大流水^워터가^Eau X^Aquaga^Aqua++
-MST_MAGIC_NAME_70170^Aeroga^大勁風^에어로가^Vent X^Aeroga^Aero++
-MST_MAGIC_NAME_70180^Aeroga^大勁風^에어로가^Vent X^Aeroga^Aero++
-MST_MAGIC_NAME_70130^Ultima^究極^알테마^Ultima^Ultima^Artema
-MST_MAGIC_NAME_70140^Ultima^究極^알테마^Ultima^Ultima^Artema
-MST_MAGIC_NAME_91002^Restorative Breath^恢復吐息^회복의 숨결^Souffle curatif^Heilatem^Hálito curativo
-MST_MAGIC_NAME_70210^Meteor^隕石^메테오^Météore^Meteo^Meteo
-MST_MAGIC_NAME_70220^Meteor^隕石^메테오^Météore^Meteo^Meteo
-MST_MAGIC_NAME_70230^Reflect^反射^리플렉트^Miroir^Reflek^Espejo
-MST_MAGIC_NAME_70240^Reflect^反射^리플렉트^Miroir^Reflek^Espejo
-MST_MAGIC_NAME_20500^Astral Fire^星極火^천상의 화염^Feu astral^Astralfeuer^Fuego astral
-MST_MAGIC_NAME_20510^Astral Blizzard^靈極冰^저승의 냉기^Glace ombrale^Astralschneesturm^Ventisca astral
-MST_MAGIC_NAME_20520^Scathe^崩潰^컬랩스^Blessure^Delle^Lastimar
-MST_MAGIC_NAME_10300^Debrana^解弱攻^디브라나^Contre-bravoure^Debrana^ContraBravura
-MST_MAGIC_NAME_10310^Debranaga^廣解弱攻^디브라나가^Contre-bravoure X^Debranaga^ContraBravura+
-MST_MAGIC_NAME_10320^Deprona^解弱守^디프로나^Contre-bouclier^Deprona^ContraCoraza
-MST_MAGIC_NAME_10330^Depronaga^廣解弱守^디프로나가^Contre-bouclier X^Depronaga^ContraCoraza+
-MST_MAGIC_NAME_10340^Defaithna^解弱魔^디페이스나^Contre-foi^Defaithna^ContraFé
-MST_MAGIC_NAME_10350^Defaithnaga^廣解弱魔^디페이스나가^Contre-foi X^Defaithnaga^ContraFé+
-MST_MAGIC_NAME_10360^Deshellna^解弱心^디셸나^Contre-barrière^Deshellna^ContraEscudo
-MST_MAGIC_NAME_10370^Deshellnaga^廣解弱心^디셸나가^Contre-barrière X^Deshellnaga^ContraEscudo+
-MST_MAGIC_NAME_20530^Crusader^末日審判^크루세이더^Apocalypse^Eroberer^Hecatombe
-MST_MAGIC_NAME_70150^Full-Life^大復活^어레이즈^Vie Max^Erzengel^Lázaro+
-MST_MAGIC_NAME_70160^Full-Life^大復活^어레이즈^Vie Max^Erzengel^Lázaro+
-MST_MAGIC_NAME_70250^Firaga^大火焰^파이가^Feu X^Feuga^Piro++
-MST_MAGIC_NAME_70260^Firaga^大火焰^파이가^Feu X^Feuga^Piro++
-MST_MAGIC_NAME_70270^Blizzaga^大暴雪^블리자가^Glace X^Eisga^Hielo++
-MST_MAGIC_NAME_70280^Blizzaga^大暴雪^블리자가^Glace X^Eisga^Hielo++
-MST_MAGIC_NAME_70290^Thundaga^大雷電^선더가^Foudre X^Blitzga^Electro++
-MST_MAGIC_NAME_70300^Thundaga^大雷電^선더가^Foudre X^Blitzga^Electro++
-MST_MAGIC_NAME_70310^Crusader^聖戰^크루세이더^Apocalypse^Eroberer^Hecatombe
-MST_MAGIC_NAME_70320^Crusader^聖戰^크루세이더^Apocalypse^Eroberer^Hecatombe
-MST_MAGIC_NAME_91003^Firaga^大火焰^파이가^Feu X^Feuga^Piro++
-MST_MAGIC_NAME_91004^Blizzaga^大暴雪^블리자가^Glace X^Eisga^Hielo++
-MST_MAGIC_NAME_10380^Refresh^精神振奮^리프레쉬^Recharge^Erfrischen^Restauración
-MST_MAGIC_NAME_10390^Heal^治癒^힐^Grâce^Heilung^Sana
-MST_MAGIC_NAME_20550^Zoblizza^冰封^조블리자^Glace Z^Eisza^Hielo Z
-MST_MAGIC_NAME_30380^Defira^滅火^디파이라^Contre-feu+^Feurasensibel^ContraFuego+
-MST_MAGIC_NAME_30400^Dethundara^避雷^디선더라^Contre-foudre+^Blitzrasensibel<br>^ContraRayo+
-MST_MAGIC_NAME_30440^Delightra^遮光^디라이트라^Contre-lumière+^Lichtrasensibel^ContraLuz+
-MST_MAGIC_NAME_70330^Holy^神聖^홀리^Sidéral^Sanctus^Sanctus
-MST_MAGIC_NAME_70340^Holy^神聖^홀리^Sidéral^Sanctus^Sanctus
-MST_MAGIC_NAME_70350^Flare^核爆^플레어^Brasier^Flare^Fulgor
-MST_MAGIC_NAME_70360^Flare^核爆^플레어^Brasier^Flare^Fulgor
-MST_MAGIC_NAME_70370^Astral Fire^星極火^아스트랄 파이어^Feu astral^Astralfeuer^Fuego astral
-MST_MAGIC_NAME_70380^Astral Fire^星極火^아스트랄 파이어^Feu astral^Astralfeuer^Fuego astral
-MST_MAGIC_NAME_70390^Astral Blizzard^靈極冰^아스트랄 블리자드^Glace ombrale^Astralblizzard^Ventisca astral
-MST_MAGIC_NAME_70400^Astral Blizzard^靈極冰^아스트랄 블리자드^Glace ombrale^Astralblizzard^Ventisca astral
-MST_MAGIC_NAME_70410^Impact^衝擊^임팩트^Impact^Aufprall^Impacto
-MST_MAGIC_NAME_70420^Impact^衝擊^임팩트^Impact^Aufprall^Impacto
-MST_MAGIC_NAME_10120^Regen^再生^리제네^Récup^Regena^Revitalia
+MST_MAGIC_NAME_10010^Libra^窺伺探測^라이브라^Acuité^Analyse^Libra^
+MST_MAGIC_NAME_10020^Cure^療傷^케알^Soin^Vita^Cura^
+MST_MAGIC_NAME_10030^Blindna^復明^블라나^Vision^Lux^Luz^
+MST_MAGIC_NAME_10040^Vox^解咒^보컬^Voix^Vox^Vocal^
+MST_MAGIC_NAME_10050^Poisona^解毒^포이즈나^Sérum^Poisona^Pura^
+MST_MAGIC_NAME_10060^Banish^放逐^배니시^Banissement^Verbannung^Tenue^
+MST_MAGIC_NAME_10070^Cura^中療傷^케알라^Soin +^Vitra^Cura+^
+MST_MAGIC_NAME_10080^Paralyna^解麻^파라나^Mouvement^Paralyna^Paralina^
+MST_MAGIC_NAME_10090^Stona^解石^스토나^Chair^Perseus^Relax^
+MST_MAGIC_NAME_10100^Raise^復活^레이즈^Vie^Engel^Lázaro^
+MST_MAGIC_NAME_10110^Esuna^復原^에스나^Guérison ^Medica^Esna^
+MST_MAGIC_NAME_10120^Regen^再生^리제네^Récup^Regena^Revitalia^
+MST_MAGIC_NAME_10121^Regen (Auto)^再生（自動）^리제네(AUTO용)^Récup (auto)^Regena (auto)^Revitalia (Auto)^
+MST_MAGIC_NAME_10130^Dispel^驅魔^디스펠^Dissipation^Bann^Antimagia^
+MST_MAGIC_NAME_10140^Cleanse^治病^리부트^Antivirus^Avir^Asepsis^
+MST_MAGIC_NAME_10150^Curada^齊療傷^케알다^Soin X^Vigra^Cura++^
+MST_MAGIC_NAME_10160^Curaga^超療傷^케알가^Soin Max^Vitaga^Cura+++^
+MST_MAGIC_NAME_10210^Holy^神聖^홀리^Sidéral^Sanctus^Sanctus^
+MST_MAGIC_NAME_20010^Fire^火焰^파이어^Feu^Feuer^Piro^
+MST_MAGIC_NAME_20020^Blizzard^暴雪^블리자드^Glace^Eis^Hielo^
+MST_MAGIC_NAME_20030^Thunder^雷電^선더^Foudre^Blitz^Electro^
+MST_MAGIC_NAME_20040^Water^流水^워터^Eau^Aqua^Aqua^
+MST_MAGIC_NAME_20050^Aero^勁風^에어로^Vent^Aero^Aero^
+MST_MAGIC_NAME_20060^Stone^落石^스톤^Terre^Terra^Piedra^
+MST_MAGIC_NAME_20070^Bio^毒化^바이오^Toxine^Bio^Bio^
+MST_MAGIC_NAME_20080^Fira^中火焰^파이라^Feu +^Feura^Piro+^
+MST_MAGIC_NAME_20090^Blizzara^中暴雪^블리자라^Glace +^Eisra^Hielo+^
+MST_MAGIC_NAME_20100^Thundara^中雷電^선더라^Foudre +^Blitzra^Electro+^
+MST_MAGIC_NAME_20110^Watera^中流水^워터라^Eau +^Aquara^Aqua+^
+MST_MAGIC_NAME_20120^Aerora^中勁風^에어로라^Vent +^Aerora^Aero+^
+MST_MAGIC_NAME_20130^Stonra^中落石^스톤라^Terre +^Terrara^Piedra+^
+MST_MAGIC_NAME_20150^Gravity^重力^그라비데^Gravité^Gravitas^Gravedad^
+MST_MAGIC_NAME_20160^Drain^吸血^드레인^Saignée^Subvita^Drenaje^
+MST_MAGIC_NAME_20170^Comet^彗星^코멧^Comète^Komet^Cometa^
+MST_MAGIC_NAME_20180^Biora^猛毒化 ^바이오라^Toxine +^Biora^Bio+^
+MST_MAGIC_NAME_20190^Osmose^攝魔^아스필^Aspire^Osmose^Aspir^
+MST_MAGIC_NAME_20200^Firaga^大火焰^파이가^Feu X^Feuga^Piro++^
+MST_MAGIC_NAME_20210^Blizzaga^大暴雪^블리자가^Glace X^Eisga^Hielo++^
+MST_MAGIC_NAME_20220^Thundaga^大雷電^선더가^Foudre X^Blitzga^Electro++^
+MST_MAGIC_NAME_20230^Waterga^大流水^워터가^Eau X^Aquaga^Aqua++^
+MST_MAGIC_NAME_20240^Aeroga^大勁風^에어로가^Vent X^Aeroga^Aero++^
+MST_MAGIC_NAME_20250^Stonga^大落石^스톤가^Terre X^Terraga^Piedra++^
+MST_MAGIC_NAME_20260^Bioga^劇毒化^바이오가^Toxine X^Bioga^Bio++^
+MST_MAGIC_NAME_20270^Graviga^強重力^그라비가^Gravité X^Graviga^Gravedad++^
+MST_MAGIC_NAME_20280^Death^致死一擊^데스^Mort^Exitus^Muerte^
+MST_MAGIC_NAME_20350^Flare^核爆^플레어^Brasier^Flamme^Fulgor^
+MST_MAGIC_NAME_20430^Meteor^隕石^메테오^Météore^Meteo^Meteo^
+MST_MAGIC_NAME_20440^Ultima^究極^알테마^Ultima^Ultima^Artema^
+MST_MAGIC_NAME_30010^Sleep^催眠^슬리플^Sommeil^Schlaf^Morfeo^
+MST_MAGIC_NAME_30020^Blind^盲目^블라인^Cécité^Blind^Tiniebla^
+MST_MAGIC_NAME_30030^Barfire^抗火^바파이^Anti-Feu ^Exfeu^AntiFuego^
+MST_MAGIC_NAME_30040^Barblizzard^抗冰^바블리자^Anti-Glace^Exeis^AntiFrío^
+MST_MAGIC_NAME_30050^Barthunder^抗雷^바선더^Anti-Foudre^Exblitz^AntiRayo^
+MST_MAGIC_NAME_30060^Barwater^抗水^바워터^Anti-Eau^Exaqua^AntiAgua^
+MST_MAGIC_NAME_30070^Baraero^抗風^바에어로^Anti-Vent^Exaero^AntiAero^
+MST_MAGIC_NAME_30080^Barstone^抗土^바스톤^Anti-Terre^Exterra^AntiPiedra^
+MST_MAGIC_NAME_30090^Protect^物防護^프로테스^Bouclier^Protes^Coraza^
+MST_MAGIC_NAME_30091^Protect (Auto)^物防護（自動）^프로테스(AUTO용)^Bouclier (auto)^Protes (auto)^Coraza (Auto)^
+MST_MAGIC_NAME_30100^Silence^沉默^사일런스^Silence^Stille^Mutis^
+MST_MAGIC_NAME_30110^Barfira^全抗火^바파이라^Anti-Feu +^Exfeura^AntiFuego+^
+MST_MAGIC_NAME_30120^Barblizzara^全抗冰^바블리자라^Anti-Glace +^Exeisra^AntiFrío+^
+MST_MAGIC_NAME_30130^Barthundara^全抗雷^바선더라^Anti-Foudre +^Exblitzra^AntiRayo+^
+MST_MAGIC_NAME_30140^Shell^魔防護^셸^Barrière^Vallum^Escudo^
+MST_MAGIC_NAME_30141^Shell (Auto)^魔防護（自動）^셸(AUTO용)^Barrière (auto)^Vallum (auto)^Escudo (Auto)^
+MST_MAGIC_NAME_30150^Deprotect^弱守^디프로테^Retire-Bouclier^Deprotes^AntiCoraza^
+MST_MAGIC_NAME_30160^Deshell^弱心^디셸^Retire-Barrière^Devall^AntiEscudo^
+MST_MAGIC_NAME_30170^Barwatera^全抗水^바워터라^Anti-Eau +^Exaquara^AntiAgua+^
+MST_MAGIC_NAME_30180^Baraerora^全抗風^바에어로라^Anti-Vent +^Exaerora^AntiAero+^
+MST_MAGIC_NAME_30190^Barstonra^全抗土^바스톤라^Anti-Terre +^Exterrara^AntiPiedra+^
+MST_MAGIC_NAME_30200^Imperil^弱化^위크^Vulnérabilité^Morbid^Aquiles^
+MST_MAGIC_NAME_30210^Bravery^勇氣^브레이브^Bravoure^Courage^Bravura^
+MST_MAGIC_NAME_30220^Faith^信念^페이스^Foi^Ener^Fe^
+MST_MAGIC_NAME_30260^Barfiraga^超抗火^바파이가^Anti-Feu X^Exfeuga^AntiFuego++^
+MST_MAGIC_NAME_30270^Barblizzaga^超抗冰^바블리자가^Anti-Glace X^Exeisga^AntiHielo++^
+MST_MAGIC_NAME_30280^Barthundaga^超抗雷^바선더가^Anti-Foudre X^Exblitzga^AntiElectro++^
+MST_MAGIC_NAME_30320^Protectga^超物防護^프로테가^Bouclier +^Protega^Coraza+^
+MST_MAGIC_NAME_10200^Dispelga^強消^디스펠가^Dissipation X^Bannga^Antimagia++^
+MST_MAGIC_NAME_30330^Shellga^廣魔防殼^셸가^Barrière X^Vallga^Escudo+^
+MST_MAGIC_NAME_10180^Full-Life^大復活^어레이즈^Vie Max^Erzengel^Lázaro+^
+MST_MAGIC_NAME_30211^Brave (Auto)^勇氣（自動）^브레이브(AUTO용)^Bravoure (auto)^Courage (auto)^Bravura (Auto)^
+MST_MAGIC_NAME_30221^Faith (Auto)^信念（自動）^페이스(AUTO용)^Foi (auto)^Ener (auto)^Fe (Auto)^
+MST_MAGIC_NAME_10122^Regen (Champion)^再生（霸者的鬥氣）^리제네(패자의 투기용)^Récup (Champion)^Regen (Champion)^Revitalia (Campeón)^
+MST_MAGIC_NAME_10190^Esunaga^強復原^에스나가^Guérison X^Esunaga^Esna+^
+MST_MAGIC_NAME_20171^Bluff (Comet)^逞強（彗星）^강한 척하기[코멧]^Bluff (Comète)^Bluff (Komet)^Farol (Cometa)^
+MST_MAGIC_NAME_20290^Firaja^強火焰^파이자^Feu max^Feuka^Piro+++^
+MST_MAGIC_NAME_20300^Blizzaja^強暴雪^블리자쟈^Glace max^Eiska^Hielo+++^
+MST_MAGIC_NAME_20310^Thundaja^強雷電^선더쟈^Foudre max^Blitzka^Electro+++^
+MST_MAGIC_NAME_20320^Waterja^強流水^워터쟈^Eau max^Aquaka^Aqua+++^
+MST_MAGIC_NAME_20330^Aeroja^強勁風^에어로쟈^Vent max^Aeroka^Aero+++^
+MST_MAGIC_NAME_20340^Stonja^強落石^스톤쟈^Terre max^Terraka^Piedra+++^
+MST_MAGIC_NAME_20370^Burst^炸裂^버스트^Implosion^Einschlag^Descarga^
+MST_MAGIC_NAME_20390^Tornado^龍捲風^토네이도^Tornade ^Tornado^Tornado^
+MST_MAGIC_NAME_20400^Quake^地槌^퀘이크^Séisme^Beben^Seísmo^
+MST_MAGIC_NAME_20450^Dark^暗黑^다크^Ténèbres^Dunkel^Sombra^
+MST_MAGIC_NAME_20460^Darkra^中暗黑^다크라^Ténèbres +^Darkra^Sombra+^
+MST_MAGIC_NAME_20470^Darkga^大暗黑^다크가^Ténèbres X^Darkga^Sombra++^
+MST_MAGIC_NAME_30290^Barwaterga^超抗水^바워터가^Anti-Eau X^Exaquaga^AntiAgua++^
+MST_MAGIC_NAME_30300^Baraeroga^超抗風^바에어로가^Anti-Vent X^Exaeroga^AntiAero++^
+MST_MAGIC_NAME_30310^Barstonga^超抗土^바스톤가^Anti-Terre X^Exterraga^AntiPiedra++^
+MST_MAGIC_NAME_30370^Reflect^反射^리플렉트^Miroir^Reflek^Espejo^
+MST_MAGIC_NAME_70010^Thundaga^大雷電^선더가^Foudre X^Blitzga^Electro++^
+MST_MAGIC_NAME_70020^Thundaga^大雷電^선더가^Foudre X^Blitzga^Electro++^
+MST_MAGIC_NAME_70030^Curaga^超療傷^케알가^Soin Max^Vitaga^Cura+++^
+MST_MAGIC_NAME_70040^Curaga^超療傷^케알가^Soin Max^Vitaga^Cura+++^
+MST_MAGIC_NAME_70050^Curaga^超療傷^케알가^Soin Max^Vitaga^Cura+++^
+MST_MAGIC_NAME_70060^Curaga^超療傷^케알가^Soin Max^Vitaga^Cura+++^
+MST_MAGIC_NAME_70070^Barthundara^全抗雷^바선더라^Anti-Foudre +^Exblitzra^AntiRayo+^
+MST_MAGIC_NAME_70080^Barthundara^全抗雷^바선더라^Anti-Foudre +^Exblitzra^AntiRayo+^
+MST_MAGIC_NAME_70090^Raise^復活^레이즈^Vie^Engel^Lázaro^
+MST_MAGIC_NAME_70100^Raise^復活^레이즈^Vie^Engel^Lázaro^
+MST_MAGIC_NAME_70110^Curada^齊療傷^케알다^Soin X^Vigra^Cura++^
+MST_MAGIC_NAME_70120^Curada^齊療傷^케알다^Soin X^Vigra^Cura++^
+MST_MAGIC_NAME_20480^Death^致死一擊^데스^Mort^Exitus^Muerte^
+MST_MAGIC_NAME_20490^Alterna^吸收^얼터너^Alternance^Alterna^Versus^
+MST_MAGIC_NAME_10280^Holy^神聖^홀리^Sidéral^Sanctus^Sanctus^
+MST_MAGIC_NAME_91000^Regen^再生^리제네^Récup^Regena^Revitalia^
+MST_MAGIC_NAME_91001^Mortar Beacon^烽火砲擊^모르타르 비콘^Mortier éclaireur ^Mörserfeuer ^Señal de mortero^
+MST_MAGIC_NAME_10230^Reraise^重生^리레이즈^Auréole^Schutzengel^Autolázaro^
+MST_MAGIC_NAME_10123^Regen^再生（漆黑）^리제네^Récup^Regena^Revitalia^
+MST_MAGIC_NAME_10124^Regen^再生（淨水治療）^리제네^Récup^Regena^Revitalia^
+MST_MAGIC_NAME_10125^Regen^再生（王族戒指）^리제네^Récup^Regena^Revitalia^
+MST_MAGIC_NAME_10170^Banishga^強放逐^배니시가^Banissement X^Exkommunikation^Tenue++^
+MST_MAGIC_NAME_10220^Full Cure^痊癒^풀 케어^Soin total ^Volle Heilung^Cura total^
+MST_MAGIC_NAME_10240^Dia^淨化^디아^Lumen^Dia^Día^
+MST_MAGIC_NAME_10250^Diara^中淨化^디아라^Lumen +^Diara^Día+^
+MST_MAGIC_NAME_10260^Diaga^大淨化^디아가^Lumen X^Diaga^Día++^
+MST_MAGIC_NAME_10270^Diaja^強淨化^디아쟈^Lumen max^Diaja^Día+++^
+MST_MAGIC_NAME_10290^Curaja^聖療^케알쟈^Giga Soin^Vitaja^Cura++++^
+MST_MAGIC_NAME_20360^Freeze^冰結^프리즈^Gel^Frost^Congelación^
+MST_MAGIC_NAME_20380^Flood^洪水^플러드^Inondation^Flut^Inundación^
+MST_MAGIC_NAME_20410^Impact^衝擊^임팩트^Impact^Aufprall^Impacto^
+MST_MAGIC_NAME_20420^Meltdown^熔毀^멜트 다운^Fusion^Kernschmelze^Fusión^
+MST_MAGIC_NAME_30230^Sleepga^強催眠^슬리플가^Sommeil X^Schlafga^Morfeo++^
+MST_MAGIC_NAME_70190^Waterga^大流水^워터가^Eau X^Aquaga^Aqua++^
+MST_MAGIC_NAME_70200^Waterga^大流水^워터가^Eau X^Aquaga^Aqua++^
+MST_MAGIC_NAME_70170^Aeroga^大勁風^에어로가^Vent X^Aeroga^Aero++^
+MST_MAGIC_NAME_70180^Aeroga^大勁風^에어로가^Vent X^Aeroga^Aero++^
+MST_MAGIC_NAME_70130^Ultima^究極^알테마^Ultima^Ultima^Artema^
+MST_MAGIC_NAME_70140^Ultima^究極^알테마^Ultima^Ultima^Artema^
+MST_MAGIC_NAME_91002^Restorative Breath^恢復吐息^회복의 숨결^Souffle curatif^Heilatem^Hálito curativo^
+MST_MAGIC_NAME_70210^Meteor^隕石^메테오^Météore^Meteo^Meteo^
+MST_MAGIC_NAME_70220^Meteor^隕石^메테오^Météore^Meteo^Meteo^
+MST_MAGIC_NAME_70230^Reflect^反射^리플렉트^Miroir^Reflek^Espejo^
+MST_MAGIC_NAME_70240^Reflect^反射^리플렉트^Miroir^Reflek^Espejo^
+MST_MAGIC_NAME_20500^Astral Fire^星極火^천상의 화염^Feu astral^Astralfeuer^Fuego astral^
+MST_MAGIC_NAME_20510^Astral Blizzard^靈極冰^저승의 냉기^Glace ombrale^Astralschneesturm^Ventisca astral^
+MST_MAGIC_NAME_20520^Scathe^崩潰^컬랩스^Blessure^Delle^Lastimar^
+MST_MAGIC_NAME_10300^Debrana^解弱攻^디브라나^Contre-bravoure^Debrana^ContraBravura^
+MST_MAGIC_NAME_10310^Debranaga^廣解弱攻^디브라나가^Contre-bravoure X^Debranaga^ContraBravura+^
+MST_MAGIC_NAME_10320^Deprona^解弱守^디프로나^Contre-bouclier^Deprona^ContraCoraza^
+MST_MAGIC_NAME_10330^Depronaga^廣解弱守^디프로나가^Contre-bouclier X^Depronaga^ContraCoraza+^
+MST_MAGIC_NAME_10340^Defaithna^解弱魔^디페이스나^Contre-foi^Defaithna^ContraFé^
+MST_MAGIC_NAME_10350^Defaithnaga^廣解弱魔^디페이스나가^Contre-foi X^Defaithnaga^ContraFé+^
+MST_MAGIC_NAME_10360^Deshellna^解弱心^디셸나^Contre-barrière^Deshellna^ContraEscudo^
+MST_MAGIC_NAME_10370^Deshellnaga^廣解弱心^디셸나가^Contre-barrière X^Deshellnaga^ContraEscudo+^
+MST_MAGIC_NAME_20530^Crusader^末日審判^크루세이더^Apocalypse^Eroberer^Hecatombe^
+MST_MAGIC_NAME_70150^Full-Life^大復活^어레이즈^Vie Max^Erzengel^Lázaro+^
+MST_MAGIC_NAME_70160^Full-Life^大復活^어레이즈^Vie Max^Erzengel^Lázaro+^
+MST_MAGIC_NAME_70250^Firaga^大火焰^파이가^Feu X^Feuga^Piro++^
+MST_MAGIC_NAME_70260^Firaga^大火焰^파이가^Feu X^Feuga^Piro++^
+MST_MAGIC_NAME_70270^Blizzaga^大暴雪^블리자가^Glace X^Eisga^Hielo++^
+MST_MAGIC_NAME_70280^Blizzaga^大暴雪^블리자가^Glace X^Eisga^Hielo++^
+MST_MAGIC_NAME_70290^Thundaga^大雷電^선더가^Foudre X^Blitzga^Electro++^
+MST_MAGIC_NAME_70300^Thundaga^大雷電^선더가^Foudre X^Blitzga^Electro++^
+MST_MAGIC_NAME_70310^Crusader^聖戰^크루세이더^Apocalypse^Eroberer^Hecatombe^
+MST_MAGIC_NAME_70320^Crusader^聖戰^크루세이더^Apocalypse^Eroberer^Hecatombe^
+MST_MAGIC_NAME_91003^Firaga^大火焰^파이가^Feu X^Feuga^Piro++^
+MST_MAGIC_NAME_91004^Blizzaga^大暴雪^블리자가^Glace X^Eisga^Hielo++^
+MST_MAGIC_NAME_10380^Refresh^精神振奮^리프레쉬^Recharge^Erfrischen^Restauración^
+MST_MAGIC_NAME_10390^Heal^治癒^힐^Grâce^Heilung^Sana^
+MST_MAGIC_NAME_20550^Zoblizza^冰封^조블리자^Glace Z^Eisza^Hielo Z^
+MST_MAGIC_NAME_30380^Defira^滅火^디파이라^Contre-feu+^Feurasensibel^ContraFuego+^
+MST_MAGIC_NAME_30400^Dethundara^避雷^디선더라^Contre-foudre+^Blitzrasensibel<br>^ContraRayo+^
+MST_MAGIC_NAME_30440^Delightra^遮光^디라이트라^Contre-lumière+^Lichtrasensibel^ContraLuz+^
+MST_MAGIC_NAME_70330^Holy^神聖^홀리^Sidéral^Sanctus^Sanctus^
+MST_MAGIC_NAME_70340^Holy^神聖^홀리^Sidéral^Sanctus^Sanctus^
+MST_MAGIC_NAME_70350^Flare^核爆^플레어^Brasier^Flare^Fulgor^
+MST_MAGIC_NAME_70360^Flare^核爆^플레어^Brasier^Flare^Fulgor^
+MST_MAGIC_NAME_70370^Astral Fire^星極火^아스트랄 파이어^Feu astral^Astralfeuer^Fuego astral^
+MST_MAGIC_NAME_70380^Astral Fire^星極火^아스트랄 파이어^Feu astral^Astralfeuer^Fuego astral^
+MST_MAGIC_NAME_70390^Astral Blizzard^靈極冰^아스트랄 블리자드^Glace ombrale^Astralblizzard^Ventisca astral^
+MST_MAGIC_NAME_70400^Astral Blizzard^靈極冰^아스트랄 블리자드^Glace ombrale^Astralblizzard^Ventisca astral^
+MST_MAGIC_NAME_70410^Impact^衝擊^임팩트^Impact^Aufprall^Impacto^
+MST_MAGIC_NAME_70420^Impact^衝擊^임팩트^Impact^Aufprall^Impacto^
+MST_MAGIC_NAME_10120^Regen^再生^리제네^Récup^Regena^Revitalia^

@@ -1,646 +1,646 @@
-MST_MATERIA_NAME_504010010^Libra^窺伺探測^라이브라^Acuité^Analyse^Libra
-MST_MATERIA_NAME_504010020^Cure^療傷^케알^Soin^Vita^Cura
-MST_MATERIA_NAME_504010030^Blindna^復明^블라나^Vision^Lux^Luz
-MST_MATERIA_NAME_504010040^Vox^解咒^보컬^Voix^Vox^Vocal
-MST_MATERIA_NAME_504010050^Poisona^解毒^포이즈나^Sérum^Poisona^Pura
-MST_MATERIA_NAME_504010060^Banish^放逐^배니시^Bannissement^Verbannung^Tenue
-MST_MATERIA_NAME_504010080^Paralyna^解麻^파라나^Mouvement^Paralyna^Paralina
-MST_MATERIA_NAME_504010090^Stona^解石^스토나^Chair^Perseus^Relax
-MST_MATERIA_NAME_504010110^Esuna^復原^에스나^Guérison ^Medica^Esna
-MST_MATERIA_NAME_504010120^Regen^再生^리제네^Récup^Regena^Revitalia
-MST_MATERIA_NAME_504010140^Cleanse^治病^리부트^Antivirus^Avir^Asepsis
-MST_MATERIA_NAME_504010210^Holy^神聖^홀리^Sidéral^Sanctus^Sanctus
-MST_MATERIA_NAME_504020010^Fire^火焰^파이어^Feu^Feuer^Piro
-MST_MATERIA_NAME_504020020^Blizzard^暴雪^블리자드^Glace^Eis^Hielo
-MST_MATERIA_NAME_504020030^Thunder^雷電^선더^Foudre^Blitz^Electro
-MST_MATERIA_NAME_504020040^Water^流水^워터^Eau^Aqua^Aqua
-MST_MATERIA_NAME_504020050^Aero^勁風^에어로^Vent^Aero^Aero
-MST_MATERIA_NAME_504020060^Stone^落石^스톤^Terre^Terra^Piedra
-MST_MATERIA_NAME_504020070^Bio^毒化^바이오^Toxine^Bio^Bio
-MST_MATERIA_NAME_504020080^Fira^中火焰^파이라^Feu +^Feura^Piro+
-MST_MATERIA_NAME_504020090^Blizzara^中暴雪^블리자라^Glace +^Eisra^Hielo+
-MST_MATERIA_NAME_504020100^Thundara^中雷電^선더라^Foudre +^Blitzra^Electro+
-MST_MATERIA_NAME_504020110^Watera^中流水^워터라^Eau +^Aquara^Aqua+
-MST_MATERIA_NAME_504020120^Aerora^中勁風^에어로라^Vent +^Aerora^Aero+
-MST_MATERIA_NAME_504020130^Stonra^中落石^스톤라^Terre +^Terrara^Piedra+
-MST_MATERIA_NAME_504020150^Gravity^重力^그라비데^Gravité^Gravitas^Gravedad
-MST_MATERIA_NAME_504020160^Drain^吸血^드레인^Saignée^Subvita^Drenaje
-MST_MATERIA_NAME_504020180^Biora^猛毒化^바이오라^Toxine +^Biora^Bio+
-MST_MATERIA_NAME_504020200^Firaga^大火焰^파이가^Feu X^Feuga^Piro++
-MST_MATERIA_NAME_504020210^Blizzaga^大暴雪^블리자가^Glace X^Eisga^Hielo++
-MST_MATERIA_NAME_504020220^Thundaga^大雷電^선더가^Foudre X^Blitzga^Electro++
-MST_MATERIA_NAME_504020350^Flare^核爆^플레어^Brasier^Flamme^Fulgor
-MST_MATERIA_NAME_504020440^Ultima^究極^알테마^Ultima^Ultima^Artema
-MST_MATERIA_NAME_504030010^Sleep^催眠^슬리플^Sommeil^Schlaf^Morfeo
-MST_MATERIA_NAME_504030020^Blind^盲目^블라인^Cécité^Blind^Tiniebla
-MST_MATERIA_NAME_504030030^Barfire^抗火^바파이^Anti-Feu^Exfeu^AntiFuego
-MST_MATERIA_NAME_504030040^Barblizzard^抗冰^바블리자^Anti-Glace^Exeis^AntiFrío
-MST_MATERIA_NAME_504030050^Barthunder^抗雷^바선더^Anti-Foudre^Exblitz^AntiRayo
-MST_MATERIA_NAME_504030060^Barwater^抗水^바워터^Anti-Eau^Exaqua^AntiAgua
-MST_MATERIA_NAME_504030070^Baraero^抗風^바에어로^Anti-Vent^Exaero^AntiAero
-MST_MATERIA_NAME_504030080^Barstone^抗土^바스톤^Anti-Terre^Exterra^AntiPiedra
-MST_MATERIA_NAME_504030100^Silence^沉默^사일런스^Silence^Stille^Silencio
-MST_MATERIA_NAME_504030110^Barfira^全抗火^바파이라^Anti-Feu +^Exfeura^AntiFuego+
-MST_MATERIA_NAME_504030120^Barblizzara^全抗冰^바블리자라^Anti-Glace +^Exeisra^AntiFrío+
-MST_MATERIA_NAME_504030130^Barthundara^全抗雷^바선더라^Anti-Foudre +^Exblitzra^AntiElectro+
-MST_MATERIA_NAME_504030140^Shell^魔防護^셸^Barrière^Vallum^Escudo
-MST_MATERIA_NAME_504030150^Deprotect^弱守^디프로테^Retire-Bouclier^Deprotes^AntiCoraza
-MST_MATERIA_NAME_504030160^Deshell^弱心^디셸^Retire-Barrière ^Devall^AntiEscudo
-MST_MATERIA_NAME_504030170^Barwatera^全抗水^바워터라^Anti-Eau +^Exaquara^AntiAgua+
-MST_MATERIA_NAME_504030180^Baraerora^全抗風^바에어로라^Anti-Vent +^Exaerora^AntiAero+
-MST_MATERIA_NAME_504030190^Barstonra^全抗土^바스톤라^Anti-Terre +^Exterrara^AntiPiedra+
-MST_MATERIA_NAME_504100010^HP +10%^HP+10%^HP+10%^PV +10%^LP + 10 %^VIT +10%
-MST_MATERIA_NAME_504100040^MP +10%^MP+10%^MP+10%^PM +10%^MP + 10 %^PM +10%
-MST_MATERIA_NAME_504100050^MP +20%^MP+20%^MP+20%^PM +20%^MP + 20 %^PM +20%
-MST_MATERIA_NAME_504100070^ATK +10%^攻擊+10%^공격력+10%^ATT +10%^ANG + 10 %^ATQ +10%
-MST_MATERIA_NAME_504100080^ATK +20%^攻擊+20%^공격력+20%^ATT +20%^ANG + 20 %^ATQ +20%
-MST_MATERIA_NAME_504100120^MAG +30%^魔力+30%^마력+30%^MAGIE +30%^MAG + 30 %^MAG +30%
-MST_MATERIA_NAME_504100750^Auto-Limit^自動極限^자동 리미트^Auto-Limite^Auto-Limit^AutoLímite
-MST_MATERIA_NAME_504100760^Equip S Sword^裝備短劍^단검 장착^Épée courte^Kurzschw. benutzen^Equipar espada C
-MST_MATERIA_NAME_504100780^Equip L Sword^裝備大劍^대검 장착^Épée longue^Langschw. benutzen^Equipar espada G
-MST_MATERIA_NAME_504100800^Equip Staff^裝備手杖^지팡이 장착^Bâton^Stab benutzen^Equipar bastón
-MST_MATERIA_NAME_504100940^Equip H Armor^裝備重鎧甲^중갑 장착^Armure lourde^Schwere Rstg. benutzen^Equipar armadura P
-MST_MATERIA_NAME_504101010^Stone Killer^碎石^돌 킬러^Tue-pierre^Herz aus Stein^Matapétreos
-MST_MATERIA_NAME_504101030^Machine Killer^破械^기계 킬러^Tue-machines ^Getriebesand^Matamáquinas
-MST_MATERIA_NAME_504101050^Dragon Killer^屠龍^드래곤 킬러^Tue-dragons^Drachentöter^Matadragones
-MST_MATERIA_NAME_504101110^Aquan Killer^枯水^수중생물 킬러^Tue-aqua^Aquankiller^Mataacuáticos
-MST_MATERIA_NAME_504101170^Cover^袒護^감싸기^Couvrir^Bodyguard^Protección
-MST_MATERIA_NAME_504101200^Counter^反擊^맞받아치기^Contre-attaque^Konter^Contraataque
-MST_MATERIA_NAME_504101230^Evade^空手接白刃^칼날 잡기^Esquive^Ausweichen^Evasión
-MST_MATERIA_NAME_504101350^Camouflage^隱蔽身形^위장^Camouflage^Camouflage^Camuflaje
-MST_MATERIA_NAME_504101360^Doublehand^雙手持^양손 들기^Deux mains ^Doppelhand^Manodoble
-MST_MATERIA_NAME_504101370^Dual Wield^雙刀流^이도류^Deux armes^Zweihänder^Dos manos
-MST_MATERIA_NAME_504200010^Steal^盜取^훔치기^Voler^Stehlen^Robar
-MST_MATERIA_NAME_504200030^Pilfer^盜財^슬쩍하기^Chaparder^Einheimsen^Birlar
-MST_MATERIA_NAME_504200090^Drink^飲用^마시기^Automédication^Trinken^Beber
-MST_MATERIA_NAME_504200120^Brace^忍耐^견디기^Endurance^Trotzen^Aguante
-MST_MATERIA_NAME_504200180^Throw^投擲^던지기^Lancer^Werfen^Lanzar
-MST_MATERIA_NAME_504200210^Store^凝氣^모으기^Accumulation^Geduldsprobe^Acumulación
-MST_MATERIA_NAME_504200230^Raging Fist^爆裂拳^폭렬권^Poing foudroyant^Faustwirbel^Puños de ira
-MST_MATERIA_NAME_504200250^Escape^遁逃^줄행랑^Décamper^Fliehen^Escapar
-MST_MATERIA_NAME_504200310^Barrage^亂擊^난사^Pluie de coups^Sperrfeuer^Ráfaga
-MST_MATERIA_NAME_504200320^Mirror of Equity^明鏡^잔잔한 거울^Sérénité^Kata^Tranquilidad
-MST_MATERIA_NAME_504200390^Aim^狙擊^노리기^Viser^Zielen^Afinar puntería
-MST_MATERIA_NAME_504200440^Bladeblitz^全斬^전방위 베기^Lame éclair^Klingenblitz^Relámpago de acero
-MST_MATERIA_NAME_504200510^Fire Blade^火焰劍^파이어 검^Lame Feu^Feuer-Klinge^Hoja Piro
-MST_MATERIA_NAME_504200520^Blizzard Blade^暴雪劍^블리자드 검^Lame Glace^Eis-Klinge^Hoja Hielo
-MST_MATERIA_NAME_504200550^Silence Blade^沉默劍^사일런스 검^Lame Silence^Stille-Klinge^Hoja Mutis
-MST_MATERIA_NAME_504200560^Water Blade^流水劍^워터 검^Lame Eau^Aqua-Klinge^Hoja Aqua
-MST_MATERIA_NAME_504200580^Stone Blade^落石劍^스톤 검^Lame Terre^Terra-Klinge^Hoja Piedra
-MST_MATERIA_NAME_504200590^Blind Blade^盲目劍^블라인 검^Lame Cécité^Blend-Klinge^Hoja Tiniebla
-MST_MATERIA_NAME_504200600^Bio Blade^毒化劍^바이오 검^Lame Toxine^Bio-Klinge^Hoja Bio
-MST_MATERIA_NAME_504200670^Drain Blade^吸血劍^드레인 검^Lame Saignée^Subvita-Klinge^Hoja Drenaje
-MST_MATERIA_NAME_504200720^Thundaga Blade^大雷電劍^선더가 검^Lame Foudre X^Blitzga-Klinge^Hoja Electro++
-MST_MATERIA_NAME_504200760^Bioga Blade^劇毒化劍^바이오가 검^Lame Toxine X^Bioga-Klinge^Hoja Bio++
-MST_MATERIA_NAME_504200800^Magic Infuse^魔合擊^마법 연계^Sortilège ténébreux^Schattenfusion^Infundir magia
-MST_MATERIA_NAME_504200810^Lullaby^搖籃曲^자장가^Berceuse^Wiegenlied^Nana
-MST_MATERIA_NAME_504200850^Paean^治癒之歌^치유의 노래^Péan^Paian^Panegírico
-MST_MATERIA_NAME_504201160^Mental Break^潰心^멘탈 브레이크^Déprime^Geistbrecher^Rompeespíritu
-MST_MATERIA_NAME_504201190^Silence Dance^沉默舞蹈^침묵의 춤^Danse du silence^Stiller Tanz^Baile del silencio
-MST_MATERIA_NAME_504201260^Fire Beam^火焰射線^파이어 광선^Rayon brûlant^Feuerstrahl^Rayo Piro
-MST_MATERIA_NAME_504201280^Blizzard Beam^暴雪射線^블리자 광선^Rayon gelant^Eisstrahl^Rayo Hielo
-MST_MATERIA_NAME_504201320^Bio Blaster^毒化射線^바이오 블래스터^Nuage toxique^Bioblaster^Onda Bío
-MST_MATERIA_NAME_504201340^Power Shot^力量射擊^강력 사격^Tir puissant^Kraftschuss^Tiro poderoso
-MST_MATERIA_NAME_504201430^Sunbeam^強光照射器^태양 광선^Rayon solaire^Solarstrahl^Rayo de sol
-MST_MATERIA_NAME_504020430^Meteor^隕石^메테오^Météore^Meteo^Meteo
-MST_MATERIA_NAME_504020170^Comet^彗星^코멧^Comète^Komet^Cometa
-MST_MATERIA_NAME_504030090^Protect^物防護^프로테스^Bouclier^Protes^Coraza
-MST_MATERIA_NAME_504100160^SPR +10%^精神+10%^정신력+10%^PSY +10%^PSY + 10 %^ESP +10%
-MST_MATERIA_NAME_504101020^Bug Killer^殺蟲^벌레 킬러^Tue-insectes^Pestizid^Matabichos
-MST_MATERIA_NAME_504010070^Cura^中療傷^케알라^Soin +^Vitra^Cura+
-MST_MATERIA_NAME_504100130^DEF +10%^防禦+10%^방어력+10%^DÉF +10%^ABW + 10 %^DEF +10%
-MST_MATERIA_NAME_504100820^Equip Bow^裝備弓^활 장착^Arc et flèches^Bogen benutzen^Equipar arco
-MST_MATERIA_NAME_10220^Reflect Test^反射測試^리플렉트 테스트^Test miroir^Reflektest^Prueba de espejo
-MST_MATERIA_NAME_504030210^Bravery^勇氣^브레이브^Bravoure^Courage^Bravura
-MST_MATERIA_NAME_504100090^ATK +30%^攻擊+30%^공격력+30%^ATT +30%^ANG + 30 %^ATQ +30%
-MST_MATERIA_NAME_504100100^MAG +10%^魔力+10%^마력+10%^MAGIE +10%^MAG + 10 %^MAG +10%
-MST_MATERIA_NAME_504100060^MP +30%^MP+30%^MP+30%^PM +30%^MP + 30 %^PM +30%
-MST_MATERIA_NAME_504200770^Holy Blade^神聖劍^홀리 검^SidéLame^Sanctusklinge^Hoja Sanctus
-MST_MATERIA_NAME_504201670^Katana Mastery^刀之奧義^도의 비법^Maîtrise des lames^Katanameister^Maestría de katana
-MST_MATERIA_NAME_504201680^Light's Blessing^光之加護^빛의 가호^Grâce de la lumière^Lichtsegen^Bendición de luz
-MST_MATERIA_NAME_504010130^Dispel^驅魔^디스펠^Dissipation^Bann^Antimagia
-MST_MATERIA_NAME_504030220^Faith^信念^페이스^Foi^Ener^Fe
-MST_MATERIA_NAME_504100030^HP +30%^HP+30%^HP+30%^PV +30%^LP + 30 %^VIT +30%
-MST_MATERIA_NAME_504100830^Equip Axe^裝備斧^도끼 장착^Hache^Axt ausrüsten^Equipar hacha
-MST_MATERIA_NAME_504100960^Equip Hat^裝備帽子^모자 장착^Chapeau^Hut ausrüsten^Equipar sombrero
-MST_MATERIA_NAME_504101100^Spirit Slayer^荼靈^정령 킬러^Tue-esprit^Geisttöter^Mataespíritus
-MST_MATERIA_NAME_504101500^HP +15%^HP+15%^HP+15%^PV +15%^LP + 15 %^VIT +15%
-MST_MATERIA_NAME_504200540^Sleep Blade^催眠劍^슬리플 검^Lame Sommeil^Schlaf-Klinge^Hoja sedante
-MST_MATERIA_NAME_504200570^Aero Blade^勁風劍^에어로 검^Lame Vent^Aero-Klinge^Hoja Aero
-MST_MATERIA_NAME_504200660^Stonra Blade^中落石劍^스톤라 검^Lame Terre +^Terrara-Klinge^Hoja Piedra+
-MST_MATERIA_NAME_504201750^Melody of Life^生命的旋律^생명의 멜로디^Mélodie de la Vie^Melodie des Lebens^Melodía vital
-MST_MATERIA_NAME_504201950^Seal of Destruction^破壞刻印^파괴의 각인^Sceau de destruction^Siegel der Zerstörung^Sello de destrucción
-MST_MATERIA_NAME_504201960^Seal of Protection^守護刻印^수호의 각인^Sceau de protection^Siegel des Schutzes^Sello de protección
-MST_MATERIA_NAME_504201970^Goddess's Protection^聖女神守護^성스러운 여신의 수호^Protection de la déesse^Schutz der Göttin^Custodio de la diosa
-MST_MATERIA_NAME_504100990^Equip H Shield^裝備重盾^무거운 방패 장착^Bouclier lourd^Schweren Schild ausrüsten^Equipar escudo P
-MST_MATERIA_NAME_504200150^Dualcast^連續詠唱^연속 마법^Double sort^Doppelmagie^Magia doble
-MST_MATERIA_NAME_504010150^Curada^齊療傷^케알다^Soin X^Vitaga^Cura++
-MST_MATERIA_NAME_504100190^EVO MAG +10%^召喚魔法+10%^소환마법+10%^INV +10%^BSW MAG + 10 %^INVOCACIÓN +10%
-MST_MATERIA_NAME_504101000^Plant Killer^燃木^식물 킬러^Tue-plante^Unkrautvernichter^Mataplantas
-MST_MATERIA_NAME_504200640^Watera Blade^中流水劍^워터라 검^Lame Eau +^Aquara-Klinge^Hoja Aqua+
-MST_MATERIA_NAME_504202350^Second Wind^聲援^응원가^Aile renforcée^Rückenwind^Éter
-MST_MATERIA_NAME_504202360^Crush Armor^強甲破點突^강갑파점 찌르기^Écrase-armure^Rüstung zerschmettern^Perforacoraza
-MST_MATERIA_NAME_504202370^Medicate^急救^치료^Salve curatrice^Verarzten^Primeras curas
-MST_MATERIA_NAME_504202380^Stone Throw^投石^돌팔매^Jet de pierre^Steinwurf^Pedrada
-MST_MATERIA_NAME_504100850^Equip Spear^裝備長槍^창 장착^Lance^Speer ausrüsten^Equipar lanza
-MST_MATERIA_NAME_504202470^Thunderfall^天鳴萬雷^하늘을 울리는 천둥소리^Foudres divines^Donnerfall^Vórtice
-MST_MATERIA_NAME_504202480^Here We Go^鬥志高昂^흥 돋우기^C'est parti !^Los geht's^¡Vamos con todo!
-MST_MATERIA_NAME_504202490^Attacker^攻擊者^공격자^Attaquant^Angreifer^Castigador
-MST_MATERIA_NAME_504202500^Defender^防禦者^방어자^Défenseur ^Verteidiger^Protector
-MST_MATERIA_NAME_504202760^Sticky Fingers^接物^붙잡기^Interception ^Langfinger^Atrapar
-MST_MATERIA_NAME_504202770^Coin Steal^盜取硬幣^동전 훔치기^Dérobe-gils^Münzen stehlen^Robamonedas
-MST_MATERIA_NAME_504202780^Lunge Combo^貫穿連擊^돌격 콤보^Combo massif^Vorstoßkombo^Combo esgrimidor
-MST_MATERIA_NAME_1500000000^Burst Shot^爆裂射擊^폭렬 사격^Tir critique^Salve^Tiro explosivo
-MST_MATERIA_NAME_504100710^Auto-Protect^自動物防護^자동 프로테스^Auto-Bouclier^Auto-Protes^AutoCoraza
-MST_MATERIA_NAME_504100810^Equip Rod^裝備魔棒^홀장 장착^Sceptres^Rute benutzen^Equipar vara
-MST_MATERIA_NAME_504200680^Biora Blade^猛毒化劍^바이오라 검^Lame Toxine +^Biora-Klinge^Hoja Bio+
-MST_MATERIA_NAME_504203150^Acceptance^接受之力^받는 힘^Assimilation^Akzeptanz^Aceptación
-MST_MATERIA_NAME_504203160^Knowledge^知識之力^지식의 힘^Savoir^Wissen^Conocimiento
-MST_MATERIA_NAME_504203170^Ignorance^無知之力^무지한 힘^Ignorance^Ignoranz^Inconsciencia
-MST_MATERIA_NAME_504203180^Discernment^認識之力^인식하는 힘^Discernement^Erkenntnis^Observación
-MST_MATERIA_NAME_504203190^Speed Plus^速度提昇^스피드 상승^Rapidité^Beschleunigung^Velocidad↑
-MST_MATERIA_NAME_504203200^Twinspell^雙重魔法^트윈 매직^Sorts jumeaux^Zwillingszauber^Afán mágico
-MST_MATERIA_NAME_504203210^Insult to Injury^昏眩終結^스턴 피니쉬^Choc fatal^Nachsetzen^Terapia de shock
-MST_MATERIA_NAME_504203220^Cut Cards^翻牌^덱 오픈^Tirage spécial^Karte ziehen^Mano ganadora
-MST_MATERIA_NAME_504203370^Mentality^心之所在^멘탈리티^Mental^Mentalismus^Mentalidad
-MST_MATERIA_NAME_504203380^Letters and Arms^文武雙全^문무양도^La plume et l'épée^Feder und Schwert^Pluma y espada
-MST_MATERIA_NAME_504203810^Mana's Protection^瑪娜的加護^마나의 가호^Égide de Mana^Beistand des Mana^Custodia de Mana
-MST_MATERIA_NAME_504203820^Mana's Blessing^瑪娜的祝福^마나의 축복^Bénédiction de Mana^Segen des Mana^Bendición de Mana
-MST_MATERIA_NAME_504203830^Deep Thoughts^一心一意^한결같은 마음^Pensée profonde^Mit ganzem Herzen^Ideal profundo
-MST_MATERIA_NAME_504203840^Fairy Wisdom^妖精族的智慧^요정족의 지혜^Sagesse de lutin^Weisheit der Kobolde^Bendición de elfo
-MST_MATERIA_NAME_504203800^Mana^瑪娜^마나^Mana^Mana^Mana
-MST_MATERIA_NAME_504203460^Full Moon Slash^滿月斬^보름달 베기^Tranche-Lune^Vollmondhieb^Haz de luna llena
-MST_MATERIA_NAME_504100720^Auto-Shell^自動魔防護^자동 셸^Auto-Barrière^Auto-Vallum^AutoEscudo
-MST_MATERIA_NAME_504200690^Osmose Blade^攝魔劍^아스필 검^Lame Aspire^Osmoseklinge^Hoja Aspir
-MST_MATERIA_NAME_504204030^Syldra's Protection^海龍的加護^해룡의 가호^Égide de Syldra^Syldras Beistand^Guarda de Syldra
-MST_MATERIA_NAME_504204250^Wisdom^賢者之力^현명한 힘^Sagesse^Weisheit^Sabiduría
-MST_MATERIA_NAME_504204260^Action^行動之力^행동하는 힘^Action^Aktion^Iniciativa
-MST_MATERIA_NAME_504204270^Innocence^純真之力^순진한 힘^Innocence^Unschuld^Inocencia
-MST_MATERIA_NAME_504204280^Tranquility^冷靜之力^냉정한 힘^Tranquillité^Gelassenheit^Tranquilidad
-MST_MATERIA_NAME_504204290^Gate of Destiny^能量炸彈^에너지 봄^Explosion d'énergie^Tor der Bestimmung^Estallido anímico
-MST_MATERIA_NAME_504204300^White Knight^安全防禦^세이프티 가드^Dôme protecteur^Zuflucht^Shangri-La
-MST_MATERIA_NAME_504204310^Tempered Shield^硬化護盾^경화 방패^Bouclier résistant^Gehärteter Schild^Escudo rechapado
-MST_MATERIA_NAME_504204320^Imperial Helm^皇國軍頭盔^제국군의 헬멧^Casque de l'Empire^Imperialer Helm^Casco imperial
-MST_MATERIA_NAME_504203240^MP + 15%^MP+15%^MP+15%^PM +15%^MP + 15 %^PM + 15%
-MST_MATERIA_NAME_504101600^ATK +15%^攻擊+15%^공격력+15%^ATT +15%^ANG + 15 %^ATQ +15%
-MST_MATERIA_NAME_504204590^Dark Bond^赫斯的血脈^헤스의 핏줄^Lien obscur^Dunkle Bande^Vínculo Hess
-MST_MATERIA_NAME_504204600^Water God's Protection^水神的加護^수신의 가호^Égide du dieu de l'Eau^Beistand des Wassergottes^Guarda de Leviatán
-MST_MATERIA_NAME_504207510^Breaker^破壞者^브레이커^Briseur^Brecher^Rompedor
-MST_MATERIA_NAME_504207680^Demonic Life^魔神之燃命^마신의 연명^Vie démoniaque^Dämonenleben^Vida demoniaca
-MST_MATERIA_NAME_504207690^Destroyer's Authority^破神之威光^파괴신의 위광^Autorité du destructeur ^Zerstörische Macht^Mando del destructor
-MST_MATERIA_NAME_504207700^Guardian's Authority^守神之威光^수호신의 위광^Autorité du gardien^Beschützende Macht^Mando del guardián
-MST_MATERIA_NAME_504207710^Power of Creation^創造神之力^창조신의 힘^Pouvoir créateur^Macht der Schöpfung^Poder creador
-MST_MATERIA_NAME_504207720^Dark Resistance +15%^暗屬性耐性+15%^어둠속성 저항력+15%^Rés. aux ténèbres +15%^Dunkelresistenz +15 %^Res. a oscuridad +15%
-MST_MATERIA_NAME_1500000001^Chilling Aura^恐怖氣場^공포의 아우라^Aura effrayante^Gruselaura^Aura estremecedora
-MST_MATERIA_NAME_1500000002^Spooky Aura^驚悚氣場^섬뜩한 아우라^Aura étrange^Spukaura^Aura atemorizadora
-MST_MATERIA_NAME_1500000003^Seal of Destruction^破壞之刻印^파멸의 각인^Tablette de ruine ^Block des Ruins^Inscripción de la ruina
-MST_MATERIA_NAME_504101700^MAG +15%^魔力+15%^마력+15%^MAGIE +15%^MAG + 15 %^MAG +15%
-MST_MATERIA_NAME_504020280^Death^致死一擊^데스^Mort^Exitus^Muerte
-MST_MATERIA_NAME_504100920^Equip Clothes^裝備衣服^옷 장비^Vêtements ^Kleidung ausrüsten^Equipar ropa
-MST_MATERIA_NAME_504101040^Man-Eater^食人^인간 킬러^Tueur^Menschenfresser^Comehombres
-MST_MATERIA_NAME_504101090^Bird Killer^射鳥^새 킬러^Tue-oiseaux^Papageno^Matapájaros
-MST_MATERIA_NAME_504101120^Auto-Potion^自動治療劑^자동 포션^Auto-potion^Auto-Trank^Autopoción
-MST_MATERIA_NAME_504201130^Power Break^潰力^파워 브레이크^Émousse ^Kraftbrecher^Rompebrazo
-MST_MATERIA_NAME_504201140^Magic Break^潰魔^매직 브레이크^Annumagik^Magiebrecher^Rompemagia
-MST_MATERIA_NAME_504204900^Miracle Step^奇蹟舞步^기적의 스텝^Pas miraculeux^Wunderschritt^Paso milagroso
-MST_MATERIA_NAME_504204910^Crush Helm^星天爆擊打^성천폭격타^Écrase-casque^Helm zerschmettern^Aplasta-cascos
-MST_MATERIA_NAME_504204920^Healing Waltz II^治癒華爾滋II^치유의 원무곡II^Valse curative+^Heilwalzer II^Vals revitalizador+
-MST_MATERIA_NAME_504204930^Poach^秘獵^밀렵^Capturer^Pochieren^Caza furtiva
-MST_MATERIA_NAME_504204940^First Strike^先發制人^선제 공격^Premier coup^Erstschlag^Llave
-MST_MATERIA_NAME_504204950^Lifefont^移動HP恢復^HP 회복 이동^Restaure PV en marchant^LP Wiederherstellen - Wechsel^Recupera VIT al andar
-MST_MATERIA_NAME_504205130^Quick Assault^高速突擊^고속 공격^Assaut véloce ^Rasche Attacke^Asalto veloz
-MST_MATERIA_NAME_504205260^Dark Knight's Soul^黑暗騎士之魂^다크 나이트 소울^Âme de chevalier noir^Dunkelritter-Seele^Alma de lord oscuro
-MST_MATERIA_NAME_504205350^Hill Digger^山裡長大^산골 출신^Creuse tranchée^Hügelgräber^Criado en el campo
-MST_MATERIA_NAME_504205430^Successor^後繼者^후계자^Successeur ^Nachfolger^Sucesor
-MST_MATERIA_NAME_504205440^Magician^魔術師^마술사^Magicien^Magier^Mago
-MST_MATERIA_NAME_504205450^Fighter^鬥士^파이터^Combattant ^Kämpfer^Luchador
-MST_MATERIA_NAME_504205460^Seething Cauldron^溢滿魔力^넘치는 마력^Chaudron magique^Brodelnder Kessel^Fuente de magia
-MST_MATERIA_NAME_504205470^Swelling Power^充滿力量^차오르는 힘^Pouvoir débordant ^Anschwellende Kraft^Poder rebosante
-MST_MATERIA_NAME_504205490^Bushido - Freedom^奧義·天下御免^오의·천하공인^Bushido - Liberté ^Bushido - Freiheit^Bushido - Libertad
-MST_MATERIA_NAME_504205650^Champion Spirit^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504205980^Scorch^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504205880^Mighty Defense^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504206070^Instinctual Guard^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504200530^Thunder Blade^雷電劍^선더 검^Lame Foudre ^Blitz-Klinge^Hoja Electro
-MST_MATERIA_NAME_504201150^Armor Break^潰甲^아머 브레이크^Brise-armure^Panzerbrecher^Rompecoraza
-MST_MATERIA_NAME_504205710^Metal Slash^翻訳不要^翻訳不要^NA^NA^Golpe metálico
-MST_MATERIA_NAME_504205990^Hustle Dance^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504205660^Wave of Panic^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504101060^Undead Killer^驅靈^언데드 킬러^Tueur de morts-vivants^Weihrauch^Matazombis
-MST_MATERIA_NAME_504206080^Elemental Damage Down^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504206270^Emperor's Majesty^皇帝的威嚴^황제의 위엄^Majesté impériale^Würde des Imperators^Solemnidad imperial
-MST_MATERIA_NAME_504206320^Heretic Abyss^魔道深淵^마도의 심연^Abysse hérétique^Häretischer Abgrund^Abismo hereje
-MST_MATERIA_NAME_504206390^Resuscitate^起死回生^기사회생^Résurrection ^Wiederbeleben^De las cenizas
-MST_MATERIA_NAME_504206630^Love^愛^사랑^Affection ^Liebe^Afecto
-MST_MATERIA_NAME_504206680^Resolve^決斷之力^결단력^Résolution^Lösen^Resolución
-MST_MATERIA_NAME_504206750^Persistence^執著之力^집착하는 힘^Persévérance ^Bestehen^Perseverancia
-MST_MATERIA_NAME_504206650^Siphon Delta^攝魔力場^아스필 필드^Aspire champ^Saug-Delta^Campo Aspir
-MST_MATERIA_NAME_504206740^Multitask^重新填彈射擊^리로드 사격^Tir véloce^Multitask^Tiro veloz
-MST_MATERIA_NAME_504206840^Azure Helm^蒼龍風格頭盔^푸른 용의 투구^Heaume azur^Azurhelm^Yelmo azur
-MST_MATERIA_NAME_504206850^Azure Armor^蒼龍風格鎧甲^푸른 용의 갑옷^Armure azur^Azurrüstung^Armadura azur
-MST_MATERIA_NAME_504100740^Auto-Refresh^自動精神振奮^자동 리프레쉬^Auto-Recharge^Auto-Erfrischung^AutoRefrescar
-MST_MATERIA_NAME_504100980^Equip L Shield^裝備輕盾^가벼운 방패 장비^Bouclier léger^Leichtes Schild ausrüsten^Equipar escudo L
-MST_MATERIA_NAME_504207380^Mage Cannon^魔導炮擊^마도포^Canon magique ^Magiekanone^Cañón mágico
-MST_MATERIA_NAME_504207410^Large Sword Mastery^大劍奧義^대검의 비법^Maîtrise des épées longues^Langschwert-Meister^Maestría de espada G
-MST_MATERIA_NAME_504207770^Divine Seal^神封印^신성한 문장^Sceau divin^Göttliches Siegel^Sello divino
-MST_MATERIA_NAME_504208090^Protection of the Twelve^十二神的守護^12신의 가호^Égide des dieux ^Schutz der Götter^Guarda de los dioses
-MST_MATERIA_NAME_504208100^Shard of Genius^睿智的結晶^예지의 결정^Éclat de génie ^Splitter des Genies^Fragmento de ingenio
-MST_MATERIA_NAME_504208110^Follower's Oath^追隨者的誓言^맹주에게 바치는 맹세^Serment du serviteur ^Schwur des Anhängers^Voto del servidor
-MST_MATERIA_NAME_504208120^Hydaelyn Guard^海德林的加護^하이델린의 가호^Protection d'Hydaelyn^Hydaelynische Wache^Guarda de Hydaelyn
-MST_MATERIA_NAME_504101080^Beast Killer^亡獸^야수 킬러^Tue-bêtes^Bestientöter^Matabestias
-MST_MATERIA_NAME_504208480^Returner^回歸者^리터너^Résistant^Rückkehrer^Replicante
-MST_MATERIA_NAME_504208490^Warrior Mage^魔導戰士^마도전사^Mage guerrier^Kriegsmagier^Mago guerrero
-MST_MATERIA_NAME_504208500^Toxic Rain^暴風酸性雨^산성 폭풍우^Pluie toxique^Giftregen^Lluvia tóxica
-MST_MATERIA_NAME_504208510^Rod Mastery^魔棒奧義^홀장의 비법^Maîtrise des sceptres^Stabmeister^Maestría de varas
-MST_MATERIA_NAME_504208570^Rage - Meteor^狂怒（隕石）^날뛰기 [메테오]^Rage - Météore ^Wut - Meteor^Cólera - Meteo
-MST_MATERIA_NAME_504208900^Light Resistance +15%^光屬性耐性+15%^빛속성 저항력+15%^Rés. à la lumière +15%^Lichtresistenz + 15 %^Res. a la luz +15%
-MST_MATERIA_NAME_504208740^Healer's Wisdom^治癒心得^치유술사의 마음가짐^Savoir du soigneur ^Heilerweisheit^Saber del curador
-MST_MATERIA_NAME_504208970^DEF +15%^防禦+15%^방어력+15%^DEF +15%^ABW + 15 %^DEF +15%
-MST_MATERIA_NAME_504208980^SPR +15%^精神+15%^정신력+15%^PSY +15%^PSY + 15 %^ESP +15%
-MST_MATERIA_NAME_504208990^Null Paralysis^麻痺無效^마비 무효^Annule paralysie ^Null-Paralyse^Inmune a parálisis
-MST_MATERIA_NAME_504101070^Demon Killer^斬魔^악마 킬러^Tue-démons ^Dämonenkiller^Matademonios
-MST_MATERIA_NAME_504100910^Use Grappling Weapons^裝備格鬥武器^격투 장비^Maîtrise des poings ^Hakenwaffen nutzen^Maestría de puños
-MST_MATERIA_NAME_504209480^Warrior Lore^戰士心得^전사의 마음가짐^Art du tireur^Kriegerkunde^Libro de guerrero
-MST_MATERIA_NAME_504209490^Mage's Monograph^魔道士心得^마도사의 마음가짐^Monographie du mage^Magiermonographie^Códice del mago
-MST_MATERIA_NAME_504030200^Imperil^弱化^위크^Vulnérabilité^Morbid^Aquiles
-MST_MATERIA_NAME_504209350^Patriotic Recall^思念祖國^조국을 향한 마음^Esprit patriotique ^Ruf der Heimat^Espíritu patriota
-MST_MATERIA_NAME_504010160^Curaga^超療傷^케알가^Soin Max^Vitaja^Cura+++
-MST_MATERIA_NAME_504100140^DEF +20%^防禦+20%^방어력+20%^DEF +20%^ABW + 20 %^DEF +20%
-MST_MATERIA_NAME_504209500^Manufacted Nethicite^人造破魔石^인조 파마석^Nihilithe artificiel^Nethicite gefertigt^Neticita artificial
-MST_MATERIA_NAME_504209550^Earth Resistance +15%^土屬性耐性+15%^땅속성 저항력+15%^Rés. à la terre +15%^Erdresistenz +15 %^Res. a la tierra +15%
-MST_MATERIA_NAME_504900120^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900130^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900140^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900150^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900160^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900170^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900180^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900190^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900200^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900210^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900220^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900230^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900240^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900250^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900260^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900270^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900280^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900290^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900300^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900310^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900320^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900330^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900340^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900350^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900360^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900370^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900380^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900390^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900400^Firaja^強火焰^파이자^Feu Max^Feuka^Piro+++
-MST_MATERIA_NAME_504900410^Blizzaja^強暴雪^블리자쟈^Glace Max^Eiska^Hielo+++
-MST_MATERIA_NAME_504900420^Thundaja^強雷電^선더쟈^Foudre Max^Blitzka^Electro+++
-MST_MATERIA_NAME_504900430^Waterja^強流水^워터쟈^Eau Max^Aquaka^Aqua+++
-MST_MATERIA_NAME_504900440^Aeroja^強勁風^에어로쟈^Vent Max^Aeroka^Aero+++
-MST_MATERIA_NAME_504900450^Stonja^強落石^스톤쟈^Terre Max^Terraka^Piedra+++
-MST_MATERIA_NAME_504900460^Mirror Counter^明鏡反擊(暫)^잔잔한 거울 맞받아치기(임시)^Test^Spiegelkonter^Test
-MST_MATERIA_NAME_504900470^Lasswell Lvl 100^拉斯韋爾Lv100(暫)^라스웰 lv 100(임시)^Test^Lasswell St. 100^Test
-MST_MATERIA_NAME_504900480^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900490^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900500^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900510^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900520^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900530^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900540^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900550^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900560^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900570^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900580^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900590^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900600^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900610^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900620^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900630^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900640^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900650^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900660^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900670^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900680^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900690^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900700^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900710^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900720^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900730^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900740^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900750^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900760^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900770^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900780^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900790^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900800^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900810^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900820^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900830^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900840^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900850^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900860^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900870^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900880^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900890^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900900^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900910^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900920^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900930^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900940^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900950^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900960^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900970^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900980^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504900990^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901000^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901010^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901020^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901030^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901040^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901050^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901060^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901070^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901080^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901090^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901100^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901110^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901120^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901130^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901140^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901150^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901160^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901170^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901180^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901190^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901200^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901210^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901220^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901230^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901240^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901250^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901260^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901270^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901280^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901290^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901300^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901310^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901320^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901330^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901340^Dark^暗黑^다크^Ténèbres^Dunkel^Sombra
-MST_MATERIA_NAME_504901350^Darkra^中暗黑^다크라^Ténèbres +^Darkra^Sombra+
-MST_MATERIA_NAME_504901360^Darkga^大暗黑^다크가^Ténèbres X^Darkga^Sombra++
-MST_MATERIA_NAME_504901370^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901380^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901390^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901400^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901410^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901420^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901430^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901440^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901450^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901460^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901470^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901480^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901490^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901500^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901510^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901520^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901530^Tornado^龍捲風^토네이도^Tornade^Tornado^Tornado
-MST_MATERIA_NAME_504901540^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901550^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901560^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901570^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901580^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901590^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901600^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901610^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901620^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901630^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901640^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901650^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901660^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901670^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901680^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901690^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901700^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901710^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901720^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901730^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901740^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901750^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901760^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901770^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901780^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901790^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901800^Jump^跳躍^점프^Saut^Sprung^Saltar
-MST_MATERIA_NAME_504901810^Kick^踢擊^발차기^Coup de pied^Einschlag^Puntapié
-MST_MATERIA_NAME_504901820^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901830^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901840^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901850^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901860^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901870^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901880^Burst^炸裂^버스트^Implosion^Salve^Descarga
-MST_MATERIA_NAME_504901890^Quake^地槌^퀘이크^Séisme^Beben^Seísmo
-MST_MATERIA_NAME_1500000004^Pure Heart^純潔之心^순수한 마음^Cœur pur^Reines Herz^Corazón puro
-MST_MATERIA_NAME_1500000005^Winter Ward^防寒對策^방한 대책^Protection hivernale ^Winterdiener^Guardia invernal
-MST_MATERIA_NAME_1500000007^Deliverance^引渡黃泉^사망선고^Déliverance^Erlösung^Viático
-MST_MATERIA_NAME_1500000008^Firewall: Power↑^增強ＨＳ威力^HS 위력 증대^Mur de feu : Puissance ↑^Feuerwall: Kraft↑^Parapeto letal
-MST_MATERIA_NAME_504212570^Symphonic Flair^交響樂天賦^심포닉 플레어^Style symphonique^Sinfonisches Flair^Estilo sinfónico
-MST_MATERIA_NAME_1500000009^Lightspeed Jab^光速拳^광속권^Coup éclair^Lichtgeschwindigkeitsschlag^Puños estela
-MST_MATERIA_NAME_1500000010^Cheerleader^士氣^기합^Application^Cheerleader^Kiai
-MST_MATERIA_NAME_504209690^Elven Pride^精靈榮耀^엘프의 긍지^Fierté elfique ^Elfenstolz^Orgullo élfico
-MST_MATERIA_NAME_504209940^Poison Resistance^毒無效^독 무효^Immunité (poison)^Giftresistenz^Inmune al veneno
-MST_MATERIA_NAME_504210110^Proud Fencer^高傲劍豪^긍지 높은 검호^Escrimeur fier^Stolzer Fechter^Esgrimista orgulloso
-MST_MATERIA_NAME_504210490^Heaven's Guidance^星天指引^천국의 인도^Guide céleste ^Himmlische Führung^Guía celestial
-MST_MATERIA_NAME_504210640^March^進軍^진군^Défilé^Marsch^Avante
-MST_MATERIA_NAME_504210650^Vigilance^警戒^경계^Vigilance^Wachsamkeit^Vigilancia
-MST_MATERIA_NAME_504100170^SPR +20%^精神+20%^정신력+20%^PSY +20%^PSY +20%^ESP +20%
-MST_MATERIA_NAME_504210660^Wind Resistance +15%^風屬性耐性+15%^바람속성 저항력+15%^Rés. au vent +15%^Windresistenz +15%^Resistencia al viento +15%
-MST_MATERIA_NAME_504210670^False Saint^虛偽聖者^거짓된 성자^Imposteur céleste ^Falscher Heiliger^Falso santo
-MST_MATERIA_NAME_504210720^Sworn Six's Pride - Dark^六盟傑榮耀·暗^여섯 호걸 연맹의 긍지·어둠^Fierté des Six - Ténèbres^Stolz der Geschworenen Sechs - Finsternis^Orgullo de Paladia - Oscuridad
-MST_MATERIA_NAME_504210800^Sworn Six's Pride - Fire^六盟傑榮耀·火^여섯 호걸 연맹의 긍지·불꽃^Fierté des Six - Feu^Stolz der Geschworenen Sechs - Feuer^Orgullo de Paladia - Fuego
-MST_MATERIA_NAME_504210890^Sworn Six's Pride - Earth^六盟傑榮耀·土^여섯 호걸 연맹의 긍지·땅^Fierté des Six - Terre^Stolz der Geschworenen Sechs - Erde^Orgullo de Paladia - Tierra
-MST_MATERIA_NAME_504211100^Confusion Resistance^混亂無效^혼란 무효^Immunité (confusion)^Konfusresistenz^Resistencia a la confusión
-MST_MATERIA_NAME_504211120^Mog Search^莫古偵查^모그 탐색^Fouille mog^Mogrysuche^Búsqueda moguri
-MST_MATERIA_NAME_504211130^Mog Song^莫古之歌^모그 송^Chanson mog ^Mogrylied^Canción moguri
-MST_MATERIA_NAME_504211140^Mog Step^莫古舞步^모그 스텝^Pas mog ^Mogryschritt^Paso moguri
-MST_MATERIA_NAME_504211150^Mog Resist^莫古反抗^모그 레지스트^Résistance mog ^Mogryresistenz^Resistencia moguri
-MST_MATERIA_NAME_504211160^Mog Rise^莫古崛起^모그 라이즈^Soulèvement mog ^Mogryaufstieg^Ascenso moguri
-MST_MATERIA_NAME_504211340^Martial Arts Mastery^格鬥奧義^격투의 비법^Maîtrise des arts martiaux^Kampfkunstmeister^Maestría de puño
-MST_MATERIA_NAME_504211350^World Destroyer^世界毀滅^세계 붕괴^Destructeur de monde ^Weltzerstörer^Destructor de mundos
-MST_MATERIA_NAME_504211290^Mog Wisdom^莫古心得^모그의 마음가짐^Sagesse mog ^Mogryweisheit^Saber moguri
-MST_MATERIA_NAME_504211680^Heart of Fire^火之心^불의 마음^Essence du feu ^Feuerherz^Corazón de fuego
-MST_MATERIA_NAME_504211690^Heart of Water^水之心^물의 마음^Essence de l'eau ^Wasserherz^Corazón de agua
-MST_MATERIA_NAME_504211700^Heart of Wind^風之心^바람의 마음^Essence du vent ^Windherz^Corazón de viento
-MST_MATERIA_NAME_504211710^Heart of Earth^土之心^땅의 마음^Essence de la terre^Erdherz^Corazón de tierra
-MST_MATERIA_NAME_504212360^Sworn Six's Pride - Light^六盟傑榮耀·光^여섯 호걸 연맹의 긍지·빛^Fierté des Six Jurés - Lumière^Stolz der Geschworenen Sechs - Licht^Orgullo de Paladia - Luz
-MST_MATERIA_NAME_504212370^Sworn Six's Pride - Wind^六盟傑榮耀·風^여섯 호걸 연맹의 긍지·바람^Fierté des Six Jurés - Vent^Stolz der Geschworenen Sechs - Wind^Orgullo de Paladia - Viento
-MST_MATERIA_NAME_504212380^Sworn Six's Pride - Water^六盟傑榮耀·水^여섯 호걸 연맹의 긍지·물^Fierté des Six Jurés - Eau^Stolz der Geschworenen Sechs - Wasser^Orgullo de Paladia - Agua
-MST_MATERIA_NAME_504212340^Sleep Resistance^睡眠無效^수면 무효^Immunité (sommeil)^Schlafresistenz^Resistencia al sueño
-MST_MATERIA_NAME_504212350^Water Resistance +15%^水屬性耐性+15%^물속성 저항력+15%^Rés. à l'eau +15%^Wasserresistenz +15%^Resistencia al agua +15%
-MST_MATERIA_NAME_504213210^Relax^休息^휴식^Détente^Entspannung^Relajación
-MST_MATERIA_NAME_504213220^Evasiveness - Small^閃避性能【小】^회복 성능 [소]^Geste évasif - petit^Ausweichen - Klein^Evasión - Menor
-MST_MATERIA_NAME_504213230^Great Earplugs^高級耳塞^고급 귀마개^Bouch. d'oreilles de qualité^Gute Ohrstöpsel^Tapones de lujo
-MST_MATERIA_NAME_504213420^Guard of the Future^未來守護者^미래를 지키는 힘^Gardien du futur^Wächter der Zukunft^Custodio del porvenir
-MST_MATERIA_NAME_504213530^Thirst for Survival^求生慾望^생존을 향한 갈망^Soif de survie^Überlebensdurst^Sed de supervivencia
-MST_MATERIA_NAME_504213700^Thunder Resistance +15%^雷屬性耐性+15%^번개속성 저항력+15%^Rés. à la foudre +15%^Donnerresistenz +15%^Resistencia al rayo +15%
-MST_MATERIA_NAME_504213710^Darkness's Foe^抗暗之力^어둠을 다루는 힘^Ennemi des ténèbres ^Feind der Finsternis^Enemigo de la oscuridad
-MST_MATERIA_NAME_504213720^Light's Foe^抗光之力^빛을 다루는 힘^Ennemi de la lumière^Feind des Lichts^Enemigo de la luz
-MST_MATERIA_NAME_504213730^MP Stroll^移動恢復MP^걸으면 MP 회복^Balade PM^MP-Generator^PM al andar
-MST_MATERIA_NAME_504213740^General Offensive^總攻^총공격^Offensive générale ^Generaloffensive^Ataque total
-MST_MATERIA_NAME_504100110^MAG +20%^魔力+20%^마력+20%^MAGIE +20%^MAG +20 %^MAG +20%
-MST_MATERIA_NAME_504100860^Equip Instrument^裝備樂器^악기 장착^Instrument^Instrument benutzen^Equi. instrumento
-MST_MATERIA_NAME_504020460^Darkra^中暗黑^다크라^Ténèbres +^Darkra^Sombra+
-MST_MATERIA_NAME_504200610^Fira Blade^中火焰劍^파이라 검^Lame Feu +^Feura-Klinge^Hoja Piro+
-MST_MATERIA_NAME_504213800^Awesome Swordsman^威猛劍士^용감한 검사^Épéiste incroyable^Fantastischer Schwertkämpfer^Espadachín fantástico
-MST_MATERIA_NAME_504214350^Pure White Blessing^純白祝福^순백의 축복^Bénédiction éthéré^Weißer Segen^Bendición inmaculada
-MST_MATERIA_NAME_504214360^High Spirits^氣炎萬丈^기염 만장^Ébullition^Hochstimmung^Explosividad
-MST_MATERIA_NAME_504214720^N/A^帝國之光^N/A^N/A^N/A^N/A
-MST_MATERIA_NAME_504211360^Dragon Killer+^屠龍改^개량형 드래곤 킬러^Tue-dragons +^Drachentöter+^Matadragones+
-MST_MATERIA_NAME_504214930^Mage's Resolution^魔道士的覺悟^마도사의 각오^Résolution de mage^Magierbeschluss^Resolución de mago
-MST_MATERIA_NAME_504214990^Buster Style^破壞者姿態^버스터 폼^Forme de casseur ^Jägergestalt^Postura de espada mortal
-MST_MATERIA_NAME_504215180^Ice Resistance +15%^冰屬性耐性+15%^얼음속성 저항력+15%^Rés. à la glace +15%^Eisresistenz +15%^Resistencia al hielo +15%
-MST_MATERIA_NAME_504215190^Powerful^力量煥發^파워풀^Puissance^Mächtig^Poderoso
-MST_MATERIA_NAME_504215200^Toughness^堅韌^터프^Résistance ^Zähigkeit^Robustez
-MST_MATERIA_NAME_504215360^Proof of Talent^才媛之證^재능의 증명^Preuve de talent^Talentbeweis^Prueba de talento
-MST_MATERIA_NAME_504215440^Blind Resistance^失明無效^암흑 무효^Immunité (cécité)^Blendresistenz^Anular ceguera
-MST_MATERIA_NAME_1500000011^Encore^安可^앙코르^Encore^Zugabe^Encore
-MST_MATERIA_NAME_1500000012^Echidna's Kiss^艾奇德娜之吻^에키드나의 키스^Baiser d'Echidna^Echidnas Kuss^Beso de Equidna
-MST_MATERIA_NAME_1500000014^Renewal^更新^리뉴얼^Renouveau^Erneuerung^Renovación
-MST_MATERIA_NAME_504216990^Spirit of Freedom^不羈的氣焰^불기의 기염^Esprit de liberté^Geist der Freiheit^Espíritu libre
-MST_MATERIA_NAME_504217040^Sage's Prajna^賢人的智慧^현자의 지혜^Prajna du sage^Prajna des Weisen^Prajna del sabio
-MST_MATERIA_NAME_1500000013^Adventurer^冒險者^모험가^Aventurier^Abenteurer^Aventurero
-MST_MATERIA_NAME_1500000015^Adventurer II^冒險者 II^모험가II^Aventurier+^Abenteurer II^Aventurero+
-MST_MATERIA_NAME_1500000016^Adventurer III^冒險者 III^모험가III^Aventurier++^Abenteurer III^Aventurero++
-MST_MATERIA_NAME_1500000017^Adventurer IV^冒險者 IV^모험가IV^Aventurier+++^Abenteurer IV^Aventurero+++
-MST_MATERIA_NAME_1500000018^Adventurer V^冒險者 V^모험가V^Aventurier++++^Abenteurer V^Aventurero++++
-MST_MATERIA_NAME_504200650^Aerora Blade^中勁風劍^에어로라 검^Lame Vent +^Aerora-Klinge^Hoja Aero+
-MST_MATERIA_NAME_504215930^Dream Maiden's Oracle^夢巫女的天啟^꿈의 무녀의 신탁^Prédic. de Prêtressonge^Traummagd-Orakel^Oráculo onírico de la doncella
-MST_MATERIA_NAME_504216050^Crazy Day^瘋狂安息日^광인의 안식일^Journée de fou^Verrückter Tag^Día de locos
-MST_MATERIA_NAME_504216060^Staff Mastery^手杖奧義^지팡이의 비법^Maîtrise des bâtons^Stabmeisterschaft^Maestro del bastón
-MST_MATERIA_NAME_504200620^Blizzara Blade^中暴雪劍^블리자라 검^Lame Glace +^Eisra-Klinge^Hoja Hielo+
-MST_MATERIA_NAME_504101410^HP Stroll^移動恢復^걸으면 HP 회복^Regain de PV^LP-Generator^VIT al andar
-MST_MATERIA_NAME_504216360^Loyal Warrior^忠義的武人^충의의 무인^Guerrier loyal^Loyaler Krieger^Guerrero leal
-MST_MATERIA_NAME_504216370^Cold Defense^寒冰防禦^콜드 디펜스^Défense gelée^Kalte Verteidigung^Defensa gélida
-MST_MATERIA_NAME_504216380^Thunder Defense^閃電防禦^선더 디펜스^Défense électrique^Donnerverteidigung^Defensa fulminosa
-MST_MATERIA_NAME_504216400^Fire Resistance +15%^火屬性耐性+15%^불속성 저항력+15%^Rés. au feu +15%^Feuerresistenz +15%^Resistencia al fuego +15%
-MST_MATERIA_NAME_504216520^Dragoon's Pride^龍騎士的驕傲^용기사의 긍지^Orgueil de dragonnier^Drachenstolz^Orgullo dragontino
-MST_MATERIA_NAME_504216730^Barrier Master^魔壁操縱者^마법 장벽의 마스터^Maître de la barrière^Barrieremeister^Maestro de las barreras
-MST_MATERIA_NAME_504216900^Null Disease^生病無效^질병 무효^Annuler maladie^Virus-Annullierung^Anular enfermedad
-MST_MATERIA_NAME_504217350^Black Impulse^漆黑衝動^검은 충동^Impulsion noire^Schwarzer Impuls^Impulso oscuro
-MST_MATERIA_NAME_504217610^Frozen Hurricane^冰凍颶風^프로즌 허리케인^Ouragan gelé^Eisiger Sturmwind^Huracán gélido
-MST_MATERIA_NAME_504217630^Spirit^精神力^스피릿^Esprit^Geist^Espíritu
-MST_MATERIA_NAME_504217640^Girder^棟樑^대들보^Poutre^Träger^Piel de acero
-MST_MATERIA_NAME_504200630^Thundara Blade^中雷電劍^선더라 검^Lame Foudre +^Blitzra-Klinge^Hoja Electro+
-MST_MATERIA_NAME_504217650^Hat Arts^帽子秘義^모자의 비법^Chapeau secret^Geheimkappe^Sombrero secreto
-MST_MATERIA_NAME_504216040^Light Resistance +20%^光屬性耐性+20%^빛속성 저항력+20%^Rés. à la lumière +20%^Lichtresistenz +20%^Resistencia a la luz +20%
-MST_MATERIA_NAME_504215170^Petrification Resistance^石化無效^석화 무효^Rés. à la pétrification^Versteinerungsresistenz^Anular piedra
-MST_MATERIA_NAME_504217950^Broadminded^豪放磊落^호방뇌락^Ouverture d'esprit^Weitherzig^Tolerancia
-MST_MATERIA_NAME_504218380^Freezing Spirit^蒼紅之魂^창홍의 영혼^Esprit congelé^Eisiger Geist^Espíritu glacial
-MST_MATERIA_NAME_504218390^Strategist's Ingenuity^軍師知略^참모의 지략^Ingéniosité de stratège^Strategisches Genie^Ingenuidad estratégica
-MST_MATERIA_NAME_504218860^Mechanical Heart^機械裝置之心^기계장치의 마음^Cœur mécanique^Mechanisches Herz^Corazón mecánico
-MST_MATERIA_NAME_504218870^Vengeful Wrath^憎惡^증오^Colère vengeresse^Rachsüchtiger Zorn^Ira de venganza
-MST_MATERIA_NAME_504219080^Yevon's Wisdom^耶朋的教誨^에본의 가르침^Sagesse de Yevon^Yevons Weisheit^Sabiduría de Yevon
-MST_MATERIA_NAME_504219220^Power of Purification^淨化之力^정화의 힘^Pouvoir de purification^Macht der Läuterung^Poder purificador
-MST_MATERIA_NAME_504219230^Art of Purification^淨化之術^정화의 기술^Art de purification^Kunst der Läuterung^Arte purificador
-MST_MATERIA_NAME_504219240^Ice Resistance +20%^冰屬性耐性+20%^얼음속성 저항력+20%^Rés. À la glace +20%^Eisresistenz +20%^Resistencia al hielo +20%
-MST_MATERIA_NAME_504219250^Cradle of Horns^犄角搖籃^뿔의 요람^Berceau de cornes^Wiege der Hörner^Cuna de cuernos
-MST_MATERIA_NAME_504219260^L Shield Arts^輕盾秘義^가벼운 방패의 비의^Bouclier léger secret^Geheimes L-Schild^Escudo L secreto
-MST_MATERIA_NAME_504219270^Dual Wield+^雙刀流改^개량형 이도류^Deux armes +^Zweihänder+^Dos manos+
-MST_MATERIA_NAME_504219820^Uncollapsing Will^無潰鬥志^꺾이지 않는 투지^Volonté inébranlable^Standhafter Wille^Voluntad inquebrantable
-MST_MATERIA_NAME_504219880^Hammersmith^鐵匠^망치 대장장이^Fabricant de marteaux^Hammerschmied^Forjador de martillos
-MST_MATERIA_NAME_504213200^Silence Resistance^沉默無效^침묵 무효^Rés. au silence^Stille-Widerstand^Resistencia al silencio
-MST_MATERIA_NAME_504219890^Sage of Mysidia^密西迪亞的賢者^미시디아의 현자^Sage de Mysidia^Weiser von Mysidia^Sabio de Mysidia
-MST_MATERIA_NAME_504219910^Man-Eater+^食人改^개량형 인간 킬러^Tueur +^Menschenfresser+^Comehombres+
-MST_MATERIA_NAME_1500000020^Resentment^憤慨^분개^Ressentiment^Missgunst^Resentimiento
-MST_MATERIA_NAME_1500000021^Regenerator^再生者^개혁자^Régénérateur^Regenerator^Regenerador
-MST_MATERIA_NAME_1500000022^Reactive Defense^活性防護^능동 방어^Défense réactive^Reaktive Verteidigung^Defensa reactiva
-MST_MATERIA_NAME_1500000019^Malboro's Whisper^毛爾波爾細語^몰볼의 속삭임^Murmure de Morbol^Morbols Flüstern^Susurro de molbol
-MST_MATERIA_NAME_1500000025^Rhythmic Flair^節奏感^리드미컬 플레어^Style rythmique^Rhythmisches Flair^Aptitud rítmica
-MST_MATERIA_NAME_1500000023^Casanova^風流浪子^카사노바^Casanova^Casanova^Casanova
-MST_MATERIA_NAME_1500000024^Water Maiden Blessing^水之巫女^물의 무녀^Prêtresse d'eau^Wassermaid^Doncella del agua
-MST_MATERIA_NAME_1500000030^Codex of Sword Master^劍法秘笈^검호의 비급^Codex du maître épéiste^Kodex der Schwertkunst^Códice del espadachín
-MST_MATERIA_NAME_1500000026^Full Moon^滿月^만월^Pleine lune^Vollmond^Luna llena
-MST_MATERIA_NAME_1500000027^Blighted Despot^旱災獨裁者^오염된 폭군^Tyran infect^Verderbter Despot^Despoinfecto
-MST_MATERIA_NAME_1500000028^Drowned King^洪災之王^익사한 왕^Monarque noyé^Ertrunkener König^Rey ahogado
-MST_MATERIA_NAME_1500000029^Lunarian's Hate^月之民的憎恨^달의 주민의 증오^Haine de Sélénite^Hass der Lunarier^Ira lunaria
-MST_MATERIA_NAME_1500000031^Barbariccia's Spirit^巴爾巴莉希亞之魂^발바리시아의 영혼^Esprit de Barbariccia^Barbarizias Seele^Espíritu de Barbariccia
-MST_MATERIA_NAME_504020270^Graviga^強重力^그라비가^Gravité X^Graviga^Gravedad++
-MST_MATERIA_NAME_504218970^True Shard of Genius^真・睿智的結晶^진·예지의 결정^Éclat de génie X^Wahrer Splitter des Genies^Fragmento de ingenio+
-MST_MATERIA_NAME_504218980^True Follower's Oath^真・追隨者的誓言^진·맹주에게 바치는 맹세^Serment du serviteur X^Wahrer Schwur des Anhängers^Voto del servidor+
-MST_MATERIA_NAME_504218990^True Hydaelyn Guard^真・海德林的加護^진·하이델린의 가호^Protection d'Hydaelyn X^Wahre Hydaelynische Wache^Guarda de Hydaelyn+
-MST_MATERIA_NAME_504219000^True Spirit of Freedom^真・不羈的氣焰^진·불기의 기염^Esprit de liberté X^Wahrer Geist der Freiheit^Espíritu libre+
-MST_MATERIA_NAME_504219010^True Sage's Prajna^真・賢人的智慧^진·현자의 지혜^Prajna du sage X^Wahres Prajna des Weisen^Prajna del sabio+
-MST_MATERIA_NAME_504010380^Refresh^精神振奮^리프레쉬^Recharge^Heilaura^Restauración
-MST_MATERIA_NAME_504219930^Yohtoh Lore^妖刀的知識^요도 지식^Savoir de Yohtoh^Yohtohkunde^Conocimiento Yohtoh
-MST_MATERIA_NAME_504219940^Heavy Chimera^重型奇美拉^헤비 키마이라^Khimaira lourde^Schwere Chimäre^Quimera pesada
-MST_MATERIA_NAME_504219950^Anti-Disaster^反災禍^방재술^Antidésastre^Schadensbegrenzung^Antidesastre
-MST_MATERIA_NAME_504220140^Battler^戰鬥酒鬼^악전고투^Combattant^Raufbold^Combatiente
-MST_MATERIA_NAME_504220280^Beast's Heart^獸人的心^수인의 마음^Cœur de la bête^Herz des Bestienmenschen^Corazón de la bestia
-MST_MATERIA_NAME_504220290^Half-elf's Heart^混血精靈的心^하프엘프의 마음^Cœur de semielfe^Herz des Halbelfen^Corazón de semielfo
-MST_MATERIA_NAME_504220270^Knight of Gemma^傑馬騎士^제마의 기사^Chevalier Gemma^Gemma-Ritter^Caballero de Gemma
-MST_MATERIA_NAME_504220620^Brawn^頑強^굴강^Force musculaire^Stämmig^Fuerzudo
-MST_MATERIA_NAME_504220630^Intrique^戰術^술책^Intrigue^List^Intriga
-MST_MATERIA_NAME_504100020^HP +20%^HP+20%^HP+20%^PV +20%^LP +20%^VIT +20%
-MST_MATERIA_NAME_504220650^Wind Resistance +20%^風屬性耐性+20%^바람속성 저항력+20%^Résistance au vent +20%^Windresistenz +20%^Res. al viento +20%
-MST_MATERIA_NAME_504220660^Great Mage's Aura^大魔道士的詠唱法^대마도사의 영창법^Aura de grand mage^Aura des Großmagiers^Aura de archimago
-MST_MATERIA_NAME_504220680^Nature Loving Spellblade^熱愛自然的魔法劍士^자연을 사랑하는 마법검사^Magilame fan de la nature^Naturliebender Schwertmagier^Espadachín naturista
-MST_MATERIA_NAME_504221550^Mood Maker^開心果^분위기 메이커^Esprit de la fête^Stimmungsmacher^Alma de la fiesta
-MST_MATERIA_NAME_504221560^H Armor Arts^重鎧的秘義^중갑의 비의^Secret d'amure L^Schwere Rüstungs-Künste^Secretos de armadura P
-MST_MATERIA_NAME_504221570^Calamity Border^災禍邊緣^재앙의 경계선^Frontière calamiteuse^Unheilsgrenze^Borde calamitoso
-MST_MATERIA_NAME_504221580^Callous Stategist^殘酷的謀略家^비정한 책략가^Stratège insensible ^Ruchloser Stratege^Estratega despiadado
-MST_MATERIA_NAME_504221590^Imperial Talent^賢帝的修養^현제의 소양^Talent impérial^Kaiserliche Kenntnisse^Talento de emperador
-MST_MATERIA_NAME_504221600^Spirit Fighter^精神戰士^영혼의 전사^Combattant des esprits^Geistkämpfer^Luchador de espíritus
-MST_MATERIA_NAME_504221610^Spirit Magician^精神魔術師^영혼의 마법사^Magicien des esprits^Geistmagier^Hechizador de espíritus
-MST_MATERIA_NAME_504221620^Auto-Bravery^自動勇氣^자동 브레이브^Auto-Bravoure^Auto-Courage^AutoBravura
-MST_MATERIA_NAME_504221630^Auto-Faith^自動信念^자동페이스^Auto-foi^Auto-Ener^AutoFé
-MST_MATERIA_NAME_504221640^Earth Resistance +20%^土屬性耐性+20%^땅속성 저항력+20%^Rés. à la terre +20%^Erdresistenz +20%^Res. a la tierra +20%
-MST_MATERIA_NAME_504222860^Chosen One^被選中的人^선택받은 자^Élu^Auserwählter^Elegido
-MST_MATERIA_NAME_504222870^Shadow Bearer^影之肩負者^그림자를 짊어지는 자^Porteur des ténèbres^Strippenzieher^Portador de la sombra
-MST_MATERIA_NAME_504221650^Agnès' Crystalguard Captain^艾尼亞絲大人救援隊隊長^아니에스 님 구출대 대장^Capitaine de la garde d'Agnès^Agnes' Kristallwächter-Kapitän^Capitán de la guardia de Agnès
-MST_MATERIA_NAME_504221660^Fragment of Thought^思念的碎片^마음의 조각^Fragment de souvenir^Gedankenfragment^Fragmento de la memoria
-MST_MATERIA_NAME_504221670^Equip Helm^頭盔裝備^투구 장착^Heaume^Helm ausrüsten^Equipar yelmos
-MST_MATERIA_NAME_504221680^Pure-bred Summoner^純血的召喚士^순수 혈통의 소환사^Invocateur pur souche^Reinblütiger Beschwörer^Invocadora de pura cepa
-MST_MATERIA_NAME_504221690^Monk's Enlightenment^武僧的領悟^몽크의 깨달음^Illumination de moine^Erleuchtung des Mönchs^Iluminación del monje
-MST_MATERIA_NAME_504221700^Attack - Castle Warfare^攻·城內戰的知識^공·성내전 지식^Attaque - Combat au château^Schlosskampf-Kenntnisse: Angriff^Ataque - Batalla en el castillo
-MST_MATERIA_NAME_504221710^Magic - Castle Warfare^魔·城內戰的知識^마·성내전 지식^Magie - Combat au château^Schlosskampf-Kenntnisse: Magie^Magia - Batalla en el castillo
-MST_MATERIA_NAME_504221720^Mental Clarity^平靜的心^차분한 정신^Clarté mentale^Geistige Klarheit^Claridad mental
-MST_MATERIA_NAME_504221730^Lion's Awakening^獅子的覺醒^사자의 각성^Éveil du lion^Der Löwe erwacht^Despertar del león
-MST_MATERIA_NAME_504221740^Sleep^陷入沉睡^잠들다^Sommeil^Schlafe sanft^Dormir
-MST_MATERIA_NAME_504223800^Dark Resistance +20%^暗屬性耐性+20%^어둠속성 저항력+20%^Rés. aux ténèbres +20%^Dunkelresistenz +20%^Res. a la oscuridad +20%
-MST_MATERIA_NAME_504010100^Raise^復活^레이즈^Vie^Erhöhung^Lázaro
-MST_MATERIA_NAME_504213980^Dual White Magic^W白魔法^W백마법^Double magie blanche^Doppelmagie Weiß^Magia blanca doble
-MST_MATERIA_NAME_504223810^EVO MAG +15%^召喚魔法+15%^소환마법+15%^MAG INVO +15%^BSW MAG + 15 %^MAG INV +15%
-MST_MATERIA_NAME_504223820^Kappower^河童之力^캇파워^Kappuissant^Kappower^Kappoder
-MST_MATERIA_NAME_504224170^Axe Professional^專家·斧^프로페셔널·도끼^Pro de la hache^Axtprofi^Profesional del hacha
-MST_MATERIA_NAME_504224190^Hungry Wolf^餓狼再起^아랑재기^Loup affamé^Hungriger Wolf^Lobo hambriento
-MST_MATERIA_NAME_504224490^Quintessence^第五元素^퀸테상스^Quintessence^Quintessenz^Quintaesencia
-MST_MATERIA_NAME_504224840^Barrier Mage's Oath^壁魔道士的誓言^장벽마도사의 맹세^Serment de mage spé. barrière^Schwur des Barrierenmagiers^Juramento del invocabarreras
-MST_MATERIA_NAME_504224860^Thunderous Desire^避雷的期望^피뢰 희구^Évasion tonitruante^Blitzableiter^Evasión del trueno
-MST_MATERIA_NAME_504224870^Destructive Desire^破暗的期望^파암 희구^Désir de destruction ^Schattenzerschmetterer^Deseo de destrucción
-MST_MATERIA_NAME_504224900^Bomb Spirit^炸彈魂^봄의 혼령^Esprit de bombo^Bombergeist^Espíritu de bom
-MST_MATERIA_NAME_504224910^Bomb Arms^炸彈臂^봄의 무기^Bras de bombo^Bomberwaffen^Brazos de bom
-MST_MATERIA_NAME_504213160^Fire Resistance +20%^火屬性耐性+20%^불속성 저항력+20%^Rés. au feu +20%^Feuerresistenz +20%^Resistencia al fuego +20%
-MST_MATERIA_NAME_504224920^Equip Sword^劍裝備^검 장착^Épée^Schwert ausrüsten^Equipar espada
-MST_MATERIA_NAME_504224930^Modish Witch^時尚女巫^세련된 마녀^Sorcière à la mode^Modische Hexe^Bruja a la moda
-MST_MATERIA_NAME_504225930^Necropolis^墓園^네크로폴리스^Nécropole^Nekropolis^Necrópolis
-MST_MATERIA_NAME_504225720^Fortune Baby^幸運兒^포츈 베이비^Bébé chanceux^Glücksbaby^Criatura afortunada
-MST_MATERIA_NAME_504225890^Vigorous Build^質樸剛健^질실강건^Construction vigoureuse^Voller Elan^Constitución vigorosa
-MST_MATERIA_NAME_504213170^Water Resistance +20%^水屬性耐性+20%^물속성 저항력+20%^Rés. à l'eau +15%^Wasserresistenz +20%^Resistencia al agua +20%
-MST_MATERIA_NAME_504226050^Mage's Hope^魔道士的祈願^마도사의 소망^Espoir de mage^Wunsch des Ritters^Esperanza de caballero
-MST_MATERIA_NAME_504226041^Knight's Hope^騎士的祈願^기사의 소망^Espoir de chevalier^Wunsch des Magiers^Esperanza de mago
-MST_MATERIA_NAME_504226031^Ruling Fiend^裁決的惡魔^재정의 악마^Monstre dirigeant^Urteilssprechender Dämon^Fiera reinante
-MST_MATERIA_NAME_504226380^Hero's Vow - Darkness^英雄誓言·暗^영웅의 맹세·어둠^Vœu du héros - Ténèbres^Heldenschwur - Dunkel^Voto del héroe - Oscuridad
-MST_MATERIA_NAME_1500000032^Cheerful Tune^輕快旋律^경쾌한 선율^Air enjoué^Fröhliche Melodie^Tono alegre
-MST_MATERIA_NAME_1500000033^Instrumental Flair^樂器天賦^연주자의 자질^Style instrumental^Instrumentales Flair^Estilo instrumental
-MST_MATERIA_NAME_1500000034^Magic Sanctuary^魔法聖殿^마법 성역^Sanctuaire magique^Magischer Zufluchtsort^Santuario mágico
-MST_MATERIA_NAME_1500000035^Joyful Spirit^喜悅之心^기쁨의 마음^Esprit de la joie^Fröhlicher Geist^Espíritu alegre
-MST_MATERIA_NAME_1500000036^Turbulent Evasion^湍流避閃^터뷸런트 이베이전^Évasion agressive^Turbulente Flucht^Evasión turbulenta
-MST_MATERIA_NAME_1500000037^Cowered Courage^懦夫的勇氣^소심한 용기^Courage relatif^Feiger Mut^Coraje estremecido
-MST_MATERIA_NAME_1500000038^Unmatched Wizardry^獨一魔道師^언매치드 위저드리^Sorcellerie implacable^Unerreichte Zauberei^Hechicería incontestable
-MST_MATERIA_NAME_1500000039^White Knight's Soul^白騎士之魂^백기사의 영혼^Âme de chevalier blanc^Seele des Weißen Ritters^Alma del caballero blanco
+MST_MATERIA_NAME_504010010^Libra^窺伺探測^라이브라^Acuité^Analyse^Libra^
+MST_MATERIA_NAME_504010020^Cure^療傷^케알^Soin^Vita^Cura^
+MST_MATERIA_NAME_504010030^Blindna^復明^블라나^Vision^Lux^Luz^
+MST_MATERIA_NAME_504010040^Vox^解咒^보컬^Voix^Vox^Vocal^
+MST_MATERIA_NAME_504010050^Poisona^解毒^포이즈나^Sérum^Poisona^Pura^
+MST_MATERIA_NAME_504010060^Banish^放逐^배니시^Bannissement^Verbannung^Tenue^
+MST_MATERIA_NAME_504010080^Paralyna^解麻^파라나^Mouvement^Paralyna^Paralina^
+MST_MATERIA_NAME_504010090^Stona^解石^스토나^Chair^Perseus^Relax^
+MST_MATERIA_NAME_504010110^Esuna^復原^에스나^Guérison ^Medica^Esna^
+MST_MATERIA_NAME_504010120^Regen^再生^리제네^Récup^Regena^Revitalia^
+MST_MATERIA_NAME_504010140^Cleanse^治病^리부트^Antivirus^Avir^Asepsis^
+MST_MATERIA_NAME_504010210^Holy^神聖^홀리^Sidéral^Sanctus^Sanctus^
+MST_MATERIA_NAME_504020010^Fire^火焰^파이어^Feu^Feuer^Piro^
+MST_MATERIA_NAME_504020020^Blizzard^暴雪^블리자드^Glace^Eis^Hielo^
+MST_MATERIA_NAME_504020030^Thunder^雷電^선더^Foudre^Blitz^Electro^
+MST_MATERIA_NAME_504020040^Water^流水^워터^Eau^Aqua^Aqua^
+MST_MATERIA_NAME_504020050^Aero^勁風^에어로^Vent^Aero^Aero^
+MST_MATERIA_NAME_504020060^Stone^落石^스톤^Terre^Terra^Piedra^
+MST_MATERIA_NAME_504020070^Bio^毒化^바이오^Toxine^Bio^Bio^
+MST_MATERIA_NAME_504020080^Fira^中火焰^파이라^Feu +^Feura^Piro+^
+MST_MATERIA_NAME_504020090^Blizzara^中暴雪^블리자라^Glace +^Eisra^Hielo+^
+MST_MATERIA_NAME_504020100^Thundara^中雷電^선더라^Foudre +^Blitzra^Electro+^
+MST_MATERIA_NAME_504020110^Watera^中流水^워터라^Eau +^Aquara^Aqua+^
+MST_MATERIA_NAME_504020120^Aerora^中勁風^에어로라^Vent +^Aerora^Aero+^
+MST_MATERIA_NAME_504020130^Stonra^中落石^스톤라^Terre +^Terrara^Piedra+^
+MST_MATERIA_NAME_504020150^Gravity^重力^그라비데^Gravité^Gravitas^Gravedad^
+MST_MATERIA_NAME_504020160^Drain^吸血^드레인^Saignée^Subvita^Drenaje^
+MST_MATERIA_NAME_504020180^Biora^猛毒化^바이오라^Toxine +^Biora^Bio+^
+MST_MATERIA_NAME_504020200^Firaga^大火焰^파이가^Feu X^Feuga^Piro++^
+MST_MATERIA_NAME_504020210^Blizzaga^大暴雪^블리자가^Glace X^Eisga^Hielo++^
+MST_MATERIA_NAME_504020220^Thundaga^大雷電^선더가^Foudre X^Blitzga^Electro++^
+MST_MATERIA_NAME_504020350^Flare^核爆^플레어^Brasier^Flamme^Fulgor^
+MST_MATERIA_NAME_504020440^Ultima^究極^알테마^Ultima^Ultima^Artema^
+MST_MATERIA_NAME_504030010^Sleep^催眠^슬리플^Sommeil^Schlaf^Morfeo^
+MST_MATERIA_NAME_504030020^Blind^盲目^블라인^Cécité^Blind^Tiniebla^
+MST_MATERIA_NAME_504030030^Barfire^抗火^바파이^Anti-Feu^Exfeu^AntiFuego^
+MST_MATERIA_NAME_504030040^Barblizzard^抗冰^바블리자^Anti-Glace^Exeis^AntiFrío^
+MST_MATERIA_NAME_504030050^Barthunder^抗雷^바선더^Anti-Foudre^Exblitz^AntiRayo^
+MST_MATERIA_NAME_504030060^Barwater^抗水^바워터^Anti-Eau^Exaqua^AntiAgua^
+MST_MATERIA_NAME_504030070^Baraero^抗風^바에어로^Anti-Vent^Exaero^AntiAero^
+MST_MATERIA_NAME_504030080^Barstone^抗土^바스톤^Anti-Terre^Exterra^AntiPiedra^
+MST_MATERIA_NAME_504030100^Silence^沉默^사일런스^Silence^Stille^Silencio^
+MST_MATERIA_NAME_504030110^Barfira^全抗火^바파이라^Anti-Feu +^Exfeura^AntiFuego+^
+MST_MATERIA_NAME_504030120^Barblizzara^全抗冰^바블리자라^Anti-Glace +^Exeisra^AntiFrío+^
+MST_MATERIA_NAME_504030130^Barthundara^全抗雷^바선더라^Anti-Foudre +^Exblitzra^AntiElectro+^
+MST_MATERIA_NAME_504030140^Shell^魔防護^셸^Barrière^Vallum^Escudo^
+MST_MATERIA_NAME_504030150^Deprotect^弱守^디프로테^Retire-Bouclier^Deprotes^AntiCoraza^
+MST_MATERIA_NAME_504030160^Deshell^弱心^디셸^Retire-Barrière ^Devall^AntiEscudo^
+MST_MATERIA_NAME_504030170^Barwatera^全抗水^바워터라^Anti-Eau +^Exaquara^AntiAgua+^
+MST_MATERIA_NAME_504030180^Baraerora^全抗風^바에어로라^Anti-Vent +^Exaerora^AntiAero+^
+MST_MATERIA_NAME_504030190^Barstonra^全抗土^바스톤라^Anti-Terre +^Exterrara^AntiPiedra+^
+MST_MATERIA_NAME_504100010^HP +10%^HP+10%^HP+10%^PV +10%^LP + 10 %^VIT +10%^
+MST_MATERIA_NAME_504100040^MP +10%^MP+10%^MP+10%^PM +10%^MP + 10 %^PM +10%^
+MST_MATERIA_NAME_504100050^MP +20%^MP+20%^MP+20%^PM +20%^MP + 20 %^PM +20%^
+MST_MATERIA_NAME_504100070^ATK +10%^攻擊+10%^공격력+10%^ATT +10%^ANG + 10 %^ATQ +10%^
+MST_MATERIA_NAME_504100080^ATK +20%^攻擊+20%^공격력+20%^ATT +20%^ANG + 20 %^ATQ +20%^
+MST_MATERIA_NAME_504100120^MAG +30%^魔力+30%^마력+30%^MAGIE +30%^MAG + 30 %^MAG +30%^
+MST_MATERIA_NAME_504100750^Auto-Limit^自動極限^자동 리미트^Auto-Limite^Auto-Limit^AutoLímite^
+MST_MATERIA_NAME_504100760^Equip S Sword^裝備短劍^단검 장착^Épée courte^Kurzschw. benutzen^Equipar espada C^
+MST_MATERIA_NAME_504100780^Equip L Sword^裝備大劍^대검 장착^Épée longue^Langschw. benutzen^Equipar espada G^
+MST_MATERIA_NAME_504100800^Equip Staff^裝備手杖^지팡이 장착^Bâton^Stab benutzen^Equipar bastón^
+MST_MATERIA_NAME_504100940^Equip H Armor^裝備重鎧甲^중갑 장착^Armure lourde^Schwere Rstg. benutzen^Equipar armadura P^
+MST_MATERIA_NAME_504101010^Stone Killer^碎石^돌 킬러^Tue-pierre^Herz aus Stein^Matapétreos^
+MST_MATERIA_NAME_504101030^Machine Killer^破械^기계 킬러^Tue-machines ^Getriebesand^Matamáquinas^
+MST_MATERIA_NAME_504101050^Dragon Killer^屠龍^드래곤 킬러^Tue-dragons^Drachentöter^Matadragones^
+MST_MATERIA_NAME_504101110^Aquan Killer^枯水^수중생물 킬러^Tue-aqua^Aquankiller^Mataacuáticos^
+MST_MATERIA_NAME_504101170^Cover^袒護^감싸기^Couvrir^Bodyguard^Protección^
+MST_MATERIA_NAME_504101200^Counter^反擊^맞받아치기^Contre-attaque^Konter^Contraataque^
+MST_MATERIA_NAME_504101230^Evade^空手接白刃^칼날 잡기^Esquive^Ausweichen^Evasión^
+MST_MATERIA_NAME_504101350^Camouflage^隱蔽身形^위장^Camouflage^Camouflage^Camuflaje^
+MST_MATERIA_NAME_504101360^Doublehand^雙手持^양손 들기^Deux mains ^Doppelhand^Manodoble^
+MST_MATERIA_NAME_504101370^Dual Wield^雙刀流^이도류^Deux armes^Zweihänder^Dos manos^
+MST_MATERIA_NAME_504200010^Steal^盜取^훔치기^Voler^Stehlen^Robar^
+MST_MATERIA_NAME_504200030^Pilfer^盜財^슬쩍하기^Chaparder^Einheimsen^Birlar^
+MST_MATERIA_NAME_504200090^Drink^飲用^마시기^Automédication^Trinken^Beber^
+MST_MATERIA_NAME_504200120^Brace^忍耐^견디기^Endurance^Trotzen^Aguante^
+MST_MATERIA_NAME_504200180^Throw^投擲^던지기^Lancer^Werfen^Lanzar^
+MST_MATERIA_NAME_504200210^Store^凝氣^모으기^Accumulation^Geduldsprobe^Acumulación^
+MST_MATERIA_NAME_504200230^Raging Fist^爆裂拳^폭렬권^Poing foudroyant^Faustwirbel^Puños de ira^
+MST_MATERIA_NAME_504200250^Escape^遁逃^줄행랑^Décamper^Fliehen^Escapar^
+MST_MATERIA_NAME_504200310^Barrage^亂擊^난사^Pluie de coups^Sperrfeuer^Ráfaga^
+MST_MATERIA_NAME_504200320^Mirror of Equity^明鏡^잔잔한 거울^Sérénité^Kata^Tranquilidad^
+MST_MATERIA_NAME_504200390^Aim^狙擊^노리기^Viser^Zielen^Afinar puntería^
+MST_MATERIA_NAME_504200440^Bladeblitz^全斬^전방위 베기^Lame éclair^Klingenblitz^Relámpago de acero^
+MST_MATERIA_NAME_504200510^Fire Blade^火焰劍^파이어 검^Lame Feu^Feuer-Klinge^Hoja Piro^
+MST_MATERIA_NAME_504200520^Blizzard Blade^暴雪劍^블리자드 검^Lame Glace^Eis-Klinge^Hoja Hielo^
+MST_MATERIA_NAME_504200550^Silence Blade^沉默劍^사일런스 검^Lame Silence^Stille-Klinge^Hoja Mutis^
+MST_MATERIA_NAME_504200560^Water Blade^流水劍^워터 검^Lame Eau^Aqua-Klinge^Hoja Aqua^
+MST_MATERIA_NAME_504200580^Stone Blade^落石劍^스톤 검^Lame Terre^Terra-Klinge^Hoja Piedra^
+MST_MATERIA_NAME_504200590^Blind Blade^盲目劍^블라인 검^Lame Cécité^Blend-Klinge^Hoja Tiniebla^
+MST_MATERIA_NAME_504200600^Bio Blade^毒化劍^바이오 검^Lame Toxine^Bio-Klinge^Hoja Bio^
+MST_MATERIA_NAME_504200670^Drain Blade^吸血劍^드레인 검^Lame Saignée^Subvita-Klinge^Hoja Drenaje^
+MST_MATERIA_NAME_504200720^Thundaga Blade^大雷電劍^선더가 검^Lame Foudre X^Blitzga-Klinge^Hoja Electro++^
+MST_MATERIA_NAME_504200760^Bioga Blade^劇毒化劍^바이오가 검^Lame Toxine X^Bioga-Klinge^Hoja Bio++^
+MST_MATERIA_NAME_504200800^Magic Infuse^魔合擊^마법 연계^Sortilège ténébreux^Schattenfusion^Infundir magia^
+MST_MATERIA_NAME_504200810^Lullaby^搖籃曲^자장가^Berceuse^Wiegenlied^Nana^
+MST_MATERIA_NAME_504200850^Paean^治癒之歌^치유의 노래^Péan^Paian^Panegírico^
+MST_MATERIA_NAME_504201160^Mental Break^潰心^멘탈 브레이크^Déprime^Geistbrecher^Rompeespíritu^
+MST_MATERIA_NAME_504201190^Silence Dance^沉默舞蹈^침묵의 춤^Danse du silence^Stiller Tanz^Baile del silencio^
+MST_MATERIA_NAME_504201260^Fire Beam^火焰射線^파이어 광선^Rayon brûlant^Feuerstrahl^Rayo Piro^
+MST_MATERIA_NAME_504201280^Blizzard Beam^暴雪射線^블리자 광선^Rayon gelant^Eisstrahl^Rayo Hielo^
+MST_MATERIA_NAME_504201320^Bio Blaster^毒化射線^바이오 블래스터^Nuage toxique^Bioblaster^Onda Bío^
+MST_MATERIA_NAME_504201340^Power Shot^力量射擊^강력 사격^Tir puissant^Kraftschuss^Tiro poderoso^
+MST_MATERIA_NAME_504201430^Sunbeam^強光照射器^태양 광선^Rayon solaire^Solarstrahl^Rayo de sol^
+MST_MATERIA_NAME_504020430^Meteor^隕石^메테오^Météore^Meteo^Meteo^
+MST_MATERIA_NAME_504020170^Comet^彗星^코멧^Comète^Komet^Cometa^
+MST_MATERIA_NAME_504030090^Protect^物防護^프로테스^Bouclier^Protes^Coraza^
+MST_MATERIA_NAME_504100160^SPR +10%^精神+10%^정신력+10%^PSY +10%^PSY + 10 %^ESP +10%^
+MST_MATERIA_NAME_504101020^Bug Killer^殺蟲^벌레 킬러^Tue-insectes^Pestizid^Matabichos^
+MST_MATERIA_NAME_504010070^Cura^中療傷^케알라^Soin +^Vitra^Cura+^
+MST_MATERIA_NAME_504100130^DEF +10%^防禦+10%^방어력+10%^DÉF +10%^ABW + 10 %^DEF +10%^
+MST_MATERIA_NAME_504100820^Equip Bow^裝備弓^활 장착^Arc et flèches^Bogen benutzen^Equipar arco^
+MST_MATERIA_NAME_10220^Reflect Test^反射測試^리플렉트 테스트^Test miroir^Reflektest^Prueba de espejo^
+MST_MATERIA_NAME_504030210^Bravery^勇氣^브레이브^Bravoure^Courage^Bravura^
+MST_MATERIA_NAME_504100090^ATK +30%^攻擊+30%^공격력+30%^ATT +30%^ANG + 30 %^ATQ +30%^
+MST_MATERIA_NAME_504100100^MAG +10%^魔力+10%^마력+10%^MAGIE +10%^MAG + 10 %^MAG +10%^
+MST_MATERIA_NAME_504100060^MP +30%^MP+30%^MP+30%^PM +30%^MP + 30 %^PM +30%^
+MST_MATERIA_NAME_504200770^Holy Blade^神聖劍^홀리 검^SidéLame^Sanctusklinge^Hoja Sanctus^
+MST_MATERIA_NAME_504201670^Katana Mastery^刀之奧義^도의 비법^Maîtrise des lames^Katanameister^Maestría de katana^
+MST_MATERIA_NAME_504201680^Light's Blessing^光之加護^빛의 가호^Grâce de la lumière^Lichtsegen^Bendición de luz^
+MST_MATERIA_NAME_504010130^Dispel^驅魔^디스펠^Dissipation^Bann^Antimagia^
+MST_MATERIA_NAME_504030220^Faith^信念^페이스^Foi^Ener^Fe^
+MST_MATERIA_NAME_504100030^HP +30%^HP+30%^HP+30%^PV +30%^LP + 30 %^VIT +30%^
+MST_MATERIA_NAME_504100830^Equip Axe^裝備斧^도끼 장착^Hache^Axt ausrüsten^Equipar hacha^
+MST_MATERIA_NAME_504100960^Equip Hat^裝備帽子^모자 장착^Chapeau^Hut ausrüsten^Equipar sombrero^
+MST_MATERIA_NAME_504101100^Spirit Slayer^荼靈^정령 킬러^Tue-esprit^Geisttöter^Mataespíritus^
+MST_MATERIA_NAME_504101500^HP +15%^HP+15%^HP+15%^PV +15%^LP + 15 %^VIT +15%^
+MST_MATERIA_NAME_504200540^Sleep Blade^催眠劍^슬리플 검^Lame Sommeil^Schlaf-Klinge^Hoja sedante^
+MST_MATERIA_NAME_504200570^Aero Blade^勁風劍^에어로 검^Lame Vent^Aero-Klinge^Hoja Aero^
+MST_MATERIA_NAME_504200660^Stonra Blade^中落石劍^스톤라 검^Lame Terre +^Terrara-Klinge^Hoja Piedra+^
+MST_MATERIA_NAME_504201750^Melody of Life^生命的旋律^생명의 멜로디^Mélodie de la Vie^Melodie des Lebens^Melodía vital^
+MST_MATERIA_NAME_504201950^Seal of Destruction^破壞刻印^파괴의 각인^Sceau de destruction^Siegel der Zerstörung^Sello de destrucción^
+MST_MATERIA_NAME_504201960^Seal of Protection^守護刻印^수호의 각인^Sceau de protection^Siegel des Schutzes^Sello de protección^
+MST_MATERIA_NAME_504201970^Goddess's Protection^聖女神守護^성스러운 여신의 수호^Protection de la déesse^Schutz der Göttin^Custodio de la diosa^
+MST_MATERIA_NAME_504100990^Equip H Shield^裝備重盾^무거운 방패 장착^Bouclier lourd^Schweren Schild ausrüsten^Equipar escudo P^
+MST_MATERIA_NAME_504200150^Dualcast^連續詠唱^연속 마법^Double sort^Doppelmagie^Magia doble^
+MST_MATERIA_NAME_504010150^Curada^齊療傷^케알다^Soin X^Vitaga^Cura++^
+MST_MATERIA_NAME_504100190^EVO MAG +10%^召喚魔法+10%^소환마법+10%^INV +10%^BSW MAG + 10 %^INVOCACIÓN +10%^
+MST_MATERIA_NAME_504101000^Plant Killer^燃木^식물 킬러^Tue-plante^Unkrautvernichter^Mataplantas^
+MST_MATERIA_NAME_504200640^Watera Blade^中流水劍^워터라 검^Lame Eau +^Aquara-Klinge^Hoja Aqua+^
+MST_MATERIA_NAME_504202350^Second Wind^聲援^응원가^Aile renforcée^Rückenwind^Éter^
+MST_MATERIA_NAME_504202360^Crush Armor^強甲破點突^강갑파점 찌르기^Écrase-armure^Rüstung zerschmettern^Perforacoraza^
+MST_MATERIA_NAME_504202370^Medicate^急救^치료^Salve curatrice^Verarzten^Primeras curas^
+MST_MATERIA_NAME_504202380^Stone Throw^投石^돌팔매^Jet de pierre^Steinwurf^Pedrada^
+MST_MATERIA_NAME_504100850^Equip Spear^裝備長槍^창 장착^Lance^Speer ausrüsten^Equipar lanza^
+MST_MATERIA_NAME_504202470^Thunderfall^天鳴萬雷^하늘을 울리는 천둥소리^Foudres divines^Donnerfall^Vórtice^
+MST_MATERIA_NAME_504202480^Here We Go^鬥志高昂^흥 돋우기^C'est parti !^Los geht's^¡Vamos con todo!^
+MST_MATERIA_NAME_504202490^Attacker^攻擊者^공격자^Attaquant^Angreifer^Castigador^
+MST_MATERIA_NAME_504202500^Defender^防禦者^방어자^Défenseur ^Verteidiger^Protector^
+MST_MATERIA_NAME_504202760^Sticky Fingers^接物^붙잡기^Interception ^Langfinger^Atrapar^
+MST_MATERIA_NAME_504202770^Coin Steal^盜取硬幣^동전 훔치기^Dérobe-gils^Münzen stehlen^Robamonedas^
+MST_MATERIA_NAME_504202780^Lunge Combo^貫穿連擊^돌격 콤보^Combo massif^Vorstoßkombo^Combo esgrimidor^
+MST_MATERIA_NAME_1500000000^Burst Shot^爆裂射擊^폭렬 사격^Tir critique^Salve^Tiro explosivo^
+MST_MATERIA_NAME_504100710^Auto-Protect^自動物防護^자동 프로테스^Auto-Bouclier^Auto-Protes^AutoCoraza^
+MST_MATERIA_NAME_504100810^Equip Rod^裝備魔棒^홀장 장착^Sceptres^Rute benutzen^Equipar vara^
+MST_MATERIA_NAME_504200680^Biora Blade^猛毒化劍^바이오라 검^Lame Toxine +^Biora-Klinge^Hoja Bio+^
+MST_MATERIA_NAME_504203150^Acceptance^接受之力^받는 힘^Assimilation^Akzeptanz^Aceptación^
+MST_MATERIA_NAME_504203160^Knowledge^知識之力^지식의 힘^Savoir^Wissen^Conocimiento^
+MST_MATERIA_NAME_504203170^Ignorance^無知之力^무지한 힘^Ignorance^Ignoranz^Inconsciencia^
+MST_MATERIA_NAME_504203180^Discernment^認識之力^인식하는 힘^Discernement^Erkenntnis^Observación^
+MST_MATERIA_NAME_504203190^Speed Plus^速度提昇^스피드 상승^Rapidité^Beschleunigung^Velocidad↑^
+MST_MATERIA_NAME_504203200^Twinspell^雙重魔法^트윈 매직^Sorts jumeaux^Zwillingszauber^Afán mágico^
+MST_MATERIA_NAME_504203210^Insult to Injury^昏眩終結^스턴 피니쉬^Choc fatal^Nachsetzen^Terapia de shock^
+MST_MATERIA_NAME_504203220^Cut Cards^翻牌^덱 오픈^Tirage spécial^Karte ziehen^Mano ganadora^
+MST_MATERIA_NAME_504203370^Mentality^心之所在^멘탈리티^Mental^Mentalismus^Mentalidad^
+MST_MATERIA_NAME_504203380^Letters and Arms^文武雙全^문무양도^La plume et l'épée^Feder und Schwert^Pluma y espada^
+MST_MATERIA_NAME_504203810^Mana's Protection^瑪娜的加護^마나의 가호^Égide de Mana^Beistand des Mana^Custodia de Mana^
+MST_MATERIA_NAME_504203820^Mana's Blessing^瑪娜的祝福^마나의 축복^Bénédiction de Mana^Segen des Mana^Bendición de Mana^
+MST_MATERIA_NAME_504203830^Deep Thoughts^一心一意^한결같은 마음^Pensée profonde^Mit ganzem Herzen^Ideal profundo^
+MST_MATERIA_NAME_504203840^Fairy Wisdom^妖精族的智慧^요정족의 지혜^Sagesse de lutin^Weisheit der Kobolde^Bendición de elfo^
+MST_MATERIA_NAME_504203800^Mana^瑪娜^마나^Mana^Mana^Mana^
+MST_MATERIA_NAME_504203460^Full Moon Slash^滿月斬^보름달 베기^Tranche-Lune^Vollmondhieb^Haz de luna llena^
+MST_MATERIA_NAME_504100720^Auto-Shell^自動魔防護^자동 셸^Auto-Barrière^Auto-Vallum^AutoEscudo^
+MST_MATERIA_NAME_504200690^Osmose Blade^攝魔劍^아스필 검^Lame Aspire^Osmoseklinge^Hoja Aspir^
+MST_MATERIA_NAME_504204030^Syldra's Protection^海龍的加護^해룡의 가호^Égide de Syldra^Syldras Beistand^Guarda de Syldra^
+MST_MATERIA_NAME_504204250^Wisdom^賢者之力^현명한 힘^Sagesse^Weisheit^Sabiduría^
+MST_MATERIA_NAME_504204260^Action^行動之力^행동하는 힘^Action^Aktion^Iniciativa^
+MST_MATERIA_NAME_504204270^Innocence^純真之力^순진한 힘^Innocence^Unschuld^Inocencia^
+MST_MATERIA_NAME_504204280^Tranquility^冷靜之力^냉정한 힘^Tranquillité^Gelassenheit^Tranquilidad^
+MST_MATERIA_NAME_504204290^Gate of Destiny^能量炸彈^에너지 봄^Explosion d'énergie^Tor der Bestimmung^Estallido anímico^
+MST_MATERIA_NAME_504204300^White Knight^安全防禦^세이프티 가드^Dôme protecteur^Zuflucht^Shangri-La^
+MST_MATERIA_NAME_504204310^Tempered Shield^硬化護盾^경화 방패^Bouclier résistant^Gehärteter Schild^Escudo rechapado^
+MST_MATERIA_NAME_504204320^Imperial Helm^皇國軍頭盔^제국군의 헬멧^Casque de l'Empire^Imperialer Helm^Casco imperial^
+MST_MATERIA_NAME_504203240^MP + 15%^MP+15%^MP+15%^PM +15%^MP + 15 %^PM + 15%^
+MST_MATERIA_NAME_504101600^ATK +15%^攻擊+15%^공격력+15%^ATT +15%^ANG + 15 %^ATQ +15%^
+MST_MATERIA_NAME_504204590^Dark Bond^赫斯的血脈^헤스의 핏줄^Lien obscur^Dunkle Bande^Vínculo Hess^
+MST_MATERIA_NAME_504204600^Water God's Protection^水神的加護^수신의 가호^Égide du dieu de l'Eau^Beistand des Wassergottes^Guarda de Leviatán^
+MST_MATERIA_NAME_504207510^Breaker^破壞者^브레이커^Briseur^Brecher^Rompedor^
+MST_MATERIA_NAME_504207680^Demonic Life^魔神之燃命^마신의 연명^Vie démoniaque^Dämonenleben^Vida demoniaca^
+MST_MATERIA_NAME_504207690^Destroyer's Authority^破神之威光^파괴신의 위광^Autorité du destructeur ^Zerstörische Macht^Mando del destructor^
+MST_MATERIA_NAME_504207700^Guardian's Authority^守神之威光^수호신의 위광^Autorité du gardien^Beschützende Macht^Mando del guardián^
+MST_MATERIA_NAME_504207710^Power of Creation^創造神之力^창조신의 힘^Pouvoir créateur^Macht der Schöpfung^Poder creador^
+MST_MATERIA_NAME_504207720^Dark Resistance +15%^暗屬性耐性+15%^어둠속성 저항력+15%^Rés. aux ténèbres +15%^Dunkelresistenz +15 %^Res. a oscuridad +15%^
+MST_MATERIA_NAME_1500000001^Chilling Aura^恐怖氣場^공포의 아우라^Aura effrayante^Gruselaura^Aura estremecedora^
+MST_MATERIA_NAME_1500000002^Spooky Aura^驚悚氣場^섬뜩한 아우라^Aura étrange^Spukaura^Aura atemorizadora^
+MST_MATERIA_NAME_1500000003^Seal of Destruction^破壞之刻印^파멸의 각인^Tablette de ruine ^Block des Ruins^Inscripción de la ruina^
+MST_MATERIA_NAME_504101700^MAG +15%^魔力+15%^마력+15%^MAGIE +15%^MAG + 15 %^MAG +15%^
+MST_MATERIA_NAME_504020280^Death^致死一擊^데스^Mort^Exitus^Muerte^
+MST_MATERIA_NAME_504100920^Equip Clothes^裝備衣服^옷 장비^Vêtements ^Kleidung ausrüsten^Equipar ropa^
+MST_MATERIA_NAME_504101040^Man-Eater^食人^인간 킬러^Tueur^Menschenfresser^Comehombres^
+MST_MATERIA_NAME_504101090^Bird Killer^射鳥^새 킬러^Tue-oiseaux^Papageno^Matapájaros^
+MST_MATERIA_NAME_504101120^Auto-Potion^自動治療劑^자동 포션^Auto-potion^Auto-Trank^Autopoción^
+MST_MATERIA_NAME_504201130^Power Break^潰力^파워 브레이크^Émousse ^Kraftbrecher^Rompebrazo^
+MST_MATERIA_NAME_504201140^Magic Break^潰魔^매직 브레이크^Annumagik^Magiebrecher^Rompemagia^
+MST_MATERIA_NAME_504204900^Miracle Step^奇蹟舞步^기적의 스텝^Pas miraculeux^Wunderschritt^Paso milagroso^
+MST_MATERIA_NAME_504204910^Crush Helm^星天爆擊打^성천폭격타^Écrase-casque^Helm zerschmettern^Aplasta-cascos^
+MST_MATERIA_NAME_504204920^Healing Waltz II^治癒華爾滋II^치유의 원무곡II^Valse curative+^Heilwalzer II^Vals revitalizador+^
+MST_MATERIA_NAME_504204930^Poach^秘獵^밀렵^Capturer^Pochieren^Caza furtiva^
+MST_MATERIA_NAME_504204940^First Strike^先發制人^선제 공격^Premier coup^Erstschlag^Llave^
+MST_MATERIA_NAME_504204950^Lifefont^移動HP恢復^HP 회복 이동^Restaure PV en marchant^LP Wiederherstellen - Wechsel^Recupera VIT al andar^
+MST_MATERIA_NAME_504205130^Quick Assault^高速突擊^고속 공격^Assaut véloce ^Rasche Attacke^Asalto veloz^
+MST_MATERIA_NAME_504205260^Dark Knight's Soul^黑暗騎士之魂^다크 나이트 소울^Âme de chevalier noir^Dunkelritter-Seele^Alma de lord oscuro^
+MST_MATERIA_NAME_504205350^Hill Digger^山裡長大^산골 출신^Creuse tranchée^Hügelgräber^Criado en el campo^
+MST_MATERIA_NAME_504205430^Successor^後繼者^후계자^Successeur ^Nachfolger^Sucesor^
+MST_MATERIA_NAME_504205440^Magician^魔術師^마술사^Magicien^Magier^Mago^
+MST_MATERIA_NAME_504205450^Fighter^鬥士^파이터^Combattant ^Kämpfer^Luchador^
+MST_MATERIA_NAME_504205460^Seething Cauldron^溢滿魔力^넘치는 마력^Chaudron magique^Brodelnder Kessel^Fuente de magia^
+MST_MATERIA_NAME_504205470^Swelling Power^充滿力量^차오르는 힘^Pouvoir débordant ^Anschwellende Kraft^Poder rebosante^
+MST_MATERIA_NAME_504205490^Bushido - Freedom^奧義·天下御免^오의·천하공인^Bushido - Liberté ^Bushido - Freiheit^Bushido - Libertad^
+MST_MATERIA_NAME_504205650^Champion Spirit^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504205980^Scorch^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504205880^Mighty Defense^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504206070^Instinctual Guard^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504200530^Thunder Blade^雷電劍^선더 검^Lame Foudre ^Blitz-Klinge^Hoja Electro^
+MST_MATERIA_NAME_504201150^Armor Break^潰甲^아머 브레이크^Brise-armure^Panzerbrecher^Rompecoraza^
+MST_MATERIA_NAME_504205710^Metal Slash^翻訳不要^翻訳不要^NA^NA^Golpe metálico^
+MST_MATERIA_NAME_504205990^Hustle Dance^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504205660^Wave of Panic^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504101060^Undead Killer^驅靈^언데드 킬러^Tueur de morts-vivants^Weihrauch^Matazombis^
+MST_MATERIA_NAME_504206080^Elemental Damage Down^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504206270^Emperor's Majesty^皇帝的威嚴^황제의 위엄^Majesté impériale^Würde des Imperators^Solemnidad imperial^
+MST_MATERIA_NAME_504206320^Heretic Abyss^魔道深淵^마도의 심연^Abysse hérétique^Häretischer Abgrund^Abismo hereje^
+MST_MATERIA_NAME_504206390^Resuscitate^起死回生^기사회생^Résurrection ^Wiederbeleben^De las cenizas^
+MST_MATERIA_NAME_504206630^Love^愛^사랑^Affection ^Liebe^Afecto^
+MST_MATERIA_NAME_504206680^Resolve^決斷之力^결단력^Résolution^Lösen^Resolución^
+MST_MATERIA_NAME_504206750^Persistence^執著之力^집착하는 힘^Persévérance ^Bestehen^Perseverancia^
+MST_MATERIA_NAME_504206650^Siphon Delta^攝魔力場^아스필 필드^Aspire champ^Saug-Delta^Campo Aspir^
+MST_MATERIA_NAME_504206740^Multitask^重新填彈射擊^리로드 사격^Tir véloce^Multitask^Tiro veloz^
+MST_MATERIA_NAME_504206840^Azure Helm^蒼龍風格頭盔^푸른 용의 투구^Heaume azur^Azurhelm^Yelmo azur^
+MST_MATERIA_NAME_504206850^Azure Armor^蒼龍風格鎧甲^푸른 용의 갑옷^Armure azur^Azurrüstung^Armadura azur^
+MST_MATERIA_NAME_504100740^Auto-Refresh^自動精神振奮^자동 리프레쉬^Auto-Recharge^Auto-Erfrischung^AutoRefrescar^
+MST_MATERIA_NAME_504100980^Equip L Shield^裝備輕盾^가벼운 방패 장비^Bouclier léger^Leichtes Schild ausrüsten^Equipar escudo L^
+MST_MATERIA_NAME_504207380^Mage Cannon^魔導炮擊^마도포^Canon magique ^Magiekanone^Cañón mágico^
+MST_MATERIA_NAME_504207410^Large Sword Mastery^大劍奧義^대검의 비법^Maîtrise des épées longues^Langschwert-Meister^Maestría de espada G^
+MST_MATERIA_NAME_504207770^Divine Seal^神封印^신성한 문장^Sceau divin^Göttliches Siegel^Sello divino^
+MST_MATERIA_NAME_504208090^Protection of the Twelve^十二神的守護^12신의 가호^Égide des dieux ^Schutz der Götter^Guarda de los dioses^
+MST_MATERIA_NAME_504208100^Shard of Genius^睿智的結晶^예지의 결정^Éclat de génie ^Splitter des Genies^Fragmento de ingenio^
+MST_MATERIA_NAME_504208110^Follower's Oath^追隨者的誓言^맹주에게 바치는 맹세^Serment du serviteur ^Schwur des Anhängers^Voto del servidor^
+MST_MATERIA_NAME_504208120^Hydaelyn Guard^海德林的加護^하이델린의 가호^Protection d'Hydaelyn^Hydaelynische Wache^Guarda de Hydaelyn^
+MST_MATERIA_NAME_504101080^Beast Killer^亡獸^야수 킬러^Tue-bêtes^Bestientöter^Matabestias^
+MST_MATERIA_NAME_504208480^Returner^回歸者^리터너^Résistant^Rückkehrer^Replicante^
+MST_MATERIA_NAME_504208490^Warrior Mage^魔導戰士^마도전사^Mage guerrier^Kriegsmagier^Mago guerrero^
+MST_MATERIA_NAME_504208500^Toxic Rain^暴風酸性雨^산성 폭풍우^Pluie toxique^Giftregen^Lluvia tóxica^
+MST_MATERIA_NAME_504208510^Rod Mastery^魔棒奧義^홀장의 비법^Maîtrise des sceptres^Stabmeister^Maestría de varas^
+MST_MATERIA_NAME_504208570^Rage - Meteor^狂怒（隕石）^날뛰기 [메테오]^Rage - Météore ^Wut - Meteor^Cólera - Meteo^
+MST_MATERIA_NAME_504208900^Light Resistance +15%^光屬性耐性+15%^빛속성 저항력+15%^Rés. à la lumière +15%^Lichtresistenz + 15 %^Res. a la luz +15%^
+MST_MATERIA_NAME_504208740^Healer's Wisdom^治癒心得^치유술사의 마음가짐^Savoir du soigneur ^Heilerweisheit^Saber del curador^
+MST_MATERIA_NAME_504208970^DEF +15%^防禦+15%^방어력+15%^DEF +15%^ABW + 15 %^DEF +15%^
+MST_MATERIA_NAME_504208980^SPR +15%^精神+15%^정신력+15%^PSY +15%^PSY + 15 %^ESP +15%^
+MST_MATERIA_NAME_504208990^Null Paralysis^麻痺無效^마비 무효^Annule paralysie ^Null-Paralyse^Inmune a parálisis^
+MST_MATERIA_NAME_504101070^Demon Killer^斬魔^악마 킬러^Tue-démons ^Dämonenkiller^Matademonios^
+MST_MATERIA_NAME_504100910^Use Grappling Weapons^裝備格鬥武器^격투 장비^Maîtrise des poings ^Hakenwaffen nutzen^Maestría de puños^
+MST_MATERIA_NAME_504209480^Warrior Lore^戰士心得^전사의 마음가짐^Art du tireur^Kriegerkunde^Libro de guerrero^
+MST_MATERIA_NAME_504209490^Mage's Monograph^魔道士心得^마도사의 마음가짐^Monographie du mage^Magiermonographie^Códice del mago^
+MST_MATERIA_NAME_504030200^Imperil^弱化^위크^Vulnérabilité^Morbid^Aquiles^
+MST_MATERIA_NAME_504209350^Patriotic Recall^思念祖國^조국을 향한 마음^Esprit patriotique ^Ruf der Heimat^Espíritu patriota^
+MST_MATERIA_NAME_504010160^Curaga^超療傷^케알가^Soin Max^Vitaja^Cura+++^
+MST_MATERIA_NAME_504100140^DEF +20%^防禦+20%^방어력+20%^DEF +20%^ABW + 20 %^DEF +20%^
+MST_MATERIA_NAME_504209500^Manufacted Nethicite^人造破魔石^인조 파마석^Nihilithe artificiel^Nethicite gefertigt^Neticita artificial^
+MST_MATERIA_NAME_504209550^Earth Resistance +15%^土屬性耐性+15%^땅속성 저항력+15%^Rés. à la terre +15%^Erdresistenz +15 %^Res. a la tierra +15%^
+MST_MATERIA_NAME_504900120^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900130^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900140^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900150^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900160^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900170^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900180^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900190^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900200^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900210^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900220^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900230^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900240^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900250^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900260^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900270^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900280^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900290^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900300^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900310^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900320^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900330^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900340^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900350^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900360^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900370^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900380^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900390^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900400^Firaja^強火焰^파이자^Feu Max^Feuka^Piro+++^
+MST_MATERIA_NAME_504900410^Blizzaja^強暴雪^블리자쟈^Glace Max^Eiska^Hielo+++^
+MST_MATERIA_NAME_504900420^Thundaja^強雷電^선더쟈^Foudre Max^Blitzka^Electro+++^
+MST_MATERIA_NAME_504900430^Waterja^強流水^워터쟈^Eau Max^Aquaka^Aqua+++^
+MST_MATERIA_NAME_504900440^Aeroja^強勁風^에어로쟈^Vent Max^Aeroka^Aero+++^
+MST_MATERIA_NAME_504900450^Stonja^強落石^스톤쟈^Terre Max^Terraka^Piedra+++^
+MST_MATERIA_NAME_504900460^Mirror Counter^明鏡反擊(暫)^잔잔한 거울 맞받아치기(임시)^Test^Spiegelkonter^Test^
+MST_MATERIA_NAME_504900470^Lasswell Lvl 100^拉斯韋爾Lv100(暫)^라스웰 lv 100(임시)^Test^Lasswell St. 100^Test^
+MST_MATERIA_NAME_504900480^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900490^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900500^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900510^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900520^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900530^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900540^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900550^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900560^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900570^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900580^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900590^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900600^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900610^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900620^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900630^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900640^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900650^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900660^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900670^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900680^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900690^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900700^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900710^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900720^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900730^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900740^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900750^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900760^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900770^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900780^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900790^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900800^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900810^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900820^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900830^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900840^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900850^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900860^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900870^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900880^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900890^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900900^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900910^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900920^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900930^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900940^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900950^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900960^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900970^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900980^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504900990^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901000^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901010^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901020^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901030^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901040^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901050^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901060^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901070^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901080^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901090^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901100^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901110^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901120^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901130^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901140^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901150^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901160^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901170^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901180^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901190^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901200^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901210^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901220^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901230^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901240^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901250^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901260^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901270^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901280^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901290^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901300^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901310^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901320^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901330^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901340^Dark^暗黑^다크^Ténèbres^Dunkel^Sombra^
+MST_MATERIA_NAME_504901350^Darkra^中暗黑^다크라^Ténèbres +^Darkra^Sombra+^
+MST_MATERIA_NAME_504901360^Darkga^大暗黑^다크가^Ténèbres X^Darkga^Sombra++^
+MST_MATERIA_NAME_504901370^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901380^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901390^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901400^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901410^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901420^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901430^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901440^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901450^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901460^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901470^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901480^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901490^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901500^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901510^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901520^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901530^Tornado^龍捲風^토네이도^Tornade^Tornado^Tornado^
+MST_MATERIA_NAME_504901540^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901550^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901560^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901570^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901580^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901590^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901600^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901610^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901620^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901630^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901640^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901650^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901660^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901670^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901680^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901690^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901700^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901710^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901720^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901730^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901740^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901750^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901760^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901770^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901780^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901790^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901800^Jump^跳躍^점프^Saut^Sprung^Saltar^
+MST_MATERIA_NAME_504901810^Kick^踢擊^발차기^Coup de pied^Einschlag^Puntapié^
+MST_MATERIA_NAME_504901820^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901830^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901840^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901850^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901860^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901870^NA^翻訳不要^翻訳不要^NA^NA^NA^
+MST_MATERIA_NAME_504901880^Burst^炸裂^버스트^Implosion^Salve^Descarga^
+MST_MATERIA_NAME_504901890^Quake^地槌^퀘이크^Séisme^Beben^Seísmo^
+MST_MATERIA_NAME_1500000004^Pure Heart^純潔之心^순수한 마음^Cœur pur^Reines Herz^Corazón puro^
+MST_MATERIA_NAME_1500000005^Winter Ward^防寒對策^방한 대책^Protection hivernale ^Winterdiener^Guardia invernal^
+MST_MATERIA_NAME_1500000007^Deliverance^引渡黃泉^사망선고^Déliverance^Erlösung^Viático^
+MST_MATERIA_NAME_1500000008^Firewall: Power↑^增強ＨＳ威力^HS 위력 증대^Mur de feu : Puissance ↑^Feuerwall: Kraft↑^Parapeto letal^
+MST_MATERIA_NAME_504212570^Symphonic Flair^交響樂天賦^심포닉 플레어^Style symphonique^Sinfonisches Flair^Estilo sinfónico^
+MST_MATERIA_NAME_1500000009^Lightspeed Jab^光速拳^광속권^Coup éclair^Lichtgeschwindigkeitsschlag^Puños estela^
+MST_MATERIA_NAME_1500000010^Cheerleader^士氣^기합^Application^Cheerleader^Kiai^
+MST_MATERIA_NAME_504209690^Elven Pride^精靈榮耀^엘프의 긍지^Fierté elfique ^Elfenstolz^Orgullo élfico^
+MST_MATERIA_NAME_504209940^Poison Resistance^毒無效^독 무효^Immunité (poison)^Giftresistenz^Inmune al veneno^
+MST_MATERIA_NAME_504210110^Proud Fencer^高傲劍豪^긍지 높은 검호^Escrimeur fier^Stolzer Fechter^Esgrimista orgulloso^
+MST_MATERIA_NAME_504210490^Heaven's Guidance^星天指引^천국의 인도^Guide céleste ^Himmlische Führung^Guía celestial^
+MST_MATERIA_NAME_504210640^March^進軍^진군^Défilé^Marsch^Avante^
+MST_MATERIA_NAME_504210650^Vigilance^警戒^경계^Vigilance^Wachsamkeit^Vigilancia^
+MST_MATERIA_NAME_504100170^SPR +20%^精神+20%^정신력+20%^PSY +20%^PSY +20%^ESP +20%^
+MST_MATERIA_NAME_504210660^Wind Resistance +15%^風屬性耐性+15%^바람속성 저항력+15%^Rés. au vent +15%^Windresistenz +15%^Resistencia al viento +15%^
+MST_MATERIA_NAME_504210670^False Saint^虛偽聖者^거짓된 성자^Imposteur céleste ^Falscher Heiliger^Falso santo^
+MST_MATERIA_NAME_504210720^Sworn Six's Pride - Dark^六盟傑榮耀·暗^여섯 호걸 연맹의 긍지·어둠^Fierté des Six - Ténèbres^Stolz der Geschworenen Sechs - Finsternis^Orgullo de Paladia - Oscuridad^
+MST_MATERIA_NAME_504210800^Sworn Six's Pride - Fire^六盟傑榮耀·火^여섯 호걸 연맹의 긍지·불꽃^Fierté des Six - Feu^Stolz der Geschworenen Sechs - Feuer^Orgullo de Paladia - Fuego^
+MST_MATERIA_NAME_504210890^Sworn Six's Pride - Earth^六盟傑榮耀·土^여섯 호걸 연맹의 긍지·땅^Fierté des Six - Terre^Stolz der Geschworenen Sechs - Erde^Orgullo de Paladia - Tierra^
+MST_MATERIA_NAME_504211100^Confusion Resistance^混亂無效^혼란 무효^Immunité (confusion)^Konfusresistenz^Resistencia a la confusión^
+MST_MATERIA_NAME_504211120^Mog Search^莫古偵查^모그 탐색^Fouille mog^Mogrysuche^Búsqueda moguri^
+MST_MATERIA_NAME_504211130^Mog Song^莫古之歌^모그 송^Chanson mog ^Mogrylied^Canción moguri^
+MST_MATERIA_NAME_504211140^Mog Step^莫古舞步^모그 스텝^Pas mog ^Mogryschritt^Paso moguri^
+MST_MATERIA_NAME_504211150^Mog Resist^莫古反抗^모그 레지스트^Résistance mog ^Mogryresistenz^Resistencia moguri^
+MST_MATERIA_NAME_504211160^Mog Rise^莫古崛起^모그 라이즈^Soulèvement mog ^Mogryaufstieg^Ascenso moguri^
+MST_MATERIA_NAME_504211340^Martial Arts Mastery^格鬥奧義^격투의 비법^Maîtrise des arts martiaux^Kampfkunstmeister^Maestría de puño^
+MST_MATERIA_NAME_504211350^World Destroyer^世界毀滅^세계 붕괴^Destructeur de monde ^Weltzerstörer^Destructor de mundos^
+MST_MATERIA_NAME_504211290^Mog Wisdom^莫古心得^모그의 마음가짐^Sagesse mog ^Mogryweisheit^Saber moguri^
+MST_MATERIA_NAME_504211680^Heart of Fire^火之心^불의 마음^Essence du feu ^Feuerherz^Corazón de fuego^
+MST_MATERIA_NAME_504211690^Heart of Water^水之心^물의 마음^Essence de l'eau ^Wasserherz^Corazón de agua^
+MST_MATERIA_NAME_504211700^Heart of Wind^風之心^바람의 마음^Essence du vent ^Windherz^Corazón de viento^
+MST_MATERIA_NAME_504211710^Heart of Earth^土之心^땅의 마음^Essence de la terre^Erdherz^Corazón de tierra^
+MST_MATERIA_NAME_504212360^Sworn Six's Pride - Light^六盟傑榮耀·光^여섯 호걸 연맹의 긍지·빛^Fierté des Six Jurés - Lumière^Stolz der Geschworenen Sechs - Licht^Orgullo de Paladia - Luz^
+MST_MATERIA_NAME_504212370^Sworn Six's Pride - Wind^六盟傑榮耀·風^여섯 호걸 연맹의 긍지·바람^Fierté des Six Jurés - Vent^Stolz der Geschworenen Sechs - Wind^Orgullo de Paladia - Viento^
+MST_MATERIA_NAME_504212380^Sworn Six's Pride - Water^六盟傑榮耀·水^여섯 호걸 연맹의 긍지·물^Fierté des Six Jurés - Eau^Stolz der Geschworenen Sechs - Wasser^Orgullo de Paladia - Agua^
+MST_MATERIA_NAME_504212340^Sleep Resistance^睡眠無效^수면 무효^Immunité (sommeil)^Schlafresistenz^Resistencia al sueño^
+MST_MATERIA_NAME_504212350^Water Resistance +15%^水屬性耐性+15%^물속성 저항력+15%^Rés. à l'eau +15%^Wasserresistenz +15%^Resistencia al agua +15%^
+MST_MATERIA_NAME_504213210^Relax^休息^휴식^Détente^Entspannung^Relajación^
+MST_MATERIA_NAME_504213220^Evasiveness - Small^閃避性能【小】^회복 성능 [소]^Geste évasif - petit^Ausweichen - Klein^Evasión - Menor^
+MST_MATERIA_NAME_504213230^Great Earplugs^高級耳塞^고급 귀마개^Bouch. d'oreilles de qualité^Gute Ohrstöpsel^Tapones de lujo^
+MST_MATERIA_NAME_504213420^Guard of the Future^未來守護者^미래를 지키는 힘^Gardien du futur^Wächter der Zukunft^Custodio del porvenir^
+MST_MATERIA_NAME_504213530^Thirst for Survival^求生慾望^생존을 향한 갈망^Soif de survie^Überlebensdurst^Sed de supervivencia^
+MST_MATERIA_NAME_504213700^Thunder Resistance +15%^雷屬性耐性+15%^번개속성 저항력+15%^Rés. à la foudre +15%^Donnerresistenz +15%^Resistencia al rayo +15%^
+MST_MATERIA_NAME_504213710^Darkness's Foe^抗暗之力^어둠을 다루는 힘^Ennemi des ténèbres ^Feind der Finsternis^Enemigo de la oscuridad^
+MST_MATERIA_NAME_504213720^Light's Foe^抗光之力^빛을 다루는 힘^Ennemi de la lumière^Feind des Lichts^Enemigo de la luz^
+MST_MATERIA_NAME_504213730^MP Stroll^移動恢復MP^걸으면 MP 회복^Balade PM^MP-Generator^PM al andar^
+MST_MATERIA_NAME_504213740^General Offensive^總攻^총공격^Offensive générale ^Generaloffensive^Ataque total^
+MST_MATERIA_NAME_504100110^MAG +20%^魔力+20%^마력+20%^MAGIE +20%^MAG +20 %^MAG +20%^
+MST_MATERIA_NAME_504100860^Equip Instrument^裝備樂器^악기 장착^Instrument^Instrument benutzen^Equi. instrumento^
+MST_MATERIA_NAME_504020460^Darkra^中暗黑^다크라^Ténèbres +^Darkra^Sombra+^
+MST_MATERIA_NAME_504200610^Fira Blade^中火焰劍^파이라 검^Lame Feu +^Feura-Klinge^Hoja Piro+^
+MST_MATERIA_NAME_504213800^Awesome Swordsman^威猛劍士^용감한 검사^Épéiste incroyable^Fantastischer Schwertkämpfer^Espadachín fantástico^
+MST_MATERIA_NAME_504214350^Pure White Blessing^純白祝福^순백의 축복^Bénédiction éthéré^Weißer Segen^Bendición inmaculada^
+MST_MATERIA_NAME_504214360^High Spirits^氣炎萬丈^기염 만장^Ébullition^Hochstimmung^Explosividad^
+MST_MATERIA_NAME_504214720^N/A^帝國之光^N/A^N/A^N/A^N/A^
+MST_MATERIA_NAME_504211360^Dragon Killer+^屠龍改^개량형 드래곤 킬러^Tue-dragons +^Drachentöter+^Matadragones+^
+MST_MATERIA_NAME_504214930^Mage's Resolution^魔道士的覺悟^마도사의 각오^Résolution de mage^Magierbeschluss^Resolución de mago^
+MST_MATERIA_NAME_504214990^Buster Style^破壞者姿態^버스터 폼^Forme de casseur ^Jägergestalt^Postura de espada mortal^
+MST_MATERIA_NAME_504215180^Ice Resistance +15%^冰屬性耐性+15%^얼음속성 저항력+15%^Rés. à la glace +15%^Eisresistenz +15%^Resistencia al hielo +15%^
+MST_MATERIA_NAME_504215190^Powerful^力量煥發^파워풀^Puissance^Mächtig^Poderoso^
+MST_MATERIA_NAME_504215200^Toughness^堅韌^터프^Résistance ^Zähigkeit^Robustez^
+MST_MATERIA_NAME_504215360^Proof of Talent^才媛之證^재능의 증명^Preuve de talent^Talentbeweis^Prueba de talento^
+MST_MATERIA_NAME_504215440^Blind Resistance^失明無效^암흑 무효^Immunité (cécité)^Blendresistenz^Anular ceguera^
+MST_MATERIA_NAME_1500000011^Encore^安可^앙코르^Encore^Zugabe^Encore^
+MST_MATERIA_NAME_1500000012^Echidna's Kiss^艾奇德娜之吻^에키드나의 키스^Baiser d'Echidna^Echidnas Kuss^Beso de Equidna^
+MST_MATERIA_NAME_1500000014^Renewal^更新^리뉴얼^Renouveau^Erneuerung^Renovación^
+MST_MATERIA_NAME_504216990^Spirit of Freedom^不羈的氣焰^불기의 기염^Esprit de liberté^Geist der Freiheit^Espíritu libre^
+MST_MATERIA_NAME_504217040^Sage's Prajna^賢人的智慧^현자의 지혜^Prajna du sage^Prajna des Weisen^Prajna del sabio^
+MST_MATERIA_NAME_1500000013^Adventurer^冒險者^모험가^Aventurier^Abenteurer^Aventurero^
+MST_MATERIA_NAME_1500000015^Adventurer II^冒險者 II^모험가II^Aventurier+^Abenteurer II^Aventurero+^
+MST_MATERIA_NAME_1500000016^Adventurer III^冒險者 III^모험가III^Aventurier++^Abenteurer III^Aventurero++^
+MST_MATERIA_NAME_1500000017^Adventurer IV^冒險者 IV^모험가IV^Aventurier+++^Abenteurer IV^Aventurero+++^
+MST_MATERIA_NAME_1500000018^Adventurer V^冒險者 V^모험가V^Aventurier++++^Abenteurer V^Aventurero++++^
+MST_MATERIA_NAME_504200650^Aerora Blade^中勁風劍^에어로라 검^Lame Vent +^Aerora-Klinge^Hoja Aero+^
+MST_MATERIA_NAME_504215930^Dream Maiden's Oracle^夢巫女的天啟^꿈의 무녀의 신탁^Prédic. de Prêtressonge^Traummagd-Orakel^Oráculo onírico de la doncella^
+MST_MATERIA_NAME_504216050^Crazy Day^瘋狂安息日^광인의 안식일^Journée de fou^Verrückter Tag^Día de locos^
+MST_MATERIA_NAME_504216060^Staff Mastery^手杖奧義^지팡이의 비법^Maîtrise des bâtons^Stabmeisterschaft^Maestro del bastón^
+MST_MATERIA_NAME_504200620^Blizzara Blade^中暴雪劍^블리자라 검^Lame Glace +^Eisra-Klinge^Hoja Hielo+^
+MST_MATERIA_NAME_504101410^HP Stroll^移動恢復^걸으면 HP 회복^Regain de PV^LP-Generator^VIT al andar^
+MST_MATERIA_NAME_504216360^Loyal Warrior^忠義的武人^충의의 무인^Guerrier loyal^Loyaler Krieger^Guerrero leal^
+MST_MATERIA_NAME_504216370^Cold Defense^寒冰防禦^콜드 디펜스^Défense gelée^Kalte Verteidigung^Defensa gélida^
+MST_MATERIA_NAME_504216380^Thunder Defense^閃電防禦^선더 디펜스^Défense électrique^Donnerverteidigung^Defensa fulminosa^
+MST_MATERIA_NAME_504216400^Fire Resistance +15%^火屬性耐性+15%^불속성 저항력+15%^Rés. au feu +15%^Feuerresistenz +15%^Resistencia al fuego +15%^
+MST_MATERIA_NAME_504216520^Dragoon's Pride^龍騎士的驕傲^용기사의 긍지^Orgueil de dragonnier^Drachenstolz^Orgullo dragontino^
+MST_MATERIA_NAME_504216730^Barrier Master^魔壁操縱者^마법 장벽의 마스터^Maître de la barrière^Barrieremeister^Maestro de las barreras^
+MST_MATERIA_NAME_504216900^Null Disease^生病無效^질병 무효^Annuler maladie^Virus-Annullierung^Anular enfermedad^
+MST_MATERIA_NAME_504217350^Black Impulse^漆黑衝動^검은 충동^Impulsion noire^Schwarzer Impuls^Impulso oscuro^
+MST_MATERIA_NAME_504217610^Frozen Hurricane^冰凍颶風^프로즌 허리케인^Ouragan gelé^Eisiger Sturmwind^Huracán gélido^
+MST_MATERIA_NAME_504217630^Spirit^精神力^스피릿^Esprit^Geist^Espíritu^
+MST_MATERIA_NAME_504217640^Girder^棟樑^대들보^Poutre^Träger^Piel de acero^
+MST_MATERIA_NAME_504200630^Thundara Blade^中雷電劍^선더라 검^Lame Foudre +^Blitzra-Klinge^Hoja Electro+^
+MST_MATERIA_NAME_504217650^Hat Arts^帽子秘義^모자의 비법^Chapeau secret^Geheimkappe^Sombrero secreto^
+MST_MATERIA_NAME_504216040^Light Resistance +20%^光屬性耐性+20%^빛속성 저항력+20%^Rés. à la lumière +20%^Lichtresistenz +20%^Resistencia a la luz +20%^
+MST_MATERIA_NAME_504215170^Petrification Resistance^石化無效^석화 무효^Rés. à la pétrification^Versteinerungsresistenz^Anular piedra^
+MST_MATERIA_NAME_504217950^Broadminded^豪放磊落^호방뇌락^Ouverture d'esprit^Weitherzig^Tolerancia^
+MST_MATERIA_NAME_504218380^Azure Crimson Soul^蒼紅之魂^창홍의 영혼^Âme pourpre azur^Azurpurpurseele^Alma azur carmesí^
+MST_MATERIA_NAME_504218390^Strategist's Ingenuity^軍師知略^참모의 지략^Ingéniosité de stratège^Strategisches Genie^Ingenuidad estratégica^
+MST_MATERIA_NAME_504218860^Mechanical Heart^機械裝置之心^기계장치의 마음^Cœur mécanique^Mechanisches Herz^Corazón mecánico^
+MST_MATERIA_NAME_504218870^Vengeful Wrath^憎惡^증오^Colère vengeresse^Rachsüchtiger Zorn^Ira de venganza^
+MST_MATERIA_NAME_504219080^Yevon's Wisdom^耶朋的教誨^에본의 가르침^Sagesse de Yevon^Yevons Weisheit^Sabiduría de Yevon^
+MST_MATERIA_NAME_504219220^Power of Purification^淨化之力^정화의 힘^Pouvoir de purification^Macht der Läuterung^Poder purificador^
+MST_MATERIA_NAME_504219230^Art of Purification^淨化之術^정화의 기술^Art de purification^Kunst der Läuterung^Arte purificador^
+MST_MATERIA_NAME_504219240^Ice Resistance +20%^冰屬性耐性+20%^얼음속성 저항력+20%^Rés. À la glace +20%^Eisresistenz +20%^Resistencia al hielo +20%^
+MST_MATERIA_NAME_504219250^Cradle of Horns^犄角搖籃^뿔의 요람^Berceau de cornes^Wiege der Hörner^Cuna de cuernos^
+MST_MATERIA_NAME_504219260^L Shield Arts^輕盾秘義^가벼운 방패의 비의^Bouclier léger secret^Geheimes L-Schild^Escudo L secreto^
+MST_MATERIA_NAME_504219270^Dual Wield+^雙刀流改^개량형 이도류^Deux armes +^Zweihänder+^Dos manos+^
+MST_MATERIA_NAME_504219820^Uncollapsing Will^無潰鬥志^꺾이지 않는 투지^Volonté inébranlable^Standhafter Wille^Voluntad inquebrantable^
+MST_MATERIA_NAME_504219880^Hammersmith^鐵匠^망치 대장장이^Fabricant de marteaux^Hammerschmied^Forjador de martillos^
+MST_MATERIA_NAME_504213200^Silence Resistance^沉默無效^침묵 무효^Rés. au silence^Stille-Widerstand^Resistencia al silencio^
+MST_MATERIA_NAME_504219890^Sage of Mysidia^密西迪亞的賢者^미시디아의 현자^Sage de Mysidia^Weiser von Mysidia^Sabio de Mysidia^
+MST_MATERIA_NAME_504219910^Man-Eater+^食人改^개량형 인간 킬러^Tueur +^Menschenfresser+^Comehombres+^
+MST_MATERIA_NAME_1500000020^Resentment^憤慨^분개^Ressentiment^Missgunst^Resentimiento^
+MST_MATERIA_NAME_1500000021^Regenerator^再生者^개혁자^Régénérateur^Regenerator^Regenerador^
+MST_MATERIA_NAME_1500000022^Reactive Defense^活性防護^능동 방어^Défense réactive^Reaktive Verteidigung^Defensa reactiva^
+MST_MATERIA_NAME_1500000019^Malboro's Whisper^毛爾波爾細語^몰볼의 속삭임^Murmure de Morbol^Morbols Flüstern^Susurro de molbol^
+MST_MATERIA_NAME_1500000025^Rhythmic Flair^節奏感^리드미컬 플레어^Style rythmique^Rhythmisches Flair^Aptitud rítmica^
+MST_MATERIA_NAME_1500000023^Casanova^風流浪子^카사노바^Casanova^Casanova^Casanova^
+MST_MATERIA_NAME_1500000024^Water Maiden Blessing^水之巫女^물의 무녀^Prêtresse d'eau^Wassermaid^Doncella del agua^
+MST_MATERIA_NAME_1500000030^Codex of Sword Master^劍法秘笈^검호의 비급^Codex du maître épéiste^Kodex der Schwertkunst^Códice del espadachín^
+MST_MATERIA_NAME_1500000026^Full Moon^滿月^만월^Pleine lune^Vollmond^Luna llena^
+MST_MATERIA_NAME_1500000027^Blighted Despot^旱災獨裁者^오염된 폭군^Tyran infect^Verderbter Despot^Despoinfecto^
+MST_MATERIA_NAME_1500000028^Drowned King^洪災之王^익사한 왕^Monarque noyé^Ertrunkener König^Rey ahogado^
+MST_MATERIA_NAME_1500000029^Lunarian's Hate^月之民的憎恨^달의 주민의 증오^Haine de Sélénite^Hass der Lunarier^Ira lunaria^
+MST_MATERIA_NAME_1500000031^Barbariccia's Spirit^巴爾巴莉希亞之魂^발바리시아의 영혼^Esprit de Barbariccia^Barbarizias Seele^Espíritu de Barbariccia^
+MST_MATERIA_NAME_504020270^Graviga^強重力^그라비가^Gravité X^Graviga^Gravedad++^
+MST_MATERIA_NAME_504218970^True Shard of Genius^真・睿智的結晶^진·예지의 결정^Éclat de génie X^Wahrer Splitter des Genies^Fragmento de ingenio+^
+MST_MATERIA_NAME_504218980^True Follower's Oath^真・追隨者的誓言^진·맹주에게 바치는 맹세^Serment du serviteur X^Wahrer Schwur des Anhängers^Voto del servidor+^
+MST_MATERIA_NAME_504218990^True Hydaelyn Guard^真・海德林的加護^진·하이델린의 가호^Protection d'Hydaelyn X^Wahre Hydaelynische Wache^Guarda de Hydaelyn+^
+MST_MATERIA_NAME_504219000^True Spirit of Freedom^真・不羈的氣焰^진·불기의 기염^Esprit de liberté X^Wahrer Geist der Freiheit^Espíritu libre+^
+MST_MATERIA_NAME_504219010^True Sage's Prajna^真・賢人的智慧^진·현자의 지혜^Prajna du sage X^Wahres Prajna des Weisen^Prajna del sabio+^
+MST_MATERIA_NAME_504010380^Refresh^精神振奮^리프레쉬^Recharge^Heilaura^Restauración^
+MST_MATERIA_NAME_504219930^Yohtoh Lore^妖刀的知識^요도 지식^Savoir de Yohtoh^Yohtohkunde^Conocimiento Yohtoh^
+MST_MATERIA_NAME_504219940^Heavy Chimera^重型奇美拉^헤비 키마이라^Khimaira lourde^Schwere Chimäre^Quimera pesada^
+MST_MATERIA_NAME_504219950^Anti-Disaster^反災禍^방재술^Antidésastre^Schadensbegrenzung^Antidesastre^
+MST_MATERIA_NAME_504220140^Battler^戰鬥酒鬼^악전고투^Combattant^Raufbold^Combatiente^
+MST_MATERIA_NAME_504220280^Beast's Heart^獸人的心^수인의 마음^Cœur de la bête^Herz des Bestienmenschen^Corazón de la bestia^
+MST_MATERIA_NAME_504220290^Half-elf's Heart^混血精靈的心^하프엘프의 마음^Cœur de semielfe^Herz des Halbelfen^Corazón de semielfo^
+MST_MATERIA_NAME_504220270^Knight of Gemma^傑馬騎士^제마의 기사^Chevalier Gemma^Gemma-Ritter^Caballero de Gemma^
+MST_MATERIA_NAME_504220620^Brawn^頑強^굴강^Force musculaire^Stämmig^Fuerzudo^
+MST_MATERIA_NAME_504220630^Intrique^戰術^술책^Intrigue^List^Intriga^
+MST_MATERIA_NAME_504100020^HP +20%^HP+20%^HP+20%^PV +20%^LP +20%^VIT +20%^
+MST_MATERIA_NAME_504220650^Wind Resistance +20%^風屬性耐性+20%^바람속성 저항력+20%^Résistance au vent +20%^Windresistenz +20%^Res. al viento +20%^
+MST_MATERIA_NAME_504220660^Great Mage's Aura^大魔道士的詠唱法^대마도사의 영창법^Aura de grand mage^Aura des Großmagiers^Aura de archimago^
+MST_MATERIA_NAME_504220680^Nature Loving Spellblade^熱愛自然的魔法劍士^자연을 사랑하는 마법검사^Magilame fan de la nature^Naturliebender Schwertmagier^Espadachín naturista^
+MST_MATERIA_NAME_504221550^Mood Maker^開心果^분위기 메이커^Esprit de la fête^Stimmungsmacher^Alma de la fiesta^
+MST_MATERIA_NAME_504221560^H Armor Arts^重鎧的秘義^중갑의 비의^Secret d'amure L^Schwere Rüstungs-Künste^Secretos de armadura P^
+MST_MATERIA_NAME_504221570^Calamity Border^災禍邊緣^재앙의 경계선^Frontière calamiteuse^Unheilsgrenze^Borde calamitoso^
+MST_MATERIA_NAME_504221580^Callous Stategist^殘酷的謀略家^비정한 책략가^Stratège insensible ^Ruchloser Stratege^Estratega despiadado^
+MST_MATERIA_NAME_504221590^Imperial Talent^賢帝的修養^현제의 소양^Talent impérial^Kaiserliche Kenntnisse^Talento de emperador^
+MST_MATERIA_NAME_504221600^Spirit Fighter^精神戰士^영혼의 전사^Combattant des esprits^Geistkämpfer^Luchador de espíritus^
+MST_MATERIA_NAME_504221610^Spirit Magician^精神魔術師^영혼의 마법사^Magicien des esprits^Geistmagier^Hechizador de espíritus^
+MST_MATERIA_NAME_504221620^Auto-Bravery^自動勇氣^자동 브레이브^Auto-Bravoure^Auto-Courage^AutoBravura^
+MST_MATERIA_NAME_504221630^Auto-Faith^自動信念^자동페이스^Auto-foi^Auto-Ener^AutoFé^
+MST_MATERIA_NAME_504221640^Earth Resistance +20%^土屬性耐性+20%^땅속성 저항력+20%^Rés. à la terre +20%^Erdresistenz +20%^Res. a la tierra +20%^
+MST_MATERIA_NAME_504222860^Chosen One^被選中的人^선택받은 자^Élu^Auserwählter^Elegido^
+MST_MATERIA_NAME_504222870^Shadow Bearer^影之肩負者^그림자를 짊어지는 자^Porteur des ténèbres^Strippenzieher^Portador de la sombra^
+MST_MATERIA_NAME_504221650^Agnès' Crystalguard Captain^艾尼亞絲大人救援隊隊長^아니에스 님 구출대 대장^Capitaine de la garde d'Agnès^Agnes' Kristallwächter-Kapitän^Capitán de la guardia de Agnès^
+MST_MATERIA_NAME_504221660^Fragment of Thought^思念的碎片^마음의 조각^Fragment de souvenir^Gedankenfragment^Fragmento de la memoria^
+MST_MATERIA_NAME_504221670^Equip Helm^頭盔裝備^투구 장착^Heaume^Helm ausrüsten^Equipar yelmos^
+MST_MATERIA_NAME_504221680^Pure-bred Summoner^純血的召喚士^순수 혈통의 소환사^Invocateur pur souche^Reinblütiger Beschwörer^Invocadora de pura cepa^
+MST_MATERIA_NAME_504221690^Monk's Enlightenment^武僧的領悟^몽크의 깨달음^Illumination de moine^Erleuchtung des Mönchs^Iluminación del monje^
+MST_MATERIA_NAME_504221700^Attack - Castle Warfare^攻·城內戰的知識^공·성내전 지식^Attaque - Combat au château^Schlosskampf-Kenntnisse: Angriff^Ataque - Batalla en el castillo^
+MST_MATERIA_NAME_504221710^Magic - Castle Warfare^魔·城內戰的知識^마·성내전 지식^Magie - Combat au château^Schlosskampf-Kenntnisse: Magie^Magia - Batalla en el castillo^
+MST_MATERIA_NAME_504221720^Mental Clarity^平靜的心^차분한 정신^Clarté mentale^Geistige Klarheit^Claridad mental^
+MST_MATERIA_NAME_504221730^Lion's Awakening^獅子的覺醒^사자의 각성^Éveil du lion^Der Löwe erwacht^Despertar del león^
+MST_MATERIA_NAME_504221740^Sleep^陷入沉睡^잠들다^Sommeil^Schlafe sanft^Dormir^
+MST_MATERIA_NAME_504223800^Dark Resistance +20%^暗屬性耐性+20%^어둠속성 저항력+20%^Rés. aux ténèbres +20%^Dunkelresistenz +20%^Res. a la oscuridad +20%^
+MST_MATERIA_NAME_504010100^Raise^復活^레이즈^Vie^Erhöhung^Lázaro^
+MST_MATERIA_NAME_504213980^Dual White Magic^W白魔法^W백마법^Double magie blanche^Doppelmagie Weiß^Magia blanca doble^
+MST_MATERIA_NAME_504223810^EVO MAG +15%^召喚魔法+15%^소환마법+15%^MAG INVO +15%^BSW MAG + 15 %^MAG INV +15%^
+MST_MATERIA_NAME_504223820^Kappower^河童之力^캇파워^Kappuissant^Kappower^Kappoder^
+MST_MATERIA_NAME_504224170^Axe Professional^專家·斧^프로페셔널·도끼^Pro de la hache^Axtprofi^Profesional del hacha^
+MST_MATERIA_NAME_504224190^Hungry Wolf^餓狼再起^아랑재기^Loup affamé^Hungriger Wolf^Lobo hambriento^
+MST_MATERIA_NAME_504224490^Quintessence^第五元素^퀸테상스^Quintessence^Quintessenz^Quintaesencia^
+MST_MATERIA_NAME_504224840^Barrier Mage's Oath^壁魔道士的誓言^장벽마도사의 맹세^Serment de mage spé. barrière^Schwur des Barrierenmagiers^Juramento del invocabarreras^
+MST_MATERIA_NAME_504224860^Thunderous Desire^避雷的期望^피뢰 희구^Évasion tonitruante^Blitzableiter^Evasión del trueno^
+MST_MATERIA_NAME_504224870^Destructive Desire^破暗的期望^파암 희구^Désir de destruction ^Schattenzerschmetterer^Deseo de destrucción^
+MST_MATERIA_NAME_504224900^Bomb Spirit^炸彈魂^봄의 혼령^Esprit de bombo^Bombergeist^Espíritu de bom^
+MST_MATERIA_NAME_504224910^Bomb Arms^炸彈臂^봄의 무기^Bras de bombo^Bomberwaffen^Brazos de bom^
+MST_MATERIA_NAME_504213160^Fire Resistance +20%^火屬性耐性+20%^불속성 저항력+20%^Rés. au feu +20%^Feuerresistenz +20%^Resistencia al fuego +20%^
+MST_MATERIA_NAME_504224920^Equip Sword^劍裝備^검 장착^Épée^Schwert ausrüsten^Equipar espada^
+MST_MATERIA_NAME_504224930^Modish Witch^時尚女巫^세련된 마녀^Sorcière à la mode^Modische Hexe^Bruja a la moda^
+MST_MATERIA_NAME_504225930^Necropolis^墓園^네크로폴리스^Nécropole^Nekropolis^Necrópolis^
+MST_MATERIA_NAME_504225720^Fortune Baby^幸運兒^포츈 베이비^Bébé chanceux^Glücksbaby^Criatura afortunada^
+MST_MATERIA_NAME_504225890^Vigorous Build^質樸剛健^질실강건^Construction vigoureuse^Voller Elan^Constitución vigorosa^
+MST_MATERIA_NAME_504213170^Water Resistance +20%^水屬性耐性+20%^물속성 저항력+20%^Rés. à l'eau +15%^Wasserresistenz +20%^Resistencia al agua +20%^
+MST_MATERIA_NAME_504226050^Mage's Hope^魔道士的祈願^마도사의 소망^Espoir de mage^Wunsch des Ritters^Esperanza de caballero^
+MST_MATERIA_NAME_504226041^Knight's Hope^騎士的祈願^기사의 소망^Espoir de chevalier^Wunsch des Magiers^Esperanza de mago^
+MST_MATERIA_NAME_504226031^Ruling Fiend^裁決的惡魔^재정의 악마^Monstre dirigeant^Urteilssprechender Dämon^Fiera reinante^
+MST_MATERIA_NAME_504226380^Hero's Vow - Darkness^英雄誓言·暗^영웅의 맹세·어둠^Vœu du héros - Ténèbres^Heldenschwur - Dunkel^Voto del héroe - Oscuridad^
+MST_MATERIA_NAME_1500000032^Cheerful Tune^輕快旋律^경쾌한 선율^Air enjoué^Fröhliche Melodie^Tono alegre^
+MST_MATERIA_NAME_1500000033^Instrumental Flair^樂器天賦^연주자의 자질^Style instrumental^Instrumentales Flair^Estilo instrumental^
+MST_MATERIA_NAME_1500000034^Magic Sanctuary^魔法聖殿^마법 성역^Sanctuaire magique^Magischer Zufluchtsort^Santuario mágico^
+MST_MATERIA_NAME_1500000035^Joyful Spirit^喜悅之心^기쁨의 마음^Esprit de la joie^Fröhlicher Geist^Espíritu alegre^
+MST_MATERIA_NAME_1500000036^Turbulent Evasion^湍流避閃^터뷸런트 이베이전^Évasion agressive^Turbulente Flucht^Evasión turbulenta^
+MST_MATERIA_NAME_1500000037^Cowered Courage^懦夫的勇氣^소심한 용기^Courage relatif^Feiger Mut^Coraje estremecido^
+MST_MATERIA_NAME_1500000038^Unmatched Wizardry^獨一魔道師^언매치드 위저드리^Sorcellerie implacable^Unerreichte Zauberei^Hechicería incontestable^
+MST_MATERIA_NAME_1500000039^White Knight's Soul^白騎士之魂^백기사의 영혼^Âme de chevalier blanc^Seele des Weißen Ritters^Alma del caballero blanco^

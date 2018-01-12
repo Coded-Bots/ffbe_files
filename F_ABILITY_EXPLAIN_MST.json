@@ -13156,8 +13156,8 @@
     }, 
     {
         "Ga5V42LZ": "503610", 
-        "T7aEx3Mj": "敵1体に一部防御無視ダメージ+自分の攻撃をアップ", 
-        "VC9F3eJn": "敵1体に一部防御無視のダメージを与え、自分の攻撃をアップする。"
+        "T7aEx3Mj": "紫電一閃・終", 
+        "VC9F3eJn": "紫電一閃・終"
     }, 
     {
         "Ga5V42LZ": "503620", 
@@ -20603,5 +20603,15 @@
         "Ga5V42LZ": "910778", 
         "T7aEx3Mj": "Winter Fall", 
         "VC9F3eJn": "Winter Fall"
+    }, 
+    {
+        "Ga5V42LZ": "910779", 
+        "T7aEx3Mj": "Blade Flash - Awakened", 
+        "VC9F3eJn": "Blade Flash - Awakened"
+    }, 
+    {
+        "Ga5V42LZ": "910780", 
+        "T7aEx3Mj": "Moonlight - Fall", 
+        "VC9F3eJn": "Moonlight - Fall"
     }
 ]
