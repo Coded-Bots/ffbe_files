@@ -1,483 +1,483 @@
-MST_RECIPEBOOK_NAME_901000010^Potion^治療劑^포션^Potion^Trank^Poción^
-MST_RECIPEBOOK_NAME_901000020^Hi-Potion^高級治療劑^하이 포션^Potion +^Hi-Trank^Ultrapoción^
-MST_RECIPEBOOK_NAME_901000040^Ether^以太^에테르^Éther^Äther^Éter^
-MST_RECIPEBOOK_NAME_901000080^Antidote^解毒藥^해독제^Antidote^Antidot^Antídoto^
-MST_RECIPEBOOK_NAME_901000090^Eye Drops^眼藥^안약^Collyre^Augentropfen^Colirio^
-MST_RECIPEBOOK_NAME_901000100^Smelling Salts^甦醒藥^각성약^Flacon de sels^Riechsalz^Sales aromáticas^
-MST_RECIPEBOOK_NAME_901000110^Echo Herbs^山彥草^메아리풀^Herbe d'écho^Echokraut^Hierba del eco^
-MST_RECIPEBOOK_NAME_901000120^Unicorn Horn^獨角獸之角^유니콘의 뿔^Corne de licorne^Einhorn-Horn^Cuerno de unicornio^
-MST_RECIPEBOOK_NAME_901000130^Vaccine^疫苗^백신^Vaccin^Impfstoff^Vacuna^
-MST_RECIPEBOOK_NAME_901000140^Gold Needle^金針^금침^Aiguille d'or^Goldnadel^Aguja de oro^
-MST_RECIPEBOOK_NAME_901000150^Remedy^萬能藥^만능약^Remède^Allheilmittel^Panacea^
-MST_RECIPEBOOK_NAME_901000160^Hyper^興奮劑^흥분제^Hyper^Hyper^Hiper^
-MST_RECIPEBOOK_NAME_901000190^Healing Spring^恢復之泉^회복의 샘물^Source régénérante^Heilquelle^Fluido vitalizante^
-MST_RECIPEBOOK_NAME_901000200^Smoke Bomb^煙霧彈^연막탄^Fumigène^Rauchbombe^Bomba de humo^
-MST_RECIPEBOOK_NAME_901000230^Body Boost^力量之藥^힘의 약^Augmente la force^Kraftschub^Brebaje de salud^
-MST_RECIPEBOOK_NAME_901000240^Mana Boost^魔力之藥^마력의 약^Augmente le mana^Mana-Schub^Brebaje mágico^
-MST_RECIPEBOOK_NAME_901000250^Protect Drink^守護之飲^프로테스 물약^Boisson Bouclier^Protes-Trank^Bebida Coraza^
-MST_RECIPEBOOK_NAME_901000260^Shell Drink^魔盾之飲^셸 물약^Boisson Barrière^Vallum-Trank^Bebida Escudo^
-MST_RECIPEBOOK_NAME_901000270^Bacchus's Wine^酒神之酒^바커스의 술^Vin de Bacchus^Bacchus' Tropfen^Licor de Baco^
-MST_RECIPEBOOK_NAME_901000440^Grenade^手榴彈^수류탄^Grenade^Granate^Granada^
-MST_RECIPEBOOK_NAME_901000450^Frag Grenade^破甲手榴彈^철갑 수류탄^Grenade antichar^Panzergranate^Granada antitanque^
-MST_RECIPEBOOK_NAME_901000460^Shuriken^手裏劍^수리검^Shuriken^Shuriken^Shuriken^
-MST_RECIPEBOOK_NAME_901000470^Fuma Shuriken^風魔手裏劍^풍마의 수리검^Shuriken Fuma^Fuma-Shuriken^Fuma Shuriken^
-MST_RECIPEBOOK_NAME_901000490^Tent^帳篷^천막^Tente^Zelt^Tienda de lona^
-MST_RECIPEBOOK_NAME_901000500^Magic Key^魔法鑰匙^마법 열쇠^Clé magique^Zauberschlüssel^Llave mágica^
-MST_RECIPEBOOK_NAME_903000010^Bronze Knife^青銅匕首^청동 나이프^Couteau en bronze^Bronzemesser^Daga de bronce^
-MST_RECIPEBOOK_NAME_903000020^Dagger^短劍^단검^Dague^Dolch^Daga^
-MST_RECIPEBOOK_NAME_903000040^Sleep Dagger^催眠短劍^슬리플 단검^Dague Sommeil^Narkosedolch^Daga Morfeo^
-MST_RECIPEBOOK_NAME_903000080^Broadsword^寬刃劍^브로드소드^Glaive^Breitschwert^Espada ancha^
-MST_RECIPEBOOK_NAME_903000090^Long Sword^長劍^롱소드^Épée longue^Langschwert^Espada larga^
-MST_RECIPEBOOK_NAME_903000160^Great Sword^巨劍^그레이트소드^Spathe^Großschwert^Espadón^
-MST_RECIPEBOOK_NAME_903000180^Buster Sword^破壞劍^버스터 소드^Épée broyeuse^Meisterschwert^Espada mortal^
-MST_RECIPEBOOK_NAME_903000210^Kotetsu^虎鐵^고테쓰^Kotetsu^Kotetsu^Kotetsu^
-MST_RECIPEBOOK_NAME_903000220^Kiku-ichimonji^菊一文字^키쿠이치몬지^Kiku-ichimonji^Kiku-Ichimonji^Kikuichimonji^
-MST_RECIPEBOOK_NAME_903000230^Kazekiri^斬風刃^바람베기 칼^Kazekiri^Windschneider^Kazekiri^
-MST_RECIPEBOOK_NAME_903000270^Kodachi^小太刀^코다치^Kodachi^Kodachi^Kodachi^
-MST_RECIPEBOOK_NAME_903000290^Battle Axe^戰斧^전투도끼^Hache de combat^Kampfaxt^Hacha de guerra^
-MST_RECIPEBOOK_NAME_903000300^Great Axe^大斧^거대도끼^Hache large^Große Axt^Gran hacha^
-MST_RECIPEBOOK_NAME_903000360^Wooden Hammer^木鎚^나무망치^Marteau en bois^Holzhammer^Maza de madera^
-MST_RECIPEBOOK_NAME_903000370^Iron Hammer^鋼鐵鎚^철제 망치^Marteau en fer^Eisenhammer^Mazo de hierro^
-MST_RECIPEBOOK_NAME_903000380^War Hammer^戰鎚^전쟁망치^Marteau de guerre^Streithammer^Martillo de guerra^
-MST_RECIPEBOOK_NAME_903000420^Bronze Mace^青銅權杖^청동 메이스^Masse en bronze^Bronzekolben^Maza de bronce^
-MST_RECIPEBOOK_NAME_903000430^Iron Mace^鋼鐵權杖^철제 메이스^Masse en fer^Eisenkolben^Maza de hierro^
-MST_RECIPEBOOK_NAME_903000470^Javelin^標槍^재블린^Javelot^Jagdspeer^Jabalina^
-MST_RECIPEBOOK_NAME_903000480^Partisan^遊擊槍^파르티잔^Partisan^Partisane^Partesana^
-MST_RECIPEBOOK_NAME_903000580^Bronze Knuckles^青銅拳套^청동 너클^Poings en bronze^Bronzeschlagring^Puño de bronce^
-MST_RECIPEBOOK_NAME_903000590^Metal Knuckles^金屬指套^금속 너클^Poings en métal^Metallschlagring^Puño de metal^
-MST_RECIPEBOOK_NAME_903000640^Cat Claws^貓爪^고양이 발톱^Griffes de chat^Katzenklauen^Garras de gato^
-MST_RECIPEBOOK_NAME_903000660^Rod^魔棒^홀장^Sceptre^Rute^Vara^
-MST_RECIPEBOOK_NAME_903000670^Iron Rod^鋼鐵棒^철제 홀장^Sceptre en fer^Eisenrute^Vara de hierro^
-MST_RECIPEBOOK_NAME_903000720^Staff^手杖^지팡이^Bâton^Stab^Bastón^
-MST_RECIPEBOOK_NAME_903000730^Cherry Staff^櫻花杖^벚나무 지팡이^Bâton en cerisier^Kirschstab^Bastón de cerezo^
-MST_RECIPEBOOK_NAME_903000750^Wizard's Staff^魔道士之杖^마도사 지팡이^Bâton de mage^Magierstab^Bastón de mago^
-MST_RECIPEBOOK_NAME_903000760^Rune Staff^符文之杖^룬 지팡이^Bâton runique^Runenstab^Bastón rúnico^
-MST_RECIPEBOOK_NAME_903000790^Short Bow^短弓^단궁^Arc court^Kurzbogen^Arco corto^
-MST_RECIPEBOOK_NAME_903000800^Long Bow^長弓^장궁^Arc long^Langbogen^Arco largo^
-MST_RECIPEBOOK_NAME_903000820^Great Bow^強弓^대궁^Grand arc^Großer Bogen^Gran arco^
-MST_RECIPEBOOK_NAME_903000850^Altair^河鼓二^알타이르^Altaïr^Altair^Altair^
-MST_RECIPEBOOK_NAME_903000920^Leather Whip^皮鞭^가죽 채찍^Fouet en cuir^Lederpeitsche^Látigo de cuero^
-MST_RECIPEBOOK_NAME_903000930^Chain Whip^鎖鏈鞭^사슬 채찍^Chaîne-fouet^Kettenpeitsche^Látigo de cadena^
-MST_RECIPEBOOK_NAME_903000970^Boomerang^迴力鏢^부메랑^Boomerang^Bumerang^Bumerán^
-MST_RECIPEBOOK_NAME_903000980^Chakram^飛輪^차크람^Chakram^Chakram^Chakram^
-MST_RECIPEBOOK_NAME_903000990^Moon Ring Blade^圓月輪^보름달 고리^Croissant de lune^Mondring-Klinge^Hoja lunar^
-MST_RECIPEBOOK_NAME_903001020^Harp^豎琴^하프^Harpe^Harfe^Arpa^
-MST_RECIPEBOOK_NAME_903001030^Silver Harp^銀豎琴^은제 하프^Lyre en argent^Silberharfe^Arpa de plata^
-MST_RECIPEBOOK_NAME_904000010^Leather Shield^皮盾^가죽 방패^Bouclier en cuir^Lederschild^Escudo de cuero^
-MST_RECIPEBOOK_NAME_904000020^Small Shield^小型盾^소형 방패^Petit bouclier^Kleines Schild^Broquel^
-MST_RECIPEBOOK_NAME_904000030^Buckler^小圓盾^전투방패^Targe^Buckler^Rodela^
-MST_RECIPEBOOK_NAME_904000060^Bronze Shield^青銅盾^청동 방패^Bouclier en bronze^Bronzeschild^Escudo de bronce^
-MST_RECIPEBOOK_NAME_904000070^Iron Shield^鐵盾^철제 방패^Bouclier en fer^Eisenschild^Escudo de hierro^
-MST_RECIPEBOOK_NAME_904000150^Leather Hat^皮帽^가죽 모자^Chapeau en cuir^Lederhut^Gorro de cuero^
-MST_RECIPEBOOK_NAME_904000160^Feathered Cap^羽飾帽子^깃털 모자^Chapeau à plumes^Federhut^Sombrero emplumado^
-MST_RECIPEBOOK_NAME_904000170^Wizard's Hat^三角帽子^삼각모자^Chapeau de sorcier^Magierhut^Sombrero de mago^
-MST_RECIPEBOOK_NAME_904000180^Bandana^頭巾^두건^Bandana^Stirnband^Bandana^
-MST_RECIPEBOOK_NAME_904000200^Celebrant's Miter^祭司帽子^사제 모자^Mitre de prêtre^Bischofsmütze^Tocado monacal^
-MST_RECIPEBOOK_NAME_904000250^Hypno Crown^睡神王冠^히프노크라운^Tiare d'hypnose^Hypno-Krone^Hipnocorona^
-MST_RECIPEBOOK_NAME_904000260^Red Cap^深紅帽子^빨간 모자^Béret rouge^Rote Kappe^Gorra roja^
-MST_RECIPEBOOK_NAME_904000310^Bronze Helm^青銅盔^청동 투구^Casque en bronze^Bronzehelm^Yelmo de bronce^
-MST_RECIPEBOOK_NAME_904000320^Iron Helm^鐵盔^철제 투구^Casque en fer^Eisenhelm^Yelmo de hierro^
-MST_RECIPEBOOK_NAME_904000370^Leather Shirt^皮衣^가죽옷^Chemise en cuir^Lederweste^Camisa de cuero^
-MST_RECIPEBOOK_NAME_904000380^Bard's Tunic^詩人之服^시인의 옷^Tunique de barde^Minnekleid^Túnica de bardo^
-MST_RECIPEBOOK_NAME_904001380^Scholar Robe^學者服^학자의 옷^Robe d'érudit^Gelehrtenrobe^Túnica de erudito^
-MST_RECIPEBOOK_NAME_904000390^Power Vest^力量束衣帶^힘의 멜빵옷^Harnais de force^Kraftkittel^Jubón de poder^
-MST_RECIPEBOOK_NAME_904000400^Kenpogi^功夫裝^권법 도복^Kenpogi^Karate-Anzug^Traje de kenpo^
-MST_RECIPEBOOK_NAME_904000420^Mage's Habit^魔道士服^마도사의 옷^Manteau de mage^Magierumhang^Capa de mago^
-MST_RECIPEBOOK_NAME_904000430^Survival Vest^救生背心^야전조끼^Gilet de survie^Schutzweste^Chaleco de safari^
-MST_RECIPEBOOK_NAME_904000440^Ninja Gear^忍者服^닌자복^Tunique de ninja^Ninja-Anzug^Traje de ninja^
-MST_RECIPEBOOK_NAME_904000450^Black Belt Gi^黑帶裝^검은띠 도복^Ceinture noire^Schwarzer Gürtel^Cinturón Gi^
-MST_RECIPEBOOK_NAME_904000500^Leather Plate^皮甲^가죽 흉갑^Cuirasse^Lederpanzer^Peto de cuero^
-MST_RECIPEBOOK_NAME_904000510^Copper Cuirass ^青銅胸甲^청동 흉갑^Cotte en cuivre ^Kupferharnisch ^Coraza de cobre ^
-MST_RECIPEBOOK_NAME_904000520^Iron Plate^黑鐵甲^철제 흉갑^Cuirasse en fer^Eisenpanzer^Peto de hierro^
-MST_RECIPEBOOK_NAME_904000570^Bronze Armor^青銅鎧^청동 갑옷^Armure en bronze^Bronzerüstung^Armadura de bronce^
-MST_RECIPEBOOK_NAME_904000580^Iron Armor^鐵鎧^철제 갑옷^Armure en fer^Eisenrüstung^Armadura de hierro^
-MST_RECIPEBOOK_NAME_904000660^Cotton Robe^棉布法袍^무명 로브^Robe en coton^Baumwollrobe^Túnica de algodón^
-MST_RECIPEBOOK_NAME_904000670^Silk Robe^絲線法袍^비단 로브^Robe en soie^Seidenrobe^Túnica de seda^
-MST_RECIPEBOOK_NAME_904000680^Traveler's Garbs^旅人法衣^여행자의 법복^Tenue de voyageur^Reisekleidung^Traje de viajero^
-MST_RECIPEBOOK_NAME_904000710^Gaia Gear^大地之衣^대지의 옷^Tunique de Gaïa^Erdanzug^Traje de la tierra^
-MST_RECIPEBOOK_NAME_904000720^Cleric's Robes^聖職者禮袍^성직자의 가운^Robe cléricale^Klerikerrobe^Túnica clerical^
-MST_RECIPEBOOK_NAME_904000760^Iron Gloves^鐵護手^철제 팔보호대^Gants en acier^Eisenhandschuhe^Guantes férreos^
-MST_RECIPEBOOK_NAME_904000770^Power Wrist^力量護臂^힘의 팔보호대^Poignet de force^Kraftreif^Brazal de poder^
-MST_RECIPEBOOK_NAME_904000780^Hyper Wrist^強力護臂^괴력의 팔보호대^Poignet de titan^Hyperreif^Brazal de titán^
-MST_RECIPEBOOK_NAME_904000820^Silver Armlet^銀手鐲^은제 팔찌^Brassard en argent^Silberreif^Brazal de plata^
-MST_RECIPEBOOK_NAME_904000950^Fire Ring^烈焰戒指^불 반지^Bague du feu^Feuerring^Anillo Fuego^
-MST_RECIPEBOOK_NAME_904000980^Ice Ring^寒冰戒指^얼음 반지^Bague de la glace^Eisring^Anillo Hielo^
-MST_RECIPEBOOK_NAME_904001010^Spark Ring^迅雷戒指^번개 반지^Bague de la foudre^Blitzring^Anillo Rayo^
-MST_RECIPEBOOK_NAME_904001040^Water Ring^淵水戒指^물 반지^Bague de l'eau^Wasserring^Anillo Agua^
-MST_RECIPEBOOK_NAME_904001070^Gale Ring^疾風戒指^바람 반지^Bague de l'air^Stummring^Anillo Viento^
-MST_RECIPEBOOK_NAME_904001100^Earth Ring^沃土戒指^땅 반지^Bague de la  terre^Erdring^Anillo Seísmo^
-MST_RECIPEBOOK_NAME_904001140^Protect Ring^防護指環^보호의 반지^Anneau Bouclier^Protes-Ring^Anillo Coraza^
-MST_RECIPEBOOK_NAME_904001150^Barrier Ring^屏障指環^장막의 반지^Anneau Barrière^Barrierenring^Anillo Barrera^
-MST_RECIPEBOOK_NAME_904001160^Regen Ring^恢復指環^리제네 반지^Anneau Récup^Regena-Ring^Anillo Revitalia^
-MST_RECIPEBOOK_NAME_904001310^Cat's Bell^珠鈴^타마의 방울^Clochette de chat^Katzenglocke^Cascabel de gato^
-MST_RECIPEBOOK_NAME_904001360^Hero's Ring^勇者指環^용기의 반지^Bague de héros^Heldenring^Anillo de paladín^
-MST_RECIPEBOOK_NAME_904001370^Muscle Belt^肌力腰帶^근력 허리띠^Ceinture musculaire^Muskelgurt^Cinto de fuerza^
-MST_RECIPEBOOK_NAME_905000010^Libra^窺伺探測^라이브라^Acuité^Analyse^Libra^
-MST_RECIPEBOOK_NAME_905000020^Cure^療傷^케알^Soin^Vita^Cura^
-MST_RECIPEBOOK_NAME_905000030^Blindna^復明^블라나^Vision^Lux^Luz^
-MST_RECIPEBOOK_NAME_905000040^Vox^解咒^보컬^Voix^Vox^Vocal^
-MST_RECIPEBOOK_NAME_905000050^Poisona^解毒^포이즈나^Sérum^Poisona^Pura^
-MST_RECIPEBOOK_NAME_905000080^Paralyna^解麻^파라나^Mouvement^Paralyna^Paralina^
-MST_RECIPEBOOK_NAME_905000090^Stona^解石^스토나^Chair^Perseus^Relax^
-MST_RECIPEBOOK_NAME_905000230^Fire^火焰^파이어^Feu^Feuer^Piro^
-MST_RECIPEBOOK_NAME_905000240^Blizzard^暴雪^블리자드^Glace^Eis^Hielo^
-MST_RECIPEBOOK_NAME_905000250^Thunder^雷電^선더^Foudre^Blitz^Electro^
-MST_RECIPEBOOK_NAME_905000260^Water^流水^워터^Eau^Aqua^Aqua^
-MST_RECIPEBOOK_NAME_905000270^Aero^勁風^에어로^Vent^Aero^Aero^
-MST_RECIPEBOOK_NAME_905000280^Stone^落石^스톤^Terre^Terra^Piedra^
-MST_RECIPEBOOK_NAME_905000290^Bio^毒化^바이오^Toxine^Bio^Bio^
-MST_RECIPEBOOK_NAME_905000310^Blizzara^中暴雪^블리자라^Glace +^Eisra^Hielo+^
-MST_RECIPEBOOK_NAME_905000320^Thundara^中雷電^선더라^Foudre +^Blitzra^Electro+^
-MST_RECIPEBOOK_NAME_905000330^Watera^中流水^워터라^Eau +^Aquara^Aqua+^
-MST_RECIPEBOOK_NAME_905000340^Aerora^中勁風^에어로라^Vent +^Aerora^Aero+^
-MST_RECIPEBOOK_NAME_905000370^Gravity^重力^그라비데^Gravité^Gravitas^Gravedad^
-MST_RECIPEBOOK_NAME_905000380^Drain^吸血^드레인^Saignée^Subvita^Drenaje^
-MST_RECIPEBOOK_NAME_905000400^Biora^猛毒化^바이오라^Toxine +^Biora^Bio+^
-MST_RECIPEBOOK_NAME_905000670^Sleep^催眠^슬리플^Sommeil^Schlaf^Morfeo^
-MST_RECIPEBOOK_NAME_905000680^Blind^盲目^블라인^Cécité^Blind^Tiniebla^
-MST_RECIPEBOOK_NAME_905000690^Barfire^抗火^바파이^Anti-Feu ^Exfeu^AntiFuego^
-MST_RECIPEBOOK_NAME_905000700^Barblizzard^抗冰^바블리자^Anti-Glace^Exeis^AntiHielo^
-MST_RECIPEBOOK_NAME_905000710^Barthunder^抗雷^바선더^Anti-Foudre^Exblitz^AntiElectro^
-MST_RECIPEBOOK_NAME_905000720^Barwater^抗水^바워터^Anti-Eau^Exaqua^AntiAgua^
-MST_RECIPEBOOK_NAME_905000730^Baraero^抗風^바에어로^Anti-Vent^Exaero^AntiAero^
-MST_RECIPEBOOK_NAME_905000740^Barstone^抗土^바스톤^Anti-Terre^Exterra^AntiPiedra^
-MST_RECIPEBOOK_NAME_905000760^Silence^沉默^사일런스^Silence^Stille^Mutis^
-MST_RECIPEBOOK_NAME_905000770^Barfira^全抗火^바파이라^Anti-Feu +^Exfeura^AntiFuego+^
-MST_RECIPEBOOK_NAME_905000780^Barblizzara^全抗冰^바블리자라^Anti-Glace +^Exeisra^AntiHielo+^
-MST_RECIPEBOOK_NAME_905000790^Barthundara^全抗雷^바선더라^Anti-Foudre +^Exblitzra^AntiElectro+^
-MST_RECIPEBOOK_NAME_905000800^Shell^魔防護^셸^Barrière^Vallum^Escudo^
-MST_RECIPEBOOK_NAME_905000820^Deshell^弱心^디셸^Retire-Barrière ^Devall^AntiEscudo^
-MST_RECIPEBOOK_NAME_905000830^Barwatera^全抗水^바워터라^Anti-Eau +^Exaquara^AntiAgua+^
-MST_RECIPEBOOK_NAME_905000840^Baraerora^全抗風^바에어로라^Anti-Vent +^Exaerora^AntiAero+^
-MST_RECIPEBOOK_NAME_905000850^Barstonra^全抗土^바스톤라^Anti-Terre +^Exterrara^AntiPiedra+^
-MST_RECIPEBOOK_NAME_905200010^Steal^盜取^훔치기^Voler^Stehlen^Robar^
-MST_RECIPEBOOK_NAME_905200120^Brace^忍耐^견디기^Endurance^Trotzen^Aguante^
-MST_RECIPEBOOK_NAME_905200510^Fire Blade^火焰劍^파이어 검^Lame Feu ^Feuer-Klinge^Hoja Piro^
-MST_RECIPEBOOK_NAME_905200520^Blizzard Blade^暴雪劍^블리자드 검^Lame Glace ^Eis-Klinge^Hoja Hielo^
-MST_RECIPEBOOK_NAME_905200550^Silence Blade^沉默劍^사일런스 검^Lame Silence ^Stille-Klinge^Hoja Mutis^
-MST_RECIPEBOOK_NAME_905200560^Water Blade^流水劍^워터 검^Lame Eau^Aqua-Klinge^Hoja Aqua^
-MST_RECIPEBOOK_NAME_905200580^Stone Blade^落石劍^스톤 검^Lame Terre^Terra-Klinge^Hoja Piedra^
-MST_RECIPEBOOK_NAME_905200590^Blind Blade^盲目劍^블라인 검^Lame Cécité^Blend-Klinge^Hoja Tiniebla^
-MST_RECIPEBOOK_NAME_905200600^Bio Blade^毒化劍^바이오 검^Lame Toxine^Bio-Klinge^Hoja Bio^
-MST_RECIPEBOOK_NAME_905200800^Magic Infuse^魔合擊^마법 연계^Sortilège ténébreux^Schattenfusion^Infundir magia^
-MST_RECIPEBOOK_NAME_905201160^Mental Break^潰心^멘탈 브레이크^Déprime^Geistbrecher^Rompeespíritu^
-MST_RECIPEBOOK_NAME_905201320^Bio Blaster^毒化射線^바이오 블래스터^Nuage toxique^Bioblaster^Onda Bío^
-MST_RECIPEBOOK_NAME_901000280^Bomb Fragment^炸彈碎片^봄의 파편^Éclat de bombo^Bombensplitter^Trozo de bom^
-MST_RECIPEBOOK_NAME_901000340^Fish Scale^魚之鱗^물고기 비늘^Écaille de poisson^Fischschuppe^Escama de pez^
-MST_RECIPEBOOK_NAME_901000360^Giant Feather^巨鳥羽毛^거대 새의 깃털^Plume géante^Riesenfeder^Pluma de gran ave^
-MST_RECIPEBOOK_NAME_901000480^Pinwheel^風車^풍차 칼날^Moulinet^Klingenstern^Molinillo^
-MST_RECIPEBOOK_NAME_903000130^Icebrand^冰印劍^얼음서리 검^Cryolame^Frostbrand^Estoque de hielo^
-MST_RECIPEBOOK_NAME_903000140^Coral Sword^珊瑚劍^산호검^Épée en corail^Korallenschwert^Sable de coral^
-MST_RECIPEBOOK_NAME_903000680^Fire Rod^火焰棒^불의 홀장^Sceptre de feu^Feuerrute^Vara ígnea^
-MST_RECIPEBOOK_NAME_903000860^Capella^五車二^카펠라^Capella^Capella^Capella^
-MST_RECIPEBOOK_NAME_903000940^Shock Whip^電擊鞭^전기 채찍^Fouet électrique^Schockpeitsche^Latigazo^
-MST_RECIPEBOOK_NAME_904000040^Ochre Shield^輕盾^가벼운 방패^Bouclier léger^Blitzschild^Escudo ocre^
-MST_RECIPEBOOK_NAME_904000210^Green Beret^綠色貝雷帽^초록 베레모^Béret vert^Grünes Barett^Boina verde^
-MST_RECIPEBOOK_NAME_904000330^Barbut^開面盔^무장투구^Barbute^Barbuta^Barbuta^
-MST_RECIPEBOOK_NAME_904000690^Sage's Surplice^祭司法袍^사제 로브^Surplis de sage^Priestergerwand^Roquete de sabio^
-MST_RECIPEBOOK_NAME_905000750^Protect^物防護^프로테스^Bouclier^Protes^Coraza^
-MST_RECIPEBOOK_NAME_905100040^MP +10%^MP+10%^MP+10%^PM +10%^MP + 10 %^PM +10%^
-MST_RECIPEBOOK_NAME_905100160^SPR +10%^精神+10%^정신력+10%^PSY +10%^PSY + 10 %^ESP +10%^
-MST_RECIPEBOOK_NAME_905101020^Bug Killer^殺蟲^벌레 킬러^Tue-insectes^Pestizid^Matabichos^
-MST_RECIPEBOOK_NAME_901000030^X-Potion^特級治療劑^엑스 포션^Potion X^X-Trank^Poción X^
-MST_RECIPEBOOK_NAME_901000050^Turbo Ether^高級以太^에테르 터보^Éther +^Turbo-Äther^Éter turbo^
-MST_RECIPEBOOK_NAME_901000430^Holy Torch^神聖火把^성스러운 횃불^Torche sacrée^Heilige Fackel^Antorcha sagrada^
-MST_RECIPEBOOK_NAME_903000490^Mythril Spear^秘銀長槍^미스릴 창^Lance en mithril^Mithrilspeer^Lanza de mitrilo^
-MST_RECIPEBOOK_NAME_904000220^Mage's Hat^魔術師帽子^마술사 모자^Chapeau de mage^Magierhut^Chistera mágica^
-MST_RECIPEBOOK_NAME_904000750^Sage's Robe^賢者法袍^현자의 로브^Robe de sage^Weisenrobe^Túnica de sabio^
-MST_RECIPEBOOK_NAME_904000800^Mythril Gloves^秘銀護手^미스릴 팔보호대^Gants en mithril^Mithrilhandschuhe^Guantes de mitrilo^
-MST_RECIPEBOOK_NAME_905000070^Cura^中療傷^케알라^Soin +^Vitra^Cura+^
-MST_RECIPEBOOK_NAME_905100130^DEF +10%^防禦+10%^방어력+10%^DÉF +10%^ABW + 10 %^DEF +10%^
-MST_RECIPEBOOK_NAME_903000390^Mythril Hammer^秘銀鎚^미스릴 망치^Marteau en mithril^Mithrilhammer^Martillo de mitrilo^
-MST_RECIPEBOOK_NAME_903000540^Wind Spear^疾風槍^바람의 창^Lance zéphyr^Windspeer^Lanza eólica^
-MST_RECIPEBOOK_NAME_904000340^Mythril Helm^秘銀盔^미스릴 투구^Casque en mithril^Mithrilhelm^Yelmo de mitrilo^
-MST_RECIPEBOOK_NAME_905000870^Bravery^勇氣^브레이브^Bravoure^Courage^Bravura^
-MST_RECIPEBOOK_NAME_905100100^MAG +10%^魔力+10%^마력+10%^MAGIE +10%^MAG + 10 %^MAG +10%^
-MST_RECIPEBOOK_NAME_1000000000^Fine Blade^良質劍^고급 브로드소드^Glaive fin^Besseres Breitschwert^Gran espada ancha^
-MST_RECIPEBOOK_NAME_1000000001^Superior Blade^精製劍^명품 브로드소드^Glaive supérieur^Überragende Klinge^Hoja superior^
-MST_RECIPEBOOK_NAME_901000300^Antarctic Wind^南極之風^남극의 바람^Vent antarctique^Antarktiswind^Aire antártico^
-MST_RECIPEBOOK_NAME_901000320^Zeus's Rage^宙斯之怒^제우스의 분노^Colère de Zeus^Zorn des Zeus^Furia de Zeus^
-MST_RECIPEBOOK_NAME_901000380^Earth Drum^大地之鼓^대지의 북^Tambour terrien^Erdentrommel^Tambor de tierra^
-MST_RECIPEBOOK_NAME_903000030^Mythril Dagger^秘銀短劍^미스릴 단검^Dague en mithril^Mithrildolch^Daga de mitrilo^
-MST_RECIPEBOOK_NAME_903000050^Main Gauche^左手劍^왼손 단검^Main gauche^Stilett^Main gauche^
-MST_RECIPEBOOK_NAME_903000100^Mythril Sword^秘銀劍^미스릴 검^Épée en mithril^Mithrilschwert^Espada de mitrilo^
-MST_RECIPEBOOK_NAME_903000240^Osafune^備前長船^비젠오사후네^Osafune^Osafune^Osafune^
-MST_RECIPEBOOK_NAME_903000450^Mythril Mace^秘銀權杖^미스릴 메이스^Masse en mithril^Mithrilkeule^Maza de mitrilo^
-MST_RECIPEBOOK_NAME_903000600^Mythril Claws^秘銀爪^미스릴 발톱^Griffes en mithril^Mithrilklauen^Garras de mitrilo^
-MST_RECIPEBOOK_NAME_903000810^Mythril Bow^秘銀弓^미스릴 활^Arc en mithril^Mithrilbogen^Arco de mitrilo^
-MST_RECIPEBOOK_NAME_903000950^Mythril Whip^秘銀鞭^미스릴 채찍^Fouet en mithril^Mithrilpeitsche^Látigo de mitrilo^
-MST_RECIPEBOOK_NAME_904000050^Mythril Buckler^秘銀輕盾^미스릴 가벼운 방패^Targe en mithril^Mithrilbuckler^Rodela de mitrilo^
-MST_RECIPEBOOK_NAME_904000080^Large Shield^大盾^대형 방패^Grand bouclier^Turmschild^Escudo grande^
-MST_RECIPEBOOK_NAME_904000090^Mythril Shield^秘銀盾^미스릴 방패^Targe en mithril^Mithrilschild^Escudo de mitrilo^
-MST_RECIPEBOOK_NAME_904000230^Tiger Mask^猛虎面具^호랑이 가면^Masque de tigre^Tigermaske^Máscara de tigre^
-MST_RECIPEBOOK_NAME_904000530^Mythril Plate^秘銀甲^미스릴 흉갑^Armure de plates en mithril^Mithrilplatte^Peto de mitrilo^
-MST_RECIPEBOOK_NAME_904000540^Silver Cuirass^白銀胸甲^은제 흉갑^Cotte en argent^Silberharnisch^Coraza de plata^
-MST_RECIPEBOOK_NAME_904000590^Paladin Armor^騎士鎧^기사 갑옷^Armure de paladin^Paladinrüstung^Armadura paladina^
-MST_RECIPEBOOK_NAME_904000600^Mythril Armor^秘銀鎧^미스릴 갑옷^Armure en mithril^Mithrilrüstung^Armadura de mitrilo^
-MST_RECIPEBOOK_NAME_904000700^Wizard's Robe^魔術師長袍^마술사 로브^Robe de mage^Magierrobe^Túnica de mago^
-MST_RECIPEBOOK_NAME_904001170^Moon Bracer^月之手鐲^달의 팔찌^Brassard lunaire^Mondarmband^Manilla de luna^
-MST_RECIPEBOOK_NAME_905000130^Dispel^驅魔^디스펠^Dissipation^Bann^Antimagia^
-MST_RECIPEBOOK_NAME_905000880^Faith^信念^페이스^Foi^Ener^Fe^
-MST_RECIPEBOOK_NAME_905101100^Spirit Slayer^滅精^정령 킬러^Tue-esprits^Geisttöter^Mataespíritus^
-MST_RECIPEBOOK_NAME_905101500^HP +15%^HP+15%^HP+15%^PV +15%^LP + 15 %^VIT +15%^
-MST_RECIPEBOOK_NAME_905200540^Sleep Blade^催眠劍^슬리플 검^Lame Sommeil^Schlaf-Klinge^Hoja Sedante^
-MST_RECIPEBOOK_NAME_905200570^Aero Blade^勁風劍^에어로 검^Lame Vent^Aero-Klinge^Hoja Aero^
-MST_RECIPEBOOK_NAME_905200660^Stonra Blade^中落石劍^스톤라 검^Lame Terre +^Terrara-Klinge^Hoja Piedra+^
-MST_RECIPEBOOK_NAME_903000400^Vorpal Axe^斬首斧^죽음의 도끼^Hache vorpal^Vorpale Axt^Hacha mortífera^
-MST_RECIPEBOOK_NAME_903000570^Gae Bolg^龍槍蓋博爾格^용창 게 볼그^Gae Bolg^Gae Bolg^Gae Bolg^
-MST_RECIPEBOOK_NAME_901000170^Light Curtain^光之簾幕^빛의 장막^Rideau de lumière^Lichtvorhang^Manto de luz^
-MST_RECIPEBOOK_NAME_901000370^Wyvern's Feather^雙足飛龍羽毛^와이번의 날개^Plume de wyverne^Lindwurmfeder^Pluma de guiverno^
-MST_RECIPEBOOK_NAME_901000410^White Fang^白色獠牙^하얀 송곳니^Croc Blanc^Weißzahn^Colmillo blanco^
-MST_RECIPEBOOK_NAME_903000190^Mythril Saber^秘銀大劍^미스릴 대검^Sabre en mithril^Mithrilsäbel^Sable mitrilo^
-MST_RECIPEBOOK_NAME_903000280^Chirijiraden^塵地螺鈿飾劍^진지 나전장식검^Chirijiraden^Chirijiraden^Chirijiraden^
-MST_RECIPEBOOK_NAME_903000320^Mythril Axe^秘銀斧^미스릴 도끼^Hache en mithril^Mithrilaxt^Hacha de mitrilo^
-MST_RECIPEBOOK_NAME_904000100^Escutcheon^紋章盾^문장 방패^Écu^Escutcheon^Escudete^
-MST_RECIPEBOOK_NAME_904000550^Brigandine^鎖子鎧^두정갑^Brigandine^Brigandine^Brigantina^
-MST_RECIPEBOOK_NAME_905000150^Curaga^齊療傷^케알다^Soin X^Vitaga^Cura++^
-MST_RECIPEBOOK_NAME_905100190^EVO MAG +10%^召喚魔法+10%^소환마법+10%^INV +10%^BSW MAG + 10 %^INVOCACIÓN +10%^
-MST_RECIPEBOOK_NAME_905200640^Watera Blade^中流水劍^워터라 검^Lame Eau +^Aquara-Klinge^Hoja Aqua+^
-MST_RECIPEBOOK_NAME_903000650^Winged Saint^仁義徽章^의리의 문장^Cœur de Paladin ^Integerschwingen^El Noble^
-MST_RECIPEBOOK_NAME_901000180^Morale Talisman^豪傑護身符^호걸의 탈리스만^Talisman de héros^Aventuriertalisman^Talismán heroico^
-MST_RECIPEBOOK_NAME_1000000002^Rod of Gravity^重力棒^그라비데의 홀장^Sceptre de gravité^Gravitas-Rute^Vara de gravedad^
-MST_RECIPEBOOK_NAME_1000000003^Void Vessel^虛無容器^빈 그릇^Réceptacle du vide^Behältnis der Leere^Recipiente del vacío^
-MST_RECIPEBOOK_NAME_1000000004^Stonra Blade^中落石劍^스톤라 검^Lame Terre +^Terrara-Klinge^Hoja Piedra+^
-MST_RECIPEBOOK_NAME_1000000005^HP +15%^HP+15%^HP+15%^PV +15%^LP + 15 %^VIT +15%^
-MST_RECIPEBOOK_NAME_1000000006^Burst Shot^爆裂射擊^폭렬 사격^Tir critique^Salve^Tiro explosivo^
-MST_RECIPEBOOK_NAME_1000000007^Standard Mogcake Pack^莫古月餅普通禮盒^일반 모그리 케이크 상자^Paquet de mogcakes standard^Standardpaket Mogkekse^Minilote mogupastel^
-MST_RECIPEBOOK_NAME_1000000008^Rare Mogcake Pack^莫古月餅精品禮盒^스페셜 모그리 케이크 상자^Paquet de mogcakes rares^Seltenes Paket Mogkekse^Lote mogupastel^
-MST_RECIPEBOOK_NAME_1000000009^Premium Mogcake Pack^莫古月餅金裝禮盒^프리미엄 모그리 케이크 상자^Paquet de mogcakes premium^Premiumpaket Mogkekse^Superlote mogupastel^
-MST_RECIPEBOOK_NAME_901000510^Lunar Curtain^月之簾幕^달의 장막^Rideau lunaire^Mondschleier^Manto de luna^
-MST_RECIPEBOOK_NAME_901000310^North Wind^北極之風^북극의 바람^Vent arctique^Nordwind^Aire ártico^
-MST_RECIPEBOOK_NAME_903000120^Flametongue^火舌^불꽃의 혀^Langue de feu^Flammenzunge^Hoja ardiente^
-MST_RECIPEBOOK_NAME_905100070^ATK +10%^攻擊+10%^공격력+10%^ATT +10%^ANG + 10 %^ATQ +10%^
-MST_RECIPEBOOK_NAME_905100710^Auto-Protect^自動物防護^자동 프로테스^Auto-Bouclier^Auto-Protes^AutoCoraza^
-MST_RECIPEBOOK_NAME_905200680^Biora Blade^猛毒化劍^바이오라 검^Lame Toxine +^Biora-Klinge^Hoja Bio+^
-MST_RECIPEBOOK_NAME_901000290^Right Arm^炸彈右臂^봄의 오른팔^Poigne de bombo^Bomberarm (rechts)^Brazo de bom^
-MST_RECIPEBOOK_NAME_901000420^Blue Fang^藍色獠牙^파란 송곳니^Croc Bleu^Blauer Reißzahn^Colmillo azul^
-MST_RECIPEBOOK_NAME_903000110^Sleep Sword^睡眠劍^수면검^Lame Morphée^Schlafschwert^Espada Morfeo^
-MST_RECIPEBOOK_NAME_903000510^Flame Lance^火焰長槍^불꽃의 창^Lance de feu^Flammenspeer^Lanza ígnea^
-MST_RECIPEBOOK_NAME_903000620^Poison Knuckles^猛毒拳套^맹독 너클^Griffes empoisonnées^Giftkrallen^Puño venenoso^
-MST_RECIPEBOOK_NAME_904000120^Thunder Shield^雷神盾^뇌신의 방패^Bouclier tonnerre^Donnerschild^Escudo Electro^
-MST_RECIPEBOOK_NAME_904000620^Ice Armor^寒冰鎧^얼음 갑옷^Armure de glace^Frostrüstung^Armadura gélida^
-MST_RECIPEBOOK_NAME_905100720^Auto-Shell^自動魔防護^자동 셸^Auto-Barrière^Auto-Vallum^AutoEscudo^
-MST_RECIPEBOOK_NAME_905200690^Osmose Blade^攝魔劍^아스필 검^Lame Aspire ^Osmoseklinge^Hoja Aspir^
-MST_RECIPEBOOK_NAME_1000000010^Shining Splendor^光輝閃耀^광휘의 검^Splendeur éclatante^Strahlende Pracht^Esplendor creciente^
-MST_RECIPEBOOK_NAME_1000000011^Y-Potion^Y治療劑^와이 포션^Potion Y^Y-Trank^Poción Y^
-MST_RECIPEBOOK_NAME_1000000012^Mega Ether^超級以太^메가 에테르^Méga Ether^Mega-Äther^Mega éter^
-MST_RECIPEBOOK_NAME_1000000013^Blood Sword^嗜血魔劍^블러드 소드^Épée sanglante^Blutschwert^Espada sangrienta^
-MST_RECIPEBOOK_NAME_901000400^Red Fang^紅色獠牙^붉은 송곳니^Croc rouge^Roter Reißzahn^Colmillo rojo^
-MST_RECIPEBOOK_NAME_903000500^Trident^三叉戟^삼지창^Trident^Dreizack^Tridente^
-MST_RECIPEBOOK_NAME_903000700^Rod of Lightning^雷電棒^천둥의 홀장^Bâton de Foudre^Blitzstab^Vara de rayo^
-MST_RECIPEBOOK_NAME_903000830^Elven Bow^精靈弓^요정의 활^Arc elfique^Elfenbogen^Arco elfo^
-MST_RECIPEBOOK_NAME_904000610^Flame Mail^烈焰甲^불꽃 갑옷^Cotte de feu^Flammenpanzer^Malla ígnea^
-MST_RECIPEBOOK_NAME_905000500^Death^致死一擊^데스^Mort^Exitus^Muerte^
-MST_RECIPEBOOK_NAME_905101090^Bird Killer^射鳥^새 킬러^Tue-oiseaux ^Papageno^Matapájaros^
-MST_RECIPEBOOK_NAME_905101120^Auto-Potion^自動治療劑^자동 포션^Auto-Potion^Auto-Trank^Autopoción^
-MST_RECIPEBOOK_NAME_905201130^Power Break^潰力^파워 브레이크^Émousse ^Kraftbrecher^Rompebrazo^
-MST_RECIPEBOOK_NAME_905201140^Magic Break^潰魔^매직 브레이크^Brise-magie^Magiebrecher^Rompemagia^
-MST_RECIPEBOOK_NAME_903000330^Giant's Axe^巨人斧^거인의 도끼^Hache de géant^Gigantenaxt^Hacha de gigante^
-MST_RECIPEBOOK_NAME_903000440^Werebuster^鎮獸杖^웨어버스터^Garogarou^Wolftöter^Matatoxis^
-MST_RECIPEBOOK_NAME_903000520^Ice Lance^玄冰槍^얼음 랜스^Lance de glace^Frostspeer^Lanza de hielo^
-MST_RECIPEBOOK_NAME_903000690^Ice Rod^玄冰棒^얼음의 홀장^Sceptre de glace^Eisrute^Vara de hielo^
-MST_RECIPEBOOK_NAME_903000880^Sirius^天狼星^시리우스^Sirius^Sirius^Sirio^
-MST_RECIPEBOOK_NAME_904000270^Mystery Veil^神秘面紗^신비한 베일^Voile mystique^Mystikschleier^Velo de misterio^
-MST_RECIPEBOOK_NAME_904000630^Golden Armor^黃金鎧^황금 갑옷^Golden Armor^Goldrüstung^Armadura dorada^
-MST_RECIPEBOOK_NAME_904000740^Black Robe^黑法袍^검은색 로브^Robe noire^Schattenrobe^Túnica negra^
-MST_RECIPEBOOK_NAME_905101060^Undead Killer^驅靈^언데드 킬러^Tueur de morts-vivants^Weihrauch^Matazombis^
-MST_RECIPEBOOK_NAME_905201150^Armor Break^潰甲^아머 브레이크^Brise-armure^Panzerbrecher^Rompecoraza^
-MST_RECIPEBOOK_NAME_905200530^Thunder Blade^雷電劍^선더 검^Lame Foudre ^Blitz-Klinge^Hoja Electro^
-MST_RECIPEBOOK_NAME_904001410^Monarch's Ring^君王之戒^군주의 반지^Anneau du monarque^Monarchenring^Anillo del monarca^
-MST_RECIPEBOOK_NAME_904001420^Domination Ring^支配者之戒^지배자의 반지^Anneau du dominant^Herrschaftsring^Anillo del dominante^
-MST_RECIPEBOOK_NAME_904001430^Ruler's Ring^統治者之戒^통치자의 반지^Anneau du chef ^Herrscherring^Anillo del líder^
-MST_RECIPEBOOK_NAME_904001440^Ring of Dominion^超越者之戒^초월자의 반지^Anneau du dominé ^Ring der Macht^Anillo del subyugador^
-MST_RECIPEBOOK_NAME_901000330^Heavenly Wrath^眾神之怒^신들의 분노^Ire céleste^Himmelszorn^Ira divina^
-MST_RECIPEBOOK_NAME_901000350^Dragon Scale^龍之鱗^용 비늘^Écaille de dragon^Drachenschuppe^Escama de dragón^
-MST_RECIPEBOOK_NAME_903000780^Golden Staff^黃金杖^황금 주술봉^Bâton en or^Goldstock^Bastón de oro^
-MST_RECIPEBOOK_NAME_903001060^Blessed Hammer^祝福鎚^축복받은 망치^Marteau béni^Heiliger Hammer^Maza sagrada^
-MST_RECIPEBOOK_NAME_904000110^Ice Shield^寒冰盾^얼음 방패^Bouclier de glace^Eisschild^Escudo de hielo^
-MST_RECIPEBOOK_NAME_904000560^Golden Vest^黃金胸甲^황금 흉갑^Gilet en or^Goldweste^Vestido de oro^
-MST_RECIPEBOOK_NAME_904000730^White Robe^白法袍^하얀색 로브^Robe blanche^Heiligenrobe^Túnica blanca^
-MST_RECIPEBOOK_NAME_903001070^Budding Maple Wand^綠葉楓木幻杖^어린잎 마법봉^Baguette bourgeonnante^Knospender Ahornstab^Varita brote de arce^
-MST_RECIPEBOOK_NAME_904001450^Scion Conjurer's Dalmatica^血盟幻術師厚袍^야슈톨라 달마티카^Dalmatique de Y'shtola^Zauberspross-Dalmatica^Dalmática de Scion^
-MST_RECIPEBOOK_NAME_904001460^Scion Conjurer's Pattens^血盟幻術師木鞋^야슈톨라 나무덧신^Patins de Y'shtola^Zauberspross-Trippen^Zuecos de Scion^
-MST_RECIPEBOOK_NAME_903001080^Cobalt Winglet^鈷鐵翼劍^날개검^Espafut^Kobalt-Winglet^Hoja alada de cobalto^
-MST_RECIPEBOOK_NAME_904001470^Antecedent's Attire^血盟女性套裝^민필리아 의복^Tenue de Minfilia^Vorläuferkleidung^Vestimentas de Scion^
-MST_RECIPEBOOK_NAME_904001480^Meteor Survivor Ring^隕石倖存者指環^메테오 극복 반지^An. survivant du Météore^Meteor-Überlebensring^Anillo meteoviviente^
-MST_RECIPEBOOK_NAME_903001090^Ul'dahn Falchion^黃砂彎刃刀^울다하 언월도^Fauchon uldien^Ul'dahn-Falchion^Cimitarra de Ul'dahn^
-MST_RECIPEBOOK_NAME_904001490^Scion Thief's Tunic^血盟盜賊束腰衣^산크레드 튜닉^Tunique de Thancred^Diebesspross-Tunika^Túnica de Scion^
-MST_RECIPEBOOK_NAME_904001500^Scion Thief's Halfgloves^血盟盜賊半指手套^산크레드 손등장갑^Mitaines de Thancred^Diebesspross-Handschuhe^Guantecillos de Scion^
-MST_RECIPEBOOK_NAME_901000390^Gaia's Cry^大地之歎^대지의 진동^Gémissement de Gaïa^Erdengrollen^Llanto de Gaia^
-MST_RECIPEBOOK_NAME_903001100^Golden Blade^黃金劍^황금 대검^Lame en or^Goldklinge^Hoja de oro^
-MST_RECIPEBOOK_NAME_904001600^Flame Shield^烈焰盾^불꽃의 방패^Bouclier de feu^Flammenschild^Escudo ardiente^
-MST_RECIPEBOOK_NAME_904000280^Circlet^頭冠^머리장식^Diadème^Stirnreif^Diadema^
-MST_RECIPEBOOK_NAME_904001190^Angel Ring^天使戒指^천사의 반지^Bague d'ange^Engelsring^Anillo de ángel^
-MST_RECIPEBOOK_NAME_903001110^Break Blade^石化劍^브레이크 블레이드^Epée Fossile^Brecherklinge^Sable pétreo^
-MST_RECIPEBOOK_NAME_903001120^Razzmatazz^活力劍^래즈머태즈^Razzmatazz^Rummel^Razzmatazz^
-MST_RECIPEBOOK_NAME_903001130^Hyper Ball^超越球^하이퍼 볼^Balle Cerclée^Hyperball^Balón de ataque^
-MST_RECIPEBOOK_NAME_903001140^Override^超越克服^오버 라이드^Griffe de Dragon^Überbrücken^Sobretensión^
-MST_RECIPEBOOK_NAME_903000530^Thunder Spear^雷電長槍^번개의 창^Lance Tonnerre^Donnerspeer^Lanza de rayo^
-MST_RECIPEBOOK_NAME_903000890^Betelgeuse^參宿四^베텔기우스^Bételgeuse^Beteigeuze^Betelgeuse^
-MST_RECIPEBOOK_NAME_904000130^Golden Shield^黃金盾^황금 방패^Bouclier en or^Goldschild^Escudo de oro^
-MST_RECIPEBOOK_NAME_905000860^Imperil^弱化^위크^Vulnérabilité^Morbid^Aquiles^
-MST_RECIPEBOOK_NAME_1000000014^Microphone^麥克風^마이크^Microphone^Mikrofon^Micrófono^
-MST_RECIPEBOOK_NAME_1000000015^Evening Gloves^晚宴手套^이브닝 글로브^Gant de nuit^Abendhandschuhe^Guantes de noche^
-MST_RECIPEBOOK_NAME_1000000016^Bunny Mask^兔子面具^토끼 가면^Masque de lapin^Häschenmaske^Máscara de conejita^
-MST_RECIPEBOOK_NAME_1000000017^Stylish Black Dress^時尚黑禮裙^세련된 블랙 드레스^Robe noire magnifique^Stillvolles schwarzes Kleid^Traje negro fabuloso^
-MST_RECIPEBOOK_NAME_901000520^Memory Candy^回憶糖果^추억의 알사탕^Bonbon du souvenir^Bonbon der Erinnerung^Caramelo del recuerdo^
-MST_RECIPEBOOK_NAME_903000060^Mage Masher^封魔之刃^메이지 매셔^Dague magik^Magierkiller^Matamagos^
-MST_RECIPEBOOK_NAME_903000900^Ras Algethi^帝座^라스알게티^Ras Algethi^Ras Algethi^Ras-Alghetti^
-MST_RECIPEBOOK_NAME_903001150^Galkan Dagger^伽爾卡短劍^가르칸 단검^Dague Galkan^Galkandolch^Daga Galkan^
-MST_RECIPEBOOK_NAME_903001160^Leucos Voulge^純白戰斧^순백의 벌지^Voulge leucos^Leucos Voulge^Alabarda de Leucos^
-MST_RECIPEBOOK_NAME_903001170^Thoth's Wand^托特權杖^토토의 마법봉^Sceptre de Toth^Thoths Stab^Varita de Thoth^
-MST_RECIPEBOOK_NAME_903001180^Orc Piercer^獸人刺槍^오크를 꿰뚫는 창^Transperceuse d'Orcs^Orkstecher^Penetraorcos^
-MST_RECIPEBOOK_NAME_903001190^Retaliator^反擊者^리탈리에이터^Paire de poings vengeurs^Vergelter^Represaliador^
-MST_RECIPEBOOK_NAME_903001200^Iridal Staff^虹杖^이리달의 지팡이^Bâton prismatique ^Irisstab^Bastón prismático^
-MST_RECIPEBOOK_NAME_903001210^Tactician Magician's Wand^聯邦軍師錫杖^연방 참모의 마법봉^Sceptre de tacticien fédé.^Stab des Magietaktikers^Varita de mago estratega^
-MST_RECIPEBOOK_NAME_903001220^Shark Gun^鯊魚火銃^상어총^Fusil requin^Haiknarre^Rifle tiburón^
-MST_RECIPEBOOK_NAME_903001230^Slick Dart^靈巧飛鏢^능란의 다트^Fléchette glissantes ^Agiler Pfeil^Dardo escurridizo^
-MST_RECIPEBOOK_NAME_903001240^Raikiri^雷切^라이키리^Raikiri^Raikiri^Raikiri^
-MST_RECIPEBOOK_NAME_903001250^Moogle Spear^莫古利長槍^모그리 창^Lance mog ^Mogry-Speer^Lanza moguri^
-MST_RECIPEBOOK_NAME_903001260^Break Shot^破壞銃槍^브레이크 샷^Pourfendeur ^Limitschuss^Partidor^
-MST_RECIPEBOOK_NAME_903001270^collab^王狼牙·弓^collab^collab^collab^collab^
-MST_RECIPEBOOK_NAME_903001280^Twin Whip^雙散鞭^쌍두편^Fouet double^Zwillingspeitsche^Látigo gemelo^
-MST_RECIPEBOOK_NAME_903001290^Microphone^麥克風^마이크^Microphone ^Mikrofon^Micrófono^
-MST_RECIPEBOOK_NAME_904001060^Torrent Ring^水神戒指^수신의 반지^Bague azurée^Flutring^Anillo de Sobek^
-MST_RECIPEBOOK_NAME_904001510^Divine Shield^天賜神盾^성스러운 방패^Bouclier divin^Göttlicher Schild^Escudo divino^
-MST_RECIPEBOOK_NAME_904001520^Raven Beret^渡鴉貝雷帽^레이븐 베레모^Béret corbeau^Rabenbarrett^Boina de urraca^
-MST_RECIPEBOOK_NAME_904001530^Tactician Magician's Coat^聯邦軍師制服^연방 참모의 코트^Manteau de tacticien fédé.^Mantel des Magietaktikers^Abrigo de mago estratega^
-MST_RECIPEBOOK_NAME_904001540^Parade Cuirass^巡遊胸甲^퍼레이드 퀴라스^Cuirasse d'apparat^Paradekürass^Coraza de cabalgata^
-MST_RECIPEBOOK_NAME_904001550^Golden Hairpin^金色髮飾^황금 머리장식^Épingle en or^Goldene Haarnadel^Coletero de oro^
-MST_RECIPEBOOK_NAME_904001560^Parade Gorget^巡遊項環^퍼레이드 고지트^Collet d'apparat^Paradekragen^Gorguera de cabalgata^
-MST_RECIPEBOOK_NAME_904001570^Moogle Crown^莫古利王冠^모그리 왕관^Couronne mog ^Mogry-Krone^Corona moguri^
-MST_RECIPEBOOK_NAME_904001580^Moogle Cape^莫古利斗篷^모그리 망토^Cape mog^Mogry-Umhang^Capa moguri^
-MST_RECIPEBOOK_NAME_904001590^Unsui Clothes^雲水衣^운수의 옷^Tunique Unsui^Unsui-Kleidung^Vestido unsui^
-MST_RECIPEBOOK_NAME_904001610^Golden Helm^黃金盔^황금 투구^Casque d'or^Goldhelm^Yelmo dorado^
-MST_RECIPEBOOK_NAME_904001620^collab^青熊護臂^collab^collab^collab^collab^
-MST_RECIPEBOOK_NAME_904001630^collab^海龍護臂^collab^collab^collab^collab^
-MST_RECIPEBOOK_NAME_904001640^collab^恐暴龍護臂^collab^collab^collab^collab^
-MST_RECIPEBOOK_NAME_904001650^collab^青熊頭盔^collab^collab^collab^collab^
-MST_RECIPEBOOK_NAME_904001660^collab^海龍頭盔^collab^collab^collab^collab^
-MST_RECIPEBOOK_NAME_904001670^collab^恐暴龍頭盔^collab^collab^collab^collab^
-MST_RECIPEBOOK_NAME_904001680^collab^青熊胸甲^collab^collab^collab^collab^
-MST_RECIPEBOOK_NAME_904001690^collab^海龍胸甲^collab^collab^collab^collab^
-MST_RECIPEBOOK_NAME_904001700^collab^恐暴龍胸甲^collab^collab^collab^collab^
-MST_RECIPEBOOK_NAME_904001710^Festival Robe+^聖人服改^개량형 산타복^Robe du Pôle Nord +^Festtagsrobe +^Túnica de festival +^
-MST_RECIPEBOOK_NAME_904001720^Festival Cap+^聖人帽改^개량형 산타 모자^Chapeau du Pôle Nord +^Festtagsmütze +^Sombrero de festival +^
-MST_RECIPEBOOK_NAME_904001730^Platinum Tiara^白金頭冠^백금의 티아라^Tiare de platine ^Platinumtiara^Tiara de platino^
-MST_RECIPEBOOK_NAME_904001740^Fransisca^法蘭飛斧^프란시스카^Fransisca^Franziska^Francisca^
-MST_RECIPEBOOK_NAME_904001750^Glory Staff^榮光之杖^영광의 지팡이^Bâton de gloire ^Gloriestab^Bastón de la gloria^
-MST_RECIPEBOOK_NAME_904001760^Kris Knife^波刃匕首^크리스 나이프^Kriss^Krismesser^Navaja enjoyada^
-MST_RECIPEBOOK_NAME_904001770^Royal Ring^王家戒指^왕가의 반지^Anneau royal ^Royaler Ring^Anillo real^
-MST_RECIPEBOOK_NAME_904001780^collab^機動裝甲^collab^collab^collab^collab^
-MST_RECIPEBOOK_NAME_904001790^collab^星辰鎧^collab^collab^collab^collab^
-MST_RECIPEBOOK_NAME_904001800^Evening Glove^晚宴手套^이브닝 글로브^Gant de nuit^Abendhandschuhe^Guantes de noche^
-MST_RECIPEBOOK_NAME_904001810^Bunny Mask^兔子面具^토끼 가면^Masque de lapin^Häschenmaske^Máscara de conejita^
-MST_RECIPEBOOK_NAME_904001820^Stylish Black Dress^時尚黑禮裙^세련된 블랙 드레스^Robe noire magnifique^Stillvolles schwarzes Kleid^Traje negro fabuloso^
-MST_RECIPEBOOK_NAME_905000890^Darkra^中暗黑^다크라^Ténèbres +^Darkra^Sombra+^
-MST_RECIPEBOOK_NAME_905101510^Dragon Killer+^屠龍改^개량형 드래곤 킬러^Tue-dragons +^Drachentöter+^Matadragones+^
-MST_RECIPEBOOK_NAME_905211120^Mog Search^莫古偵查^모그 탐색^Fouille mog^Mogrysuche^Búsqueda moguri^
-MST_RECIPEBOOK_NAME_905211150^Mog Resist^莫古反抗^모그 레지스트^Résistance mog ^Mogryresistenz^Resistencia moguri^
-MST_RECIPEBOOK_NAME_905211160^Mog Rise^莫古崛起^모그 라이즈^Soulèvement mog ^Mogryaufstieg^Ascenso moguri^
-MST_RECIPEBOOK_NAME_905211170^Fira Blade^中火焰劍^파이라 검^Lame Feu +^Feura-Klinge^Hoja Piro+^
-MST_RECIPEBOOK_NAME_1000000020^Chocolate Egg^巧克力蛋^초콜릿 달걀^Œuf en chocolat ^Schokoladenei^Huevo de chocolate^
-MST_RECIPEBOOK_NAME_1000000021^Great Egg^宏偉蛋^위대한 달걀^Grand œuf ^Großes Ei^Huevo grande^
-MST_RECIPEBOOK_NAME_1000000022^Magical Egg^魔法蛋^마법의 달걀^Œuf magique^Magisches Ei^Huevo mágico^
-MST_RECIPEBOOK_NAME_1000000023^Radiant Egg^光輝蛋^빛나는 달걀^Œuf rayonnant^Strahlendes Ei^Huevo radiante^
-MST_RECIPEBOOK_NAME_1000000024^Staff of Wrath^憤怒手杖^분노의 지팡이^Bâton de la colère ^Stab des Zorns^Bastón de la ira^
-MST_RECIPEBOOK_NAME_1000000025^Crown of Justice^正義王冠^정의의 왕관^Couronne de la justice^Krone der Gerechtigkeit^Corona de la justicia^
-MST_RECIPEBOOK_NAME_1000000026^Black Bandana^黑頭巾^검은 반다나^Bandana noir ^Schwarzes Kopftuch^Bandana negra^
-MST_RECIPEBOOK_NAME_1000000027^Second Knife^隱蔽小刀^세컨드 나이프^Couteau de secours^Zweitmesser^Cuchillo de repuesto^
-MST_RECIPEBOOK_NAME_1000000028^Icy Veins^冰項鏈^얼어붙은 맥^Veine de glace ^Eisvenen^Capilares helados^
-MST_RECIPEBOOK_NAME_1000000029^Cold Snap^冰玉^혹한의 보주^Orbe gelé ^Kältewelle^Orbe helado^
-MST_RECIPEBOOK_NAME_1000000030^Drakesclaw Rod^龍爪魔棒^드래곤 발톱의 홀장^Sceptre Griffodragon^Drachenkrallenstab^Vara garradragón^
-MST_RECIPEBOOK_NAME_1000000031^Drakesguard Robe^龍護法袍^드래곤 수호의 로브^Robe gardragon^Umhang der Drachenwache^Túnica dracoguardián^
-MST_RECIPEBOOK_NAME_1000000032^Bahamut's Fang^巴哈姆特之牙^바하무트의 엄니^Croc de Bahamut obscur^Bahamuts Reißzahn^Colmillo de Bahamut^
-MST_RECIPEBOOK_NAME_1000000033^Dragon's Roar^龍嘯火槍^드래곤의 포효^Rugissement de dragon ^Drachengebrüll^Rugido de dragón^
-MST_RECIPEBOOK_NAME_903001320^Guts Knuckle^勇氣拳套^근성의 너클^Poings destructeurs^Stahlknöchel^Nudillos valerosos^
-MST_RECIPEBOOK_NAME_903001330^Golden Eye^黃金之眼^황금의 눈^Œil doré^Goldenes Auge^Óculo dorado^
-MST_RECIPEBOOK_NAME_904001880^Scion Striker's Visor^血盟拳手面罩^이다 얼굴가리개^Visière d'Yda^Maske der Faustkämpferin^Visor de Yda^
-MST_RECIPEBOOK_NAME_904001890^Scion Striker's Attire^血盟拳手套裝^이다 의복^Tenue d'Yda^Kleidung der Faustkämpferin^Indumentaria de Yda^
-MST_RECIPEBOOK_NAME_904001900^Scion Thaumaturge's Monocle^血盟咒術師單眼鏡^파파리모 단안경^Monocle de Papalymo^Monokel des Thaumaturgen^Monóculo de Papalymo^
-MST_RECIPEBOOK_NAME_904001910^Scion Thaumaturge's Robe^血盟咒術師長袍^파파리모 로브^Robe de Papalymo^Robe des Thaumaturgen^Túnica de Papalymo^
-MST_RECIPEBOOK_NAME_1000000034^Adventurer^冒險者^모험가^Aventurier^Abenteurer^Aventurero^
-MST_RECIPEBOOK_NAME_1000000035^Adventurer II^冒險者 II^모험가II^Aventurier+^Abenteurer II^Aventurero+^
-MST_RECIPEBOOK_NAME_1000000036^Adventurer III^冒險者 III^모험가III^Aventurier++^Abenteurer III^Aventurero++^
-MST_RECIPEBOOK_NAME_1000000037^Adventurer IV^冒險者 IV^모험가IV^Aventurier+++^Abenteurer IV^Aventurero+++^
-MST_RECIPEBOOK_NAME_1000000038^Adventurer V^冒險者 V^모험가V^Aventurier++++^Abenteurer V^Aventurero++++^
-MST_RECIPEBOOK_NAME_903001300^Broken Arm^破壞之臂^브로켄 암^Bras brisé^Gebrochener Arm^Brazo partido^
-MST_RECIPEBOOK_NAME_903001310^Angel Wand^天使魔杖^천사의 완드^Baguette angélique^Engelsstab^Vara angelical^
-MST_RECIPEBOOK_NAME_903001340^Platinum Musket^白金滑膛槍^백금의 소총^Mousquet de platine ^Platinmuskete^Mosquete de platino^
-MST_RECIPEBOOK_NAME_903001350^Ancient Overlord^古代霸王^고대의 패왕^Ancien suzerain^Uralter Herrscher^Señor antiguo^
-MST_RECIPEBOOK_NAME_903001360^Iron Will^鐵塊^철괴^Volonté de fer^Eiserner Wille^Voluntad férrea^
-MST_RECIPEBOOK_NAME_903001370^Dragoon Lance^草原之龍騎槍^초원의 용기창^Lance de la prairie^Dragonerlanze^Lanza dracónica^
-MST_RECIPEBOOK_NAME_903001380^Type-3 Fists^三式指虎^3식 브래스너클^Poings Type-3^Typ-3-Fäuste^Puños tipo 3^
-MST_RECIPEBOOK_NAME_903001390^Cruel Oath^漆黑誓約^흑의 서약^Serment cruel^Grausamer Schwur^Juramento cruel^
-MST_RECIPEBOOK_NAME_904001830^Bellows Arm Guard^蛇紋謢臂殼^자바라 팔토시^Protection pliable^Bellows-Armschutz^Protector plegable^
-MST_RECIPEBOOK_NAME_904001840^Magic Barrier Device^魔導屏障發生裝置^마도 배리어 발생 장치^Appareil de barrière magique^Magische-Barriere-Gerät^Mecanismo de barrera^
-MST_RECIPEBOOK_NAME_904001850^ZD Helmet^ZD頭盔^ZD 헬멧^Casque ZD^ZD-Helm^Yelmo ZD^
-MST_RECIPEBOOK_NAME_904001860^Angel Wing^天使之翼^천사의 날개^Aile d'ange^Engelsflügel^Ala de ángel^
-MST_RECIPEBOOK_NAME_904001870^Platinum Robe^白金法袍^백금의 로브^Tunique de platine ^Platinrobe^Túnica de platino^
-MST_RECIPEBOOK_NAME_904001920^Seraphim Shield^織天使盾^치천사의 방패^Bouclier de Séraphin^Seraphimschild^Escudo de serafín^
-MST_RECIPEBOOK_NAME_904001930^Emil's Head^艾米爾頭^에밀의 머리^Coiffe d'Émile^Emils Kopf^Cabeza de Emil^
-MST_RECIPEBOOK_NAME_904001940^Heavy Armor: B^重裝裝甲：B^중장 아머: B^Armure lourde : B^Schwere Rüstung: B^Armadura pesada: B^
-MST_RECIPEBOOK_NAME_904001950^Platina Armor^白金鎧甲^백금의 갑옷^Armure de platine ^Platinrüstung^Armadura de platino^
-MST_RECIPEBOOK_NAME_905211180^Blizzara Blade^中暴雪劍^블리자라 검^Lame Glace +^Eisra-Klinge^Hoja Hielo+^
-MST_RECIPEBOOK_NAME_905211190^Thundara Blade^中雷電劍^선더라 검^Lame Foudre +^Blitzra-Klinge^Hoja Electro+^
-MST_RECIPEBOOK_NAME_905211200^Aerora Blade^中勁風劍^에어로라 검^Lame Vent +^Aerora-Klinge^Hoja Aero+^
-MST_RECIPEBOOK_NAME_903001400^Platinum Dagger^白金短劍^백금의 단검^Dague de platine ^Platinumdolch^Daga de platino^
-MST_RECIPEBOOK_NAME_903001410^Valiant II^勇士Ⅱ^배리언트Ⅱ^^^Heroica^
-MST_RECIPEBOOK_NAME_903001420^Precision Lance^精準長槍^프리셔스 랜스^^^La Parca^
-MST_RECIPEBOOK_NAME_903001430^Valiant^勇士^배리언트^^^Valiant^
-MST_RECIPEBOOK_NAME_903001440^Cypress Pile^柏木棒^사이프러스 파일^Bâton de cyprès^Zypressen^Palo de ciprés^
-MST_RECIPEBOOK_NAME_903001450^Platinum Saber^白金大劍^백금의 군도^Sabre de platine^Platinumklinge^Sable de platino^
-MST_RECIPEBOOK_NAME_903001460^Darkbringer^引暗之刃^다크 브링거^^^Oscurecedora^
-MST_RECIPEBOOK_NAME_903001470^Yggdrasil Staff^世界樹之杖^세계수의 지팡이^^^Bastón de Yggdrasil^
-MST_RECIPEBOOK_NAME_903001480^Dragvandil^多拉格梵迪爾^드래그반딜^^^Dragvandil^
-MST_RECIPEBOOK_NAME_903001490^Sweet Kiss^甜蜜之吻^스위트 키스^^^Beso dulce^
-MST_RECIPEBOOK_NAME_903001500^Platinum Mace^白金權杖^백금의 메이스^Masse de platine ^Platinumkeule^Maza de platino^
-MST_RECIPEBOOK_NAME_903001510^Platinum Whip^白金之鞭^백금의 채찍^Fouet de platine ^Platinpeitsche^Látigo de platino^
-MST_RECIPEBOOK_NAME_903001520^Tamer's Gloves^馴獸師手套^야수의 세스터스^^^Guantes de domador^
-MST_RECIPEBOOK_NAME_903001530^Secret Knife^秘密匕首^세컨드 나이프^^^Cuchillo secreto^
-MST_RECIPEBOOK_NAME_903001540^Staff of Resentment^憤怒手杖^분노의 지팡이^^^Bastón vengativo^
-MST_RECIPEBOOK_NAME_903001550^Platinum Edge^白金小刀^백금의 부메랑^Lame de platine^Platinumschneide^Filo de platino^
-MST_RECIPEBOOK_NAME_903001560^Gale Moon^剛弓「烈風新月」^열풍신월^^^Luna del vendaval^
-MST_RECIPEBOOK_NAME_903001570^Kogarasumaru^靈劍·小鳥丸^코가라스마루^^^Kogarasumaru^
-MST_RECIPEBOOK_NAME_903001580^Scarlet Roses^緋紅玫瑰^스칼렛 로즈^^^Rosas escarlata^
-MST_RECIPEBOOK_NAME_903001590^Takemikazuchi^霹劍·武禦雷^타케미카즈치^^^Takemikazuchi^
-MST_RECIPEBOOK_NAME_903001600^Steel Pipe^鐵管^철 파이프^^^Tubo de hierro^
-MST_RECIPEBOOK_NAME_903001610^Platinum Axe^白金斧^백금의 도끼^Hache de platine^Platinumaxt^Hacha de platino^
-MST_RECIPEBOOK_NAME_904001960^Rubber Suit^橡膠服^루버 수트^Tunique de latex^Gummianzug^Traje de goma^
-MST_RECIPEBOOK_NAME_904001970^A1-Class Powershield^士官用特A級盾牌^장교용 A급 실드^^^Escudo de primera clase^
-MST_RECIPEBOOK_NAME_904001980^Assist Suit^輔助服^어시스트 슈트^^^Exotraje^
-MST_RECIPEBOOK_NAME_904001990^Chobham Armor^查布漢複合裝甲^쵸밤 아머^^^Blindaje Chobham^
-MST_RECIPEBOOK_NAME_904002000^Tactical Manual^師父的戰術書^스승님의 전술서^^^Manual de tácticas^
-MST_RECIPEBOOK_NAME_904002100^Magnolia's Uniform^木蘭衣^목련의 옷^^^Uniforme de magnolia^
-MST_RECIPEBOOK_NAME_904002010^Icy Veins^冰項鏈^얼어붙은 맥^Veine de glace ^Eisvenen^Capilares helados^
-MST_RECIPEBOOK_NAME_904002020^Black Bandana^黑頭巾^검은 반다나^^^Bandana negra^
-MST_RECIPEBOOK_NAME_904002030^Crown of Justice^正義之冠^정의의 왕관^^^Corona de la justicia^
-MST_RECIPEBOOK_NAME_904002040^Jeweled Belt^寶石腰帶^쥬얼 벨트^^^Cinto enjoyado^
-MST_RECIPEBOOK_NAME_904002050^Platinum Breastplate^白金胸甲^백금의 흉갑^Plastron de platine^Platinumbrustplatte^Peto de platino^
-MST_RECIPEBOOK_NAME_904002060^Riot Gear^防暴裝甲^폭동 진압복^^^Equipo antidisturbios^
-MST_RECIPEBOOK_NAME_904002070^Platinum Shield^白金盾^백금의 방패^Bouclier de platine^Platinumschild^Escudo de platino^
-MST_RECIPEBOOK_NAME_905100300^Shin-Shard of Genius^真・睿智的結晶^진·예지의 결정^^^Fragmento de ingenio+^
-MST_RECIPEBOOK_NAME_905100310^Shin-Follower's Oath^真・追隨者的誓言^진·맹주에게 바치는 맹세^^^Voto del servidor+^
-MST_RECIPEBOOK_NAME_905100320^Shin-Hydaelyn Guard^真・海德林的加護^진·하이델린의 가호^^^Guarda de Hydaelyn+^
-MST_RECIPEBOOK_NAME_905100330^Shin-Spirit of Freedom^真・不羈的氣焰^진·불기의 기염^^^Espíritu libre+^
-MST_RECIPEBOOK_NAME_905100340^Shin-Sage's Prajna^真・賢人的智慧^진·현자의 지혜^^^Prajna del sabio+^
-MST_RECIPEBOOK_NAME_905211210^Kappower^河童之力^캇파워^^^Kappoder^
-MST_RECIPEBOOK_NAME_905100350^Auto-Bravery^自動勇氣^자동 브레이브^^^AutoBravura^
-MST_RECIPEBOOK_NAME_905100360^Auto-Faith^自動信念^자동페이스^^^AutoFé^
-MST_RECIPEBOOK_NAME_905100370^MP + 15%^MP+15%^MP+15%^^^PM + 15%^
-MST_RECIPEBOOK_NAME_1000000039^Kitty Headband^貓耳髮帶^고양이 헤어밴드^Serre-tête chaton^Kätzchen-Stirnband^Banda de minina^
-MST_RECIPEBOOK_NAME_1000000040^Cloak of Resentment^怨念披風^분노의 망토^Cape du ressentiment^Mantel der Verachtung^Capa del resentimiento^
-MST_RECIPEBOOK_NAME_1000000041^Sparkling Heels^閃亮跟鞋^반짝이는 구두^Talons éclatants ^Glitzernde Highheels^Tacones brillantes^
-MST_RECIPEBOOK_NAME_1000000042^Evil Pipe^惡魔笛^악마의 파이프 ^Tuyau maudit^Bösartige Pfeife^Flauta maliciosa^
-MST_RECIPEBOOK_NAME_1000000043^Pink Striped Float^粉紅紋泳圈^분홍 줄무늬 튜브^Flotteur à rayure rose^Pink gestreifter Rettungsring^Flotador con rayas rosas^
-MST_RECIPEBOOK_NAME_1500000032^Cheerful Tune^輕快旋律^경쾌한 선율^Air enjoué^Fröhliche Melodie^Tono alegre^
-MST_RECIPEBOOK_NAME_1000000044^Joyful Spirit^喜悅之心^기쁨의 마음^Esprit de la joie^Fröhlicher Geist^Espíritu alegre^
-MST_RECIPEBOOK_NAME_1000000045^Lightbringer^光明使者^라이트 브링거^Illuminateur^Lichtbringer^Iluminador^
-MST_RECIPEBOOK_NAME_1000000046^Grasping Sphere^掌中魔球^클링 스피어^Sphère de cupidité^Fesselkristall^Esfera de la codicia^
-MST_RECIPEBOOK_NAME_1000000047^Staff of Blizzards^冰杖^빙설의 지팡이^Bâton blizzard^Blizzardstab^Bastón de la ventisca^
-MST_RECIPEBOOK_NAME_1000000048^Wing Edges^翼刃^윙 엣지^Dague ailée^Flügelschneide^Daga alada^
-MST_RECIPEBOOK_NAME_1000000049^Salamander's Gauntlets^火焰蜥蜴手甲^샐러맨더^Gantelets de salamandre^Salamanderhandschuhe^Guanteletes de salamandra^
-MST_RECIPEBOOK_NAME_1000000050^Crag Splitter^大地之劍^대지의 검^Briseterre^Kliffbrecher^Partepiedras^
+MST_RECIPEBOOK_NAME_901000010^Potion^治療劑^포션^Potion^Trank^Poción
+MST_RECIPEBOOK_NAME_901000020^Hi-Potion^高級治療劑^하이 포션^Potion +^Hi-Trank^Ultrapoción
+MST_RECIPEBOOK_NAME_901000040^Ether^以太^에테르^Éther^Äther^Éter
+MST_RECIPEBOOK_NAME_901000080^Antidote^解毒藥^해독제^Antidote^Antidot^Antídoto
+MST_RECIPEBOOK_NAME_901000090^Eye Drops^眼藥^안약^Collyre^Augentropfen^Colirio
+MST_RECIPEBOOK_NAME_901000100^Smelling Salts^甦醒藥^각성약^Flacon de sels^Riechsalz^Sales aromáticas
+MST_RECIPEBOOK_NAME_901000110^Echo Herbs^山彥草^메아리풀^Herbe d'écho^Echokraut^Hierba del eco
+MST_RECIPEBOOK_NAME_901000120^Unicorn Horn^獨角獸之角^유니콘의 뿔^Corne de licorne^Einhorn-Horn^Cuerno de unicornio
+MST_RECIPEBOOK_NAME_901000130^Vaccine^疫苗^백신^Vaccin^Impfstoff^Vacuna
+MST_RECIPEBOOK_NAME_901000140^Gold Needle^金針^금침^Aiguille d'or^Goldnadel^Aguja de oro
+MST_RECIPEBOOK_NAME_901000150^Remedy^萬能藥^만능약^Remède^Allheilmittel^Panacea
+MST_RECIPEBOOK_NAME_901000160^Hyper^興奮劑^흥분제^Hyper^Hyper^Hiper
+MST_RECIPEBOOK_NAME_901000190^Healing Spring^恢復之泉^회복의 샘물^Source régénérante^Heilquelle^Fluido vitalizante
+MST_RECIPEBOOK_NAME_901000200^Smoke Bomb^煙霧彈^연막탄^Fumigène^Rauchbombe^Bomba de humo
+MST_RECIPEBOOK_NAME_901000230^Body Boost^力量之藥^힘의 약^Augmente la force^Kraftschub^Brebaje de salud
+MST_RECIPEBOOK_NAME_901000240^Mana Boost^魔力之藥^마력의 약^Augmente le mana^Mana-Schub^Brebaje mágico
+MST_RECIPEBOOK_NAME_901000250^Protect Drink^守護之飲^프로테스 물약^Boisson Bouclier^Protes-Trank^Bebida Coraza
+MST_RECIPEBOOK_NAME_901000260^Shell Drink^魔盾之飲^셸 물약^Boisson Barrière^Vallum-Trank^Bebida Escudo
+MST_RECIPEBOOK_NAME_901000270^Bacchus's Wine^酒神之酒^바커스의 술^Vin de Bacchus^Bacchus' Tropfen^Licor de Baco
+MST_RECIPEBOOK_NAME_901000440^Grenade^手榴彈^수류탄^Grenade^Granate^Granada
+MST_RECIPEBOOK_NAME_901000450^Frag Grenade^破甲手榴彈^철갑 수류탄^Grenade antichar^Panzergranate^Granada antitanque
+MST_RECIPEBOOK_NAME_901000460^Shuriken^手裏劍^수리검^Shuriken^Shuriken^Shuriken
+MST_RECIPEBOOK_NAME_901000470^Fuma Shuriken^風魔手裏劍^풍마의 수리검^Shuriken Fuma^Fuma-Shuriken^Fuma Shuriken
+MST_RECIPEBOOK_NAME_901000490^Tent^帳篷^천막^Tente^Zelt^Tienda de lona
+MST_RECIPEBOOK_NAME_901000500^Magic Key^魔法鑰匙^마법 열쇠^Clé magique^Zauberschlüssel^Llave mágica
+MST_RECIPEBOOK_NAME_903000010^Bronze Knife^青銅匕首^청동 나이프^Couteau en bronze^Bronzemesser^Daga de bronce
+MST_RECIPEBOOK_NAME_903000020^Dagger^短劍^단검^Dague^Dolch^Daga
+MST_RECIPEBOOK_NAME_903000040^Sleep Dagger^催眠短劍^슬리플 단검^Dague Sommeil^Narkosedolch^Daga Morfeo
+MST_RECIPEBOOK_NAME_903000080^Broadsword^寬刃劍^브로드소드^Glaive^Breitschwert^Espada ancha
+MST_RECIPEBOOK_NAME_903000090^Long Sword^長劍^롱소드^Épée longue^Langschwert^Espada larga
+MST_RECIPEBOOK_NAME_903000160^Great Sword^巨劍^그레이트소드^Spathe^Großschwert^Espadón
+MST_RECIPEBOOK_NAME_903000180^Buster Sword^破壞劍^버스터 소드^Épée broyeuse^Meisterschwert^Espada mortal
+MST_RECIPEBOOK_NAME_903000210^Kotetsu^虎鐵^고테쓰^Kotetsu^Kotetsu^Kotetsu
+MST_RECIPEBOOK_NAME_903000220^Kiku-ichimonji^菊一文字^키쿠이치몬지^Kiku-ichimonji^Kiku-Ichimonji^Kikuichimonji
+MST_RECIPEBOOK_NAME_903000230^Kazekiri^斬風刃^바람베기 칼^Kazekiri^Windschneider^Kazekiri
+MST_RECIPEBOOK_NAME_903000270^Kodachi^小太刀^코다치^Kodachi^Kodachi^Kodachi
+MST_RECIPEBOOK_NAME_903000290^Battle Axe^戰斧^전투도끼^Hache de combat^Kampfaxt^Hacha de guerra
+MST_RECIPEBOOK_NAME_903000300^Great Axe^大斧^거대도끼^Hache large^Große Axt^Gran hacha
+MST_RECIPEBOOK_NAME_903000360^Wooden Hammer^木鎚^나무망치^Marteau en bois^Holzhammer^Maza de madera
+MST_RECIPEBOOK_NAME_903000370^Iron Hammer^鋼鐵鎚^철제 망치^Marteau en fer^Eisenhammer^Mazo de hierro
+MST_RECIPEBOOK_NAME_903000380^War Hammer^戰鎚^전쟁망치^Marteau de guerre^Streithammer^Martillo de guerra
+MST_RECIPEBOOK_NAME_903000420^Bronze Mace^青銅權杖^청동 메이스^Masse en bronze^Bronzekolben^Maza de bronce
+MST_RECIPEBOOK_NAME_903000430^Iron Mace^鋼鐵權杖^철제 메이스^Masse en fer^Eisenkolben^Maza de hierro
+MST_RECIPEBOOK_NAME_903000470^Javelin^標槍^재블린^Javelot^Jagdspeer^Jabalina
+MST_RECIPEBOOK_NAME_903000480^Partisan^遊擊槍^파르티잔^Partisan^Partisane^Partesana
+MST_RECIPEBOOK_NAME_903000580^Bronze Knuckles^青銅拳套^청동 너클^Poings en bronze^Bronzeschlagring^Puño de bronce
+MST_RECIPEBOOK_NAME_903000590^Metal Knuckles^金屬指套^금속 너클^Poings en métal^Metallschlagring^Puño de metal
+MST_RECIPEBOOK_NAME_903000640^Cat Claws^貓爪^고양이 발톱^Griffes de chat^Katzenklauen^Garras de gato
+MST_RECIPEBOOK_NAME_903000660^Rod^魔棒^홀장^Sceptre^Rute^Vara
+MST_RECIPEBOOK_NAME_903000670^Iron Rod^鋼鐵棒^철제 홀장^Sceptre en fer^Eisenrute^Vara de hierro
+MST_RECIPEBOOK_NAME_903000720^Staff^手杖^지팡이^Bâton^Stab^Bastón
+MST_RECIPEBOOK_NAME_903000730^Cherry Staff^櫻花杖^벚나무 지팡이^Bâton en cerisier^Kirschstab^Bastón de cerezo
+MST_RECIPEBOOK_NAME_903000750^Wizard's Staff^魔道士之杖^마도사 지팡이^Bâton de mage^Magierstab^Bastón de mago
+MST_RECIPEBOOK_NAME_903000760^Rune Staff^符文之杖^룬 지팡이^Bâton runique^Runenstab^Bastón rúnico
+MST_RECIPEBOOK_NAME_903000790^Short Bow^短弓^단궁^Arc court^Kurzbogen^Arco corto
+MST_RECIPEBOOK_NAME_903000800^Long Bow^長弓^장궁^Arc long^Langbogen^Arco largo
+MST_RECIPEBOOK_NAME_903000820^Great Bow^強弓^대궁^Grand arc^Großer Bogen^Gran arco
+MST_RECIPEBOOK_NAME_903000850^Altair^河鼓二^알타이르^Altaïr^Altair^Altair
+MST_RECIPEBOOK_NAME_903000920^Leather Whip^皮鞭^가죽 채찍^Fouet en cuir^Lederpeitsche^Látigo de cuero
+MST_RECIPEBOOK_NAME_903000930^Chain Whip^鎖鏈鞭^사슬 채찍^Chaîne-fouet^Kettenpeitsche^Látigo de cadena
+MST_RECIPEBOOK_NAME_903000970^Boomerang^迴力鏢^부메랑^Boomerang^Bumerang^Bumerán
+MST_RECIPEBOOK_NAME_903000980^Chakram^飛輪^차크람^Chakram^Chakram^Chakram
+MST_RECIPEBOOK_NAME_903000990^Moon Ring Blade^圓月輪^보름달 고리^Croissant de lune^Mondring-Klinge^Hoja lunar
+MST_RECIPEBOOK_NAME_903001020^Harp^豎琴^하프^Harpe^Harfe^Arpa
+MST_RECIPEBOOK_NAME_903001030^Silver Harp^銀豎琴^은제 하프^Lyre en argent^Silberharfe^Arpa de plata
+MST_RECIPEBOOK_NAME_904000010^Leather Shield^皮盾^가죽 방패^Bouclier en cuir^Lederschild^Escudo de cuero
+MST_RECIPEBOOK_NAME_904000020^Small Shield^小型盾^소형 방패^Petit bouclier^Kleines Schild^Broquel
+MST_RECIPEBOOK_NAME_904000030^Buckler^小圓盾^전투방패^Targe^Buckler^Rodela
+MST_RECIPEBOOK_NAME_904000060^Bronze Shield^青銅盾^청동 방패^Bouclier en bronze^Bronzeschild^Escudo de bronce
+MST_RECIPEBOOK_NAME_904000070^Iron Shield^鐵盾^철제 방패^Bouclier en fer^Eisenschild^Escudo de hierro
+MST_RECIPEBOOK_NAME_904000150^Leather Hat^皮帽^가죽 모자^Chapeau en cuir^Lederhut^Gorro de cuero
+MST_RECIPEBOOK_NAME_904000160^Feathered Cap^羽飾帽子^깃털 모자^Chapeau à plumes^Federhut^Sombrero emplumado
+MST_RECIPEBOOK_NAME_904000170^Wizard's Hat^三角帽子^삼각모자^Chapeau de sorcier^Magierhut^Sombrero de mago
+MST_RECIPEBOOK_NAME_904000180^Bandana^頭巾^두건^Bandana^Stirnband^Bandana
+MST_RECIPEBOOK_NAME_904000200^Celebrant's Miter^祭司帽子^사제 모자^Mitre de prêtre^Bischofsmütze^Tocado monacal
+MST_RECIPEBOOK_NAME_904000250^Hypno Crown^睡神王冠^히프노크라운^Tiare d'hypnose^Hypno-Krone^Hipnocorona
+MST_RECIPEBOOK_NAME_904000260^Red Cap^深紅帽子^빨간 모자^Béret rouge^Rote Kappe^Gorra roja
+MST_RECIPEBOOK_NAME_904000310^Bronze Helm^青銅盔^청동 투구^Casque en bronze^Bronzehelm^Yelmo de bronce
+MST_RECIPEBOOK_NAME_904000320^Iron Helm^鐵盔^철제 투구^Casque en fer^Eisenhelm^Yelmo de hierro
+MST_RECIPEBOOK_NAME_904000370^Leather Shirt^皮衣^가죽옷^Chemise en cuir^Lederweste^Camisa de cuero
+MST_RECIPEBOOK_NAME_904000380^Bard's Tunic^詩人之服^시인의 옷^Tunique de barde^Minnekleid^Túnica de bardo
+MST_RECIPEBOOK_NAME_904001380^Scholar Robe^學者服^학자의 옷^Robe d'érudit^Gelehrtenrobe^Túnica de erudito
+MST_RECIPEBOOK_NAME_904000390^Power Vest^力量束衣帶^힘의 멜빵옷^Harnais de force^Kraftkittel^Jubón de poder
+MST_RECIPEBOOK_NAME_904000400^Kenpogi^功夫裝^권법 도복^Kenpogi^Karate-Anzug^Traje de kenpo
+MST_RECIPEBOOK_NAME_904000420^Mage's Habit^魔道士服^마도사의 옷^Manteau de mage^Magierumhang^Capa de mago
+MST_RECIPEBOOK_NAME_904000430^Survival Vest^救生背心^야전조끼^Gilet de survie^Schutzweste^Chaleco de safari
+MST_RECIPEBOOK_NAME_904000440^Ninja Gear^忍者服^닌자복^Tunique de ninja^Ninja-Anzug^Traje de ninja
+MST_RECIPEBOOK_NAME_904000450^Black Belt Gi^黑帶裝^검은띠 도복^Ceinture noire^Schwarzer Gürtel^Cinturón Gi
+MST_RECIPEBOOK_NAME_904000500^Leather Plate^皮甲^가죽 흉갑^Cuirasse^Lederpanzer^Peto de cuero
+MST_RECIPEBOOK_NAME_904000510^Copper Cuirass ^青銅胸甲^청동 흉갑^Cotte en cuivre ^Kupferharnisch ^Coraza de cobre 
+MST_RECIPEBOOK_NAME_904000520^Iron Plate^黑鐵甲^철제 흉갑^Cuirasse en fer^Eisenpanzer^Peto de hierro
+MST_RECIPEBOOK_NAME_904000570^Bronze Armor^青銅鎧^청동 갑옷^Armure en bronze^Bronzerüstung^Armadura de bronce
+MST_RECIPEBOOK_NAME_904000580^Iron Armor^鐵鎧^철제 갑옷^Armure en fer^Eisenrüstung^Armadura de hierro
+MST_RECIPEBOOK_NAME_904000660^Cotton Robe^棉布法袍^무명 로브^Robe en coton^Baumwollrobe^Túnica de algodón
+MST_RECIPEBOOK_NAME_904000670^Silk Robe^絲線法袍^비단 로브^Robe en soie^Seidenrobe^Túnica de seda
+MST_RECIPEBOOK_NAME_904000680^Traveler's Garbs^旅人法衣^여행자의 법복^Tenue de voyageur^Reisekleidung^Traje de viajero
+MST_RECIPEBOOK_NAME_904000710^Gaia Gear^大地之衣^대지의 옷^Tunique de Gaïa^Erdanzug^Traje de la tierra
+MST_RECIPEBOOK_NAME_904000720^Cleric's Robes^聖職者禮袍^성직자의 가운^Robe cléricale^Klerikerrobe^Túnica clerical
+MST_RECIPEBOOK_NAME_904000760^Iron Gloves^鐵護手^철제 팔보호대^Gants en acier^Eisenhandschuhe^Guantes férreos
+MST_RECIPEBOOK_NAME_904000770^Power Wrist^力量護臂^힘의 팔보호대^Poignet de force^Kraftreif^Brazal de poder
+MST_RECIPEBOOK_NAME_904000780^Hyper Wrist^強力護臂^괴력의 팔보호대^Poignet de titan^Hyperreif^Brazal de titán
+MST_RECIPEBOOK_NAME_904000820^Silver Armlet^銀手鐲^은제 팔찌^Brassard en argent^Silberreif^Brazal de plata
+MST_RECIPEBOOK_NAME_904000950^Fire Ring^烈焰戒指^불 반지^Bague du feu^Feuerring^Anillo Fuego
+MST_RECIPEBOOK_NAME_904000980^Ice Ring^寒冰戒指^얼음 반지^Bague de la glace^Eisring^Anillo Hielo
+MST_RECIPEBOOK_NAME_904001010^Spark Ring^迅雷戒指^번개 반지^Bague de la foudre^Blitzring^Anillo Rayo
+MST_RECIPEBOOK_NAME_904001040^Water Ring^淵水戒指^물 반지^Bague de l'eau^Wasserring^Anillo Agua
+MST_RECIPEBOOK_NAME_904001070^Gale Ring^疾風戒指^바람 반지^Bague de l'air^Stummring^Anillo Viento
+MST_RECIPEBOOK_NAME_904001100^Earth Ring^沃土戒指^땅 반지^Bague de la  terre^Erdring^Anillo Seísmo
+MST_RECIPEBOOK_NAME_904001140^Protect Ring^防護指環^보호의 반지^Anneau Bouclier^Protes-Ring^Anillo Coraza
+MST_RECIPEBOOK_NAME_904001150^Barrier Ring^屏障指環^장막의 반지^Anneau Barrière^Barrierenring^Anillo Barrera
+MST_RECIPEBOOK_NAME_904001160^Regen Ring^恢復指環^리제네 반지^Anneau Récup^Regena-Ring^Anillo Revitalia
+MST_RECIPEBOOK_NAME_904001310^Cat's Bell^珠鈴^타마의 방울^Clochette de chat^Katzenglocke^Cascabel de gato
+MST_RECIPEBOOK_NAME_904001360^Hero's Ring^勇者指環^용기의 반지^Bague de héros^Heldenring^Anillo de paladín
+MST_RECIPEBOOK_NAME_904001370^Muscle Belt^肌力腰帶^근력 허리띠^Ceinture musculaire^Muskelgurt^Cinto de fuerza
+MST_RECIPEBOOK_NAME_905000010^Libra^窺伺探測^라이브라^Acuité^Analyse^Libra
+MST_RECIPEBOOK_NAME_905000020^Cure^療傷^케알^Soin^Vita^Cura
+MST_RECIPEBOOK_NAME_905000030^Blindna^復明^블라나^Vision^Lux^Luz
+MST_RECIPEBOOK_NAME_905000040^Vox^解咒^보컬^Voix^Vox^Vocal
+MST_RECIPEBOOK_NAME_905000050^Poisona^解毒^포이즈나^Sérum^Poisona^Pura
+MST_RECIPEBOOK_NAME_905000080^Paralyna^解麻^파라나^Mouvement^Paralyna^Paralina
+MST_RECIPEBOOK_NAME_905000090^Stona^解石^스토나^Chair^Perseus^Relax
+MST_RECIPEBOOK_NAME_905000230^Fire^火焰^파이어^Feu^Feuer^Piro
+MST_RECIPEBOOK_NAME_905000240^Blizzard^暴雪^블리자드^Glace^Eis^Hielo
+MST_RECIPEBOOK_NAME_905000250^Thunder^雷電^선더^Foudre^Blitz^Electro
+MST_RECIPEBOOK_NAME_905000260^Water^流水^워터^Eau^Aqua^Aqua
+MST_RECIPEBOOK_NAME_905000270^Aero^勁風^에어로^Vent^Aero^Aero
+MST_RECIPEBOOK_NAME_905000280^Stone^落石^스톤^Terre^Terra^Piedra
+MST_RECIPEBOOK_NAME_905000290^Bio^毒化^바이오^Toxine^Bio^Bio
+MST_RECIPEBOOK_NAME_905000310^Blizzara^中暴雪^블리자라^Glace +^Eisra^Hielo+
+MST_RECIPEBOOK_NAME_905000320^Thundara^中雷電^선더라^Foudre +^Blitzra^Electro+
+MST_RECIPEBOOK_NAME_905000330^Watera^中流水^워터라^Eau +^Aquara^Aqua+
+MST_RECIPEBOOK_NAME_905000340^Aerora^中勁風^에어로라^Vent +^Aerora^Aero+
+MST_RECIPEBOOK_NAME_905000370^Gravity^重力^그라비데^Gravité^Gravitas^Gravedad
+MST_RECIPEBOOK_NAME_905000380^Drain^吸血^드레인^Saignée^Subvita^Drenaje
+MST_RECIPEBOOK_NAME_905000400^Biora^猛毒化^바이오라^Toxine +^Biora^Bio+
+MST_RECIPEBOOK_NAME_905000670^Sleep^催眠^슬리플^Sommeil^Schlaf^Morfeo
+MST_RECIPEBOOK_NAME_905000680^Blind^盲目^블라인^Cécité^Blind^Tiniebla
+MST_RECIPEBOOK_NAME_905000690^Barfire^抗火^바파이^Anti-Feu ^Exfeu^AntiFuego
+MST_RECIPEBOOK_NAME_905000700^Barblizzard^抗冰^바블리자^Anti-Glace^Exeis^AntiHielo
+MST_RECIPEBOOK_NAME_905000710^Barthunder^抗雷^바선더^Anti-Foudre^Exblitz^AntiElectro
+MST_RECIPEBOOK_NAME_905000720^Barwater^抗水^바워터^Anti-Eau^Exaqua^AntiAgua
+MST_RECIPEBOOK_NAME_905000730^Baraero^抗風^바에어로^Anti-Vent^Exaero^AntiAero
+MST_RECIPEBOOK_NAME_905000740^Barstone^抗土^바스톤^Anti-Terre^Exterra^AntiPiedra
+MST_RECIPEBOOK_NAME_905000760^Silence^沉默^사일런스^Silence^Stille^Mutis
+MST_RECIPEBOOK_NAME_905000770^Barfira^全抗火^바파이라^Anti-Feu +^Exfeura^AntiFuego+
+MST_RECIPEBOOK_NAME_905000780^Barblizzara^全抗冰^바블리자라^Anti-Glace +^Exeisra^AntiHielo+
+MST_RECIPEBOOK_NAME_905000790^Barthundara^全抗雷^바선더라^Anti-Foudre +^Exblitzra^AntiElectro+
+MST_RECIPEBOOK_NAME_905000800^Shell^魔防護^셸^Barrière^Vallum^Escudo
+MST_RECIPEBOOK_NAME_905000820^Deshell^弱心^디셸^Retire-Barrière ^Devall^AntiEscudo
+MST_RECIPEBOOK_NAME_905000830^Barwatera^全抗水^바워터라^Anti-Eau +^Exaquara^AntiAgua+
+MST_RECIPEBOOK_NAME_905000840^Baraerora^全抗風^바에어로라^Anti-Vent +^Exaerora^AntiAero+
+MST_RECIPEBOOK_NAME_905000850^Barstonra^全抗土^바스톤라^Anti-Terre +^Exterrara^AntiPiedra+
+MST_RECIPEBOOK_NAME_905200010^Steal^盜取^훔치기^Voler^Stehlen^Robar
+MST_RECIPEBOOK_NAME_905200120^Brace^忍耐^견디기^Endurance^Trotzen^Aguante
+MST_RECIPEBOOK_NAME_905200510^Fire Blade^火焰劍^파이어 검^Lame Feu ^Feuer-Klinge^Hoja Piro
+MST_RECIPEBOOK_NAME_905200520^Blizzard Blade^暴雪劍^블리자드 검^Lame Glace ^Eis-Klinge^Hoja Hielo
+MST_RECIPEBOOK_NAME_905200550^Silence Blade^沉默劍^사일런스 검^Lame Silence ^Stille-Klinge^Hoja Mutis
+MST_RECIPEBOOK_NAME_905200560^Water Blade^流水劍^워터 검^Lame Eau^Aqua-Klinge^Hoja Aqua
+MST_RECIPEBOOK_NAME_905200580^Stone Blade^落石劍^스톤 검^Lame Terre^Terra-Klinge^Hoja Piedra
+MST_RECIPEBOOK_NAME_905200590^Blind Blade^盲目劍^블라인 검^Lame Cécité^Blend-Klinge^Hoja Tiniebla
+MST_RECIPEBOOK_NAME_905200600^Bio Blade^毒化劍^바이오 검^Lame Toxine^Bio-Klinge^Hoja Bio
+MST_RECIPEBOOK_NAME_905200800^Magic Infuse^魔合擊^마법 연계^Sortilège ténébreux^Schattenfusion^Infundir magia
+MST_RECIPEBOOK_NAME_905201160^Mental Break^潰心^멘탈 브레이크^Déprime^Geistbrecher^Rompeespíritu
+MST_RECIPEBOOK_NAME_905201320^Bio Blaster^毒化射線^바이오 블래스터^Nuage toxique^Bioblaster^Onda Bío
+MST_RECIPEBOOK_NAME_901000280^Bomb Fragment^炸彈碎片^봄의 파편^Éclat de bombo^Bombensplitter^Trozo de bom
+MST_RECIPEBOOK_NAME_901000340^Fish Scale^魚之鱗^물고기 비늘^Écaille de poisson^Fischschuppe^Escama de pez
+MST_RECIPEBOOK_NAME_901000360^Giant Feather^巨鳥羽毛^거대 새의 깃털^Plume géante^Riesenfeder^Pluma de gran ave
+MST_RECIPEBOOK_NAME_901000480^Pinwheel^風車^풍차 칼날^Moulinet^Klingenstern^Molinillo
+MST_RECIPEBOOK_NAME_903000130^Icebrand^冰印劍^얼음서리 검^Cryolame^Frostbrand^Estoque de hielo
+MST_RECIPEBOOK_NAME_903000140^Coral Sword^珊瑚劍^산호검^Épée en corail^Korallenschwert^Sable de coral
+MST_RECIPEBOOK_NAME_903000680^Fire Rod^火焰棒^불의 홀장^Sceptre de feu^Feuerrute^Vara ígnea
+MST_RECIPEBOOK_NAME_903000860^Capella^五車二^카펠라^Capella^Capella^Capella
+MST_RECIPEBOOK_NAME_903000940^Shock Whip^電擊鞭^전기 채찍^Fouet électrique^Schockpeitsche^Latigazo
+MST_RECIPEBOOK_NAME_904000040^Ochre Shield^輕盾^가벼운 방패^Bouclier léger^Blitzschild^Escudo ocre
+MST_RECIPEBOOK_NAME_904000210^Green Beret^綠色貝雷帽^초록 베레모^Béret vert^Grünes Barett^Boina verde
+MST_RECIPEBOOK_NAME_904000330^Barbut^開面盔^무장투구^Barbute^Barbuta^Barbuta
+MST_RECIPEBOOK_NAME_904000690^Sage's Surplice^祭司法袍^사제 로브^Surplis de sage^Priestergerwand^Roquete de sabio
+MST_RECIPEBOOK_NAME_905000750^Protect^物防護^프로테스^Bouclier^Protes^Coraza
+MST_RECIPEBOOK_NAME_905100040^MP +10%^MP+10%^MP+10%^PM +10%^MP + 10 %^PM +10%
+MST_RECIPEBOOK_NAME_905100160^SPR +10%^精神+10%^정신력+10%^PSY +10%^PSY + 10 %^ESP +10%
+MST_RECIPEBOOK_NAME_905101020^Bug Killer^殺蟲^벌레 킬러^Tue-insectes^Pestizid^Matabichos
+MST_RECIPEBOOK_NAME_901000030^X-Potion^特級治療劑^엑스 포션^Potion X^X-Trank^Poción X
+MST_RECIPEBOOK_NAME_901000050^Turbo Ether^高級以太^에테르 터보^Éther +^Turbo-Äther^Éter turbo
+MST_RECIPEBOOK_NAME_901000430^Holy Torch^神聖火把^성스러운 횃불^Torche sacrée^Heilige Fackel^Antorcha sagrada
+MST_RECIPEBOOK_NAME_903000490^Mythril Spear^秘銀長槍^미스릴 창^Lance en mithril^Mithrilspeer^Lanza de mitrilo
+MST_RECIPEBOOK_NAME_904000220^Mage's Hat^魔術師帽子^마술사 모자^Chapeau de mage^Magierhut^Chistera mágica
+MST_RECIPEBOOK_NAME_904000750^Sage's Robe^賢者法袍^현자의 로브^Robe de sage^Weisenrobe^Túnica de sabio
+MST_RECIPEBOOK_NAME_904000800^Mythril Gloves^秘銀護手^미스릴 팔보호대^Gants en mithril^Mithrilhandschuhe^Guantes de mitrilo
+MST_RECIPEBOOK_NAME_905000070^Cura^中療傷^케알라^Soin +^Vitra^Cura+
+MST_RECIPEBOOK_NAME_905100130^DEF +10%^防禦+10%^방어력+10%^DÉF +10%^ABW + 10 %^DEF +10%
+MST_RECIPEBOOK_NAME_903000390^Mythril Hammer^秘銀鎚^미스릴 망치^Marteau en mithril^Mithrilhammer^Martillo de mitrilo
+MST_RECIPEBOOK_NAME_903000540^Wind Spear^疾風槍^바람의 창^Lance zéphyr^Windspeer^Lanza eólica
+MST_RECIPEBOOK_NAME_904000340^Mythril Helm^秘銀盔^미스릴 투구^Casque en mithril^Mithrilhelm^Yelmo de mitrilo
+MST_RECIPEBOOK_NAME_905000870^Bravery^勇氣^브레이브^Bravoure^Courage^Bravura
+MST_RECIPEBOOK_NAME_905100100^MAG +10%^魔力+10%^마력+10%^MAGIE +10%^MAG + 10 %^MAG +10%
+MST_RECIPEBOOK_NAME_1000000000^Fine Blade^良質劍^고급 브로드소드^Glaive fin^Besseres Breitschwert^Gran espada ancha
+MST_RECIPEBOOK_NAME_1000000001^Superior Blade^精製劍^명품 브로드소드^Glaive supérieur^Überragende Klinge^Hoja superior
+MST_RECIPEBOOK_NAME_901000300^Antarctic Wind^南極之風^남극의 바람^Vent antarctique^Antarktiswind^Aire antártico
+MST_RECIPEBOOK_NAME_901000320^Zeus's Rage^宙斯之怒^제우스의 분노^Colère de Zeus^Zorn des Zeus^Furia de Zeus
+MST_RECIPEBOOK_NAME_901000380^Earth Drum^大地之鼓^대지의 북^Tambour terrien^Erdentrommel^Tambor de tierra
+MST_RECIPEBOOK_NAME_903000030^Mythril Dagger^秘銀短劍^미스릴 단검^Dague en mithril^Mithrildolch^Daga de mitrilo
+MST_RECIPEBOOK_NAME_903000050^Main Gauche^左手劍^왼손 단검^Main gauche^Stilett^Main gauche
+MST_RECIPEBOOK_NAME_903000100^Mythril Sword^秘銀劍^미스릴 검^Épée en mithril^Mithrilschwert^Espada de mitrilo
+MST_RECIPEBOOK_NAME_903000240^Osafune^備前長船^비젠오사후네^Osafune^Osafune^Osafune
+MST_RECIPEBOOK_NAME_903000450^Mythril Mace^秘銀權杖^미스릴 메이스^Masse en mithril^Mithrilkeule^Maza de mitrilo
+MST_RECIPEBOOK_NAME_903000600^Mythril Claws^秘銀爪^미스릴 발톱^Griffes en mithril^Mithrilklauen^Garras de mitrilo
+MST_RECIPEBOOK_NAME_903000810^Mythril Bow^秘銀弓^미스릴 활^Arc en mithril^Mithrilbogen^Arco de mitrilo
+MST_RECIPEBOOK_NAME_903000950^Mythril Whip^秘銀鞭^미스릴 채찍^Fouet en mithril^Mithrilpeitsche^Látigo de mitrilo
+MST_RECIPEBOOK_NAME_904000050^Mythril Buckler^秘銀輕盾^미스릴 가벼운 방패^Targe en mithril^Mithrilbuckler^Rodela de mitrilo
+MST_RECIPEBOOK_NAME_904000080^Large Shield^大盾^대형 방패^Grand bouclier^Turmschild^Escudo grande
+MST_RECIPEBOOK_NAME_904000090^Mythril Shield^秘銀盾^미스릴 방패^Targe en mithril^Mithrilschild^Escudo de mitrilo
+MST_RECIPEBOOK_NAME_904000230^Tiger Mask^猛虎面具^호랑이 가면^Masque de tigre^Tigermaske^Máscara de tigre
+MST_RECIPEBOOK_NAME_904000530^Mythril Plate^秘銀甲^미스릴 흉갑^Armure de plates en mithril^Mithrilplatte^Peto de mitrilo
+MST_RECIPEBOOK_NAME_904000540^Silver Cuirass^白銀胸甲^은제 흉갑^Cotte en argent^Silberharnisch^Coraza de plata
+MST_RECIPEBOOK_NAME_904000590^Paladin Armor^騎士鎧^기사 갑옷^Armure de paladin^Paladinrüstung^Armadura paladina
+MST_RECIPEBOOK_NAME_904000600^Mythril Armor^秘銀鎧^미스릴 갑옷^Armure en mithril^Mithrilrüstung^Armadura de mitrilo
+MST_RECIPEBOOK_NAME_904000700^Wizard's Robe^魔術師長袍^마술사 로브^Robe de mage^Magierrobe^Túnica de mago
+MST_RECIPEBOOK_NAME_904001170^Moon Bracer^月之手鐲^달의 팔찌^Brassard lunaire^Mondarmband^Manilla de luna
+MST_RECIPEBOOK_NAME_905000130^Dispel^驅魔^디스펠^Dissipation^Bann^Antimagia
+MST_RECIPEBOOK_NAME_905000880^Faith^信念^페이스^Foi^Ener^Fe
+MST_RECIPEBOOK_NAME_905101100^Spirit Slayer^滅精^정령 킬러^Tue-esprits^Geisttöter^Mataespíritus
+MST_RECIPEBOOK_NAME_905101500^HP +15%^HP+15%^HP+15%^PV +15%^LP + 15 %^VIT +15%
+MST_RECIPEBOOK_NAME_905200540^Sleep Blade^催眠劍^슬리플 검^Lame Sommeil^Schlaf-Klinge^Hoja Sedante
+MST_RECIPEBOOK_NAME_905200570^Aero Blade^勁風劍^에어로 검^Lame Vent^Aero-Klinge^Hoja Aero
+MST_RECIPEBOOK_NAME_905200660^Stonra Blade^中落石劍^스톤라 검^Lame Terre +^Terrara-Klinge^Hoja Piedra+
+MST_RECIPEBOOK_NAME_903000400^Vorpal Axe^斬首斧^죽음의 도끼^Hache vorpal^Vorpale Axt^Hacha mortífera
+MST_RECIPEBOOK_NAME_903000570^Gae Bolg^龍槍蓋博爾格^용창 게 볼그^Gae Bolg^Gae Bolg^Gae Bolg
+MST_RECIPEBOOK_NAME_901000170^Light Curtain^光之簾幕^빛의 장막^Rideau de lumière^Lichtvorhang^Manto de luz
+MST_RECIPEBOOK_NAME_901000370^Wyvern's Feather^雙足飛龍羽毛^와이번의 날개^Plume de wyverne^Lindwurmfeder^Pluma de guiverno
+MST_RECIPEBOOK_NAME_901000410^White Fang^白色獠牙^하얀 송곳니^Croc Blanc^Weißzahn^Colmillo blanco
+MST_RECIPEBOOK_NAME_903000190^Mythril Saber^秘銀大劍^미스릴 대검^Sabre en mithril^Mithrilsäbel^Sable mitrilo
+MST_RECIPEBOOK_NAME_903000280^Chirijiraden^塵地螺鈿飾劍^진지 나전장식검^Chirijiraden^Chirijiraden^Chirijiraden
+MST_RECIPEBOOK_NAME_903000320^Mythril Axe^秘銀斧^미스릴 도끼^Hache en mithril^Mithrilaxt^Hacha de mitrilo
+MST_RECIPEBOOK_NAME_904000100^Escutcheon^紋章盾^문장 방패^Écu^Escutcheon^Escudete
+MST_RECIPEBOOK_NAME_904000550^Brigandine^鎖子鎧^두정갑^Brigandine^Brigandine^Brigantina
+MST_RECIPEBOOK_NAME_905000150^Curaga^齊療傷^케알다^Soin X^Vitaga^Cura++
+MST_RECIPEBOOK_NAME_905100190^EVO MAG +10%^召喚魔法+10%^소환마법+10%^INV +10%^BSW MAG + 10 %^INVOCACIÓN +10%
+MST_RECIPEBOOK_NAME_905200640^Watera Blade^中流水劍^워터라 검^Lame Eau +^Aquara-Klinge^Hoja Aqua+
+MST_RECIPEBOOK_NAME_903000650^Winged Saint^仁義徽章^의리의 문장^Cœur de Paladin ^Integerschwingen^El Noble
+MST_RECIPEBOOK_NAME_901000180^Morale Talisman^豪傑護身符^호걸의 탈리스만^Talisman de héros^Aventuriertalisman^Talismán heroico
+MST_RECIPEBOOK_NAME_1000000002^Rod of Gravity^重力棒^그라비데의 홀장^Sceptre de gravité^Gravitas-Rute^Vara de gravedad
+MST_RECIPEBOOK_NAME_1000000003^Void Vessel^虛無容器^빈 그릇^Réceptacle du vide^Behältnis der Leere^Recipiente del vacío
+MST_RECIPEBOOK_NAME_1000000004^Stonra Blade^中落石劍^스톤라 검^Lame Terre +^Terrara-Klinge^Hoja Piedra+
+MST_RECIPEBOOK_NAME_1000000005^HP +15%^HP+15%^HP+15%^PV +15%^LP + 15 %^VIT +15%
+MST_RECIPEBOOK_NAME_1000000006^Burst Shot^爆裂射擊^폭렬 사격^Tir critique^Salve^Tiro explosivo
+MST_RECIPEBOOK_NAME_1000000007^Standard Mogcake Pack^莫古月餅普通禮盒^일반 모그리 케이크 상자^Paquet de mogcakes standard^Standardpaket Mogkekse^Minilote mogupastel
+MST_RECIPEBOOK_NAME_1000000008^Rare Mogcake Pack^莫古月餅精品禮盒^스페셜 모그리 케이크 상자^Paquet de mogcakes rares^Seltenes Paket Mogkekse^Lote mogupastel
+MST_RECIPEBOOK_NAME_1000000009^Premium Mogcake Pack^莫古月餅金裝禮盒^프리미엄 모그리 케이크 상자^Paquet de mogcakes premium^Premiumpaket Mogkekse^Superlote mogupastel
+MST_RECIPEBOOK_NAME_901000510^Lunar Curtain^月之簾幕^달의 장막^Rideau lunaire^Mondschleier^Manto de luna
+MST_RECIPEBOOK_NAME_901000310^North Wind^北極之風^북극의 바람^Vent arctique^Nordwind^Aire ártico
+MST_RECIPEBOOK_NAME_903000120^Flametongue^火舌^불꽃의 혀^Langue de feu^Flammenzunge^Hoja ardiente
+MST_RECIPEBOOK_NAME_905100070^ATK +10%^攻擊+10%^공격력+10%^ATT +10%^ANG + 10 %^ATQ +10%
+MST_RECIPEBOOK_NAME_905100710^Auto-Protect^自動物防護^자동 프로테스^Auto-Bouclier^Auto-Protes^AutoCoraza
+MST_RECIPEBOOK_NAME_905200680^Biora Blade^猛毒化劍^바이오라 검^Lame Toxine +^Biora-Klinge^Hoja Bio+
+MST_RECIPEBOOK_NAME_901000290^Right Arm^炸彈右臂^봄의 오른팔^Poigne de bombo^Bomberarm (rechts)^Brazo de bom
+MST_RECIPEBOOK_NAME_901000420^Blue Fang^藍色獠牙^파란 송곳니^Croc Bleu^Blauer Reißzahn^Colmillo azul
+MST_RECIPEBOOK_NAME_903000110^Sleep Sword^睡眠劍^수면검^Lame Morphée^Schlafschwert^Espada Morfeo
+MST_RECIPEBOOK_NAME_903000510^Flame Lance^火焰長槍^불꽃의 창^Lance de feu^Flammenspeer^Lanza ígnea
+MST_RECIPEBOOK_NAME_903000620^Poison Knuckles^猛毒拳套^맹독 너클^Griffes empoisonnées^Giftkrallen^Puño venenoso
+MST_RECIPEBOOK_NAME_904000120^Thunder Shield^雷神盾^뇌신의 방패^Bouclier tonnerre^Donnerschild^Escudo Electro
+MST_RECIPEBOOK_NAME_904000620^Ice Armor^寒冰鎧^얼음 갑옷^Armure de glace^Frostrüstung^Armadura gélida
+MST_RECIPEBOOK_NAME_905100720^Auto-Shell^自動魔防護^자동 셸^Auto-Barrière^Auto-Vallum^AutoEscudo
+MST_RECIPEBOOK_NAME_905200690^Osmose Blade^攝魔劍^아스필 검^Lame Aspire ^Osmoseklinge^Hoja Aspir
+MST_RECIPEBOOK_NAME_1000000010^Shining Splendor^光輝閃耀^광휘의 검^Splendeur éclatante^Strahlende Pracht^Esplendor creciente
+MST_RECIPEBOOK_NAME_1000000011^Y-Potion^Y治療劑^와이 포션^Potion Y^Y-Trank^Poción Y
+MST_RECIPEBOOK_NAME_1000000012^Mega Ether^超級以太^메가 에테르^Méga Ether^Mega-Äther^Mega éter
+MST_RECIPEBOOK_NAME_1000000013^Blood Sword^嗜血魔劍^블러드 소드^Épée sanglante^Blutschwert^Espada sangrienta
+MST_RECIPEBOOK_NAME_901000400^Red Fang^紅色獠牙^붉은 송곳니^Croc rouge^Roter Reißzahn^Colmillo rojo
+MST_RECIPEBOOK_NAME_903000500^Trident^三叉戟^삼지창^Trident^Dreizack^Tridente
+MST_RECIPEBOOK_NAME_903000700^Rod of Lightning^雷電棒^천둥의 홀장^Bâton de Foudre^Blitzstab^Vara de rayo
+MST_RECIPEBOOK_NAME_903000830^Elven Bow^精靈弓^요정의 활^Arc elfique^Elfenbogen^Arco elfo
+MST_RECIPEBOOK_NAME_904000610^Flame Mail^烈焰甲^불꽃 갑옷^Cotte de feu^Flammenpanzer^Malla ígnea
+MST_RECIPEBOOK_NAME_905000500^Death^致死一擊^데스^Mort^Exitus^Muerte
+MST_RECIPEBOOK_NAME_905101090^Bird Killer^射鳥^새 킬러^Tue-oiseaux ^Papageno^Matapájaros
+MST_RECIPEBOOK_NAME_905101120^Auto-Potion^自動治療劑^자동 포션^Auto-Potion^Auto-Trank^Autopoción
+MST_RECIPEBOOK_NAME_905201130^Power Break^潰力^파워 브레이크^Émousse ^Kraftbrecher^Rompebrazo
+MST_RECIPEBOOK_NAME_905201140^Magic Break^潰魔^매직 브레이크^Brise-magie^Magiebrecher^Rompemagia
+MST_RECIPEBOOK_NAME_903000330^Giant's Axe^巨人斧^거인의 도끼^Hache de géant^Gigantenaxt^Hacha de gigante
+MST_RECIPEBOOK_NAME_903000440^Werebuster^鎮獸杖^웨어버스터^Garogarou^Wolftöter^Matatoxis
+MST_RECIPEBOOK_NAME_903000520^Ice Lance^玄冰槍^얼음 랜스^Lance de glace^Frostspeer^Lanza de hielo
+MST_RECIPEBOOK_NAME_903000690^Ice Rod^玄冰棒^얼음의 홀장^Sceptre de glace^Eisrute^Vara de hielo
+MST_RECIPEBOOK_NAME_903000880^Sirius^天狼星^시리우스^Sirius^Sirius^Sirio
+MST_RECIPEBOOK_NAME_904000270^Mystery Veil^神秘面紗^신비한 베일^Voile mystique^Mystikschleier^Velo de misterio
+MST_RECIPEBOOK_NAME_904000630^Golden Armor^黃金鎧^황금 갑옷^Golden Armor^Goldrüstung^Armadura dorada
+MST_RECIPEBOOK_NAME_904000740^Black Robe^黑法袍^검은색 로브^Robe noire^Schattenrobe^Túnica negra
+MST_RECIPEBOOK_NAME_905101060^Undead Killer^驅靈^언데드 킬러^Tueur de morts-vivants^Weihrauch^Matazombis
+MST_RECIPEBOOK_NAME_905201150^Armor Break^潰甲^아머 브레이크^Brise-armure^Panzerbrecher^Rompecoraza
+MST_RECIPEBOOK_NAME_905200530^Thunder Blade^雷電劍^선더 검^Lame Foudre ^Blitz-Klinge^Hoja Electro
+MST_RECIPEBOOK_NAME_904001410^Monarch's Ring^君王之戒^군주의 반지^Anneau du monarque^Monarchenring^Anillo del monarca
+MST_RECIPEBOOK_NAME_904001420^Domination Ring^支配者之戒^지배자의 반지^Anneau du dominant^Herrschaftsring^Anillo del dominante
+MST_RECIPEBOOK_NAME_904001430^Ruler's Ring^統治者之戒^통치자의 반지^Anneau du chef ^Herrscherring^Anillo del líder
+MST_RECIPEBOOK_NAME_904001440^Ring of Dominion^超越者之戒^초월자의 반지^Anneau du dominé ^Ring der Macht^Anillo del subyugador
+MST_RECIPEBOOK_NAME_901000330^Heavenly Wrath^眾神之怒^신들의 분노^Ire céleste^Himmelszorn^Ira divina
+MST_RECIPEBOOK_NAME_901000350^Dragon Scale^龍之鱗^용 비늘^Écaille de dragon^Drachenschuppe^Escama de dragón
+MST_RECIPEBOOK_NAME_903000780^Golden Staff^黃金杖^황금 주술봉^Bâton en or^Goldstock^Bastón de oro
+MST_RECIPEBOOK_NAME_903001060^Blessed Hammer^祝福鎚^축복받은 망치^Marteau béni^Heiliger Hammer^Maza sagrada
+MST_RECIPEBOOK_NAME_904000110^Ice Shield^寒冰盾^얼음 방패^Bouclier de glace^Eisschild^Escudo de hielo
+MST_RECIPEBOOK_NAME_904000560^Golden Vest^黃金胸甲^황금 흉갑^Gilet en or^Goldweste^Vestido de oro
+MST_RECIPEBOOK_NAME_904000730^White Robe^白法袍^하얀색 로브^Robe blanche^Heiligenrobe^Túnica blanca
+MST_RECIPEBOOK_NAME_903001070^Budding Maple Wand^綠葉楓木幻杖^어린잎 마법봉^Baguette bourgeonnante^Knospender Ahornstab^Varita brote de arce
+MST_RECIPEBOOK_NAME_904001450^Scion Conjurer's Dalmatica^血盟幻術師厚袍^야슈톨라 달마티카^Dalmatique de Y'shtola^Zauberspross-Dalmatica^Dalmática de Scion
+MST_RECIPEBOOK_NAME_904001460^Scion Conjurer's Pattens^血盟幻術師木鞋^야슈톨라 나무덧신^Patins de Y'shtola^Zauberspross-Trippen^Zuecos de Scion
+MST_RECIPEBOOK_NAME_903001080^Cobalt Winglet^鈷鐵翼劍^날개검^Espafut^Kobalt-Winglet^Hoja alada de cobalto
+MST_RECIPEBOOK_NAME_904001470^Antecedent's Attire^血盟女性套裝^민필리아 의복^Tenue de Minfilia^Vorläuferkleidung^Vestimentas de Scion
+MST_RECIPEBOOK_NAME_904001480^Meteor Survivor Ring^隕石倖存者指環^메테오 극복 반지^An. survivant du Météore^Meteor-Überlebensring^Anillo meteoviviente
+MST_RECIPEBOOK_NAME_903001090^Ul'dahn Falchion^黃砂彎刃刀^울다하 언월도^Fauchon uldien^Ul'dahn-Falchion^Cimitarra de Ul'dahn
+MST_RECIPEBOOK_NAME_904001490^Scion Thief's Tunic^血盟盜賊束腰衣^산크레드 튜닉^Tunique de Thancred^Diebesspross-Tunika^Túnica de Scion
+MST_RECIPEBOOK_NAME_904001500^Scion Thief's Halfgloves^血盟盜賊半指手套^산크레드 손등장갑^Mitaines de Thancred^Diebesspross-Handschuhe^Guantecillos de Scion
+MST_RECIPEBOOK_NAME_901000390^Gaia's Cry^大地之歎^대지의 진동^Gémissement de Gaïa^Erdengrollen^Llanto de Gaia
+MST_RECIPEBOOK_NAME_903001100^Golden Blade^黃金劍^황금 대검^Lame en or^Goldklinge^Hoja de oro
+MST_RECIPEBOOK_NAME_904001600^Flame Shield^烈焰盾^불꽃의 방패^Bouclier de feu^Flammenschild^Escudo ardiente
+MST_RECIPEBOOK_NAME_904000280^Circlet^頭冠^머리장식^Diadème^Stirnreif^Diadema
+MST_RECIPEBOOK_NAME_904001190^Angel Ring^天使戒指^천사의 반지^Bague d'ange^Engelsring^Anillo de ángel
+MST_RECIPEBOOK_NAME_903001110^Break Blade^石化劍^브레이크 블레이드^Epée Fossile^Brecherklinge^Sable pétreo
+MST_RECIPEBOOK_NAME_903001120^Razzmatazz^活力劍^래즈머태즈^Razzmatazz^Rummel^Razzmatazz
+MST_RECIPEBOOK_NAME_903001130^Hyper Ball^超越球^하이퍼 볼^Balle Cerclée^Hyperball^Balón de ataque
+MST_RECIPEBOOK_NAME_903001140^Override^超越克服^오버 라이드^Griffe de Dragon^Überbrücken^Sobretensión
+MST_RECIPEBOOK_NAME_903000530^Thunder Spear^雷電長槍^번개의 창^Lance Tonnerre^Donnerspeer^Lanza de rayo
+MST_RECIPEBOOK_NAME_903000890^Betelgeuse^參宿四^베텔기우스^Bételgeuse^Beteigeuze^Betelgeuse
+MST_RECIPEBOOK_NAME_904000130^Golden Shield^黃金盾^황금 방패^Bouclier en or^Goldschild^Escudo de oro
+MST_RECIPEBOOK_NAME_905000860^Imperil^弱化^위크^Vulnérabilité^Morbid^Aquiles
+MST_RECIPEBOOK_NAME_1000000014^Microphone^麥克風^마이크^Microphone^Mikrofon^Micrófono
+MST_RECIPEBOOK_NAME_1000000015^Evening Gloves^晚宴手套^이브닝 글로브^Gant de nuit^Abendhandschuhe^Guantes de noche
+MST_RECIPEBOOK_NAME_1000000016^Bunny Mask^兔子面具^토끼 가면^Masque de lapin^Häschenmaske^Máscara de conejita
+MST_RECIPEBOOK_NAME_1000000017^Stylish Black Dress^時尚黑禮裙^세련된 블랙 드레스^Robe noire magnifique^Stillvolles schwarzes Kleid^Traje negro fabuloso
+MST_RECIPEBOOK_NAME_901000520^Memory Candy^回憶糖果^추억의 알사탕^Bonbon du souvenir^Bonbon der Erinnerung^Caramelo del recuerdo
+MST_RECIPEBOOK_NAME_903000060^Mage Masher^封魔之刃^메이지 매셔^Dague magik^Magierkiller^Matamagos
+MST_RECIPEBOOK_NAME_903000900^Ras Algethi^帝座^라스알게티^Ras Algethi^Ras Algethi^Ras-Alghetti
+MST_RECIPEBOOK_NAME_903001150^Galkan Dagger^伽爾卡短劍^가르칸 단검^Dague Galkan^Galkandolch^Daga Galkan
+MST_RECIPEBOOK_NAME_903001160^Leucos Voulge^純白戰斧^순백의 벌지^Voulge leucos^Leucos Voulge^Alabarda de Leucos
+MST_RECIPEBOOK_NAME_903001170^Thoth's Wand^托特權杖^토토의 마법봉^Sceptre de Toth^Thoths Stab^Varita de Thoth
+MST_RECIPEBOOK_NAME_903001180^Orc Piercer^獸人刺槍^오크를 꿰뚫는 창^Transperceuse d'Orcs^Orkstecher^Penetraorcos
+MST_RECIPEBOOK_NAME_903001190^Retaliator^反擊者^리탈리에이터^Paire de poings vengeurs^Vergelter^Represaliador
+MST_RECIPEBOOK_NAME_903001200^Iridal Staff^虹杖^이리달의 지팡이^Bâton prismatique ^Irisstab^Bastón prismático
+MST_RECIPEBOOK_NAME_903001210^Tactician Magician's Wand^聯邦軍師錫杖^연방 참모의 마법봉^Sceptre de tacticien fédé.^Stab des Magietaktikers^Varita de mago estratega
+MST_RECIPEBOOK_NAME_903001220^Shark Gun^鯊魚火銃^상어총^Fusil requin^Haiknarre^Rifle tiburón
+MST_RECIPEBOOK_NAME_903001230^Slick Dart^靈巧飛鏢^능란의 다트^Fléchette glissantes ^Agiler Pfeil^Dardo escurridizo
+MST_RECIPEBOOK_NAME_903001240^Raikiri^雷切^라이키리^Raikiri^Raikiri^Raikiri
+MST_RECIPEBOOK_NAME_903001250^Moogle Spear^莫古利長槍^모그리 창^Lance mog ^Mogry-Speer^Lanza moguri
+MST_RECIPEBOOK_NAME_903001260^Break Shot^破壞銃槍^브레이크 샷^Pourfendeur ^Limitschuss^Partidor
+MST_RECIPEBOOK_NAME_903001270^collab^王狼牙·弓^collab^collab^collab^collab
+MST_RECIPEBOOK_NAME_903001280^Twin Whip^雙散鞭^쌍두편^Fouet double^Zwillingspeitsche^Látigo gemelo
+MST_RECIPEBOOK_NAME_903001290^Microphone^麥克風^마이크^Microphone ^Mikrofon^Micrófono
+MST_RECIPEBOOK_NAME_904001060^Torrent Ring^水神戒指^수신의 반지^Bague azurée^Flutring^Anillo de Sobek
+MST_RECIPEBOOK_NAME_904001510^Divine Shield^天賜神盾^성스러운 방패^Bouclier divin^Göttlicher Schild^Escudo divino
+MST_RECIPEBOOK_NAME_904001520^Raven Beret^渡鴉貝雷帽^레이븐 베레모^Béret corbeau^Rabenbarrett^Boina de urraca
+MST_RECIPEBOOK_NAME_904001530^Tactician Magician's Coat^聯邦軍師制服^연방 참모의 코트^Manteau de tacticien fédé.^Mantel des Magietaktikers^Abrigo de mago estratega
+MST_RECIPEBOOK_NAME_904001540^Parade Cuirass^巡遊胸甲^퍼레이드 퀴라스^Cuirasse d'apparat^Paradekürass^Coraza de cabalgata
+MST_RECIPEBOOK_NAME_904001550^Golden Hairpin^金色髮飾^황금 머리장식^Épingle en or^Goldene Haarnadel^Coletero de oro
+MST_RECIPEBOOK_NAME_904001560^Parade Gorget^巡遊項環^퍼레이드 고지트^Collet d'apparat^Paradekragen^Gorguera de cabalgata
+MST_RECIPEBOOK_NAME_904001570^Moogle Crown^莫古利王冠^모그리 왕관^Couronne mog ^Mogry-Krone^Corona moguri
+MST_RECIPEBOOK_NAME_904001580^Moogle Cape^莫古利斗篷^모그리 망토^Cape mog^Mogry-Umhang^Capa moguri
+MST_RECIPEBOOK_NAME_904001590^Unsui Clothes^雲水衣^운수의 옷^Tunique Unsui^Unsui-Kleidung^Vestido unsui
+MST_RECIPEBOOK_NAME_904001610^Golden Helm^黃金盔^황금 투구^Casque d'or^Goldhelm^Yelmo dorado
+MST_RECIPEBOOK_NAME_904001620^collab^青熊護臂^collab^collab^collab^collab
+MST_RECIPEBOOK_NAME_904001630^collab^海龍護臂^collab^collab^collab^collab
+MST_RECIPEBOOK_NAME_904001640^collab^恐暴龍護臂^collab^collab^collab^collab
+MST_RECIPEBOOK_NAME_904001650^collab^青熊頭盔^collab^collab^collab^collab
+MST_RECIPEBOOK_NAME_904001660^collab^海龍頭盔^collab^collab^collab^collab
+MST_RECIPEBOOK_NAME_904001670^collab^恐暴龍頭盔^collab^collab^collab^collab
+MST_RECIPEBOOK_NAME_904001680^collab^青熊胸甲^collab^collab^collab^collab
+MST_RECIPEBOOK_NAME_904001690^collab^海龍胸甲^collab^collab^collab^collab
+MST_RECIPEBOOK_NAME_904001700^collab^恐暴龍胸甲^collab^collab^collab^collab
+MST_RECIPEBOOK_NAME_904001710^Festival Robe+^聖人服改^개량형 산타복^Robe du Pôle Nord +^Festtagsrobe +^Túnica de festival +
+MST_RECIPEBOOK_NAME_904001720^Festival Cap+^聖人帽改^개량형 산타 모자^Chapeau du Pôle Nord +^Festtagsmütze +^Sombrero de festival +
+MST_RECIPEBOOK_NAME_904001730^Platinum Tiara^白金頭冠^백금의 티아라^Tiare de platine ^Platinumtiara^Tiara de platino
+MST_RECIPEBOOK_NAME_904001740^Fransisca^法蘭飛斧^프란시스카^Fransisca^Franziska^Francisca
+MST_RECIPEBOOK_NAME_904001750^Glory Staff^榮光之杖^영광의 지팡이^Bâton de gloire ^Gloriestab^Bastón de la gloria
+MST_RECIPEBOOK_NAME_904001760^Kris Knife^波刃匕首^크리스 나이프^Kriss^Krismesser^Navaja enjoyada
+MST_RECIPEBOOK_NAME_904001770^Royal Ring^王家戒指^왕가의 반지^Anneau royal ^Royaler Ring^Anillo real
+MST_RECIPEBOOK_NAME_904001780^collab^機動裝甲^collab^collab^collab^collab
+MST_RECIPEBOOK_NAME_904001790^collab^星辰鎧^collab^collab^collab^collab
+MST_RECIPEBOOK_NAME_904001800^Evening Glove^晚宴手套^이브닝 글로브^Gant de nuit^Abendhandschuhe^Guantes de noche
+MST_RECIPEBOOK_NAME_904001810^Bunny Mask^兔子面具^토끼 가면^Masque de lapin^Häschenmaske^Máscara de conejita
+MST_RECIPEBOOK_NAME_904001820^Stylish Black Dress^時尚黑禮裙^세련된 블랙 드레스^Robe noire magnifique^Stillvolles schwarzes Kleid^Traje negro fabuloso
+MST_RECIPEBOOK_NAME_905000890^Darkra^中暗黑^다크라^Ténèbres +^Darkra^Sombra+
+MST_RECIPEBOOK_NAME_905101510^Dragon Killer+^屠龍改^개량형 드래곤 킬러^Tue-dragons +^Drachentöter+^Matadragones+
+MST_RECIPEBOOK_NAME_905211120^Mog Search^莫古偵查^모그 탐색^Fouille mog^Mogrysuche^Búsqueda moguri
+MST_RECIPEBOOK_NAME_905211150^Mog Resist^莫古反抗^모그 레지스트^Résistance mog ^Mogryresistenz^Resistencia moguri
+MST_RECIPEBOOK_NAME_905211160^Mog Rise^莫古崛起^모그 라이즈^Soulèvement mog ^Mogryaufstieg^Ascenso moguri
+MST_RECIPEBOOK_NAME_905211170^Fira Blade^中火焰劍^파이라 검^Lame Feu +^Feura-Klinge^Hoja Piro+
+MST_RECIPEBOOK_NAME_1000000020^Chocolate Egg^巧克力蛋^초콜릿 달걀^Œuf en chocolat ^Schokoladenei^Huevo de chocolate
+MST_RECIPEBOOK_NAME_1000000021^Great Egg^宏偉蛋^위대한 달걀^Grand œuf ^Großes Ei^Huevo grande
+MST_RECIPEBOOK_NAME_1000000022^Magical Egg^魔法蛋^마법의 달걀^Œuf magique^Magisches Ei^Huevo mágico
+MST_RECIPEBOOK_NAME_1000000023^Radiant Egg^光輝蛋^빛나는 달걀^Œuf rayonnant^Strahlendes Ei^Huevo radiante
+MST_RECIPEBOOK_NAME_1000000024^Staff of Wrath^憤怒手杖^분노의 지팡이^Bâton de la colère ^Stab des Zorns^Bastón de la ira
+MST_RECIPEBOOK_NAME_1000000025^Crown of Justice^正義王冠^정의의 왕관^Couronne de la justice^Krone der Gerechtigkeit^Corona de la justicia
+MST_RECIPEBOOK_NAME_1000000026^Black Bandana^黑頭巾^검은 반다나^Bandana noir ^Schwarzes Kopftuch^Bandana negra
+MST_RECIPEBOOK_NAME_1000000027^Second Knife^隱蔽小刀^세컨드 나이프^Couteau de secours^Zweitmesser^Cuchillo de repuesto
+MST_RECIPEBOOK_NAME_1000000028^Icy Veins^冰項鏈^얼어붙은 맥^Veine de glace ^Eisvenen^Capilares helados
+MST_RECIPEBOOK_NAME_1000000029^Cold Snap^冰玉^혹한의 보주^Orbe gelé ^Kältewelle^Orbe helado
+MST_RECIPEBOOK_NAME_1000000030^Drakesclaw Rod^龍爪魔棒^드래곤 발톱의 홀장^Sceptre Griffodragon^Drachenkrallenstab^Vara garradragón
+MST_RECIPEBOOK_NAME_1000000031^Drakesguard Robe^龍護法袍^드래곤 수호의 로브^Robe gardragon^Umhang der Drachenwache^Túnica dracoguardián
+MST_RECIPEBOOK_NAME_1000000032^Bahamut's Fang^巴哈姆特之牙^바하무트의 엄니^Croc de Bahamut obscur^Bahamuts Reißzahn^Colmillo de Bahamut
+MST_RECIPEBOOK_NAME_1000000033^Dragon's Roar^龍嘯火槍^드래곤의 포효^Rugissement de dragon ^Drachengebrüll^Rugido de dragón
+MST_RECIPEBOOK_NAME_903001320^Guts Knuckle^勇氣拳套^근성의 너클^Poings destructeurs^Stahlknöchel^Nudillos valerosos
+MST_RECIPEBOOK_NAME_903001330^Golden Eye^黃金之眼^황금의 눈^Œil doré^Goldenes Auge^Óculo dorado
+MST_RECIPEBOOK_NAME_904001880^Scion Striker's Visor^血盟拳手面罩^이다 얼굴가리개^Visière d'Yda^Maske der Faustkämpferin^Visor de Yda
+MST_RECIPEBOOK_NAME_904001890^Scion Striker's Attire^血盟拳手套裝^이다 의복^Tenue d'Yda^Kleidung der Faustkämpferin^Indumentaria de Yda
+MST_RECIPEBOOK_NAME_904001900^Scion Thaumaturge's Monocle^血盟咒術師單眼鏡^파파리모 단안경^Monocle de Papalymo^Monokel des Thaumaturgen^Monóculo de Papalymo
+MST_RECIPEBOOK_NAME_904001910^Scion Thaumaturge's Robe^血盟咒術師長袍^파파리모 로브^Robe de Papalymo^Robe des Thaumaturgen^Túnica de Papalymo
+MST_RECIPEBOOK_NAME_1000000034^Adventurer^冒險者^모험가^Aventurier^Abenteurer^Aventurero
+MST_RECIPEBOOK_NAME_1000000035^Adventurer II^冒險者 II^모험가II^Aventurier+^Abenteurer II^Aventurero+
+MST_RECIPEBOOK_NAME_1000000036^Adventurer III^冒險者 III^모험가III^Aventurier++^Abenteurer III^Aventurero++
+MST_RECIPEBOOK_NAME_1000000037^Adventurer IV^冒險者 IV^모험가IV^Aventurier+++^Abenteurer IV^Aventurero+++
+MST_RECIPEBOOK_NAME_1000000038^Adventurer V^冒險者 V^모험가V^Aventurier++++^Abenteurer V^Aventurero++++
+MST_RECIPEBOOK_NAME_903001300^Broken Arm^破壞之臂^브로켄 암^Bras brisé^Gebrochener Arm^Brazo partido
+MST_RECIPEBOOK_NAME_903001310^Angel Wand^天使魔杖^천사의 완드^Baguette angélique^Engelsstab^Vara angelical
+MST_RECIPEBOOK_NAME_903001340^Platinum Musket^白金滑膛槍^백금의 소총^Mousquet de platine ^Platinmuskete^Mosquete de platino
+MST_RECIPEBOOK_NAME_903001350^Ancient Overlord^古代霸王^고대의 패왕^Ancien suzerain^Uralter Herrscher^Señor antiguo
+MST_RECIPEBOOK_NAME_903001360^Iron Will^鐵塊^철괴^Volonté de fer^Eiserner Wille^Voluntad férrea
+MST_RECIPEBOOK_NAME_903001370^Dragoon Lance^草原之龍騎槍^초원의 용기창^Lance de la prairie^Dragonerlanze^Lanza dracónica
+MST_RECIPEBOOK_NAME_903001380^Type-3 Fists^三式指虎^3식 브래스너클^Poings Type-3^Typ-3-Fäuste^Puños tipo 3
+MST_RECIPEBOOK_NAME_903001390^Cruel Oath^漆黑誓約^흑의 서약^Serment cruel^Grausamer Schwur^Juramento cruel
+MST_RECIPEBOOK_NAME_904001830^Bellows Arm Guard^蛇紋謢臂殼^자바라 팔토시^Protection pliable^Bellows-Armschutz^Protector plegable
+MST_RECIPEBOOK_NAME_904001840^Magic Barrier Device^魔導屏障發生裝置^마도 배리어 발생 장치^Appareil de barrière magique^Magische-Barriere-Gerät^Mecanismo de barrera
+MST_RECIPEBOOK_NAME_904001850^ZD Helmet^ZD頭盔^ZD 헬멧^Casque ZD^ZD-Helm^Yelmo ZD
+MST_RECIPEBOOK_NAME_904001860^Angel Wing^天使之翼^천사의 날개^Aile d'ange^Engelsflügel^Ala de ángel
+MST_RECIPEBOOK_NAME_904001870^Platinum Robe^白金法袍^백금의 로브^Tunique de platine ^Platinrobe^Túnica de platino
+MST_RECIPEBOOK_NAME_904001920^Seraphim Shield^織天使盾^치천사의 방패^Bouclier de Séraphin^Seraphimschild^Escudo de serafín
+MST_RECIPEBOOK_NAME_904001930^Emil's Head^艾米爾頭^에밀의 머리^Coiffe d'Émile^Emils Kopf^Cabeza de Emil
+MST_RECIPEBOOK_NAME_904001940^Heavy Armor: B^重裝裝甲：B^중장 아머: B^Armure lourde : B^Schwere Rüstung: B^Armadura pesada: B
+MST_RECIPEBOOK_NAME_904001950^Platina Armor^白金鎧甲^백금의 갑옷^Armure de platine ^Platinrüstung^Armadura de platino
+MST_RECIPEBOOK_NAME_905211180^Blizzara Blade^中暴雪劍^블리자라 검^Lame Glace +^Eisra-Klinge^Hoja Hielo+
+MST_RECIPEBOOK_NAME_905211190^Thundara Blade^中雷電劍^선더라 검^Lame Foudre +^Blitzra-Klinge^Hoja Electro+
+MST_RECIPEBOOK_NAME_905211200^Aerora Blade^中勁風劍^에어로라 검^Lame Vent +^Aerora-Klinge^Hoja Aero+
+MST_RECIPEBOOK_NAME_903001400^Platinum Dagger^白金短劍^백금의 단검^Dague de platine ^Platinumdolch^Daga de platino
+MST_RECIPEBOOK_NAME_903001410^Valiant II^勇士Ⅱ^배리언트Ⅱ^Vaillant II^Valiant II^Heroica
+MST_RECIPEBOOK_NAME_903001420^Precision Lance^精準長槍^프리셔스 랜스^Lance de précision^Präzisionslanze^La Parca
+MST_RECIPEBOOK_NAME_903001430^Valiant^勇士^배리언트^Vaillant^Valiant^Valiant
+MST_RECIPEBOOK_NAME_903001440^Cypress Pile^柏木棒^사이프러스 파일^Bâton de cyprès^Zypressen^Palo de ciprés
+MST_RECIPEBOOK_NAME_903001450^Platinum Saber^白金大劍^백금의 군도^Sabre de platine^Platinumklinge^Sable de platino
+MST_RECIPEBOOK_NAME_903001460^Darkbringer^引暗之刃^다크 브링거^Porte-ténèbres^Dunkelbringer^Oscurecedora
+MST_RECIPEBOOK_NAME_903001470^Yggdrasil Staff^世界樹之杖^세계수의 지팡이^Bâton d'Yggdrasil^Yggdrasilstab^Bastón de Yggdrasil
+MST_RECIPEBOOK_NAME_903001480^Dragvandil^多拉格梵迪爾^드래그반딜^Dragvandil^Dragvandil^Dragvandil
+MST_RECIPEBOOK_NAME_903001490^Sweet Kiss^甜蜜之吻^스위트 키스^Doux baiser^Süßer Kuss^Beso dulce
+MST_RECIPEBOOK_NAME_903001500^Platinum Mace^白金權杖^백금의 메이스^Masse de platine ^Platinumkeule^Maza de platino
+MST_RECIPEBOOK_NAME_903001510^Platinum Whip^白金之鞭^백금의 채찍^Fouet de platine ^Platinpeitsche^Látigo de platino
+MST_RECIPEBOOK_NAME_903001520^Tamer's Gloves^馴獸師手套^야수의 세스터스^Gants de dompteur^Bändigerhandschuhe^Guantes de domador
+MST_RECIPEBOOK_NAME_903001530^Secret Knife^秘密匕首^세컨드 나이프^Couteau secret^Geheimmesser^Cuchillo secreto
+MST_RECIPEBOOK_NAME_903001540^Staff of Resentment^憤怒手杖^분노의 지팡이^Bâton du ressentiment^Stab der Verachtung^Bastón vengativo
+MST_RECIPEBOOK_NAME_903001550^Platinum Edge^白金小刀^백금의 부메랑^Lame de platine^Platinumschneide^Filo de platino
+MST_RECIPEBOOK_NAME_903001560^Gale Moon^剛弓「烈風新月」^열풍신월^Lune des tempêtes^Sturmmond-Bogen^Luna del vendaval
+MST_RECIPEBOOK_NAME_903001570^Kogarasumaru^靈劍·小鳥丸^코가라스마루^Kogarasumaru^Seelenschwert - Kogarasumaru^Kogarasumaru
+MST_RECIPEBOOK_NAME_903001580^Scarlet Roses^緋紅玫瑰^스칼렛 로즈^Roses écarlates^Scharlachrosen^Rosas escarlata
+MST_RECIPEBOOK_NAME_903001590^Takemikazuchi^霹劍·武禦雷^타케미카즈치^Takemikazuchi^Blitzklinge - Takemikazuchi^Takemikazuchi
+MST_RECIPEBOOK_NAME_903001600^Steel Pipe^鐵管^철 파이프^Tuyau en acier^Stahlrohr^Tubo de hierro
+MST_RECIPEBOOK_NAME_903001610^Platinum Axe^白金斧^백금의 도끼^Hache de platine^Platinumaxt^Hacha de platino
+MST_RECIPEBOOK_NAME_904001960^Rubber Suit^橡膠服^루버 수트^Tunique de latex^Gummianzug^Traje de goma
+MST_RECIPEBOOK_NAME_904001970^A1-Class Powershield^士官用特A級盾牌^장교용 A급 실드^Bouclier classe A1^Kraftschild der Klasse A1^Escudo de primera clase
+MST_RECIPEBOOK_NAME_904001980^Assist Suit^輔助服^어시스트 슈트^Combinaison de soutien^Servo-Anzug^Exotraje
+MST_RECIPEBOOK_NAME_904001990^Chobham Armor^查布漢複合裝甲^쵸밤 아머^Blindage Chobham^Chobham-Rüstung^Blindaje Chobham
+MST_RECIPEBOOK_NAME_904002000^Tactical Manual^師父的戰術書^스승님의 전술서^Manuel de tactiques^Strategieplan des Meisters^Manual de tácticas
+MST_RECIPEBOOK_NAME_904002100^Magnolia's Uniform^木蘭衣^목련의 옷^Uniforme de Magnolia^Magnolias Gewandung^Uniforme de magnolia
+MST_RECIPEBOOK_NAME_904002010^Icy Veins^冰項鏈^얼어붙은 맥^Veine de glace ^Eisvenen^Capilares helados
+MST_RECIPEBOOK_NAME_904002020^Black Bandana^黑頭巾^검은 반다나^Bandana obscur^Schwarzes Kopftuch^Bandana negra
+MST_RECIPEBOOK_NAME_904002030^Crown of Justice^正義之冠^정의의 왕관^Couronne de la justice^Krone der Gerechtigkeit^Corona de la justicia
+MST_RECIPEBOOK_NAME_904002040^Jeweled Belt^寶石腰帶^쥬얼 벨트^Ceinture parée de joyaux^Juwelengürtel^Cinto enjoyado
+MST_RECIPEBOOK_NAME_904002050^Platinum Breastplate^白金胸甲^백금의 흉갑^Plastron de platine^Platinumbrustplatte^Peto de platino
+MST_RECIPEBOOK_NAME_904002060^Riot Gear^防暴裝甲^폭동 진압복^Équipement d'émeute^Kampfausrüstung^Equipo antidisturbios
+MST_RECIPEBOOK_NAME_904002070^Platinum Shield^白金盾^백금의 방패^Bouclier de platine^Platinumschild^Escudo de platino
+MST_RECIPEBOOK_NAME_905100300^Shin-Shard of Genius^真・睿智的結晶^진·예지의 결정^Éclat de génie X^Shin-Splitter des Genies^Fragmento de ingenio+
+MST_RECIPEBOOK_NAME_905100310^Shin-Follower's Oath^真・追隨者的誓言^진·맹주에게 바치는 맹세^Serment du serviteur X^Shin-Schwur des Anhängers^Voto del servidor+
+MST_RECIPEBOOK_NAME_905100320^Shin-Hydaelyn Guard^真・海德林的加護^진·하이델린의 가호^Protection d'Hydaelyn X^Shin-Hydaelynische Wache^Guarda de Hydaelyn+
+MST_RECIPEBOOK_NAME_905100330^Shin-Spirit of Freedom^真・不羈的氣焰^진·불기의 기염^Esprit de liberté X^Shin-Geist der Freiheit^Espíritu libre+
+MST_RECIPEBOOK_NAME_905100340^Shin-Sage's Prajna^真・賢人的智慧^진·현자의 지혜^Prajna du sage X^Shin-Prajna des Weisen^Prajna del sabio+
+MST_RECIPEBOOK_NAME_905211210^Kappower^河童之力^캇파워^Kappuissant^Kappower^Kappoder
+MST_RECIPEBOOK_NAME_905100350^Auto-Bravery^自動勇氣^자동 브레이브^Auto-Bravoure^Auto-Courage^AutoBravura
+MST_RECIPEBOOK_NAME_905100360^Auto-Faith^自動信念^자동 페이스^Auto-foi^Auto-Ener^AutoFé
+MST_RECIPEBOOK_NAME_905100370^MP + 15%^MP+15%^MP+15%^PM + 15%^MP + 15 %^PM + 15%
+MST_RECIPEBOOK_NAME_1000000039^Kitty Headband^貓耳髮帶^고양이 헤어밴드^Serre-tête chaton^Kätzchen-Stirnband^Banda de minina
+MST_RECIPEBOOK_NAME_1000000040^Cloak of Resentment^怨念披風^분노의 망토^Cape du ressentiment^Mantel der Verachtung^Capa del resentimiento
+MST_RECIPEBOOK_NAME_1000000041^Sparkling Heels^閃亮跟鞋^반짝이는 구두^Talons éclatants ^Glitzernde Highheels^Tacones brillantes
+MST_RECIPEBOOK_NAME_1000000042^Evil Pipe^惡魔笛^악마의 파이프 ^Tuyau maudit^Bösartige Pfeife^Flauta maliciosa
+MST_RECIPEBOOK_NAME_1000000043^Pink Striped Float^粉紅紋泳圈^분홍 줄무늬 튜브^Flotteur à rayure rose^Pink gestreifter Rettungsring^Flotador con rayas rosas
+MST_RECIPEBOOK_NAME_1500000032^Cheerful Tune^輕快旋律^경쾌한 선율^Air enjoué^Fröhliche Melodie^Tono alegre
+MST_RECIPEBOOK_NAME_1000000044^Joyful Spirit^喜悅之心^기쁨의 마음^Esprit de la joie^Fröhlicher Geist^Espíritu alegre
+MST_RECIPEBOOK_NAME_1000000045^Lightbringer^光明使者^라이트 브링거^Illuminateur^Lichtbringer^Iluminador
+MST_RECIPEBOOK_NAME_1000000046^Grasping Sphere^掌中魔球^클링 스피어^Sphère de cupidité^Fesselkristall^Esfera de la codicia
+MST_RECIPEBOOK_NAME_1000000047^Staff of Blizzards^冰杖^빙설의 지팡이^Bâton blizzard^Blizzardstab^Bastón de la ventisca
+MST_RECIPEBOOK_NAME_1000000048^Wing Edges^翼刃^윙 엣지^Dague ailée^Flügelschneide^Daga alada
+MST_RECIPEBOOK_NAME_1000000049^Salamander's Gauntlets^火焰蜥蜴手甲^샐러맨더^Gantelets de salamandre^Salamanderhandschuhe^Guanteletes de salamandra
+MST_RECIPEBOOK_NAME_1000000050^Crag Splitter^大地之劍^대지의 검^Briseterre^Kliffbrecher^Partepiedras

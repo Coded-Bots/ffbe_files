@@ -1197,6 +1197,20 @@
         "o2ye8th6": "slash5(blue130)"
     }, 
     {
+        "2HjxCGo6": "atk_slash5_blue.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "300", 
+        "h5t4yBm2": "1000663", 
+        "o2ye8th6": "slash5(blue300)"
+    }, 
+    {
+        "2HjxCGo6": "atk_slash5_blue.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "200", 
+        "h5t4yBm2": "1000664", 
+        "o2ye8th6": "slash5(blue200)"
+    }, 
+    {
         "2HjxCGo6": "atk_slash5_light_blue.bmb", 
         "I1B7wNWc": "5", 
         "avX1k34K": "100", 
@@ -1209,6 +1223,13 @@
         "avX1k34K": "150", 
         "h5t4yBm2": "1000671", 
         "o2ye8th6": "slash5(aqua150)"
+    }, 
+    {
+        "2HjxCGo6": "atk_slash5_light_blue.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "200", 
+        "h5t4yBm2": "1000672", 
+        "o2ye8th6": "slash5(aqua200)"
     }, 
     {
         "2HjxCGo6": "atk_slash5_green.bmb", 
@@ -1559,6 +1580,13 @@
         "avX1k34K": "100", 
         "h5t4yBm2": "1000960", 
         "o2ye8th6": "slash6_slant(white)"
+    }, 
+    {
+        "2HjxCGo6": "atk_slash6_slant_white.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "300", 
+        "h5t4yBm2": "1000961", 
+        "o2ye8th6": "slash6_slant(white300)"
     }, 
     {
         "2HjxCGo6": "atk_slash6_slant_yellow.bmb", 
@@ -11858,6 +11886,20 @@
         "o2ye8th6": "BarrierBall(blue50)"
     }, 
     {
+        "2HjxCGo6": "battle_generic_barrier_ball1_blue.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "70", 
+        "h5t4yBm2": "5002844", 
+        "o2ye8th6": "BarrierBall(blue70)"
+    }, 
+    {
+        "2HjxCGo6": "battle_generic_barrier_ball1_blue.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "150", 
+        "h5t4yBm2": "5002845", 
+        "o2ye8th6": "BarrierBall(blue150)"
+    }, 
+    {
         "2HjxCGo6": "battle_generic_barrier_ball1_green.bmb", 
         "I1B7wNWc": "5", 
         "avX1k34K": "100", 
@@ -11940,6 +11982,13 @@
         "avX1k34K": "300", 
         "h5t4yBm2": "5002883", 
         "o2ye8th6": "BarrierBall(pink300)"
+    }, 
+    {
+        "2HjxCGo6": "battle_generic_barrier_ball1_pink.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "150", 
+        "h5t4yBm2": "5002884", 
+        "o2ye8th6": "BarrierBall(pink150)"
     }, 
     {
         "2HjxCGo6": "battle_generic_barrier_ball1_purple.bmb", 
@@ -14943,6 +14992,13 @@
         "avX1k34K": "100", 
         "h5t4yBm2": "5006090", 
         "o2ye8th6": "twincle_flow_white_f240"
+    }, 
+    {
+        "2HjxCGo6": "eff_twincle_flow_white_f240.bmb:0:0:90", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "100", 
+        "h5t4yBm2": "5006091", 
+        "o2ye8th6": "twincle_flow_white_f240R90"
     }, 
     {
         "2HjxCGo6": "eff_twincle_flow_white_f60.bmb", 
@@ -20615,6 +20671,13 @@
         "o2ye8th6": "magiccircle_001_blue(200)"
     }, 
     {
+        "2HjxCGo6": "atk_magiccircle_001_blue.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "300", 
+        "h5t4yBm2": "5012942", 
+        "o2ye8th6": "magiccircle_001_blue(300)"
+    }, 
+    {
         "2HjxCGo6": "atk_magiccircle_001_green.bmb", 
         "I1B7wNWc": "5", 
         "avX1k34K": "100", 
@@ -23163,6 +23226,13 @@
         "o2ye8th6": "regen_back_blue"
     }, 
     {
+        "2HjxCGo6": "eff_regen_back_blue.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "150", 
+        "h5t4yBm2": "5016251", 
+        "o2ye8th6": "regen_back_blue(150)"
+    }, 
+    {
         "2HjxCGo6": "eff_regen_front_blue.bmb", 
         "I1B7wNWc": "5", 
         "avX1k34K": "100", 
@@ -23177,6 +23247,13 @@
         "o2ye8th6": "regen_back_green"
     }, 
     {
+        "2HjxCGo6": "eff_regen_back_green.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "150", 
+        "h5t4yBm2": "5016271", 
+        "o2ye8th6": "regen_back_green(150)"
+    }, 
+    {
         "2HjxCGo6": "eff_regen_front_green.bmb", 
         "I1B7wNWc": "5", 
         "avX1k34K": "100", 
@@ -23189,6 +23266,13 @@
         "avX1k34K": "100", 
         "h5t4yBm2": "5016290", 
         "o2ye8th6": "regen_back_light_blue"
+    }, 
+    {
+        "2HjxCGo6": "eff_regen_back_light_blue.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "150", 
+        "h5t4yBm2": "5016291", 
+        "o2ye8th6": "regen_back_light_blue(150)"
     }, 
     {
         "2HjxCGo6": "eff_regen_front_light_blue.bmb", 

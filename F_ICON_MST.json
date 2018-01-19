@@ -1995,6 +1995,16 @@
         "qtkvrS60": "spd_20170630_bn_list_FF15_last_02.png"
     }, 
     {
+        "0HUPxDf1": "7680101", 
+        "G4L0YIB2": "エンサ大砂海", 
+        "qtkvrS60": "spd_20170701_bn_list_FF12.png"
+    }, 
+    {
+        "0HUPxDf1": "7680102", 
+        "G4L0YIB2": "エンサ大砂海_最終日", 
+        "qtkvrS60": "spd_20170714_bn_list_FF12_last.png"
+    }, 
+    {
         "0HUPxDf1": "8993001", 
         "G4L0YIB2": "ねむれるしし降臨", 
         "qtkvrS60": "spd_20160831_bn_list_BF01.png"
@@ -3033,6 +3043,11 @@
         "0HUPxDf1": "106303500", 
         "G4L0YIB2": "マニプルスレイドコイン", 
         "qtkvrS60": "item_9154.png"
+    }, 
+    {
+        "0HUPxDf1": "106303600", 
+        "G4L0YIB2": "ウルタンの花", 
+        "qtkvrS60": "item_9155.png"
     }, 
     {
         "0HUPxDf1": "107000100", 
@@ -5040,6 +5055,16 @@
         "qtkvrS60": "item_10239.png"
     }, 
     {
+        "0HUPxDf1": "302004300", 
+        "G4L0YIB2": "カオスブレイド", 
+        "qtkvrS60": "item_10240.png"
+    }, 
+    {
+        "0HUPxDf1": "302004400", 
+        "G4L0YIB2": "デストラップ", 
+        "qtkvrS60": "item_10241.png"
+    }, 
+    {
         "0HUPxDf1": "303000100", 
         "G4L0YIB2": "グレートソード", 
         "qtkvrS60": "item_10301.png"
@@ -6480,6 +6505,11 @@
         "qtkvrS60": "item_40105.png"
     }, 
     {
+        "0HUPxDf1": "402002300", 
+        "G4L0YIB2": "最強の盾", 
+        "qtkvrS60": "item_40222.png"
+    }, 
+    {
         "0HUPxDf1": "403000100", 
         "G4L0YIB2": "皮の帽子", 
         "qtkvrS60": "item_30100.png"
@@ -7003,6 +7033,11 @@
         "0HUPxDf1": "405004400", 
         "G4L0YIB2": "アシストスーツ", 
         "qtkvrS60": "item_20140.png"
+    }, 
+    {
+        "0HUPxDf1": "405004500", 
+        "G4L0YIB2": "バッシュの服", 
+        "qtkvrS60": "item_20141.png"
     }, 
     {
         "0HUPxDf1": "406000100", 
@@ -8123,6 +8158,11 @@
         "0HUPxDf1": "409016800", 
         "G4L0YIB2": "士官用特A級シールド", 
         "qtkvrS60": "item_50290.png"
+    }, 
+    {
+        "0HUPxDf1": "409016900", 
+        "G4L0YIB2": "ジャッジマスターのマント", 
+        "qtkvrS60": "item_50291.png"
     }, 
     {
         "0HUPxDf1": "504212570", 
@@ -9508,6 +9548,11 @@
         "0HUPxDf1": "1100000131", 
         "G4L0YIB2": "Crag Splitter", 
         "qtkvrS60": "global_equip_10067.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000132", 
+        "G4L0YIB2": "Vegaplus", 
+        "qtkvrS60": "global_equip_10072.png"
     }, 
     {
         "0HUPxDf1": "1106300100", 
