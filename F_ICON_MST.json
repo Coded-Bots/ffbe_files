@@ -175,9 +175,44 @@
         "qtkvrS60": "map_icon_3210204.png"
     }, 
     {
+        "0HUPxDf1": "13101", 
+        "G4L0YIB2": "エスタヴィラの都", 
+        "qtkvrS60": "map_icon_3310201.png"
+    }, 
+    {
         "0HUPxDf1": "13102", 
         "G4L0YIB2": "ナトゥリア", 
         "qtkvrS60": "map_icon_3310202.png"
+    }, 
+    {
+        "0HUPxDf1": "13103", 
+        "G4L0YIB2": "テュケの町", 
+        "qtkvrS60": "map_icon_3320201.png"
+    }, 
+    {
+        "0HUPxDf1": "14101", 
+        "G4L0YIB2": "灰の街アナベス", 
+        "qtkvrS60": "map_icon_3410201.png"
+    }, 
+    {
+        "0HUPxDf1": "14102", 
+        "G4L0YIB2": "カッパの里", 
+        "qtkvrS60": "map_icon_3410202.png"
+    }, 
+    {
+        "0HUPxDf1": "14103", 
+        "G4L0YIB2": "イルテアの町", 
+        "qtkvrS60": "map_icon_3420201.png"
+    }, 
+    {
+        "0HUPxDf1": "14104", 
+        "G4L0YIB2": "マダムの館", 
+        "qtkvrS60": "map_icon_3450201.png"
+    }, 
+    {
+        "0HUPxDf1": "14105", 
+        "G4L0YIB2": "失意の都へレスティア", 
+        "qtkvrS60": "map_icon_3430201.png"
     }, 
     {
         "0HUPxDf1": "76508", 
@@ -188,6 +223,56 @@
         "0HUPxDf1": "76509", 
         "G4L0YIB2": "run9-EXTRA", 
         "qtkvrS60": "map_icon_76509.png"
+    }, 
+    {
+        "0HUPxDf1": "77009", 
+        "G4L0YIB2": "run10-EXTRA", 
+        "qtkvrS60": "map_icon_77009.png"
+    }, 
+    {
+        "0HUPxDf1": "77509", 
+        "G4L0YIB2": "run11-EXTRA", 
+        "qtkvrS60": "map_icon_77509.png"
+    }, 
+    {
+        "0HUPxDf1": "78009", 
+        "G4L0YIB2": "run12-EXTRA-black", 
+        "qtkvrS60": "map_icon_78009.png"
+    }, 
+    {
+        "0HUPxDf1": "78010", 
+        "G4L0YIB2": "run12-EXTRA-white", 
+        "qtkvrS60": "map_icon_78010.png"
+    }, 
+    {
+        "0HUPxDf1": "78011", 
+        "G4L0YIB2": "run12-EXTRA-green", 
+        "qtkvrS60": "map_icon_78011.png"
+    }, 
+    {
+        "0HUPxDf1": "78012", 
+        "G4L0YIB2": "run12-EXTRA-atk", 
+        "qtkvrS60": "map_icon_78012.png"
+    }, 
+    {
+        "0HUPxDf1": "78013", 
+        "G4L0YIB2": "run12-EXTRA-def", 
+        "qtkvrS60": "map_icon_78013.png"
+    }, 
+    {
+        "0HUPxDf1": "78014", 
+        "G4L0YIB2": "run12-EXTRA-tech", 
+        "qtkvrS60": "map_icon_78014.png"
+    }, 
+    {
+        "0HUPxDf1": "78015", 
+        "G4L0YIB2": "run12-EXTRA-heal", 
+        "qtkvrS60": "map_icon_78015.png"
+    }, 
+    {
+        "0HUPxDf1": "78016", 
+        "G4L0YIB2": "run12-EXTRA-sup", 
+        "qtkvrS60": "map_icon_78016.png"
     }, 
     {
         "0HUPxDf1": "110001", 
@@ -360,6 +445,46 @@
         "qtkvrS60": "dic_seiken3.png"
     }, 
     {
+        "0HUPxDf1": "120013", 
+        "G4L0YIB2": "BRAVELYDEFAULT", 
+        "qtkvrS60": "dic_bd.png"
+    }, 
+    {
+        "0HUPxDf1": "120014", 
+        "G4L0YIB2": "BRAVELYDEFAULTFE", 
+        "qtkvrS60": "dic_bd_fe.png"
+    }, 
+    {
+        "0HUPxDf1": "120015", 
+        "G4L0YIB2": "BRAVELYSECOND", 
+        "qtkvrS60": "dic_bs.png"
+    }, 
+    {
+        "0HUPxDf1": "120016", 
+        "G4L0YIB2": "SO1", 
+        "qtkvrS60": "dictionary_so1.png"
+    }, 
+    {
+        "0HUPxDf1": "120017", 
+        "G4L0YIB2": "SO2", 
+        "qtkvrS60": "dictionary_so2.png"
+    }, 
+    {
+        "0HUPxDf1": "120018", 
+        "G4L0YIB2": "SO3", 
+        "qtkvrS60": "dictionary_so3.png"
+    }, 
+    {
+        "0HUPxDf1": "120019", 
+        "G4L0YIB2": "SO4", 
+        "qtkvrS60": "dictionary_so4.png"
+    }, 
+    {
+        "0HUPxDf1": "120020", 
+        "G4L0YIB2": "SO5", 
+        "qtkvrS60": "dictionary_so5.png"
+    }, 
+    {
         "0HUPxDf1": "910002", 
         "G4L0YIB2": "Cerberus Guard", 
         "qtkvrS60": "global_ability_10001.png"
@@ -458,6 +583,56 @@
         "0HUPxDf1": "1000002", 
         "G4L0YIB2": "イベントマスアイコン", 
         "qtkvrS60": "runningevent_icon_scenario.png"
+    }, 
+    {
+        "0HUPxDf1": "1000102", 
+        "G4L0YIB2": "探検チョコボ_ラティウスの森", 
+        "qtkvrS60": "explore_banner_1.png"
+    }, 
+    {
+        "0HUPxDf1": "1000103", 
+        "G4L0YIB2": "探検チョコボ_セイレーンの塔", 
+        "qtkvrS60": "explore_banner_2.png"
+    }, 
+    {
+        "0HUPxDf1": "1000104", 
+        "G4L0YIB2": "探検チョコボ_炎風の洞窟", 
+        "qtkvrS60": "explore_banner_3.png"
+    }, 
+    {
+        "0HUPxDf1": "1000105", 
+        "G4L0YIB2": "探検チョコボ_ザデール砂漠", 
+        "qtkvrS60": "explore_banner_4.png"
+    }, 
+    {
+        "0HUPxDf1": "1000106", 
+        "G4L0YIB2": "探検チョコボ_ランゼルト雪山", 
+        "qtkvrS60": "explore_banner_5.png"
+    }, 
+    {
+        "0HUPxDf1": "1000107", 
+        "G4L0YIB2": "探検チョコボ_雷鳴響く頂", 
+        "qtkvrS60": "explore_banner_6.png"
+    }, 
+    {
+        "0HUPxDf1": "1000108", 
+        "G4L0YIB2": "探検チョコボ_魔の山", 
+        "qtkvrS60": "explore_banner_7.png"
+    }, 
+    {
+        "0HUPxDf1": "1000109", 
+        "G4L0YIB2": "探検チョコボ_カーバンクルの森", 
+        "qtkvrS60": "explore_banner_8.png"
+    }, 
+    {
+        "0HUPxDf1": "1000110", 
+        "G4L0YIB2": "探検チョコボ_シルフの洞窟", 
+        "qtkvrS60": "explore_banner_9.png"
+    }, 
+    {
+        "0HUPxDf1": "1000111", 
+        "G4L0YIB2": "探検チョコボ_チョコボの森", 
+        "qtkvrS60": "explore_banner_10.png"
     }, 
     {
         "0HUPxDf1": "1110101", 
@@ -1435,6 +1610,146 @@
         "qtkvrS60": "map_icon_3310301.png"
     }, 
     {
+        "0HUPxDf1": "3320101", 
+        "G4L0YIB2": "禁断の地からの帰路", 
+        "qtkvrS60": "map_icon_3310105.png"
+    }, 
+    {
+        "0HUPxDf1": "3320102", 
+        "G4L0YIB2": "バオバブの林", 
+        "qtkvrS60": "map_icon_3320102.png"
+    }, 
+    {
+        "0HUPxDf1": "3320103", 
+        "G4L0YIB2": "オアシス", 
+        "qtkvrS60": "map_icon_3320103.png"
+    }, 
+    {
+        "0HUPxDf1": "3320104", 
+        "G4L0YIB2": "砂岩洞窟", 
+        "qtkvrS60": "map_icon_3320104.png"
+    }, 
+    {
+        "0HUPxDf1": "3320105", 
+        "G4L0YIB2": "戦場", 
+        "qtkvrS60": "map_icon_3320105.png"
+    }, 
+    {
+        "0HUPxDf1": "3320106", 
+        "G4L0YIB2": "閉ざされた坑道", 
+        "qtkvrS60": "map_icon_3320106.png"
+    }, 
+    {
+        "0HUPxDf1": "3320107", 
+        "G4L0YIB2": "丘陵地帯", 
+        "qtkvrS60": "map_icon_3320107.png"
+    }, 
+    {
+        "0HUPxDf1": "3320108", 
+        "G4L0YIB2": "エネルギー施設", 
+        "qtkvrS60": "map_icon_3320108.png"
+    }, 
+    {
+        "0HUPxDf1": "3410101", 
+        "G4L0YIB2": "大穴の入口", 
+        "qtkvrS60": "map_icon_3410101.png"
+    }, 
+    {
+        "0HUPxDf1": "3410102", 
+        "G4L0YIB2": "硝子の砂漠", 
+        "qtkvrS60": "map_icon_3410102.png"
+    }, 
+    {
+        "0HUPxDf1": "3410103", 
+        "G4L0YIB2": "天窓の砂漠", 
+        "qtkvrS60": "map_icon_3410103.png"
+    }, 
+    {
+        "0HUPxDf1": "3410104", 
+        "G4L0YIB2": "虹色の清流", 
+        "qtkvrS60": "map_icon_3410104.png"
+    }, 
+    {
+        "0HUPxDf1": "3410106", 
+        "G4L0YIB2": "積層の岸壁", 
+        "qtkvrS60": "map_icon_3410106.png"
+    }, 
+    {
+        "0HUPxDf1": "3410107", 
+        "G4L0YIB2": "白刃の森", 
+        "qtkvrS60": "map_icon_3410107.png"
+    }, 
+    {
+        "0HUPxDf1": "3410108", 
+        "G4L0YIB2": "ルーンフェリア城", 
+        "qtkvrS60": "map_icon_3410108.png"
+    }, 
+    {
+        "0HUPxDf1": "3410301", 
+        "G4L0YIB2": "転生の洞穴", 
+        "qtkvrS60": "map_icon_3410301.png"
+    }, 
+    {
+        "0HUPxDf1": "3420101", 
+        "G4L0YIB2": "綿毛の草原", 
+        "qtkvrS60": "map_icon_3420101.png"
+    }, 
+    {
+        "0HUPxDf1": "3420102", 
+        "G4L0YIB2": "幻魔導研究施設", 
+        "qtkvrS60": "map_icon_3420102.png"
+    }, 
+    {
+        "0HUPxDf1": "3420103", 
+        "G4L0YIB2": "絹布の岩道", 
+        "qtkvrS60": "map_icon_3420103.png"
+    }, 
+    {
+        "0HUPxDf1": "3420104", 
+        "G4L0YIB2": "流砂の谷", 
+        "qtkvrS60": "map_icon_3420104.png"
+    }, 
+    {
+        "0HUPxDf1": "3420105", 
+        "G4L0YIB2": "エネルギー抽出施設", 
+        "qtkvrS60": "map_icon_3420105.png"
+    }, 
+    {
+        "0HUPxDf1": "3420106", 
+        "G4L0YIB2": "忘却の寝床", 
+        "qtkvrS60": "map_icon_3420106.png"
+    }, 
+    {
+        "0HUPxDf1": "3420107", 
+        "G4L0YIB2": "隠れ家ランザット", 
+        "qtkvrS60": "map_icon_3420107.png"
+    }, 
+    {
+        "0HUPxDf1": "3420108", 
+        "G4L0YIB2": "寂滅の森", 
+        "qtkvrS60": "map_icon_3430102.png"
+    }, 
+    {
+        "0HUPxDf1": "3420109", 
+        "G4L0YIB2": "鱗岩の道途", 
+        "qtkvrS60": "map_icon_3430104.png"
+    }, 
+    {
+        "0HUPxDf1": "3420110", 
+        "G4L0YIB2": "亡失の酒場", 
+        "qtkvrS60": "map_icon_3430105.png"
+    }, 
+    {
+        "0HUPxDf1": "3420111", 
+        "G4L0YIB2": "エルマウルの書庫", 
+        "qtkvrS60": "map_icon_3430106.png"
+    }, 
+    {
+        "0HUPxDf1": "3420112", 
+        "G4L0YIB2": "ポーチカ村への道中", 
+        "qtkvrS60": "map_icon_3430108.png"
+    }, 
+    {
         "0HUPxDf1": "4010101", 
         "G4L0YIB2": "強き心の修練", 
         "qtkvrS60": "spd_20161021_bn_list_ffbe.png"
@@ -1453,6 +1768,41 @@
         "0HUPxDf1": "4010131", 
         "G4L0YIB2": "凛々しき純心の修練", 
         "qtkvrS60": "spd_20161021_bn_list_ffbe_03.png"
+    }, 
+    {
+        "0HUPxDf1": "4020001", 
+        "G4L0YIB2": "2周年記念ショートストーリー", 
+        "qtkvrS60": "spd_20171001_bn_list_ffbe.png"
+    }, 
+    {
+        "0HUPxDf1": "4020101", 
+        "G4L0YIB2": "蒼き魂と紅の剣", 
+        "qtkvrS60": "spd_20171001_bn_list_chara_01.png"
+    }, 
+    {
+        "0HUPxDf1": "4020201", 
+        "G4L0YIB2": "新しき命", 
+        "qtkvrS60": "spd_20171001_bn_list_chara_06.png"
+    }, 
+    {
+        "0HUPxDf1": "4020301", 
+        "G4L0YIB2": "恋のバズーカ大作戦", 
+        "qtkvrS60": "spd_20171001_bn_list_chara_05.png"
+    }, 
+    {
+        "0HUPxDf1": "4020401", 
+        "G4L0YIB2": "硝煙のメモリー", 
+        "qtkvrS60": "spd_20171001_bn_list_chara_04.png"
+    }, 
+    {
+        "0HUPxDf1": "4020501", 
+        "G4L0YIB2": "フィーナ、想いのかけら", 
+        "qtkvrS60": "spd_20171001_bn_list_chara_03.png"
+    }, 
+    {
+        "0HUPxDf1": "4020601", 
+        "G4L0YIB2": "その絆の色は", 
+        "qtkvrS60": "spd_20171001_bn_list_chara_02.png"
     }, 
     {
         "0HUPxDf1": "6000001", 
@@ -1535,9 +1885,29 @@
         "qtkvrS60": "memory_plate_chapter_2_1_3.png"
     }, 
     {
+        "0HUPxDf1": "6010115", 
+        "G4L0YIB2": "振り返り2部2章前編", 
+        "qtkvrS60": "memory_plate_chapter_2_2_1.png"
+    }, 
+    {
+        "0HUPxDf1": "6010116", 
+        "G4L0YIB2": "振り返り2部2章後編", 
+        "qtkvrS60": "memory_plate_chapter_2_2_2.png"
+    }, 
+    {
         "0HUPxDf1": "7030101", 
         "G4L0YIB2": "FFTイベント", 
         "qtkvrS60": "spd_bn_list_FFT.png"
+    }, 
+    {
+        "0HUPxDf1": "7030103", 
+        "G4L0YIB2": "FFTイベント_復刻", 
+        "qtkvrS60": "spd_20171016_bn_list_FFT.png"
+    }, 
+    {
+        "0HUPxDf1": "7030104", 
+        "G4L0YIB2": "FFTイベント_復刻_最終日", 
+        "qtkvrS60": "spd_20171016_bn_list_FFT_last.png"
     }, 
     {
         "0HUPxDf1": "7040101", 
@@ -1760,6 +2130,16 @@
         "qtkvrS60": "spd_20170201_bn_list_dangerous_ariana.png"
     }, 
     {
+        "0HUPxDf1": "7430102", 
+        "G4L0YIB2": "Dangerous Woman Tour_復刻", 
+        "qtkvrS60": "spd_20170810_bn_list_dangerous_ariana.png"
+    }, 
+    {
+        "0HUPxDf1": "7430103", 
+        "G4L0YIB2": "Dangerous Woman Tour_復刻_最終日", 
+        "qtkvrS60": "spd_20170813_bn_list_dangerous_ariana_last.png"
+    }, 
+    {
         "0HUPxDf1": "7440101", 
         "G4L0YIB2": "魔晄炉爆破作戦（wave）", 
         "qtkvrS60": "spd_20170206_bn_list_FF7.png"
@@ -1885,6 +2265,56 @@
         "qtkvrS60": "spd_20170521_bn_list_FFBEs_last.png"
     }, 
     {
+        "0HUPxDf1": "7560301", 
+        "G4L0YIB2": "ユニット紹介クエスト（フィーナ）", 
+        "qtkvrS60": "spd_20170612_bn_list_FFBEf.png"
+    }, 
+    {
+        "0HUPxDf1": "7560302", 
+        "G4L0YIB2": "ユニット紹介クエスト（フィーナ）_最終日", 
+        "qtkvrS60": "spd_20170621_bn_list_FFBEf_last.png"
+    }, 
+    {
+        "0HUPxDf1": "7560401", 
+        "G4L0YIB2": "ユニット紹介クエスト（ジェイク）", 
+        "qtkvrS60": "spd_20170711_bn_list_FFBE_jyeik.png"
+    }, 
+    {
+        "0HUPxDf1": "7560402", 
+        "G4L0YIB2": "ユニット紹介クエスト（ジェイク）_最終日", 
+        "qtkvrS60": "spd_20170720_bn_list_FFBE_jyeik_last.png"
+    }, 
+    {
+        "0HUPxDf1": "7560501", 
+        "G4L0YIB2": "ユニット紹介クエスト（リド）", 
+        "qtkvrS60": "spd_20170810_bn_list_FFBE_r.png"
+    }, 
+    {
+        "0HUPxDf1": "7560502", 
+        "G4L0YIB2": "ユニット紹介クエスト（リド）_最終日", 
+        "qtkvrS60": "spd_20170820_bn_list_FFBE_r_last.png"
+    }, 
+    {
+        "0HUPxDf1": "7560601", 
+        "G4L0YIB2": "ユニット紹介クエスト（ニコル）", 
+        "qtkvrS60": "spd_20170912_bn_list_FFBE_n.png"
+    }, 
+    {
+        "0HUPxDf1": "7560602", 
+        "G4L0YIB2": "ユニット紹介クエスト（ニコル）_最終日", 
+        "qtkvrS60": "spd_20170921_bn_list_FFBE_n_last.png"
+    }, 
+    {
+        "0HUPxDf1": "7560701", 
+        "G4L0YIB2": "ユニット紹介クエスト（レーゲン）", 
+        "qtkvrS60": "spd_20171010_bn_list_FFBE_r.png"
+    }, 
+    {
+        "0HUPxDf1": "7560702", 
+        "G4L0YIB2": "ユニット紹介クエスト（レーゲン）_最終日", 
+        "qtkvrS60": "spd_20171010_bn_list_FFBE_r_last.png"
+    }, 
+    {
         "0HUPxDf1": "7570101", 
         "G4L0YIB2": "超大型機械生命体破壊指令", 
         "qtkvrS60": "spd_20170421_bn_list_NieR_Automata.png"
@@ -2005,6 +2435,186 @@
         "qtkvrS60": "spd_20170714_bn_list_FF12_last.png"
     }, 
     {
+        "0HUPxDf1": "7690101", 
+        "G4L0YIB2": "大砂海ナム・エンサ・探索", 
+        "qtkvrS60": "spd_20170707_bn_list_FF12_02.png"
+    }, 
+    {
+        "0HUPxDf1": "7690102", 
+        "G4L0YIB2": "大砂海ナム・エンサ・探索_探索", 
+        "qtkvrS60": "spd_20170714_bn_list_FF12_02_last.png"
+    }, 
+    {
+        "0HUPxDf1": "7700101", 
+        "G4L0YIB2": "陰謀の戴冠式", 
+        "qtkvrS60": "spd_20170711_bn_list_ffbe.png"
+    }, 
+    {
+        "0HUPxDf1": "7700102", 
+        "G4L0YIB2": "陰謀の戴冠式_最終日", 
+        "qtkvrS60": "spd_20170720_bn_list_ffbe_last.png"
+    }, 
+    {
+        "0HUPxDf1": "7710101", 
+        "G4L0YIB2": "光と闇の世界ルクセンダルク", 
+        "qtkvrS60": "spd_20170721_bn_list_BDFE.png"
+    }, 
+    {
+        "0HUPxDf1": "7710102", 
+        "G4L0YIB2": "光と闇の世界ルクセンダルク_最終日", 
+        "qtkvrS60": "spd_20170731_bn_list_BDFE_last.png"
+    }, 
+    {
+        "0HUPxDf1": "7720101", 
+        "G4L0YIB2": "アビスホール55層", 
+        "qtkvrS60": "spd_20170724_bn_list_BDFE_02.png"
+    }, 
+    {
+        "0HUPxDf1": "7720102", 
+        "G4L0YIB2": "アビスホール55層_最終日", 
+        "qtkvrS60": "spd_20170731_bn_list_BDFE_last_02.png"
+    }, 
+    {
+        "0HUPxDf1": "7730101", 
+        "G4L0YIB2": "ファブール城防衛戦", 
+        "qtkvrS60": "spd_20170801_bn_list_FF4.png"
+    }, 
+    {
+        "0HUPxDf1": "7730102", 
+        "G4L0YIB2": "ファブール城防衛戦_最終日", 
+        "qtkvrS60": "spd_20170814_bn_list_FF4_last.png"
+    }, 
+    {
+        "0HUPxDf1": "7740101", 
+        "G4L0YIB2": "FF4強敵", 
+        "qtkvrS60": "spd_20170807_bn_list_FF4_02.png"
+    }, 
+    {
+        "0HUPxDf1": "7740102", 
+        "G4L0YIB2": "FF4強敵_最終日", 
+        "qtkvrS60": "spd_20170814_bn_list_FF4_02_last.png"
+    }, 
+    {
+        "0HUPxDf1": "7750101", 
+        "G4L0YIB2": "幻の設計書", 
+        "qtkvrS60": "spd_20170810_bn_list_ffbe.png"
+    }, 
+    {
+        "0HUPxDf1": "7750102", 
+        "G4L0YIB2": "幻の設計書_最終日", 
+        "qtkvrS60": "spd_20170820_bn_list_ffbe_last.png"
+    }, 
+    {
+        "0HUPxDf1": "7760101", 
+        "G4L0YIB2": "グローバル版一周年記念レイド", 
+        "qtkvrS60": "spd_20170821_bn_list_GLOBAL.png"
+    }, 
+    {
+        "0HUPxDf1": "7760102", 
+        "G4L0YIB2": "グローバル版一周年記念レイド_最終日", 
+        "qtkvrS60": "spd_20170831_bn_list_GLOBAL_last.png"
+    }, 
+    {
+        "0HUPxDf1": "7770101", 
+        "G4L0YIB2": "巨年獣戦", 
+        "qtkvrS60": "spd_20170824_bn_list_GLOBAL_02.png"
+    }, 
+    {
+        "0HUPxDf1": "7770102", 
+        "G4L0YIB2": "巨年獣戦_最終日", 
+        "qtkvrS60": "spd_20170831_bn_list_GLOBAL_last_02.png"
+    }, 
+    {
+        "0HUPxDf1": "7780101", 
+        "G4L0YIB2": "FF7wave2", 
+        "qtkvrS60": "spd_20170901_bn_list_FF7.png"
+    }, 
+    {
+        "0HUPxDf1": "7780102", 
+        "G4L0YIB2": "FF7wave2最終日", 
+        "qtkvrS60": "spd_20170914_bn_list_FF7_last.png"
+    }, 
+    {
+        "0HUPxDf1": "7790101", 
+        "G4L0YIB2": "FF7強敵2", 
+        "qtkvrS60": "spd_20170907_bn_list_FF7_02.png"
+    }, 
+    {
+        "0HUPxDf1": "7790102", 
+        "G4L0YIB2": "FF7強敵2最終日", 
+        "qtkvrS60": "spd_20170914_bn_list_FF7_02_last.png"
+    }, 
+    {
+        "0HUPxDf1": "7800101", 
+        "G4L0YIB2": "交差する運命", 
+        "qtkvrS60": "spd_20170912_bn_list_ffbe.png"
+    }, 
+    {
+        "0HUPxDf1": "7800102", 
+        "G4L0YIB2": "交差する運命_最終日", 
+        "qtkvrS60": "spd_20170921_bn_list_ffbe_last.png"
+    }, 
+    {
+        "0HUPxDf1": "7810101", 
+        "G4L0YIB2": "ジエ・リヴォースレイドコインを打倒せよ！", 
+        "qtkvrS60": "spd_20170922_bn_list_SOA.png"
+    }, 
+    {
+        "0HUPxDf1": "7810102", 
+        "G4L0YIB2": "ジエ・リヴォースレイドコインを打倒せよ！最終日", 
+        "qtkvrS60": "spd_20170930_bn_list_SOA_last.png"
+    }, 
+    {
+        "0HUPxDf1": "7820101", 
+        "G4L0YIB2": "獄級ジエ・リヴォース", 
+        "qtkvrS60": "spd_20170925_bn_list_SOA_02.png"
+    }, 
+    {
+        "0HUPxDf1": "7820102", 
+        "G4L0YIB2": "獄級ジエ・リヴォース_最終日", 
+        "qtkvrS60": "spd_20170930_bn_list_SOA_last_02.png"
+    }, 
+    {
+        "0HUPxDf1": "7830101", 
+        "G4L0YIB2": "募集！グランシェルトの騎士", 
+        "qtkvrS60": "spd_20171001_bn_list_FFBEw.png"
+    }, 
+    {
+        "0HUPxDf1": "7830102", 
+        "G4L0YIB2": "募集！グランシェルトの騎士_最終日", 
+        "qtkvrS60": "spd_20171001_bn_list_FFBEw_last.png"
+    }, 
+    {
+        "0HUPxDf1": "7840101", 
+        "G4L0YIB2": "ラティウスの森・過去", 
+        "qtkvrS60": "spd_20171007_bn_list_FFBEw_02.png"
+    }, 
+    {
+        "0HUPxDf1": "7840102", 
+        "G4L0YIB2": "ラティウスの森・過去_最終日", 
+        "qtkvrS60": "spd_20171007_bn_list_FFBEw_02_last.png"
+    }, 
+    {
+        "0HUPxDf1": "7850101", 
+        "G4L0YIB2": "グランシェルト武勲詩", 
+        "qtkvrS60": "spd_20171010_bn_list_ffbe.png"
+    }, 
+    {
+        "0HUPxDf1": "7850102", 
+        "G4L0YIB2": "グランシェルト武勲詩_最終日", 
+        "qtkvrS60": "spd_20171010_bn_list_ffbe_last.png"
+    }, 
+    {
+        "0HUPxDf1": "8973001", 
+        "G4L0YIB2": "ねむれるしし降臨HELL", 
+        "qtkvrS60": "spd_20170731_bn_list_SBF_04.png"
+    }, 
+    {
+        "0HUPxDf1": "8973002", 
+        "G4L0YIB2": "押し寄せる強者どもHELL", 
+        "qtkvrS60": "spd_20170929_bn_list_SBF_05.png"
+    }, 
+    {
         "0HUPxDf1": "8993001", 
         "G4L0YIB2": "ねむれるしし降臨", 
         "qtkvrS60": "spd_20160831_bn_list_BF01.png"
@@ -2078,6 +2688,16 @@
         "0HUPxDf1": "8993015", 
         "G4L0YIB2": "ブラキオレイドス再臨・地獄級", 
         "qtkvrS60": "spd_20170529_bn_list_SBF_03.png"
+    }, 
+    {
+        "0HUPxDf1": "8993016", 
+        "G4L0YIB2": "鉄巨人降臨", 
+        "qtkvrS60": "spd_20170630_bn_list_BF13.png"
+    }, 
+    {
+        "0HUPxDf1": "8993017", 
+        "G4L0YIB2": "大爆発祭り", 
+        "qtkvrS60": "spd_20170831_bn_list_BF_14.png"
     }, 
     {
         "0HUPxDf1": "9000000", 
@@ -2870,6 +3490,56 @@
         "qtkvrS60": "item_9115.png"
     }, 
     {
+        "0HUPxDf1": "106210200", 
+        "G4L0YIB2": "幻鉱", 
+        "qtkvrS60": "item_9157.png"
+    }, 
+    {
+        "0HUPxDf1": "106210300", 
+        "G4L0YIB2": "赤幻鉱", 
+        "qtkvrS60": "item_9158.png"
+    }, 
+    {
+        "0HUPxDf1": "106210400", 
+        "G4L0YIB2": "青幻鉱", 
+        "qtkvrS60": "item_9159.png"
+    }, 
+    {
+        "0HUPxDf1": "106210500", 
+        "G4L0YIB2": "緑幻鉱", 
+        "qtkvrS60": "item_9160.png"
+    }, 
+    {
+        "0HUPxDf1": "106210600", 
+        "G4L0YIB2": "白幻鉱", 
+        "qtkvrS60": "item_9161.png"
+    }, 
+    {
+        "0HUPxDf1": "106210700", 
+        "G4L0YIB2": "黒幻鉱", 
+        "qtkvrS60": "item_9162.png"
+    }, 
+    {
+        "0HUPxDf1": "106210800", 
+        "G4L0YIB2": "黄幻鉱", 
+        "qtkvrS60": "item_9163.png"
+    }, 
+    {
+        "0HUPxDf1": "106210900", 
+        "G4L0YIB2": "橙幻鉱", 
+        "qtkvrS60": "item_9164.png"
+    }, 
+    {
+        "0HUPxDf1": "106211000", 
+        "G4L0YIB2": "紫幻鉱", 
+        "qtkvrS60": "item_9165.png"
+    }, 
+    {
+        "0HUPxDf1": "106211100", 
+        "G4L0YIB2": "紅宝玉", 
+        "qtkvrS60": "item_9177.png"
+    }, 
+    {
         "0HUPxDf1": "106300100", 
         "G4L0YIB2": "聖石の欠片", 
         "qtkvrS60": "item_9105.png"
@@ -3050,6 +3720,36 @@
         "qtkvrS60": "item_9155.png"
     }, 
     {
+        "0HUPxDf1": "106303700", 
+        "G4L0YIB2": "カリュブディスレイドコイン", 
+        "qtkvrS60": "item_9156.png"
+    }, 
+    {
+        "0HUPxDf1": "106303800", 
+        "G4L0YIB2": "ピンクのしっぽ", 
+        "qtkvrS60": "item_9166.png"
+    }, 
+    {
+        "0HUPxDf1": "106303900", 
+        "G4L0YIB2": "年獣レイドコイン", 
+        "qtkvrS60": "item_9167.png"
+    }, 
+    {
+        "0HUPxDf1": "106304000", 
+        "G4L0YIB2": "賢女のメダル", 
+        "qtkvrS60": "item_9168.png"
+    }, 
+    {
+        "0HUPxDf1": "106304100", 
+        "G4L0YIB2": "ジエ・リヴォースレイドコイン", 
+        "qtkvrS60": "item_9179.png"
+    }, 
+    {
+        "0HUPxDf1": "106304200", 
+        "G4L0YIB2": "訓練用の木剣", 
+        "qtkvrS60": "item_9180.png"
+    }, 
+    {
         "0HUPxDf1": "107000100", 
         "G4L0YIB2": "魔石のカケラ", 
         "qtkvrS60": "item_7001.png"
@@ -3138,6 +3838,46 @@
         "0HUPxDf1": "107002600", 
         "G4L0YIB2": "紫の大魔石", 
         "qtkvrS60": "item_7018.png"
+    }, 
+    {
+        "0HUPxDf1": "107002700", 
+        "G4L0YIB2": "赤の超魔石", 
+        "qtkvrS60": "item_7027.png"
+    }, 
+    {
+        "0HUPxDf1": "107002800", 
+        "G4L0YIB2": "青の超魔石", 
+        "qtkvrS60": "item_7028.png"
+    }, 
+    {
+        "0HUPxDf1": "107002900", 
+        "G4L0YIB2": "緑の超魔石", 
+        "qtkvrS60": "item_7029.png"
+    }, 
+    {
+        "0HUPxDf1": "107003000", 
+        "G4L0YIB2": "白の超魔石", 
+        "qtkvrS60": "item_7030.png"
+    }, 
+    {
+        "0HUPxDf1": "107003100", 
+        "G4L0YIB2": "黒の超魔石", 
+        "qtkvrS60": "item_7031.png"
+    }, 
+    {
+        "0HUPxDf1": "107003200", 
+        "G4L0YIB2": "黄の超魔石", 
+        "qtkvrS60": "item_7032.png"
+    }, 
+    {
+        "0HUPxDf1": "107003300", 
+        "G4L0YIB2": "橙の超魔石", 
+        "qtkvrS60": "item_7033.png"
+    }, 
+    {
+        "0HUPxDf1": "107003400", 
+        "G4L0YIB2": "紫の超魔石", 
+        "qtkvrS60": "item_7034.png"
     }, 
     {
         "0HUPxDf1": "108000100", 
@@ -3475,6 +4215,36 @@
         "qtkvrS60": "item_9005.png"
     }, 
     {
+        "0HUPxDf1": "109301000", 
+        "G4L0YIB2": "石板の欠片・青1", 
+        "qtkvrS60": "item_9169.png"
+    }, 
+    {
+        "0HUPxDf1": "109301010", 
+        "G4L0YIB2": "石板の欠片・青2", 
+        "qtkvrS60": "item_9169.png"
+    }, 
+    {
+        "0HUPxDf1": "109301020", 
+        "G4L0YIB2": "石板の欠片・青3", 
+        "qtkvrS60": "item_9169.png"
+    }, 
+    {
+        "0HUPxDf1": "109301030", 
+        "G4L0YIB2": "石板の欠片・青4", 
+        "qtkvrS60": "item_9169.png"
+    }, 
+    {
+        "0HUPxDf1": "109301040", 
+        "G4L0YIB2": "石板の欠片・青5", 
+        "qtkvrS60": "item_9169.png"
+    }, 
+    {
+        "0HUPxDf1": "109301050", 
+        "G4L0YIB2": "石板の欠片・青6", 
+        "qtkvrS60": "item_9169.png"
+    }, 
+    {
         "0HUPxDf1": "201000100", 
         "G4L0YIB2": "火の結晶", 
         "qtkvrS60": "item_8135.png"
@@ -3743,6 +4513,11 @@
         "0HUPxDf1": "205000200", 
         "G4L0YIB2": "至純の石", 
         "qtkvrS60": "item_8158.png"
+    }, 
+    {
+        "0HUPxDf1": "205000300", 
+        "G4L0YIB2": "侵食の粉", 
+        "qtkvrS60": "item_8162.png"
     }, 
     {
         "0HUPxDf1": "206000100", 
@@ -4293,6 +5068,96 @@
         "0HUPxDf1": "218000600", 
         "G4L0YIB2": "金属のかけら", 
         "qtkvrS60": "item_8346.png"
+    }, 
+    {
+        "0HUPxDf1": "218000700", 
+        "G4L0YIB2": "ダークマターの欠片", 
+        "qtkvrS60": "item_8352.png"
+    }, 
+    {
+        "0HUPxDf1": "218000800", 
+        "G4L0YIB2": "六花晶", 
+        "qtkvrS60": "item_8351.png"
+    }, 
+    {
+        "0HUPxDf1": "218000900", 
+        "G4L0YIB2": "妖精の羽根", 
+        "qtkvrS60": "item_8350.png"
+    }, 
+    {
+        "0HUPxDf1": "218001000", 
+        "G4L0YIB2": "虫の触角", 
+        "qtkvrS60": "item_8349.png"
+    }, 
+    {
+        "0HUPxDf1": "218001100", 
+        "G4L0YIB2": "死霊の骨", 
+        "qtkvrS60": "item_8348.png"
+    }, 
+    {
+        "0HUPxDf1": "218001200", 
+        "G4L0YIB2": "魔物の繊維", 
+        "qtkvrS60": "item_8347.png"
+    }, 
+    {
+        "0HUPxDf1": "219000100", 
+        "G4L0YIB2": "魔力の卵", 
+        "qtkvrS60": "item_6007.png"
+    }, 
+    {
+        "0HUPxDf1": "219000200", 
+        "G4L0YIB2": "悪魔の心臓", 
+        "qtkvrS60": "item_8353.png"
+    }, 
+    {
+        "0HUPxDf1": "219000300", 
+        "G4L0YIB2": "紅蓮の牙", 
+        "qtkvrS60": "item_8354.png"
+    }, 
+    {
+        "0HUPxDf1": "219000400", 
+        "G4L0YIB2": "血染めの骨", 
+        "qtkvrS60": "item_8355.png"
+    }, 
+    {
+        "0HUPxDf1": "219000500", 
+        "G4L0YIB2": "鈍色の皮", 
+        "qtkvrS60": "item_8356.png"
+    }, 
+    {
+        "0HUPxDf1": "219000600", 
+        "G4L0YIB2": "腐った肉", 
+        "qtkvrS60": "item_8357.png"
+    }, 
+    {
+        "0HUPxDf1": "220000100", 
+        "G4L0YIB2": "賢者の石", 
+        "qtkvrS60": "item_8358.png"
+    }, 
+    {
+        "0HUPxDf1": "220000200", 
+        "G4L0YIB2": "ムーナイト", 
+        "qtkvrS60": "item_8359.png"
+    }, 
+    {
+        "0HUPxDf1": "220000300", 
+        "G4L0YIB2": "スミッティーハンマー", 
+        "qtkvrS60": "item_8360.png"
+    }, 
+    {
+        "0HUPxDf1": "220000400", 
+        "G4L0YIB2": "ベルベットリボン", 
+        "qtkvrS60": "item_8361.png"
+    }, 
+    {
+        "0HUPxDf1": "220000500", 
+        "G4L0YIB2": "カーボンファイバー", 
+        "qtkvrS60": "item_8362.png"
+    }, 
+    {
+        "0HUPxDf1": "220000600", 
+        "G4L0YIB2": "アイアン", 
+        "qtkvrS60": "item_8363.png"
     }, 
     {
         "0HUPxDf1": "270000100", 
@@ -4885,6 +5750,46 @@
         "qtkvrS60": "item_10121.png"
     }, 
     {
+        "0HUPxDf1": "301002500", 
+        "G4L0YIB2": "ハイウェイスター", 
+        "qtkvrS60": "item_10122.png"
+    }, 
+    {
+        "0HUPxDf1": "301002600", 
+        "G4L0YIB2": "スウィートキッス", 
+        "qtkvrS60": "item_10123.png"
+    }, 
+    {
+        "0HUPxDf1": "301002700", 
+        "G4L0YIB2": "チョコボクロウ", 
+        "qtkvrS60": "item_10124.png"
+    }, 
+    {
+        "0HUPxDf1": "301002800", 
+        "G4L0YIB2": "仕込み刀", 
+        "qtkvrS60": "item_60101.png"
+    }, 
+    {
+        "0HUPxDf1": "301002900", 
+        "G4L0YIB2": "シークレットナイフ", 
+        "qtkvrS60": "item_60102.png"
+    }, 
+    {
+        "0HUPxDf1": "301003000", 
+        "G4L0YIB2": "霹剣・タケミカヅチ", 
+        "qtkvrS60": "item_10125.png"
+    }, 
+    {
+        "0HUPxDf1": "301003100", 
+        "G4L0YIB2": "アサシンダガー", 
+        "qtkvrS60": "item_10126.png"
+    }, 
+    {
+        "0HUPxDf1": "301003200", 
+        "G4L0YIB2": "アサシンダガー・レプリカ", 
+        "qtkvrS60": "item_10127.png"
+    }, 
+    {
         "0HUPxDf1": "302000100", 
         "G4L0YIB2": "ブロードソード", 
         "qtkvrS60": "item_10200.png"
@@ -5065,6 +5970,41 @@
         "qtkvrS60": "item_10241.png"
     }, 
     {
+        "0HUPxDf1": "302004500", 
+        "G4L0YIB2": "ロックセイバー", 
+        "qtkvrS60": "item_10242.png"
+    }, 
+    {
+        "0HUPxDf1": "302004600", 
+        "G4L0YIB2": "ナイトエンペラー", 
+        "qtkvrS60": "item_10243.png"
+    }, 
+    {
+        "0HUPxDf1": "302004700", 
+        "G4L0YIB2": "ダークブリンガー", 
+        "qtkvrS60": "item_10244.png"
+    }, 
+    {
+        "0HUPxDf1": "302004800", 
+        "G4L0YIB2": "チョコボウィング", 
+        "qtkvrS60": "item_10245.png"
+    }, 
+    {
+        "0HUPxDf1": "302004900", 
+        "G4L0YIB2": "エンハンスソード・改", 
+        "qtkvrS60": "item_10246.png"
+    }, 
+    {
+        "0HUPxDf1": "302005000", 
+        "G4L0YIB2": "聖剣ファーウェル", 
+        "qtkvrS60": "item_10247.png"
+    }, 
+    {
+        "0HUPxDf1": "302005100", 
+        "G4L0YIB2": "鉄パイプ", 
+        "qtkvrS60": "item_10248.png"
+    }, 
+    {
         "0HUPxDf1": "303000100", 
         "G4L0YIB2": "グレートソード", 
         "qtkvrS60": "item_10301.png"
@@ -5210,6 +6150,16 @@
         "qtkvrS60": "item_10331.png"
     }, 
     {
+        "0HUPxDf1": "303003800", 
+        "G4L0YIB2": "ドラグヴァンデル", 
+        "qtkvrS60": "item_10332.png"
+    }, 
+    {
+        "0HUPxDf1": "303003900", 
+        "G4L0YIB2": "紅蓮剣アグニ", 
+        "qtkvrS60": "item_10333.png"
+    }, 
+    {
         "0HUPxDf1": "304000100", 
         "G4L0YIB2": "虎鉄", 
         "qtkvrS60": "item_10400.png"
@@ -5298,6 +6248,41 @@
         "0HUPxDf1": "304002200", 
         "G4L0YIB2": "氷紋刀", 
         "qtkvrS60": "item_10425.png"
+    }, 
+    {
+        "0HUPxDf1": "304002300", 
+        "G4L0YIB2": "伊勢守", 
+        "qtkvrS60": "item_10426.png"
+    }, 
+    {
+        "0HUPxDf1": "304002400", 
+        "G4L0YIB2": "佐助の刀", 
+        "qtkvrS60": "item_10427.png"
+    }, 
+    {
+        "0HUPxDf1": "304002500", 
+        "G4L0YIB2": "佐助の刀レプリカ", 
+        "qtkvrS60": "item_10428.png"
+    }, 
+    {
+        "0HUPxDf1": "304002600", 
+        "G4L0YIB2": "正宗", 
+        "qtkvrS60": "item_10429.png"
+    }, 
+    {
+        "0HUPxDf1": "304002700", 
+        "G4L0YIB2": "ライトブレード", 
+        "qtkvrS60": "item_10430.png"
+    }, 
+    {
+        "0HUPxDf1": "304002800", 
+        "G4L0YIB2": "霊剣・小烏丸", 
+        "qtkvrS60": "item_10431.png"
+    }, 
+    {
+        "0HUPxDf1": "304002900", 
+        "G4L0YIB2": "護法の陣刀", 
+        "qtkvrS60": "item_10432.png"
     }, 
     {
         "0HUPxDf1": "304020100", 
@@ -5405,6 +6390,16 @@
         "qtkvrS60": "item_10821.png"
     }, 
     {
+        "0HUPxDf1": "305002200", 
+        "G4L0YIB2": "エンジンアクス・リファイン", 
+        "qtkvrS60": "item_10822.png"
+    }, 
+    {
+        "0HUPxDf1": "305002300", 
+        "G4L0YIB2": "雷霆斧ケラウノス", 
+        "qtkvrS60": "item_10823.png"
+    }, 
+    {
         "0HUPxDf1": "306000100", 
         "G4L0YIB2": "木槌", 
         "qtkvrS60": "item_10900.png"
@@ -5458,6 +6453,26 @@
         "0HUPxDf1": "306001800", 
         "G4L0YIB2": "プラチナハンマー", 
         "qtkvrS60": "item_10906.png"
+    }, 
+    {
+        "0HUPxDf1": "306001900", 
+        "G4L0YIB2": "トールハンマー", 
+        "qtkvrS60": "item_10915.png"
+    }, 
+    {
+        "0HUPxDf1": "306002000", 
+        "G4L0YIB2": "トールハンマー・レプリカ", 
+        "qtkvrS60": "item_10916.png"
+    }, 
+    {
+        "0HUPxDf1": "306002100", 
+        "G4L0YIB2": "あいのフライパン", 
+        "qtkvrS60": "item_10917.png"
+    }, 
+    {
+        "0HUPxDf1": "306002200", 
+        "G4L0YIB2": "ロックハンマー", 
+        "qtkvrS60": "item_10918.png"
     }, 
     {
         "0HUPxDf1": "307000200", 
@@ -5518,6 +6533,11 @@
         "0HUPxDf1": "307001900", 
         "G4L0YIB2": "メイスオブゼウス・レプリカ", 
         "qtkvrS60": "item_11515.png"
+    }, 
+    {
+        "0HUPxDf1": "307002000", 
+        "G4L0YIB2": "ファングブレイカー", 
+        "qtkvrS60": "item_11516.png"
     }, 
     {
         "0HUPxDf1": "308000100", 
@@ -5670,6 +6690,16 @@
         "qtkvrS60": "item_11031.png"
     }, 
     {
+        "0HUPxDf1": "308003600", 
+        "G4L0YIB2": "ビーストピアッサー", 
+        "qtkvrS60": "item_11033.png"
+    }, 
+    {
+        "0HUPxDf1": "308003700", 
+        "G4L0YIB2": "クリムゾンブラッド", 
+        "qtkvrS60": "item_61001.png"
+    }, 
+    {
         "0HUPxDf1": "309000300", 
         "G4L0YIB2": "ミスリルクロー", 
         "qtkvrS60": "item_11602.png"
@@ -5733,6 +6763,26 @@
         "0HUPxDf1": "309002100", 
         "G4L0YIB2": "ホーリーグローブ", 
         "qtkvrS60": "item_11623.png"
+    }, 
+    {
+        "0HUPxDf1": "309002200", 
+        "G4L0YIB2": "リフレクトナックル", 
+        "qtkvrS60": "item_11624.png"
+    }, 
+    {
+        "0HUPxDf1": "309002300", 
+        "G4L0YIB2": "猛獣使いのグローブ", 
+        "qtkvrS60": "item_61601.png"
+    }, 
+    {
+        "0HUPxDf1": "309002400", 
+        "G4L0YIB2": "闇黒千刃爪", 
+        "qtkvrS60": "item_11625.png"
+    }, 
+    {
+        "0HUPxDf1": "309002500", 
+        "G4L0YIB2": "ファルンホープ", 
+        "qtkvrS60": "item_11626.png"
     }, 
     {
         "0HUPxDf1": "309020200", 
@@ -5890,6 +6940,21 @@
         "qtkvrS60": "item_10625.png"
     }, 
     {
+        "0HUPxDf1": "310003200", 
+        "G4L0YIB2": "チョコボフェザー", 
+        "qtkvrS60": "item_10626.png"
+    }, 
+    {
+        "0HUPxDf1": "310003300", 
+        "G4L0YIB2": "烈風のロッド", 
+        "qtkvrS60": "item_10627.png"
+    }, 
+    {
+        "0HUPxDf1": "310003400", 
+        "G4L0YIB2": "ウィザードロッド・改", 
+        "qtkvrS60": "item_10628.png"
+    }, 
+    {
         "0HUPxDf1": "311000200", 
         "G4L0YIB2": "サクラの杖", 
         "qtkvrS60": "item_10501.png"
@@ -6005,6 +7070,26 @@
         "qtkvrS60": "item_10523.png"
     }, 
     {
+        "0HUPxDf1": "311003100", 
+        "G4L0YIB2": "世界樹の杖", 
+        "qtkvrS60": "item_10526.png"
+    }, 
+    {
+        "0HUPxDf1": "311003200", 
+        "G4L0YIB2": "チョコボメモリア", 
+        "qtkvrS60": "item_10527.png"
+    }, 
+    {
+        "0HUPxDf1": "311003300", 
+        "G4L0YIB2": "憤怒の杖", 
+        "qtkvrS60": "item_60501.png"
+    }, 
+    {
+        "0HUPxDf1": "311003400", 
+        "G4L0YIB2": "ボーンスタッフ", 
+        "qtkvrS60": "item_10528.png"
+    }, 
+    {
         "0HUPxDf1": "312000100", 
         "G4L0YIB2": "ショートボウ", 
         "qtkvrS60": "item_10700.png"
@@ -6078,6 +7163,16 @@
         "0HUPxDf1": "312001900", 
         "G4L0YIB2": "キラーボウ・改", 
         "qtkvrS60": "item_10718.png"
+    }, 
+    {
+        "0HUPxDf1": "312002000", 
+        "G4L0YIB2": "チョコボメナス", 
+        "qtkvrS60": "item_10719.png"
+    }, 
+    {
+        "0HUPxDf1": "312002100", 
+        "G4L0YIB2": "剛弓“烈風新月”", 
+        "qtkvrS60": "item_10720.png"
     }, 
     {
         "0HUPxDf1": "313000400", 
@@ -6180,6 +7275,31 @@
         "qtkvrS60": "item_11423.png"
     }, 
     {
+        "0HUPxDf1": "313003200", 
+        "G4L0YIB2": "エネミーランチャ", 
+        "qtkvrS60": "item_11424.png"
+    }, 
+    {
+        "0HUPxDf1": "313003300", 
+        "G4L0YIB2": "ブラストガン", 
+        "qtkvrS60": "item_11425.png"
+    }, 
+    {
+        "0HUPxDf1": "313003400", 
+        "G4L0YIB2": "スカーレットローゼス", 
+        "qtkvrS60": "item_11426.png"
+    }, 
+    {
+        "0HUPxDf1": "313003500", 
+        "G4L0YIB2": "ザイルキャノン", 
+        "qtkvrS60": "item_11428.png"
+    }, 
+    {
+        "0HUPxDf1": "313003600", 
+        "G4L0YIB2": "ブロンテース", 
+        "qtkvrS60": "item_11427.png"
+    }, 
+    {
         "0HUPxDf1": "314000200", 
         "G4L0YIB2": "レザーウィップ", 
         "qtkvrS60": "item_11200.png"
@@ -6223,6 +7343,16 @@
         "0HUPxDf1": "314001200", 
         "G4L0YIB2": "隠伏の鎖鎌", 
         "qtkvrS60": "item_11213.png"
+    }, 
+    {
+        "0HUPxDf1": "314001300", 
+        "G4L0YIB2": "猛獣使いの鞭", 
+        "qtkvrS60": "item_61201.png"
+    }, 
+    {
+        "0HUPxDf1": "314001400", 
+        "G4L0YIB2": "スレイプニルテイル", 
+        "qtkvrS60": "item_11210.png"
     }, 
     {
         "0HUPxDf1": "315000100", 
@@ -6290,6 +7420,11 @@
         "qtkvrS60": "item_11305.png"
     }, 
     {
+        "0HUPxDf1": "315021800", 
+        "G4L0YIB2": "ツインヴァイパー", 
+        "qtkvrS60": "item_11319.png"
+    }, 
+    {
         "0HUPxDf1": "316000100", 
         "G4L0YIB2": "ハープ", 
         "qtkvrS60": "item_11100.png"
@@ -6333,6 +7468,21 @@
         "0HUPxDf1": "316001100", 
         "G4L0YIB2": "天使のふえ", 
         "qtkvrS60": "item_11108.png"
+    }, 
+    {
+        "0HUPxDf1": "316001200", 
+        "G4L0YIB2": "砂塵の角笛", 
+        "qtkvrS60": "item_11112.png"
+    }, 
+    {
+        "0HUPxDf1": "316001300", 
+        "G4L0YIB2": "大地のオカリナ", 
+        "qtkvrS60": "item_11113.png"
+    }, 
+    {
+        "0HUPxDf1": "316001400", 
+        "G4L0YIB2": "天女の竪琴", 
+        "qtkvrS60": "item_11114.png"
     }, 
     {
         "0HUPxDf1": "316040300", 
@@ -6408,6 +7558,11 @@
         "0HUPxDf1": "401002000", 
         "G4L0YIB2": "剣闘志の戦盾", 
         "qtkvrS60": "item_50284.png"
+    }, 
+    {
+        "0HUPxDf1": "401002100", 
+        "G4L0YIB2": "ウィンドバックラー", 
+        "qtkvrS60": "item_40119.png"
     }, 
     {
         "0HUPxDf1": "402000200", 
@@ -6508,6 +7663,21 @@
         "0HUPxDf1": "402002300", 
         "G4L0YIB2": "最強の盾", 
         "qtkvrS60": "item_40222.png"
+    }, 
+    {
+        "0HUPxDf1": "402002400", 
+        "G4L0YIB2": "大元帥の盾", 
+        "qtkvrS60": "item_40223.png"
+    }, 
+    {
+        "0HUPxDf1": "402002500", 
+        "G4L0YIB2": "アクアシールド", 
+        "qtkvrS60": "item_40224.png"
+    }, 
+    {
+        "0HUPxDf1": "402002600", 
+        "G4L0YIB2": "グランシェルト軍盾", 
+        "qtkvrS60": "item_40225.png"
     }, 
     {
         "0HUPxDf1": "403000100", 
@@ -6720,6 +7890,51 @@
         "qtkvrS60": "item_50288.png"
     }, 
     {
+        "0HUPxDf1": "403043900", 
+        "G4L0YIB2": "誓約の冠", 
+        "qtkvrS60": "item_30143.png"
+    }, 
+    {
+        "0HUPxDf1": "403044000", 
+        "G4L0YIB2": "おすわりモーグリ", 
+        "qtkvrS60": "item_30142.png"
+    }, 
+    {
+        "0HUPxDf1": "403044100", 
+        "G4L0YIB2": "ブラボーバニーカチューシャ", 
+        "qtkvrS60": "item_50294.png"
+    }, 
+    {
+        "0HUPxDf1": "403044200", 
+        "G4L0YIB2": "黒のバンダナ", 
+        "qtkvrS60": "item_63102.png"
+    }, 
+    {
+        "0HUPxDf1": "403044300", 
+        "G4L0YIB2": "正義の冠", 
+        "qtkvrS60": "item_63103.png"
+    }, 
+    {
+        "0HUPxDf1": "403044400", 
+        "G4L0YIB2": "コチューキャップ", 
+        "qtkvrS60": "item_30144.png"
+    }, 
+    {
+        "0HUPxDf1": "403044500", 
+        "G4L0YIB2": "ロイヤルクラウン", 
+        "qtkvrS60": "item_30146.png"
+    }, 
+    {
+        "0HUPxDf1": "403044600", 
+        "G4L0YIB2": "ロイヤルクラウン・レプリカ", 
+        "qtkvrS60": "item_30147.png"
+    }, 
+    {
+        "0HUPxDf1": "403044700", 
+        "G4L0YIB2": "砲撃士のビコルヌ", 
+        "qtkvrS60": "item_30145.png"
+    }, 
+    {
         "0HUPxDf1": "404000200", 
         "G4L0YIB2": "ブロンズヘルム", 
         "qtkvrS60": "item_30200.png"
@@ -6833,6 +8048,16 @@
         "0HUPxDf1": "404002600", 
         "G4L0YIB2": "（仮称）アラネアの兜", 
         "qtkvrS60": "item_30226.png"
+    }, 
+    {
+        "0HUPxDf1": "404002700", 
+        "G4L0YIB2": "異次元の竜冠", 
+        "qtkvrS60": "item_30227.png"
+    }, 
+    {
+        "0HUPxDf1": "404002800", 
+        "G4L0YIB2": "ドラグーンヘルム", 
+        "qtkvrS60": "item_30228.png"
     }, 
     {
         "0HUPxDf1": "405000200", 
@@ -7040,6 +8265,16 @@
         "qtkvrS60": "item_20141.png"
     }, 
     {
+        "0HUPxDf1": "405004600", 
+        "G4L0YIB2": "ヴィシュヌベスト", 
+        "qtkvrS60": "item_20142.png"
+    }, 
+    {
+        "0HUPxDf1": "405004700", 
+        "G4L0YIB2": "現地ガイドの服", 
+        "qtkvrS60": "item_20143.png"
+    }, 
+    {
         "0HUPxDf1": "406000100", 
         "G4L0YIB2": "レザープレート", 
         "qtkvrS60": "item_20200.png"
@@ -7180,6 +8415,21 @@
         "qtkvrS60": "item_20227.png"
     }, 
     {
+        "0HUPxDf1": "406003100", 
+        "G4L0YIB2": "セフィロスのコート", 
+        "qtkvrS60": "item_20228.png"
+    }, 
+    {
+        "0HUPxDf1": "406003200", 
+        "G4L0YIB2": "アレーナロリカ", 
+        "qtkvrS60": "item_20229.png"
+    }, 
+    {
+        "0HUPxDf1": "406003300", 
+        "G4L0YIB2": "ライオットギア", 
+        "qtkvrS60": "item_20230.png"
+    }, 
+    {
         "0HUPxDf1": "407000200", 
         "G4L0YIB2": "ブロンズアーマー", 
         "qtkvrS60": "item_20300.png"
@@ -7278,6 +8528,31 @@
         "0HUPxDf1": "407002500", 
         "G4L0YIB2": "シャドウメイル", 
         "qtkvrS60": "item_20322.png"
+    }, 
+    {
+        "0HUPxDf1": "407002600", 
+        "G4L0YIB2": "アイアンコロッサス", 
+        "qtkvrS60": "item_20324.png"
+    }, 
+    {
+        "0HUPxDf1": "407002700", 
+        "G4L0YIB2": "シールドアーマー", 
+        "qtkvrS60": "item_20323.png"
+    }, 
+    {
+        "0HUPxDf1": "407002800", 
+        "G4L0YIB2": "オゼッタの鎧", 
+        "qtkvrS60": "item_20326.png"
+    }, 
+    {
+        "0HUPxDf1": "407002900", 
+        "G4L0YIB2": "異次元の竜装", 
+        "qtkvrS60": "item_20325.png"
+    }, 
+    {
+        "0HUPxDf1": "407003000", 
+        "G4L0YIB2": "デュールアーマー", 
+        "qtkvrS60": "item_20327.png"
     }, 
     {
         "0HUPxDf1": "408000100", 
@@ -7408,6 +8683,36 @@
         "0HUPxDf1": "408002700", 
         "G4L0YIB2": "老師のローブ", 
         "qtkvrS60": "item_20429.png"
+    }, 
+    {
+        "0HUPxDf1": "408002800", 
+        "G4L0YIB2": "天道のローブ", 
+        "qtkvrS60": "item_20430.png"
+    }, 
+    {
+        "0HUPxDf1": "408002900", 
+        "G4L0YIB2": "巫女の祈祷衣", 
+        "qtkvrS60": "item_20431.png"
+    }, 
+    {
+        "0HUPxDf1": "408003000", 
+        "G4L0YIB2": "マグノリアの服", 
+        "qtkvrS60": "item_20432.png"
+    }, 
+    {
+        "0HUPxDf1": "408003100", 
+        "G4L0YIB2": "血気のローブ", 
+        "qtkvrS60": "item_62401.png"
+    }, 
+    {
+        "0HUPxDf1": "408003200", 
+        "G4L0YIB2": "ストラテジックケープ", 
+        "qtkvrS60": "item_20433.png"
+    }, 
+    {
+        "0HUPxDf1": "408003300", 
+        "G4L0YIB2": "キュアローブ", 
+        "qtkvrS60": "item_20434.png"
     }, 
     {
         "0HUPxDf1": "409000100", 
@@ -8165,6 +9470,116 @@
         "qtkvrS60": "item_50291.png"
     }, 
     {
+        "0HUPxDf1": "409017000", 
+        "G4L0YIB2": "戦神のアシュリング", 
+        "qtkvrS60": "item_50292.png"
+    }, 
+    {
+        "0HUPxDf1": "409017100", 
+        "G4L0YIB2": "明光の腕輪", 
+        "qtkvrS60": "item_50293.png"
+    }, 
+    {
+        "0HUPxDf1": "409017200", 
+        "G4L0YIB2": "ABS発生リング", 
+        "qtkvrS60": "item_50297.png"
+    }, 
+    {
+        "0HUPxDf1": "409017300", 
+        "G4L0YIB2": "パイオニアグローブ", 
+        "qtkvrS60": "item_50298.png"
+    }, 
+    {
+        "0HUPxDf1": "409017500", 
+        "G4L0YIB2": "マグノリアの花", 
+        "qtkvrS60": "item_50295.png"
+    }, 
+    {
+        "0HUPxDf1": "409017600", 
+        "G4L0YIB2": "師匠の戦術書　", 
+        "qtkvrS60": "item_50296.png"
+    }, 
+    {
+        "0HUPxDf1": "409017700", 
+        "G4L0YIB2": "ボムのゆびわ　", 
+        "qtkvrS60": "item_50299.png"
+    }, 
+    {
+        "0HUPxDf1": "409017800", 
+        "G4L0YIB2": "アクアマリンの指輪　", 
+        "qtkvrS60": "item_50300.png"
+    }, 
+    {
+        "0HUPxDf1": "409017900", 
+        "G4L0YIB2": "インヴィグレイター", 
+        "qtkvrS60": "item_50301.png"
+    }, 
+    {
+        "0HUPxDf1": "409018000", 
+        "G4L0YIB2": "キリアンのスカーフ", 
+        "qtkvrS60": "item_50302.png"
+    }, 
+    {
+        "0HUPxDf1": "409018100", 
+        "G4L0YIB2": "つぎはぎのクマ", 
+        "qtkvrS60": "item_65002.png"
+    }, 
+    {
+        "0HUPxDf1": "409018200", 
+        "G4L0YIB2": "氷の首飾り", 
+        "qtkvrS60": "item_65003.png"
+    }, 
+    {
+        "0HUPxDf1": "409018300", 
+        "G4L0YIB2": "妖精のシュシュ", 
+        "qtkvrS60": "item_50303.png"
+    }, 
+    {
+        "0HUPxDf1": "409018400", 
+        "G4L0YIB2": "タフネスリング", 
+        "qtkvrS60": "item_50304.png"
+    }, 
+    {
+        "0HUPxDf1": "409018500", 
+        "G4L0YIB2": "ボムエンゲージリング", 
+        "qtkvrS60": "item_50307.png"
+    }, 
+    {
+        "0HUPxDf1": "409018600", 
+        "G4L0YIB2": "ラインストーンリング", 
+        "qtkvrS60": "item_50306.png"
+    }, 
+    {
+        "0HUPxDf1": "409018700", 
+        "G4L0YIB2": "ジュエルベルト", 
+        "qtkvrS60": "item_50305.png"
+    }, 
+    {
+        "0HUPxDf1": "409018800", 
+        "G4L0YIB2": "メラルドのベルト", 
+        "qtkvrS60": "item_50310.png"
+    }, 
+    {
+        "0HUPxDf1": "409018900", 
+        "G4L0YIB2": "ミリーのおまもり", 
+        "qtkvrS60": "item_50308.png"
+    }, 
+    {
+        "0HUPxDf1": "409019000", 
+        "G4L0YIB2": "トライエンブレム", 
+        "qtkvrS60": "item_50309.png"
+    }, 
+    {
+        "0HUPxDf1": "409019100", 
+        "G4L0YIB2": "スフェーンの指輪", 
+        "qtkvrS60": "item_50311.png"
+    }, 
+    {
+        "0HUPxDf1": "409019200", 
+        "G4L0YIB2": "ソフィアの救急箱", 
+        "qtkvrS60": "item_50312.png"
+    }, 
+    {
         "0HUPxDf1": "504212570", 
         "G4L0YIB2": "Symphonic Flair", 
         "qtkvrS60": "global_materia_1500000006.png"
@@ -8233,6 +9648,36 @@
         "0HUPxDf1": "600000180", 
         "G4L0YIB2": "★5以上確定EX召喚チケット", 
         "qtkvrS60": "item_9133.png"
+    }, 
+    {
+        "0HUPxDf1": "600000210", 
+        "G4L0YIB2": "★4確率30%召喚チケット", 
+        "qtkvrS60": "item_9149.png"
+    }, 
+    {
+        "0HUPxDf1": "600000220", 
+        "G4L0YIB2": "★4確率50%召喚チケット", 
+        "qtkvrS60": "item_9150.png"
+    }, 
+    {
+        "0HUPxDf1": "600000230", 
+        "G4L0YIB2": "★5確率10%召喚チケット", 
+        "qtkvrS60": "item_9151.png"
+    }, 
+    {
+        "0HUPxDf1": "600000240", 
+        "G4L0YIB2": "★5確率30%召喚チケット", 
+        "qtkvrS60": "item_9152.png"
+    }, 
+    {
+        "0HUPxDf1": "600000250", 
+        "G4L0YIB2": "★5確率50%召喚チケット", 
+        "qtkvrS60": "item_9153.png"
+    }, 
+    {
+        "0HUPxDf1": "600000260", 
+        "G4L0YIB2": "★5セレクト召喚チケット", 
+        "qtkvrS60": "item_9181.png"
     }, 
     {
         "0HUPxDf1": "600000890", 
@@ -8765,6 +10210,11 @@
         "qtkvrS60": "beast_thum12.png"
     }, 
     {
+        "0HUPxDf1": "800000002", 
+        "G4L0YIB2": "セイレーン3", 
+        "qtkvrS60": "beast_thum13.png"
+    }, 
+    {
         "0HUPxDf1": "800000100", 
         "G4L0YIB2": "イフリート1", 
         "qtkvrS60": "beast_thum21.png"
@@ -8773,6 +10223,11 @@
         "0HUPxDf1": "800000101", 
         "G4L0YIB2": "イフリート2", 
         "qtkvrS60": "beast_thum22.png"
+    }, 
+    {
+        "0HUPxDf1": "800000102", 
+        "G4L0YIB2": "イフリート3", 
+        "qtkvrS60": "beast_thum23.png"
     }, 
     {
         "0HUPxDf1": "800000200", 
@@ -8785,6 +10240,11 @@
         "qtkvrS60": "beast_thum32.png"
     }, 
     {
+        "0HUPxDf1": "800000202", 
+        "G4L0YIB2": "シヴァ3", 
+        "qtkvrS60": "beast_thum33.png"
+    }, 
+    {
         "0HUPxDf1": "800000300", 
         "G4L0YIB2": "ゴーレム1", 
         "qtkvrS60": "beast_thum61.png"
@@ -8795,6 +10255,11 @@
         "qtkvrS60": "beast_thum62.png"
     }, 
     {
+        "0HUPxDf1": "800000302", 
+        "G4L0YIB2": "ゴーレム3", 
+        "qtkvrS60": "beast_thum63.png"
+    }, 
+    {
         "0HUPxDf1": "800000400", 
         "G4L0YIB2": "ラムウ1", 
         "qtkvrS60": "beast_thum41.png"
@@ -8803,6 +10268,11 @@
         "0HUPxDf1": "800000401", 
         "G4L0YIB2": "ラムウ2", 
         "qtkvrS60": "beast_thum42.png"
+    }, 
+    {
+        "0HUPxDf1": "800000402", 
+        "G4L0YIB2": "ラムウ3", 
+        "qtkvrS60": "beast_thum43.png"
     }, 
     {
         "0HUPxDf1": "800000500", 
@@ -8825,6 +10295,11 @@
         "qtkvrS60": "beast_thum72.png"
     }, 
     {
+        "0HUPxDf1": "800000602", 
+        "G4L0YIB2": "カーバンクル3", 
+        "qtkvrS60": "beast_thum73.png"
+    }, 
+    {
         "0HUPxDf1": "800000700", 
         "G4L0YIB2": "オーディン1", 
         "qtkvrS60": "beast_thum101.png"
@@ -8845,6 +10320,11 @@
         "qtkvrS60": "beast_thum82.png"
     }, 
     {
+        "0HUPxDf1": "800000802", 
+        "G4L0YIB2": "タイタン3", 
+        "qtkvrS60": "beast_thum83.png"
+    }, 
+    {
         "0HUPxDf1": "800000900", 
         "G4L0YIB2": "ラクシュミ1", 
         "qtkvrS60": "beast_thum111.png"
@@ -8853,6 +10333,11 @@
         "0HUPxDf1": "800000901", 
         "G4L0YIB2": "ラクシュミ2", 
         "qtkvrS60": "beast_thum112.png"
+    }, 
+    {
+        "0HUPxDf1": "800000902", 
+        "G4L0YIB2": "ラクシュミ3", 
+        "qtkvrS60": "beast_thum113.png"
     }, 
     {
         "0HUPxDf1": "800001000", 
@@ -8873,6 +10358,16 @@
         "0HUPxDf1": "800001101", 
         "G4L0YIB2": "リヴァイアサン2", 
         "qtkvrS60": "beast_thum172.png"
+    }, 
+    {
+        "0HUPxDf1": "800001400", 
+        "G4L0YIB2": "フェニックス1", 
+        "qtkvrS60": "beast_thum141.png"
+    }, 
+    {
+        "0HUPxDf1": "800001401", 
+        "G4L0YIB2": "フェニックス2", 
+        "qtkvrS60": "beast_thum142.png"
     }, 
     {
         "0HUPxDf1": "800001500", 

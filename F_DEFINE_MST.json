@@ -710,6 +710,11 @@
         "YjIUDJ97": "0,0,0"
     }, 
     {
+        "AK8Nn7ta": "CESA_GUIDELINE", 
+        "G4L0YIB2": "CESA未成年者保護ガイドライン", 
+        "YjIUDJ97": "お客様が未成年の場合、あらかじめ保護者の同意を得てから、このアプリをご利用下さい。<br>また、このアプリは<color=255:255:0>基本無料で遊べますが</color>、一部有料アイテムがございます。<br>お客様が未成年の場合、有料アイテムを購入する際は、都度保護者に許可をもらうか一緒に購入するようにして下さい。"
+    }, 
+    {
         "AK8Nn7ta": "CHALLENGE_CLEAR_SWITCH", 
         "G4L0YIB2": "チャレンジ制御", 
         "YjIUDJ97": "10000163"
@@ -823,6 +828,26 @@
         "AK8Nn7ta": "EXPEDITION_UNLOCK_LVL", 
         "G4L0YIB2": "EXPEDITION_UNLOCK_LVL", 
         "YjIUDJ97": "10"
+    }, 
+    {
+        "AK8Nn7ta": "EXPLORE_INIT_VALUE_INFO", 
+        "G4L0YIB2": "EXPLOR 初期値情報", 
+        "YjIUDJ97": "100,10,-8,6"
+    }, 
+    {
+        "AK8Nn7ta": "EXPLORE_LOCAL_NOTIFICATION_DELAY_SEC", 
+        "G4L0YIB2": "EXPLOR 通知", 
+        "YjIUDJ97": "30"
+    }, 
+    {
+        "AK8Nn7ta": "EXPLORE_TRUST_BONUS_MAG", 
+        "G4L0YIB2": "EXPLOR MAGFINICATION", 
+        "YjIUDJ97": "1.0,1.0,1.5,1.5,1.5,2.0"
+    }, 
+    {
+        "AK8Nn7ta": "EXPLORE_TRUST_BONUS_MESSAGE", 
+        "G4L0YIB2": "EXPLOR TEXT", 
+        "YjIUDJ97": "探検開始時の継続ログイン日数で獲得トラスト値に<color=255:255:0>ボーナス</color>が付きます。トラスト値の獲得率、獲得値は<color=255:255:0>探検時間</color>と<color=255:255:0>ユニットの基礎レアリティ</color>により変化し、基礎レアリティが低いユニットの方がトラスト値が上がりやすくなります。※覚醒後のレアリティは影響されません。"
     }, 
     {
         "AK8Nn7ta": "FRIENDLV_POPUP_TXT", 
@@ -1220,6 +1245,16 @@
         "YjIUDJ97": "com.square_enix.ffbe_achievement041"
     }, 
     {
+        "AK8Nn7ta": "IS_DISP_EXPLORE_TRUST_BONUS_ICON", 
+        "G4L0YIB2": "EXPLOR_BONUS表示制御", 
+        "YjIUDJ97": "1"
+    }, 
+    {
+        "AK8Nn7ta": "IS_DISP_HOME_EXPLORE_ICON", 
+        "G4L0YIB2": "EXPLOR表示制御", 
+        "YjIUDJ97": "1"
+    }, 
+    {
         "AK8Nn7ta": "IS_HELL_DISP_FLG", 
         "G4L0YIB2": "KM_ID", 
         "YjIUDJ97": "899"
@@ -1233,6 +1268,11 @@
         "AK8Nn7ta": "ITEM_SELL_BULK_CNT", 
         "G4L0YIB2": "アイテム売却一括件数", 
         "YjIUDJ97": "50"
+    }, 
+    {
+        "AK8Nn7ta": "LOGINBONUS_TOTAL_MESSAGE", 
+        "G4L0YIB2": "確認テキスト", 
+        "YjIUDJ97": "現在の通算ログイン日数とボーナス獲得状況クポ！ログインするほど、いっぱいプレゼントがもらえるクポ～！"
     }, 
     {
         "AK8Nn7ta": "MACRO_TOOL_LIST", 

@@ -11,27 +11,27 @@ MST_JOB_NAME_10^Thief^竊賊^시프^Voleur^Dieb^Ladrón
 MST_JOB_NAME_11^Bandit^盜賊^도적^Brigand^Bandit^Bandido
 MST_JOB_NAME_12^Samurai^武士^사무라이^Samouraï^Samurai^Samurái
 MST_JOB_NAME_13^Assassin^暗殺者^어쌔신^Assassin^Assassine^Asesino
-MST_JOB_NAME_14^Black Mage^黑魔道士^흑마도사^Mage noir^Schwarzm.^Mago negro
-MST_JOB_NAME_15^Black Mage^黑魔道士^흑마도사^Mage noir^Schwarzm.^Mago negro
+MST_JOB_NAME_14^Black Mage^黑魔道士^흑마도사^Mage noir^Schwarzmagier^Mago negro
+MST_JOB_NAME_15^Black Mage^黑魔道士^흑마도사^Mage noir^Schwarzmagier^Mago negro
 MST_JOB_NAME_16^Blue Mage^青魔道士^청마도사^Mage bleu^Blaumagier^Mago azul
 MST_JOB_NAME_17^Archmagus^大魔導師^대마도사^Archimagicien^Erzmagier^Archibrujo
 MST_JOB_NAME_18^Evoker^召喚士^소환사^Invokeur^Beschwörer^Evocador
 MST_JOB_NAME_19^Mage^魔道士^마도사^Mage^Magier^Mago
 MST_JOB_NAME_20^Dark Mage^暗黑魔道士^암흑마도사^Mage obscur^Dunkelmagier^Mago oscuro
-MST_JOB_NAME_21^Archmage^大魔導士^대마도사^Archimage^Erzm.^Brujo
+MST_JOB_NAME_21^Archmage^大魔導士^대마도사^Archimage^Erzmagier^Brujo
 MST_JOB_NAME_22^White Mage^白魔道士^백마도사^Mage blanc^Weißmagier^Mago blanco
 MST_JOB_NAME_23^White Mage^白魔道士^백마도사^Mage blanc^Weißmagier^Mago blanco
-MST_JOB_NAME_24^Green Mage^綠魔道士^녹마도사^Mage vert^Grünm.^Mago verde
-MST_JOB_NAME_25^High Priest^大僧正^대승정^Grand prêtre^Hohepr.^Sumo sacerdote
+MST_JOB_NAME_24^Green Mage^綠魔道士^녹마도사^Mage vert^Grünmagier^Mago verde
+MST_JOB_NAME_25^High Priest^大僧正^대승정^Grand prêtre^Hohepriester^Sumo sacerdote
 MST_JOB_NAME_26^Mystic Knight^魔道劍士^마도검사^Chevalier mage^Zauberritter^Esgrimístico
-MST_JOB_NAME_27^Spellblade^魔法劍士^마법검사^Magilame^Kampfm.^Esgrimago
+MST_JOB_NAME_27^Spellblade^魔法劍士^마법검사^Magilame^Kampfmagier^Esgrimago
 MST_JOB_NAME_28^Warmage^魔劍士^마검사^Chevalier noir^Dunkelritter^Caballero negro
 MST_JOB_NAME_29^Magic Warrior^魔導戰士^마도전사^Guerrier mage^Magiekrieger^Armamentalista
 MST_JOB_NAME_30^Red Mage^赤魔道士^적마도사^Mage rouge^Rotmagier^Mago rojo
 MST_JOB_NAME_31^Red Mage^赤魔道士^적마도사^Mage rouge^Rotmagier^Mago rojo
 MST_JOB_NAME_32^Gunner^火槍手^총술사^Artilleur^Schütze^Pistolero
 MST_JOB_NAME_33^Sky Pirate^空賊^하늘의 도적^Pirate du ciel^Luftpirat^Pirata aéreo
-MST_JOB_NAME_34^Imperial^帝國兵^제국군^Impérial^Reichsgar.^Imperial
+MST_JOB_NAME_34^Imperial^帝國兵^제국군^Impérial^Reichsgarde^Imperial
 MST_JOB_NAME_35^Machinist^機械師^기계공^Machiniste^Ingenieur^Maquinista
 MST_JOB_NAME_36^Songstress^歌女^가희^Diva^Diva^Estrella pop
 MST_JOB_NAME_37^Bard^吟遊詩人^음유시인^Barde^Barde^Bardo
@@ -72,9 +72,9 @@ MST_JOB_NAME_68^Dark Knight^暗黑騎士^암흑기사^Chevalier noir^Dunkelritte
 MST_JOB_NAME_903^Fusion Unit^合成用兵員^합성용 유닛^Renforçateur^Einheit zur Fusion^Potenciador
 MST_JOB_NAME_69^Agito Cadet^覺醒者候補生^아기토 후보생^Aspirant Agito ^Agito-Kadet^Aspirante Agito
 MST_JOB_NAME_70^Tactician^軍師^참모^Tacticien^Stratege^Estratega
-MST_JOB_NAME_71^White Wizard^白魔道師^백마도사^Magicien blanc^Weißmagier^Erudito blanco
-MST_JOB_NAME_72^Red Wizard^赤魔道師^적마도사^Magicien rouge ^Rotmagier^Erudito rojo
-MST_JOB_NAME_73^Black Wizard^黒魔道師^흑마도사^Magicien noir^Schwarzmagier^Erudito negro
+MST_JOB_NAME_71^White Wizard^白魔道師^백마도사^Magicien blanc^Weißzauberer^Erudito blanco
+MST_JOB_NAME_72^Red Wizard^赤魔道師^적마도사^Magicien rouge ^Rotzauberer^Erudito rojo
+MST_JOB_NAME_73^Black Wizard^黒魔道師^흑마도사^Magicien noir^Schwarzzauberer^Erudito negro
 MST_JOB_NAME_74^Holy Sword Hero^聖劍勇者^성검의 용사^Héros de l'épée^H. d. hei. Schwe.^Héroe de la espada
 MST_JOB_NAME_75^Young Girl^少女^소녀^Jeune fille^Junges Mädchen^Jovencita
 MST_JOB_NAME_76^Sprite^妖精^요정^Lutin^Kobold^Elfo
@@ -148,7 +148,7 @@ MST_JOB_NAME_134^Chocobo Rider^陸行鳥騎兵^초코보 라이더^Cavalier choc
 MST_JOB_NAME_135^YoRHa Troop^寄葉部隊隊員^요르하 부대원^Unité YoRHa^YoRHa-Trupp^Unidad YoRHa
 MST_JOB_NAME_136^Machine Lifeform^機械生命體^기계생명체^Forme de vie méca.^Machinenlebensform^F. de vida mecánica
 MST_JOB_NAME_137^Priest^祭司^노사^Vieux prêtre^Priester^Sacerdote
-MST_JOB_NAME_9010^Archadian Judge^阿爾卡迪亞審判者^저지 마스터^Juge archadien^Arcadischer Richter^De
+MST_JOB_NAME_9010^Archadian Judge^阿爾卡迪亞審判者^저지 마스터^Juge archadien^Arcadischer Richter^Juez arcadio
 MST_JOB_NAME_9011^Artisan^工匠^장인^Artisan^Kunsthandwerker^Artesano
 MST_JOB_NAME_9012^Ex-YoRHa Android^原寄葉人造人^요르하 안드로이드^Androïde Ex-YoRHa ^Ex-YoRHa-Androide^Androide ex-YoRHa
 MST_JOB_NAME_9013^Elemental Archfiend^元素四天王^골베자 사천왕^Seigneur élémentaire^Elementarfürst^Archidiablo elemental

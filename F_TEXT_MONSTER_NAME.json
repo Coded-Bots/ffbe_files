@@ -895,7 +895,7 @@ MST_MONSTER_NAME_209011920^Scorpion^毒蝎^전갈^Scorpion^Skorpion^Escorpión
 MST_MONSTER_NAME_103031920^Sahagin^魚人^사하긴^Sahuagin^Sahagin^Sahuagin
 MST_MONSTER_NAME_105002920^Goblin Guard^妖精守衛^고블린 경비병^Garde Gobelin^Goblin-Wächter^Duende guardia
 MST_MONSTER_NAME_307001001^Brachiosaur^腕龍^브라키오레이더스^Brachiosaure^Vlakorados^Braquiosaurio
-MST_MONSTER_NAME_211011001^Metal Gigantuar Lv. 99^金屬巨型仙人掌Lv99^메탈 사보텐더 Lv99^Méga Pampinator niv. 99^Metallkaktorius St. 99^Don Cactilión nvl 99
+MST_MONSTER_NAME_211011001^Metal Gigantuar Lv. 99^金屬巨型仙人掌Lv99^메탈 사보텐더 Lv99^Méga Pampinator niv. 99^Metallkaktorius St. 99^Cactilión de metal nvl 99
 MST_MONSTER_NAME_104021006^Bomb Lv. 99^炸彈Lv99^봄 Lv99^Bombo niv. 99^Bomber St. 99^Bom nvl 99
 MST_MONSTER_NAME_104022006^Balloon Lv. 99^氣球怪Lv99^벌룬 Lv99^Bustule niv. 99^Granater St. 99^Bom verde nvl 99
 MST_MONSTER_NAME_106002007^Searcher Lv. 99^偵察眼Lv99^정찰 Lv99^Tête chercheuse niv. 99^Sucher St. 99^Rastreador nvl 99
@@ -903,7 +903,7 @@ MST_MONSTER_NAME_306001001^Io Lv. 99^伊俄Lv99^이오 Lv99^Io niv. 99^Iyo St. 9
 MST_MONSTER_NAME_303011003^Architeuth Lv. 99^漩渦海怪Lv99^소용돌이 오징어 Lv99^Kraken niv. 99^Architeuth St. 99^Architeuthis nvl 99
 MST_MONSTER_NAME_404002000^Greater Demon Lv. 99^大惡魔Lv99^그레이트 데몬 Lv99^Mégadémon niv. 99^Erzdämon St. 99^Gran demonio nvl 99
 MST_MONSTER_NAME_104028000^Golden Bomb^黃金炸彈^골든 봄^Bombo doré^Goldbomber^Bom dorado
-MST_MONSTER_NAME_211011002^Metal Gigantuar^金屬巨型仙人掌^메탈 사보텐더^Méga Pampinator^Metallkaktorius^Don Cactilión
+MST_MONSTER_NAME_211011002^Metal Gigantuar^金屬巨型仙人掌^메탈 사보텐더^Méga Pampinator^Metallkaktorius^Cactilión de metal
 MST_MONSTER_NAME_103061001^King Gil Snapper^金幣龜王^대왕 길거북^Roi Gilkhélone^Königsgilkröte^Rey Guilonio
 MST_MONSTER_NAME_103022002^Anet^引導魚^아네트^Anet^Anet^Anet
 MST_MONSTER_NAME_203012007^Adamantoise^堅鋼玳瑁龜^금강거북^Adamankhélone^Adaman Taimai^Adamantaimai
@@ -1224,9 +1224,9 @@ MST_MONSTER_NAME_406021000^Myrmidon^鬥士機甲兵^기갑병 크리거^Myrmidon
 MST_MONSTER_NAME_406021001^Myrmidon^鬥士機甲兵^기갑병 크리거^Myrmidon^Orion-Drohne^Mirmidón
 MST_MONSTER_NAME_406031000^Manasvin Warmech^重攻擊騎摩那斯^중공격 기병 마나스빈^Mécaguerrier Manasvin^Manasvin Mechatron^Manasvin
 MST_MONSTER_NAME_406031001^Manasvin Warmech^重攻擊騎摩那斯^중공격 기병 마나스빈^Mécaguerrier Manasvin^Manasvin Mechatron^Manasvin
-MST_MONSTER_NAME_211011003^Metal Gigantuar^金屬巨型仙人掌^메탈 사보텐더^Méga Pampinator^Metallkaktorius^Don Cactilión
-MST_MONSTER_NAME_211011004^Metal Gigantuar^金屬巨型仙人掌^메탈 사보텐더^Méga Pampinator^Metallkaktorius^Don Cactilión
-MST_MONSTER_NAME_211011005^Metal Gigantuar^金屬巨型仙人掌^메탈 사보텐더^Méga Pampinator^Metallkaktorius^Don Cactilión
+MST_MONSTER_NAME_211011003^Metal Gigantuar^金屬巨型仙人掌^메탈 사보텐더^Méga Pampinator^Metallkaktorius^Cactilión de metal
+MST_MONSTER_NAME_211011004^Metal Gigantuar^金屬巨型仙人掌^메탈 사보텐더^Méga Pampinator^Metallkaktorius^Cactilión de metal
+MST_MONSTER_NAME_211011005^Metal Gigantuar^金屬巨型仙人掌^메탈 사보텐더^Méga Pampinator^Metallkaktorius^Cactilión de metal
 MST_MONSTER_NAME_102002003^Poison Bat^毒蝙蝠^맹독 박쥐^Noctule-poison^Giftfledermaus^Toxílago
 MST_MONSTER_NAME_102012004^Golden Eagle^黃金鷹^황금수리^Aigle d'or^Goldadler^Águila dorada
 MST_MONSTER_NAME_112022010^Ghoul^屍鬼^구울^Goule^Ghul^Ghoul
@@ -5572,12 +5572,12 @@ MST_MONSTER_NAME_104091002^Thunder Bomb Junior^雷炸彈小鬼^선더 봄 주니
 MST_MONSTER_NAME_104101000^Water Bomb Junior^水炸彈小鬼^워터 봄 주니어^Bombo Jr. aquatique^Wasserbomber Jr.^Bom acuático junior
 MST_MONSTER_NAME_104101001^Water Bomb Junior^水炸彈小鬼^워터 봄 주니어^Bombo Jr. aquatique^Wasserbomber Jr.^Bom acuático junior
 MST_MONSTER_NAME_104101002^Water Bomb Junior^水炸彈小鬼^워터 봄 주니어^Bombo Jr. aquatique^Wasserbomber Jr.^Bom acuático junior
-MST_MONSTER_NAME_104111000^Wind Bomb Junior^風炸彈小鬼^윈드 봄 주니어^Bombo Jr. aquatique^Windbomber Jr.^Bom eólico junior
-MST_MONSTER_NAME_104111001^Wind Bomb Junior^風炸彈小鬼^윈드 봄 주니어^Bombo Jr. aquatique^Windbomber Jr.^Bom eólico junior
-MST_MONSTER_NAME_104111002^Wind Bomb Junior^風炸彈小鬼^윈드 봄 주니어^Bombo Jr. aquatique^Windbomber Jr.^Bom eólico junior
-MST_MONSTER_NAME_104121000^Stone Bomb Junior^石炸彈小鬼^스톤 봄 주니어^Bombo Jr. aéro^Steinbomber Jr.^Bom pétreo junior
-MST_MONSTER_NAME_104121001^Stone Bomb Junior^石炸彈小鬼^스톤 봄 주니어^Bombo Jr. aéro^Steinbomber Jr.^Bom pétreo junior
-MST_MONSTER_NAME_104121002^Stone Bomb Junior^石炸彈小鬼^스톤 봄 주니어^Bombo Jr. aéro^Steinbomber Jr.^Bom pétreo junior
+MST_MONSTER_NAME_104111000^Wind Bomb Junior^風炸彈小鬼^윈드 봄 주니어^Bombo Jr. aéro^Windbomber Jr.^Bom eólico junior
+MST_MONSTER_NAME_104111001^Wind Bomb Junior^風炸彈小鬼^윈드 봄 주니어^Bombo Jr. aéro^Windbomber Jr.^Bom eólico junior
+MST_MONSTER_NAME_104111002^Wind Bomb Junior^風炸彈小鬼^윈드 봄 주니어^Bombo Jr. aéro^Windbomber Jr.^Bom eólico junior
+MST_MONSTER_NAME_104121000^Stone Bomb Junior^石炸彈小鬼^스톤 봄 주니어^Bombo Jr. terrestre^Steinbomber Jr.^Bom pétreo junior
+MST_MONSTER_NAME_104121001^Stone Bomb Junior^石炸彈小鬼^스톤 봄 주니어^Bombo Jr. terrestre^Steinbomber Jr.^Bom pétreo junior
+MST_MONSTER_NAME_104121002^Stone Bomb Junior^石炸彈小鬼^스톤 봄 주니어^Bombo Jr. terrestre^Steinbomber Jr.^Bom pétreo junior
 MST_MONSTER_NAME_104131000^Light Bomb Junior^光炸彈小鬼^라이트 봄 주니어^Bombo Jr. lumineux^Lichtbomber Jr.^Bom luminoso junior
 MST_MONSTER_NAME_104131001^Light Bomb Junior^光炸彈小鬼^라이트 봄 주니어^Bombo Jr. lumineux^Lichtbomber Jr.^Bom luminoso junior
 MST_MONSTER_NAME_104131002^Light Bomb Junior^光炸彈小鬼^라이트 봄 주니어^Bombo Jr. lumineux^Lichtbomber Jr.^Bom luminoso junior
@@ -5824,7 +5824,7 @@ MST_MONSTER_NAME_102018001^Nemain^內瓦安^네반^Nemain^Nemain^Nemain
 MST_MONSTER_NAME_102034006^Pecking Chick^堅喙雛鳥^페크 치크^Poussin pic-pic^Pickendes Küken^Polluelo picador
 MST_MONSTER_NAME_202028004^Phorusrhacos^恐鶴^포루스라코스^Phorusrhacos^Ruvantoru^Forusacos
 MST_MONSTER_NAME_301034001^Ruvantoru^魯邦多盧^루반토르^Ruvantoru^Ruvantoru^Ruvantoru
-MST_MONSTER_NAME_211011007^Metal Gigantuar Lv. 99^金屬巨型仙人掌Lv99^메탈 사보텐더 Lv99^Méga Pampinator niv. 99^Metallkaktorius St. 99^Don Cactilión nvl 99
+MST_MONSTER_NAME_211011007^Metal Gigantuar Lv. 99^金屬巨型仙人掌Lv99^메탈 사보텐더 Lv99^Méga Pampinator niv. 99^Metallkaktorius St. 99^Cactilión de metal nvl 99
 MST_MONSTER_NAME_104021031^Bomb Lv. 99^炸彈Lv99^봄 Lv99^Bombo niv. 99^Bomber St. 99^Bom nvl 99
 MST_MONSTER_NAME_104022019^Balloon Lv. 99^氣球怪Lv99^벌룬 Lv99^Bustule niv. 99^Granater St. 99^Bom verde nvl 99
 MST_MONSTER_NAME_106002035^Searcher Lv. 99^偵察眼Lv99^정찰 Lv99^Tête chercheuse niv. 99^Sucher St. 99^Rastreador nvl 99

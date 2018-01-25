@@ -46,5 +46,17 @@
         "89EvGKHx": "8", 
         "G4L0YIB2": "人（砂浜）", 
         "mJjnb8Q3": "1"
+    }, 
+    {
+        "25oxcKwN": "map_footprint.ssbp:footprint_desertgreen_%s/anime", 
+        "89EvGKHx": "9", 
+        "G4L0YIB2": "人(砂・緑)", 
+        "mJjnb8Q3": "1"
+    }, 
+    {
+        "25oxcKwN": "map_footprint.ssbp:footprint_fluff_%s/anime", 
+        "89EvGKHx": "10", 
+        "G4L0YIB2": "人(綿毛)", 
+        "mJjnb8Q3": "1"
     }
 ]

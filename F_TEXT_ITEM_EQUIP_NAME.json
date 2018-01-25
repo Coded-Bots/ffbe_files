@@ -213,7 +213,7 @@ MST_EQUIP_ITEM_NAME_305001100^Vorpal Axe^斬首斧^죽음의 도끼^Hache vorpal
 MST_EQUIP_ITEM_NAME_308001600^Gae Bolg^龍槍蓋博爾格^용창 게 볼그^Gae Bolg^Gae Bolg^Gae Bolg
 MST_EQUIP_ITEM_NAME_409006300^Aurora Scarf^閃光圍巾^섬광의 스카프^Foulard vif-éclair^Gleißlichthalstuch^Bufanda de aurora
 MST_EQUIP_ITEM_NAME_302001700^Moonblade^月之信仰^문페이스^Lame lunaire^Mondklinge^Espada lunar
-MST_EQUIP_ITEM_NAME_303001400^Save the Queen^天佑女王^세이브더퀸^Justicière ^Königinnenwache^Viva la Reina
+MST_EQUIP_ITEM_NAME_303001400^Save the Queen (FFT)^天佑女王 (FFT)^세이브더퀸 (FFT)^Justicière  (FFT)^Königinnenwache (FFT)^Viva la Reina (FFT)
 MST_EQUIP_ITEM_NAME_304001000^Chirijiraden^塵地螺鈿飾劍^진지 나전장식검^Chirijiraden^Chirijiraden^Chirijiraden
 MST_EQUIP_ITEM_NAME_306001100^Blessed Hammer^祝福鎚^축복받은 망치^Marteau béni^Heiliger Hammer^Maza sagrada
 MST_EQUIP_ITEM_NAME_308001000^Thunder Spear^雷電長槍^번개의 창^Lance tonnerre^Donnerspeer^Lanza de rayo
@@ -656,13 +656,13 @@ MST_EQUIP_ITEM_NAME_409014400^Ice Headband^冰晶髮帶^빙제의 카추샤^Band
 MST_EQUIP_ITEM_NAME_308002900^Northern Lights^極光凍槍^빙창 노던 라이트^Lumières du nord^Polarlicht^Luz del norte
 MST_EQUIP_ITEM_NAME_407002200^Heavy Drake Armor^龍韌重鎧^용가죽 중갑^Armure L. de dragon ^Schwere Drachenrüstung^Armadura P de draco
 MST_EQUIP_ITEM_NAME_308003000^Drakeshorn Spear^龍角之槍^용각창^Lance cornodragon^Drachenhornspeer^Lanza cuernodragón
-MST_EQUIP_ITEM_NAME_303003500^Save the Queen^天佑女王^세이브더퀸^Justicière ^Königinnenwache^Viva la Reina
+MST_EQUIP_ITEM_NAME_303003500^Save the Queen (FFIX)^天佑女王 (FFIX)^세이브더퀸 (FFIX)^Justicière  (FFIX)^Königinnenwache (FFIX)^Viva la Reina (FFIX)
 MST_EQUIP_ITEM_NAME_316001100^Angel Flute^天使之笛^천사의 피리^Angeflûte^Engelsflöte^Flauta de ángel
 MST_EQUIP_ITEM_NAME_303003600^Excalibur II^石中劍Ⅱ^엑스칼리버 Ⅱ^Excalibur II^Excalibur II^Excalibur II
-MST_EQUIP_ITEM_NAME_409014700^Moogle Ribbon^莫古利的緞帶^모그 리본^Ruban de mog^Mogry-Band^Cinta de Mogu
+MST_EQUIP_ITEM_NAME_409014700^Mog's Ribbon^莫古利的緞帶^모그 리본^Ruban de mog^Mogry-Band^Cinta de Mogu
 MST_EQUIP_ITEM_NAME_404002300^Tin Plate Helm^鍍錫鐵頭盔^양철 투구^Casque de laiton^Zinnblechhelm^Yelmo de latón
 MST_EQUIP_ITEM_NAME_311002600^Air Racket^空氣球拍^에어 라켓^Aéro-Massue^Luftschläger^Pala de aire
-MST_EQUIP_ITEM_NAME_406002800^Pluto Captain's Uniform^冥王隊制服^플루토 부대 제복^Uniforme Pluton^Pluto-Kapitänsuniform^Uniforme Pluto
+MST_EQUIP_ITEM_NAME_406002800^Knight of Pluto's Uniform^冥王隊制服^플루토 부대 제복^Uniforme Pluton^Pluto-Kapitänsuniform^Uniforme Pluto
 MST_EQUIP_ITEM_NAME_403043500^Beatrix's Eyepatch^貝特麗克絲的眼罩^베아트릭스의 안대^Cache-œil de Béate^Beatrix' Augenverband^Parche de Beatrix
 MST_EQUIP_ITEM_NAME_314001100^Platinum Whip^白金之鞭^백금의 채찍^Fouet de platine ^Platinpeitsche^Látigo de platino
 MST_EQUIP_ITEM_NAME_313002900^Platinum Musket^白金步槍^백금의 소총^Mousquet de platine ^Platinmuskete^Mosquete de platino
@@ -698,7 +698,7 @@ MST_EQUIP_ITEM_NAME_311003000^Nirvana^超脫涅槃^니르바나^Nirvana^Nirvana^
 MST_EQUIP_ITEM_NAME_310003000^Onion Knight^洋蔥騎士^양파 기사^Chevalier oignon ^Zwiebelritter^Caballero cebolla
 MST_EQUIP_ITEM_NAME_302004000^Falchion^刃刀^언월도^Cimeterre^Falchion^Cimitarra
 MST_EQUIP_ITEM_NAME_409015500^Craftsman Secret Book^名匠秘籍^명장의 비전서^Secret du maître^Handwerker-Geheimbuch^Secreto del maestro
-MST_EQUIP_ITEM_NAME_401002000^Gladiator's Shield^劍鬥士戰盾^검투사의 전투 방패^Bouclier de gladiateur^Gladiatorschild^Escudo de gladiador
+MST_EQUIP_ITEM_NAME_401002000^Gladiator's Shield^劍鬥士戰盾^검투사의 전투 방패^Bouclier de gladiateur^Gladiatorenschild^Escudo de gladiador
 MST_EQUIP_ITEM_NAME_307001800^Mace of Zeus^宙斯鎚矛^제우스의 메이스^Masse de Zeus^Keule des Zeus^Maza de Zeus
 MST_EQUIP_ITEM_NAME_307001900^Mace of Zeus - Replica^宙斯鎚矛·複製品^제우스의 메이스·레플리카^Masse de Zeus - réplique^Keule des Zeus - Replik^Réplica de Maza de Zeus
 MST_EQUIP_ITEM_NAME_1100000085^Malboro's Tentacle^毛爾波爾觸手^몰볼의 촉수^Tentacule de Morbol^Morboltentakel^Tentáculo de molbol
@@ -743,7 +743,7 @@ MST_EQUIP_ITEM_NAME_305002100^King of Beasts^獸王斧^야수왕의 도끼^Roi d
 MST_EQUIP_ITEM_NAME_409016300^Fury Ring^憤怒戒指^분노의 반지^Anneau de furie^Zornesring^Anillo de furia
 MST_EQUIP_ITEM_NAME_409016400^Alexandrite Ring^變石戒指^알렉산드라이트 반지^Anneau d'Alexandrite^Alexandritring^Anillo de Alexandrita
 MST_EQUIP_ITEM_NAME_409016500^Feral Horn^暴獸尖角^맹수의 뿔^Corne féroce^Bestienhorn^Cuerno feroz
-MST_EQUIP_ITEM_NAME_404002500^Lise's Crown^麗絲的頭盔^리스의 투구^Couronne de Lise^Lises Helm^Corona de Lise
+MST_EQUIP_ITEM_NAME_404002500^Lise's Helm^麗絲的頭盔^리스의 투구^Couronne de Lise^Lises Helm^Casco de Lise
 MST_EQUIP_ITEM_NAME_301002400^Deathstroke^奪命匕首^데스 스트로크^Coup de grâce^Todesstoß^Golpe mortal
 MST_EQUIP_ITEM_NAME_309002100^Holy Gloves^神聖手套^홀리 글로브^Gants sacrés^Heilige Handschuhe^Guantes sacros
 MST_EQUIP_ITEM_NAME_403043700^Charlotte's Cap^夏洛特帽子^샤를로트의 모자^Chapeau de Charlotte ^Charlottes Hut^Gorra de Charlotte
@@ -790,7 +790,7 @@ MST_EQUIP_ITEM_NAME_302004600^Night Emperor^夜帝^밤의 황제^Empereur de la 
 MST_EQUIP_ITEM_NAME_408002900^Vestal Garb^巫女祈禱衣^무녀의 기도복^Costume de pureté^Vestalinnenkluft^Vestido de sacerdotisa
 MST_EQUIP_ITEM_NAME_403044100^Bunny Headband^可愛兔耳髮箍^브라보 바니의 헤어밴드^Bandeau lapinou^Hasenohren-Kopfschmuck^Cinta de conejita
 MST_EQUIP_ITEM_NAME_304002300^Ise-no-Kami^伊勢守^이세노카미^Ise no Kami^Ise no kami^Isenokami
-MST_EQUIP_ITEM_NAME_409017500^Magnolia's Flower^木蘭花^목련꽃^Fleur de Magnolia^Magnolienblüte^Flor de la magnolia
+MST_EQUIP_ITEM_NAME_409017500^Magnolia Blossom^木蘭花^목련꽃^Fleur de Magnolia^Magnolienblüte^Flor de la magnolia
 MST_EQUIP_ITEM_NAME_302004700^Darkbringer^引暗之刃^다크 브링거^Porte-ténèbres^Bringer der Dunkelheit^Portadora de oscuridad
 MST_EQUIP_ITEM_NAME_409017600^Tactical Manual^師父的戰術書^스승님의 전술서^Manuel de tactiques ^Strategieplan des Meisters^Manual de tácticas
 MST_EQUIP_ITEM_NAME_311003100^Yggdrasil Staff^世界樹之杖^세계수의 지팡이^Bâton d'Yggdrasil^Yggdrasil-Stab^Bastón Yggdrasil
@@ -859,7 +859,7 @@ MST_EQUIP_ITEM_NAME_302005000^Holy Sword Farwell^聖劍法韋爾^성검 파웰^F
 MST_EQUIP_ITEM_NAME_309002500^Fallen Hope^墮落的希望^떨어진 희망^Espoir perdu ^Verlorene Hoffnung^Esperanza perdida
 MST_EQUIP_ITEM_NAME_409018900^Millie's Pendant^米麗的護身符^밀리의 부적^Pendentif de Millie^Millies Anhänger^Pendiente de Millie
 MST_EQUIP_ITEM_NAME_409019000^Tri-emblem^審判徽章^트라이 엠블럼^Triplemblème^Tri-Emblem^Triemblema
-MST_EQUIP_ITEM_NAME_312002100^Gale Moon^剛弓「烈風新月」^열풍신월^Lune des tempêtes^Sturmmond-Bogen^Arco feroz Reppu Shingetsu
+MST_EQUIP_ITEM_NAME_312002100^Reppu Shingetsu^剛弓「烈風新月」^열풍신월^Lune des tempêtes^Sturmmond-Bogen^Arco feroz Reppu Shingetsu
 MST_EQUIP_ITEM_NAME_304002800^Kogarasumaru^靈劍·小鳥丸^코가라스마루^Kogarasumaru^Seelenschwert - Kogarasumaru^Kogarasumaru
 MST_EQUIP_ITEM_NAME_313003400^Scarlet Roses^緋紅玫瑰^스칼렛 로즈^Roses écarlates^Scharlachrosen^Rosas escarlata
 MST_EQUIP_ITEM_NAME_406003300^Riot Gear^防暴裝甲^폭동 진압복^Équipement d'émeute^Kampfausrüstung^Equipo antidisturbios
@@ -868,11 +868,11 @@ MST_EQUIP_ITEM_NAME_302005100^Steel Pipe^鐵管^철 파이프^Tuyau en acier^Sta
 MST_EQUIP_ITEM_NAME_310003400^Wizard Rod+^巫師棒·改^개량형 마도사 홀장^Sceptre de sorcier+^Magierrute+^Vara de brujo+
 MST_EQUIP_ITEM_NAME_311003400^Bone Staff^骨杖^뼈로 된 주술봉^Bâton en os^Knochenstab^Bastón de hueso
 MST_EQUIP_ITEM_NAME_401002100^Wind Buckler^風之圓盾^바람의 버클러^Bouclier du vent^Windbuckler^Rodela del viento
-MST_EQUIP_ITEM_NAME_409019100^Sphene Ring^榍石戒指^설석 반지^Anneau de Sphene^Sphenering^Anillo de Esfene
+MST_EQUIP_ITEM_NAME_409019100^Sphene Ring^榍石戒指^설석 반지^Anneau de Sphene^Sphenring^Anillo de Esfene
 MST_EQUIP_ITEM_NAME_304002900^Goho Katana^護法軍刀^보호의 군도^Katana de défense^Katana der Schutzhoheit^Katana Goho
 MST_EQUIP_ITEM_NAME_316001300^Gaia Ocarina^大地陶笛^대지의 오카리나^Ocarina de Gaïa^Gaia-Okarina^Ocarina de Gaia
 MST_EQUIP_ITEM_NAME_402002600^Shield of Grandshelt^格蘭謝爾特軍盾^그랑셸트군의 방패^Bouclier de Grandshelt^Grandshelt-Schild^Escudo de Grandshelt
-MST_EQUIP_ITEM_NAME_403044400^Microchu Cap^食腐獸帽^코츄 모자^Couvre-chef Microtyugh^Mikroküsschenkappe^Gorra de microchú
+MST_EQUIP_ITEM_NAME_403044400^Microchu Cap^食腐獸帽^코츄 모자^Couvre-chef Microtyugh^Kleinküsschenkappe^Gorra de microchú
 MST_EQUIP_ITEM_NAME_408003300^Cure Robe^治癒法袍^큐어 로브^Tunique soignante ^Heilungsrobe^Túnica sanadora
 MST_EQUIP_ITEM_NAME_403044500^Royal Crown^皇室王冠^로얄 크라운^Couronne royale^Königliche Krone^Corona real
 MST_EQUIP_ITEM_NAME_403044600^Royal Crown - Replica^皇室王冠·複製品^로얄 크라운·레플리카^Couronne royale - Réplique^Königliche Krone - Replika^Réplica de Corona real
@@ -899,3 +899,4 @@ MST_EQUIP_ITEM_NAME_1100000128^Staff of Blizzards^冰杖^빙설의 지팡이^Bâ
 MST_EQUIP_ITEM_NAME_1100000129^Wing Edges^翼刃^윙 엣지^Dague ailée^Flügelschneide^Daga alada
 MST_EQUIP_ITEM_NAME_1100000130^Salamander's Gauntlets^火焰蜥蜴手甲^샐러맨더^Gantelets de salamandre^Salamanderhandschuhe^Guanteletes de salamandra
 MST_EQUIP_ITEM_NAME_1100000131^Crag Splitter^大地之劍^대지의 검^Briseterre^Kliffbrecher^Partepiedras
+MST_EQUIP_ITEM_NAME_1100000132^Vega+^織女一+^베가+^Vega+^Wega+^Vega+

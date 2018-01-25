@@ -1926,14 +1926,14 @@
     }, 
     {
         "ChNp40MG": "0", 
-        "G4L0YIB2": "モーグリ王", 
+        "G4L0YIB2": "モーグリ大臣", 
         "Gh92V3Tx": "9001", 
         "MyY8Ba5P": "", 
         "Z20mNDvL": "900105", 
         "dIPkNn61": "", 
         "juA0Z4m7": "0", 
         "kaG4xf3I": "5", 
-        "mBVN12cS": "モーグリ王"
+        "mBVN12cS": "モーグリ大臣"
     }, 
     {
         "ChNp40MG": "0", 
@@ -2190,6 +2190,39 @@
     }, 
     {
         "ChNp40MG": "0", 
+        "G4L0YIB2": "モーグリ王", 
+        "Gh92V3Tx": "9001", 
+        "MyY8Ba5P": "", 
+        "Z20mNDvL": "900129", 
+        "dIPkNn61": "", 
+        "juA0Z4m7": "0", 
+        "kaG4xf3I": "5", 
+        "mBVN12cS": "モーグリ王"
+    }, 
+    {
+        "ChNp40MG": "0", 
+        "G4L0YIB2": "モーグリ王", 
+        "Gh92V3Tx": "9001", 
+        "MyY8Ba5P": "", 
+        "Z20mNDvL": "900130", 
+        "dIPkNn61": "", 
+        "juA0Z4m7": "0", 
+        "kaG4xf3I": "5", 
+        "mBVN12cS": "モーグリ王"
+    }, 
+    {
+        "ChNp40MG": "0", 
+        "G4L0YIB2": "モーグリ王", 
+        "Gh92V3Tx": "9001", 
+        "MyY8Ba5P": "", 
+        "Z20mNDvL": "900131", 
+        "dIPkNn61": "", 
+        "juA0Z4m7": "0", 
+        "kaG4xf3I": "5", 
+        "mBVN12cS": "モーグリ王"
+    }, 
+    {
+        "ChNp40MG": "0", 
         "G4L0YIB2": "デブチョコボの住処", 
         "Gh92V3Tx": "9101", 
         "MyY8Ba5P": "", 
@@ -2278,6 +2311,17 @@
     }, 
     {
         "ChNp40MG": "0", 
+        "G4L0YIB2": "雑貨屋", 
+        "Gh92V3Tx": "13101", 
+        "MyY8Ba5P": "", 
+        "Z20mNDvL": "1310101", 
+        "dIPkNn61": "", 
+        "juA0Z4m7": "0", 
+        "kaG4xf3I": "1", 
+        "mBVN12cS": "店主"
+    }, 
+    {
+        "ChNp40MG": "0", 
         "G4L0YIB2": "道具屋", 
         "Gh92V3Tx": "13102", 
         "MyY8Ba5P": "", 
@@ -2297,6 +2341,94 @@
         "juA0Z4m7": "0", 
         "kaG4xf3I": "3", 
         "mBVN12cS": "ママチョコボ"
+    }, 
+    {
+        "ChNp40MG": "0", 
+        "G4L0YIB2": "道具屋", 
+        "Gh92V3Tx": "14201", 
+        "MyY8Ba5P": "", 
+        "Z20mNDvL": "1420101", 
+        "dIPkNn61": "", 
+        "juA0Z4m7": "0", 
+        "kaG4xf3I": "1", 
+        "mBVN12cS": "店主"
+    }, 
+    {
+        "ChNp40MG": "0", 
+        "G4L0YIB2": "アビリティ屋", 
+        "Gh92V3Tx": "14202", 
+        "MyY8Ba5P": "", 
+        "Z20mNDvL": "1420201", 
+        "dIPkNn61": "", 
+        "juA0Z4m7": "0", 
+        "kaG4xf3I": "1", 
+        "mBVN12cS": "店主"
+    }, 
+    {
+        "ChNp40MG": "0", 
+        "G4L0YIB2": "ママチョコボの住処", 
+        "Gh92V3Tx": "14202", 
+        "MyY8Ba5P": "", 
+        "Z20mNDvL": "1420202", 
+        "dIPkNn61": "", 
+        "juA0Z4m7": "0", 
+        "kaG4xf3I": "3", 
+        "mBVN12cS": "ママチョコボ"
+    }, 
+    {
+        "ChNp40MG": "0", 
+        "G4L0YIB2": "道具屋", 
+        "Gh92V3Tx": "14203", 
+        "MyY8Ba5P": "", 
+        "Z20mNDvL": "1420301", 
+        "dIPkNn61": "", 
+        "juA0Z4m7": "0", 
+        "kaG4xf3I": "1", 
+        "mBVN12cS": "店主"
+    }, 
+    {
+        "ChNp40MG": "0", 
+        "G4L0YIB2": "武器屋", 
+        "Gh92V3Tx": "14203", 
+        "MyY8Ba5P": "", 
+        "Z20mNDvL": "1420302", 
+        "dIPkNn61": "", 
+        "juA0Z4m7": "0", 
+        "kaG4xf3I": "1", 
+        "mBVN12cS": "店主"
+    }, 
+    {
+        "ChNp40MG": "0", 
+        "G4L0YIB2": "道具屋", 
+        "Gh92V3Tx": "14204", 
+        "MyY8Ba5P": "", 
+        "Z20mNDvL": "1420401", 
+        "dIPkNn61": "", 
+        "juA0Z4m7": "0", 
+        "kaG4xf3I": "1", 
+        "mBVN12cS": "店主"
+    }, 
+    {
+        "ChNp40MG": "0", 
+        "G4L0YIB2": "アクセサリ屋", 
+        "Gh92V3Tx": "14204", 
+        "MyY8Ba5P": "", 
+        "Z20mNDvL": "1420402", 
+        "dIPkNn61": "", 
+        "juA0Z4m7": "0", 
+        "kaG4xf3I": "1", 
+        "mBVN12cS": "店主"
+    }, 
+    {
+        "ChNp40MG": "0", 
+        "G4L0YIB2": "石板収集係", 
+        "Gh92V3Tx": "14301", 
+        "MyY8Ba5P": "", 
+        "Z20mNDvL": "1430101", 
+        "dIPkNn61": "", 
+        "juA0Z4m7": "0", 
+        "kaG4xf3I": "4", 
+        "mBVN12cS": "石板収集窓口"
     }, 
     {
         "ChNp40MG": "0", 

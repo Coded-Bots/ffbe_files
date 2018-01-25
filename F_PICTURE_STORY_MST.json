@@ -72,13 +72,25 @@
         "w7VR6ypY": "3"
     }, 
     {
+        "1C7GDEv4": "10000130", 
+        "2Gszu9xN": "6100", 
+        "G4L0YIB2": "ユニット④", 
+        "Hb8v3xnI": "sacrifice", 
+        "SjF52z7N": "10000130", 
+        "UV40fcZK": "1", 
+        "Z0EN6jSh": "7", 
+        "juA0Z4m7": "10003001", 
+        "r3s2vGfq": "tuto19000_1.png", 
+        "w7VR6ypY": "1"
+    }, 
+    {
         "1C7GDEv4": "10000120", 
         "2Gszu9xN": "7000", 
         "G4L0YIB2": "クラフト", 
         "Hb8v3xnI": "script", 
         "SjF52z7N": "10000120", 
         "UV40fcZK": "1", 
-        "Z0EN6jSh": "7", 
+        "Z0EN6jSh": "8", 
         "juA0Z4m7": "10003300", 
         "r3s2vGfq": "tuto7000_1.png,tuto7000_2.png,tuto7000_3.png,tuto7000_4.png,tuto7000_5.png,tuto7000_6.png", 
         "w7VR6ypY": "1"
@@ -90,7 +102,7 @@
         "Hb8v3xnI": "script", 
         "SjF52z7N": "10000121", 
         "UV40fcZK": "1", 
-        "Z0EN6jSh": "8", 
+        "Z0EN6jSh": "9", 
         "juA0Z4m7": "10004001", 
         "r3s2vGfq": "tuto8000_1.png", 
         "w7VR6ypY": "1"
@@ -102,7 +114,7 @@
         "Hb8v3xnI": "area", 
         "SjF52z7N": "10000122", 
         "UV40fcZK": "1", 
-        "Z0EN6jSh": "10", 
+        "Z0EN6jSh": "11", 
         "juA0Z4m7": "10005001", 
         "r3s2vGfq": "tuto9000_1.png,tuto9000_2.png,tuto9000_3.png", 
         "w7VR6ypY": "1"
@@ -114,7 +126,7 @@
         "Hb8v3xnI": "gate", 
         "SjF52z7N": "10000123", 
         "UV40fcZK": "1", 
-        "Z0EN6jSh": "11", 
+        "Z0EN6jSh": "12", 
         "juA0Z4m7": "10005001", 
         "r3s2vGfq": "tuto10000_1.png,tuto10000_2.png", 
         "w7VR6ypY": "1"
@@ -126,7 +138,7 @@
         "Hb8v3xnI": "home", 
         "SjF52z7N": "10000124", 
         "UV40fcZK": "1", 
-        "Z0EN6jSh": "12", 
+        "Z0EN6jSh": "13", 
         "juA0Z4m7": "10007400", 
         "r3s2vGfq": "tuto11000_1.png,tuto11000_2.png,tuto11000_3.png,tuto11000_4.png", 
         "w7VR6ypY": "4"
@@ -138,7 +150,7 @@
         "Hb8v3xnI": "script", 
         "SjF52z7N": "10000125", 
         "UV40fcZK": "1", 
-        "Z0EN6jSh": "13", 
+        "Z0EN6jSh": "14", 
         "juA0Z4m7": "10010200", 
         "r3s2vGfq": "tuto12000_1.png", 
         "w7VR6ypY": "1"
@@ -150,7 +162,7 @@
         "Hb8v3xnI": "home", 
         "SjF52z7N": "10000113", 
         "UV40fcZK": "1", 
-        "Z0EN6jSh": "14", 
+        "Z0EN6jSh": "15", 
         "juA0Z4m7": "10010300", 
         "r3s2vGfq": "tuto13000_3.png,tuto13000_4.png,tuto13000_5.png,tuto13000_6.png,tuto13000_7.png", 
         "w7VR6ypY": "3"
@@ -162,7 +174,7 @@
         "Hb8v3xnI": "script", 
         "SjF52z7N": "10000127", 
         "UV40fcZK": "1", 
-        "Z0EN6jSh": "9", 
+        "Z0EN6jSh": "10", 
         "juA0Z4m7": "10005001", 
         "r3s2vGfq": "tuto14000_1.png,tuto14000_2.png,tuto14000_3.png", 
         "w7VR6ypY": "1"
@@ -174,10 +186,10 @@
         "Hb8v3xnI": "home", 
         "SjF52z7N": "10000128", 
         "UV40fcZK": "0", 
-        "Z0EN6jSh": "9", 
+        "Z0EN6jSh": "10", 
         "juA0Z4m7": "90000000", 
         "r3s2vGfq": "tuto15000_1.png,tuto15000_2.png", 
-        "w7VR6ypY": "1"
+        "w7VR6ypY": "3"
     }, 
     {
         "1C7GDEv4": "10000129", 
@@ -186,10 +198,10 @@
         "Hb8v3xnI": "home", 
         "SjF52z7N": "10000129", 
         "UV40fcZK": "1", 
-        "Z0EN6jSh": "9", 
+        "Z0EN6jSh": "10", 
         "juA0Z4m7": "90000000", 
         "r3s2vGfq": "tuto15000_1.png,tuto15000_2.png", 
-        "w7VR6ypY": "1"
+        "w7VR6ypY": "3"
     }, 
     {
         "1C7GDEv4": "10000154", 
@@ -198,7 +210,7 @@
         "Hb8v3xnI": "ability_sublimation", 
         "SjF52z7N": "10000154", 
         "UV40fcZK": "1", 
-        "Z0EN6jSh": "16", 
+        "Z0EN6jSh": "17", 
         "juA0Z4m7": "10003001", 
         "r3s2vGfq": "tuto16000_1.png,tuto16000_2.png,tuto16000_3.png", 
         "w7VR6ypY": "1"
@@ -210,7 +222,7 @@
         "Hb8v3xnI": "EX-P_Explain", 
         "SjF52z7N": "10000156", 
         "UV40fcZK": "1", 
-        "Z0EN6jSh": "17", 
+        "Z0EN6jSh": "18", 
         "juA0Z4m7": "10003001", 
         "r3s2vGfq": "tuto17000_1.png,tuto17000_2.png", 
         "w7VR6ypY": "1"
@@ -222,7 +234,7 @@
         "Hb8v3xnI": "script", 
         "SjF52z7N": "10000160", 
         "UV40fcZK": "1", 
-        "Z0EN6jSh": "18", 
+        "Z0EN6jSh": "19", 
         "juA0Z4m7": "10005001", 
         "r3s2vGfq": "tuto18000_1.png,tuto18000_2.png", 
         "w7VR6ypY": "1"
@@ -234,8 +246,8 @@
         "Hb8v3xnI": "home", 
         "SjF52z7N": "10000159", 
         "UV40fcZK": "1", 
-        "Z0EN6jSh": "19", 
-        "juA0Z4m7": "90000000", 
+        "Z0EN6jSh": "20", 
+        "juA0Z4m7": "10162500", 
         "r3s2vGfq": "tuto19000_1.png", 
         "w7VR6ypY": "10"
     }, 
@@ -246,7 +258,7 @@
         "Hb8v3xnI": "arena_party", 
         "SjF52z7N": "10000161", 
         "UV40fcZK": "1", 
-        "Z0EN6jSh": "15", 
+        "Z0EN6jSh": "16", 
         "juA0Z4m7": "10010300", 
         "r3s2vGfq": "tuto20000_1.png,tuto20000_2.png", 
         "w7VR6ypY": "10"
@@ -258,7 +270,7 @@
         "Hb8v3xnI": "alliance", 
         "SjF52z7N": "10000162", 
         "UV40fcZK": "1", 
-        "Z0EN6jSh": "20", 
+        "Z0EN6jSh": "21", 
         "juA0Z4m7": "10005001", 
         "r3s2vGfq": "tuto21000_1.png,tuto21000_2.png,tuto21000_3.png,tuto21000_4.png,tuto21000_5.png,tuto21000_6.png,tuto21000_7.png,", 
         "w7VR6ypY": "10"
@@ -270,7 +282,7 @@
         "Hb8v3xnI": "home", 
         "SjF52z7N": "10000167", 
         "UV40fcZK": "1", 
-        "Z0EN6jSh": "21", 
+        "Z0EN6jSh": "22", 
         "juA0Z4m7": "10002100", 
         "r3s2vGfq": "tuto22000_1.png,tuto22000_3.png", 
         "w7VR6ypY": "1"
@@ -282,9 +294,21 @@
         "Hb8v3xnI": "home", 
         "SjF52z7N": "10000169", 
         "UV40fcZK": "1", 
-        "Z0EN6jSh": "22", 
+        "Z0EN6jSh": "23", 
         "juA0Z4m7": "10002100", 
         "r3s2vGfq": "tuto23000_1.png", 
+        "w7VR6ypY": "2"
+    }, 
+    {
+        "1C7GDEv4": "10000501", 
+        "2Gszu9xN": "26000", 
+        "G4L0YIB2": "探検チョコボ", 
+        "Hb8v3xnI": "home", 
+        "SjF52z7N": "10000501", 
+        "UV40fcZK": "1", 
+        "Z0EN6jSh": "23", 
+        "juA0Z4m7": "90000000", 
+        "r3s2vGfq": "tuto24000_1.png,tuto24000_2.png,tuto24000_3.png,tuto24000_4.png,tuto24000_5.png,tuto24000_6.png", 
         "w7VR6ypY": "2"
     }, 
     {
@@ -393,6 +417,18 @@
         "Z0EN6jSh": "50", 
         "juA0Z4m7": "10162501", 
         "r3s2vGfq": "tuto_clear_1st.png", 
+        "w7VR6ypY": "99"
+    }, 
+    {
+        "1C7GDEv4": "999999999", 
+        "2Gszu9xN": "50090", 
+        "G4L0YIB2": "探検チョコボ開始", 
+        "Hb8v3xnI": "area", 
+        "SjF52z7N": "999999999", 
+        "UV40fcZK": "0", 
+        "Z0EN6jSh": "50", 
+        "juA0Z4m7": "999999999", 
+        "r3s2vGfq": "tuto_chocobo.png", 
         "w7VR6ypY": "99"
     }, 
     {

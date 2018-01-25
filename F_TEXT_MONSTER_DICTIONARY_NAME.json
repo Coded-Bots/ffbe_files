@@ -861,8 +861,8 @@ MST_MONSTERDICTIONARY_NAME_1100130^Bronze^青銅鎧甲^동상^Bronze^Bronze^Bron
 MST_MONSTERDICTIONARY_NAME_1110040^Parasite Grass^寄生草^기생초^Parasite d'herbe^Parasitengras^Hierbajo parásito
 MST_MONSTERDICTIONARY_NAME_1110180^Dead Tree^死靈樹^사령목^Arbre mort^Toter Baum^Árbol muerto
 MST_MONSTERDICTIONARY_NAME_1120080^Forgotten^遺忘骷髏^망각골^Oublié^Vergessen^Olvidado
-MST_MONSTERDICTIONARY_NAME_1120150^Spirit^怨靈^원혼^Ectoplasme^Geistar^Espíritu
-MST_MONSTERDICTIONARY_NAME_1120340^Ectoplasme^戴瓦惡魔^다에바^Ectoplasme^Daeva^Daeva
+MST_MONSTERDICTIONARY_NAME_1120150^Spirit^怨靈^원혼^Esprit^Geistar^Espíritu
+MST_MONSTERDICTIONARY_NAME_1120340^Daeva^戴瓦惡魔^다에바^Ectoplasme^Daeva^Daeva
 MST_MONSTERDICTIONARY_NAME_1120450^Viridian Head^碧綠頭骨^청록 해골^Tête viridiane^Viridanischer Kopf^Cabeza viridiana
 MST_MONSTERDICTIONARY_NAME_2010120^Big Bear^大熊^왕곰^Ours géant^Großer Bär^Oso gigante
 MST_MONSTERDICTIONARY_NAME_2010420^Desert Baretta^沙漠巴雷塔^사막 바레타^Pétratortoise^Wüstenbaret^Boroto de arena
@@ -995,8 +995,8 @@ MST_MONSTERDICTIONARY_NAME_1040710^Fire Bomb Junior^火炸彈小鬼^파이어 �
 MST_MONSTERDICTIONARY_NAME_1040810^Ice Bomb Junior^冰炸彈小鬼^아이스 봄 주니어^Bombo Jr. gelé^Eisbomber Jr.^Bom gélido junior
 MST_MONSTERDICTIONARY_NAME_1040910^Thunder Bomb Junior^雷炸彈小鬼^선더 봄 주니어^Bombo Jr. électrique^Donnerbomber Jr.^Bom atronador junior
 MST_MONSTERDICTIONARY_NAME_1041010^Water Bomb Junior^水炸彈小鬼^워터 봄 주니어^Bombo Jr. aquatique^Wasserbomber Jr.^Bom acuático junior
-MST_MONSTERDICTIONARY_NAME_1041110^Wind Bomb Junior^風炸彈小鬼^윈드 봄 주니어^Bombo Jr. aquatique^Windbomber Jr.^Bom eólico junior
-MST_MONSTERDICTIONARY_NAME_1041210^Stone Bomb Junior^石炸彈小鬼^스톤 봄 주니어^Bombo Jr. aéro^Steinbomber Jr.^Bom pétreo junior
+MST_MONSTERDICTIONARY_NAME_1041110^Wind Bomb Junior^風炸彈小鬼^윈드 봄 주니어^Bombo Jr. aéro^Windbomber Jr.^Bom eólico junior
+MST_MONSTERDICTIONARY_NAME_1041210^Stone Bomb Junior^石炸彈小鬼^스톤 봄 주니어^Bombo Jr. terrestre^Steinbomber Jr.^Bom pétreo junior
 MST_MONSTERDICTIONARY_NAME_1041310^Light Bomb Junior^光炸彈小鬼^라이트 봄 주니어^Bombo Jr. lumineux^Lichtbomber Jr.^Bom luminoso junior
 MST_MONSTERDICTIONARY_NAME_1041410^Dark Bomb Junior^暗炸彈小鬼^다크 봄 주니어^Bombo Jr. ténébreux^Dunkelbomber Jr.^Bom tenebroso junior
 MST_MONSTERDICTIONARY_NAME_3041510^Dad Bomb^炸彈之父^파더 봄^Papa bombo^Vaterbomber^Papá bom
