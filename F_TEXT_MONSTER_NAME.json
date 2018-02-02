@@ -214,9 +214,9 @@ MST_MONSTER_NAME_206012000^Scolopendra^鋼鐵裝甲^강철 지네^Scolopendre^Sc
 MST_MONSTER_NAME_206012001^Scolopendra^鋼鐵裝甲^강철 지네^Scolopendre^Scolopendra^Escolopendra
 MST_MONSTER_NAME_206021000^Epimetheus^厄庇墨透斯^에피메테우스^Épiméthée^Epimetheus^Epimeteo
 MST_MONSTER_NAME_206021001^Epimetheus^厄庇墨透斯^에피메테우스^Épiméthée^Epimetheus^Epimeteo
-MST_MONSTER_NAME_207001000^Wyvern^雙足飛龍^와이번^Wyverne^Lindwurm^Guiverno
-MST_MONSTER_NAME_207001001^Wyvern^雙足飛龍^와이번^Wyverne^Lindwurm^Guiverno
-MST_MONSTER_NAME_207001002^Wyvern^雙足飛龍^와이번^Wyverne^Lindwurm^Guiverno
+MST_MONSTER_NAME_207001000^Wyvern^雙足飛龍^와이번^Wyverne^Wyvern^Guiverno
+MST_MONSTER_NAME_207001001^Wyvern^雙足飛龍^와이번^Wyverne^Wyvern^Guiverno
+MST_MONSTER_NAME_207001002^Wyvern^雙足飛龍^와이번^Wyverne^Wyvern^Guiverno
 MST_MONSTER_NAME_207002000^Wyrm^雙足巨龍^비룡^Wyrm^Wyrm^Draco
 MST_MONSTER_NAME_207011000^Allosaur^異龍^알로사우루스^Allosaure^Allosaurus^Alosaurio
 MST_MONSTER_NAME_207012000^Tyrannosaur^暴龍^티라노사우루스^Tyrannosaure^Tyrannosaurus^Tiranosaurio
@@ -443,7 +443,7 @@ MST_MONSTER_NAME_102002902^Poison Bat^毒蝙蝠^맹독 박쥐^Noctule-poison^Gif
 MST_MONSTER_NAME_104021902^Bomb^炸彈^봄^Bombo^Bomber^Bom
 MST_MONSTER_NAME_112031902^Poplium^帕普病毒^포플리움^Pauplium^Papolium^Poplium
 MST_MONSTER_NAME_108014902^Red Elemental^火紅元素^붉은 원소^Élémentaire rouge^Rotling^Ente rojo
-MST_MONSTER_NAME_207001902^Wyvern^雙足飛龍^와이번^Wyverne^Lindwurm^Guiverno
+MST_MONSTER_NAME_207001902^Wyvern^雙足飛龍^와이번^Wyverne^Wyvern^Guiverno
 MST_MONSTER_NAME_109012902^Black Widow^黑寡婦^검은 과부거미^Veuve noire^Schwarze Witwe^Viuda negra
 MST_MONSTER_NAME_209002902^Greater Mantis^大螳螂^울부짖는 사마귀^Mante géante^Riesenmantis^Mantis suprema
 MST_MONSTER_NAME_110004902^Bas-relief^浮雕石碑^릴리프^Bas-relief^Risiko-Arm^Bajorrelieve
@@ -491,7 +491,7 @@ MST_MONSTER_NAME_102002912^Poison Bat^毒蝙蝠^맹독 박쥐^Noctule-poison^Gif
 MST_MONSTER_NAME_104021912^Bomb^炸彈^봄^Bombo^Bomber^Bom
 MST_MONSTER_NAME_112031912^Poplium^帕普病毒^포플리움^Pauplium^Papolium^Poplium
 MST_MONSTER_NAME_108014912^Red Elemental^火紅元素^붉은 원소^Élémentaire rouge^Rotling^Ente rojo
-MST_MONSTER_NAME_207001912^Wyvern^雙足飛龍^와이번^Wyverne^Lindwurm^Guiverno
+MST_MONSTER_NAME_207001912^Wyvern^雙足飛龍^와이번^Wyverne^Wyvern^Guiverno
 MST_MONSTER_NAME_109012912^Black Widow^黑寡婦^검은 과부거미^Veuve noire^Schwarze Witwe^Viuda negra
 MST_MONSTER_NAME_209002912^Greater Mantis^大螳螂^울부짖는 사마귀^Mante géante^Riesenmantis^Mantis suprema
 MST_MONSTER_NAME_110004912^Bas-relief^浮雕石碑^릴리프^Bas-relief^Risiko-Arm^Bajorrelieve
@@ -723,7 +723,7 @@ MST_MONSTER_NAME_305001004^Hill Gigas^山嶺巨人^힐 기가스^Gigas^Berghüne
 MST_MONSTER_NAME_107002003^Diresaur^變異龍^변종 드래곤^Dragon-garou^Werdrache^Dracodonte
 MST_MONSTER_NAME_201013003^Purusa^普魯沙熊^푸루샤^Purusha^Prusha^Purusa
 MST_MONSTER_NAME_108023003^Skadi^絲卡蒂^스카디^Skadi^Skadi^Skadi
-MST_MONSTER_NAME_207001003^Wyvern^雙足飛龍^와이번^Wyverne^Lindwurm^Guiverno
+MST_MONSTER_NAME_207001003^Wyvern^雙足飛龍^와이번^Wyverne^Wyvern^Guiverno
 MST_MONSTER_NAME_205001001^Ziggurat Gigas^鎮塔巨人^지구라트 기가스^Gigas du ziggurat^Zikkurat-Gigas^Zigurat gigas
 MST_MONSTER_NAME_205041001^Ogre^食人魔^오거^Ogre^Oger^Ogro
 MST_MONSTER_NAME_106002006^Searcher^偵察眼^정찰 로봇^Tête chercheuse^Sucher^Rastreador
@@ -1387,7 +1387,7 @@ MST_MONSTER_NAME_207002002^Wyrm^雙足巨龍^비룡^Wyrm^Wyrm^Draco
 MST_MONSTER_NAME_207012004^Tyrannosaur^暴龍^티라노사우루스^Tyrannosaure^Tyrannosaurus^Tiranosaurio
 MST_MONSTER_NAME_107004007^Balaur^巴拉烏爾^발라우르^Balaur^Balaur^Balaur
 MST_MONSTER_NAME_207011006^Allosaur^異龍^알로사우루스^Allosaure^Allosaurus^Alosaurio
-MST_MONSTER_NAME_207001004^Wyvern^雙足飛龍^와이번^Wyverne^Lindwurm^Guiverno
+MST_MONSTER_NAME_207001004^Wyvern^雙足飛龍^와이번^Wyverne^Wyvern^Guiverno
 MST_MONSTER_NAME_207012005^Tyrannosaur^暴龍^티라노사우루스^Tyrannosaure^Tyrannosaurus^Tiranosaurio
 MST_MONSTER_NAME_207003002^Lesser Lopros^小飛龍^하급 로프로스^Lobros mineur^Lessaloploth^Lopros menor
 MST_MONSTER_NAME_101011002^Nutkin^食果花鼠^열매 포식자^Croque-noisette^Nusshörnchen^Nutkin
@@ -1726,8 +1726,8 @@ MST_MONSTER_NAME_201003003^Armored Beast^裝甲獸^철갑야수^Bête en armure^
 MST_MONSTER_NAME_103013005^Red Marshmallow^紅色棉花糖^붉은 마시멜로^Marshmallow rouge^Rotpudding^Malvavisco rojo
 MST_MONSTER_NAME_204012004^Abyssal^深淵惡魔^심연의 포식자^Ver abyssal^Abyss^Abisal
 MST_MONSTER_NAME_107005000^Geeta^熔岩龍^용암룡^Geeta^Glutdrache^Geeta
-MST_MONSTER_NAME_207001005^Wyvern^雙足飛龍^와이번^Wyverne^Lindwurm^Guiverno
-MST_MONSTER_NAME_207001006^Wyvern^雙足飛龍^와이번^Wyverne^Lindwurm^Guiverno
+MST_MONSTER_NAME_207001005^Wyvern^雙足飛龍^와이번^Wyverne^Wyvern^Guiverno
+MST_MONSTER_NAME_207001006^Wyvern^雙足飛龍^와이번^Wyverne^Wyvern^Guiverno
 MST_MONSTER_NAME_105033005^Zoldaad Soldier^佐爾達多士兵^졸다드 병사^Soldat de Zoldaad^Zoldaadischer Krieger^Soldado de Zoldaad
 MST_MONSTER_NAME_206013000^Elytron^赤紅裝甲^에류트론^Elytron^Elytro^Elytron
 MST_MONSTER_NAME_106002017^Searcher^偵察眼^정찰 로봇^Tête chercheuse^Sucher^Rastreador
@@ -1882,7 +1882,7 @@ MST_MONSTER_NAME_900000115^Chimera^奇美拉^키마이라^Khimaira^Chimära^Quim
 MST_MONSTER_NAME_900000116^Basilisk^石蜥蜴^바실리스크^Basilic^Basilisk^Basilisco
 MST_MONSTER_NAME_900000117^Balaur^巴拉烏爾^발라우르^Balaur^Balaur^Balaur
 MST_MONSTER_NAME_900000118^Allosaur^異龍^알로사우루스^Allosaure^Allosaurus^Alosaurio
-MST_MONSTER_NAME_900000119^Wyvern^雙足飛龍^와이번^Wyverne^Lindwurm^Guiverno
+MST_MONSTER_NAME_900000119^Wyvern^雙足飛龍^와이번^Wyverne^Wyvern^Guiverno
 MST_MONSTER_NAME_900000120^Apatosaurus^腕龍^브라키오레이더스^Brachiosaure^Brachioredos^Braquiosaurio
 MST_MONSTER_NAME_900000121^Bomb^炸彈^봄^Bombo^Bomber^Bom
 MST_MONSTER_NAME_900000122^Yellow Jelly^黃色膠質怪^노란 젤리^Flan jaune^Eitergelee^Gelatina amarilla
@@ -2159,31 +2159,31 @@ MST_MONSTER_NAME_107015000^Snowflake^白雪幼龍^백설룡^Flocon de neige ^Sch
 MST_MONSTER_NAME_305061000^Veritas of the Earth^王土之維利亞斯^위대한 대지의 베리어스^Veritas des Terres ^Veritas der Erde^Veritas el terrestre
 MST_MONSTER_NAME_301016001^Kaiser Behemoth^凱撒凶惡巨獸^카이저 베히모스^Béhémoth empereur^Kaiser-Behemoth^Bégimo káiser
 MST_MONSTER_NAME_305071000^Veritas of the Light^光輝之維利亞斯^찬란한 빛의 베리어스^Veritas de la lumière ^Veritas des Lichts^Veritas el luminoso
-MST_MONSTER_NAME_103081000^Slime^^^Gluant^^
-MST_MONSTER_NAME_103081001^Slime^^^Gluant^^
-MST_MONSTER_NAME_103081002^Slime^^^Gluant^^
-MST_MONSTER_NAME_103091000^Liquid Metal Slime^^^Gluant de mercure^^
-MST_MONSTER_NAME_105071000^Dragonlord^^^Lordragon^^
-MST_MONSTER_NAME_105081000^Robbin' 'Ood^^^Chaperon vert^^
-MST_MONSTER_NAME_105081001^Robbin' 'Ood^^^Chaperon vert^^
-MST_MONSTER_NAME_105081002^Robbin' 'Ood^^^Chaperon vert^^
-MST_MONSTER_NAME_105091000^Robbin' 'Oodlum^^^Chaperon Chon^^
-MST_MONSTER_NAME_105091001^Robbin' 'Oodlum^^^Chaperon Chon^^
-MST_MONSTER_NAME_105091002^Robbin' 'Oodlum^^^Chaperon Chon^^
-MST_MONSTER_NAME_106041000^Killing Machine^^^Machine à tuer^^
-MST_MONSTER_NAME_106041001^Killing Machine^^^Machine à tuer^^
-MST_MONSTER_NAME_106041002^Killing Machine^^^Machine à tuer^^
-MST_MONSTER_NAME_106041003^Killing Machine^^^Machine à tuer^^
-MST_MONSTER_NAME_203061000^King Slime^^^Roi gluant^^
-MST_MONSTER_NAME_203061001^King Slime^^^Roi gluant^^
-MST_MONSTER_NAME_203061002^King Slime^^^Roi gluant^^
-MST_MONSTER_NAME_203061003^King Slime^^^Roi gluant^^
-MST_MONSTER_NAME_203061004^King Slime^^^Roi gluant^^
-MST_MONSTER_NAME_207051000^Orochi^^^Orochi^^
-MST_MONSTER_NAME_207051001^Orochi^^^Orochi^^
-MST_MONSTER_NAME_210061000^Gold Golem^^^Golem d'or^^
-MST_MONSTER_NAME_105071001^Dragonlord^^^Lordragon^^
-MST_MONSTER_NAME_207021000^Dragonlord^^^Lordragon^^
+MST_MONSTER_NAME_103081000^Slime^^^Gluant^^Limo
+MST_MONSTER_NAME_103081001^Slime^^^Gluant^^Limo
+MST_MONSTER_NAME_103081002^Slime^^^Gluant^^Limo
+MST_MONSTER_NAME_103091000^Liquid Metal Slime^^^Gluant de mercure^^Limo metálico
+MST_MONSTER_NAME_105071000^Dragonlord^^^Lordragon^^Draconarius
+MST_MONSTER_NAME_105081000^Robbin' 'Ood^^^Chaperon vert^^Luis Candelas
+MST_MONSTER_NAME_105081001^Robbin' 'Ood^^^Chaperon vert^^Luis Candelas
+MST_MONSTER_NAME_105081002^Robbin' 'Ood^^^Chaperon vert^^Luis Candelas
+MST_MONSTER_NAME_105091000^Robbin' 'Oodlum^^^Chaperon Chon^^Bandolero
+MST_MONSTER_NAME_105091001^Robbin' 'Oodlum^^^Chaperon Chon^^Bandolero
+MST_MONSTER_NAME_105091002^Robbin' 'Oodlum^^^Chaperon Chon^^Bandolero
+MST_MONSTER_NAME_106041000^Killing Machine^^^Machine à tuer^^Máquina de matar
+MST_MONSTER_NAME_106041001^Killing Machine^^^Machine à tuer^^Máquina de matar
+MST_MONSTER_NAME_106041002^Killing Machine^^^Machine à tuer^^Máquina de matar
+MST_MONSTER_NAME_106041003^Killing Machine^^^Machine à tuer^^Máquina de matar
+MST_MONSTER_NAME_203061000^King Slime^^^Roi gluant^^Limo rey
+MST_MONSTER_NAME_203061001^King Slime^^^Roi gluant^^Limo rey
+MST_MONSTER_NAME_203061002^King Slime^^^Roi gluant^^Limo rey
+MST_MONSTER_NAME_203061003^King Slime^^^Roi gluant^^Limo rey
+MST_MONSTER_NAME_203061004^King Slime^^^Roi gluant^^Limo rey
+MST_MONSTER_NAME_207051000^Orochi^^^Orochi^^Orochi
+MST_MONSTER_NAME_207051001^Orochi^^^Orochi^^Orochi
+MST_MONSTER_NAME_210061000^Gold Golem^^^Golem d'or^^Gólem de oro
+MST_MONSTER_NAME_105071001^Dragonlord^^^Lordragon^^Draconarius
+MST_MONSTER_NAME_207021000^Dragonlord^^^Lordragon^^Draconarius
 MST_MONSTER_NAME_112026000^Zombie Warrior^殭屍戰士^좀비 전사^Guerrier zombie^Zombiekrieger^Guerrero zombi
 MST_MONSTER_NAME_112043000^Bloody Head^血色頭顱^피투성이 머리^Tête sanglante^Blutiger Kopf^Cabeza sangrienta
 MST_MONSTER_NAME_112026001^Zombie Warrior^殭屍戰士^좀비 전사^Guerrier zombie^Zombiekrieger^Guerrero zombi
@@ -2496,7 +2496,7 @@ MST_MONSTER_NAME_107004010^Balaur^巴拉烏爾^발라우르^Balaur^Balaur^Balaur
 MST_MONSTER_NAME_209021008^Crawler^巨型爬蟲^기어 다니는 자^Helminthe^Egelkriecher^Oruga
 MST_MONSTER_NAME_301001003^Chimera^奇美拉^키마이라^Khimaira^Chimära^Quimera
 MST_MONSTER_NAME_209002008^Greater Mantis^大螳螂^울부짖는 사마귀^Mante géante^Riesenmantis^Mantis suprema
-MST_MONSTER_NAME_207001008^Wyvern^雙足飛龍^와이번^Wyverne^Lindwurm^Guiverno
+MST_MONSTER_NAME_207001008^Wyvern^雙足飛龍^와이번^Wyverne^Wyvern^Guiverno
 MST_MONSTER_NAME_105001007^Goblin^妖精^고블린^Gobelin^Goblin^Duende
 MST_MONSTER_NAME_105011004^Sorcerer^魔法師^마법사^Nécromancien^Hexenmeister^Hechicero
 MST_MONSTER_NAME_105051012^Cutpurse^小賊^심부름꾼^Malandrin^Taschendieb^Ratero
@@ -2791,7 +2791,7 @@ MST_MONSTER_NAME_205011007^Flamesblade^火焰劍士^화염의 검사^Guerrier de
 MST_MONSTER_NAME_312001002^Terror Knight^恐怖騎士^테라 나이트^Chevalier démoniaque^Schreckensritter^Caballero aterrador
 MST_MONSTER_NAME_309001004^Antlion^蟻獅^개미귀신^Fourmilion^Ameisenlöwe^Formileón
 MST_MONSTER_NAME_301001002^Chimera^奇美拉^키마이라^Khimaira^Chimära^Quimera
-MST_MONSTER_NAME_207001007^Wyvern^雙足飛龍^와이번^Wyverne^Lindwurm^Guiverno
+MST_MONSTER_NAME_207001007^Wyvern^雙足飛龍^와이번^Wyverne^Wyvern^Guiverno
 MST_MONSTER_NAME_208001006^Wandering One^彷徨之物^방황하는 자^Errant^Wandernder^Ser errante
 MST_MONSTER_NAME_106002023^Searcher^偵察眼^정찰 로봇^Tête chercheuse^Sucher^Rastreador
 MST_MONSTER_NAME_306002002^Europa^歐羅巴^에우로페^Europe^Europa^Europa
@@ -3749,8 +3749,8 @@ MST_MONSTER_NAME_401051001^Behemoth^凶惡巨獸^베히모스^Béhémoth^Behemot
 MST_MONSTER_NAME_108017009^Blue Elemental^冰藍元素^푸른 원소^Élémentaire bleu^Blauling^Ente azul
 MST_MONSTER_NAME_108016001^Green Elemental^翠綠元素^초록색 원소^Élémentaire vert^Grünelementar^Ente verde
 MST_MONSTER_NAME_202022010^Sprinter^駭鳥^질주자^Sprinteur^Sprinter^Velocista
-MST_MONSTER_NAME_207001009^Wyvern^雙足飛龍^와이번^Wyverne^Lindwurm^Guiverno
-MST_MONSTER_NAME_207001010^Wyvern^雙足飛龍^와이번^Wyverne^Lindwurm^Guiverno
+MST_MONSTER_NAME_207001009^Wyvern^雙足飛龍^와이번^Wyverne^Wyvern^Guiverno
+MST_MONSTER_NAME_207001010^Wyvern^雙足飛龍^와이번^Wyverne^Wyvern^Guiverno
 MST_MONSTER_NAME_103035012^Merman^雄人魚^인어남^Ondin^Wassermann^Merrow
 MST_MONSTER_NAME_107004022^Balaur^巴拉烏爾^발라우르^Balaur^Balaur^Balaur
 MST_MONSTER_NAME_107018001^Hail^冰雪幼龍^헤일^Grêlon^Gruß^Granizaco
@@ -4974,8 +4974,8 @@ MST_MONSTER_NAME_104061000^Imp^小惡魔^임프^Diablotin^Miniteufel^Diablejo
 MST_MONSTER_NAME_104061001^Imp^小惡魔^임프^Diablotin^Miniteufel^Diablejo
 MST_MONSTER_NAME_301141000^Chimera^奇美拉^키마이라^Khimaira^Chimära^Quimera
 MST_MONSTER_NAME_301141001^Chimera^奇美拉^키마이라^Khimaira^Chimära^Quimera
-MST_MONSTER_NAME_305241000^Shadow Knight^暗影騎士^섀도우 나이트^Chevalier sombre^Schattenritter^Caballero oscuro
-MST_MONSTER_NAME_305241001^Shadow Knight^暗影騎士^섀도우 나이트^Chevalier sombre^Schattenritter^Caballero oscuro
+MST_MONSTER_NAME_305241000^Dark Lord^暗影騎士^섀도우 나이트^Chevalier Noir^Schattenherrscher^Caballero oscuro
+MST_MONSTER_NAME_305241001^Dark Lord^暗影騎士^섀도우 나이트^Chevalier Noir^Schattenherrscher^Caballero oscuro
 MST_MONSTER_NAME_205731000^Magician^魔術師^마술사^Magicien^Magier^Mago
 MST_MONSTER_NAME_212101000^Zombie^殭屍^좀비^Zombie^Zombie^Zombi
 MST_MONSTER_NAME_101004005^Jumbo Rat^巨型鼠^특대 시궁쥐^Rat jumbo^Jumboratte^Rata jumbo
@@ -5164,11 +5164,11 @@ MST_MONSTER_NAME_203111002^Yensa^焉薩魚^옌사^Yensa^Yensa^Yensa
 MST_MONSTER_NAME_203111003^Yensa^焉薩魚^옌사^Yensa^Yensa^Yensa
 MST_MONSTER_NAME_203111004^Yensa^焉薩魚^옌사^Yensa^Yensa^Yensa
 MST_MONSTER_NAME_203111005^Yensa^焉薩魚^옌사^Yensa^Yensa^Yensa
-MST_MONSTER_NAME_307071000^Wyvern^雙足飛龍^와이번^Wyverne^Lindwurm^Guiverno
-MST_MONSTER_NAME_307071001^Wyvern^雙足飛龍^와이번^Wyverne^Lindwurm^Guiverno
-MST_MONSTER_NAME_307071002^Wyvern^雙足飛龍^와이번^Wyverne^Lindwurm^Guiverno
-MST_MONSTER_NAME_307071003^Wyvern^雙足飛龍^와이번^Wyverne^Lindwurm^Guiverno
-MST_MONSTER_NAME_307071004^Wyvern^雙足飛龍^와이번^Wyverne^Lindwurm^Guiverno
+MST_MONSTER_NAME_307071000^Wyvern^雙足飛龍^와이번^Wyverne^Wyvern^Guiverno
+MST_MONSTER_NAME_307071001^Wyvern^雙足飛龍^와이번^Wyverne^Wyvern^Guiverno
+MST_MONSTER_NAME_307071002^Wyvern^雙足飛龍^와이번^Wyverne^Wyvern^Guiverno
+MST_MONSTER_NAME_307071003^Wyvern^雙足飛龍^와이번^Wyverne^Wyvern^Guiverno
+MST_MONSTER_NAME_307071004^Wyvern^雙足飛龍^와이번^Wyverne^Wyvern^Guiverno
 MST_MONSTER_NAME_202071000^Bull Chocobo^陸行鳥首領^초코보 두령^Chocobo sombre^Chocoboanführer^Chocobo líder
 MST_MONSTER_NAME_202071001^Bull Chocobo^陸行鳥首領^초코보 두령^Chocobo sombre^Chocoboanführer^Chocobo líder
 MST_MONSTER_NAME_202071002^Bull Chocobo^陸行鳥首領^초코보 두령^Chocobo sombre^Chocoboanführer^Chocobo líder
@@ -5295,7 +5295,7 @@ MST_MONSTER_NAME_202016000^Kaimu^凱姆鳥^카이무^Kaimu^Kaimu^Kaimu
 MST_MONSTER_NAME_107003000^Pyralis^螢光巨龍^퓌랄리스^Pyralis^Pyralis^Pyralis
 MST_MONSTER_NAME_209013003^Desertpede^沙蠍^사막전갈^Scorpion rouge^Wüstenskorpion^Desertípedo
 MST_MONSTER_NAME_209028000^Gloom Worm^陰暗蠕蟲^흑운벌레^Ver sombre^Düsterwurm^Gusano sombrío
-MST_MONSTER_NAME_209038000^Cobaltpede^鈷鐵蠍^코발트피드^Cobaltpède^Kobaltfüßler^Colbaltípedo
+MST_MONSTER_NAME_209038000^Cobaltpede^鈷鐵蜈蚣^코발트피드^Cobaltpède^Kobaltfüßler^Colbaltípedo
 MST_MONSTER_NAME_110008000^Stone Mask^假面石碑^석가면^Masque de pierre^Steinmaske^Máscara de piedra
 MST_MONSTER_NAME_109017009^Tsuchigumo^土蜘蛛^땅거미^Tsuchigumo^Tsuchigumo^Tsuchigumo
 MST_MONSTER_NAME_110013007^Bronze^青銅鎧甲^동상^Bronze^Bronze^Bronce
@@ -5304,7 +5304,7 @@ MST_MONSTER_NAME_205791000^Slender Man^長臉男子^갸름한 얼굴의 남자^H
 MST_MONSTER_NAME_205801000^Sharp-eyed Man^目光銳利的男人^날카로운 눈빛의 남자^Œil aguerri^Scharfäugiger Mann^Ojo agudo
 MST_MONSTER_NAME_107003001^Pyralis^螢光巨龍^퓌랄리스^Pyralis^Pyralis^Pyralis
 MST_MONSTER_NAME_209028001^Gloom Worm^陰暗蠕蟲^흑운벌레^Ver sombre^Düsterwurm^Gusano sombrío
-MST_MONSTER_NAME_209038001^Cobaltpede^鈷鐵蠍^코발트피드^Cobaltpède^Kobaltfüßler^Colbaltípedo
+MST_MONSTER_NAME_209038001^Cobaltpede^鈷鐵蜈蚣^코발트피드^Cobaltpède^Kobaltfüßler^Colbaltípedo
 MST_MONSTER_NAME_110008001^Stone Mask^假面石碑^석가면^Masque de pierre^Steinmaske^Máscara de piedra
 MST_MONSTER_NAME_209013004^Desertpede^沙蠍^사막전갈^Scorpion rouge^Wüstensturm^Desertípedo
 MST_MONSTER_NAME_210006002^Brutus^布爾塔斯^브루터스^Brutus^Brutus^Brutus
@@ -5312,7 +5312,7 @@ MST_MONSTER_NAME_110013008^Bronze^青銅鎧甲^동상^Bronze^Bronze^Bronce
 MST_MONSTER_NAME_210022000^Krokesia^克羅凱吉亞^크로케지아^Krokesia^Krokesia<br>^Krokesia
 MST_MONSTER_NAME_107003002^Pyralis^螢光巨龍^퓌랄리스^Pyralis^Pyralis^Pyralis
 MST_MONSTER_NAME_209028002^Gloom Worm^陰暗蠕蟲^흑운벌레^Ver sombre^Düsterwurm^Gusano sombrío
-MST_MONSTER_NAME_209038002^Cobaltpede^鈷鐵蠍^코발트피드^Cobaltpède^Kobaltfüßler^Colbaltípedo
+MST_MONSTER_NAME_209038002^Cobaltpede^鈷鐵蜈蚣^코발트피드^Cobaltpède^Kobaltfüßler^Colbaltípedo
 MST_MONSTER_NAME_209013005^Desertpede^沙蠍^사막전갈^Scorpion rouge^Wüstensturm^Desertípedo
 MST_MONSTER_NAME_210006003^Brutus^布爾塔斯^브루터스^Brutus^Brutus^Brutus
 MST_MONSTER_NAME_103076000^Fastitocalon^佛卡洛^패스티토칼론^Focalor^Focalor^Focalor
@@ -5338,7 +5338,7 @@ MST_MONSTER_NAME_112034004^Daeva^戴瓦惡魔^다에바^Ectoplasme^Daeva^Daeva
 MST_MONSTER_NAME_207008000^Wyvern Lord^飛龍領主^와이번 로드^Vouivre suzeraine^Wyvernherr^Señor guiverno
 MST_MONSTER_NAME_107003003^Pyralis^螢光巨龍^퓌랄리스^Pyralis^Pyralis^Pyralis
 MST_MONSTER_NAME_209028003^Gloom Worm^陰暗蠕蟲^흑운벌레^Ver sombre^Düsterwurm^Gusano sombrío
-MST_MONSTER_NAME_209038003^Cobaltpede^鈷鐵蠍^코발트피드^Cobaltpède^Kobaltfüßler^Colbaltípedo
+MST_MONSTER_NAME_209038003^Cobaltpede^鈷鐵蜈蚣^코발트피드^Cobaltpède^Kobaltfüßler^Colbaltípedo
 MST_MONSTER_NAME_210006004^Brutus^布爾塔斯^브루터스^Brutus^Brutus^Brutus
 MST_MONSTER_NAME_209013006^Desertpede^沙蠍^사막전갈^Scorpion rouge^Wüstensturm^Desertípedo
 MST_MONSTER_NAME_104027000^Pain Bomb^痛楚爆彈怪^페이니 봄^Bombo gris^Blaubomber^Bom gris
@@ -5523,7 +5523,7 @@ MST_MONSTER_NAME_201077014^Rishyasringa^鹿角仙馬^리쉬야슈링가^Rishyasr
 MST_MONSTER_NAME_201083004^Nubian^努比安^뉴비아^Nubian^Nubian^Nubian
 MST_MONSTER_NAME_209013007^Desertpede^沙蠍^사막전갈^Scorpion rouge^Wüstensturm^Desertípedo
 MST_MONSTER_NAME_209028004^Gloom Worm^陰暗蠕蟲^흑운벌레^Ver sombre^Düsterwurm^Gusano sombrío
-MST_MONSTER_NAME_209038004^Cobaltpede^鈷鐵蠍^코발트피드^Cobaltpède^Kobaltfüßler^Colbaltípedo
+MST_MONSTER_NAME_209038004^Cobaltpede^鈷鐵蜈蚣^코발트피드^Cobaltpède^Kobaltfüßler^Colbaltípedo
 MST_MONSTER_NAME_109017010^Tsuchigumo^土蜘蛛^땅거미^Tsuchigumo^Tsuchigumo^Tsuchigumo
 MST_MONSTER_NAME_107003004^Pyralis^螢光巨龍^퓌랄리스^Pyralis^Pyralis^Pyralis
 MST_MONSTER_NAME_107012001^Azraq^阿茲拉克^아즈라크^Azraq^Azraq^Azraq
@@ -5532,7 +5532,7 @@ MST_MONSTER_NAME_104027002^Pain Bomb^痛楚爆彈怪^페이니 봄^Bombo gris^Bl
 MST_MONSTER_NAME_207018000^Hexadragon^熔龍^멜트 드래곤^Dragosaure^Schmelzdrache^Hexadragón
 MST_MONSTER_NAME_209013008^Desertpede^沙蠍^사막전갈^Scorpion rouge^Wüstenskorpion^Desertípedo
 MST_MONSTER_NAME_209028005^Gloom Worm^陰暗蠕蟲^흑운벌레^Ver sombre^Düsterwurm^Gusano sombrío
-MST_MONSTER_NAME_209038005^Cobaltpede^鈷鐵蠍^코발트피드^Cobaltpède^Kobaltfüßler^Colbaltípedo
+MST_MONSTER_NAME_209038005^Cobaltpede^鈷鐵蜈蚣^코발트피드^Cobaltpède^Kobaltfüßler^Colbaltípedo
 MST_MONSTER_NAME_107003005^Pyralis^螢光巨龍^퓌랄리스^Pyralis^Pryalis^Pyralis
 MST_MONSTER_NAME_107012002^Azraq^阿茲拉克^아즈라크^Azraq^Azraq^Azraq
 MST_MONSTER_NAME_201042004^Desert Baretta^沙漠巴雷塔^사막 바레타^Pétratortoise^Wüstenbaret^Boroto de arena
@@ -5620,9 +5620,9 @@ MST_MONSTER_NAME_104028023^Golden Bomb^黃金炸彈^골든 봄^Bombo doré^Goldb
 MST_MONSTER_NAME_205831000^Yin & Yang^陰與陽^인&얀^Yin et Yang^Yin und Yang^Yin y Yang
 MST_MONSTER_NAME_209081000^Kyuvilduns^尼布爾蟲^큐빌듀누스^Kyuvils^Kyuvilduns^Kyuvilduns
 MST_MONSTER_NAME_407101000^Dragon^巨龍^드래곤^Dragon^Drache^Dragón
-MST_MONSTER_NAME_409011000^Materia Keeper^魔晶石守衛^마테리아 키퍼^Gardien de Materia^Materiahüter^Guardián de materia
-MST_MONSTER_NAME_409011001^Materia Keeper^魔晶石守衛^마테리아 키퍼^Gardien de Materia^Materiahüter^Guardián de materia
-MST_MONSTER_NAME_999024500^Madam Edel^埃德爾夫人^마담 에델^Madame Edel^Madam Edel^Madam Edel
+MST_MONSTER_NAME_409011000^Materia Keeper^魔晶石守衛^마테리아 키퍼^Gardien de Materia^Substanzhalter^Guardián de materia
+MST_MONSTER_NAME_409011001^Materia Keeper^魔晶石守衛^마테리아 키퍼^Gardien de Materia^Substanzhalter^Guardián de materia
+MST_MONSTER_NAME_999024500^Madam Edel^埃德爾夫人^마담 에델^Madame Edel^Dame Edel^Madam Edel
 MST_MONSTER_NAME_102032001^Red Peak^紅峰鳥^레드 피크^Bec rouge^Roter Gipfel^Pico rojo
 MST_MONSTER_NAME_102071000^Flame Fowl^火焰禽鳥^화염식조^Volaille de flammes^Flammengeflügel^Ave flamígera
 MST_MONSTER_NAME_202018002^Bennu^貝努鳥^벤누^Bennu^Bennu^Bennu
@@ -5800,7 +5800,7 @@ MST_MONSTER_NAME_201084001^Ibex^野山羊^아이벡스^Ibex^Ibex^Ibex
 MST_MONSTER_NAME_109017011^Tsuchigumo^土蜘蛛^땅거미^Tsuchigumo^Tsuchigumo^Tsuchigumo
 MST_MONSTER_NAME_209013009^Desertpede^沙蠍^사막전갈^Scorpion rouge^Wüstenskorpion^Desertípedo
 MST_MONSTER_NAME_209028006^Gloom Worm^陰暗蠕蟲^흑운벌레^Ver sombre^Düsterwurm^Gusano sombrío
-MST_MONSTER_NAME_209038006^Cobaltpede^鈷鐵蠍^코발트피드^Cobaltpède^Kobaltfüßler^Colbaltípedo
+MST_MONSTER_NAME_209038006^Cobaltpede^鈷鐵蜈蚣^코발트피드^Cobaltpède^Kobaltfüßler^Colbaltípedo
 MST_MONSTER_NAME_207018002^Hexadragon^熔龍^멜트 드래곤^Dragosaure^Schmelzdrache^Hexadragón
 MST_MONSTER_NAME_107012003^Azraq^阿茲拉克^아즈라크^Azraq^Azraq^Azraq
 MST_MONSTER_NAME_107003007^Pyralis^螢光巨龍^퓌랄리스^Pyralis^Pyralis^Pyralis
@@ -5812,7 +5812,7 @@ MST_MONSTER_NAME_105132009^Aldore Heavy Gunner^阿爾多爾重砲兵^알도르 �
 MST_MONSTER_NAME_206092006^A-Type Magitek Armor+^A式魔導裝甲改^개량형 A식 마도 아머^Armure magitech type-A +^Magitek-Mech-Typ-A+^Unidad Magitec tipo A+
 MST_MONSTER_NAME_206027000^Oberon^奧伯龍^오베론^Oberon^Oberon^Oberon
 MST_MONSTER_NAME_112035000^Resheph^羅沙普^레세프^Resheph^Resheph^Resheph
-MST_MONSTER_NAME_112018000^Gheist^靈體^가이스트^Gylbart^Gheist^Gylbart
+MST_MONSTER_NAME_112018000^Gheist^靈體^가이스트^Gheist^Gheist^Gylbart
 MST_MONSTER_NAME_112045014^Viridian Head^碧綠頭骨^청록 해골^Tête viridiane^Viridanischer Kopf^Cabeza viridiana
 MST_MONSTER_NAME_306017001^Adrastea^阿德剌斯特亞^아드라스테아^Adrastea^Adrastea^Adrastea
 MST_MONSTER_NAME_105124004^Aldore Guard^阿爾多爾警備兵^알도르 경비병^Garde d'Aldore^Aldore-Wache^Guardia de Aldore
@@ -5908,7 +5908,7 @@ MST_MONSTER_NAME_105241007^Elder Soldier^前輩士兵^선배 병사^Soldat vét�
 MST_MONSTER_NAME_105044014^Sergeant^中士^십인대장^Sergent^Feldwebel^Sargento
 MST_MONSTER_NAME_105046001^Grandshelt High Officer^格蘭謝爾特上級士官^그랑셸트 상급 사관^Officier gradé de Grandshelt^Oberoffizier Grandshelts^Alto oficial de Grandshelt
 MST_MONSTER_NAME_105047004^Grandshelt Knight Captain^格蘭謝爾特騎士團隊長^그랑셸트 기사단 대장^Paladin de Grandshelt^Grandshelt-Ritterkapitän^Paladín de Grandshelt
-MST_MONSTER_NAME_105015000^Flare^核爆魔法師^플레어^Thaumaturge^Flare^Fulgor
+MST_MONSTER_NAME_105015000^Flare^核爆魔法師^플레어^Thaumaturge^Pyromant^Fulgor
 MST_MONSTER_NAME_101013006^Mu^畝鼠^무^Eskuriax^Mu^Mu
 MST_MONSTER_NAME_111002023^Human Trap^惡魔植物^악마의 덩굴^Plante carnivore^Menschenfalle^Planta devoradora
 MST_MONSTER_NAME_109001013^Hornet^大黃蜂^말벌^Frelon^Hornisse^Anofeles

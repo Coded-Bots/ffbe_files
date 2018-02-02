@@ -1338,7 +1338,7 @@ UNIT_SORT_TYPE_SERIES^Series^系列^시리즈^Séries^Reihe^Series
 ATTACK_ELEMENT^Elemental Attack^屬性攻擊^속성 공격^Attaque élémentaire ^Elementarangriff^Ataque elemental
 ATTACK_BAD_STATUS^Status Ailment Attack^狀態異常攻擊^상태이상 공격^Attaque à altération d'état ^Zustandsangriff^Ataque de estado alterado
 CRAFT^Craft^製作^제작실^Fabriquer ^Herstellen^Elaboración
-GACHA_DETAIL^Drop Rates^出現機率^제공 비율^Taux d'apparition ^Drop-Wahrscheinlichkeit^Ratio de aparición
+GACHA_DETAIL^Drop Rates^出現機率^제공 비율^Taux d'apparition ^Drop-Wahrscheinlichkeit^Ratios de aparición
 GACHA_EFFECT_ERROR^Failed to display summon animation. Skipping to result screen.^召喚效果動畫播放失敗。跳轉至結果畫面。^소환 연출 재생에 실패했습니다. 결과 화면으로 넘어갑니다.^Échec du lancement de l'animation de l'invocation. Passage à l'écran des résultats.^Beschwörungsanimation konnte nicht angezeigt werden. Springe zum Ergebnisbildschirm.^Error al mostrar animación de invocación. Se pasará a la pantalla de resultado.
 MISSION_FRIEND_REQUEST_ASK^Send a friend request to your companion?^要向這次的同行者申請好友嗎？^이번 동행자에게 친구 신청을 하시겠습니까?^Envoyer une demande d'ami à votre partenaire ?^Freundschaftsanfrage an deinen Begleiter senden?^¿Quieres solicitar amistad a tu compañero?
 CHL_REWARD_DESC^Completion rewards will be sent to your message box.^完成報酬將發放到收信箱。^달성 보상은 메시지로 지급됩니다.^Les récompenses de réussite seront envoyées dans votre messagerie.^Belohnungen werden in deinem Posteingang hinterlegt.^Las recompensas se enviarán a tu buzón.
@@ -2017,3 +2017,13 @@ SERVER_MSG_500^No missions to unlock^沒有可以解鎖的挑戰^개방할 미�
 SERVER_MSG_501^Items required to unlock mission not held^解鎖挑戰所需的道具不足^미션을 개방하기 위해 필요한 아이템이 없습니다.^Vous ne possédez pas les objets nécessaires pour débloquer la mission^Gegenstand zum Freischalten der Mission nicht verfügbar.^No tienes los objetos suficientes para desbloquear esta misión.
 SERVER_MSG_502^Mission needs to be unlocked^挑戰需經過解鎖^미션이 개방되어야 합니다.^La mission doit être débloquée^Mission muss freigeschalten werden.^Hay que desbloquear la misión.
 SERVER_MSG_504^Mission is already unlocked^挑戰已經解鎖^미션이 이미 개방되었습니다.^La mission est déjà débloquée^Mission ist bereits freigeschalten.^La misión ya está desbloqueada.
+SERVER_MSG_251^A ticket which cannot be used for this summon has been used. <br/>Returning to title as information could not be correctly retrieved.^^^^^Se ha usado un tícket que no podía usarse para esta invocación.<br/>Volviendo al juego al no haberse podido recuperar la información correctamente.
+SERVER_MSG_252^Summon information has been updated.<br>Returning to title.^^^^^La información de invocación ha sido actualizada.<br>Volviendo al juego.
+SERVER_MSG_253^The reception period for this mission reward has ended.<br>Returning to title as data has been updated.^^^^^El periodo para recibir la recompensa de esta misión se ha acabado.<br>Volviendo al juego tras haberse actualizado los datos.
+SERVER_MSG_254^Date has been updated.<br>Returning to title in order to retrieve consecutive login days.^^^^^Los datos han sido actualizados.<br>Volviendo al juego para recuperar los inicios de sesión durante días consecutivos.
+SERVER_MSG_255^The event period has ended.<br>Returning to title.^^^^^El periodo del evento ha concluido.<br>Volviendo al juego.
+SERVER_MSG_256^Conditions to receive reward have not been met.^^^^^No se han cumplido las condiciones para recibir la recompensa.
+SERVER_MSG_257^Units selected for expeditions cannot be awoken.^^^^^Las unidades seleccionadas para las expediciones no pueden ser despertadas.
+SERVER_MSG_258^Could not retrieve expedition data.^^^^^No se pudieron recuperar los datos de la expedición.
+SERVER_MSG_259^Could not retrieve information for several units.^^^^^No se pudo recuperar la información de varias unidades.
+GACHA_CONF_CASH^Cash Summon^^^^^Pagar invocación

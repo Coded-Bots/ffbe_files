@@ -34,7 +34,7 @@ MST_ITEM_NAME_104002200^Heavenly Wrath^眾神之怒^신들의 분노^Ire célest
 MST_ITEM_NAME_104003100^Fish Scale^魚之鱗^물고기 비늘^Écaille de poisson^Fischschuppe^Escama de pez
 MST_ITEM_NAME_104003200^Dragon Scale^龍之鱗^용 비늘^Écaille de dragon^Drachenschuppe^Escama de dragón
 MST_ITEM_NAME_104004100^Giant Feather^巨鳥羽毛^거대 새의 깃털^Plume géante^Riesenfeder^Pluma de gran ave
-MST_ITEM_NAME_104004200^Wyvern Feather^雙足飛龍羽毛^와이번의 날개^Plume de wyverne^Lindwurmfeder^Pluma de guiverno
+MST_ITEM_NAME_104004200^Wyvern Feather^雙足飛龍羽毛^와이번의 날개^Plume de wyverne^Wyvernfeder^Pluma de guiverno
 MST_ITEM_NAME_104005100^Earth Drum^大地之鼓^대지의 북^Tambour terrien^Erdentrommel^Tambor de tierra
 MST_ITEM_NAME_104005200^Gaia's Cry^大地之歎^대지의 진동^Gémissement de Gaïa^Erdengrollen^Llanto de Gaia
 MST_ITEM_NAME_104006100^Red Fang^紅色獠牙^붉은 송곳니^Croc Rouge^Roter Reißzahn^Colmillo rojo
@@ -510,7 +510,7 @@ MST_ITEM_NAME_106210700^Black Phantom Ore^黑幻礦^검정 환상광석^Minerai 
 MST_ITEM_NAME_106210800^Yellow Phantom Ore^黃幻礦^노란 환상광석^Minerai fantôme jaune^Gelbes Phantomerz^Mineral fantasma amarillo
 MST_ITEM_NAME_106210900^Orange Phantom Ore^橙幻礦^주황 환상광석^Minerai fantôme orange^Oranges Phantomerz^Mineral fantasma naranja
 MST_ITEM_NAME_106211000^Violet Phantom Ore^紫幻礦^보라 환상광석^Minerai fantôme violet^Violettes Phantomerz^Mineral fantasma púrpura
-MST_ITEM_NAME_106211100^Crimson Gem^紅寶玉^진홍의 보옥^Minerai fantôme pourpre^Purpurnes Phantomerz^Mineral fantasma carmesí
+MST_ITEM_NAME_106211100^Crimson Gem^紅寶玉^진홍의 보옥^Minerai fantôme pourpre^Purpurnes Phantomerz^Gema carmesí
 MST_ITEM_NAME_106303400^Garuda Raid Coin^風神迦樓羅共鬥硬幣^바람신 가루다 레이드 코인^Jeton de Garuda^Garuda Raubzugmünze^Moneda de Garuda
 MST_ITEM_NAME_106303500^MA-X Maniple Raid Coin^瑪尼普魯斯共鬥硬幣^매니플스 레이드 코인^Jeton d'AM-X Manipulus^Maniplus-Mech Raubzugmünze^Moneda de Manipulus G
 MST_ITEM_NAME_106303600^Urutan Flower^兀魯坦之花^우루탄의 꽃^Fleur d'Urutan^Urutan-Blume^Flor de Urutan
@@ -575,4 +575,10 @@ MST_ITEM_NAME_1209000854^Royal Wind Orb^風王寶珠^바람의 킹 오브^Orbe r
 MST_ITEM_NAME_1209000855^Royal Water Orb^水王寶珠^물의 킹 오브^Orbe royal d'eau^Königlicher Wasserjuwel^Orbe real de agua
 MST_ITEM_NAME_1209000856^Royal Dark Orb^暗王寶珠^어둠의 킹 오브^Orbe royal de ténèbres^Königlicher Dunkeljuwel^Orbe real de oscuridad
 MST_ITEM_NAME_1209000857^Royal Light Orb^光王寶珠^빛의 킹 오브^Orbe royal de lumière^Königlicher Lichtjuwel^Orbe real de luz
-MST_ITEM_NAME_1209000858^Regalite^王者寶石^킹 스톤^Regalite^Regalit^Regalita
+MST_ITEM_NAME_1209000858^Regalite^王者寶石^킹 스톤^Régalite^Regalit^Regalita
+MST_ITEM_NAME_1209000859^Tung Oil^桐油^등유^Résine de tung ^Tungöl^Aceite de tung
+MST_ITEM_NAME_1209000860^Moon Jade^月亮翡翠^달의 비취^Lune de jade^Mondjade^Luna de jade
+MST_ITEM_NAME_1209000861^Sun Jade ^太陽翡翠^태양의 비취^Soleil de jade^Sonnenjade^Sol de jade
+MST_ITEM_NAME_1209000862^Fire Opal^火蛋白石^파이어 오팔^Opale de feu^Feueropal^Ópalo de fuego
+MST_ITEM_NAME_1209000863^Red Flax^紅色亞麻^붉은색 아마^Lin rouge^Rotes Flachs^Lino rojo
+MST_ITEM_NAME_1209000864^Gold Flax^金色亞麻^황금색 아마^Lin doré^Goldenes Flachs^Lino dorado

@@ -103,7 +103,7 @@ MST_MONSTERDICTIONARY_NAME_2060010^Magitek Armor^魔導裝甲^마도 아머^Armu
 MST_MONSTERDICTIONARY_NAME_2060110^Centipede^蜈蚣裝甲^로봇 지네^Centipède^Hundertfüßler^Ciempiés
 MST_MONSTERDICTIONARY_NAME_2060120^Scolopendra^鋼鐵裝甲^강철 지네^Scolopendre^Scolopendra^Escolopendra
 MST_MONSTERDICTIONARY_NAME_2060210^Epimetheus^厄庇墨透斯^에피메테우스^Épiméthée^Epimetheus^Epimeteo
-MST_MONSTERDICTIONARY_NAME_2070010^Wyvern^雙足飛龍^와이번^Wyverne^Lindwurm^Guiverno
+MST_MONSTERDICTIONARY_NAME_2070010^Wyvern^雙足飛龍^와이번^Wyverne^Wyvern^Guiverno
 MST_MONSTERDICTIONARY_NAME_2070020^Wyrm^雙足巨龍^비룡^Wyrm^Wyrm^Draco
 MST_MONSTERDICTIONARY_NAME_2070110^Allosaur^異龍^알로사우루스^Allosaure^Allosaurus^Alosaurio
 MST_MONSTERDICTIONARY_NAME_2070120^Tyrannosaur^暴龍^티라노사우루스^Tyrannosaure^Tyrannosaurus^Tiranosaurio
@@ -889,7 +889,7 @@ MST_MONSTERDICTIONARY_NAME_3011410^Chimera^奇美拉^키마이라^Khimaira^Chim�
 MST_MONSTERDICTIONARY_NAME_3020310^Zenker^鳥人^젠커^Zenker^Tzenker^Zenker
 MST_MONSTERDICTIONARY_NAME_3030410^Metal Crab^金屬蟹^풀메탈하거^Crabe métallique^Metallkrabbe^Cangrejo metálico
 MST_MONSTERDICTIONARY_NAME_3100010^Genoa^讓努瓦^제노아^Eugennoix^Genova^Genoa
-MST_MONSTERDICTIONARY_NAME_3052410^Shadow Knight^暗影騎士^섀도우 나이트^Chevalier sombre^Schattenritter^Caballero oscuro
+MST_MONSTERDICTIONARY_NAME_3052410^Shadow Knight^暗影騎士^섀도우 나이트^Chevalier sombre^Schattenherrscher^Caballero oscuro
 MST_MONSTERDICTIONARY_NAME_2010760^Gungan Horse^群岩馬^건간 호스^Cheval Gungan^Gunganpferd^Caballo gungan
 MST_MONSTERDICTIONARY_NAME_1110860^Aconite^烏頭^아코나이트^Aconite^Eisenhut^Acónito
 MST_MONSTERDICTIONARY_NAME_2090320^Chainsect^密林蜈蚣^밀림지네^Combinsecte^Kettinsekt^Cadenoide
@@ -926,7 +926,7 @@ MST_MONSTERDICTIONARY_NAME_2020710^Bull Chocobo^陸行鳥首領^초코보 두령
 MST_MONSTERDICTIONARY_NAME_2031010^Speartongue^長臂蛙^리프 프로그^Crapaud baveur^Lichkröte^Lengüilargo
 MST_MONSTERDICTIONARY_NAME_2031110^Yensa^焉薩魚^옌사^Yensa^Yensa^Yensa
 MST_MONSTERDICTIONARY_NAME_3030510^Urutan Eater^兀魯坦吞噬者^우루탄 이터^Urutanovore^Urutan-Fresser^Yensáfago
-MST_MONSTERDICTIONARY_NAME_3070710^Wyvern^雙足飛龍^와이번^Vouivre^Lindwurm^Guiverno
+MST_MONSTERDICTIONARY_NAME_3070710^Wyvern^雙足飛龍^와이번^Vouivre^Wyvern^Guiverno
 MST_MONSTERDICTIONARY_NAME_3080610^Salamand Entite^精靈沙拉曼多^정령 샐러맨더^Esprit de Salamandre^Salamander^Alma Salamandra
 MST_MONSTERDICTIONARY_NAME_4100110^Degumin^特古明^테그민^Degumin^Degumin^Degumín
 MST_MONSTERDICTIONARY_NAME_1052210^Bandit^強盜^밴디트^Bandit^Bandit^Bandido
@@ -957,7 +957,7 @@ MST_MONSTERDICTIONARY_NAME_2057910^Slender Man^長臉男子^갸름한 얼굴의 
 MST_MONSTERDICTIONARY_NAME_2058010^Sharp-eyed Man^目光銳利的男人^날카로운 눈빛의 남자^Œil aguerri^Scharfäugiger Mann^Ojo agudo
 MST_MONSTERDICTIONARY_NAME_2070080^Wyvern Lord^飛龍領主^와이번 로드^Vouivre suzeraine^Wyvernherr^Señor guiverno
 MST_MONSTERDICTIONARY_NAME_2090280^Gloom Worm^陰暗蠕蟲^흑운벌레^Ver sombre^Düsterwurm^Gusano sombrío
-MST_MONSTERDICTIONARY_NAME_2090380^Cobaltpede^鈷鐵蠍^코발트피드^Cobaltpède^Kobaltfüßler^Colbaltípedo
+MST_MONSTERDICTIONARY_NAME_2090380^Cobaltpede^鈷鐵蜈蚣^코발트피드^Cobaltpède^Kobaltfüßler^Colbaltípedo
 MST_MONSTERDICTIONARY_NAME_2100220^Krokesia^克羅凱吉亞^크로케지아^Krokesia^Krokesia^Krokesia
 MST_MONSTERDICTIONARY_NAME_3020410^Phoenix^地獄鳳凰^피닉스^Phénix^Phönix^Fénix
 MST_MONSTERDICTIONARY_NAME_3060170^Adrastea^阿德剌斯特亞^아드라스테아^Adrastea^Adrastea^Adrastea
@@ -989,7 +989,7 @@ MST_MONSTERDICTIONARY_NAME_3052710^Zolulu of the Lambda Star^十一鬥星佐魯�
 MST_MONSTERDICTIONARY_NAME_3052810^Delulu of the Mu Star^十二鬥星德魯魯^십이성투사 데루루^Delulu de l'étoile Mu^Mu-Stern-Delulu^Delulu de la estrella Mu
 MST_MONSTERDICTIONARY_NAME_3052910^Nagi of the Iota Star^九鬥星那岐^구성투사 나기^Nagi de l'étoile Iota^Iota-Stern-Nagi^Nagi de la estrella Iota
 MST_MONSTERDICTIONARY_NAME_3060050^Hygiea^許癸厄亞^히기에이아^Hygiea^Hygiea^Hygiea
-MST_MONSTERDICTIONARY_NAME_9990245^Madam Edel^埃德爾夫人^마담 에델^Madame Edel^Madam Edel^Madam Edel
+MST_MONSTERDICTIONARY_NAME_9990245^Madam Edel^埃德爾夫人^마담 에델^Madame Edel^Dame Edel^Madam Edel
 MST_MONSTERDICTIONARY_NAME_1020710^Flame Fowl^火焰禽鳥^화염식조^Volaille de flammes^Flammengeflügel^Ave flamígera
 MST_MONSTERDICTIONARY_NAME_1040710^Fire Bomb Junior^火炸彈小鬼^파이어 봄 주니어^Bombo Jr. ardent^Feuerbomber Jr.^Bom ígneo junior
 MST_MONSTERDICTIONARY_NAME_1040810^Ice Bomb Junior^冰炸彈小鬼^아이스 봄 주니어^Bombo Jr. gelé^Eisbomber Jr.^Bom gélido junior
@@ -1009,7 +1009,7 @@ MST_MONSTERDICTIONARY_NAME_2058310^Yin & Yang^陰與陽^인&얀^Yin et Yang^Yin 
 MST_MONSTERDICTIONARY_NAME_3011510^Lost Number^遺失的數字^로스트 넘버^Numéro perdu^Nummernlos^Número perdido
 MST_MONSTERDICTIONARY_NAME_2090810^Kyuvilduns^尼布爾蟲^큐빌듀누스^Kyuvils^Kyuvilduns^Kyuvilduns
 MST_MONSTERDICTIONARY_NAME_4071010^Dragon^巨龍^드래곤^Dragon^Drache^Dragón
-MST_MONSTERDICTIONARY_NAME_4090110^Materia Keeper^魔晶石守衛^마테리아 키퍼^Gardien de Materia ^Materiahüter^Guardián de materia
+MST_MONSTERDICTIONARY_NAME_4090110^Materia Keeper^魔晶石守衛^마테리아 키퍼^Gardien de Materia ^Substanzhalter^Guardián de materia
 MST_MONSTERDICTIONARY_NAME_1010220^Silver Wolf^銀狼^은랑^Loup d'argent^Silberwolf^Lobo plateado
 MST_MONSTERDICTIONARY_NAME_2010180^Sorath^惡魔熊^소라트^Sorath^Sorath^Sorath
 MST_MONSTERDICTIONARY_NAME_2010080^Mad Tyrant^瘋狂的暴君^광폭한 폭군^Tyran fou^Irrer Tyrann^Tirano desviado
@@ -1042,7 +1042,7 @@ MST_MONSTERDICTIONARY_NAME_1052510^Training Dummy^訓練用木兵^훈련용 나�
 MST_MONSTERDICTIONARY_NAME_3010170^Apanda^阿班達^아판다^Apanda^Apanda^Appanda
 MST_MONSTERDICTIONARY_NAME_3030030^Paramecium^草履蟲^짚신벌레^Paramecium^Paramecium^Paramecio
 MST_MONSTERDICTIONARY_NAME_4040210^Brachium^布拉奇烏姆^브라키움^Brachium^Brachium^Braquio
-MST_MONSTERDICTIONARY_NAME_1050150^Flare^核爆魔法師^플레어^Thaumaturge^Flare^Fulgor
+MST_MONSTERDICTIONARY_NAME_1050150^Flare^核爆魔法師^플레어^Thaumaturge^Pyromant^Fulgor
 MST_MONSTERDICTIONARY_NAME_2010140^Lost Bear^迷路熊^미로곰^Ours perdu^Verlorener Bär^Oso perdido
 MST_MONSTERDICTIONARY_NAME_1050550^Harvester^惡徒^바이스^Cueilleur^Husard^Cosechador
 MST_MONSTERDICTIONARY_NAME_2110370^Rough Flower^巨大食人花^폭소화^Fleur robuste ^Derbe Blume^Flor robusta
