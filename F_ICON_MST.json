@@ -575,6 +575,21 @@
         "qtkvrS60": "global_ability_10021.png"
     }, 
     {
+        "0HUPxDf1": "910830", 
+        "G4L0YIB2": "Lovers icon", 
+        "qtkvrS60": "global_ability_10023.png"
+    }, 
+    {
+        "0HUPxDf1": "910851", 
+        "G4L0YIB2": "Ang Arrows", 
+        "qtkvrS60": "global_ability_10022.png"
+    }, 
+    {
+        "0HUPxDf1": "910866", 
+        "G4L0YIB2": "Ang Yan Friendship", 
+        "qtkvrS60": "global_ability_10023.png"
+    }, 
+    {
         "0HUPxDf1": "1000001", 
         "G4L0YIB2": "バトルマスアイコン", 
         "qtkvrS60": "runningevent_icon_battle.png"
@@ -2838,6 +2853,11 @@
         "0HUPxDf1": "9000032", 
         "G4L0YIB2": "Kings Knight Gametitle", 
         "qtkvrS60": "dic_kingsknight.png"
+    }, 
+    {
+        "0HUPxDf1": "9000034", 
+        "G4L0YIB2": "Kanshou and Bakuya", 
+        "qtkvrS60": "global_spd_bn_list_00030.png"
     }, 
     {
         "0HUPxDf1": "10100100", 
@@ -11050,6 +11070,51 @@
         "qtkvrS60": "global_equip_10072.png"
     }, 
     {
+        "0HUPxDf1": "1100000133", 
+        "G4L0YIB2": "Sun Breaker", 
+        "qtkvrS60": "global_equip_10073.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000134", 
+        "G4L0YIB2": "Flax Shield", 
+        "qtkvrS60": "global_equip_10074.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000135", 
+        "G4L0YIB2": "Jade Pendant of Moon", 
+        "qtkvrS60": "global_equip_10075.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000136", 
+        "G4L0YIB2": "Jade Pendant of Sun", 
+        "qtkvrS60": "global_equip_10076.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000137", 
+        "G4L0YIB2": "Fiery Passion", 
+        "qtkvrS60": "global_equip_10077.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000138", 
+        "G4L0YIB2": "Lunar Parasol", 
+        "qtkvrS60": "global_equip_10078.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000139", 
+        "G4L0YIB2": "Lucky Ingot", 
+        "qtkvrS60": "global_equip_10079.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000140", 
+        "G4L0YIB2": "Kanshou Great Sword", 
+        "qtkvrS60": "global_equip_10080.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000141", 
+        "G4L0YIB2": "Bakuya Sword", 
+        "qtkvrS60": "global_equip_10081.png"
+    }, 
+    {
         "0HUPxDf1": "1106300100", 
         "G4L0YIB2": "MogCake", 
         "qtkvrS60": "global_item_10011.png"
@@ -11363,6 +11428,36 @@
         "0HUPxDf1": "1209000858", 
         "G4L0YIB2": "Regalite", 
         "qtkvrS60": "global_item_10153.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000859", 
+        "G4L0YIB2": "Tung Oil", 
+        "qtkvrS60": "global_item_10157.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000860", 
+        "G4L0YIB2": "Moon Jade", 
+        "qtkvrS60": "global_item_10158.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000861", 
+        "G4L0YIB2": "Sun Jade", 
+        "qtkvrS60": "global_item_10159.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000862", 
+        "G4L0YIB2": "Fire Opal", 
+        "qtkvrS60": "global_item_10160.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000863", 
+        "G4L0YIB2": "Red Flax", 
+        "qtkvrS60": "global_item_10161.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000864", 
+        "G4L0YIB2": "Gold Flax", 
+        "qtkvrS60": "global_item_10162.png"
     }, 
     {
         "0HUPxDf1": "1300000001", 

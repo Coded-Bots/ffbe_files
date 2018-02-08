@@ -4854,11 +4854,11 @@ MST_MONSTER_NAME_103012933^Yellow Jelly^黃色膠質怪^노란 젤리^Flan jaune
 MST_MONSTER_NAME_101023933^Wild Nakk^野狼^사나운 늑대^Nakk sauvage^Wildhund^Nakk salvaje
 MST_MONSTER_NAME_101002934^Stunner^強襲鼠^스터너^Rat enragé^Narko-Ratte^Abrebocas
 MST_MONSTER_NAME_301031001^Chocobo Eater^陸行鳥殺手^초코보 포식자^Dévoreur de chocobos^Chocogourmet^Comechocobos
-MST_MONSTER_NAME_402011000^Garuda, Lady of the Vortex^風神迦樓羅^바람신 가루다^Garuda, dame du Vortex^Garuda, Dame des Vortex^Garuda, señora del vórtice
-MST_MONSTER_NAME_402011001^Garuda, Lady of the Vortex^風神迦樓羅^바람신 가루다^Garuda,^Garuda, Dame des Vortex^Garuda, señora del vórtice
-MST_MONSTER_NAME_402011002^Garuda, Lady of the Vortex^風神迦樓羅^바람신 가루다^Garuda, dame du Vortex^Garuda, Dame des Vortex^Garuda, señora del vórtice
-MST_MONSTER_NAME_402011003^Garuda, Lady of the Vortex^風神迦樓羅^바람신 가루다^Garuda, dame du Vortex^Garuda, Dame des Vortex^Garuda, señora del vórtice
-MST_MONSTER_NAME_402011004^Garuda, Lady of the Vortex^風神迦樓羅^바람신 가루다^Garuda, dame du Vortex^Garuda, Dame des Vortex^Garuda, señora del vórtice
+MST_MONSTER_NAME_402011000^Garuda^風神迦樓羅^바람신 가루다^Garuda, dame du Vortex^Garuda, Dame des Vortex^Garuda, señora del vórtice
+MST_MONSTER_NAME_402011001^Garuda^風神迦樓羅^바람신 가루다^Garuda,^Garuda, Dame des Vortex^Garuda, señora del vórtice
+MST_MONSTER_NAME_402011002^Garuda^風神迦樓羅^바람신 가루다^Garuda, dame du Vortex^Garuda, Dame des Vortex^Garuda, señora del vórtice
+MST_MONSTER_NAME_402011003^Garuda^風神迦樓羅^바람신 가루다^Garuda, dame du Vortex^Garuda, Dame des Vortex^Garuda, señora del vórtice
+MST_MONSTER_NAME_402011004^Garuda^風神迦樓羅^바람신 가루다^Garuda, dame du Vortex^Garuda, Dame des Vortex^Garuda, señora del vórtice
 MST_MONSTER_NAME_202051000^Suparna^美翼^수파르나^Suparna^Suparna^Suparna
 MST_MONSTER_NAME_202061000^Chirada^妙翅^치라다^Chirada^Chirada^Chirada
 MST_MONSTER_NAME_110031000^Monolith^石塔^석탑^Monolithe^Monolith^Monolito
@@ -5992,3 +5992,32 @@ MST_MONSTER_NAME_900010395^Tolfidan^托爾菲丹^톨피단^Tolfidan^Tolfidan^Tol
 MST_MONSTER_NAME_900010396^Tolfidan^托爾菲丹^톨피단^Tolfidan^Tolfidan^Tolfidan
 MST_MONSTER_NAME_900010397^Tolfidan^托爾菲丹^톨피단^Tolfidan^Tolfidan^Tolfidan
 MST_MONSTER_NAME_900010398^Tolfidan^托爾菲丹^톨피단^Tolfidan^Tolfidan^Tolfidan
+MST_MONSTER_NAME_900010426^Kanshou^干將^간장^Kanshou^Kanshou^Kanshou
+MST_MONSTER_NAME_900010427^Bakuya^莫邪^막야^Bakuya^Bakuya^Bakuya
+MST_MONSTER_NAME_900010420^Kanshou^干將^간장^Kanshou^Kanshou^Kanshou
+MST_MONSTER_NAME_900010421^Bakuya^莫邪^막야^Bakuya^Bakuya^Bakuya
+MST_MONSTER_NAME_900010422^Kanshou^干將^간장^Kanshou^Kanshou^Kanshou
+MST_MONSTER_NAME_900010423^Bakuya^莫邪^막야^Bakuya^Bakuya^Bakuya
+MST_MONSTER_NAME_900010424^Kanshou^干將^간장^Kanshou^Kanshou^Kanshou
+MST_MONSTER_NAME_900010425^Bakuya^莫邪^막야^Bakuya^Bakuya^Bakuya
+MST_MONSTER_NAME_900010399^Sprinter^駭鳥^질주자^Sprinteur^Sprinter^Velocista
+MST_MONSTER_NAME_900010400^Purusa^普魯沙熊^푸루샤^Purusha^Prusha^Purusa
+MST_MONSTER_NAME_900010401^Werepanther^變異豹^변종 커얼^Jaguar-garou^Werpanther^Toxipantera
+MST_MONSTER_NAME_900010402^Gloom Widow^幽寡婦^암흑 과부거미^Veuve obscure^Dunkle Witwe^Viuda triste
+MST_MONSTER_NAME_900010403^Death Stalker^死亡潛蠍^데스 스토커^Harceleur obscur^Todesverfolger^Merodeador oscuro
+MST_MONSTER_NAME_900010404^Dragon Junior^幼龍^작은 드래곤^Petit dragon^Mikrodrache^Dragón neonato
+MST_MONSTER_NAME_900010405^Sprinter^駭鳥^질주자^Sprinteur^Sprinter^Velocista
+MST_MONSTER_NAME_900010406^Purusa^普魯沙熊^푸루샤^Purusha^Prusha^Purusa
+MST_MONSTER_NAME_900010407^Werepanther^變異豹^변종 커얼^Jaguar-garou^Werpanther^Toxipantera
+MST_MONSTER_NAME_900010408^Gloom Widow^幽寡婦^암흑 과부거미^Veuve obscure^Dunkle Witwe^Viuda triste
+MST_MONSTER_NAME_900010409^Death Stalker^死亡潛蠍^데스 스토커^Harceleur obscur^Todesverfolger^Merodeador oscuro
+MST_MONSTER_NAME_900010410^Dragon Junior^幼龍^작은 드래곤^Petit dragon^Mikrodrache^Dragón neonato
+MST_MONSTER_NAME_900010411^Sprinter^駭鳥^질주자^Sprinteur^Sprinter^Velocista
+MST_MONSTER_NAME_900010412^Purusa^普魯沙熊^푸루샤^Purusha^Prusha^Purusa
+MST_MONSTER_NAME_900010413^Werepanther^變異豹^변종 커얼^Jaguar-garou^Werpanther^Toxipantera
+MST_MONSTER_NAME_900010414^Gloom Widow^幽寡婦^암흑 과부거미^Veuve obscure^Dunkle Witwe^Viuda triste
+MST_MONSTER_NAME_900010415^Death Stalker^死亡潛蠍^데스 스토커^Harceleur obscur^Todesverfolger^Merodeador oscuro
+MST_MONSTER_NAME_900010416^Dragon Junior^幼龍^작은 드래곤^Petit dragon^Mikrodrache^Dragón neonato
+MST_MONSTER_NAME_900010417^Rokh^不死巨鳥^암제스^Rokh^Rokh^Rokh
+MST_MONSTER_NAME_900010418^Rokh^不死巨鳥^암제스^Rokh^Rokh^Rokh
+MST_MONSTER_NAME_900010419^Rokh^不死巨鳥^암제스^Rokh^Rokh^Rokh

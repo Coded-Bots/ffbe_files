@@ -1551,7 +1551,7 @@ MST_ABILITY_NAME_910060^Slow Ballad^抒情慢歌^발라드^Slow^Langsame Ballade
 MST_ABILITY_NAME_910061^Pre-chorus^導歌^프리 코러스^Chœurs^Eingangschor^Precoro
 MST_ABILITY_NAME_910095^Passion^熱情^열정^Passion^Leidenschaft^Pasión
 MST_ABILITY_NAME_910096^Symphonic Flair^交響樂天賦^심포닉 플레어^Style symphonique^Sinfonisches Flair^Estilo sinfónico
-MST_ABILITY_NAME_910071^Angry Peck^憤怒之喙^분노의 부리^Coup de bec coléreux^Zorneskuss^Picotazo enrabietado
+MST_ABILITY_NAME_910071^Angry Peck^憤怒之喙^분노의 부리^Coup de bec coléreux^Zornesschnabel^Picotazo enrabietado
 MST_ABILITY_NAME_910072^Crimson Rage^真紅之怒^진홍의 분노^Rage pourpre^Purpurwüten^Ira carmesí
 MST_ABILITY_NAME_910073^Friendship^友情^우정^Amitié^Freundschaft^Amistad
 MST_ABILITY_NAME_910074^Raging Bird^憤怒之鳥^분노한 새^Oiseau enragé^Wütender Vogel^Pájaro enrabietado
@@ -1595,7 +1595,7 @@ MST_ABILITY_NAME_910112^Twilight Bolt^暮光閃電^트와일라잇 볼트^Éclai
 MST_ABILITY_NAME_910113^Eldritch Air^恐怖之息^섬뜩한 공기^Air surnaturel^Unheimliche Stimmung^Aire sobrenatural
 MST_ABILITY_NAME_910114^Impair Shot^弱化射擊^손상 사격^Tir réducteur^Schwächender Schuss^Disparo atrofiador
 MST_ABILITY_NAME_910115^Rupture shot^撕裂射擊^파열 사격^Tir déchireur^Reissschuss^Disparo rompedor
-MST_ABILITY_NAME_910116^Relentless^毫不留情^혹독^Implacable^Unachgiebig^Implacable
+MST_ABILITY_NAME_910116^Relentless^毫不留情^혹독^Implacable^Unnachgiebig^Implacable
 MST_ABILITY_NAME_910117^Shadow Barrage^暗影連射^섀도우 집중포화^Rafale sombre^Schattenklinge^Ráfaga sombría
 MST_ABILITY_NAME_910118^Dark Reverie^暗夜美夢^어둠의 몽상^Rêverie obscure^Dunkler Traum^Recuerdo oscuro
 MST_ABILITY_NAME_910119^Chocolate^香濃巧克力^초콜릿^Chocolat^Schokolade^Chocolate
@@ -1682,7 +1682,7 @@ MST_ABILITY_NAME_210140^Power Slash^力量斬擊^힘의 참격^Coup puissant^Mac
 MST_ABILITY_NAME_210150^Solid Earthen Wall^堅固土壁^견고한 흙벽^Mur de terre solide^Solider Irdenwall^Muro terrestre sólido
 MST_ABILITY_NAME_210160^Earth Guard^土壤防禦^땅의 수호^Garde de terre ^Erdwächter^Guardia terrestre
 MST_ABILITY_NAME_210170^I've Got You!^我來保護大夥！^지켜줄 거예요!^Je te protègerai !^Ich pass auf dich auf!^Yo te protegeré
-MST_ABILITY_NAME_210180^Crisis Evasion^迴避危險^위험 회피^Évasion dangereuse ^Krisenvermeidung^Evasión critica
+MST_ABILITY_NAME_210180^Avian Tactics^候鳥振翅^철새의 깃털^Tactique aviaire^Aviäre Taktiken^Táctica aviar
 MST_ABILITY_NAME_210190^Wondrous Power^神秘之力^신비한 힘^Pouvoir étrange^Wundersame Kraft^Poder misterioso
 MST_ABILITY_NAME_210200^Crimson Soul^緋紅之魂^붉은 영혼^Âme pourpre ^Purpurseele^Alma carmesí
 MST_ABILITY_NAME_210210^Push Forward^勇往直前^용왕매진^Avancée courageuse ^Vorwärts^Marcha al frente
@@ -1730,7 +1730,7 @@ MST_ABILITY_NAME_210620^Second Wind^聲援^응원가^Aile renforcée^Rückenwind
 MST_ABILITY_NAME_210630^Crush Armor^強甲破點突^강갑파점 찌르기^Écrase-armure^Rüstung zerschmettern^Perforacoraza
 MST_ABILITY_NAME_210640^March^進軍^진군^Défilé^Marsch^Avante
 MST_ABILITY_NAME_210650^Vigilance^警戒^경계^Vigilance^Wachsamkeit^Vigilancia
-MST_ABILITY_NAME_210660^Crisis Evasion^迴避危險^위험 회피^Évasion dangereuse ^Krisenvermeidung^Evasión critica
+MST_ABILITY_NAME_210660^Stand Back^橫掃敵人^잘라내기^En retrait ^Zurücktreten^Distanciamiento
 MST_ABILITY_NAME_210670^Focus Attention^聚集視線^주목 끌기^Attirer l'attention ^Aufmerksamkeit sammeln^Llamar la atención
 MST_ABILITY_NAME_210680^Wind Resistance +15%^風屬性耐性+15%^바람속성 저항력+15%^Rés. au vent +15%^Windresistenz +15%^Resistencia al viento +15%
 MST_ABILITY_NAME_210690^False Saint^虛偽聖者^거짓된 성자^Imposteur céleste ^Falscher Heiliger^Falso santo
@@ -3481,11 +3481,11 @@ MST_ABILITY_NAME_704910^Manufacture^製造^만들어내기^Manufacture^Produktio
 MST_ABILITY_NAME_704920^Manufacture^製造^만들어내기^Manufacture^Produktion^Manufactura
 MST_ABILITY_NAME_704930^Dwarven Force^矮人潛力^드워프의 저력^Pouvoir nain^Zwergenkraft^Poder enano
 MST_ABILITY_NAME_704940^Dwarven Force^矮人潛力^드워프의 저력^Pouvoir nain^Zwergenkraft^Poder enano
-MST_ABILITY_NAME_218970^Shin-Shard of Genius^真・睿智的結晶^진·예지의 결정^Éclat de génie X^Shin-Splitter des Genies^Fragmento de ingenio+
-MST_ABILITY_NAME_218980^Shin-Follower's Oath^真・追隨者的誓言^진·맹주에게 바치는 맹세^Serment du serviteur X^Shin-Schwur des Anhängers^Voto del servidor+
-MST_ABILITY_NAME_218990^Shin-Hydaelyn Guard^真・海德林的加護^진·하이델린의 가호^Protection d'Hydaelyn X^Shin-Hydaelynische Wache^Guarda de Hydaelyn+
-MST_ABILITY_NAME_219000^Shin-Spirit of Freedom^真・不羈的氣焰^진·불기의 기염^Esprit de liberté X^Shin-Geist der Freiheit^Espíritu libre+
-MST_ABILITY_NAME_219010^Shin-Sage's Prajna^真・賢人的智慧^진·현자의 지혜^Prajna du sage X^Shin-Prajna des Weisen^Prajna del sabio+
+MST_ABILITY_NAME_218970^True Shard of Genius^真・睿智的結晶^진·예지의 결정^Éclat de génie X^Shin-Splitter des Genies^Fragmento de ingenio+
+MST_ABILITY_NAME_218980^True Follower's Oath^真・追隨者的誓言^진·맹주에게 바치는 맹세^Serment du serviteur X^Shin-Schwur des Anhängers^Voto del servidor+
+MST_ABILITY_NAME_218990^True Hydaelyn Guard^真・海德林的加護^진·하이델린의 가호^Protection d'Hydaelyn X^Shin-Hydaelynische Wache^Guarda de Hydaelyn+
+MST_ABILITY_NAME_219000^True Spirit of Freedom^真・不羈的氣焰^진·불기의 기염^Esprit de liberté X^Shin-Geist der Freiheit^Espíritu libre+
+MST_ABILITY_NAME_219010^True Sage's Prajna^真・賢人的智慧^진·현자의 지혜^Prajna du sage X^Shin-Prajna des Weisen^Prajna del sabio+
 MST_ABILITY_NAME_910257^Judge Magister^最高審判者^저지 매지스터^Juge suprême^Magister-Richter^Juicio supremo
 MST_ABILITY_NAME_910258^Hero Crest^英雄紋章^영웅의 인장^Emblème de héros^Heldenwappen^Emblema heroico
 MST_ABILITY_NAME_910259^Blade of Justice^正義之劍^정의로운 검^Lame de la justice^Schwert der Rechtschaffenheit^Espada justiciera
@@ -5206,10 +5206,126 @@ MST_ABILITY_NAME_910779^Blade Flash - Awakened^紫電一閃·醒^자전일섬·�
 MST_ABILITY_NAME_910780^Moonlight Fall^月光散華^월광산화^Tombe Clairdelune^Mondlichtfall^Caída luz de luna
 MST_ABILITY_NAME_910803^Aggravate^激怒^시비 걸기^Aggraver^Verschlimmern^Incitar
 MST_ABILITY_NAME_910804^Aggravate^激怒^시비 걸기^Aggraver^Verschlimmern^Incitar
+MST_ABILITY_NAME_910805^Kanshou's Wrath^干將之憤怒^간장의 진노^Ire de Kanshou^Kanshous Zorn^Ira de Kanshou
+MST_ABILITY_NAME_910806^Bakuya's Vengence^莫邪之復仇^막야의 복수^Vengeance de Bakuya^Bakuyas Rache^Venganza de Bakuya
 MST_ABILITY_NAME_910876^Nightwalker^夜行者^나이트 워커^Marcheur nocturne^Nachtwandler^Caminante nocturno
 MST_ABILITY_NAME_910877^Nightwalker^夜行者^나이트 워커^Marcheur nocturne^Nachtwandler^Caminante nocturno
-MST_ABILITY_NAME_910878^Nightwalker(Buff)^^^^^Caminante nocturno (Potenciador)
+MST_ABILITY_NAME_910878^Nightwalker(Buff)^夜行者+^나이트 워커+^Somnambule (améliorateur)^Nachtwandler+^Caminante nocturno (Potenciador)
 MST_ABILITY_NAME_910879^Twilight Bolt^暮光閃電^트와일라잇 볼트^Éclair crépusculaire^Dämmerblitz^Saeta del ocaso
 MST_ABILITY_NAME_910880^Twilight Bolt^暮光閃電^트와일라잇 볼트^Éclair crépusculaire^Dämmerblitz^Saeta del ocaso
 MST_ABILITY_NAME_910881^Chainsaw^回轉電鋸^회전톱^Tronçonneuse^Kettensäge^Motosierra
 MST_ABILITY_NAME_910882^Chainsaw^回轉電鋸^회전톱^Tronçonneuse^Kettensäge^Motosierra
+MST_ABILITY_NAME_910883^Beauty^魅力^매력^Beauté^Schönheit^Encanto
+MST_ABILITY_NAME_910884^Beauty^魅力^매력^Beauté^Schönheit^Encanto
+MST_ABILITY_NAME_910885^Feint Step^佯攻舞步^눈속임 스텝^Pas feinté^Fintenschritt^Paso distractor
+MST_ABILITY_NAME_910886^Feint Step^佯攻舞步^눈속임 스텝^Pas feinté^Fintenschritt^Paso distractor
+MST_ABILITY_NAME_910887^Feint Step+^佯攻舞步+^눈속임 스텝+^Pas feinté+^Fintenschritt+^Paso distractor+
+MST_ABILITY_NAME_910888^Feint Step^佯攻舞步^눈속임 스텝^Pas feinté^Fintenschritt^Paso distractor
+MST_ABILITY_NAME_910889^Daunting Step^威壓舞步^위압의 스텝^Pas intimidant^Einschüchterung^Paso amenazador
+MST_ABILITY_NAME_910890^Daunting Step^威壓舞步^위압의 스텝^Pas intimidant^Einschüchterung^Paso amenazador
+MST_ABILITY_NAME_910891^Daunting Step+^威壓舞步+^위압의 스텝+^Pas intimidant+^Einschüchterung+^Paso amenazador+
+MST_ABILITY_NAME_910892^Daunting Step^威壓舞步^위압의 스텝^Pas intimidant^Einschüchterung^Paso amenazador
+MST_ABILITY_NAME_910893^Invigorating Dance^激勵之舞^격려의 춤^Danse revigorante^Belebender Tanz^Baile energizante
+MST_ABILITY_NAME_910894^Invigorating Dance^激勵之舞^격려의 춤^Danse revigorante^Belebender Tanz^Baile energizante
+MST_ABILITY_NAME_910895^Invigorating Dance+^激勵之舞+^격려의 춤+^Danse revigorante+^Belebender Tanz+^Baile energizante+
+MST_ABILITY_NAME_910896^Invigorating Dance^激勵之舞^격려의 춤^Danse revigorante^Belebender Tanz^Baile energizante
+MST_ABILITY_NAME_910897^Sun Cupid^陽光邱比特^태양의 큐피드^Cupidon solaire^Sonnen-Amor^Cupido apoliano
+MST_ABILITY_NAME_910898^Sun Cupid^陽光邱比特^태양의 큐피드^Cupidon solaire^Sonnen-Amor^Cupido apoliano
+MST_ABILITY_NAME_910899^Sun Cupid+^陽光邱比特+^태양의 큐피드+^Cupidon solaire+^Sonnen-Amor+^Cupido apoliano+
+MST_ABILITY_NAME_910900^Rose Custodian^玫瑰守護者^장미의 수호자^Rose gardienne^Rosenhüter^Custodio de la rosa
+MST_ABILITY_NAME_910901^Rose Custodian^玫瑰守護者^장미의 수호자^Rose gardienne^Rosenhüter^Custodio de la rosa
+MST_ABILITY_NAME_910902^Flash Barrage^閃光連射^플래시 집중포화^Barrage d'éclairs^Blitzklinge^Ráfaga destellante
+MST_ABILITY_NAME_910903^Flash Barrage^閃光連射^플래시 집중포화^Barrage d'éclairs^Blitzklinge^Ráfaga destellante
+MST_ABILITY_NAME_910904^Lux Magna^光輝一擊^럭스 마그나^Lux Magna^Lux Magna^Lux Magna
+MST_ABILITY_NAME_910905^Lux Magna^光輝一擊^럭스 마그나^Lux Magna^Lux Magna^Lux Magna
+MST_ABILITY_NAME_910906^Elven Song^精靈之歌^엘프의 노래^Chanson elfique^Elfenlied^Balada élfica
+MST_ABILITY_NAME_910907^Elven Song^精靈之歌^엘프의 노래^Chanson elfique^Elfenlied^Balada élfica
+MST_ABILITY_NAME_910908^Mortar Beacon^烽火砲擊^모르타르 비콘^Mortier éclaireur^Mörserfeuer^Señal de mortero
+MST_ABILITY_NAME_910909^Mortar Beacon^烽火砲擊^모르타르 비콘^Mortier éclaireur^Mörserfeuer^Señal de mortero
+MST_ABILITY_NAME_910910^Heavy Arms Proficiency^精通重武器^무기 전문가^Maîtrise armes lourdes^Schwere Geschützleistung^Maestra de artillería
+MST_ABILITY_NAME_910911^Heavy Arms Proficiency^精通重武器^무기 전문가^Maîtrise armes lourdes^Schwere Geschützleistung^Maestra de artillería
+MST_ABILITY_NAME_910912^Shattering Shot^粉碎射擊^균열탄^Tir fracassant^Splitterschuss^Disparo pulverizador
+MST_ABILITY_NAME_910913^Shattering Shot^粉碎射擊^균열탄^Tir fracassant^Splitterschuss^Disparo pulverizador
+MST_ABILITY_NAME_910914^True Shot^精準射擊^진실의 포탄^Tir sérieux^Wahrer Schuss^Disparo verdadero
+MST_ABILITY_NAME_910915^True Shot^精準射擊^진실의 포탄^Tir sérieux^Wahrer Schuss^Disparo verdadero
+MST_ABILITY_NAME_910916^No Pressure Friend^與友共閑^친구와 편안히^Reste cool l'ami^Kein Druck, Freund^Sin prisa amigo
+MST_ABILITY_NAME_910917^No Pressure Friend^與友共閑^친구와 편안히^Reste cool l'ami^Kein Druck, Freund^Sin prisa amigo
+MST_ABILITY_NAME_910918^Two-Hit Combo^2次連續攻擊^2회 연속 공격^Double combo^Zweischuss-Kanone^Combo doble
+MST_ABILITY_NAME_910919^Two-Hit Combo^2次連續攻擊^2회 연속 공격^Double combo^Zweischuss-Kanone^Combo doble
+MST_ABILITY_NAME_910920^Raging Bird^憤怒之鳥^분노한 새^Oiseau enragé^Wütender Vogel^Pájaro enrabietado
+MST_ABILITY_NAME_910921^Raging Bird^憤怒之鳥^분노한 새^Oiseau enragé^Wütender Vogel^Pájaro enrabietado
+MST_ABILITY_NAME_910922^Blazing Combo^熾熱連擊^타오르는 연속 공격^Combo explosif^Flammende Kombo^Combo ígneo
+MST_ABILITY_NAME_910923^Blazing Combo^熾熱連擊^타오르는 연속 공격^Combo explosif^Flammende Kombo^Combo ígneo
+MST_ABILITY_NAME_910807^Lucky Ingot^幸運金元寶^행운의 주괴^Lingot de la chance^Glücksbarren^Lingote de la suerte
+MST_ABILITY_NAME_910808^Fortune Smile^幸運微笑^행운의 미소^Sourire de la chance^Glückslächeln^Sonrisa de la suerte
+MST_ABILITY_NAME_910809^Fortune Smile^幸運微笑^행운의 미소^Sourire de la chance^Glückslächeln^Sonrisa de la suerte
+MST_ABILITY_NAME_910810^Fortune Smile^幸運微笑^행운의 미소^Sourire de la chance^Glückslächeln^Sonrisa de la suerte
+MST_ABILITY_NAME_910811^Fortune Smile^幸運微笑^행운의 미소^Sourire de la chance^Glückslächeln^Sonrisa de la suerte
+MST_ABILITY_NAME_910812^Natural Protector^自然守護者^자연의 보호^Protecteur naturel^Natürlicher Beschützer^Protector natural
+MST_ABILITY_NAME_910813^Tenacity^執念^끈기^Persévérance^Beharrlichkeit^Perseverancia
+MST_ABILITY_NAME_910814^Spiritual Core^精神核心^영혼의 핵^Noyau spirituel^Spiritueller Kern^Núcleo espiritual
+MST_ABILITY_NAME_910815^Strong Encouragement^巨大鼓勵^강인한 격려^Encouragement tenace^Starke Ermutigung^Ánimo tenaz
+MST_ABILITY_NAME_910816^Defender's Disposition^防禦者的素養^수호자의 기질^Prédisposition défensive^Verteidigergermüt^Predisposición defensiva
+MST_ABILITY_NAME_910817^Defender's Disposition^防禦者的素養^수호자의 기질^Prédisposition défensive^Verteidigergermüt^Predisposición defensiva
+MST_ABILITY_NAME_910818^Twin Discipline^雙重修煉^두 가지 규율^Discipline jumelle^Zwillingsdisziplin^Disciplina gemela
+MST_ABILITY_NAME_910819^Compassion^慈悲之心^연민^Compassion^Mitgefühl^Compasión
+MST_ABILITY_NAME_910820^Fortune Bringer^福星到^행운을 부르는 자^Porteur de chance ^Glücksbringer^Imán de suerte
+MST_ABILITY_NAME_910821^Guardian's Sacrifice^守衛者的犧牲^수호자의 희생^Sacrifice du gardien ^Opfer des Wächters<br>^Sacrificio del guardián
+MST_ABILITY_NAME_910822^Steady Reflex^穩定反射^안정적 반사^Solide réflexe^Solider Reflex^Reflejo fijo
+MST_ABILITY_NAME_910823^Unbreakable Physique^強壯體魄^강인한 육체^Physique inébranlable ^Undurchdringbare Statur^Físico inquebrantable
+MST_ABILITY_NAME_910824^Improved Focus^提升集中^향상된 집중력^Concentration améliorée^Verbesserter Fokus^Concentración mejorada
+MST_ABILITY_NAME_910825^Courageous Heart^英勇之心^용감한 마음^Cœur vaillant^Mutiges Herz^Corazón valiente
+MST_ABILITY_NAME_910826^Courageous Heart^英勇之心^용감한 마음^Cœur vaillant^Mutiges Herz^Corazón valiente
+MST_ABILITY_NAME_910827^Courageous Heart^英勇之心^용감한 마음^Cœur vaillant^Mutiges Herz^Corazón valiente
+MST_ABILITY_NAME_910828^Courageous Heart^英勇之心^용감한 마음^Cœur vaillant^Mutiges Herz^Corazón valiente
+MST_ABILITY_NAME_910829^Spiritual Defender^精神防禦者^영혼의 수호자^Défenseur spirituel ^Spriritueller Verteidiger^Defensor espiritual
+MST_ABILITY_NAME_910830^Unspoken Affection^無聲愛意^암묵의 애정^Affection secrète^Stumme Zuneigung^Afecto tácito
+MST_ABILITY_NAME_910831^Unspoken Affection^無聲愛意^암묵의 애정^Affection secrète^Stumme Zuneigung^Afecto tácito
+MST_ABILITY_NAME_910832^Chi - Kindness Rain^氣 - 慈愛之雨^기·따스한 비^Chi - Douce pluie^Chi - Regen der Güte^Chi - Lluvia gentil
+MST_ABILITY_NAME_910833^Chi - Golden Pearl Tenacity^氣- 執念金珠^기·불굴의 황금진주^Chi - Dureté de perle dorée^Chi - Zähigkeit der goldenen Perle^Chi - Tenacidad de perla dorada
+MST_ABILITY_NAME_910834^Loving Warmth^愛之溫暖^사랑의 온기^Chaleur affective^Liebende Wärme^Calor afectivo
+MST_ABILITY_NAME_910835^Loving Warmth^愛之溫暖^사랑의 온기^Chaleur affective^Liebende Wärme^Calor afectivo
+MST_ABILITY_NAME_910836^Safety Amulet^辟邪護身符^안전의 부적^Amulette protectrice^Sicherheitsamulett^Amuleto protector
+MST_ABILITY_NAME_910837^Chi - Gentle Winds^氣 - 微風^기·산들바람^Chi - Vents suaves^Chi - Sanfte Winde^Chi - Vientos suaves
+MST_ABILITY_NAME_910838^Eternal Blossoms^永恆綻放^영원의 꽃잎^Floraison éternelle^Ewige Blüten^Florecimiento eterno
+MST_ABILITY_NAME_910839^Jade Resilience^堅韌翡翠^견고한 옥^Résistance de Jade^Jade-Resilienz^Resistencia de jade
+MST_ABILITY_NAME_910840^Caring Embrace^暖心擁抱^배려의 포옹^Embrasement affectif^Fürsorgliche Umarmung^Abrazo afectivo
+MST_ABILITY_NAME_910841^Caring Embrace^暖心擁抱^배려의 포옹^Embrasement affectif^Fürsorgliche Umarmung^Abrazo afectivo
+MST_ABILITY_NAME_910842^Refreshing Vigor^清新活力^되찾은 활력^Vigueur rafraichissante^Erfrischender Elan^Vigor refrescante
+MST_ABILITY_NAME_910843^Invoke Fire^喚火^화염 발동^Invoquer le feu^Feueranrufung^Invocar fuego
+MST_ABILITY_NAME_910844^Invoke Wind^喚風^바람 발동^Invoquer le vent^Windanrufung^Invocar viento
+MST_ABILITY_NAME_910845^Spiritual Virtue^崇高美德^영적 미덕^Vertu spirituelle^Sprituelle Tugend^Virtud espiritual
+MST_ABILITY_NAME_910846^Flaming Ashes^燃燒灰燼^홍염의 잿더미^Cendres incandescentes^Flammende Asche^Cenizas incandescentes
+MST_ABILITY_NAME_910847^Power of Chi^氣之力^기의 힘^Pouvoir du Chi^Kraft des Chi^Poder de Chi
+MST_ABILITY_NAME_910848^Hunter's Sight^獵人視線^사냥꾼의 눈^Vision de chasseur^Jägersicht^Visión de cazador
+MST_ABILITY_NAME_910849^Aimed Fire^瞄準獵物^표적 조준^Feu de précision^Gezieltes Feuer^Fuego de precisión
+MST_ABILITY_NAME_910850^Heart of the Hunter^狩獵之心^사냥꾼의 마음^Esprit de chasseur^Jägerherz^Corazón del cazador
+MST_ABILITY_NAME_910851^Armor Piercing Arrow^穿甲箭雨^철갑의 화살^Flèche brisarmure^Panzerbrecher-Pfeil^Flecha penetraarmaduras
+MST_ABILITY_NAME_910852^Beast Hunter Arrow^狩獵之箭^엽수의 화살^Flèche chasse-bête^Bestienjäger-Pfeil^Flecha tumbabestias
+MST_ABILITY_NAME_910853^Bird Hunter Arrow^射鳥之箭^사조의 화살^Flèche chasse-oiseau^Vogeljäger-Pfeil^Flecha tumbapájaros
+MST_ABILITY_NAME_910854^Dragon Hunter Arrow^屠龍之箭^도룡의 화살^Flèche chasse-dragon^Drachejäger-Pfeil^Flecha tumbadragones
+MST_ABILITY_NAME_910855^Insect Hunter Arrow^殺蟲之箭^살충의 화살^Flèche chasse-insecte^Insektenjäger-PFeil^Flecha tumbainsectos
+MST_ABILITY_NAME_910856^Hunter’s Will^獵人的意志^사냥꾼의 의지^Volonté de chasseur^Jägerwille^Voluntad del cazador
+MST_ABILITY_NAME_910857^Tempest Arrows^追風箭^추풍의 화살^Tempête de flèches^Orkanpfeile^Flechas de la tempestad
+MST_ABILITY_NAME_910858^Blaze Arrows^爆炎箭^폭염의 화살^Flèche incendiaire^Feuersbrunstpfeile^Flechas del incendio
+MST_ABILITY_NAME_910859^Master Archer^弓兵之王^활의 명수^Maître archer^Meisterschütze^Maestro arquero
+MST_ABILITY_NAME_910860^Chaser^追蹤者^추적자^Poursuivant^Verfolger^Perseguidor
+MST_ABILITY_NAME_910861^Master Hunter^狩獵之王^사냥의 명수^Maître chasseur^Meisterjäger^Maestro cazador
+MST_ABILITY_NAME_910862^Petrifying Shot^石化連射^석화연사^Tir pétrifiant^Versteinernder Schuss^Tiro petrificante
+MST_ABILITY_NAME_910863^Penetrating Shot^穿甲連射^철갑연사^Tir pénétrant^Durchdringender Schuss^Tiro penetrante
+MST_ABILITY_NAME_910864^Ash Shot^灰燼連射^회신연사^Tir de cendre ^Ascheschuss^Tiro de ceniza
+MST_ABILITY_NAME_910865^Swift Shot^急速連射^질속연사^Tir ultra rapide^Flinker Schuss^Tiro rápido
+MST_ABILITY_NAME_910866^Everlasting Love^永久的愛^영원한 사랑^Amour éternel^Ewige Liebe^Amor eterno
+MST_ABILITY_NAME_910867^Everlasting Love^永久的愛^영원한 사랑^Amour éternel^Ewige Liebe^Amor eterno
+MST_ABILITY_NAME_910868^Loyal Love^誠實的愛^참된 사랑^Amour loyal^Loyale Liebe^Amor fiel
+MST_ABILITY_NAME_910869^Loyal Love^誠實的愛^참된 사랑^Amour loyal^Loyale Liebe^Amor fiel
+MST_ABILITY_NAME_910870^Phantom Guard^幻靈防護^혼령의 수호^Garde fantôme^Phantomschutz^Guardia fantasma
+MST_ABILITY_NAME_910871^Exorcise Jade^驅魔翡翠^제령의 비취^Jade d'exorcisme^Exorzierjade^Jade de exorcismo
+MST_ABILITY_NAME_910872^Ignition ^點火^발화^Allumage^Zündung^Ignición
+MST_ABILITY_NAME_910873^Passionate Heart^激昂之心^열렬한 마음^Cœur passionné^Leidenschaftliches Herz^Corazón apasionado
+MST_ABILITY_NAME_910874^Kanshou's Will^干將之意志^간장의 의지^Volonté de Kanshou^Kanshous Wille^Voluntad de Kanshou
+MST_ABILITY_NAME_910875^Bakuya's Blessing^莫邪之祝福^막야의 축복^Bénédiction de Bakuya^Bakuyas Segen^Bendición de Bakuya
+MST_ABILITY_NAME_910925^MP +30%^MP+30%^MP+30%^PM +30%^MP + 30 %^PM +30%
+MST_ABILITY_NAME_910926^Auto-Regen^自動再生^자동 리제네^Auto-Récup^Auto-Regena^AutoRevitalia
+MST_ABILITY_NAME_910965^Loyal Heart^忠誠之心^충성스러운 마음^Loyauté sincère^Gütiges Herz^Corazón leal
+MST_ABILITY_NAME_910966^Loyal Heart^忠誠之心^충성스러운 마음^Loyauté sincère^Gütiges Herz^Corazón leal
