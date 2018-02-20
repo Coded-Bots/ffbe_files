@@ -758,14 +758,14 @@ MST_EQUIP_ITEM_NAME_405004300^Butler's Uniform^管家服^집사의 옷^Tenue de 
 MST_EQUIP_ITEM_NAME_403043800^Hairpin of Purity^純潔之心髮飾^순수의 머리 장식^Épingle de pureté^Haarschmuck der Reinheit^Coletero de la pureza
 MST_EQUIP_ITEM_NAME_409016700^Sash of Restraint^忍者魔力腰帶^닌자의 마력대^Ceinture de retenue^Schärpe der Beharrlichkeit^Cinturón de entereza
 MST_EQUIP_ITEM_NAME_304002200^Himonto^冰紋刀^빙문도^Himonto^Himonto^Himonto
-MST_EQUIP_ITEM_NAME_404002600^Aranea's Helm^艾拉尼亞頭盔^아라네아의 투구^Heaume d'arène ^Araneas Helm^Yelmo de Aranea
-MST_EQUIP_ITEM_NAME_313003000^Valiant II^勇士Ⅱ^배리언트Ⅱ^Vaillant II^Valiant II^Heroica
-MST_EQUIP_ITEM_NAME_409016800^A1-Class Powershield^士官用特A級盾牌^장교용 A급 실드^Bouclier classe A1^Kraftschild der Klasse A1^Escudo de primera clase
+MST_EQUIP_ITEM_NAME_404002600^Aranea's Helm^艾拉妮亞頭盔^아라네아의 투구^Heaume d'arène ^Araneas Helm^Yelmo de Aranea
+MST_EQUIP_ITEM_NAME_313003000^Valiant II^英勇槍 II^배리언트Ⅱ^Vaillant II^Valiant II^Heroica
+MST_EQUIP_ITEM_NAME_409016800^A1-Class Powershield^士官用特A級護盾^장교용 A급 실드^Bouclier classe A1^Kraftschild der Klasse A1^Escudo de primera clase
 MST_EQUIP_ITEM_NAME_308003400^Precision Lance^精準長槍^프리셔스 랜스^Lance de précision^Präzisionslanze^La Parca
-MST_EQUIP_ITEM_NAME_405004400^Assist Suit^輔助服^어시스트 슈트^Combinaison de soutien^Servo-Anzug^Exotraje
-MST_EQUIP_ITEM_NAME_406003000^Chobham Armor^查布漢複合裝甲^쵸밤 아머^Blindage Chobham^Chobham-Rüstung^Blindaje Chobham
-MST_EQUIP_ITEM_NAME_313003100^Valiant^勇士^배리언트^Vaillant^Valiant^Valiant
-MST_EQUIP_ITEM_NAME_308003500^Stoss Spear^突刺長槍^슈토스쉬페아^Lance d'Aranea^Drachenreiterlanze^Lanza dracónida
+MST_EQUIP_ITEM_NAME_405004400^Assist Suit^輔助戰鬥服^어시스트 슈트^Combinaison de soutien^Servo-Anzug^Exotraje
+MST_EQUIP_ITEM_NAME_406003000^Chobham Armor^複合裝甲^쵸밤 아머^Blindage Chobham^Chobham-Rüstung^Blindaje Chobham
+MST_EQUIP_ITEM_NAME_313003100^Valiant^英勇槍^배리언트^Vaillant^Valiant^Valiant
+MST_EQUIP_ITEM_NAME_308003500^Stoss Spear^突擊槍^슈토스쉬페아^Lance d'Aranea^Drachenreiterlanze^Lanza dracónida
 MST_EQUIP_ITEM_NAME_407002600^Iron Colossus^鋼鐵魔導巨兵^아이언 콜로서스^Colosse de fer^Eisenkoloss^Coloso férreo
 MST_EQUIP_ITEM_NAME_302004300^Chaos Blade^混沌之劍^카오스 블레이드^Lame du chaos^Chaosklinge^Hoja de tormento
 MST_EQUIP_ITEM_NAME_402002300^Zodiac Escutcheon^最強之盾^최강의 방패^Bouclier du zodiaque^Pará-Schild^Non plus ultra
@@ -797,7 +797,7 @@ MST_EQUIP_ITEM_NAME_311003100^Yggdrasil Staff^世界樹之杖^세계수의 지�
 MST_EQUIP_ITEM_NAME_303003800^Dragvandil^多拉格梵迪爾^드래그반딜^Dragvandil^Dragvandil^Dragvandil
 MST_EQUIP_ITEM_NAME_301002600^Sweet Kiss^甜蜜之吻^스위트 키스^Doux baiser^Süßer Kuss^Beso dulce
 MST_EQUIP_ITEM_NAME_408003000^Magnolia's Uniform^木蘭衣^목련의 옷^Uniforme de Magnolia^Magnolias Gewandung^Uniforme de Magnolia
-MST_EQUIP_ITEM_NAME_402002400^Grand M.'s Shield^大元帥之盾^대원수의 방패^Bouclier de grand maître^GM-Schild^Escudo de gran mariscal
+MST_EQUIP_ITEM_NAME_402002400^Grand M.'s Shield^大元帥之盾^대원수의 방패^Bouclier gd maréchal^GM-Schild^Escudo del gran m.
 MST_EQUIP_ITEM_NAME_403044000^Sitting Moogle^坐著的莫古利^앉아 있는 모그리^Mog assis^Sitzender Mogry^Moguri sentado
 MST_EQUIP_ITEM_NAME_404002700^Alterdragon Crown^異次元龍冠^이차원 용관^Couronne dragon éthéré^Dimensionsdrachenkrone^Corona de dragón etéreo
 MST_EQUIP_ITEM_NAME_407002900^Alterdragon Uniform^異次元龍裝^이차원 용장^Uniforme de dragon éthéré^Dimensionsdrachenkleidung^Uniforme de dragón etéreo

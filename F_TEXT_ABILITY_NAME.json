@@ -1594,7 +1594,7 @@ MST_ABILITY_NAME_910111^Nightwalker^夜行者^나이트 워커^Marcheur nocturne
 MST_ABILITY_NAME_910112^Twilight Bolt^暮光閃電^트와일라잇 볼트^Éclair crépusculaire^Dämmerblitz^Saeta del ocaso
 MST_ABILITY_NAME_910113^Eldritch Air^恐怖之息^섬뜩한 공기^Air surnaturel^Unheimliche Stimmung^Aire sobrenatural
 MST_ABILITY_NAME_910114^Impair Shot^弱化射擊^손상 사격^Tir réducteur^Schwächender Schuss^Disparo atrofiador
-MST_ABILITY_NAME_910115^Rupture shot^撕裂射擊^파열 사격^Tir déchireur^Reissschuss^Disparo rompedor
+MST_ABILITY_NAME_910115^Rupture Shot^撕裂射擊^파열 사격^Tir déchireur^Reissschuss^Disparo rompedor
 MST_ABILITY_NAME_910116^Relentless^毫不留情^혹독^Implacable^Unnachgiebig^Implacable
 MST_ABILITY_NAME_910117^Shadow Barrage^暗影連射^섀도우 집중포화^Rafale sombre^Schattenklinge^Ráfaga sombría
 MST_ABILITY_NAME_910118^Dark Reverie^暗夜美夢^어둠의 몽상^Rêverie obscure^Dunkler Traum^Recuerdo oscuro
@@ -3965,7 +3965,7 @@ MST_ABILITY_NAME_221410^Snapshot^速射^스냅 샷^Photos de combat^Schnappschus
 MST_ABILITY_NAME_221420^Circular Saw^圓鋸^서큘러 쏘우^Scie circulaire^Wirbelsäge^Sierra circular
 MST_ABILITY_NAME_221430^Gravity Well^重力漩渦^어트랙트 웨이브^Vortex^Gravitationspulsator^Gravitón
 MST_ABILITY_NAME_221440^Noiseblaster^聲波增幅器^블래스트 보이스^Résonateur^Kakophon^Hipérfono
-MST_ABILITY_NAME_221450^Drillbreaker^鑽孔器^드릴 브레이커^Foreuse^Perforator^Perforador
+MST_ABILITY_NAME_221450^Drillbreaker^破壞鑽頭^드릴 브레이커^Foreuse^Perforator^Perforador
 MST_ABILITY_NAME_221460^Bioblaster^毒菌噴射器^바이오 블래스트^Sulfateuse^Bio-Blaster^Viralizador
 MST_ABILITY_NAME_221470^Quick Tech^號令增速提升^커맨드 증가 속도 상승^Commandes fréquentes^Hast^Impulso
 MST_ABILITY_NAME_221480^Scintilla^閃光射擊^섬광 발사^Coup fulgurant^Scintilla^Haz fulgurante
@@ -4058,7 +4058,7 @@ MST_ABILITY_NAME_222340^Conservation of Life^保全守則^생명보존칙^Prése
 MST_ABILITY_NAME_222350^Angelic Ward^天使的加護^천사의 가호^Garde angélique^Engelsschutz^Custodia angelical
 MST_ABILITY_NAME_222360^Shining Bomber^閃耀之鎚^빛나는 해머^Bombardement resplendissant^Glimmernder Bomber^Bombardero resplandeciente
 MST_ABILITY_NAME_222370^Default^默示錄^디폴트^Default^Default^Default
-MST_ABILITY_NAME_222380^FV^勇氣二^브레이브리 세컨드^Bravely Second^Bravely Second^Bravely Second
+MST_ABILITY_NAME_222380^FV^勇氣二^브레이블리 세컨드^Bravely Second^Bravely Second^Bravely Second
 MST_ABILITY_NAME_222390^Fallen Angel's Protection^墮天使的加護^타락천사의 가호^Égide de l'ange déchu^Schutz des Gefallenen Engels^Custodia del ángel caído
 MST_ABILITY_NAME_222400^Worshipper^許願者^숭배자^Adorateur^Anbeter^Adorador
 MST_ABILITY_NAME_222410^Zero Sum^聖夜^제로섬^Zéro pointé^Nullsumme^Todo a cero
@@ -4583,7 +4583,7 @@ MST_ABILITY_NAME_505800^Breakdown^潰擊降低^브레이크 다운^Rupture^Zusam
 MST_ABILITY_NAME_505810^Emperor's Vessel^皇帝之才^황제의 그릇^Réceptacle de l'empereur^Des Kaisers Befähigung^Dotes de emperador
 MST_ABILITY_NAME_505820^Dark Smile^暗之微笑^어둠의 미소^Sourire noir^Lächeln der Finsternis^Sonrisa oscura
 MST_ABILITY_NAME_505830^Assassination^暗殺行動^암살^Assassinat^Meuchelmord^Asesinato
-MST_ABILITY_NAME_505840^Slowing Fall^拋落^슬로잉 폴^Chute ralentie^Gebremster Fall^Caída ralentizada
+MST_ABILITY_NAME_505840^Throwing Fall^拋落^슬로잉 폴^Chute ralentie^Gebremster Fall^Caída ralentizada
 MST_ABILITY_NAME_505850^Reef Discover^礦脈挖掘^광맥 발굴^Découverte de récif^Ausgrabung der Erzader^Descubrimiento de veta
 MST_ABILITY_NAME_505860^Reef Discover^礦脈挖掘^광맥 발굴^Découverte de récif^Ausgrabung der Erzader^Descubrimiento de veta
 MST_ABILITY_NAME_505870^Reef Discover^礦脈挖掘^광맥 발굴^Découverte de récif^Ausgrabung der Erzader^Descubrimiento de veta
@@ -5282,7 +5282,7 @@ MST_ABILITY_NAME_910829^Spiritual Defender^精神防禦者^영혼의 수호자^D
 MST_ABILITY_NAME_910830^Unspoken Affection^無聲愛意^암묵의 애정^Affection secrète^Stumme Zuneigung^Afecto tácito
 MST_ABILITY_NAME_910831^Unspoken Affection^無聲愛意^암묵의 애정^Affection secrète^Stumme Zuneigung^Afecto tácito
 MST_ABILITY_NAME_910832^Chi - Kindness Rain^氣 - 慈愛之雨^기·따스한 비^Chi - Douce pluie^Chi - Regen der Güte^Chi - Lluvia gentil
-MST_ABILITY_NAME_910833^Chi - Golden Pearl Tenacity^氣- 執念金珠^기·불굴의 황금진주^Chi - Dureté de perle dorée^Chi - Zähigkeit der goldenen Perle^Chi - Tenacidad de perla dorada
+MST_ABILITY_NAME_910833^Chi - Golden Pearl Tenacity^氣 - 執念金珠^기·불굴의 황금진주^Chi - Dureté de perle dorée^Chi - Zähigkeit der goldenen Perle^Chi - Tenacidad de perla dorada
 MST_ABILITY_NAME_910834^Loving Warmth^愛之溫暖^사랑의 온기^Chaleur affective^Liebende Wärme^Calor afectivo
 MST_ABILITY_NAME_910835^Loving Warmth^愛之溫暖^사랑의 온기^Chaleur affective^Liebende Wärme^Calor afectivo
 MST_ABILITY_NAME_910836^Safety Amulet^辟邪護身符^안전의 부적^Amulette protectrice^Sicherheitsamulett^Amuleto protector

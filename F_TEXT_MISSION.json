@@ -1988,7 +1988,7 @@ MST_MISSION_NAME_7600601^Roselia's Wish^羅塞莉亞的願望^로자리아의 �
 MST_MISSION_NAME_7600602^False Seriousness^虛偽的認真^거짓된 진심^Faussement sérieux^Falscher Ernst^Falsa seriedad
 MST_MISSION_NAME_7600603^Strength of the Heart^強韌之心^강인한 마음^Force de l'esprit^Herzensstärke^Fuerte de corazón
 MST_MISSION_NAME_7600604^The Beasts Surround^魔物圍攻^둘러싼 마물^Entouré de bêtes^Umzingelnde Bestien^Rodeado de bestias
-MST_MISSION_NAME_7600605^Unyielding Attack^不間斷的敵襲^끊어진 적습^Attaque implacable^Unerbittlicher Angriff^Ataque implacable
+MST_MISSION_NAME_7600605^Unyielding Attack^不間斷的敵襲^끊임없는 적습^Attaque implacable^Unerbittlicher Angriff^Ataque implacable
 MST_MISSION_NAME_7600606^Wings of the Wicked Bird^振翅兇鳥^흉조의 날갯짓^Les ailes de l'oiseau maléfique^Schwingen des teuflischen Vogels^Las alas del pájaro maligno
 MST_MISSION_NAME_7600607^What Must Be Accomplished^必須完成之事^완수해야 하는 것^Ce qui doit être accomplit^Was errungen werden muss^El cumplimiento del deber
 MST_MISSION_NAME_7600700^Someone's Power^為了他人的力量^누군가를 위한 힘^Le pouvoir d'autrui^Machtspiel^El poder de otro
@@ -2292,7 +2292,7 @@ MST_MISSION_NAME_4020505^To the Base^通往據點的路^거점을 향한 길^Ver
 MST_MISSION_NAME_4020506^Hess's Leader^赫斯的主導者^헤스의 지도자^Le leader de Hess^Der Anführer von Hess^El líder de Hess
 MST_MISSION_NAME_4020507^The Power of Aldore^阿爾多爾之力^알도르의 힘^Le pouvoir d'Aldore^Die Kraft von Aldore^El poder de Aldore
 MST_MISSION_NAME_4020508^Dark Fina's Past^魔人菲娜的過去^마인 피나의 과거^Le passé de Fina obscure^Dunkel-Finas Vergangenheit^El pasado de Fina oscura
-MST_MISSION_NAME_4020509^The Veritas Persuasion^常暗的勸導^영원한 어둠의 설득^Le sermon de Veritas^Die Überredung des Finsteren^La persuasión de Veritas
+MST_MISSION_NAME_4020509^Dark Persuasion^常暗的勸導^영원한 어둠의 설득^Le sermon de Veritas^Die Überredung des Finsteren^La persuasión de la oscuridad
 MST_MISSION_NAME_4020510^An Unavoidable Conflict^無法撤退的戰鬥^피할 수 없는 싸움^Un conflit inévitable^Unabwendbarer Konflikt^Un conflicto inevitable
 MST_MISSION_NAME_4020511^Demon Sealed Away^被封印的魔人^봉인된 마인^Le démon scellé^Versiegelter Dämon^El demonio sellado
 MST_MISSION_NAME_4020512^Birth of Fina^菲娜誕生^피나 탄생^Naissance de Fina^Finas Geburt^El nacimiento de Fina
@@ -2382,11 +2382,11 @@ MST_MISSION_NAME_7630105^Dark Castle - ELT^黑暗城堡・覺醒級^어둠의 �
 MST_MISSION_NAME_7630106^Dark Castle - LGD^黑暗城堡・魔人級^어둠의 성·마인급^Château obscur - LGD^Dunkles Schloss - LGD^Castillo oscuro - LGD
 MST_MISSION_NAME_7640101^Glaive Castle - Exploration (HARD)^格蘭斯城・探索（HARD）^글랜스 성·탐색(HARD)^Château de Glaive - Exploration (DIFFICILE)^Schloss Glaive- Erkundung (SCHWER)^Castillo de Glaive - Exploración (DIFÍCIL)
 MST_MISSION_NAME_7640102^Glaive Castle - Exploration (EASY)^格蘭斯城・探索（EASY）^글랜스 성·탐색(EASY)^Château de Glaive - Exploration (FACILE)^Schloss Glaive- Erkundung (LEICHT)^Castillo de Glaive - Exploración (FÁCIL)
-MST_MISSION_NAME_7660101^Imperial Infiltration - INT^反擊帝國・中級^제국을 향한 반격·중급^Œil pour œil - INT^Rachefeldzug - FOR^Ojo por ojo - INT
-MST_MISSION_NAME_7660102^Imperial Infiltration - ADV^反擊帝國・上級^제국을 향한 반격·상급^Œil pour œil - PRO^Rachefeldzug - PRO^Ojo por ojo - AVA
-MST_MISSION_NAME_7660103^Imperial Infiltration - PRO^反擊帝國・超級^제국을 향한 반격·최상급^Œil pour œil - SUP^Rachefeldzug - EXP^Ojo por ojo - PRO
-MST_MISSION_NAME_7660104^Imperial Infiltration - ELT^反擊帝國・覺醒級^제국을 향한 반격·각성급^Œil pour œil - EX!^Rachefeldzug - ELI^Ojo por ojo - ÉLI
-MST_MISSION_NAME_7670101^Fort Vaullerey - Battle with Aranea^沃拉雷基地・艾拉尼亞戰^볼라레 기지·아라네아 전^Base de Vaullerey - Face à Aranea^Vaullerey-Basis - Kampf mit Aranea^Base de Vaullerey - Contra Aranea
+MST_MISSION_NAME_7660101^Imperial Infiltration - INT^對帝國做出反擊・中級^제국을 향한 반격·중급^Riposte contre l'empire - INT^Rachefeldzug - FOR^Ojo por ojo - INT
+MST_MISSION_NAME_7660102^Imperial Infiltration - ADV^對帝國做出反擊・上級^제국을 향한 반격·상급^Riposte contre l'empire - PRO^Rachefeldzug - PRO^Ojo por ojo - AVA
+MST_MISSION_NAME_7660103^Imperial Infiltration - PRO^對帝國做出反擊・超級^제국을 향한 반격·최상급^Riposte contre l'empire - SUP^Rachefeldzug - EXP^Ojo por ojo - PRO
+MST_MISSION_NAME_7660104^Imperial Infiltration - ELT^對帝國做出反擊・覺醒級^제국을 향한 반격·각성급^Riposte contre l'empire - EX!^Rachefeldzug - ELI^Ojo por ojo - ÉLI
+MST_MISSION_NAME_7670101^Fort Vaullerey - Battle with Aranea^沃拉雷基地・艾拉妮亞戰^볼라레 기지·아라네아 전^Base de Vaullerey - Face à Aranea^Vaullerey-Basis - Kampf mit Aranea^Base de Vaullerey - Contra Aranea
 MST_MISSION_NAME_7680101^Ogir-Yensa Sandsea - BGN^大沙海奧格・焉薩・初級^대사해 오기르 옌사·초급^Mer de sable d'Ogir-Yensa - DBT^Ogir-Yensa Sandsee - ANF^Arenas de Ogul Yensa - PRI
 MST_MISSION_NAME_7680102^Ogir-Yensa Sandsea - INT^大沙海奧格・焉薩・中級^대사해 오기르 옌사·중급^Mer de sable d'Ogir-Yensa - INT^Ogir-Yensa Sandsee - FOR^Arenas de Ogul Yensa - INT
 MST_MISSION_NAME_7680103^Ogir-Yensa Sandsea - ADV^大沙海奧格・焉薩・上級^대사해 오기르 옌사·상급^Mer de sable d'Ogir-Yensa - PRO^Ogir-Yensa Sandsee - EXP^Arenas de Ogul Yensa - AVA
