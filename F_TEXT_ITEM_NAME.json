@@ -253,12 +253,12 @@ MST_ITEM_NAME_1100000028^Meteor Shards^流星碎片^유석의 단편^Éclat de m
 MST_ITEM_NAME_1100000029^Meteor Stones^流星石^유성의 돌^Pierre de météore ^Meteorsteine^Meteopiedra
 MST_ITEM_NAME_1100000030^Meteor Rock^流星岩^유성의 바위^Rocher de météore^Meteorfels^Meteoroca
 MST_ITEM_NAME_1100000031^Meteor Ore^流星礦石^유성의 광석^Minerai de météore ^Meteorerz^Meteomineral
-MST_ITEM_NAME_101000400^^^^^^
-MST_ITEM_NAME_101000500^^^^^^
-MST_ITEM_NAME_101000600^^^^^^
-MST_ITEM_NAME_101001300^^^^^^
-MST_ITEM_NAME_101001400^^^^^^
-MST_ITEM_NAME_101003200^^^^^^
+MST_ITEM_NAME_101000400^Medicinal Herb^^^^^Planta medicinal
+MST_ITEM_NAME_101000500^Superior Medicine^^^^^Medicina superior
+MST_ITEM_NAME_101000600^Yggdrasil Dew^^^^^Rocío de Yggdrasil
+MST_ITEM_NAME_101001300^Magic Water^^^^^Agua mágica
+MST_ITEM_NAME_101001400^Sage's Elixir^^^^^Elixir de sabio
+MST_ITEM_NAME_101003200^Yggdrasil Leaf^^^^^Hoja de Yggdrasil
 MST_ITEM_NAME_109203000^Flamering Key 1^火輪之鍵1^화륜의 열쇠1^Clé des flammes 1^Flammenschlüssel 1^Llave Fuego 1
 MST_ITEM_NAME_109203010^Flamering Key 2^火輪之鍵2^화륜의 열쇠2^Clé des flammes 2^Flammenschlüssel 2^Llave Fuego 2
 MST_ITEM_NAME_109203020^Flamering Key 3^火輪之鍵3^화륜의 열쇠3^Clé des flammes 3^Flammenschlüssel 3^Llave Fuego 3
@@ -535,11 +535,11 @@ MST_ITEM_NAME_109301030^Sectored Circle - Blue^石板碎片·藍^석판 조각·
 MST_ITEM_NAME_109301040^Sectored Circle - Blue^石板碎片·藍^석판 조각·파랑^Éclat de tablette - bleu^Steintafelsplitter - Blau^Fragmento de círculo azul
 MST_ITEM_NAME_109301050^Sectored Circle - Blue^石板碎片·藍^석판 조각·파랑^Éclat de tablette - bleu^Steintafelsplitter - Blau^Fragmento de círculo azul
 MST_ITEM_NAME_205000300^Corrosive Powder^侵蝕之粉^침식의 가루^Poudre corrosive^Korrosives Pulver^Polvo corrosivo
-MST_ITEM_NAME_218000100^Earth Gemstone^大地寶玉^땅의 보옥^Joyau de la terre^Erdsphäre^Joya de la tierra
-MST_ITEM_NAME_218000200^Laser Sensor^激光傳感器^레이저 센서^Capteur laser^Lasersensor^Sensor láser
+MST_ITEM_NAME_218000100^Earth Gemstone^大地寶珠^땅의 보옥^Joyau de la terre^Erdsphäre^Joya de la tierra
+MST_ITEM_NAME_218000200^Laser Sensor^雷射感應器^레이저 센서^Capteur laser^Lasersensor^Sensor láser
 MST_ITEM_NAME_218000300^Mythril Shaft^秘銀關節^미스릴 조인트^Joint en mithril^Mithril-Schaft^Juntura de mitrilo
 MST_ITEM_NAME_218000400^Electrolytic Condenser^電解電容^전해 콘덴서^Condensateur électrolytique^Elektrolytkondensator^Condensador electrolítico
-MST_ITEM_NAME_218000500^Iron Shavings^碎鐵塊^고철 덩어리^Copeau de fer^Eisenklumpen^Limaduras de hierro
+MST_ITEM_NAME_218000500^Iron Shavings^廢鐵塊^고철 덩어리^Copeau de fer^Eisenklumpen^Limaduras de hierro
 MST_ITEM_NAME_218000600^Metal Scrap^金屬碎片^금속의 파편^Fragment de métal^Metallsplitter^Fragmento metálico
 MST_ITEM_NAME_218000700^Dark Matter Fragment^暗物質碎片^다크 스타의 조각^Frag. de matière noire^Dunkle Materie-Splitter^Trozo de materia oscura
 MST_ITEM_NAME_218000800^Snow Crystal^六花晶^스노우 크리스탈^Cristal de neige^Schneekristall^Cristal de nieve

@@ -1263,7 +1263,7 @@ MST_MISSION_NAME_7290403^Squirming Beasts^蠢動的魔物^꿈틀거리는 마물
 MST_MISSION_NAME_7290404^Suicide Exploration^決死探索^필사의 탐색^Exploration suicide^Selbstmorderkundung^Exploración suicida
 MST_MISSION_NAME_7290405^Strange Disturbance^莫名的憤怒^기묘한 초조함^Perturbation étrange^Seltsame Störung^Perturbación extraña
 MST_MISSION_NAME_7290406^The Search Continues^繼續探索^탐색은 계속된다^Les recherches continuent^Die Suche geht weiter^La búsqueda continúa
-MST_MISSION_NAME_7290407^Fear of the First^恐怖的惡魔^외눈박이 악마의 공포^Peur au premier coup d'œil^Furcht vor dem Ersten^Mal de ojo
+MST_MISSION_NAME_7290407^Fear of the One-Eyed Fiend^恐怖的惡魔^외눈박이 악마의 공포^Terreur à un seul œil^Furcht vor dem Ersten^Mal de ojo
 MST_MISSION_NAME_7290408^The Dwarf's Repayment^矮人報恩^은혜 갚은 드워프^Le nain reconnaissant^Die Rückzahlung der Zwerge^El enano agradecido
 MST_MISSION_NAME_7290500^The Masterless Castle^主城^주인 없는 성^Le château sans maître^Das herrenlose Schloss^El castillo sin dueño
 MST_MISSION_NAME_7290501^Vestige^痕跡^흔적^Vestige^Überrest^Vestigios
@@ -1605,7 +1605,7 @@ MST_MISSION_NAME_11210104^Vesta Ruins - Rescue^貝斯塔街道廢墟·救出^베
 MST_MISSION_NAME_11210105^Vesta Ruins - Exploration^貝斯塔街道廢墟·探索^베스타 마을 폐허·탐색^Ruines de Vesta  - Exploration^Vesta-Ruinen - Erkundung^Ruinas de Vesta - Exploración
 MST_MISSION_NAME_11210201^Georl Tracks - Rusted Rails^吉奧爾鐵道·生鏽的線路^지오르 철도·녹슨 선로^Voie ferrée de Georl - Rails rouillés^Georl-Schienen - Alte Gleise^Camino de Georl - Vías oxidadas
 MST_MISSION_NAME_11210202^Georl Tracks - Dry Wind^吉奧爾鐵道·乾燥之風^지오르 철도·메마른 바람^Voie ferrée de Georl - Vent sec^Georl-Schienen - Wüstenwind^Camino de Georl - Viento seco
-MST_MISSION_NAME_11210203^Georl Tracks - Endless Way^吉奧爾鐵道·無盡的道路^지오르 철도·끝없는 길^Voie ferrée de Georl - voie sans fin^Georl-Schienen - Endloser Weg^Camino de Georl - Viaje infinito
+MST_MISSION_NAME_11210203^Georl Tracks - Endless Way^吉奧爾鐵道·無盡的道路^지오르 철도·끝없는 길^Voie ferrée de Georl - Voie sans fin^Georl-Schienen - Endloser Weg^Camino de Georl - Viaje infinito
 MST_MISSION_NAME_11210204^Georl Tracks - Clear Skies^吉奧爾鐵道·清澈的天空^지오르 철도·투명한 하늘^Voie ferrée de Georl - Cieux clairs^Georl-Schienen - Klarer Himmel^Camino de Georl - Cielos despejados
 MST_MISSION_NAME_11210301^Desolate Station - Collapsed Entry^崩塌的車站·殘破的入口^붕괴한 역사·부서진 입구^Station désolée - Entrée détruite^Trostlose Station - Eingestürzter Eingang^Estación desolada - Entrada derruida
 MST_MISSION_NAME_11210302^Desolate Station - Desolate Hallway^崩塌的車站·塌陷的走廊^붕괴한 역사·무너진 복도^Station désolée - Vestibule désolé^Trostlose Station - Trostloser Gang^Estación desolada - Vestíbulo desolado
@@ -1959,7 +1959,7 @@ MST_MISSION_NAME_7600205^The Meddlesome Gladiator^愛管閒事的劍鬥士^오�
 MST_MISSION_NAME_7600206^Sages of Protection^保護賢者^엄호하는 현자^Sages protecteurs^Schützende Magier^Sabios protectores
 MST_MISSION_NAME_7600207^Sneering Demons^冷笑惡魔^조소하는 악마^Démons ricanant^Spottende Dämonen^Demonios burlones
 MST_MISSION_NAME_7600208^Travel Companion^旅伴^여행의 동행자^Compagnon de voyage^Reisebegleiter^Compañeros de viaje
-MST_MISSION_NAME_7600300^The Sage, the Blacksmith and the Swordsman^賢者與鍛冶師與劍鬥士^현자, 대장장이, 그리고 검투사^Le sage, le forgeron et l'épéiste^Der Magier, der Schmied und der Schwertkämpfer^El sabio, el herrero y el espadachín
+MST_MISSION_NAME_7600300^The Three Masters^賢者與鍛冶師與劍鬥士^현자, 대장장이, 그리고 검투사^Le sage, le forgeron et l'épéiste^Der Magier, der Schmied und der Schwertkämpfer^El sabio, el herrero y el espadachín
 MST_MISSION_NAME_7600301^A Place to Rest^心之歸屬^마음의 안식처^Un endroit où se reposer^Ein Ruheort^Lugar de descanso
 MST_MISSION_NAME_7600302^An Excuse^藉口^변명^Une excuse^Eine Entschuldigung^La excusa
 MST_MISSION_NAME_7600303^Wake Up, Blacksmith!^認命吧！鍛冶師^대장장이여, 각오하라!^Debout, Forgeron !^Aufgewacht, Schmied!^¡Despierta, herrero!
@@ -2083,16 +2083,16 @@ MST_MISSION_NAME_11310401^Tree of Naturia - Up the Tree^那托利亞的大樹・
 MST_MISSION_NAME_11310402^Tree of Naturia - Hollow^那托利亞的大樹・樹洞^나투리아의 거목·나무 동굴^Arbre de Naturia - Cavité^Baum von Naturia - Baumhöhle^Árbol de Naturia - Hueco
 MST_MISSION_NAME_11310403^Tree of Naturia - Bridge of Branches^那托利亞的大樹・樹枝架橋^나투리아의 거목·나무줄기 다리^Arbre de Naturia - Pont de branche^Baum von Naturia - Astbrücke^Árbol de Naturia - Puente de ramas
 MST_MISSION_NAME_11310404^Tree of Naturia - Oncoming Shadow^那托利亞的大樹・飛來之影^나투리아의 거목·날아드는 그림자^Arbre de Naturia - Ombre galopante^Baum von Naturia - Anfliegender Schatten^Árbol de Naturia - Sombra venidera
-MST_MISSION_NAME_11310501^Petra, Forest of Illusion - Bewitching Light^貝多拉幻想林・幻惑之光^페트라 환상림·환각의 빛^Pétra, Forêt des illusions - Lumière ensorcelante^Petra, Wald der Illusion - Gaukelndes Licht^Petra, bosque de la ilusión - Luz cautivadora
-MST_MISSION_NAME_11310502^Petra, Forest of Illusion - Wondrous Grove^貝多拉幻想林・不可思議的森林^페트라 환상림·불가사의한 숲^Pétra, Forêt des illusions - Bosquet merveilleux^Petra, Wald der Illusion - Wundersamer Wald^Petra, bosque de la ilusión - Arboleda de las maravillas
-MST_MISSION_NAME_11310503^Petra, Forest of Illusion - Devilish Scent^貝多拉幻想林・魔幻香氣^페트라 환상림·마성의 향기^Pétra, Forêt des illusions - Odeur diabolique^Petra, Wald der Illusion - Teuflischer Duft^Petra, bosque de la ilusión - Olor diabólico
-MST_MISSION_NAME_11310504^Petra, Forest of Illusion - Bewitching Tree^貝多拉幻想林・妖樹^페트라 환상림·요사스러운 나무^Pétra, Forêt des illusions - Arbre envoûtant^Petra, Wald der Illusion - Geisterbaum^Petra, bosque de la ilusión - Árbol cautivador
-MST_MISSION_NAME_11310505^Petra, Forest of Illusion - Exploration^貝多拉幻想林・探索^페트라 환상림·탐색^Pétra, Forêt des illusions - Exploration^Petra, Wald der Illusion - Erkundung^Petra, bosque de la ilusión - Exploración
-MST_MISSION_NAME_11310601^Budoon Jungle - Richly-colored Forest^布德翁密林地帶・多彩之森^부둔 밀림지대·극채색의 숲^Jungle de Budoon - Forêt colorée^Budoon-Dschungel - Farbenprächtiger Wald^Jungla de Budoon - Bosque colorido
-MST_MISSION_NAME_11310602^Budoon Jungle - Strange Cry^布德翁密林地帶・奇怪鳥鳴^부둔 밀림지대·기괴한 울음소리^Jungle de Budoon - Cri étrange^Budoon-Dschungel - Sonderbarer Schrei^Jungla de Budoon - Llanto extraño
-MST_MISSION_NAME_11310603^Budoon Jungle - Poisonous Flowers^布德翁密林地帶・有毒花朵^부둔 밀림지대·독서린 꽃^Jungle de Budoon - Fleur vénéneuse^Budoon-Dschungel - Giftige Blumen^Jungla de Budoon - Flores venenosas
-MST_MISSION_NAME_11310604^Budoon Jungle - Man-eating Tree^布德翁密林地帶・食人樹^부둔 밀림지대·식인목^Jungle de Budoon - Arbre mangeur d'homme^Budoon-Dschungel - Menschenfresserbaum^Jungla de Budoon - Árbol devorahumanos
-MST_MISSION_NAME_11310605^Budoon Jungle - An Offensive Presence^布德翁密林地帶・醜惡氣息^부둔 밀림지대·추악한 기운^Jungle de Budoon - Présence Offensive^Budoon-Dschungel - Eine hässliche Präsenz^Jungla de Budoon - Una presencia ofensiva
+MST_MISSION_NAME_11310501^Petra, Forest of Illusion - Bewitching Light^貝多拉幻想林・幻惑之光^페트라 환상림·환각의 빛^Pétra, Forêt des illusions - Lumière ensorcelante^Petra, Wald der Illusion - Gaukelndes Licht^Petra, bosque ilusorio - Luz cautivadora
+MST_MISSION_NAME_11310502^Petra, Forest of Illusion - Wondrous Grove^貝多拉幻想林・不可思議的森林^페트라 환상림·불가사의한 숲^Pétra, Forêt des illusions - Bosquet merveilleux^Petra, Wald der Illusion - Wundersamer Wald^Petra, bosque ilusorio - Arboleda asombrosa
+MST_MISSION_NAME_11310503^Petra, Forest of Illusion - Devilish Scent^貝多拉幻想林・魔幻香氣^페트라 환상림·마성의 향기^Pétra, Forêt des illusions - Odeur diabolique^Petra, Wald der Illusion - Teuflischer Duft^Petra, bosque ilusorio - Olor diabólico
+MST_MISSION_NAME_11310504^Petra, Forest of Illusion - Bewitching Tree^貝多拉幻想林・妖樹^페트라 환상림·요사스러운 나무^Pétra, Forêt des illusions - Arbre envoûtant^Petra, Wald der Illusion - Geisterbaum^Petra, bosque ilusorio - Árbol cautivador
+MST_MISSION_NAME_11310505^Petra, Forest of Illusion - Exploration^貝多拉幻想林・探索^페트라 환상림·탐색^Pétra, Forêt des illusions - Exploration^Petra, Wald der Illusion - Erkundung^Petra, bosque ilusorio - Exploración
+MST_MISSION_NAME_11310601^Budoon Jungle - Richly-colored Forest^布德翁密林地帶・多彩之森^부둔 밀림지대·극채색의 숲^Jungle de Budoon - Forêt colorée^Budoon-Dschungel - Farbenprächtiger Wald^Jungla Budoon - Bosque colorido
+MST_MISSION_NAME_11310602^Budoon Jungle - Strange Cry^布德翁密林地帶・奇怪鳥鳴^부둔 밀림지대·기괴한 울음소리^Jungle de Budoon - Cri étrange^Budoon-Dschungel - Sonderbarer Schrei^Jungla Budoon - Llanto extraño
+MST_MISSION_NAME_11310603^Budoon Jungle - Poisonous Flowers^布德翁密林地帶・有毒花朵^부둔 밀림지대·독서린 꽃^Jungle de Budoon - Fleur vénéneuse^Budoon-Dschungel - Giftige Blumen^Jungla  Budoon - Flores venenosas
+MST_MISSION_NAME_11310604^Budoon Jungle - Man-eating Tree^布德翁密林地帶・食人樹^부둔 밀림지대·식인목^Jungle de Budoon - Arbre mangeur d'homme^Budoon-Dschungel - Menschenfresserbaum^Jungla Budoon - Árbol devorahumanos
+MST_MISSION_NAME_11310605^Budoon Jungle - An Offensive Presence^布德翁密林地帶・醜惡氣息^부둔 밀림지대·추악한 기운^Jungle de Budoon - Présence Offensive^Budoon-Dschungel - Eine hässliche Präsenz^Jungla Budoon - Presencia ofensiva
 MST_MISSION_NAME_11310701^Forbidden Land - Withering Lands^禁斷之地・乾枯的大地^금단의 땅·말라버린 대지^Terre interdite - Terres fanées^Verbotenes Land - Welkende Lande^Tierra prohibida - Tierras abrasadoras
 MST_MISSION_NAME_11310702^Forbidden Land - Fading Greenery^禁斷之地・綠意斷絕^금단의 땅·바랜 초록빛^Terre interdite - Végétation décrépie^Verbotenes Land - Schwindendes Grün^Tierra prohibida - Vegetación menguante
 MST_MISSION_NAME_11310703^Forbidden Land - Sprawling Desert^禁斷之地・連綿不斷的沙漠^금단의 땅·펼쳐진 사막^Terre interdite - Étendue désertique^Verbotenes Land - Wachsende Wüste^Tierra prohibida - Desierto expansivo
@@ -2352,7 +2352,7 @@ MST_MISSION_NAME_6001602^Estavilla Event 2^埃斯塔維拉事件2^에스타빌�
 MST_MISSION_NAME_6001603^Tooke Town Event 1^圖克鎮事件1^튜케 마을 이벤트 1^Ville de Tooke Événement 1^Stadt Tooke-Ereignis 1^Tooke Evento 1
 MST_MISSION_NAME_6001604^Tooke Town Event 2^圖克鎮事件2^튜케 마을 이벤트 2^Ville de Tooke Événement 2^Stadt Tooke-Ereignis 2^Tooke Evento 2
 MST_MISSION_NAME_6001605^Estavilla Event 3^埃斯塔維拉事件3^에스타빌라 이벤트 3^Estavilla  Événement 3^Estavilla-Ereignis 3^Estavilla Evento 3
-MST_MISSION_NAME_6001606^Naturia 3^那托利亞3^나투리아 3^Naturia Événement 3^Naturia 3^Naturia 3
+MST_MISSION_NAME_6001606^Naturia 3^那托利亞3^나투리아 3^Naturia 3^Naturia 3^Naturia 3
 MST_MISSION_NAME_6001607^Energy Transfer Station 3^能量轉換設施3^에너지 변환 시설 3^Station de transfert d'énergie 3^Energietransfer-Station 3^Estación de transferencia de energía 3
 MST_MISSION_NAME_6001608^Estavilla Event 4^埃斯塔維拉事件4^에스타빌라 이벤트 4^Estavilla  Événement 4^Estavilla-Ereignis 4^Estavilla Evento 4
 MST_MISSION_NAME_7080106^Mana Mystery - BGN^瑪娜的巨大秘密・初級^위대한 마나의 비밀·초급^Le Mystère du Mana - DBT^Das Geheimnis des Mana – ANF^El misterio del Mana - PRI
@@ -2386,7 +2386,7 @@ MST_MISSION_NAME_7660101^Imperial Infiltration - INT^對帝國做出反擊・中
 MST_MISSION_NAME_7660102^Imperial Infiltration - ADV^對帝國做出反擊・上級^제국을 향한 반격·상급^Riposte contre l'empire - PRO^Rachefeldzug - PRO^Ojo por ojo - AVA
 MST_MISSION_NAME_7660103^Imperial Infiltration - PRO^對帝國做出反擊・超級^제국을 향한 반격·최상급^Riposte contre l'empire - SUP^Rachefeldzug - EXP^Ojo por ojo - PRO
 MST_MISSION_NAME_7660104^Imperial Infiltration - ELT^對帝國做出反擊・覺醒級^제국을 향한 반격·각성급^Riposte contre l'empire - EX!^Rachefeldzug - ELI^Ojo por ojo - ÉLI
-MST_MISSION_NAME_7670101^Fort Vaullerey - Battle with Aranea^沃拉雷基地・艾拉妮亞戰^볼라레 기지·아라네아 전^Base de Vaullerey - Face à Aranea^Vaullerey-Basis - Kampf mit Aranea^Base de Vaullerey - Contra Aranea
+MST_MISSION_NAME_7670101^Fort Vaullerey - Battle with Aranea^沃拉雷基地・艾拉妮亞戰^볼라레 기지·아라네아 전^Fort Vaullerey - Face à Aranea^Vaullerey-Basis - Kampf mit Aranea^Base de Vaullerey - Combate contra Aranea
 MST_MISSION_NAME_7680101^Ogir-Yensa Sandsea - BGN^大沙海奧格・焉薩・初級^대사해 오기르 옌사·초급^Mer de sable d'Ogir-Yensa - DBT^Ogir-Yensa Sandsee - ANF^Arenas de Ogul Yensa - PRI
 MST_MISSION_NAME_7680102^Ogir-Yensa Sandsea - INT^大沙海奧格・焉薩・中級^대사해 오기르 옌사·중급^Mer de sable d'Ogir-Yensa - INT^Ogir-Yensa Sandsee - FOR^Arenas de Ogul Yensa - INT
 MST_MISSION_NAME_7680103^Ogir-Yensa Sandsea - ADV^大沙海奧格・焉薩・上級^대사해 오기르 옌사·상급^Mer de sable d'Ogir-Yensa - PRO^Ogir-Yensa Sandsee - EXP^Arenas de Ogul Yensa - AVA

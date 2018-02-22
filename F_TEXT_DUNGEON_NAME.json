@@ -151,9 +151,9 @@ MST_DUNGEONS_NAME_22201^Vision of Bahamut^巴哈姆特的幻影^바하무트의 
 MST_DUNGEONS_NAME_71102^Memories from the Aquapolis^深藏水都的思念^물의 도시에 깃든 마음^Souvenirs de la Ville Aquatique ^Erinnerungen aus der Aquapolis^Recuerdos de la Aquópolis
 MST_DUNGEONS_NAME_71201^The Auracite Chosen^被聖石選中的人們^성석에게 선택받은 자들^Les Élus des Pierres du Zodiaque ^Die Auracit-Erwählten^Los elegidos de la Auracita
 MST_DUNGEONS_NAME_71301^The Dreadnought^大戰艦^대전함^Le Cuirassé ^Das Schlachtschiff^El Acorazado
-MST_DUNGEONS_NAME_71401^Monster Carnival^勇者鬥惡龍怪物仙境^^Carnaval des monstres ^Monsterkarneval^Carnaval monstruoso
-MST_DUNGEONS_NAME_71501^Dragon King Challenge^龍王挑戰^^Défi du Lordragon^Die Herausforderung des Drachenkönigs^Desafío de Draconarius
-MST_DUNGEONS_NAME_71601^Metal Dungeon^金屬迷宮^^Donjon métallique ^Metalldungeon^Mazmorra metálica
+MST_DUNGEONS_NAME_71401^Monster Carnival^勇者鬥惡龍怪物仙境^몬스터 카니발^Carnaval des monstres ^Monsterkarneval^Carnaval monstruoso
+MST_DUNGEONS_NAME_71501^Dragon King Challenge^龍王挑戰^용왕 챌린지^Défi du Lordragon^Die Herausforderung des Drachenkönigs^Desafío de Draconarius
+MST_DUNGEONS_NAME_71601^Metal Dungeon^金屬迷宮^메탈 던전^Donjon métallique ^Metalldungeon^Mazmorra metálica
 MST_DUNGEONS_NAME_71701^Shadow of the Empire^帝國之影^제국에 드리운 그늘^L'ombre de l'Empire^Schatten des Imperiums^La sombra sobre el Imperio
 MST_DUNGEONS_NAME_71801^The Battle of Judecca^朱迪卡會戰^쥬데카 전투^La bataille de Judecca^Der Kampf von Judecca^La batalla de Judecca
 MST_DUNGEONS_NAME_71901^The Empire of Light and Dark^光與影的帝國^제국의 빛과 그림자^L'Empire de lumière et de ténèbres ^Das Imperium von Hell und Dunkel^El Imperio claroscuro
@@ -170,14 +170,14 @@ MST_DUNGEONS_NAME_72504^The Persistent Swordswoman^不屈不撓的女劍士^불�
 MST_DUNGEONS_NAME_72505^The Faithful Doctor^心懷信念的藥師^신념의 약사^Le docteur dévoué^Der treue Doktor^El doctor fervoroso
 MST_DUNGEONS_NAME_72506^Journey with a Cause^探求之旅^탐구의 여행^Un voyage pour une cause ^Denn sie wissen, was sie tun^Viaje con causa
 MST_DUNGEONS_NAME_72507^When Fates Cross^交錯的命運^교차하는 운명^Destins croisés ^Wenn Schicksale sich kreuzen^Cuando los destinos se cruzan
-MST_DUNGEONS_NAME_72508^The Gathering^被召集的人們^모여든 자들^^Die Versammlung^La congregación
+MST_DUNGEONS_NAME_72508^The Gathering^被召集的人們^모여든 자들^La congrégation^Die Versammlung^La congregación
 MST_DUNGEONS_NAME_72509^Mission Accepted^特命^특명^Mission acceptée ^Mission angenommen^Misión aceptada
 MST_DUNGEONS_NAME_72510^Woods of Miasma^充滿瘴氣的森林^독기로 가득한 숲^Fôret aux miasmes ^Gifthauchwälder^Bosques Miasmáticos
 MST_DUNGEONS_NAME_89931^Rebirth of the Intangir^沉睡的獅子降臨^잠자는 사자 강림^Renaissance du Intangir^Wiedergeburt des Schläfers^Renacimiento del Intangir
 MST_DUNGEONS_NAME_89932^Surging Menace^蜂擁而至的強者們^몰려드는 강자들^Menace imminente^Wachsende Bedrohung^La amenaza se aproxima
 MST_DUNGEONS_NAME_89933^Attack of Antenolla^安忒諾拉降臨^안테노라 강림^Attaque d'Antenolla ^Antenollas Angriff^Ataque de la Antenolla
 MST_DUNGEONS_NAME_89934^Attack of the 2-Headed Dragon^雙頭巨龍降臨^투헤드 드래곤 강림^Attaque du Dragon à deux têtes^Angriff des zweiköpfigen Drachen^Ataque del Dragón bicéfalo
-MST_DUNGEONS_NAME_89935^March of the Beasts^狂魔行進^광마의 행진^Le Défilé des Bêtes <br>^Marsch der Bestien^Desfile de titanes
+MST_DUNGEONS_NAME_89935^March of the Beasts^狂魔行進^광마의 행진^Le Défilé des Bêtes ^Marsch der Bestien^Desfile de titanes
 MST_DUNGEONS_NAME_89936^Gilgamesh's Offensive^吉爾伽美什降臨^길가메시 강림^Offensive de Gilgamesh^Gilgameschs Angriff^El ataque de Gilgamesh
 MST_DUNGEONS_NAME_89937^Beasts of the Dark^暗夜魔物^어둠의 마물들^Bêtes des ténèbres ^Bestien der Dunkelheit^Bestias oscuras
 MST_DUNGEONS_NAME_89938^The Octopus Teacher^令人又愛又恨的章魚與大師^미워할 수 없는 문어 선생^Le poulpe et le maître^Der Oktupuslehrer^El pulpo y el maestro
@@ -352,7 +352,7 @@ MST_DUNGEONS_NAME_75509^Truth of the Past^過去的真相^과거의 진상^Véri
 MST_DUNGEONS_NAME_75510^The Thespian and the Warrior^傾奇者與武士^호사바치와 무사^Le comédien et le guerrier^Schauspieler und Krieger^El thespiano y el guerrero
 MST_DUNGEONS_NAME_76001^Treasured Knowledge^智慧寶庫^지혜의 보물창고^Connaissances précieuses ^Geschätztes Wissen^Conocimiento preciado
 MST_DUNGEONS_NAME_76002^The Ailing White Mage^被病魔侵蝕的白魔道士^병마에 시달리는 백마도사^Le mage blanc souffrant ^Der kranke Weißmagier^El mago blanco enfermo
-MST_DUNGEONS_NAME_76003^The Sage, the Blacksmith and the Swordsman^賢者與鍛冶師與劍鬥士^현자, 대장장이, 그리고 검투사^Le sage, le forgeron et l'épéiste ^Der Magier, der Schmied und der Schwertkämpfer^El sabio, el herrero y el espadachín
+MST_DUNGEONS_NAME_76003^The Three Masters^賢者與鍛冶師與劍鬥士^현자, 대장장이, 그리고 검투사^Le sage, le forgeron et l'épéiste ^Der Magier, der Schmied und der Schwertkämpfer^El sabio, el herrero y el espadachín
 MST_DUNGEONS_NAME_76004^Troubled Genius^天才的迷惘^재능과 방황^Génie troublé ^Genie in Not^Genio desquiciado
 MST_DUNGEONS_NAME_76005^Clouded Heart^逐漸憂鬱之心^흐려진 마음^Esprit nébuleux^Umwölktes Herz^Corazón nublado
 MST_DUNGEONS_NAME_76006^Gazing at Life^注視生命^삶을 직시하며^Contempler la vie^Sehnsucht nach Leben^Observando la vida
@@ -375,8 +375,8 @@ MST_DUNGEONS_NAME_113101^Uku Plains^烏庫平原^우크 평원^Plaines d'Uku^Uku
 MST_DUNGEONS_NAME_113102^Tiram Forest^迪利姆之森^티림 숲^Forêt de Tiram^Tiram-Wald^Bosque de Tiram
 MST_DUNGEONS_NAME_113103^Kopan Ruins^科潘遺跡群^코팬 유적지^Ruines de Kopan^Kopan-Ruinen^Ruinas de Kopan
 MST_DUNGEONS_NAME_113104^Tree of Naturia^那托利亞的大樹^나투리아의 거목^Arbre de Naturia^Baum von Naturia^Árbol de Naturia
-MST_DUNGEONS_NAME_113105^Petra, Forest of Illusion^貝多拉幻想林^페트라 환상림^Pétra, Forêt des illusions^Petra, Wald der Illusion^Petra, bosque de la ilusión
-MST_DUNGEONS_NAME_113106^Budoon Jungle^布德翁密林地帶^부둔 밀림지대^Jungle de Budoon^Budoon-Dschungel^Jungla de Budoon
+MST_DUNGEONS_NAME_113105^Petra, Forest of Illusion^貝多拉幻想林^페트라 환상림^Pétra, Forêt des illusions^Petra, Wald der Illusion^Petra, bosque ilusorio
+MST_DUNGEONS_NAME_113106^Budoon Jungle^布德翁密林地帶^부둔 밀림지대^Jungle de Budoon^Budoon-Dschungel^Jungla Budoon
 MST_DUNGEONS_NAME_113107^Forbidden Land^禁斷之地^금단의 땅^Terre interdite^Verbotenes Land^Tierra prohibida
 MST_DUNGEONS_NAME_113108^Petra, Walkway Home^貝多拉幻想林歸途^페트라 환상림 귀로^Pétra, chemin du retour^Petra, Heimweg^Petra, camino a casa
 MST_DUNGEONS_NAME_113109^Giant Forest^巨木森林帶^거목 수림지대^Forêt géante^Gigantischer Waldgürtel^Bosque gigante
@@ -427,7 +427,7 @@ MST_DUNGEONS_NAME_76201^The True Garuda^真迦樓羅殲滅戰^진 가루다 토�
 MST_DUNGEONS_NAME_76301^Dark Castle^黑暗城堡^어둠의 성^Château obscur^Dunkles Schloss^Castillo oscuro
 MST_DUNGEONS_NAME_76401^Glaive Castle - Exploration^格蘭斯城・探索^글랜스 성·탐색^Château de Glaive - Exploration^Schloss Glaive - Erkundung^Castillo de Glaive - Exploración
 MST_DUNGEONS_NAME_76601^Imperial Infiltration^對帝國做出反擊^제국을 향한 반격^Riposte contre l'empire^Rachefeldzug^Ojo por ojo
-MST_DUNGEONS_NAME_76701^Fort Vaullerey - Battle with Aranea^沃拉雷基地・艾拉妮亞戰^볼라레 기지·아라네아 전^Base de Vaullerey - Face à Aranea^Vaullerey-Basis - Kampf mit Aranea^Base de Vaullerey - Contra Aranea
+MST_DUNGEONS_NAME_76701^Fort Vaullerey - Battle with Aranea^沃拉雷基地・艾拉妮亞戰^볼라레 기지·아라네아 전^Fort Vaullerey - Face à Aranea^Vaullerey-Basis - Kampf mit Aranea^Base de Vaullerey - Combate contra Aranea
 MST_DUNGEONS_NAME_76801^Yensa Sandsea^焉薩大沙海^옌사 대사해^Mer de sable d'Yensa^Yensa-Sandsee^Arenas de Yensa
 MST_DUNGEONS_NAME_76901^Nam-Yensa Sandsea - Exploration^大沙海那姆・焉薩・探索^대사해 냄 옌사·탐색^Mer de sable de Nam-Yensa^Nam-Yensa-Sandsee - Erkundung^Arenas de Nam Yensa - Exploración
 MST_DUNGEONS_NAME_77101^Luxendarc, Land of Light and Shadow^光與暗的世界盧森達爾克^빛과 어둠의 세계 룩센다르크^Lucsendarc, Terre d'ombre et de lumière<br>^Luxendarc, Land von Licht und Schatten^Luxendarc, tierra de la luz y las sombras

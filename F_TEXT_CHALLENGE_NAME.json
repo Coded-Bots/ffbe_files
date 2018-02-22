@@ -936,8 +936,8 @@ MST_CHALLENGE_NAME_13103012^Use 2 or more limit bursts^使用至少2次極限技
 MST_CHALLENGE_NAME_13103013^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_13103020^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_13103021^Deal ice damage^對敵人造成冰屬性傷害^얼음속성으로 적에게 피해를 줌^Infligez des dégâts de glace à un ennemi^Füge einem Gegner Eisschaden zu^Inflige daño de hielo a un enemigo
-MST_CHALLENGE_NAME_13103022^Use 2 or more limit bursts^使用至少2次極限技^LB를 2회 이상 사용^Ne pas utiliser Continuer^Benutze mind. 2 Mal einen Limitrausch^Usa 2 Estallidos Límite o más
-MST_CHALLENGE_NAME_13103023^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Utilisez 2 limites ou plus^Kein Weitermachen^No uses Continuar
+MST_CHALLENGE_NAME_13103022^Use 2 or more limit bursts^使用至少2次極限技^LB를 2회 이상 사용^Utilisez 2 limites ou plus^Benutze mind. 2 Mal einen Limitrausch^Usa 2 Estallidos Límite o más
+MST_CHALLENGE_NAME_13103023^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_13103030^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_13103031^No limit bursts^不使用極限技^LB를 사용하지 않고 완료^Ne pas utiliser de limite^Kein Limitrausch^No uses Estallido Límite
 MST_CHALLENGE_NAME_13103032^Use magic 3 or more times^使用至少3次魔法^마법을 3회 이상 사용^Utilisez la magie 3 fois ou plus^Benutze mind. 3 Mal Magie^Usa magia 3 veces o más
@@ -5229,7 +5229,7 @@ MST_CHALLENGE_NAME_75301022^Use white magic^使用「白魔法」^'백'마법을
 MST_CHALLENGE_NAME_75301023^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab, ohne dass ein Verbündeter kampfunfähig wird^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_75301030^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_75301031^Use magic 3 or more times^使用至少3次魔法^마법을 3회 이상 사용^Utilisez la magie 3 fois ou plus^Benutze mind. 3 Mal Magie^Usa magia 3 veces o más
-MST_CHALLENGE_NAME_75301032^Defeat Zorn within 5 turns^在5回合以內終結「佐恩」戰^'존' 전투 5턴 이내에 완료^Terrassez Pile en 5 tours max.^Besiege Zorn in 5 Runden^Derrota a Zorn en 5 turnos
+MST_CHALLENGE_NAME_75301032^Defeat Zorn within 5 turns^在5回合以內終結「佐恩」戰^'존' 전투 5턴 이내에 완료^Terrassez Pile en 5 tours max.^Besiege Zon in 5 Runden^Derrota a Zorn en 5 turnos
 MST_CHALLENGE_NAME_75301033^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab, ohne dass ein Verbündeter kampfunfähig wird^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_75301040^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_75301041^Use 3 or more limit bursts^使用至少3次極限技^LB를 3회 이상 사용^Utilisez 3 limites ou plus^Benutze mind. 3 Mal einen Limitrausch^Usa Estallido Límite 3 veces o más
@@ -5237,11 +5237,15 @@ MST_CHALLENGE_NAME_75301042^Defeat bandersnatch with magic^使用魔法終結「
 MST_CHALLENGE_NAME_75301043^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab, ohne dass ein Verbündeter kampfunfähig wird^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_75301050^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_75301051^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab, ohne dass ein Verbündeter kampfunfähig wird^Ningún aliado ha quedado K.O.
-MST_CHALLENGE_NAME_75301052^Defeat General Beatrix with a limit burst^使用極限技終結「貝特麗克絲」^'베아트릭스'를 LB로 처치^Terrassez Générale Béate avec une limite^Besiege Generalin Beatrix mit einem Limitrausch^Derrota a la general Beatrix con un EL
+MST_CHALLENGE_NAME_75301052^Defeat General Beatrix with a limit burst^使用極限技終結「貝特麗克絲」^'베아트릭스'를 LB로 처치^Terrassez Générale Béate avec une limite^Besiege Beatrix mit einem Limitrausch^Derrota a la general Beatrix con un EL
 MST_CHALLENGE_NAME_75301053^Party of 4 or less (Companion included)^隊伍人數最多4人（包括同行者）^파티 인원수 4명 이하(동행자 포함)^Groupe de 4 ou moins (partenaire inclus)^Gruppe von höchstens 4 (einschl. Begleiter)^Grupo de 4 o menos (compañero incluido)
+MST_CHALLENGE_NAME_75301060^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
+MST_CHALLENGE_NAME_75301061^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab, ohne dass ein Verbündeter kampfunfähig wird^Ningún aliado ha quedado K.O.
+MST_CHALLENGE_NAME_75301062^Use no more than 3 items^使用道具次數在3次以內^아이템 사용 횟수 3회 이내^N'utilisez pas plus de 3 objets^Benutze höchstens 3 Gegenstände^Usa 3 objetos o menos
+MST_CHALLENGE_NAME_75301063^Party of 4 or less (Companion included)^隊伍人數最多4人（包括同行者）^파티 인원수 4명 이하(동행자 포함)^Groupe de 4 ou moins (partenaire inclus)^Gruppe von höchstens 4 (einschl. Begleiter)^Grupo de 4 o menos (compañero incluido)
 MST_CHALLENGE_NAME_75401020^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_75401021^Use 3 or more limit bursts^使用至少3次極限技^LB를 3회 이상 사용^Utilisez 3 limites ou plus^Benutze mind. 3 Mal einen Limitrausch^Usa Estallido Límite 3 veces o más
-MST_CHALLENGE_NAME_75401022^Defeat the ralvuimago within 10 turns^在10回合以內終結「拉爾瓦成體」戰^'랄바이마고' 전투 10턴 이내에 완료^Terrassez le Larvalar en 10 tours max.^Besiege Ralvuimago innerhalb von 10 Runden^Derrota a la larválida X en 10 turnos
+MST_CHALLENGE_NAME_75401022^Defeat the ralvuimago within 10 turns^在10回合以內終結「拉爾瓦成體」戰^'랄바이마고' 전투 10턴 이내에 완료^Terrassez le Larvalar en 10 tours max.^Besiege Königsbasilisk innerhalb von 10 Runden^Derrota a la larválida X en 10 turnos
 MST_CHALLENGE_NAME_75401023^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab, ohne dass ein Verbündeter kampfunfähig wird^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_75401010^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_75401011^No items^不使用道具^아이템을 사용하지 않고 완료^Ne pas utiliser d'objets^Keine Gegenstände^No uses objetos
@@ -8270,7 +8274,7 @@ MST_CHALLENGE_NAME_90027133^Defeat Bakuya with an esper^使用幻獸終結「莫
 MST_CHALLENGE_NAME_90027140^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_90027141^Deal fire and wind damage^對敵人造成火・風屬性傷害^불·바람속성으로 적에게 피해를 줌^Infligez des dégâts de feu et de vent à un ennemi^Füge einem Gegner Feuer- und Windschaden zu.^Inflige daño de fuego y viento a un enemigo
 MST_CHALLENGE_NAME_90027142^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
-MST_CHALLENGE_NAME_90027143^Defeat Bakuya with a magic^使用魔法終結「莫邪」^'막야'를 마법으로 처치^Terrassez Bakuya avec de la magie^Besiege Bakuya mit Magie^Derrota a Bakuya con magia
+MST_CHALLENGE_NAME_90027143^Defeat Bakuya with magic^使用魔法終結「莫邪」^'막야'를 마법으로 처치^Terrassez Bakuya avec de la magie^Besiege Bakuya mit Magie^Derrota a Bakuya con magia
 MST_CHALLENGE_NAME_90027150^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_90027151^Find Kanshou and Bakuya within 2 mins^2分鐘內找到「干將莫邪」^2분 내에 '간장과 막야' 찾기^Trouvez Kanshou et Bakuya en 2 mins max.^Finde Kanshou und Bakuya innerhalb von 2 Minuten^Encuentra a Kanshou y Bakuya en menos de 2 minutos
 MST_CHALLENGE_NAME_90027152^Complete the quest within 3 mins^3分鐘內完成任務^3분 내에 퀘스트를 완료^Terminez la quête en 3 minutes^Schließe den Auftrag in 3 Minuten ab^Completa la misión en 3 minutos
@@ -8286,7 +8290,7 @@ MST_CHALLENGE_NAME_90027173^Defeat Kanshou with an esper^使用幻獸終結「�
 MST_CHALLENGE_NAME_90027180^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_90027181^Collect from 5 or more harvest points within 2 mins^2分鐘內收集5個以上的採集點^지도에서 다섯 곳 이상 '채집'하여 완료^Collectez 5 points de collecte ou plus en 2 mins^Sammle 5 oder mehr Erntepunkte in 2 Minuten^Consigue 5 puntos de recolección en 2 minutos
 MST_CHALLENGE_NAME_90027182^Party of 4 or less (Companion included)^隊伍人數最多4人（包括同行者）^파티 인원수 4명 이하(동행자 포함)^Groupe de 4 ou moins (partenaire inclus)^Gruppe von höchstens 4 (einschl. Begleiter)^Grupo de 4 o menos (compañero incluido)
-MST_CHALLENGE_NAME_90027183^Defeat Kanshou with an ability^使用能力終結「干將」^'관장'을 어빌리티로 처치^Terrassez Kanshou avec une aptitude^Besiege Kanshou mit einer Fertigkeit<br>^Derrota a Kanshou con una habilidad
+MST_CHALLENGE_NAME_90027183^Defeat Kanshou with an ability^使用能力終結「干將」^'간장'을 어빌리티로 처치^Terrassez Kanshou avec une aptitude^Besiege Kanshou mit einer Fertigkeit<br>^Derrota a Kanshou con una habilidad
 MST_CHALLENGE_NAME_90027190^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_90027191^Deal dark damage^對敵人造成暗屬性傷害^어둠속성으로 적에게 피해를 줌^Infligez des dégâts de ténèbres à un ennemi^Füge einem Gegner Dunkelschaden zu^Inflige daño oscuro a un enemigo
 MST_CHALLENGE_NAME_90027192^Deal light damage^對敵人造成光屬性傷害^빛속성으로 적에게 피해를 줌^Infligez des dégâts de lumière à un ennemi^Füge einem Gegner Lichtschaden zu^Inflige daño de luz a un enemigo
@@ -8305,7 +8309,7 @@ MST_CHALLENGE_NAME_90027222^Use a limit burst^使用極限技^LB를 사용해 �
 MST_CHALLENGE_NAME_90027223^Find Kanshou and Bakuya within 2 mins^2分鐘內找到「干將莫邪」^2분 내에 '간장과 막야' 찾기^Trouvez Kanshou et Bakuya en 2 mins max.^Besiege Kanshou und Bakuya innerhalb von 2 Minuten^Encuentra a Kanshou y Bakuya en menos de 2 minutos
 MST_CHALLENGE_NAME_90027230^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_90027231^No items^不使用道具^아이템을 사용하지 않고 완료^Ne pas utiliser d'objets^Keine Gegenstände^No uses objetos
-MST_CHALLENGE_NAME_90027232^Defeat Kanshou with a limit burst^使用極限技終結「干將」^'관장'을 LB로 처치^Terrassez Kanshou avec une limite^Besiege Kanshou mit einem Limitrausch^Derrota a Kanshou con un EL
+MST_CHALLENGE_NAME_90027232^Defeat Kanshou with a limit burst^使用極限技終結「干將」^'간장'을 LB로 처치^Terrassez Kanshou avec une limite^Besiege Kanshou mit einem Limitrausch^Derrota a Kanshou con un EL
 MST_CHALLENGE_NAME_90027233^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_90027240^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_90027241^Party of 4 or less (Companion included)^隊伍人數最多4人（包括同行者）^파티 인원수 4명 이하(동행자 포함)^Groupe de 4 ou moins (partenaire inclus)^Gruppe von höchstens 4 (einschl. Begleiter)^Grupo de 4 o menos (compañero incluido)

@@ -2831,7 +2831,7 @@ MST_ABILITY_NAME_216180^Kotetsu Flash^虎鐵一閃^코테츠 일섬^Éclair du t
 MST_ABILITY_NAME_216190^Way of the Mind's Eye^心眼菊一文字^심안의 키쿠이치몬지^Troisième œil^Weg des geistigen Auges^Tercer ojo
 MST_ABILITY_NAME_216200^Hien^飛燕^비연^Hien^Hien^Hien
 MST_ABILITY_NAME_216210^Slaughtering Blade^斬瞬刀^참순도^Lame sanguinaire^Schlachtklinge^Hoja sanguinaria
-MST_ABILITY_NAME_216220^Tri-Guard^路希斯三強^루시스 3대 강호^Les 3 champions du Lucis^Die drei stärksten von Lucis^Los 3 magníficos de Lucis
+MST_ABILITY_NAME_216220^Tri-Guard^路希斯三強^루시스 3대 강호^Les 3 champions du Lucis^Die drei Stärksten von Lucis^Los 3 magníficos de Lucis
 MST_ABILITY_NAME_216230^Katana Mastery+^刀之奧義改^개량형 도의 비법^Maîtrise des katanas+^Katana-Meisterschaft+^Maestría de katana+
 MST_ABILITY_NAME_216240^The Immortal^不死將軍^불사장군^L'immortel^Der Unsterbliche^Líder inmortal
 MST_ABILITY_NAME_216250^White Knight^安全防禦^세이프티 가드^Dôme protecteur^Schutzamulett^Higa protectora
@@ -2840,7 +2840,7 @@ MST_ABILITY_NAME_216270^Moogle Attack^莫古利攻擊^모그리 공격^Attaque m
 MST_ABILITY_NAME_216280^Here To Help^我來幫忙囉！^도와 줄게!^Ici pour aider^Hier um zu helfen^Ahora os ayudo
 MST_ABILITY_NAME_216290^Cheer Up^振作一點！^기운 내!^Allez, courage !^Aufheitern^Vamos, ánimo
 MST_ABILITY_NAME_216300^Double Step^雙重墊步^더블 스텝^Double pas^Doppelschritt^Paso doble
-MST_ABILITY_NAME_216310^Don't Give Up^現在才開始！^지금부터야!^N'abandonne pas !^Nicht aufgeben^No te rindas
+MST_ABILITY_NAME_216310^It's time!^現在才開始！^지금부터야!^Ça ne fait que commencer !^Jetzt leg ich los!<br>^¡Ha llegado el momento!
 MST_ABILITY_NAME_216320^Here To Heal^馬上幫你治療喔！^금방 고쳐줄게!^Ici pour soigner^Hier um zu heilen^Ahora te curo
 MST_ABILITY_NAME_216330^Daughter of Amicitia^艾米提亞家的女兒^아미시티아 가문의 딸^Fille d'Amicitia^Tochter Amicitias^Hija de Amicitia
 MST_ABILITY_NAME_216340^Iris's Bouquet^伊莉絲的花束^아이리스의 꽃다발^Bouquet d'Iris^Iris' Bouquet^Buqué de Iris
@@ -2900,71 +2900,71 @@ MST_ABILITY_NAME_216870^Drakefall^輝龍降天^휘룡강천^Descente du dragon^D
 MST_ABILITY_NAME_216880^Drakes Call^應龍破天^응룡파천^Appel du dragon^Drachenruf^Llamada del draco
 MST_ABILITY_NAME_216890^Heavenfall Spear^飛天滅龍槍^비천명룡창^Lance tombeciel^Himmelsfallspeer^Lanza derrumbacielos
 MST_ABILITY_NAME_216900^Null Disease^生病無效^질병 무효^Annuler maladie^Virus-Annullierung^Anular enfermedad
-MST_ABILITY_NAME_217050^Holy Tech - Thunder Slash^聖劍技・雷鳴劍^성검기·뇌명검^Lame Ste - Foudrolle^Heilige Tech - Donnerhieb^Ira santa - Sable eléctrico
-MST_ABILITY_NAME_217060^Holy Tech - Stock Break^聖劍技・破曉斬^성검기·스톡 브레이크^Lame Ste - Fente^Heilige Tech - Angriffrausch^Ira santa - Devastación
-MST_ABILITY_NAME_217070^Holy Tech - Climhazzard^聖劍技・天災^성검기·클라임 해저드^Lame Ste - Mortimer^Heilige Tech - Climgefahr^Ira santa - Guillotina
-MST_ABILITY_NAME_217080^Holy Tech - Shock^聖劍技・震擊^성검기·쇼크^Lame Ste - Choc^Heilige Tech - Schock^Ira santa - Shock
-MST_ABILITY_NAME_217090^Holy Tech - Saint Bringer^聖劍技・聖使^성검기·세인트 브링거^Lame Ste - Porteur de l'aube^Heilige Tech - Heilsbringer^Ira santa - Portador del alba
-MST_ABILITY_NAME_217100^Graceful Paladin^流麗聖騎士^유려한 성기사^Chevalier sacré élégant^Eleganter Heiliger Ritter^Caballero sacro elegante
-MST_ABILITY_NAME_217110^Absolute Loyalty^絕對忠誠心^절대적인 충성심^Loyauté absolue^Absolute Loyalität^Lealtad absoluta
-MST_ABILITY_NAME_217120^100-Knight Slayer^異名・百人斬^이명·백 명 베기^Tueur : Cent hommes^100 Manntöter^Matador: cien hombres
+MST_ABILITY_NAME_217050^Holy Tech - Thunder Slash^聖劍技・雷鳴劍^성검기·뇌명검^Lame Ste - Foudrolle^Heiliges Schwert - Schocker^Ira santa - Sable eléctrico
+MST_ABILITY_NAME_217060^Holy Tech - Stock Break^聖劍技・破曉斬^성검기·스톡 브레이크^Lame Ste - Fente^Heiliges Schwert - Donnerklinge^Ira santa - Devastación
+MST_ABILITY_NAME_217070^Holy Tech - Climhazzard^聖劍技・天災^성검기·클라임 해저드^Lame Ste - Mortimer^Heiliges Schwert - Exekutionsschlag^Ira santa - Guillotina
+MST_ABILITY_NAME_217080^Holy Tech - Shock^聖劍技・震擊^성검기·쇼크^Lame Ste - Choc^Heiliges Schwert - Atomisator^Ira santa - Shock
+MST_ABILITY_NAME_217090^Holy Tech - Saint Bringer^聖劍技・聖使^성검기·세인트 브링거^Lame Ste - Porteur de l'aube^Heiliges Schwert - Heilsbringer^Ira santa - Portador del alba
+MST_ABILITY_NAME_217100^Graceful Paladin^流麗聖騎士^유려한 성기사^Chevalier sacré élégant^Bedingungslose Loyalität^Hermosa paladina
+MST_ABILITY_NAME_217110^Absolute Loyalty^絕對忠誠心^절대적인 충성심^Loyauté absolue^Heiliger Ritter^Lealtad absoluta
+MST_ABILITY_NAME_217120^100-Knight Slayer^異名・百人斬^이명·백 명 베기^Pourfendeur de chevaliers^Hundertschlitzer^Verdugo de cientos
 MST_ABILITY_NAME_217130^Beatrix's Eyepatch^貝特麗克絲的眼帶^베아트릭스의 안대^Cache-œil de Béate^Beatrix' Augenverband^Parche de Beatrix
-MST_ABILITY_NAME_217140^Summoner's Horn^召喚士的角^소환사의 뿔^Corne de l'invocateur^Beschwörerhorn^Cuerno de invocador
-MST_ABILITY_NAME_217150^Summoner Descendant^召喚士一族的後裔^소환사 일족의 후예^Descendante d'invocateur^Beschwörernachfahre^Descendiente de invocador
-MST_ABILITY_NAME_217160^Mog's Friendship^與莫古利的友情^모그와의 우정^Amitié de mog^Mogry-Freundschaft^Amistad moguri
-MST_ABILITY_NAME_217170^Precocious Summoner^早熟的召喚士^깜찍한 소환사^Invocateur précoce^Frühreifer Beschwörer^Invocador precoz
-MST_ABILITY_NAME_217180^Moogle Ribbon^莫古利的緞帶^모그의 리본^Ruban de mog^Mogry-Band^Cinta de moguri
+MST_ABILITY_NAME_217140^Summoner's Horn^召喚士的角^소환사의 뿔^Corne de l'invocateur^Beschwörerhorn^Cuerno de invocadora
+MST_ABILITY_NAME_217150^Summoner Descendant^召喚士一族的後裔^소환사 일족의 후예^Descendante d'invocateur^Letzte Nachkommin^Descendiente de invocadoras
+MST_ABILITY_NAME_217160^Mog's Friendship^與莫古利的友情^모그와의 우정^Amitié de mog^Mogry-Freundschaft^Amistad de Mogu
+MST_ABILITY_NAME_217170^Precocious Summoner^早熟的召喚士^깜찍한 소환사^Invocateur précoce^Frühreife Beschwörerin^Invocadora precoz
+MST_ABILITY_NAME_217180^Mog's Ribbon^莫古利的緞帶^모그 리본^Ruban de mog^Mogry-Band^Cinta de moguri
 MST_ABILITY_NAME_217190^Dark Blade^暗黑劍^암흑검^Ténébreuse^Dunkelklinge^Sable negro
 MST_ABILITY_NAME_217200^Charge Through^突擊^돌격^Estoc^Durchbrechen^Acometida
-MST_ABILITY_NAME_217210^Sword Art - Shock^騎士劍技・雷鳴劍^기사의 검기·뇌명검^Lame de Chev - Foudrolle^Ritter-Tech - Donnerhieb^Ira santa - Sable eléctrico
-MST_ABILITY_NAME_217220^Sword Art - Stock Break^騎士劍技・破曉斬^기사의 검기·스톡 브레이크^Lame de Chev - Fente^Ritter-Tech - Angriffrausch^Ira santa - Devastación
-MST_ABILITY_NAME_217230^Sword Art - Climhazzard^騎士劍技・天災^기사의 검기·클라임 해저드^Lame de Chev - Mortimer^Ritter-Tech - Climgefahr^Ira santa - Guillotina
-MST_ABILITY_NAME_217240^Sword Art - Shock^騎士劍技・震擊^기사의 검기·충격타^Lame de Chev - Choc^Ritter-Tech - Schock^Ira santa - Shock
+MST_ABILITY_NAME_217210^Sword Art - Shock^騎士劍技・雷鳴劍^기사의 검기·뇌명검^Lame de Chev - Foudrolle^Schwertkunst - Donnerklinge<br>^Ira santa - Sable eléctrico
+MST_ABILITY_NAME_217220^Sword Art - Stock Break^騎士劍技・破曉斬^기사의 검기·스톡 브레이크^Lame de Chev - Fente^Schwertkunst - Exekutionsschlag^Ira santa - Devastación
+MST_ABILITY_NAME_217230^Sword Art - Climhazzard^騎士劍技・天災^기사의 검기·클라임 해저드^Lame de Chev - Mortimer^Schwertkunst - Atomisator^Ira santa - Guillotina
+MST_ABILITY_NAME_217240^Sword Art - Shock^騎士劍技・震擊^기사의 검기·충격타^Lame de Chev - Choc^Schwertkunst -Schocker^Ira santa - Shock
 MST_ABILITY_NAME_217250^Moonlight Slash^月光斬^월광참^Entaille Clairdelune^Mondsichel^Sable luz de luna
-MST_ABILITY_NAME_217260^Pluto Captain^冥王隊隊長^플루토 부대 대장^Capitaine Pluton^Pluto-Kapitän^Capitán Pluto
+MST_ABILITY_NAME_217260^Pluto Captain^冥王隊隊長^플루토 부대 대장^Capitaine des Brutos^Kapitän des Pluto-Trupps<br>^Capitán Pluto
 MST_ABILITY_NAME_217270^Jelly^永不凝固之術^굳지 않는 기술^Toudoux^Gelee^AntiPiedra
 MST_ABILITY_NAME_217280^Bright Eyes^失明迴避之術^암흑 회피 기술^Orphée^Strahlende Augen^AntiCeguera
-MST_ABILITY_NAME_217290^Tin Plate Helm^鍍錫鐵頭盔^브리키의 투구^Casque de laiton^Zinnblechhelm^Yelmo de latón
+MST_ABILITY_NAME_217290^Tin Plate Helm^鍍錫鐵頭盔^양철 투구^Casque de laiton^Zinnblechhelm^Yelmo de latón
 MST_ABILITY_NAME_217300^Mist^霧^안개^Brume^Nebel^Niebla
 MST_ABILITY_NAME_217310^Dark Lightning^暗黑之雷^암흑의 번개^Foudre sombre^Dunkelblitz^Rayo negro
 MST_ABILITY_NAME_217320^Proof of Existence^存在證明^존재의 증명^Preuve d'existence^Existenzbeweis^Prueba de existencia
 MST_ABILITY_NAME_217330^Electric Mist^帶電之霧^전기의 안개^Brume électrique^Elektronebel^Niebla eléctrica
-MST_ABILITY_NAME_217340^Evil Strike^魔霧雷擊^악마의 전격^Coup maléfique^Teuflicher Schlag^Golpe malvado
+MST_ABILITY_NAME_217340^Evil Strike^魔霧雷擊^악마의 전격^Coup maléfique^Teuflischer Blitzschlag<br>^Golpe malvado
 MST_ABILITY_NAME_217350^Black Impulse^漆黑衝動^검은 충동^Impulsion noire^Schwarzer Impuls^Pulso negro
-MST_ABILITY_NAME_217360^Life Steal^盜命^라이프 스틸^Vol-vie^Leben stehlen^Robavida
-MST_ABILITY_NAME_217370^Magic Steal^盜魔^매직 스틸^Vol-magie^Magie stehlen^Robamagia
-MST_ABILITY_NAME_217380^Physical Steal^盜身^피지컬 스틸^Vol-physique^Physisch stehlen^Robafísico
-MST_ABILITY_NAME_217390^Mental Steal^盜心^멘탈 스틸^Vol-psychique^Mental Stehlen^Robaespíritu
+MST_ABILITY_NAME_217360^Life Steal^盜命^라이프 스틸^Vol-vie^Lebensraub^Robavida
+MST_ABILITY_NAME_217370^Magic Steal^盜魔^매직 스틸^Vol-magie^Magieraub^Robamagia
+MST_ABILITY_NAME_217380^Physical Steal^盜身^피지컬 스틸^Vol-physique^Physisraub^Robafísico
+MST_ABILITY_NAME_217390^Mental Steal^盜心^멘탈 스틸^Vol-psychique^Psychenraub^Robaespíritu
 MST_ABILITY_NAME_217400^Soul Blade^刀魂放氣^도혼방기^Amépée^Seelenklinge^Activar arma
 MST_ABILITY_NAME_217410^Sacrifice^犧牲^희생^Solidarité^Opfer^Inmolación
 MST_ABILITY_NAME_217420^Lucky Seven^幸運7^럭키 세븐^Coudepot^Glückssieben^Súper 7
 MST_ABILITY_NAME_217430^Free Energy^能量解放^자유로운 힘^Energétik^Kostenlose Energie^Energía libre
-MST_ABILITY_NAME_217440^Steal Chance^盜取良機^스틸 찬스^Chance de vol^Stehlenchance^Oportunidad de robo
-MST_ABILITY_NAME_217450^Dual Edge^雙重刀刃^듀얼 엣지^Double tranchant^Doppelschneide^Hoja dual
+MST_ABILITY_NAME_217440^Steal Chance^盜取良機^스틸 찬스^Chance de vol^Langfinger^Oportunidad de robo
+MST_ABILITY_NAME_217450^Dual Edge^雙重刀刃^듀얼 엣지^Double tranchant^Doppelschneide^Hojas gemelas
 MST_ABILITY_NAME_217460^Clear Headed^混亂迴避之術^혼란 회피 기술^Détrouble^Klarer Kopf^AntiConfusión
 MST_ABILITY_NAME_217470^Insomniac^永不昏睡之術^잠깨는 기술^Nuit blanche^Schlaflos^AntiSueño
-MST_ABILITY_NAME_217480^Tantalus Thieves' Troupe^盜賊團坦塔羅斯^도적단 탄탈러스^Bande de Tantalus^Tantalus-Diebesgilde^Banda de Tantalus
-MST_ABILITY_NAME_217490^Life Harmony^生命和聲^생명의 하모니^Harmonie vitale^Harmonie des Lebens^Harmonía vital
-MST_ABILITY_NAME_217500^Summoner's Memory^召喚士的記憶^소환사의 기억^Souvenirs d'invocateur^Beschwörererinnerung^Recuerdos de invocador
+MST_ABILITY_NAME_217480^Tantalus Thieves' Troupe^盜賊團坦塔羅斯^도적단 탄탈러스^Troupe des Tantalas^Tantalus-Diebesbande^Banda Tantalus
+MST_ABILITY_NAME_217490^Life Harmony^生命和聲^생명의 하모니^Harmonie vitale^Harmonie des Lebens^Armonía vital
+MST_ABILITY_NAME_217500^Summoner's Memory^召喚士的記憶^소환사의 기억^Souvenirs d'invocateur^Erinnerung der Beschwörer<br>^Recuerdos de invocadora
 MST_ABILITY_NAME_217510^Chemist^藥劑師之證^약제사 면허^Herboriste^Apotheker^Diploma médico
 MST_ABILITY_NAME_217520^Princess of Alexandria^亞力山德利亞公主^알렉산드리아의 공주^Princesse d'Alexandrie^Prinzessin von Alexandria^Princesa de Alexandria
 MST_ABILITY_NAME_217530^Magical Perception^魔力感知^마력 감지^Perception magique^Magische Wahrnehmung^Percepción mágica
 MST_ABILITY_NAME_217540^Loudmouth^沉默迴避之術^침묵 회피의 기술^Parlotte^Großmaul^AntiMudez
 MST_ABILITY_NAME_217550^Insomniac^永不昏睡之術^잠깨는 기술^Nuit blanche^Schlaflos^AntiSueño
-MST_ABILITY_NAME_217560^Focus Magic^累積魔力^마력 모으기^Concentration magique^Fokusmagie^Concentrar magia
-MST_ABILITY_NAME_217570^Proof of Life^生命證明^삶의 증명^Preuve de vie^Lebenszeichen^Demostración de vida
-MST_ABILITY_NAME_217580^Angel of Death^戰亂死神^전란의 사신^Dieu de la guerre^Kriegsgott^Dios de la guerra
+MST_ABILITY_NAME_217560^Focus Magic^累積魔力^마력 모으기^Concentration magique^Magiefokus^Concentramagia
+MST_ABILITY_NAME_217570^Proof of Life^生命證明^삶의 증명^Preuve de vie^Lebenszeichen^Prueba de vida
+MST_ABILITY_NAME_217580^Angel of Death^戰亂死神^전란의 사신^Ange de la mort^Engel des Todes^Dios de la guerra
 MST_ABILITY_NAME_217590^Attachment to Life^對生存的執著^삶을 향한 집착^Amour de la vie^Lebenswille^Apego a la vida
-MST_ABILITY_NAME_217600^Flare Counter^核爆反擊^불꽃의 맞받아치기^ContreBrasier^Flammenkonter^ContraFulgor
+MST_ABILITY_NAME_217600^Flare Counter^核爆反擊^불꽃의 맞받아치기^Contre-Brasier^Flammenkonter^ContraFulgor
 MST_ABILITY_NAME_217610^Frozen Hurricane^冰凍颶風^프로즌 허리케인^Ouragan gelé^Eisiger Sturmwind^Huracán gélido
 MST_ABILITY_NAME_217620^Auto-Faith^自動信念^자동 페이스^Auto-foi^Auto-Ener^AutoFé
 MST_ABILITY_NAME_217630^Spirit^精神力^스피릿^Esprit^Geist^Espíritu
 MST_ABILITY_NAME_217640^Girder^棟樑^대들보^Poutre^Träger^Viga
 MST_ABILITY_NAME_217650^Hat Arts^帽子秘義^모자의 비의^Art du chapeau^Hutkünste^Destreza con sombrero
-MST_ABILITY_NAME_217660^Crypto Performance^秘密吹奏^비밀스러운 움직임^Crypto-intervention^Geheime Darbietung^Criptoactuación
+MST_ABILITY_NAME_217660^Crypto Performance^秘密吹奏^비밀스러운 움직임^Crypto-intervention^Geheime Darbietung^Inspiración teatral
 MST_ABILITY_NAME_217670^Flare Star^耀星^플레어 스타^Astre flamboyant^Feuerstern^Estrella fulgurante
-MST_ABILITY_NAME_217680^Passion Performance^熱情吹奏^열정적인 움직임^Intervention passionnante^Leidenschaftliche Darbietung^Actuación apasionada
-MST_ABILITY_NAME_217690^Prayer to the Eidolons^向幻獸祈禱^환수를 향한 기도^Prière aux chimères^Espergebet^Oración a los espers
+MST_ABILITY_NAME_217680^Passion Performance^熱情吹奏^열정적인 움직임^Intervention passionnante^Leidenschaftliche Darbietung^Pasión teatral
+MST_ABILITY_NAME_217690^Prayer to the Eidolons^向幻獸祈禱^환수를 향한 기도^Prière aux chimères^Bestiagebet^Oración al más allá
 MST_ABILITY_NAME_217700^Lightning 2^雷擊二式^뇌격 2식^Éclair II^Blitzschlag 2^Relámpago II
 MST_ABILITY_NAME_217710^Mental Focus^心無雜念^심두멸각^Concentration mentale^Absoluter Fokus^Foco mental
 MST_ABILITY_NAME_217720^Shadow Slice^暗影斬^그림자 베기^Entaille sombre^Schattenschnitt^Corte sombrío
@@ -3103,7 +3103,7 @@ MST_ABILITY_NAME_219090^Zealous Fighter^熱血格鬥家^열혈 싸움꾼^Combatt
 MST_ABILITY_NAME_219100^Status Reels^狀態轉軸^스테이터스 릴^Altérations^Statusball^Ruleta de estados
 MST_ABILITY_NAME_219110^Sleep Buster^睡眠衝擊^슬리플 버스터^Attaque Sommeil +^Schlafjäger^Ataque Morfeo+
 MST_ABILITY_NAME_219120^Element Reels^元素轉軸^엘리멘트 릴^Eléments^Elementball^Ruleta elemental
-MST_ABILITY_NAME_219130^Esper's Prayer^向召喚獸祈禱^소환수를 향한 기도^Prière aux chimères^Espergebet^Rezo de esper
+MST_ABILITY_NAME_219130^Prayer to the Aeons^向召喚獸祈禱^소환수를 향한 기도^Prière aux chimères^Espergebet^Rezo de eones
 MST_ABILITY_NAME_219140^Energy Blast^射擊能量^슈팅·파워^Écho^Energiewelle^Lluvia de muerte
 MST_ABILITY_NAME_219150^Energy Ray^射擊光線^슈팅·레이^Hurlements^Energiestrahl^Rayo devastador
 MST_ABILITY_NAME_219160^Summoner's Mission^召喚士的使命^소환사의 사명^Mission de l'invokeur^Beschwörermission^Misión de invocador
@@ -3209,9 +3209,9 @@ MST_ABILITY_NAME_503330^Steal Chance^盜取良機^스틸 찬스^Chance de vol^St
 MST_ABILITY_NAME_503340^Lucky Seven^幸運7^럭키 세븐^Coudepot^Glückssieben^Súper 7
 MST_ABILITY_NAME_503350^Lucky Seven^幸運7^럭키 세븐^Coudepot^Glückssieben^Súper 7
 MST_ABILITY_NAME_503360^Lucky Seven^幸運7^럭키 세븐^Coudepot^Glückssieben^Súper 7
-MST_ABILITY_NAME_503370^Focus Magic^累積魔力^마력 모으기^Concentration magique^Fokusmagie^Concentrar magia
-MST_ABILITY_NAME_503380^Boosted Focus MAG^更進一步累積魔力^마력 거듭 모으기^Concentration magique +^Erhöhte Heilmagie^Concentrar más magia
-MST_ABILITY_NAME_503390^Flare Counter^核爆反擊^불꽃의 맞받아치기^ContreBrasier^Flammenkonter^ContraFulgor
+MST_ABILITY_NAME_503370^Focus Magic^累積魔力^마력 모으기^Concentration magique^Magiefokus^Concentramagia
+MST_ABILITY_NAME_503380^Boosted Focus MAG^更進一步累積魔力^마력 거듭 모으기^Concentration magique +^Erhöhter Magiefokus<br>^Concentramagia+
+MST_ABILITY_NAME_503390^Flare Counter^核爆反擊^불꽃의 맞받아치기^Contre-Brasier^Flarekonter^ContraFulgor
 MST_ABILITY_NAME_503400^Purgatory Fire Slash^煉獄剎燒斬^연옥찰소참^Flammes du purgatoire^Flammenschlag des Purgatoriums^Tajo ígneo del purgatorio
 MST_ABILITY_NAME_503410^Thunder Strike Stance^轟雷衝擊陣^굉뇌격출진^Posture électrocoup^Gewitterschlag-Kata^Electrogolpe firme
 MST_ABILITY_NAME_503420^Six Protections^六氣相生^육기상생^Six protections^Sechsfachschutz^Seis custodios
@@ -3244,10 +3244,10 @@ MST_ABILITY_NAME_503680^Full Stabilizer^全能力安定藥^모든 능력 안정 
 MST_ABILITY_NAME_503690^Berserker Serum^猛攻突擊藥^광전사 세럼^Sérum de berserker^Berserker-Serum^Suero de berserker
 MST_ABILITY_NAME_503700^Blockade Serum^鐵壁強壯藥^철벽강장제^Sérum de tank^Blockade-Serum^Suero de tanque
 MST_ABILITY_NAME_503710^Resist Down^全屬性弱化藥^모든 속성 약화 세럼^Réducteur de résistance^Resistenzausfall^Antiresistencias
-MST_ABILITY_NAME_503720^Focus Magic^累積魔力^마력 모으기^Concentration magique^Fokusmagie^Concentrar magia
-MST_ABILITY_NAME_503730^Focus Magic^累積魔力^마력 모으기^Concentration magique^Fokusmagie^Concentrar magia
-MST_ABILITY_NAME_503740^Boosted Focus MAG^更進一步累積魔力^마력 거듭 모으기^Concentration magique +^Erhöhte Heilmagie^Concentrar más magia
-MST_ABILITY_NAME_503750^Boosted Focus MAG^更進一步累積魔力^마력 거듭 모으기^Concentration magique +^Erhöhte Heilmagie^Concentrar más magia
+MST_ABILITY_NAME_503720^Focus Magic^累積魔力^마력 모으기^Concentration magique^Magiefokus^Concentramagia
+MST_ABILITY_NAME_503730^Focus Magic^累積魔力^마력 모으기^Concentration magique^Magiefokus^Concentramagia
+MST_ABILITY_NAME_503740^Boosted Focus MAG^更進一步累積魔力^마력 거듭 모으기^Concentration magique +^Erhöhter Magiefokus^Concentramagia+
+MST_ABILITY_NAME_503750^Boosted Focus MAG^更進一步累積魔力^마력 거듭 모으기^Concentration magique +^Erhöhter Magiefokus^Concentramagia+
 MST_ABILITY_NAME_503760^Killer Bullet^致命子彈^죽음의 탄환^Balle mortelle^Tödliche Kugel^Bala mortal
 MST_ABILITY_NAME_503770^Berserker Serum^猛攻突擊藥^광전사 세럼^Sérum de berserker^Berserker-Serum^Suero de berserker
 MST_ABILITY_NAME_503780^Blockade Serum^鐵壁強壯藥^철벽강장제^Sérum de tank^Blockade-Serum^Suero de tanque
@@ -3412,10 +3412,10 @@ MST_ABILITY_NAME_703790^Soul Blade^刀魂放氣^도혼방기^Amépée^Seelenklin
 MST_ABILITY_NAME_703800^Soul Blade^刀魂放氣^도혼방기^Amépée^Seelenklinge^Activar arma
 MST_ABILITY_NAME_703810^Dual Edge^雙重刀刃^듀얼 엣지^Double tranchant^Doppelschneide^Hoja dual
 MST_ABILITY_NAME_703820^Dual Edge^雙重刀刃^듀얼 엣지^Double tranchant^Doppelschneide^Hoja dual
-MST_ABILITY_NAME_703830^Proof of Life^生命證明^삶의 증명^Preuve de vie^Lebenszeichen^Demostración de vida
-MST_ABILITY_NAME_703840^Proof of Life^生命證明^삶의 증명^Preuve de vie^Lebenszeichen^Demostración de vida
-MST_ABILITY_NAME_703850^Focus Magic^累積魔力^마력 모으기^Concentration magique^Fokusmagie^Concentrar magia
-MST_ABILITY_NAME_703860^Focus Magic^累積魔力^마력 모으기^Concentration magique^Fokusmagie^Concentrar magia
+MST_ABILITY_NAME_703830^Proof of Life^生命證明^삶의 증명^Preuve de vie^Lebenszeichen^Prueba de vida
+MST_ABILITY_NAME_703840^Proof of Life^生命證明^삶의 증명^Preuve de vie^Lebenszeichen^Prueba de vida
+MST_ABILITY_NAME_703850^Focus Magic^累積魔力^마력 모으기^Concentration magique^Magiefokus^Concentramagia
+MST_ABILITY_NAME_703860^Focus Magic^累積魔力^마력 모으기^Concentration magique^Magiefokus^Concentramagia
 MST_ABILITY_NAME_703870^Princess of Alexandria^亞力山德利亞公主^알렉산드리아의 공주^Princesse d'Alexandrie^Prinzessin von Alexandria^Princesa de Alexandria
 MST_ABILITY_NAME_703880^Princess of Alexandria^亞力山德利亞公主^알렉산드리아의 공주^Princesse d'Alexandrie^Prinzessin von Alexandria^Princesa de Alexandria
 MST_ABILITY_NAME_703890^Flare Star^耀星^플레어 스타^Astre flamboyant^Feuerstern^Estrella fulgurante
@@ -3950,25 +3950,25 @@ MST_ABILITY_NAME_221260^Swooping Blow^突然下落攻擊^급강하 공격^Attaqu
 MST_ABILITY_NAME_221270^Air Recovery^空中回收^에어 리커버리^Récupération aérienne^Air Recovery^Recuperación aérea
 MST_ABILITY_NAME_221280^Soulless Hammer^給無魂者的鐵槌^영혼없는 자의 철퇴^Marteau des sansâmes^Hammer für die Seelenlosen^Martillazo a los desalmados
 MST_ABILITY_NAME_221290^Polearm Arts^槍之藝術^창의 예술^Arts de la lance^Speerkunst^Artes de lanza
-MST_ABILITY_NAME_221300^Wind Reader^聆聽風聲^바람읽기^Décripteur du vent^Windleser^Conocedor del viento
-MST_ABILITY_NAME_221310^Electric Actuator^電動促動器^전동 장치^Actionneur électrique^Servomotor^Servomotor eléctrico
+MST_ABILITY_NAME_221300^Wind Reader^聆聽風聲^바람읽기^Décripteur du vent^Windlesen^Conocedor del viento
+MST_ABILITY_NAME_221310^Electric Actuator^電力驅動機構^전동 장치^Actionneur électrique^Servomotor^Servomotor eléctrico
 MST_ABILITY_NAME_221320^Polearm Combo^槍術過招^창 겨루기^Combo à la lance^Speerkombo^Combo de lanza
 MST_ABILITY_NAME_221330^Dispel Lance^驅魔長槍^디스펠 랜스^Lance dissipation^Bannlanze^Lanza Antimagia
 MST_ABILITY_NAME_221340^Dog Attack - Earth^忍犬突·土^닌자견 돌격·땅^Attaque canine - Terre^Hundsangriff - Erde^Ataque canino - Tierra
 MST_ABILITY_NAME_221350^Dog Attack - Light^忍犬突·光^닌자견 돌격·빛^Attaque canine - Lumière^Hundsangriff - Licht^Ataque canino - Luz
-MST_ABILITY_NAME_221360^Piercer^貫通^페네트레이트^Balle perçante^Durchschuss^Perforación
-MST_ABILITY_NAME_221370^Gravisphere^指揮者^컨덕터^Magnétisme^Konduktor^Magnetismo
-MST_ABILITY_NAME_221380^Starshell^照明彈^스타 셸^Fusée éclairante^Sternenhülle^Cuásar
+MST_ABILITY_NAME_221360^Piercer^貫穿彈^페네트레이트^Balle perçante^Durchschuss^Perforación
+MST_ABILITY_NAME_221370^Gravisphere^掌控戰局^컨덕터^Magnétisme^Konduktor^Magnetismo
+MST_ABILITY_NAME_221380^Starshell^星光彈^스타 셸^Fusée éclairante^Sternenhülle^Cuásar
 MST_ABILITY_NAME_221390^Recoil^衝擊波^블래스터^Ravageur^Rückstoß^Fulminador
-MST_ABILITY_NAME_221400^Ballistic^彈扇^불릿 팬^Déluge de balles^Kugelhagel^Gatillo fácil
-MST_ABILITY_NAME_221410^Snapshot^速射^스냅 샷^Photos de combat^Schnappschuss^Reportero de guerra
-MST_ABILITY_NAME_221420^Circular Saw^圓鋸^서큘러 쏘우^Scie circulaire^Wirbelsäge^Sierra circular
-MST_ABILITY_NAME_221430^Gravity Well^重力漩渦^어트랙트 웨이브^Vortex^Gravitationspulsator^Gravitón
-MST_ABILITY_NAME_221440^Noiseblaster^聲波增幅器^블래스트 보이스^Résonateur^Kakophon^Hipérfono
+MST_ABILITY_NAME_221400^Ballistic^扇形彈幕^불릿 팬^Déluge de balles^Kugelhagel^Gatillo fácil
+MST_ABILITY_NAME_221410^Snapshot^快照技術^스냅 샷^Photos de combat^Schnappschuss^Reportero de guerra
+MST_ABILITY_NAME_221420^Circular Saw^圓盤鋸^서큘러 쏘우^Scie circulaire^Wirbelsäge^Sierra circular
+MST_ABILITY_NAME_221430^Gravity Well^引力波^어트랙트 웨이브^Vortex^Gravitationspulsator^Gravitón
+MST_ABILITY_NAME_221440^Noiseblaster^爆裂聲波^블래스트 보이스^Résonateur^Kakophon^Hipérfono
 MST_ABILITY_NAME_221450^Drillbreaker^破壞鑽頭^드릴 브레이커^Foreuse^Perforator^Perforador
-MST_ABILITY_NAME_221460^Bioblaster^毒菌噴射器^바이오 블래스트^Sulfateuse^Bio-Blaster^Viralizador
-MST_ABILITY_NAME_221470^Quick Tech^號令增速提升^커맨드 증가 속도 상승^Commandes fréquentes^Hast^Impulso
-MST_ABILITY_NAME_221480^Scintilla^閃光射擊^섬광 발사^Coup fulgurant^Scintilla^Haz fulgurante
+MST_ABILITY_NAME_221460^Bioblaster^生化噴射器^바이오 블래스트^Sulfateuse^Bio-Blaster^Viralizador
+MST_ABILITY_NAME_221470^Quick Tech^指令量表累積速度提昇^커맨드 증가 속도 상승^Commandes fréquentes^Hast^Impulso
+MST_ABILITY_NAME_221480^Scintilla^閃光擊^섬광 발사^Coup fulgurant^Scintilla^Haz fulgurante
 MST_ABILITY_NAME_221490^W Machinery^W機械武器^W머시너리^Machine double^Doppel-Maschinerie^Artefacto doble
 MST_ABILITY_NAME_221500^Get pumped everyone!^大家打起精神！^다들 기운 내!^Encore un petit effort !^Aufheitern^¡Venga chicos, ánimo!
 MST_ABILITY_NAME_221510^I'll heal you all!^我將治療大家！^다들 내가 고쳐줄게!^Je vais tous vous soigner !^Ich heile euch alle!^¡Chicos, ahora os curo!
@@ -4508,8 +4508,8 @@ MST_ABILITY_NAME_505040^Standby - Light^待命·光^스탠바이·빛^Attente - 
 MST_ABILITY_NAME_505050^Sexy Pose^性感姿態^섹시 포즈^Pose sexy^Sexy Pose^Pose seductora
 MST_ABILITY_NAME_505060^Spear Combo^槍術過招^창 겨루기^Combo à la lance^Speerkombo^Combo de lanza
 MST_ABILITY_NAME_505070^Flash Attack^閃光射擊^섬광 발사^Attaque fulgurante^Scintilla^Haz fulgurante
-MST_ABILITY_NAME_505080^W Machinery^W機械武器^W머시너리^Machine double^Doppel-Maschinerie^Artefacto doble
-MST_ABILITY_NAME_505090^W Ability - Iris^W能力・伊莉絲^W어빌리티·아이리스^Double aptitude - Iris^Doppelfähigkeit - Iris^Habilidad doble - Iris
+MST_ABILITY_NAME_505080^Double Machinery^W機械武器^W머시너리^Machine double^Doppel-Maschinerie^Artefacto doble
+MST_ABILITY_NAME_505090^Double Ability - Iris^W能力・伊莉絲^W어빌리티·아이리스^Double aptitude - Iris^Doppelfähigkeit - Iris^Habilidad doble - Iris
 MST_ABILITY_NAME_505100^Mood Maker^開心果^분위기 메이커^Esprit de la fête^Stimmungsmacher^Alma de la fiesta
 MST_ABILITY_NAME_505110^Spirit of the Fighter^戰意不減^전의부도^Esprit de combattant^Kämpfertum^Espíritu del luchador
 MST_ABILITY_NAME_505120^Undying Fighter^鬥氣不滅^투기불멸^Combattant imbattable^Unbezwingbarer Kampfgeist^Luchador imbatible
@@ -5112,7 +5112,7 @@ MST_ABILITY_NAME_910712^Glacial Wave^冰凍波^빙하의 파도^Onde glaciale ^G
 MST_ABILITY_NAME_910713^Rune Protector^符文守護者^룬의 수호자^Protecteur des runes ^Runenbeschützer^Protector rúnico
 MST_ABILITY_NAME_910714^Rune Protector^符文守護者^룬의 수호자^Protecteur des runes ^Runenbeschützer^Protector rúnico
 MST_ABILITY_NAME_910735^Tactical Gear^戰鬥裝備^전투 장비^Équipement de combat^Taktische Ausrüstung^Equipo de combate
-MST_ABILITY_NAME_910736^Tactical Gear^戰鬥裝備^전투 장비^Équipement de combat^Taktische Ausrüstung^Equipo de combate
+MST_ABILITY_NAME_910736^フルリカバー^戰鬥裝備^전투 장비^Équipement de combat^Taktische Ausrüstung^Equipo de combate
 MST_ABILITY_NAME_910763^Winter Palisade^嚴冬^겨울의 절벽^Palissade hivernale^Winterpalisade^Estacada invernal
 MST_ABILITY_NAME_910764^Winter Palisade^嚴冬^겨울의 절벽^Palissade hivernale^Winterpalisade^Estacada invernal
 MST_ABILITY_NAME_910765^Noel's Judgment^諾埃爾審判^노엘의 정의^Jugement de Noël^Noels Richtspruch^Juicio de Noel

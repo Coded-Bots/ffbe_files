@@ -375,17 +375,17 @@ MST_MONSTERPARTDICTIONARY_NAME_3010370^Starver^餓魔^굶주린 포식자^Affame
 MST_MONSTERPARTDICTIONARY_NAME_3050610^Earthlord^王土^위대한 대지^Les Terres^Erdherr^Veritas el terrestre
 MST_MONSTERPARTDICTIONARY_NAME_3050710^Lightlord^光輝^찬란한 빛^La Lumière ^Lichtherr^Veritas el luminoso
 MST_MONSTERPARTDICTIONARY_NAME_5100010^Demon Wall^惡魔墻^악마의 벽^Mur démonique^Dämonenmauer^Muro demoníaco
-MST_MONSTERPARTDICTIONARY_NAME_1030810^^^^Gluant^^
-MST_MONSTERPARTDICTIONARY_NAME_2030610^^^^Roi gluant^^
-MST_MONSTERPARTDICTIONARY_NAME_1050910^^^^Chaperon Chon^^
-MST_MONSTERPARTDICTIONARY_NAME_1050810^^^^Chaperon vert^^
-MST_MONSTERPARTDICTIONARY_NAME_2070510^^^^Orochi^^
-MST_MONSTERPARTDICTIONARY_NAME_1030910^^^^Gluant de mercure^^
-MST_MONSTERPARTDICTIONARY_NAME_2100510^^^^Golem^^
-MST_MONSTERPARTDICTIONARY_NAME_1060410^^^^Machine à tuer^^
-MST_MONSTERPARTDICTIONARY_NAME_1050710^^^^Lordragon^^
-MST_MONSTERPARTDICTIONARY_NAME_2100610^^^^Golem d'or^^
-MST_MONSTERPARTDICTIONARY_NAME_2070210^^^^Lordragon^^
+MST_MONSTERPARTDICTIONARY_NAME_1030810^Slime^^^Gluant^^Limo
+MST_MONSTERPARTDICTIONARY_NAME_2030610^King Slime^^^Roi gluant^^Limo metálico
+MST_MONSTERPARTDICTIONARY_NAME_1050910^Robbin' 'Oodlum^^^Chaperon Chon^^Bandolero
+MST_MONSTERPARTDICTIONARY_NAME_1050810^Robbin' 'Ood^^^Chaperon vert^^Luis Candelas
+MST_MONSTERPARTDICTIONARY_NAME_2070510^Orochi^^^Orochi^^Orochi
+MST_MONSTERPARTDICTIONARY_NAME_1030910^Liquid Metal Slime^^^Gluant de mercure^^Limo metálico
+MST_MONSTERPARTDICTIONARY_NAME_2100510^Golem^^^Golem^^Gólem
+MST_MONSTERPARTDICTIONARY_NAME_1060410^Killing Machine^^^Machine à tuer^^Máquina de matar
+MST_MONSTERPARTDICTIONARY_NAME_1050710^Dragonlord^^^Lordragon^^Draconarius
+MST_MONSTERPARTDICTIONARY_NAME_2100610^Gold Golem^^^Golem d'or^^Gólem de oro
+MST_MONSTERPARTDICTIONARY_NAME_2070210^Dragonlord^^^Lordragon^^Draconarius
 MST_MONSTERPARTDICTIONARY_NAME_1120260^Zombie Warrior^殭屍戰士^좀비 전사^Guerrier zombie^Zombiekrieger^Guerrero zombi
 MST_MONSTERPARTDICTIONARY_NAME_1120430^Bloody Head^血色頭顱^피투성이 머리^Tête sanglante^Blutiger Kopf^Cabeza sangrienta
 MST_MONSTERPARTDICTIONARY_NAME_3120130^Experiment #10^實驗體十號^실험체 10호^Cobaye n°10^Experiment Nr. 10^Espécimen n.º 10
@@ -537,11 +537,11 @@ MST_MONSTERPARTDICTIONARY_NAME_2056410^Black Mage Type C^黑魔道士C型^C타�
 MST_MONSTERPARTDICTIONARY_NAME_1051610^Zorn^佐恩^존^Pile^Zorn^Ton
 MST_MONSTERPARTDICTIONARY_NAME_1051710^Thorn^佐恩^손^Face^Dorn^Son
 MST_MONSTERPARTDICTIONARY_NAME_2011610^Bandersnatch^斑攫獸^밴더스내치^Bandsnatch^Bandersnatch^Zamarrajo
-MST_MONSTERPARTDICTIONARY_NAME_2056610^General Beatrix^貝特麗克絲^베아트릭스^Générale Béate^Generalin Beatrix^General Beatrix
+MST_MONSTERPARTDICTIONARY_NAME_2056610^General Beatrix^貝特麗克絲^베아트릭스^Générale Béate^Beatrix^General Beatrix
 MST_MONSTERPARTDICTIONARY_NAME_1040280^Golden Bomb^黃金炸彈^골든 봄^Bombo doré^Goldbomber^Bom dorado
 MST_MONSTERPARTDICTIONARY_NAME_2041710^Tantarian^丹塔利安^단타리안^Lovecraft^Tantarian^Dantarián
 MST_MONSTERPARTDICTIONARY_NAME_1020610^Seeker Bat^探索蝙蝠^탐색 박쥐^Cernolophe^Sucherfeldermaus^Sanguino
-MST_MONSTERPARTDICTIONARY_NAME_4010610^Ralvuimago^拉爾瓦成體^랄바이마고^Larvalar^Ralvuimago^Larválida X
+MST_MONSTERPARTDICTIONARY_NAME_4010610^Ralvuimago^拉爾瓦成體^랄바이마고^Larvalar^Königsbasilisk^Larválida X
 MST_MONSTERPARTDICTIONARY_NAME_1080040^St. Elmo^聖光精靈^세인트 엘모^St. Elmo^St. Elmo^San Elmo
 MST_MONSTERPARTDICTIONARY_NAME_1080250^Ninlil^寧利勒^닌릴^Ninlil^Ninlil^Ninlil
 MST_MONSTERPARTDICTIONARY_NAME_2010160^Evil Bear^惡魔熊^악마 곰^Ours maléfique^Teufelsbär^Oso vil
@@ -708,22 +708,22 @@ MST_MONSTERPARTDICTIONARY_NAME_2056410^Black Mage Type C^黑魔道士C型^C타�
 MST_MONSTERPARTDICTIONARY_NAME_2056410^Black Mage Type C^黑魔道士C型^C타입 흑마도사^Mage noir Type C^Schwarzmagier Typ C^Mago negro Tipo C
 MST_MONSTERPARTDICTIONARY_NAME_2056410^Black Mage Type C^黑魔道士C型^C타입 흑마도사^Mage noir Type C^Schwarzmagier Typ C^Mago negro Tipo C
 MST_MONSTERPARTDICTIONARY_NAME_2056410^Black Mage Type C^黑魔道士C型^C타입 흑마도사^Mage noir Type C^Schwarzmagier Typ C^Mago negro Tipo C
-MST_MONSTERPARTDICTIONARY_NAME_1051610^Zorn^佐恩^존^Pile^Zorn^Ton
-MST_MONSTERPARTDICTIONARY_NAME_1051610^Zorn^佐恩^존^Pile^Zorn^Ton
-MST_MONSTERPARTDICTIONARY_NAME_1051610^Zorn^佐恩^존^Pile^Zorn^Ton
-MST_MONSTERPARTDICTIONARY_NAME_1051710^Thorn^索恩^손^Face^Dorn^Son
-MST_MONSTERPARTDICTIONARY_NAME_1051710^Thorn^索恩^손^Face^Dorn^Son
-MST_MONSTERPARTDICTIONARY_NAME_1051710^Thorn^索恩^손^Face^Dorn^Son
+MST_MONSTERPARTDICTIONARY_NAME_1051610^Zorn^佐恩^존^Pile^Zon^Ton
+MST_MONSTERPARTDICTIONARY_NAME_1051610^Zorn^佐恩^존^Pile^Zon^Ton
+MST_MONSTERPARTDICTIONARY_NAME_1051610^Zorn^佐恩^존^Pile^Zon^Ton
+MST_MONSTERPARTDICTIONARY_NAME_1051710^Thorn^索恩^손^Face^Son^Son
+MST_MONSTERPARTDICTIONARY_NAME_1051710^Thorn^索恩^손^Face^Son^Son
+MST_MONSTERPARTDICTIONARY_NAME_1051710^Thorn^索恩^손^Face^Son^Son
 MST_MONSTERPARTDICTIONARY_NAME_2011610^Bandersnatch^斑攫獸^밴더스내치^Bandsnatch^Bandersnatch^Zamarrajo
 MST_MONSTERPARTDICTIONARY_NAME_2011610^Bandersnatch^斑攫獸^밴더스내치^Bandsnatch^Bandersnatch^Zamarrajo
 MST_MONSTERPARTDICTIONARY_NAME_2011610^Bandersnatch^斑攫獸^밴더스내치^Bandsnatch^Bandersnatch^Zamarrajo
-MST_MONSTERPARTDICTIONARY_NAME_2056610^General Beatrix^貝特麗克絲^베아트릭스^Générale Béate^Generalin Beatrix^General Beatrix
+MST_MONSTERPARTDICTIONARY_NAME_2056610^General Beatrix^貝特麗克絲^베아트릭스^Générale Béate^Beatrix^General Beatrix
 MST_MONSTERPARTDICTIONARY_NAME_1040280^Golden Bomb^黃金炸彈^골든 봄^Bombo doré^Goldbomber^Bom dorado
 MST_MONSTERPARTDICTIONARY_NAME_2041710^Tantarian^丹塔利安^단타리안^Lovecraft^Tantarian^Dantarián
 MST_MONSTERPARTDICTIONARY_NAME_2041710^Tantarian^丹塔利安^단타리안^Lovecraft^Tantarian^Dantarián
 MST_MONSTERPARTDICTIONARY_NAME_1020610^Seeker Bat^探索蝙蝠^탐색 박쥐^Cernolophe^Sucherfeldermaus^Sanguino
-MST_MONSTERPARTDICTIONARY_NAME_4010610^Ralvuimago^拉爾瓦成體^랄바이마고^Larvalar^Ralvuimago^Larválida X
-MST_MONSTERPARTDICTIONARY_NAME_4010610^Ralvuimago^拉爾瓦成體^랄바이마고^Larvalar^Ralvuimago^Larválida X
+MST_MONSTERPARTDICTIONARY_NAME_4010610^Ralvuimago^拉爾瓦成體^랄바이마고^Larvalar^Königsbasilisk^Larválida X
+MST_MONSTERPARTDICTIONARY_NAME_4010610^Ralvuimago^拉爾瓦成體^랄바이마고^Larvalar^Königsbasilisk^Larválida X
 MST_MONSTERPARTDICTIONARY_NAME_1020360^Serrated Chick^瘴毒怪鳥^톱니 햇병아리^Oisillon dentelé^Gezacktes Küken^Polluelo serrador
 MST_MONSTERPARTDICTIONARY_NAME_1080040^St. Elmo^聖光精靈^세인트 엘모^St. Elmo^St. Elmo^San Elmo
 MST_MONSTERPARTDICTIONARY_NAME_1080250^Ninlil^寧利勒^닌릴^Ninlil^Ninlil^Ninlil

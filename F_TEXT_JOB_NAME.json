@@ -7,15 +7,15 @@ MST_JOB_NAME_6^Ranger^獵人^사냥꾼^Chasseur^Jäger^Cazador
 MST_JOB_NAME_7^Adventurer^冒險家^모험가^Aventurier^Abenteurer^Aventurero
 MST_JOB_NAME_8^Pirate^海盜^해적^Pirate^Pirat^Pirata
 MST_JOB_NAME_9^Monk^武僧^몽크^Moine^Mönch^Monje
-MST_JOB_NAME_10^Thief^竊賊^시프^Voleur^Dieb^Ladrón
-MST_JOB_NAME_11^Bandit^盜賊^도적^Brigand^Bandit^Bandido
+MST_JOB_NAME_10^Bandit^竊賊^시프^Voleur^Bandit^Bandido
+MST_JOB_NAME_11^Thief^盜賊^도적^Brigand^Dieb^Ladrón
 MST_JOB_NAME_12^Samurai^武士^사무라이^Samouraï^Samurai^Samurái
 MST_JOB_NAME_13^Assassin^暗殺者^어쌔신^Assassin^Assassine^Asesino
 MST_JOB_NAME_14^Black Mage^黑魔道士^흑마도사^Mage noir^Schwarzmagier^Mago negro
 MST_JOB_NAME_15^Black Mage^黑魔道士^흑마도사^Mage noir^Schwarzmagier^Mago negro
 MST_JOB_NAME_16^Blue Mage^青魔道士^청마도사^Mage bleu^Blaumagier^Mago azul
 MST_JOB_NAME_17^Archmagus^大魔導師^대마도사^Archimagicien^Erzmagier^Archibrujo
-MST_JOB_NAME_18^Evoker^召喚士^소환사^Invokeur^Beschwörer^Evocador
+MST_JOB_NAME_18^Summoner^召喚士^소환사^Invocateur^Beschwörer^Invocador
 MST_JOB_NAME_19^Mage^魔道士^마도사^Mage^Magier^Mago
 MST_JOB_NAME_20^Dark Mage^暗黑魔道士^암흑마도사^Mage obscur^Dunkelmagier^Mago oscuro
 MST_JOB_NAME_21^Archmage^大魔導士^대마도사^Archimage^Erzmagier^Brujo
@@ -143,7 +143,7 @@ MST_JOB_NAME_129^Tailor^裁縫師^테일러^Tailleur ^Schneider^Sastre
 MST_JOB_NAME_130^King's Shield^王之盾^왕의 방패^Bouclier royal ^Königsschild^Escolta real
 MST_JOB_NAME_131^Prince's Friend^王子的朋友^왕자의 친구^Ami du prince^Freund des Prinzen^Amigo del príncipe
 MST_JOB_NAME_132^Barrier Mage^壁魔道士^장벽마도사^Mage spé. barrière^Barrierenmagier^Invocabarreras
-MST_JOB_NAME_133^Black Mage Warrior^黑魔道士兵^흑마도사 병사^Guerrier mage noir^Schwarzmagiekrieger^Mago negro guerrero
+MST_JOB_NAME_133^Black Mage Warrior^黑魔道士兵^흑마도사 병사^Guerrier mage noir^Krieger der Schwarzmagie^Mago negro guerrero
 MST_JOB_NAME_134^Chocobo Rider^陸行鳥騎兵^초코보 라이더^Cavalier chocobo^Chocobo-Reiter^Jinete chocobo
 MST_JOB_NAME_135^YoRHa Troop^寄葉部隊隊員^요르하 부대원^Unité YoRHa^YoRHa-Trupp^Unidad YoRHa
 MST_JOB_NAME_136^Machine Lifeform^機械生命體^기계생명체^Forme de vie méca.^Machinenlebensform^F. de vida mecánica
@@ -161,7 +161,7 @@ MST_JOB_NAME_138^Amazon^亞馬遜戰士^아마조네스^Amazone^Amazone^Amazona
 MST_JOB_NAME_139^Grappler^格鬥家^무술가^Lutteur^Grappler^Luchador
 MST_JOB_NAME_140^Gemma Knight^傑馬騎士^제마의 기사^Chev. de Gemma^Gemma-Ritter^Caballero de Gemma
 MST_JOB_NAME_141^Commodore^准將^준장^Commodore^Kommodore^Comodoro
-MST_JOB_NAME_142^Prince's Buddy^王子的摯友^왕자의 친구^Ami du prince^Freund des Prinzen^Amigo del príncipe
+MST_JOB_NAME_142^Prince's Buddy^王子的摯友^왕자의 친우^Meilleur ami du prince^Kumpel des Prinzen^Compañero del príncipe
 MST_JOB_NAME_143^Judge Magister^最高審判者^저지 마스터^Haut Juge^Hoher Richter^Maestro juez
 MST_JOB_NAME_144^Consul^執政官^집정관^Consul^Konsul^Cónsul
 MST_JOB_NAME_145^Imperial Prince^皇子^황자^Prince impérial^Kaiserl. Prinz^Príncipe imperial

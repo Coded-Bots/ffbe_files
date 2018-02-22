@@ -253,15 +253,15 @@ MST_ITEM_SHORTDESCRIPTION_1100000028^A shard from a shattered meteor^破碎的�
 MST_ITEM_SHORTDESCRIPTION_1100000029^A stone which broke off from a larger meteor^巨大流星上的石塊^커다란 유성에서 떨어져 나온 돌^Une pierre provenant d'un plus gros météore^Ein von einem größeren Meteor abgebrochener Stein^Una piedra que salio despedida de un gran meteorito
 MST_ITEM_SHORTDESCRIPTION_1100000030^A small piece rock that broke off a larger meteor^巨大流星上的岩塊^커다란 유성에서 떨어져 나온 바위 조각^Une petite pierre provenant d'un plus gros météore^Ein von einem größeren Meteor abgebrochener Fels^Una pequeña roca que salio despedida de un gran meteorito
 MST_ITEM_SHORTDESCRIPTION_1100000031^A piece of ore from a meteor^從流星上採集的礦石^유성에서 채취한 광석 조각^Un morceau de minerai provenant d'un météore^Ein Stück Erz von einem Meteor^Un mineral proveniente de un meteorito
-MST_ITEM_SHORTDESCRIPTION_101000400^^^^^^
-MST_ITEM_SHORTDESCRIPTION_101000500^^^^^^
-MST_ITEM_SHORTDESCRIPTION_101000600^^^^^^
-MST_ITEM_SHORTDESCRIPTION_101001300^^^^^^
-MST_ITEM_SHORTDESCRIPTION_101001400^^^^^^
-MST_ITEM_SHORTDESCRIPTION_101003200^^^^^^
+MST_ITEM_SHORTDESCRIPTION_101000400^Restore a small amount of HP to one ally^^^^^Recupera una cantidad pequeña de VIT a un aliado
+MST_ITEM_SHORTDESCRIPTION_101000500^Restore a good deal of HP to one ally^^^^^Recupera una gran cantidad de VIT a un aliado
+MST_ITEM_SHORTDESCRIPTION_101000600^Restore HP for all allies^^^^^Recupera la VIT de todos los aliados
+MST_ITEM_SHORTDESCRIPTION_101001300^Restore a small amount of MP to one ally^^^^^Recupera una cantidad pequeña de PM de un aliado
+MST_ITEM_SHORTDESCRIPTION_101001400^Restore a moderate amount of MP to one ally^^^^^Recupera una cantidad moderada de PM de un aliado
+MST_ITEM_SHORTDESCRIPTION_101003200^Revive one ally from being KO'd^^^^^Revive a un aliado que esté K.O.
 MST_ITEM_SHORTDESCRIPTION_106210100^A mysterious item that serves as proof of one's strength and bravery^證明勇氣與力量的夢幻道具^용기와 힘을 증명하는 환상의 아이템<br>^Un objet mystérieux qui sert à prouver la force et la bravoure de celui qui le possède^Ein geheimnisvoller Gegenstand, der als Beweis für Stärke und Mut dient.^Un objeto misterioso que sirve como prueba de la fuerza y la valentía propias.
 MST_ITEM_SHORTDESCRIPTION_106300600^A treasure from an ancient magic city^古魔道都市的財寶^고대 마법 도시의 보물^Un trésor d'une ancienne ville magique ^Ein Schatz aus einer uralten magischen Stadt^Un tesoro de una ciudad mágica y antigua.
-MST_ITEM_SHORTDESCRIPTION_106300700^^^이계의 주화^^^
+MST_ITEM_SHORTDESCRIPTION_106300700^A coin from a faraway world^^이계의 주화^^^Una moneda de un mundo lejano
 MST_ITEM_SHORTDESCRIPTION_109203000^A key to a deposit box in Zoldaad^佐爾達多出租保險箱的鑰匙^졸다드에 있는 대여금고의 열쇠^Clé de coffre de Zoldaad ^Ein Schlüssel für ein Schließfach in Zoldaad.^Llave de una caja fuerte de Zoldaad
 MST_ITEM_SHORTDESCRIPTION_109203010^A key to a deposit box in Zoldaad^佐爾達多出租保險箱的鑰匙^졸다드에 있는 대여금고의 열쇠^Clé de coffre de Zoldaad ^Ein Schlüssel für ein Schließfach in Zoldaad.^Llave de una caja fuerte de Zoldaad
 MST_ITEM_SHORTDESCRIPTION_109203020^A key to a deposit box in Zoldaad^佐爾達多出租保險箱的鑰匙^졸다드에 있는 대여금고의 열쇠^Clé de coffre de Zoldaad ^Ein Schlüssel für ein Schließfach in Zoldaad.^Llave de una caja fuerte de Zoldaad
@@ -475,7 +475,7 @@ MST_ITEM_SHORTDESCRIPTION_1300000005^Use to perform a 10+1 summon^用於 10+1 �
 MST_ITEM_SHORTDESCRIPTION_101003400^Fully restores HP and MP for one ally^完全恢復1名隊員的HPMP^아군 1명의 HP와 MP 모두 회복^Restaure entièrement les PV et les PM d'un allié^Stellt LP und MP eines Verbündeten voll wieder her.^Recupera toda la VIT y los PM de un aliado
 MST_ITEM_SHORTDESCRIPTION_106302800^A magenta colored coin^紫紅色的硬幣^자홍색의 코인^Une pièce de couleur magenta^Eine purpurfarbene Münze^Una moneda de color magenta
 MST_ITEM_SHORTDESCRIPTION_106302900^Coins brought from the faraway world of Eos^來自異界伊歐斯的銅板^이계 이오스에서 유입된 동전^Pièces venant du monde lointain d'Éos^Münzen aus der fernen Welt von Eos.^Monedas provenientes del lejano mundo de Eos
-MST_ITEM_SHORTDESCRIPTION_106303100^A ticket to a popular play from a faraway world.^異界熱門的戲劇公演門票？^이계에서 절찬리 상연 중인 연극 티켓?^Un ticket pour une pièce de théâtre populaire d'un monde lointain^Eine Eintrittskarte zu einem beliebten Theaterstück aus einer fernen Welt^El ticket de una popular obra de un mundo lejano
+MST_ITEM_SHORTDESCRIPTION_106303100^A ticket to a popular play from a faraway world.^異界熱門的戲劇公演門票？^이계에서 절찬리 상연 중인 연극 티켓?^Un ticket pour une pièce de théâtre populaire d'un monde lointain^Eine Eintrittskarte zu einem in einer fernen Welt beliebten Theaterstück ...?^Una entrada para una popular obra de un mundo lejano... quizá.
 MST_ITEM_SHORTDESCRIPTION_106303200^A coin that proves one faced a great machine lifeform^能夠證明與強大的機械生命體戰鬥過的硬幣^강력한 기계생명체와 싸운 증거로서 손에 넣을 수 있는 코인^Une pièce qui prouve que la personne qui la possède a terrassé une grande forme de vie mécanique^Eine Münze, die den Kampf gegen eine mächtiges Maschinenlebewesen beweist.^Una moneda que atestigua que uno se enfrentó a la forma de vida mecánica
 MST_ITEM_SHORTDESCRIPTION_106303300^A lexicon brought from a faraway world^來自異界的辭典^이계에서 유입된 사전^Un dictionnaire électronique venant d'un monde lointain^Ein Wörterbuch aus einer fernen Welt^Un diccionario de un mundo lejano
 MST_ITEM_SHORTDESCRIPTION_216000100^A beautiful orange feather^橘色的美麗羽毛^아름다운 오렌지색 깃털^Une plume orange magnifique^Eine hübsche orange Feder^Una bella pluma de color naranja
