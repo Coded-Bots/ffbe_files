@@ -2027,3 +2027,12 @@ SERVER_MSG_257^Units selected for expeditions cannot be awoken.^設定於探險�
 SERVER_MSG_258^Could not retrieve expedition data.^無法取得探險情報。^탐험 정보를 획득할 수 없습니다.^Impossible de récupérer les données d'expédition.^Konnte Expeditionsdaten nicht abrufen.^No se pudieron recuperar los datos de la expedición.
 SERVER_MSG_259^Could not retrieve information for several units.^無法取得複數兵員情報。^복수의 덱 정보를 획득할 수 없습니다.^Impossible de récupérer les données de plusieurs unités.^Konnte Informationen für mehrere Einheiten nicht abrufen.^No se pudo recuperar la información de varias unidades.
 GACHA_CONF_CASH^Limited Time Only!^期間限定!^기간 한정!^Pendant une période limitée !^Nur für begrenzte Zeit! ^¡Solo por tiempo limitado!
+SG_MAGIC_TYPE_WHITE^white magic^^^^^
+SG_MAGIC_TYPE_BLACK^black magic^^^^^
+SG_MAGIC_TYPE_GREEN^green magic^^^^^
+SG_MAGIC_TYPE_ALL^all magic types^^^^^
+SG_MAGIC_MULTI_CAST^Cast %s per turn^^^^^
+SG_INCREASE_ESPER_DMG^Increase dmg of %s^^^^^
+LOGIN_BONUS_SPECIAL_MAIL_TITLE_1001^Special Daily Login^特别日志登录^스페셜 일일 출석 보상^<br>Connexion quotidienne spéciale^Spezieller täglicher Login^Inicio de sesión diario especial
+LOGIN_BONUS_SPECIAL_MAIL_MSG_1001^Special Daily Login^特别日志登录^스페셜 일일 출석 보상^<br>Connexion quotidienne spéciale^Spezieller täglicher Login^Inicio de sesión diario especial
+GACHA_DETAIL_LIMIT_END^Until 00:59 PDT^至 15:59 (台灣時間)為止^16:59(한국시간)까지^Jusqu'à 09:59 CEST^Bis 09:59 CEST^Plazo: 09:59 (CEST)

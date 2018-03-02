@@ -327,16 +327,16 @@ MST_EQUIP_ITEM_NAME_409008600^Grimoire Hat^魔導帽^그리모어 모자^Chapeau
 MST_EQUIP_ITEM_NAME_301001500^Swordbreaker^鋸齒短劍^소드 브레이커^Brisépée^Schwertbrecher^Rompespadas
 MST_EQUIP_ITEM_NAME_304001200^Yakei^邪迎八景^사영팔경^Jagei-yakei^Yakei^Yakei
 MST_EQUIP_ITEM_NAME_409002800^Yellow Ring^雷神戒指^뇌신의 반지^Bague ambrée^Gelber Ring^Anillo de Thor
-MST_EQUIP_ITEM_NAME_302002100^S Machine Sword^^^^^Espada mecánica P
-MST_EQUIP_ITEM_NAME_303001800^Erdrick's Sword^^^^^Espada de Erdrick
-MST_EQUIP_ITEM_NAME_305001400^Iron Axe^^^^^Hacha de hierro
-MST_EQUIP_ITEM_NAME_311001800^Staff of Antimagic^^^^^Báculo de antimagia
-MST_EQUIP_ITEM_NAME_302002200^Cautery Sword^^^^^Cauterizadora
-MST_EQUIP_ITEM_NAME_305001500^Moon Axe^^^^^Hacha lunar
-MST_EQUIP_ITEM_NAME_308001800^Gracos's Trident^^^^^Tridente de Gracos
-MST_EQUIP_ITEM_NAME_309001100^Crow's Claws^^^^^Garras de cuervo
-MST_EQUIP_ITEM_NAME_401001200^Metal Slime Tray^^^^^Escudo de limo metálico
-MST_EQUIP_ITEM_NAME_402001500^Big Boss Shield^^^^^Escudo de gran jefe
+MST_EQUIP_ITEM_NAME_302002100^S Machine Sword^S機械劍^S 머신 소드^S-épée mécanique^S-Maschinenschwert^Espada mecánica P
+MST_EQUIP_ITEM_NAME_303001800^Erdrick's Sword^洛特之劍^로토의 검^Épée d'Elric^Erdrickschwert^Espada de Erdrick
+MST_EQUIP_ITEM_NAME_305001400^Iron Axe^鐵斧^철도끼^Hache de fer^Eisenaxt^Hacha de hierro
+MST_EQUIP_ITEM_NAME_311001800^Staff of Antimagic^封魔法杖^마봉의 지팡이^Bâton d'antimagie^Stab der Antimagie^Báculo de antimagia
+MST_EQUIP_ITEM_NAME_302002200^Cautery Sword^破邪之劍^패자의 검^Épée ardente^Brandklinge^Cauterizadora
+MST_EQUIP_ITEM_NAME_305001500^Moon Axe^月之斧^문 액스^Hache de lune^Mondaxt^Hacha lunar
+MST_EQUIP_ITEM_NAME_308001800^Gracos's Trident^古拉柯斯之矛^그라코스의 창^Trident de Gracos^Gracosdreizack^Tridente de Gracos
+MST_EQUIP_ITEM_NAME_309001100^Crow's Claws^隼爪^매발톱^Serres de corbeau^Krähenkrallen^Garras de cuervo
+MST_EQUIP_ITEM_NAME_401001200^Metal Slime Tray^金屬史萊姆托盤^메탈 슬라임 트레이^Plateau gluant de mercure^Metallschleimplatte^Escudo de limo metálico
+MST_EQUIP_ITEM_NAME_402001500^Big Boss Shield^大頭領盾^큰형님 방패^Bouclier dominateur^Oberboss-Schild^Escudo de gran jefe
 MST_EQUIP_ITEM_NAME_308001900^Artisan^匠槍^아르티잔^Artisan^Kunsthandwerker^Artesana
 MST_EQUIP_ITEM_NAME_306001500^Beast Hammer^野獸鎚^야수의 망치^Marteau bestial^Bestienhammer^Martillo bestial
 MST_EQUIP_ITEM_NAME_404001100^Imperial Helm^帝國頭盔^제국의 투구^Casque de l'Empire^Imperialer Helm^Yelmo imperial
@@ -656,13 +656,13 @@ MST_EQUIP_ITEM_NAME_409014400^Ice Headband^冰晶髮帶^빙제의 카추샤^Band
 MST_EQUIP_ITEM_NAME_308002900^Northern Lights^極光凍槍^빙창 노던 라이트^Lumières du nord^Polarlicht^Luz del norte
 MST_EQUIP_ITEM_NAME_407002200^Heavy Drake Armor^龍韌重鎧^용가죽 중갑^Armure L. de dragon ^Schwere Drachenrüstung^Armadura P de draco
 MST_EQUIP_ITEM_NAME_308003000^Drakeshorn Spear^龍角之槍^용각창^Lance cornodragon^Drachenhornspeer^Lanza cuernodragón
-MST_EQUIP_ITEM_NAME_303003500^Save the Queen (FFIX)^天佑女王 (FFIX)^세이브더퀸 (FFIX)^Justicière  (FFIX)^Infantinwache ^Viva la Reina (FFIX)
+MST_EQUIP_ITEM_NAME_303003500^Save the Queen (FFIX)^天佑女王 (FFIX)^세이브더퀸 (FFIX)^SLR  (FFIX)^Infantinwache ^Viva la Reina (FFIX)
 MST_EQUIP_ITEM_NAME_316001100^Angel Flute^天使之笛^천사의 피리^Angeflûte^Engelsflöte^Flauta de ángel
 MST_EQUIP_ITEM_NAME_303003600^Excalibur II^石中劍Ⅱ^엑스칼리버 Ⅱ^Excalibur II^Exkalibur II^Excalibur II
-MST_EQUIP_ITEM_NAME_409014700^Mog's Ribbon^莫古利的緞帶^모그 리본^Ruban de mog^Mogus Schleife<br>^Cinta de Mogu
+MST_EQUIP_ITEM_NAME_409014700^Mog's Ribbon^莫古利的緞帶^모그 리본^Ruban de Moug^Mogus Schleife^Cinta de Mogu
 MST_EQUIP_ITEM_NAME_404002300^Tin Helm^鍍錫鐵頭盔^양철 투구^Casque de laiton^Blechhelm^Yelmo de latón
-MST_EQUIP_ITEM_NAME_311002600^Air Racket^空氣球拍^에어 라켓^Aéro-Massue^Luftschläger^Pala de aire
-MST_EQUIP_ITEM_NAME_406002800^Knights of Pluto Uniform^冥王隊制服^플루토 부대 제복^Uniforme Pluton^Uniform der Pluto-Truppe<br>^Uniforme Pluto
+MST_EQUIP_ITEM_NAME_311002600^Air Racket^空氣球拍^에어 라켓^Aéro-Massue^Druidenstab^Pala de aire
+MST_EQUIP_ITEM_NAME_406002800^Knights of Pluto Uniform^冥王隊制服^플루토 부대 제복^Uniforme Brutos^Uniform der Pluto-Truppe^Uniforme Pluto
 MST_EQUIP_ITEM_NAME_403043500^Beatrix's Eyepatch^貝特麗克絲的眼罩^베아트릭스의 안대^Cache-œil de Béate^Beatrix' Augenbinde^Parche de Beatrix
 MST_EQUIP_ITEM_NAME_314001100^Platinum Whip^白金之鞭^백금의 채찍^Fouet de platine ^Platinpeitsche^Látigo de platino
 MST_EQUIP_ITEM_NAME_313002900^Platinum Musket^白金步槍^백금의 소총^Mousquet de platine ^Platinmuskete^Mosquete de platino

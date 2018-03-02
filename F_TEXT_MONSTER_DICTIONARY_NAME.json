@@ -394,17 +394,17 @@ MST_MONSTERDICTIONARY_NAME_3010370^Starver^餓魔^굶주린 포식자^Affameur^H
 MST_MONSTERDICTIONARY_NAME_3050610^Veritas of the Earth^王土之維利亞斯^위대한 대지의 베리어스^Veritas des Terres^Veritas der Erde^Veritas el terrestre
 MST_MONSTERDICTIONARY_NAME_3050710^Veritas of the Light^光輝之維利亞斯^찬란한 빛의 베리어스^Veritas de la Lumière^Veritas des Lichts^Veritas el luminoso
 MST_MONSTERDICTIONARY_NAME_5100010^Demon Wall^惡魔墻^악마의 벽^Mur démonique^Dämonenmauer^Muro demoníaco
-MST_MONSTERDICTIONARY_NAME_1030810^Slime^^^Gluant^^Limo
-MST_MONSTERDICTIONARY_NAME_1030910^Liquid Metal Slime^^^Gluant de mercure^^Limo metálico
-MST_MONSTERDICTIONARY_NAME_1050710^Dragonlord^^^Lordragon^^Draconarius
-MST_MONSTERDICTIONARY_NAME_1050810^Robbin' 'Ood^^^Chaperon vert^^Luis Candelas
-MST_MONSTERDICTIONARY_NAME_1050910^Robbin' 'Oodlum^^^Chaperon Chon^^Bandolero
-MST_MONSTERDICTIONARY_NAME_1060410^Killing Machine^^^Machine à tuer^^Máquina de matar
-MST_MONSTERDICTIONARY_NAME_2030610^King Slime^^^Roi gluant^^Limo rey
-MST_MONSTERDICTIONARY_NAME_2070510^Orochi^^^Orochi^^Orochi
-MST_MONSTERDICTIONARY_NAME_2100510^Golem^^^Golem^^Gólem
-MST_MONSTERDICTIONARY_NAME_2100610^Gold Golem^^^Golem d'or^^Gólem de oro
-MST_MONSTERDICTIONARY_NAME_2070210^Dragonlord^^^Dragonlord^^Draconarius
+MST_MONSTERDICTIONARY_NAME_1030810^Slime^^슬라임^Gluant^^Limo
+MST_MONSTERDICTIONARY_NAME_1030910^Liquid Metal Slime^^하구레메탈^Gluant de mercure^^Limo metálico
+MST_MONSTERDICTIONARY_NAME_1050710^Dragonlord^^용왕^Lordragon^^Draconarius
+MST_MONSTERDICTIONARY_NAME_1050810^Robbin' 'Ood^^칸다타^Chaperon vert^^Luis Candelas
+MST_MONSTERDICTIONARY_NAME_1050910^Robbin' 'Oodlum^^칸다타 부하^Chaperon Chon^^Bandolero
+MST_MONSTERDICTIONARY_NAME_1060410^Killing Machine^^킬러 머신^Machine à tuer^^Máquina de matar
+MST_MONSTERDICTIONARY_NAME_2030610^King Slime^^킹 슬라임^Roi gluant^^Limo rey
+MST_MONSTERDICTIONARY_NAME_2070510^Orochi^^야마타노오로치^Yamata-no-orochi^^Orochi
+MST_MONSTERDICTIONARY_NAME_2100510^Golem^^골렘^Golem^^Gólem
+MST_MONSTERDICTIONARY_NAME_2100610^Gold Golem^^골드맨^Golem d'or^^Gólem de oro
+MST_MONSTERDICTIONARY_NAME_2070210^Dragonlord^^용왕^Dragonlord^^Draconarius
 MST_MONSTERDICTIONARY_NAME_1120260^Zombie Warrior^殭屍戰士^좀비 전사^Guerrier zombie^Zombiekrieger^Guerrero zombi
 MST_MONSTERDICTIONARY_NAME_1120430^Bloody Head^血色頭顱^피투성이 머리^Tête sanglante^Blutiger Kopf^Cabeza sangrienta
 MST_MONSTERDICTIONARY_NAME_3120130^Experiment #10^實驗體十號^실험체 10호^Cobaye n°10^Experiment Nr. 10^Espécimen n.º 10
@@ -764,9 +764,9 @@ MST_MONSTERDICTIONARY_NAME_1051230^Aldore Jailer^阿爾多爾看守^알도르 �
 MST_MONSTERDICTIONARY_NAME_3052110^Hyoh of the Delta Star^四鬥星獵豹^사성투사 효우^Hyoh de l'étoile Delta^Delta-Stern-Hyou^Hyou de la estrella Delta
 MST_MONSTERDICTIONARY_NAME_1051610^Zorn^佐恩^존^Pile^Zon^Ton
 MST_MONSTERDICTIONARY_NAME_1051710^Thorn^佐恩^손^Face^Son^Son
-MST_MONSTERDICTIONARY_NAME_2011610^Bandersnatch^斑攫獸^밴더스내치^Bandsnatch^Bandersnatch^Zamarrajo
-MST_MONSTERDICTIONARY_NAME_2056610^General Beatrix^貝特麗克絲^베아트릭스^Générale Béate^Beatrix^General Beatrix
-MST_MONSTERDICTIONARY_NAME_2041710^Tantarian^丹塔利安^단타리안^Lovecraft^Tantarian^Dantarián
+MST_MONSTERDICTIONARY_NAME_2011610^Bandersnatch^斑攫獸^밴더스내치^Bandsnatch^Wastigo^Zamarrajo
+MST_MONSTERDICTIONARY_NAME_2056610^Beatrix^貝特麗克絲^베아트릭스^Béate^Beatrix^Beatrix
+MST_MONSTERDICTIONARY_NAME_2041710^Tantarian^丹塔利安^단타리안^Lovecraft^Alexandrikon^Dantarián
 MST_MONSTERDICTIONARY_NAME_1020610^Seeker Bat^斑攫獸^탐색 박쥐^Cernolophe^Sucherfeldermaus^Sanguino
 MST_MONSTERDICTIONARY_NAME_4010610^Ralvuimago^拉爾瓦成體^랄바이마고^Larvalar^Königsbasilisk^Larválida X
 MST_MONSTERDICTIONARY_NAME_2100070^Kreios^克里歐斯^크리오스^Kreios^Kreios^Kreios
@@ -795,9 +795,9 @@ MST_MONSTERDICTIONARY_NAME_1010280^Lindbur Wolf^迅狼^린블 울프^Ouargue d'�
 MST_MONSTERDICTIONARY_NAME_2010050^Soilmodar^索爾摩達^소일모다^Soilmodar^Soilmodar^Soilmodar
 MST_MONSTERDICTIONARY_NAME_2010770^Rishyasringa^鹿角仙馬^리쉬야슈링가^Rishyasringa^Rishyasringa^Rishyasringa
 MST_MONSTERDICTIONARY_NAME_3011210^Fenrir^芬里爾^펜리르^Fenrir^Fenrir^Fenril
-MST_MONSTERDICTIONARY_NAME_2056310^Soldier^女兵^병사^Soldat^Soldat^Soldado
-MST_MONSTERDICTIONARY_NAME_2056510^Black Mage Type B^黑魔道士B型^B타입 흑마도사^Mage noir Type B^Schwarzmagier Typ B^Mago negro Tipo B
-MST_MONSTERDICTIONARY_NAME_2056410^Black Mage Type C^黑魔道士C型^C타입 흑마도사^Mage noir Type C^Schwarzmagier Typ C^Mago negro Tipo C
+MST_MONSTERDICTIONARY_NAME_2056310^Soldier^女兵^병사^Amazone^Soldat^Soldado
+MST_MONSTERDICTIONARY_NAME_2056510^Black Mage Type B^黑魔道士B型^B타입 흑마도사^Mage noir B^Schwarzmagier Typ B^Mago negro Tipo B
+MST_MONSTERDICTIONARY_NAME_2056410^Black Mage Type C^黑魔道士C型^C타입 흑마도사^Mage noir C^Schwarzmagier Typ C^Mago negro Tipo C
 MST_MONSTERDICTIONARY_NAME_3050020^Ettin^艾汀^에틴^Ettin^Ettin^Ettin
 MST_MONSTERDICTIONARY_NAME_4110210^Sheratan^榭拉坦^셰라탄^Sheratan^Sheratan^Sheratan
 MST_MONSTERDICTIONARY_NAME_4110220^Fruit of Tenacity^執念果實^집념의 과실^Fruit de la ténacité^Frucht der Beharrlichkeit^Fruta tenaz
@@ -827,7 +827,7 @@ MST_MONSTERDICTIONARY_NAME_1080050^Hitobosu^希德波斯^히토보스^Hitobosu^H
 MST_MONSTERDICTIONARY_NAME_1080190^Yellow Elemental^金黃元素^노란 원소^Élémentaire jaune^Gelelementar^Ente amarillo
 MST_MONSTERDICTIONARY_NAME_2061410^Mech Leader^機械司令^오토 커맨더^Méca-leader^Mech-Anführer^Líder mecánico
 MST_MONSTERDICTIONARY_NAME_2110410^Grat^古拉特^그랫^Orchida^Grat^Grat
-MST_MONSTERDICTIONARY_NAME_2011710^Bandersnatch^斑攫獸^밴더스내치^Bandsnatch^Bandersnatch^Zamarrajo
+MST_MONSTERDICTIONARY_NAME_2011710^Bandersnatch^斑攫獸^밴더스내치^Bandsnatch^Wastigo^Zamarrajo
 MST_MONSTERDICTIONARY_NAME_2061510^Mech Defender^機械防衛者^오토 아머^Méca-armure^Mech-Verteidiger^Defensor mecánico
 MST_MONSTERDICTIONARY_NAME_2056810^Ashura^阿修羅^아수라^Asherah^Ashura^Ashura
 MST_MONSTERDICTIONARY_NAME_2056910^Biran Ronso^比朗‧隆索^비란 론조^Biran Ronso^Biran Ronso^Biran Ronso

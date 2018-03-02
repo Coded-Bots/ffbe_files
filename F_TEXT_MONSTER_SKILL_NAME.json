@@ -312,7 +312,7 @@ MST_MONSTER_SKILL_NAME_150880^Mirror of Equity^明鏡^잔잔한 거울^Sérénit
 MST_MONSTER_SKILL_NAME_150890^Fingersnap^醒夢^백일몽^Éveil^Fieberwahn^Agudeza
 MST_MONSTER_SKILL_NAME_150900^Lunatic Voice^狂迷之聲^광기의 노래^Voix ensorcelante^Wahnstimme^Voz lunática
 MST_MONSTER_SKILL_NAME_150910^Malstrom^大漩渦^마엘스트롬^Maelström^Mahlstrom^Vórtice
-MST_MONSTER_SKILL_NAME_150920^Scorch^火炎流^화연류^Brûlure^Versengen^Incandescencia
+MST_MONSTER_SKILL_NAME_150920^Scorch^火炎流^화연류^Brûlure^Hitzewelle^Incandescencia
 MST_MONSTER_SKILL_NAME_150930^Snowstorm^吹雪^눈보라^Tempête de neige^Schneesturm^Tormenta de nieve
 MST_MONSTER_SKILL_NAME_150940^Bolt^閃電^번개^Fulguration^Donnerkeil^Rayo
 MST_MONSTER_SKILL_NAME_150950^Earthquake^地震^지진^Choc sismique^Erdbeben^Terremoto
@@ -545,8 +545,8 @@ MST_MONSTER_SKILL_NAME_153470^Malstrom^大漩渦^마엘스트롬^Maelström^Mahl
 MST_MONSTER_SKILL_NAME_153480^Thunder Clap^雷鳴^천둥번개^Éclairs^Lightning^Relámpago
 MST_MONSTER_SKILL_NAME_153490^Wrapped up in the wind^被風 包圍了^바람에 휩싸인다^Cerné par le vent ^In Wind gehüllt^Se ha rodeado de viento
 MST_MONSTER_SKILL_NAME_153500^The wind disappeared^風 散去了^바람이 사라졌다^Le vent a disparu ^Der Wind ist weg^El viento ha desaparecido
-MST_MONSTER_SKILL_NAME_153510^Scorch^火焰流^화염룡^Flambée^Versengen^Infierno
-MST_MONSTER_SKILL_NAME_153520^Scorch^火焰流^화염룡^Flambée^Versengen^Infierno
+MST_MONSTER_SKILL_NAME_153510^Scorch^火焰流^화염룡^Flambée^Hitzewelle^Infierno
+MST_MONSTER_SKILL_NAME_153520^Scorch^火焰流^화염룡^Flambée^Hitzewelle^Infierno
 MST_MONSTER_SKILL_NAME_153530^Its cloak is closed^斗篷 合上了^망토를 접었다^Sa cape est fermée ^Die Hülle ist verschlossen^Ha cerrado su capa
 MST_MONSTER_SKILL_NAME_153540^Its cloak is open^斗篷 打開了^망토를 펼쳤다^Sa cape est ouverte ^Die Hülle ist offen^Ha abierto su capa
 MST_MONSTER_SKILL_NAME_153550^Its wounds have been healed^傷口 正在恢復^상처가 낫고 있다^Ses blessures ont été soignées^Die Wunden wurden geheilt^Heridas curadas
@@ -1116,7 +1116,7 @@ MST_MONSTER_SKILL_NAME_158520^Electric Breath^雷擊吐息^전격의 숨결^Souf
 MST_MONSTER_SKILL_NAME_158530^Glide^滑翔^활공^Planer^Gleiten^Planeo
 MST_MONSTER_SKILL_NAME_158540^Fire Breath^火焰吐息^불꽃의 숨결^<na>^Feueratem^Aliento de fuego
 MST_MONSTER_SKILL_NAME_158550^It took a deep breath!^大吸了一口氣^크게 숨을 빨아들인다^Il prend une grand inspiration !^Es atmete tief ein!^¡Está aspirando fuertemente!
-MST_MONSTER_SKILL_NAME_158560^Mikazuchi summoned a heat wave!^「雷神發動了熱・波・招・来！」^미카즈치는 열파초래를 사용했다!^Mikazuchi invoque une onde de chaleur !^Mikazuchi beschwor eine Hitzewelle!^¡Mikazuchi invoca una ola de calor!
+MST_MONSTER_SKILL_NAME_158560^Mikazuchi summoned a heat wave!^「雷神發動了熱・波・招・来！」^미카즈치는 열파초래를 사용했다!^Mikazuchi invoque une onde de chaleur !^Mikazuchi beschwor eine Hitzewoge!^¡Mikazuchi invoca una ola de calor!
 MST_MONSTER_SKILL_NAME_158570^Mikazuchi summoned lightning!^「雷神發動了豪・雪・招・来！」^미카즈치는 열파초래를 사용했다!^Mikazuchi invoque la foudre !^Mikazuchi beschwor Blitz!^¡Mikazuchi invoca una ventisca!
 MST_MONSTER_SKILL_NAME_158580^Mikazuchi summoned a thunderstorm!^「雷神發動了雷・雲・招・来！」^미카즈치는 열파초래를 사용했다!^Mikazuchi invoque un orage !^Mikazuchi bechwor einen Donnersturm!^¡Mikazuchi invoca una tormenta!
 MST_MONSTER_SKILL_NAME_158590^Roar^咆哮^포효^Intimidation^Gebrüll^Rugido
@@ -1898,8 +1898,8 @@ MST_MONSTER_SKILL_NAME_166270^Thunder Ball^雷光球^선더 볼^Boule électriqu
 MST_MONSTER_SKILL_NAME_166280^Thunder Ball^雷光球^선더 볼^Boule électrique^Donnerball^Bola tronadora
 MST_MONSTER_SKILL_NAME_166290^Tail Beat^尾擊^꼬리 충격^Attaque caudale^Schwanzschlag^Golpecola
 MST_MONSTER_SKILL_NAME_166300^Tail Beat^尾擊^꼬리 충격^Attaque caudale^Schwanzschlag^Golpecola
-MST_MONSTER_SKILL_NAME_166310^Supersonic Wave^超音波^초음파^Vague supersonique^Schallwelle^Onda ultrasónica
-MST_MONSTER_SKILL_NAME_166320^Supersonic Wave^超音波^초음파^Vague supersonique^Schallwelle^Onda ultrasónica
+MST_MONSTER_SKILL_NAME_166310^Ultra Sound Wave^超音波^초음파^Vague supersonique^Ultraschall^Onda ultrasónica
+MST_MONSTER_SKILL_NAME_166320^Ultra Sound Wave^超音波^초음파^Vague supersonique^Ultraschall^Onda ultrasónica
 MST_MONSTER_SKILL_NAME_166330^Berserk^狂暴化^베르세르크^Mode Berserker^Berserker-Modus^Modo enloquecido
 MST_MONSTER_SKILL_NAME_166340^Berserk^狂暴化^베르세르크^Mode Berserker^Berserker-Modus^Modo enloquecido
 MST_MONSTER_SKILL_NAME_166350^High Speed Nabla^超高速水波^NA^NA^NA^NA
@@ -1976,7 +1976,7 @@ MST_MONSTER_SKILL_NAME_167090^Bite^撲咬^물고 늘어지기^Morsure^Biss^Mordi
 MST_MONSTER_SKILL_NAME_167100^Drain Tentacle^吸血觸手^드레인 촉수^Tentacule aspirant^Saugtentakel^Tentáculo drenador
 MST_MONSTER_SKILL_NAME_167110^Tonfa^東方棍^톤파^Tonfa^Tonfa^Tonfa
 MST_MONSTER_SKILL_NAME_167120^Machine Gun^機關槍^머신건^Fusil mitrailleur^Maschinengewehr^Metralleta
-MST_MONSTER_SKILL_NAME_167130^The guard scorpion lowers its tail.^解除警戒^경계를 풀다^Position normale^Es ist nicht länger wachsam^Fuera de alerta
+MST_MONSTER_SKILL_NAME_167130^The guard scorpion lowers its tail.^解除警戒^경계를 풀다^Position normale^Nicht mehr wachsam^Fuera de alerta
 MST_MONSTER_SKILL_NAME_167140^Big Burst^大爆炸^대폭발^Grande explosion^Großer Rausch^Gran estallido
 MST_MONSTER_SKILL_NAME_167150^Charge^突進^돌진^Charge^Ansturm^Carga
 MST_MONSTER_SKILL_NAME_167160^Sandstorm^沙塵暴^모래폭풍^Tempête de sable^Sandsturm^Tormenta de arena
@@ -2292,13 +2292,13 @@ MST_MONSTER_SKILL_NAME_170020^The ice melted, the lazer is broken^冰溶解了�
 MST_MONSTER_SKILL_NAME_170030^Blizzara^中暴雪^블리자라^Glace +^Eisra^Hielo+
 MST_MONSTER_SKILL_NAME_170040^Absorb more^吸更多血^더 흡혈^Vampire Plus^Mehr Blut^Chupasangre mayor
 MST_MONSTER_SKILL_NAME_170050^Absorb even more^吸更多更多血^더욱더 흡혈^Vampire Plusplus^Noch mehr Blut^Chupasangre máximo
-MST_MONSTER_SKILL_NAME_170060^Corner^角^귀퉁이^Coin^Bedrängen^Acorralar
-MST_MONSTER_SKILL_NAME_170070^Paper Storm^紙風暴^종이 폭풍^Tempête de papier^Papiergewitter^Tormenta de papel
-MST_MONSTER_SKILL_NAME_170080^Small Meteor^小型隕石^쁘띠 메테오^Mini Météore^Minimeteo<br>^Minimeteo
-MST_MONSTER_SKILL_NAME_170090^Small Meteor^小型隕石^쁘띠 메테오^Mini Météore^Minimeteo<br>^Minimeteo
+MST_MONSTER_SKILL_NAME_170060^Edge^角^귀퉁이^Coin^Buchkante ^Acorralar
+MST_MONSTER_SKILL_NAME_170070^Paper Storm^紙風暴^종이 폭풍^Tempête de papier^Papierorkan^Tormenta de papel
+MST_MONSTER_SKILL_NAME_170080^Meteorite^小型隕石^쁘띠 메테오^Mini Météore^Minimeteo<br>^Minimeteo
+MST_MONSTER_SKILL_NAME_170090^Meteorite^小型隕石^쁘띠 메테오^Mini Météore^Minimeteo<br>^Minimeteo
 MST_MONSTER_SKILL_NAME_170100^Give Thorn flare power^給予索恩核爆之力^손에게 플레어 파워^Puissance Brasier^Son erhält Flare-Kraft^Poder Fulgor a Son
-MST_MONSTER_SKILL_NAME_170110^Small Flare^小型核爆^쁘띠 플레어^Mini brasier^Miniflare^MiniFulgor
-MST_MONSTER_SKILL_NAME_170120^Small Flare^小型核爆^쁘띠 플레어^Mini brasier^Miniflare^MiniFulgor
+MST_MONSTER_SKILL_NAME_170110^Light Flare^小型核爆^쁘띠 플레어^Mini brasier^Miniflare^MiniFulgor
+MST_MONSTER_SKILL_NAME_170120^Light Flare^小型核爆^쁘띠 플레어^Mini brasier^Miniflare^MiniFulgor
 MST_MONSTER_SKILL_NAME_170130^Give Zorn meteor power^給予佐恩隕石之力^존에게 메테오 파워^Puissance Météore^Zon erhält Meteo-Kraft^Poder Meteo a Ton
 MST_MONSTER_SKILL_NAME_170140^Thundara^中雷電^선더라^Foudre +^Blitzra^Electro+
 MST_MONSTER_SKILL_NAME_170150^Fira^中火焰^파이라^Feu +^Feura^Piro+
@@ -2310,15 +2310,15 @@ MST_MONSTER_SKILL_NAME_170200^Lightning Slash^雷鳴劍^뇌명검^Foudrolle^Donn
 MST_MONSTER_SKILL_NAME_170210^The meteor power has been neutralized^隕石之力解除了^메테오 파워가 해제되었다^La puissance Météore de Pile s'est tarie^Meteo-Kraft wurde neutralisiert^Poder Meteo eliminado
 MST_MONSTER_SKILL_NAME_170220^The flare power has been neutralized^核爆之力解除了^플레어 파워가 해제되었다^La puissance Brasier de Face s'est tarie^Flare-Kraft wurde neutralisiert^AntiFulgor
 MST_MONSTER_SKILL_NAME_170230^Shock^激震^충격타^Choc^Schocker^Impacto
-MST_MONSTER_SKILL_NAME_170240^Stock Break^破曉斬^스톡 브레이크^Dévastation^Angriffrausch^Devastación
+MST_MONSTER_SKILL_NAME_170240^Stock Break^破曉斬^스톡 브레이크^Dévastation^Exekutionsschlag^Devastación
 MST_MONSTER_SKILL_NAME_170250^Tongue^舌^혓바닥^Langue^Zunge^Lengua
-MST_MONSTER_SKILL_NAME_170260^Piercing Stab^穿刺^찌르기^Planter^Stechstich^Picadura
+MST_MONSTER_SKILL_NAME_170260^Stab^穿刺^찌르기^Planter^Erstechen^Picadura
 MST_MONSTER_SKILL_NAME_170270^Thundara^中雷電^선더라^Foudre +^Blitzra^Electro+
-MST_MONSTER_SKILL_NAME_170280^Gaia's Power^大地之力^대지의 힘^Terraforce^Gaias Macht^Poder de la tierra
-MST_MONSTER_SKILL_NAME_170290^Supersonic Wave^超音波^초음파^Vague supersonique^Schallwelle^Onda ultrasónica
-MST_MONSTER_SKILL_NAME_170300^Reacting to the attack!^對攻擊產生反應！^공격에 반응!^Protection !^Zurückschlagen!^¡Ha reaccionado al ataque!
+MST_MONSTER_SKILL_NAME_170280^Power of the Land^大地之力^대지의 힘^Terraforce^Mutter Erde^Poder de la tierra
+MST_MONSTER_SKILL_NAME_170290^Ultra Sound Wave^超音波^초음파^Vague supersonique^Ultraschall^Onda ultrasónica
+MST_MONSTER_SKILL_NAME_170300^Reacting to the attack!^對攻擊產生反應！^공격에 반응!^Protection !^Gegenangriff!^¡Ha reaccionado al ataque!
 MST_MONSTER_SKILL_NAME_170310^Became compact^變硬了^단단해졌다^Larvalar s'est endurci^Es ist erstarrt^Se ha endurecido.
-MST_MONSTER_SKILL_NAME_170320^Ralvuimago relaxes its guard^解除警戒^경계를 풀다^Larvalar n'est plus en alerte^Es ist nicht länger wachsam^Ha bajado la guardia.
+MST_MONSTER_SKILL_NAME_170320^Ralvuimago relaxes its guard^解除警戒^경계를 풀다^Larvalar n'est plus en alerte^Nicht mehr wachsam^Ha bajado la guardia.
 MST_MONSTER_SKILL_NAME_170330^Fang of Confusion^混亂之牙^혼란의 송곳니^Croc de confusion^Fang der Konfusion^Colmillo de la confusión
 MST_MONSTER_SKILL_NAME_170340^Howling Moon^月夜狼嚎^하울링 문^Lune hurlante^Mondheulen^Luna aullante
 MST_MONSTER_SKILL_NAME_170350^Icestorm^吹雪^눈보라^Blizzard^Blizzard^Tormenta de nieve
@@ -2337,10 +2337,10 @@ MST_MONSTER_SKILL_NAME_170470^Dark Breath^黑暗吐息^다크 숨결^Souffle obs
 MST_MONSTER_SKILL_NAME_170480^Darkga^大暗黑^다크가^Ténèbres X^Darkga^Sombra++
 MST_MONSTER_SKILL_NAME_170490^Pointed Fang^銳牙^날카로운 송곳니^Croc pointu^Spitzer Fang^Colmillo puntiagudo
 MST_MONSTER_SKILL_NAME_170500^Crunch^咬碎^물어뜯기^Croquer^Zermalmen^Crujido
-MST_MONSTER_SKILL_NAME_170510^Gaia's Power^大地之力^대지의 힘^Terraforce^Gaias Macht^Poder de la tierra
-MST_MONSTER_SKILL_NAME_170520^Corner^角^귀퉁이^Coin^Bedrängen^Acorralar
+MST_MONSTER_SKILL_NAME_170510^Power of the Land^大地之力^대지의 힘^Terraforce^Mutter Erde^Poder de la tierra
+MST_MONSTER_SKILL_NAME_170520^Edge^角^귀퉁이^Coin^Buchkante^Acorralar
 MST_MONSTER_SKILL_NAME_170530^Poison^施毒^맹독 숨결^Poison^Gift^Toxis
-MST_MONSTER_SKILL_NAME_170540^Paper Storm^紙風暴^종이 폭풍^Tempête de papier^Papiergewitter^Tormenta de papel
+MST_MONSTER_SKILL_NAME_170540^Paper Storm^紙風暴^종이 폭풍^Tempête de papier^Papierorkan^Tormenta de papel
 MST_MONSTER_SKILL_NAME_170550^Petal Storm^花瓣風暴^꽃잎 폭풍^Tempête de pétales^Blütensturm^Tormenta de pétalos
 MST_MONSTER_SKILL_NAME_170560^Petal Storm^花瓣風暴^꽃잎 폭풍^Tempête de pétales^Blütensturm^Tormenta de pétalos
 MST_MONSTER_SKILL_NAME_170570^Angry Bloom^狂怒盛開^꽃피는 분노^Floraison enragée^Wutblühen^Florecimiento iracundo
@@ -2621,7 +2621,7 @@ MST_MONSTER_SKILL_NAME_172850^Slipstream^螺旋氣流^반동 기류^Sillage^Wirb
 MST_MONSTER_SKILL_NAME_172860^Friction^烈風刃^바람의 칼날^Lame de vent^Windklinge^Hoja de viento
 MST_MONSTER_SKILL_NAME_172870^Wicked Foil^邪輪旋風^마녀의 수레바퀴^Roue mauvaise^Rad der Bosheit^Lamina perversa
 MST_MONSTER_SKILL_NAME_172880^Slipstream^螺旋氣流^반동 기류^Sillage^Wirbelströmung^Estela
-MST_MONSTER_SKILL_NAME_172890^Scorch^火炎流^화연류^Brûlure^Versengen^Infierno
+MST_MONSTER_SKILL_NAME_172890^Scorch^火炎流^화연류^Brûlure^Hitzewelle^Infierno
 MST_MONSTER_SKILL_NAME_172900^Snowstorm^吹雪^눈보라^Tempête de neige^Schneesturm^Tormenta de nieve
 MST_MONSTER_SKILL_NAME_172910^Bolt^閃電^번개^Fulguration^Donnerkeil^Rayo
 MST_MONSTER_SKILL_NAME_172920^Earthquake^地震^지진^Choc sismique^Erdbeben^Temblor

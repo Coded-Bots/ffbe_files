@@ -253,12 +253,12 @@ MST_ITEM_NAME_1100000028^Meteor Shards^流星碎片^유석의 단편^Éclat de m
 MST_ITEM_NAME_1100000029^Meteor Stones^流星石^유성의 돌^Pierre de météore ^Meteorsteine^Meteopiedra
 MST_ITEM_NAME_1100000030^Meteor Rock^流星岩^유성의 바위^Rocher de météore^Meteorfels^Meteoroca
 MST_ITEM_NAME_1100000031^Meteor Ore^流星礦石^유성의 광석^Minerai de météore ^Meteorerz^Meteomineral
-MST_ITEM_NAME_101000400^Medicinal Herb^^^^^Planta medicinal
-MST_ITEM_NAME_101000500^Superior Medicine^^^^^Medicina superior
-MST_ITEM_NAME_101000600^Yggdrasil Dew^^^^^Rocío de Yggdrasil
-MST_ITEM_NAME_101001300^Magic Water^^^^^Agua mágica
-MST_ITEM_NAME_101001400^Sage's Elixir^^^^^Elixir de sabio
-MST_ITEM_NAME_101003200^Yggdrasil Leaf^^^^^Hoja de Yggdrasil
+MST_ITEM_NAME_101000400^Medicinal Herb^藥草^약초^Herbe médicinale^Heilkraut^Planta medicinal
+MST_ITEM_NAME_101000500^Superior Medicine^治癒草^치유초^Remède supérieur^Überlegene Arznei^Medicina superior
+MST_ITEM_NAME_101000600^Yggdrasil Dew^世界樹之露^세계수의 물방울^Rosée d'Yggdrasil^Yggdrasil-Tau^Rocío de Yggdrasil
+MST_ITEM_NAME_101001300^Magic Water^魔法聖水^마법의 성수^Fiole d'eau magique^Zauberwasser^Agua mágica
+MST_ITEM_NAME_101001400^Sage's Elixir^賢者聖水^현자의 성수^Élixir du sage^Weisenelixier^Elixir de sabio
+MST_ITEM_NAME_101003200^Yggdrasil Leaf^世界樹之葉^세계수의 잎^Feuille d'Yggdrasil^Yggdrasil-Blatt^Hoja de Yggdrasil
 MST_ITEM_NAME_109203000^Flamering Key 1^火輪之鍵1^화륜의 열쇠1^Clé des flammes 1^Flammenschlüssel 1^Llave Fuego 1
 MST_ITEM_NAME_109203010^Flamering Key 2^火輪之鍵2^화륜의 열쇠2^Clé des flammes 2^Flammenschlüssel 2^Llave Fuego 2
 MST_ITEM_NAME_109203020^Flamering Key 3^火輪之鍵3^화륜의 열쇠3^Clé des flammes 3^Flammenschlüssel 3^Llave Fuego 3
@@ -475,7 +475,7 @@ MST_ITEM_NAME_1300000005^10+1 Summon Ticket^10+1 召喚券^10+1 소환티켓^Tic
 MST_ITEM_NAME_101003400^Thank You Candy^謝禮糖果^답례 사탕^Bonbon cadeau^Dankesbonbon^Golosina de regalo
 MST_ITEM_NAME_106302800^Contest Raid Coin^大賽共鬥硬幣^콘테스트 레이드 코인^Jeton du concours^Wettkampfraubzugmünze^Moneda de torneo
 MST_ITEM_NAME_106302900^Debased Coin^古老銅板^낡은 동전^Sou ancien^Verrostete Münze^Moneda antigua
-MST_ITEM_NAME_106303100^Play Ticket^戲劇門票^공연 티켓^Ticket de théâtre^Spielkarte^Entrada
+MST_ITEM_NAME_106303100^Ticket^戲劇門票^공연 티켓^Billet^Eintrittskarte^Entrada
 MST_ITEM_NAME_106303200^Engels Raid Coin^恩格斯共鬥硬幣^엥겔스 레이드 코인^Jeton d'Engels^Engelsraubzugmünze^Moneda de Engels
 MST_ITEM_NAME_106303300^Al Bhed Primer^阿爾貝德語辭典^알베드어 사전^Manuel d'Al Bhed^Al Bhed-Wörterbuch^Diccionario albhed
 MST_ITEM_NAME_216000100^Twilight Feather^黃昏羽毛^황혼빛의 깃털^Plume du crépuscule^Dämmerungsfeder^Pluma crepuscular
