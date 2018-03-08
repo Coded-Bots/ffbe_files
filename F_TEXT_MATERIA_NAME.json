@@ -545,7 +545,7 @@ MST_MATERIA_NAME_504218380^Azure Crimson Soul^蒼紅之魂^창홍의 영혼^Âme
 MST_MATERIA_NAME_504218390^Strategist's Ingenuity^軍師知略^참모의 지략^Ingéniosité de stratège^Strategisches Genie^Ingenuidad estratégica
 MST_MATERIA_NAME_504218860^Mechanical Heart^機械裝置之心^기계장치의 마음^Cœur mécanique^Mechanisches Herz^Corazón mecánico
 MST_MATERIA_NAME_504218870^Vengeful Wrath^憎惡^증오^Colère vengeresse^Rachsüchtiger Zorn^Ira de venganza
-MST_MATERIA_NAME_504219080^Yevon's Wisdom^耶朋的教誨^에본의 가르침^Sagesse de Yevon^Yevons Weisheit^Sabiduría de Yevon
+MST_MATERIA_NAME_504219080^Yevon's Wisdom^耶朋的教誨^에본의 가르침^Sagesse de Yevon^Yevons Lehren^Sabiduría de Yevon
 MST_MATERIA_NAME_504219220^Power of Purification^淨化之力^정화의 힘^Pouvoir de purification^Macht der Läuterung^Poder purificador
 MST_MATERIA_NAME_504219230^Art of Purification^淨化之術^정화의 기술^Art de purification^Kunst der Läuterung^Arte purificador
 MST_MATERIA_NAME_504219240^Ice Resistance +20%^冰屬性耐性+20%^얼음속성 저항력+20%^Rés. À la glace +20%^Eisresistenz +20%^Resistencia al hielo +20%
@@ -631,8 +631,8 @@ MST_MATERIA_NAME_504224930^Modish Witch^時尚女巫^세련된 마녀^Sorcière 
 MST_MATERIA_NAME_504225930^Necropolis^墓園^네크로폴리스^Nécropole^Nekropolis^Necrópolis
 MST_MATERIA_NAME_504225720^Fortune Baby^幸運兒^포츈 베이비^Bébé chanceux^Glücksbaby^Criatura afortunada
 MST_MATERIA_NAME_504225890^Vigorous Build^質樸剛健^질실강건^Construction vigoureuse^Voller Elan^Constitución vigorosa
-MST_MATERIA_NAME_504213170^Water Resistance +20%^水屬性耐性+20%^물속성 저항력+20%^Rés. à l'eau +15%^Wasserresistenz +20%^Resistencia al agua +20%
-MST_MATERIA_NAME_504226050^Mage's Hope^魔道士的祈願^마도사의 소망^Espoir de mage^Wunsch des Ritters^Esperanza de caballero
+MST_MATERIA_NAME_504213170^Water Resistance +20%^水屬性耐性+20%^마도사의 소망^Rés. à l'eau +15%^Wasserresistenz +20%^Resistencia al agua +20%
+MST_MATERIA_NAME_504226050^Mage's Hope^魔道士的祈願^^Espoir de mage^Wunsch des Ritters^Esperanza de caballero
 MST_MATERIA_NAME_504226041^Knight's Hope^騎士的祈願^기사의 소망^Espoir de chevalier^Wunsch des Magiers^Esperanza de mago
 MST_MATERIA_NAME_504226031^Ruling Fiend^裁決的惡魔^재정의 악마^Monstre dirigeant^Urteilssprechender Dämon^Fiera reinante
 MST_MATERIA_NAME_504226380^Hero's Vow - Darkness^英雄誓言·暗^영웅의 맹세·어둠^Vœu du héros - Ténèbres^Heldenschwur - Dunkel^Voto del héroe - Oscuridad
@@ -644,3 +644,7 @@ MST_MATERIA_NAME_1500000036^Turbulent Evasion^湍流避閃^터뷸런트 이베�
 MST_MATERIA_NAME_1500000037^Cowered Courage^懦夫的勇氣^소심한 용기^Courage relatif^Feiger Mut^Coraje estremecido
 MST_MATERIA_NAME_1500000038^Unmatched Wizardry^獨一魔道師^언매치드 위저드리^Sorcellerie implacable^Unerreichte Zauberei^Hechicería incontestable
 MST_MATERIA_NAME_1500000039^White Knight's Soul^白騎士之魂^백기사의 영혼^Âme de chevalier blanc^Seele des Weißen Ritters^Alma del caballero blanco
+MST_MATERIA_NAME_1500000040^Tomb Raider^古墓奇兵^툼 레이더^Pilleur de tombe^Tomb Raider^Cazador de tesoros
+MST_MATERIA_NAME_1500000044^Offensive Defense^^^^Offensive Abwehr^
+MST_MATERIA_NAME_1500000041^Power of the Sands^金沙之力^모래의 힘^Pouvoir des sables^Kraft des Sandes^Poder de las arenas
+MST_MATERIA_NAME_1500000043^Croft's Intuition^卡芙特的直覺^크로프트의 직감^Intuition des Croft^Crofts Intuition^Intuición de los Croft

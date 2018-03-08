@@ -180,7 +180,7 @@ MST_MONSTER_SKILL_NAME_140040^Vampire^吸血^흡혈^Vampire^Blutsaugen^Chupasang
 MST_MONSTER_SKILL_NAME_140050^Seed Cannon^種子大炮^씨앗 대포^Graine-obus^Saatkanone^Cañón de semillas
 MST_MONSTER_SKILL_NAME_140060^Maser Eye^微波眼^메이저 아이^Fovéa^Laserauge^Ojo láser
 MST_MONSTER_SKILL_NAME_140070^Fire Breath^火焰吐息^불꽃의 숨결^Souffle de feu^Feueratem^Aliento de fuego
-MST_MONSTER_SKILL_NAME_140080^Aqua Breath^流水吐息^물의 숨결^Souffle d'eau^Wasseratem^Aliento de agua
+MST_MONSTER_SKILL_NAME_140080^Aqua Breath^流水吐息^물의 숨결^Aquasouffle^Nasshauch^Aliento de agua
 MST_MONSTER_SKILL_NAME_140090^Electric Shock^電擊^전기 충격^Électrochoc^Elektroschock^Electroshock
 MST_MONSTER_SKILL_NAME_140100^Gatling Gun^機關炮^개틀링 건^Mitrailleuse^Gatling-Kanone^Ametralladora
 MST_MONSTER_SKILL_NAME_140110^Drill Shot^徹甲彈^철갑탄^Balle antichar^Panzerschuss^Bala explosiva
@@ -324,7 +324,7 @@ MST_MONSTER_SKILL_NAME_151000^Thunderbolt^閃電^우레^Éclair fulgurant^Blitzs
 MST_MONSTER_SKILL_NAME_151010^Venom Breath^猛毒吐息^맹독숨결^Souffle empoisonné^Giftatem^Hálito ponzoñoso
 MST_MONSTER_SKILL_NAME_151020^Critical^暴擊^치명타^Coup critique^Volltreffer^Crítico
 MST_MONSTER_SKILL_NAME_151070^Fira^中火焰^파이라^Feu +^Feura^Fuego+
-MST_MONSTER_SKILL_NAME_151080^Thunderstrike^雷擊^전격^Tonnerre foudroyant^Blitzschlag^Piedratrueno
+MST_MONSTER_SKILL_NAME_151080^Thunderstrike^雷擊^전격^Tonnerre foudroyant^Donnerschlag^Piedratrueno
 MST_MONSTER_SKILL_NAME_151090^Tease^捉弄^놀리기^Provocation^Verspotten^Mofa
 MST_MONSTER_SKILL_NAME_151100^Destruction^毁壞^파멸^Destruction^Vernichtung^Destrucción
 MST_MONSTER_SKILL_NAME_151110^Great Whirlwind^大旋風^태풍^Grand tourbillon^Sturmböe^Gran remolino
@@ -989,11 +989,11 @@ MST_MONSTER_SKILL_NAME_157240^Earth Shaker^大地搖動^어스쉐이커^Tremblem
 MST_MONSTER_SKILL_NAME_157250^Earth Shaker^大地搖動^어스쉐이커^Tremblement de terre^Erdstoß^Sismo
 MST_MONSTER_SKILL_NAME_157260^Earth Shaker^大地搖動^어스쉐이커^Tremblement de terre^Erdstoß^Sismo
 MST_MONSTER_SKILL_NAME_157270^Earth Shaker^大地搖動^어스쉐이커^Tremblement de terre^Erdstoß^Sismo
-MST_MONSTER_SKILL_NAME_157280^Aqua Breath^流水吐息^물의 숨결^Souffle d'eau^Wasseratem^Aliento de agua
-MST_MONSTER_SKILL_NAME_157290^Aqua Breath^流水吐息^물의 숨결^Souffle d'eau^Wasseratem^Aliento de agua
-MST_MONSTER_SKILL_NAME_157300^Aqua Breath^流水吐息^물의 숨결^Souffle d'eau^Wasseratem^Aliento de agua
-MST_MONSTER_SKILL_NAME_157310^Aqua Breath^流水吐息^물의 숨결^Souffle d'eau^Wasseratem^Aliento de agua
-MST_MONSTER_SKILL_NAME_157320^Aqua Breath^流水吐息^물의 숨결^Souffle d'eau^Wasseratem^Aliento de agua
+MST_MONSTER_SKILL_NAME_157280^Aqua Breath^流水吐息^물의 숨결^Aquasouffle^Wasseratem^Aliento de agua
+MST_MONSTER_SKILL_NAME_157290^Aqua Breath^流水吐息^물의 숨결^Aquasouffle^Wasseratem^Aliento de agua
+MST_MONSTER_SKILL_NAME_157300^Aqua Breath^流水吐息^물의 숨결^Aquasouffle^Wasseratem^Aliento de agua
+MST_MONSTER_SKILL_NAME_157310^Aqua Breath^流水吐息^물의 숨결^Aquasouffle^Wasseratem^Aliento de agua
+MST_MONSTER_SKILL_NAME_157320^Aqua Breath^流水吐息^물의 숨결^Aquasouffle^Wasseratem^Aliento de agua
 MST_MONSTER_SKILL_NAME_157330^Flash of Lightning^閃電^천둥번개^Électrodécharge ^Blitzschlag^Electrodescarga
 MST_MONSTER_SKILL_NAME_157340^Flash of Lightning^閃電^천둥번개^Électrodécharge ^Blitzschlag^Electrodescarga
 MST_MONSTER_SKILL_NAME_157350^Flash of Lightning^閃電^천둥번개^Électrodécharge ^Blitzschlag^Electrodescarga
@@ -1050,47 +1050,47 @@ MST_MONSTER_SKILL_NAME_157880^Curaja^超療傷^케알가^Soin Max^Vitaja^Cura+++
 MST_MONSTER_SKILL_NAME_157890^The light is converging!^聚光^빛이 구속한다^La lumière converge !^Das Licht fließt zusammen!^¡La luz se está acumulando!
 MST_MONSTER_SKILL_NAME_157900^A massive beam of light is forming!^大量光在聚集^방대한 빛이 모여든다^Un énorme rayon de lumière se forme !^Ein massiver Lichtstrahl formt sich!^¡Está creándose rayo de luz enorme!
 MST_MONSTER_SKILL_NAME_157910^It's widely flapping its wings!^張開了羽翼^커다랗게 날개를 펼친다^Il déploie complètement ses ailes !^Es schlägt mit den Flügeln!^¡Está batiendo las alas violentamente!
-MST_MONSTER_SKILL_NAME_157920^Frizz^美拉^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_157930^Thunder Slash^閃電斬^NA^NA^NA^Golpe trueno
-MST_MONSTER_SKILL_NAME_157940^Thunder Slash^閃電斬^NA^NA^NA^Golpe trueno
-MST_MONSTER_SKILL_NAME_157950^Flame Slash^火焰斬^화염 베기^Tranche-flammes^Flammenstreich^Corte flamígero
-MST_MONSTER_SKILL_NAME_157960^Flame Slash^火焰斬^화염 베기^Tranche-flammes^Flammenstreich^Corte flamígero
-MST_MONSTER_SKILL_NAME_157970^Frenzy^屠戮^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_157980^Frenzy^屠戮^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_157920^Frizz^美拉^메라^Flamme^Fauch^Miniataque ígneo
+MST_MONSTER_SKILL_NAME_157930^Lightning Slash^閃電斬^번개 베기^Lame d'éclair^Blitzhieb^Estocada de relámpago
+MST_MONSTER_SKILL_NAME_157940^Lightning Slash^閃電斬^번개 베기^Lame d'éclair^Blitzhieb^Estocada de relámpago
+MST_MONSTER_SKILL_NAME_157950^Flame Slash^火焰斬^화염 베기^Lame de feu^Flammenhieb^Estocada flamígera
+MST_MONSTER_SKILL_NAME_157960^Flame Slash^火焰斬^화염 베기^Lame de feu^Flammenhieb^Estocada flamígera
+MST_MONSTER_SKILL_NAME_157970^Frenzy^屠戮^몰살^Frénésie^Ausraster^Frenesí
+MST_MONSTER_SKILL_NAME_157980^Frenzy^屠戮^몰살^Frénésie^Ausraster^Frenesí
 MST_MONSTER_SKILL_NAME_157990^Muscle Pose^肌肉姿勢^근육 포즈^Pose musculeuse^Muskelpose^Pose musculosa
 MST_MONSTER_SKILL_NAME_158000^Muscle Pose^肌肉姿勢^근육 포즈^Pose musculeuse^Muskelpose^Pose musculosa
 MST_MONSTER_SKILL_NAME_158010^Critical Swing^痛恨一擊^통한의 일격^Coup massif^Kritischer Hieb^Gancho crítico
 MST_MONSTER_SKILL_NAME_158020^Critical Swing^痛恨一擊^통한의 일격^Coup massif^Kritischer Hieb^Gancho crítico
-MST_MONSTER_SKILL_NAME_158030^After Spark^地獄雷打^애프터 스파크^Après l'étincelle^Nach dem Funken^Gancho crítico
-MST_MONSTER_SKILL_NAME_158040^C-C-Cold Breath^閃耀氣息^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158050^Inferno^烈焰^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158060^Sandstorm^沙塵^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158070^Sunbake^灼熱^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158080^Kafrizz^美拉佐瑪^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158090^Snooze^拉里霍^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158100^Fizzle^瑪霍托恩^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158110^Kafrizzle^美拉蓋亞^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158120^Kasizzle^貝基拉格恩^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158130^Midheal^貝霍伊米^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158140^Mind Barrier^精神壁障^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158150^Dragonlord's Rage^龍王之怒^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158160^Channel Anger^魔力覺醒^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158170^Bite Off^撕咬^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158180^Roar^咆哮^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158190^Inferno^烈焰^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158200^Wave of Panic^暗之波動^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158210^Disruptive Wave^凍結波動^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158220^Sizz^基拉^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158230^Liquid metal slime ran away!^流浪金屬史萊姆 逃跑了！^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158240^Magic Purification^淨化魔力^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158250^Dragonlord's ATK increased^龍王的 攻撃 提升了^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158260^Dragonlord's DEF increased^龍王的 防禦 提升了^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158270^Dragonlord's MAG increased^龍王的 魔力 提升了^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158280^Dragonlord's SPR increased^龍王的 精神 提升了^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158290^Kafrizzle^美拉蓋亞^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158300^Sunbake^灼熱^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158310^Kafrizz^美拉佐瑪^NA^NA^NA^NA
-MST_MONSTER_SKILL_NAME_158320^Kasizzle^貝基拉格恩^NA^NA^NA^NA
+MST_MONSTER_SKILL_NAME_158030^Lightning Storm^地獄雷打^애프터 스파크^Orage d'éclairs^Blitzgewitter^Tormenta luminosa
+MST_MONSTER_SKILL_NAME_158040^C-C-Cold Breath^閃耀氣息^빛나는 입김^Souffle gla-glacial^Eisiger Odem^Aliento glacial
+MST_MONSTER_SKILL_NAME_158050^Inferno^烈焰^거센 불길^Inferno^Inferno^Infierno
+MST_MONSTER_SKILL_NAME_158060^Sandstorm^沙塵^모래 먼지^Tempête de sable^Sandsturm^Tormenta de arena
+MST_MONSTER_SKILL_NAME_158070^Scorch^灼熱^작열탄^Brûlure^Hitzewelle^Quemadura
+MST_MONSTER_SKILL_NAME_158080^Kafrizz^美拉佐瑪^메라조마^Mégaflamme^Zisch^Megaataque ígneo
+MST_MONSTER_SKILL_NAME_158090^Snooze^拉里霍^라리호^Torpeur^Gähn^Sueño
+MST_MONSTER_SKILL_NAME_158100^Fizzle^瑪霍托恩^마호톤^Antimagie^Ätsch^Negación mágica
+MST_MONSTER_SKILL_NAME_158110^Kafrizzle^美拉蓋亞^메라가이아^Gigaflamme^Schmurgel^Superataque ígneo
+MST_MONSTER_SKILL_NAME_158120^Kasizzle^貝基拉格恩^베기라곤^Mégacrame^Schmor^Superincendio
+MST_MONSTER_SKILL_NAME_158130^Midheal^貝霍伊米^베호이미^Soins partiels^Mittelheilung^Semicuración
+MST_MONSTER_SKILL_NAME_158140^Mind Barrier^精神壁障^마인드 배리어^Barrière mentale^^Barrera mental
+MST_MONSTER_SKILL_NAME_158150^Dragonlord's Wrath^龍王之怒^용왕의 분노^Colère de Lordragon^^Ira de Draconarius
+MST_MONSTER_SKILL_NAME_158160^Channel Anger^魔力覺醒^마력 각성^Psychocanalisation^Aggressionstraining^Canalizar furia
+MST_MONSTER_SKILL_NAME_158170^Bite Off^撕咬^물어뜯기^Morsure profonde^^Mordisco desgarrador
+MST_MONSTER_SKILL_NAME_158180^Roar^咆哮^포효^Rugissement^^Rugido
+MST_MONSTER_SKILL_NAME_158190^Inferno^烈焰^거센 불길^Inferno^Inferno^Infierno
+MST_MONSTER_SKILL_NAME_158200^Wave of Panic^暗之波動^어둠의 파동^Vague de panique^Welle der Panik^Onda de pánico
+MST_MONSTER_SKILL_NAME_158210^Disruptive Wave^凍結波動^얼어붙은 파동^Perturbonde^Störwelle^Onda perjudicial
+MST_MONSTER_SKILL_NAME_158220^Sizz^基拉^기라^Crame^Knister^Miniincendio
+MST_MONSTER_SKILL_NAME_158230^Liquid metal slime ran away!^流浪金屬史萊姆 逃跑了！^하구레메탈은 도망쳤다!^Le gluant de mercure s'est échappé !^^¡Se escapó el burbujilimo metálico!
+MST_MONSTER_SKILL_NAME_158240^Magic Purification^淨化魔力^마력을 정화하다^Purification magique^^Purificación mágica
+MST_MONSTER_SKILL_NAME_158250^Dragonlord's ATK increased^龍王的 攻撃 提升了^용왕의 공격력이 상승했다^L'ATT de Lordragon a augmenté ^^ATQ de Draconarius↑
+MST_MONSTER_SKILL_NAME_158260^Dragonlord's DEF increased^龍王的 防禦 提升了^용왕의 방어력이 상승했다^La DEF de Lordragon a augmenté ^^DEF de Draconarius↑
+MST_MONSTER_SKILL_NAME_158270^Dragonlord's MAG increased^龍王的 魔力 提升了^용왕의 마력이 상승했다^La MAGIE de Lordragon a augmenté ^^MAG de Draconarius↑
+MST_MONSTER_SKILL_NAME_158280^Dragonlord's SPR increased^龍王的 精神 提升了^용왕의 정신력이 상승했다^La PSY de Lordragon a augmenté ^^ESP de Draconarius↑
+MST_MONSTER_SKILL_NAME_158290^Kafrizzle^美拉蓋亞^메라가이아^Mégaflamme^Schmurgel^Superataque ígneo
+MST_MONSTER_SKILL_NAME_158300^Scorch^灼熱^작열탄^Brûlure^Hitzewelle^Quemadura
+MST_MONSTER_SKILL_NAME_158310^Kafrizz^美拉佐瑪^메라조마^Mégaflamme^Zisch^Megaataque ígneo
+MST_MONSTER_SKILL_NAME_158320^Kasizzle^貝基拉格恩^베기라곤^Mégacrame^Schmor^Superincendio
 MST_MONSTER_SKILL_NAME_153770^Meteor^隕石^메테오^Météore^Meteo^Meteo
 MST_MONSTER_SKILL_NAME_153750^Negation^重置氣場^리셋의 오라^Négation^Negation^Anulación
 MST_MONSTER_SKILL_NAME_158330^Pollen^花粉^꽃가루^Pollen^Pollen^Polen
@@ -1230,7 +1230,7 @@ MST_MONSTER_SKILL_NAME_160080^Haste^急速^헤이스트^Booster^Eile^Prisa
 MST_MONSTER_SKILL_NAME_160090^Protect^物防護^프로테스^Bouclier^Protes^Coraza
 MST_MONSTER_SKILL_NAME_160100^Hailstone^落石^우박^Grêle^Hagelstein^Lluvia de rocas
 MST_MONSTER_SKILL_NAME_160110^Magnitude 8^8級地震^매그니튜드 8^Magnitude 8^Magnitude 8^Magnitud 8
-MST_MONSTER_SKILL_NAME_160120^Aqua Breath^流水吐息^물의 숨결^Souffle d'eau^Wasseratem^Aliento de agua
+MST_MONSTER_SKILL_NAME_160120^Aqua Breath^流水吐息^물의 숨결^Aquasouffle^Wasseratem^Aliento de agua
 MST_MONSTER_SKILL_NAME_160130^Curaga^齊療傷^케알다^Soin X^Vitaga^Cura++
 MST_MONSTER_SKILL_NAME_160140^10,000 Volts^一萬伏特^10,000볼트^10 000 volts^10.000 Volt^10.000 voltios
 MST_MONSTER_SKILL_NAME_160150^Acid Rain^酸雨^산성비^Pluie acide^Säureregen^Lluvia ácida
@@ -1294,7 +1294,7 @@ MST_MONSTER_SKILL_NAME_160610^Haste^急速^문어발^Booster^Eile^Prisa
 MST_MONSTER_SKILL_NAME_160620^Protect^物防護^프로테스^Bouclier^Protes^Coraza
 MST_MONSTER_SKILL_NAME_160630^Hailstone^落石^우박^Grêle^Hagelstein^Lluvia de rocas
 MST_MONSTER_SKILL_NAME_160640^Magnitude 8^8級地震^매그니튜드 8^Magnitude 8^Magnitude 8^Magnitud 8
-MST_MONSTER_SKILL_NAME_160650^Aqua Breath^流水吐息^물의 숨결^Souffle d'eau^Wasseratem^Aliento de agua
+MST_MONSTER_SKILL_NAME_160650^Aqua Breath^流水吐息^물의 숨결^Aquasouffle^Wasseratem^Aliento de agua
 MST_MONSTER_SKILL_NAME_160660^Curaga^齊療傷^케알다^Soin X^Vitaga^Cura++
 MST_MONSTER_SKILL_NAME_160670^10,000 Volts^一萬伏特^10,000볼트^10 000 volts^10.000 Volt^10.000 voltios
 MST_MONSTER_SKILL_NAME_160680^Acid Rain^酸雨^산성비^Pluie acide^Säureregen^Lluvia ácida
@@ -1354,7 +1354,7 @@ MST_MONSTER_SKILL_NAME_161210^Poison Sting^毒針^독침^Dard empoisonné^Giftst
 MST_MONSTER_SKILL_NAME_161220^Silence Touch^沉默攻擊^침묵 공격^Atq Mutisme^Schlag des Schweigens^Efecto Mudez
 MST_MONSTER_SKILL_NAME_161230^Stonetouch^石化攻擊^석화 공격^Atq Fossile^Steinschlag^Efecto Piedra
 MST_MONSTER_SKILL_NAME_161240^Megiddo Flame^米吉多火光^메기도 플레임^Feu de Megido^Megiddo-Flamme^Descarga sísmica
-MST_MONSTER_SKILL_NAME_161250^Aqua Breath^流水吐息^물의 숨결^Souffle d'eau^Wasseratem^Aliento de agua
+MST_MONSTER_SKILL_NAME_161250^Aqua Breath^流水吐息^물의 숨결^Aquasouffle^Wasseratem^Aliento de agua
 MST_MONSTER_SKILL_NAME_161260^Fire^火焰^파이어^Feu^Feuer^Piro
 MST_MONSTER_SKILL_NAME_161270^Blizzard^暴雪^블리자드^Glace^Eis^Hielo
 MST_MONSTER_SKILL_NAME_161280^Thunder^雷電^선더^Foudre^Blitz^Electro
@@ -2249,7 +2249,7 @@ MST_MONSTER_SKILL_NAME_169290^Poison Sting^毒針^독침^Dard empoisonné^Giftst
 MST_MONSTER_SKILL_NAME_169300^Thorny Tail^尾針^꼬리 침^Queue pleine d'épines^Dornenschwanz^Cola espinosa
 MST_MONSTER_SKILL_NAME_169610^Anger Rush^好煩好煩^울컥울컥하다^Montée de colère^Zornrausch^Subidón de ira
 MST_MONSTER_SKILL_NAME_169620^Chew Up^大口啃咬^통째로 베어먹기^Mastication^Zerkleinern^Mascar
-MST_MONSTER_SKILL_NAME_169630^Aqua Breath^流水吐息^아쿠아 숨결^Souffle d'eau^Wasseratem^Aliento de agua
+MST_MONSTER_SKILL_NAME_169630^Aqua Breath^流水吐息^아쿠아 숨결^Aquasouffle^Wasseratem^Aliento de agua
 MST_MONSTER_SKILL_NAME_169640^Cold Breath^寒冷吐息^추위의 숨결^Souffle gelé^Kalter Atem^Hálito frío
 MST_MONSTER_SKILL_NAME_169650^Fire Breath^火焰吐息^파이어 숨결^<na>^<na>^Aliento de fuego
 MST_MONSTER_SKILL_NAME_169660^Flash of Lightning^閃電^천둥번개^Électrodécharge^Blitzschlag^Electrodescarga
@@ -2450,29 +2450,29 @@ MST_MONSTER_SKILL_NAME_171590^Dark^暗黑^다크^Obscurité^Dunkel^Sombra
 MST_MONSTER_SKILL_NAME_171600^Sparkling Horn^光輝巨角^빛나는 뿔^Corne scintillante^Glitzerhorn^Cuerno centelleante
 MST_MONSTER_SKILL_NAME_171610^The giant horn drains all!^巨角吸收了所有事物！^뿔이 모든 것을 빨아들인다!^La corne géante draine tout !^Das gigantische Horn saugt alles auf!^¡El cuerno gigante lo drena todo!
 MST_MONSTER_SKILL_NAME_171620^Supersonic Thanatos^音速塔納托斯^음속의 타나토스^Thanatos supersonique^Überschall-Thanatos^Tánatos supersónico
-MST_MONSTER_SKILL_NAME_171630^Thunderstrike^雷擊^전격^Tonnerre foudroyant^Blitzschlag^Piedratrueno
-MST_MONSTER_SKILL_NAME_171640^Thunderstrike^雷擊^전격^Tonnerre foudroyant^Blitzschlag^Piedratrueno
-MST_MONSTER_SKILL_NAME_171650^Seed Machine-Gun^種子機關槍^씨앗 기관총^Mitraillette à graines^Saat-Maschinengewehr^Metralleta de semillas
-MST_MONSTER_SKILL_NAME_171660^Seed Machine-Gun^種子機關槍^씨앗 기관총^Mitraillette à graines^Saat-Maschinengewehr^Metralleta de semillas
-MST_MONSTER_SKILL_NAME_171670^Seed Cannon^種子大砲^씨앗 대포^Graine-obus^Saatkanone^Cañón de semillas
-MST_MONSTER_SKILL_NAME_171680^Seed Cannon^種子大砲^씨앗 대포^Graine-obus^Saatkanone^Cañón de semillas
-MST_MONSTER_SKILL_NAME_171690^Morale Booster^士氣^기합^Kiaï^Moralschub^Kiai
-MST_MONSTER_SKILL_NAME_171700^Ashura is ready^阿修羅擺出架式^아수라는 자세를 가다듬었다^Ashura est prête^Ashura ist bereit^Ashura está lista
+MST_MONSTER_SKILL_NAME_171630^Thunderstrike^雷擊^전격^Tonnerre foudroyant^Donnerschlag^Piedratrueno
+MST_MONSTER_SKILL_NAME_171640^Thunderstrike^雷擊^전격^Tonnerre foudroyant^Donnerschlag^Piedratrueno
+MST_MONSTER_SKILL_NAME_171650^Seed Burst^種子機關槍^씨앗 기관총^Rafale de graines^Kerndauerspucken^Metralla de semillas
+MST_MONSTER_SKILL_NAME_171660^Seed Burst^種子機關槍^씨앗 기관총^Rafale de graines^Kerndauerspucken^Metralla de semillas
+MST_MONSTER_SKILL_NAME_171670^Seed Cannon^種子大砲^씨앗 대포^Graine-obus^Kernspucken^Cañón de semillas
+MST_MONSTER_SKILL_NAME_171680^Seed Cannon^種子大砲^씨앗 대포^Graine-obus^Kernspucken^Cañón de semillas
+MST_MONSTER_SKILL_NAME_171690^Psych Up^士氣^기합^Kiaï^Kampflust^Kiai
+MST_MONSTER_SKILL_NAME_171700^Bashura put up its dukes^阿修羅擺出架式^아수라는 자세를 가다듬었다^Asherah se tient en garde^Ashura ist bereit^Asur está listo
 MST_MONSTER_SKILL_NAME_171710^Counter^反擊^맞받아치기^Contre-attaque^Konter^Contraataque
-MST_MONSTER_SKILL_NAME_171720^Spear of Ruin^毀滅槍^멸망의 창^Lance de la ruine^Speer der Zerstörung^Lanza devastadora
-MST_MONSTER_SKILL_NAME_171730^Merciful Blow^一擊的慈悲^일격의 자비^Souffle miséricordieux^Gnadenstoß^Golpe misericordioso
+MST_MONSTER_SKILL_NAME_171720^Lance of Atrophy^毀滅槍^멸망의 창^Lance létale^Destruktionsspeer^Lanza devastadora
+MST_MONSTER_SKILL_NAME_171730^Banish^一擊的慈悲^일격의 자비^Mort douce^Gnadenstoß^Golpe misericordioso
 MST_MONSTER_SKILL_NAME_171740^Flare^核爆^플레어^Brasier^Flamme^Fulgor
-MST_MONSTER_SKILL_NAME_171750^Cross Cleave^死刃交擊^칼날 교차^Épée à deux mains létale^Tödliches Klingenkreuzen^Mandoble letal
-MST_MONSTER_SKILL_NAME_171760^Complete Destruction^完全破壞^완전한 파괴^Destruction complète^Völlige Vernichtung^Destrucción total
-MST_MONSTER_SKILL_NAME_171770^Phantom Absorb^幻光吸收^환광 흡수^Absorption fantomatique^Phantomabsorbieren^Absorción espectral
+MST_MONSTER_SKILL_NAME_171750^Cross Cleave^死刃交擊^칼날 교차^Faucheuse^Kreuzen der Todesklingen^Mandoble letal
+MST_MONSTER_SKILL_NAME_171760^Total Annihilation^完全破壞^완전한 파괴^Extermination^Die absolute Zerstörung^Destrucción total
+MST_MONSTER_SKILL_NAME_171770^Mortibsorption^幻光吸收^환광 흡수^Régénération^Illumi einsaugen^Absorción espectral
 MST_MONSTER_SKILL_NAME_171780^Berserk Mode^狂暴^광폭화^Berserk^Berserker-Modus^Modo enloquecido
-MST_MONSTER_SKILL_NAME_171790^Tackle^衝撞^태클^Tacle^Tackle^Placaje
-MST_MONSTER_SKILL_NAME_171800^Cover Ally^袒護^감싸기^Couvrir^Verbündeten schützen^Protección
+MST_MONSTER_SKILL_NAME_171790^Bulldoze^衝撞^태클^Tacle^Tackle^Placaje
+MST_MONSTER_SKILL_NAME_171800^Guard^袒護^감싸기^Couvrir^Bodyguard^Proteger
 MST_MONSTER_SKILL_NAME_171810^Mighty Guard^強力守護^강력 방어^Protection suprême^Totalabwehr^Barrera total
-MST_MONSTER_SKILL_NAME_171820^Aqua Breath^流水吐息^아쿠아 숨결^Souffle d'eau^Wasseratem^Aliento de agua
-MST_MONSTER_SKILL_NAME_171830^Tackle^衝撞^태클^Tacle^Tackle^Placaje
-MST_MONSTER_SKILL_NAME_171840^Cover Ally^袒護^감싸기^Couvrir^Verbündeten schützen^Protección
-MST_MONSTER_SKILL_NAME_171850^White Wind^純白微風^하얀 바람^Mistral^Weißer Wind^Viento blanco
+MST_MONSTER_SKILL_NAME_171820^Aqua Breath^流水吐息^아쿠아 숨결^Aquasouffle^Nasshauch^Vaho acuático
+MST_MONSTER_SKILL_NAME_171830^Bulldoze^衝撞^태클^Tacle^Tackle^Placaje
+MST_MONSTER_SKILL_NAME_171840^Guard^袒護^감싸기^Couvrir^Bodyguard^Proteger
+MST_MONSTER_SKILL_NAME_171850^White Wind^純白微風^하얀 바람^Mistral^Himmelswind^Viento blanco
 MST_MONSTER_SKILL_NAME_171860^Multi Horn^巨角亂突^뿔난무^Corne multiple^Multihorn^Multicuerno
 MST_MONSTER_SKILL_NAME_171870^Multi Horn^巨角亂突^뿔난무^Corne multiple^Multihorn^Multicuerno
 MST_MONSTER_SKILL_NAME_171880^Demon's Stone^天魔降石^천마항석^Pierre démoniaque^Dämonenstein^Piedra demoníaca
@@ -2480,12 +2480,12 @@ MST_MONSTER_SKILL_NAME_171890^Demon's Stone^天魔降石^천마항석^Pierre dé
 MST_MONSTER_SKILL_NAME_171900^Menacing Stampede^威嚇踐踏^위협의 답보^Charge menaçante^Bedrohlicher Ansturm^Estampida amenazadora
 MST_MONSTER_SKILL_NAME_171910^Charge^突進^돌진^Charge^Vormarsch^Carga
 MST_MONSTER_SKILL_NAME_171920^Charge^突進^돌진^Charge^Vormarsch^Carga
-MST_MONSTER_SKILL_NAME_171930^White Wind^純白微風^하얀 바람^Mistral^Weißer Wind^Viento blanco
+MST_MONSTER_SKILL_NAME_171930^White Wind^純白微風^하얀 바람^Mistral^Himmelswind^Viento blanco
 MST_MONSTER_SKILL_NAME_171940^Berserk Mode^狂暴^광폭화^Berserk^Berserker-Modus^Modo enloquecido
 MST_MONSTER_SKILL_NAME_171950^Blizzard^暴雪^블리자드^Glace^Eis^Hielo
-MST_MONSTER_SKILL_NAME_171960^Spear of Ruin^毀滅槍^멸망의 창^Lance de la ruine^Speer der Zerstörung^Lanza devastadora
-MST_MONSTER_SKILL_NAME_171970^Morale Booster^士氣^기합^Kiaï^Moralschub^Kiai
-MST_MONSTER_SKILL_NAME_171980^Ashura is ready^阿修羅擺出架式^아수라는 자세를 가다듬었다^Ashura est prête^Ashura ist bereit^Ashura está lista
+MST_MONSTER_SKILL_NAME_171960^Lance of Atrophy^毀滅槍^멸망의 창^Lance létale^Destruktionsspeer^Lanza devastadora
+MST_MONSTER_SKILL_NAME_171970^Psych Up^士氣^기합^Kiaï^Kampflust^Kiai
+MST_MONSTER_SKILL_NAME_171980^Bashura put up its dukes^阿修羅擺出架式^아수라는 자세를 가다듬었다^Asherah se tient en garde^Ashura ist bereit^Asur está listo
 MST_MONSTER_SKILL_NAME_171990^Counter^反擊^맞받아치기^Contre-attaque^Konter^Contraataque
 MST_MONSTER_SKILL_NAME_172000^Dispel^驅魔^디스펠^Dissipation^Bann^Antimagia
 MST_MONSTER_SKILL_NAME_172010^Defensive Position^守勢^수세^Position défensive^Verteidigungsposition^Maniobra defensiva
@@ -3053,7 +3053,7 @@ MST_MONSTER_SKILL_NAME_177160^Wicked Sight^邪惡視線^사시의 저격^Regard 
 MST_MONSTER_SKILL_NAME_177170^Mumyoh-no-yami^無明之暗^무명지암^Mumyoh-no-yami^Mumyoh-no-yami^Mumyoh-no-yami
 MST_MONSTER_SKILL_NAME_177180^Anya-no-koishi^暗夜之礫^암야지력^Anya-no-koishi^Anya-no-koishi^Anya-no-koishi
 MST_MONSTER_SKILL_NAME_177190^The trial was cancelled^解除試煉^시련을 해제했다^L'épreuve est annulée^Die Prüfung wurde abgebrochen.^El juicio se ha cancelado
-MST_MONSTER_SKILL_NAME_177200^Thunderstrike^雷擊^전격^Tonnerre foudroyant^Blitzschlag^Piedratrueno
+MST_MONSTER_SKILL_NAME_177200^Thunderstrike^雷擊^전격^Tonnerre foudroyant^Donnerschlag^Piedratrueno
 MST_MONSTER_SKILL_NAME_177210^Thundaja^強雷電^선더쟈^Foudre Max^Blitzka^Electro+++
 MST_MONSTER_SKILL_NAME_177220^Judgment Bolt^制裁之雷^심판의 벼락^Foudre du jugement^Ionenschlag^Rayos de justicia
 MST_MONSTER_SKILL_NAME_177230^Lightning Wave^電雷波^전뇌파^Onde lumineuse^Blitzwelle^Ola iluminadora
@@ -3695,3 +3695,15 @@ MST_MONSTER_SKILL_NAME_900137^Kanshou's Wrath^干將之憤怒^간장의 분노^I
 MST_MONSTER_SKILL_NAME_900138^Bakuya's Vengeance^莫邪之復仇^막야의 복수^Vengeance de Bakuya^Bakuyas Rache^Venganza de Bakuya
 MST_MONSTER_SKILL_NAME_900139^You gained a skill!^獲得技能！^새로운 능력을 얻었습니다!^Vous venez d'obtenir une aptitude !^Du hast eine Fähigkeit erhalten!^Has conseguido una habilidad
 MST_MONSTER_SKILL_NAME_900140^Use the dragon's favor to your advantage!^以龍之恩惠改變戰局吧！^얻은 능력을 사용해보세요!^Utilisez la grâce du dragon à votre avantage !^Nutze die Gunst des Drachen zu deinem Vorteil!^¡Usa el Favor del dragón a tu favor!
+MST_MONSTER_SKILL_NAME_900141^Spitfire^噴吐火焰^불꽃 발사^Crachat enflammé^Feuerspeien^Fiereza
+MST_MONSTER_SKILL_NAME_900142^Spitfire^噴吐火焰^불꽃 발사^Crachat enflammé^Feuerspeien^Fiereza
+MST_MONSTER_SKILL_NAME_900143^Reflect^反射^반사^Reflet^Reflekt^Reflejo
+MST_MONSTER_SKILL_NAME_900144^Venom Spit^發射毒液^독액 발사^Crachat venimeux^Giftspeichel^Esputo venenoso
+MST_MONSTER_SKILL_NAME_900145^Venom Spit^發射毒液^독액 발사^Crachat venimeux^Giftspeichel^Esputo venenoso
+MST_MONSTER_SKILL_NAME_900146^Fire Scarabs^火甲蟲^화염 갑충^Scarabées de feu^Feuerskarabäus^Escarabajos de fuego
+MST_MONSTER_SKILL_NAME_900147^Fire Scarabs^火甲蟲^화염 갑충^Scarabées de feu^Feuerskarabäus^Escarabajos de fuego
+MST_MONSTER_SKILL_NAME_900148^Bite^撲咬^깨물기^Morsure^Biss^Mordisco
+MST_MONSTER_SKILL_NAME_900149^Bite Trial^撲咬試煉^물어뜯기^Épreuve de morsure^Bissprobe^Prueba a mordiscos
+MST_MONSTER_SKILL_NAME_900150^Serpent Glare^險狡閃光^노려보는 눈빛^Scintillement de vipère^Schlangenblick^Mirada viperina
+MST_MONSTER_SKILL_NAME_900151^Embers^餘火^불씨^Braise^Glut^Ascuas
+MST_MONSTER_SKILL_NAME_900152^Rest^小憩^휴식^Repos^Ruhen^Descanso

@@ -275,6 +275,11 @@
         "qtkvrS60": "map_icon_78016.png"
     }, 
     {
+        "0HUPxDf1": "90003", 
+        "G4L0YIB2": "Tomb Raider", 
+        "qtkvrS60": "dic_tombraider.png"
+    }, 
+    {
         "0HUPxDf1": "110001", 
         "G4L0YIB2": "FF1", 
         "qtkvrS60": "dic_ff1.png"
@@ -2855,9 +2860,24 @@
         "qtkvrS60": "dic_kingsknight.png"
     }, 
     {
+        "0HUPxDf1": "9000033", 
+        "G4L0YIB2": "Tomb Raider Game Title", 
+        "qtkvrS60": "dic_tombraider.png"
+    }, 
+    {
         "0HUPxDf1": "9000034", 
         "G4L0YIB2": "Kanshou and Bakuya", 
         "qtkvrS60": "global_spd_bn_list_00030.png"
+    }, 
+    {
+        "0HUPxDf1": "9000035", 
+        "G4L0YIB2": "Tomb of the Silversmith", 
+        "qtkvrS60": "global_spd_bn_list_00031.png"
+    }, 
+    {
+        "0HUPxDf1": "9000036", 
+        "G4L0YIB2": "God of Chaos", 
+        "qtkvrS60": "global_spd_bn_list_00032.png"
     }, 
     {
         "0HUPxDf1": "10100100", 
@@ -11115,6 +11135,56 @@
         "qtkvrS60": "global_equip_10081.png"
     }, 
     {
+        "0HUPxDf1": "1100000142", 
+        "G4L0YIB2": "Staff of Osiris", 
+        "qtkvrS60": "global_equip_10082.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000143", 
+        "G4L0YIB2": "Automatic Pistols", 
+        "qtkvrS60": "global_equip_10083.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000144", 
+        "G4L0YIB2": "Hand Cannon (Golden)", 
+        "qtkvrS60": "global_equip_10084.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000145", 
+        "G4L0YIB2": "Icy Death", 
+        "qtkvrS60": "global_equip_10085.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000146", 
+        "G4L0YIB2": "Flamethrower", 
+        "qtkvrS60": "global_equip_10086.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000147", 
+        "G4L0YIB2": "Gold Submacine Gun", 
+        "qtkvrS60": "global_equip_10087.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000148", 
+        "G4L0YIB2": "Toxic Shotgun", 
+        "qtkvrS60": "global_equip_10088.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000149", 
+        "G4L0YIB2": "Onyx Spirit of Ra", 
+        "qtkvrS60": "global_equip_10089.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000150", 
+        "G4L0YIB2": "Gold Ring of Set", 
+        "qtkvrS60": "global_equip_10090.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000151", 
+        "G4L0YIB2": "Ankh of the Goddess", 
+        "qtkvrS60": "global_equip_10091.png"
+    }, 
+    {
         "0HUPxDf1": "1106300100", 
         "G4L0YIB2": "MogCake", 
         "qtkvrS60": "global_item_10011.png"
@@ -11458,6 +11528,36 @@
         "0HUPxDf1": "1209000864", 
         "G4L0YIB2": "Gold Flax", 
         "qtkvrS60": "global_item_10162.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000865", 
+        "G4L0YIB2": "Yellow Disk Raid Coin", 
+        "qtkvrS60": "global_item_10163.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000866", 
+        "G4L0YIB2": "Gunmetal Alloy", 
+        "qtkvrS60": "global_item_10164.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000867", 
+        "G4L0YIB2": "Sealed Treasure", 
+        "qtkvrS60": "global_item_10165.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000868", 
+        "G4L0YIB2": "Glitz Gem", 
+        "qtkvrS60": "global_item_10166.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000869", 
+        "G4L0YIB2": "Dense Ore", 
+        "qtkvrS60": "global_item_10167.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000870", 
+        "G4L0YIB2": "Gun powder", 
+        "qtkvrS60": "global_item_10168.png"
     }, 
     {
         "0HUPxDf1": "1300000001", 

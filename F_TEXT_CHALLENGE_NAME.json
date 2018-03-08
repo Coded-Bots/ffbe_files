@@ -5233,7 +5233,7 @@ MST_CHALLENGE_NAME_75301032^Defeat Zorn within 5 turns^在5回合以內終結「
 MST_CHALLENGE_NAME_75301033^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab, ohne dass ein Verbündeter kampfunfähig wird^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_75301040^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_75301041^Use 3 or more limit bursts^使用至少3次極限技^LB를 3회 이상 사용^Utilisez 3 limites ou plus^Benutze mind. 3 Mal einen Limitrausch^Usa Estallido Límite 3 veces o más
-MST_CHALLENGE_NAME_75301042^Defeat bandersnatch with magic^使用魔法終結「斑攫獸」^'밴더스내치'를 마법으로 처치^Terrassez Bandsnatch avec la magie^Besiege Wastigo mit Magie^Derrota al zamarrajo con magia
+MST_CHALLENGE_NAME_75301042^Defeat bandersnatch with magic^使用魔法終結「斑攫獸」^'밴더스내치'를 마법으로 처치^Terrassez Bandsnatch avec la magie^Besiege Bandersnatcher mit Magie^Derrota al mal bernardo con magia
 MST_CHALLENGE_NAME_75301043^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab, ohne dass ein Verbündeter kampfunfähig wird^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_75301050^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_75301051^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab, ohne dass ein Verbündeter kampfunfähig wird^Ningún aliado ha quedado K.O.
@@ -5589,11 +5589,11 @@ MST_CHALLENGE_NAME_75801022^Use green magic^使用「綠魔法」^'녹'마법을
 MST_CHALLENGE_NAME_75801023^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab, ohne dass ein Verbündeter kampfunfähig wird^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_75801030^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_75801031^Use a limit burst^使用極限技^LB를 사용해 완료^Utilisez une limite^Benutze einen Limitrausch^Usa un Estallido Límite
-MST_CHALLENGE_NAME_75801032^Defeat the mech defender within 5 turns^在5回合以內終結「機械防衛者」戰^'오토 아머' 전투 5턴 이내에 완료^Terrassez la Méca-armure en 5 tours^Besiege den Mech-Verteidiger in 5 Runden^Derrota al defensor mecánico en 5 turnos
+MST_CHALLENGE_NAME_75801032^Defeat the mech defender within 5 turns^在5回合以內終結「機械防衛者」戰^'오토 아머' 전투 5턴 이내에 완료^Terrassez la Méca-armure en 5 tours^Besiege den Protekeinheit in 5 Runden^Derrota al droid blindado en 5 turnos
 MST_CHALLENGE_NAME_75801033^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab, ohne dass ein Verbündeter kampfunfähig wird^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_75801040^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_75801041^Evoke an esper^召喚幻獸^환수를 소환해 완료^Appelez une chimère^Rufe einen Esper^Evoca a un esper
-MST_CHALLENGE_NAME_75801042^Defeat ashura with magic^使用魔法終結「阿修羅」^'아수라'를 마법으로 처치^Terrassez Asherah avec la magie^Besiege Ashura mit Magie^Derrota al ashura con magia
+MST_CHALLENGE_NAME_75801042^Defeat Bashura with magic^使用魔法終結「阿修羅」^'아수라'를 마법으로 처치^Terrassez Asherah avec la magie^Besiege Ashura mit Magie^Derrota al asur con magia
 MST_CHALLENGE_NAME_75801043^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab, ohne dass ein Verbündeter kampfunfähig wird^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_75801050^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_75801051^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab, ohne dass ein Verbündeter kampfunfähig wird^Ningún aliado ha quedado K.O.
@@ -5605,7 +5605,7 @@ MST_CHALLENGE_NAME_75801062^Use no more than 3 items^使用道具次數在3次�
 MST_CHALLENGE_NAME_75801063^Party of 4 or less (Companion included)^隊伍人數最多4人（包括同行者）^파티 인원수 4명 이하(동행자 포함)^Groupe de 4 ou moins (partenaire inclus)^Gruppe von höchstens 4 (einschl. Begleiter)^Grupo de 4 o menos (compañero incluido)
 MST_CHALLENGE_NAME_75901020^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_75901021^Use black magic^使用「黑魔法」^'흑'마법을 사용해 완료^Utilisez la magie noire^Benutze Schwarzmagie^Usa magia negra
-MST_CHALLENGE_NAME_75901022^Defeat Seymour final form within 10 turns^在10回合以內終結「希摩爾終極變異體」戰^'시모어 종 이체' 전투 10턴 이내에 완료^Terrassez Seymour - Forme finale en 10 tours max.^Besiege Seymour - finale Form innerhalb von 10 Runden^Derrota a la forma final de Seymour en 10 turnos
+MST_CHALLENGE_NAME_75901022^Defeat Seymour Flux form within 10 turns^在10回合以內終結「希摩爾終極變異體」戰^'시모어 종 이체' 전투 10턴 이내에 완료^Terrassez Seymour - Forme finale en 10 tours max.^Besiege Seymor Obscura innerhalb von 10 Runden^Derrota al Seymour beta en 10 turnos
 MST_CHALLENGE_NAME_75901023^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab, ohne dass ein Verbündeter kampfunfähig wird^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_75901010^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_75901011^Use magic 8 times or more^使用至少8次魔法^마법을 8회 이상 사용^Utilisez la magie à 8 reprises ou plus^Benutze mind. 8 Mal Magie^Usa magia 8 veces o más
@@ -8315,3 +8315,23 @@ MST_CHALLENGE_NAME_90027240^Complete the quest^完成任務^퀘스트를 완료^
 MST_CHALLENGE_NAME_90027241^Party of 4 or less (Companion included)^隊伍人數最多4人（包括同行者）^파티 인원수 4명 이하(동행자 포함)^Groupe de 4 ou moins (partenaire inclus)^Gruppe von höchstens 4 (einschl. Begleiter)^Grupo de 4 o menos (compañero incluido)
 MST_CHALLENGE_NAME_90027242^Find Kanshou and Bakuya within 2 mins^2分鐘內找到「干將莫邪」^2분 내에 '간장과 막야' 찾기^Trouvez Kanshou et Bakuya en 2 mins max.^Besiege Kanshou und Bakuya innerhalb von 2 Minuten^Encuentra a Kanshou y Bakuya en menos de 2 minutos
 MST_CHALLENGE_NAME_90027243^Defeat Bakuya with an esper^使用幻獸終結「莫邪」^'막야'를 환수로 처치^Terrassez Bakuya avec une chimère^Besiege Bakuya mit einem Esper^Derrota a Bakuya con un esper
+MST_CHALLENGE_NAME_90029010^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
+MST_CHALLENGE_NAME_90029011^Use black magic^使用「黑魔法」^'흑'마법을 사용해 완료^Utilisez la magie noire^Benutze Schwarzmagie^Usa magia negra
+MST_CHALLENGE_NAME_90029012^Clear within 5 turns^在5回合內結束^5턴 이내에 완료^Terminez en 5 tours max.^Gewinne innerhalb von 5 Runden^Gana en 5 turnos
+MST_CHALLENGE_NAME_90029013^No items^不使用道具^아이템을 사용하지 않고 완료^Ne pas utiliser d'objets^Keine Gegenstände^No uses objetos
+MST_CHALLENGE_NAME_90029020^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
+MST_CHALLENGE_NAME_90029021^Use white magic^使用「白魔法」^'백'마법을 사용해 완료^Utilisez la magie blanche^Benutze Weißmagie^Usa magia blanca
+MST_CHALLENGE_NAME_90029022^Clear within 5 turns^在5回合內結束^5턴 이내에 완료^Terminez en 5 tours max.^Gewinne innerhalb von 5 Runden^Gana en 5 turnos
+MST_CHALLENGE_NAME_90029023^Use a limit burst^使用極限技^LB를 사용해 완료^Utilisez une limite^Benutze einen Limitrausch^Usa un Estallido Límite
+MST_CHALLENGE_NAME_90029030^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
+MST_CHALLENGE_NAME_90029031^Use green magic^使用「綠魔法」^'녹'마법을 사용해 완료^Utilisez la magie verte^Benutze Grünmagie^Usa magia verde
+MST_CHALLENGE_NAME_90029032^Clear within 5 turns^在5回合內結束^5턴 이내에 완료^Terminez en 5 tours max.^Gewinne innerhalb von 5 Runden^Gana en 5 turnos
+MST_CHALLENGE_NAME_90029033^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
+MST_CHALLENGE_NAME_90029040^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
+MST_CHALLENGE_NAME_90029041^Evoke an esper^召喚幻獸^환수를 소환해 완료^Appelez une chimère^Beschwöre einen Esper^Evoca a un esper
+MST_CHALLENGE_NAME_90029042^Use magic 3 or more times^使用至少3次魔法^마법을 3회 이상 사용^Utilisez la magie 3 fois ou plus^Benutze mind. 3 Mal Magie^Usa magia 3 veces o más
+MST_CHALLENGE_NAME_90029043^Use no more than 5 items^使用道具次數在5次以內^아이템 사용 횟수 5회 이내^N'utilisez pas plus de 5 objets^Benutze max. 5 Gegenstände^Usa 5 objetos o menos
+MST_CHALLENGE_NAME_90030010^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
+MST_CHALLENGE_NAME_90030011^No items^不使用道具^아이템을 사용하지 않고 완료^Ne pas utiliser d'objets^Keine Gegenstände^No uses objetos
+MST_CHALLENGE_NAME_90030012^Party of 5 or less (Companion included)^隊伍人數最多5人（包括同行者）^파티 인원수 5명 이하(동행자 포함)^Groupe de 5 ou moins (partenaire inclus)^Gruppe von höchstens 5 (einschl. Begleiter)^Grupo de 5 o menos (compañero incluido)
+MST_CHALLENGE_NAME_90030013^Defeat Apep with magic^使用魔法終結「阿佩普王」^'킹 아펩'을 마법으로 처치^Terrassez Apep avec la magie^Besiege Apep mit Magie^Derrota a Apep con magia

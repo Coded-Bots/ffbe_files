@@ -677,7 +677,7 @@ TRANSFER_CODE_INPUT_CONFIRM_DATA^Transfer Data^繼承資料^이어받기 데이�
 TRANSFER_CODE_INPUT_DONE_TITLE^Data Transfer Complete^繼承完畢^이어받기 완료^Transfert des données terminé^Datenübertragung abgeschlossen^Transferencia de datos completada
 TRANSFER_CODE_INPUT_DONE_TEXT^Data transfer has completed.<br>The app will now close. Please start it again.  ^資料繼承完畢。<br>將關閉一次應用程式。<br>今後還請繼續享受<br>FinalFantasy<br>BraveExvius。^데이터 이어받기가 완료되었습니다.<br>애플리케이션을 한 번 종료합니다.<br>앞으로도 파이널 판타지<br>브레이브 엑스비어스를<br>즐겨주시기 바랍니다.^Les données ont été transférées.<br>L'application va se fermer. Veuillez la lancer à nouveau. ^Datenübertragung abgeschlossen.<br>Die App wird jetzt geschlossen. Bitte neu starten. ^La transferencia de datos se ha completado.<br>La aplicación se cerrará. Vuelve a iniciarla. 
 TRANSFER_ERROR_USER_EQUAL^<center>You cannot transfer data because this is the same device.^<center>同一用戶，無法繼承。^<center>같은 유저이므로 이어받을 수 없습니다.^<center>Vous ne pouvez pas transférer vos données sur le même appareil.^<center>Du kannst keine Daten übertragen, da es sich um das gleiche Gerät handelt.^<center>No puedes transferir datos al mismo dispositivo.
-CLSM_TITLE^Colosseum^競技場^투기장^Colisée^Kolosseum^Coliseo
+CLSM_TITLE^Colosseum^^투기장^Colisée^Kolosseum^Coliseo
 CLSM_GRADE_SUB_TITLE^Select Grade^選擇難度^등급 선택^Sélectionner un grade^Grad auswählen^Seleccionar nota
 CLSM_RANK_SUB_TITLE^<param=grade>^<param=grade> 選擇級別^<param=등급> 랭크 선택^<param=grade>^<param=grade>^<param=grade>
 CLSM_ROUND_SUB_TITLE^<param=grade>: <param=rank>^<param=grade> <param=rank> 選擇回合^<param=등급> <param=랭크> 라운드 선택^<param=grade> : <param=rank>^<param=grade>: <param=rank>^<param=grade>: <param=rank>
@@ -1110,7 +1110,7 @@ SG_DAILY_QUEST_ENTRY_5_COMPLETE^Items crafted^已調配１個道具^아이템을
 SG_DAILY_QUEST_ENTRY_6_COMPLETE^Colosseum challenge completed^已完成競技場挑戰^투기장 챌린지를 완료했다.^Défi du Colisée terminé^Kolosseumsherausforderung abgeschlossen.^Desafío del Coliseo completado
 SG_DAILY_QUEST_ENTRY_7_COMPLETE^Gifts sent^已向５名好友贈送禮物^친구 5명에게 선물을 보냈다.^Envoi de cadeau terminé^Geschenke verschicken abgeschl.^Envío de regalos completado
 SG_DAILY_LOGIN_TITLE^Daily Login Reward^每日登入報酬^일일 출석 보상^RÉCOMP. QUOTIDIENNE^TÄGLICHER ANMELDEBONUS^Recompensa de conexión diaria
-SG_DAILY_LOGIN_MSG^Here are today's login rewards^今日登入報酬^오늘의 출석 보상^Voici les récompenses de connexion d'aujourd'hui^Hier ist die Belohnung für deine heutige Anmeldung.^Recompensas por conectarte hoy:
+EXPLAIN_REWARD^Here are today's login rewards^今日登入報酬^오늘의 출석 보상^Voici les récompenses de connexion d'aujourd'hui^Hier ist die Belohnung für deine heutige Anmeldung.^Recompensas por conectarte hoy:
 SG_DETAILS_BTN^Details^詳情^상세^Détails ^Details^Detalles
 SG_LIMIT^Limit^極限^한도^Limite^Limit^Límite
 SG_ENDSIN^Ends in^距結束還有^종료까지^Se termine dans^Endet in^Fin en
@@ -2033,6 +2033,10 @@ SG_MAGIC_TYPE_GREEN^green magic^^^^^
 SG_MAGIC_TYPE_ALL^all magic types^^^^^
 SG_MAGIC_MULTI_CAST^Cast %s per turn^^^^^
 SG_INCREASE_ESPER_DMG^Increase dmg of %s^^^^^
-LOGIN_BONUS_SPECIAL_MAIL_TITLE_1001^Special Daily Login^特别日志登录^스페셜 일일 출석 보상^<br>Connexion quotidienne spéciale^Spezieller täglicher Login^Inicio de sesión diario especial
-LOGIN_BONUS_SPECIAL_MAIL_MSG_1001^Special Daily Login^特别日志登录^스페셜 일일 출석 보상^<br>Connexion quotidienne spéciale^Spezieller täglicher Login^Inicio de sesión diario especial
+LOGIN_BONUS_SPECIAL_MAIL_TITLE_1001^Special Daily Login^每日特別登入^스페셜 일일 출석 보상^<br>Connexion quotidienne spéciale^Spezieller täglicher Login^Inicio de sesión diario especial
+LOGIN_BONUS_SPECIAL_MAIL_MSG_1001^Special Daily Login^每日特別登入^스페셜 일일 출석 보상^<br>Connexion quotidienne spéciale^Spezieller täglicher Login^Inicio de sesión diario especial
+LOGIN_BONUS_SPECIAL_MAIL_TITLE_1002^Lara Croft Special Daily Login^蘿拉·卡芙特 每日特別登入^라라 크로프트 스페셜 일일 출석 보상^Lara Croft <br>Connexion quotidienne spéciale^Lara Croft Spezieller täglicher Login^Inicio de sesión diario especial - Lara Croft
+LOGIN_BONUS_SPECIAL_MAIL_MSG_1002^Lara Croft Special Daily Login^蘿拉·卡芙特 每日特別登入^라라 크로프트 스페셜 일일 출석 보상^Lara Croft <br>Connexion quotidienne spéciale^Lara Croft Spezieller täglicher Login^Inicio de sesión diario especial - Lara Croft
+LOGIN_BONUS_SPECIAL_MAIL_TITLE_1003^30 Mil Special Daily Login^<br>3000萬每日特別登入^3천만 스페셜 일일 출석 보상^30 million de<br>Connexion quotidienne spéciale^30 Millionen spezielle tägliche Anmeldung^<br>30 millones de inicios de sesión diarios especiales
+LOGIN_BONUS_SPECIAL_MAIL_MSG_1003^30 Mil Special Daily Login^<br>3000萬每日特別登入^3천만 스페셜 일일 출석 보상^30 million de<br>Connexion quotidienne spéciale^30 Millionen spezielle tägliche Anmeldung^<br>30 millones de inicios de sesión diarios especiales
 GACHA_DETAIL_LIMIT_END^Until 00:59 PDT^至 15:59 (台灣時間)為止^16:59(한국시간)까지^Jusqu'à 09:59 CEST^Bis 09:59 CEST^Plazo: 09:59 (CEST)

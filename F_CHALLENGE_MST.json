@@ -64737,6 +64737,186 @@
         "qo3PECw6": "9002801"
     }, 
     {
+        "6uvHX2JG": "Tomb of the Silversmith INT", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "90029010", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "10:401003605:1:100:1", 
+        "qo3PECw6": "9002901"
+    }, 
+    {
+        "6uvHX2JG": "Tomb of the Silversmith INT", 
+        "G4L0YIB2": "Use Black Magic", 
+        "Pzn5h0Ga": "13:2", 
+        "V36ygRYs": "90029011", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9002901"
+    }, 
+    {
+        "6uvHX2JG": "Tomb of the Silversmith INT", 
+        "G4L0YIB2": "Clear within 5 turns", 
+        "Pzn5h0Ga": "75:1:5", 
+        "V36ygRYs": "90029012", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9002901"
+    }, 
+    {
+        "6uvHX2JG": "Tomb of the Silversmith INT", 
+        "G4L0YIB2": "No items", 
+        "Pzn5h0Ga": "1", 
+        "V36ygRYs": "90029013", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9002901"
+    }, 
+    {
+        "6uvHX2JG": "Tomb of the Silversmith ADV", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "90029020", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "20:1209000865:200", 
+        "qo3PECw6": "9002902"
+    }, 
+    {
+        "6uvHX2JG": "Tomb of the Silversmith ADV", 
+        "G4L0YIB2": "Use White Magic", 
+        "Pzn5h0Ga": "13:1", 
+        "V36ygRYs": "90029021", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9002902"
+    }, 
+    {
+        "6uvHX2JG": "Tomb of the Silversmith ADV", 
+        "G4L0YIB2": "Clear within 5 turns", 
+        "Pzn5h0Ga": "75:1:5", 
+        "V36ygRYs": "90029022", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9002902"
+    }, 
+    {
+        "6uvHX2JG": "Tomb of the Silversmith ADV", 
+        "G4L0YIB2": "Use a limit burst", 
+        "Pzn5h0Ga": "16", 
+        "V36ygRYs": "90029023", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9002902"
+    }, 
+    {
+        "6uvHX2JG": "Tomb of the Silversmith PRO", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "90029030", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "20:1209000865:300", 
+        "qo3PECw6": "9002903"
+    }, 
+    {
+        "6uvHX2JG": "Tomb of the Silversmith PRO", 
+        "G4L0YIB2": "Use Green Magic", 
+        "Pzn5h0Ga": "13:3", 
+        "V36ygRYs": "90029031", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9002903"
+    }, 
+    {
+        "6uvHX2JG": "Tomb of the Silversmith PRO", 
+        "G4L0YIB2": "Clear within 5 turns", 
+        "Pzn5h0Ga": "75:1:5", 
+        "V36ygRYs": "90029032", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9002903"
+    }, 
+    {
+        "6uvHX2JG": "Tomb of the Silversmith PRO", 
+        "G4L0YIB2": "Clear without an ally being KOd", 
+        "Pzn5h0Ga": "33", 
+        "V36ygRYs": "90029033", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9002903"
+    }, 
+    {
+        "6uvHX2JG": "Tomb of the Silversmith ELT", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "90029040", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "50:1:40", 
+        "qo3PECw6": "9002904"
+    }, 
+    {
+        "6uvHX2JG": "Tomb of the Silversmith ELT", 
+        "G4L0YIB2": "Evoke an esper", 
+        "Pzn5h0Ga": "28", 
+        "V36ygRYs": "90029041", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:20", 
+        "qo3PECw6": "9002904"
+    }, 
+    {
+        "6uvHX2JG": "Tomb of the Silversmith ELT", 
+        "G4L0YIB2": "Use Magic 3 or more times", 
+        "Pzn5h0Ga": "41:2", 
+        "V36ygRYs": "90029042", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:20", 
+        "qo3PECw6": "9002904"
+    }, 
+    {
+        "6uvHX2JG": "Tomb of the Silversmith ELT", 
+        "G4L0YIB2": "Use no more than 5 items", 
+        "Pzn5h0Ga": "40:5", 
+        "V36ygRYs": "90029043", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:20", 
+        "qo3PECw6": "9002904"
+    }, 
+    {
+        "6uvHX2JG": "God of Chaos", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "90030010", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "21:1100000143:1", 
+        "qo3PECw6": "9003001"
+    }, 
+    {
+        "6uvHX2JG": "God of Chaos", 
+        "G4L0YIB2": "No items", 
+        "Pzn5h0Ga": "1", 
+        "V36ygRYs": "90030011", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "20:1209000865:10000", 
+        "qo3PECw6": "9003001"
+    }, 
+    {
+        "6uvHX2JG": "God of Chaos", 
+        "G4L0YIB2": "Party 5 or less", 
+        "Pzn5h0Ga": "35:5", 
+        "V36ygRYs": "90030012", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "23:50:2:100", 
+        "qo3PECw6": "9003001"
+    }, 
+    {
+        "6uvHX2JG": "God of Chaos", 
+        "G4L0YIB2": "Kill King Apep With Magic", 
+        "Pzn5h0Ga": "15:900010733:900010432:1", 
+        "V36ygRYs": "90030013", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "10:904000104:1:100:1:0:100000001", 
+        "qo3PECw6": "9003001"
+    }, 
+    {
         "6uvHX2JG": "Castle Dungeon BGN", 
         "G4L0YIB2": "Complete the quest", 
         "Pzn5h0Ga": "68", 

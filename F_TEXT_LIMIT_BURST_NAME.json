@@ -403,9 +403,9 @@ MST_LIMITBURST_NAME_306000605^Royal Stomp^皇家重踏^왕의 발구르기^Piét
 MST_LIMITBURST_NAME_306000204^Fiery Purge^煉獄火焰^지옥의 화염^Purge féroce ^Feurige Säuberung^Purga feroz
 MST_LIMITBURST_NAME_306000205^Fiery Purge^煉獄火焰^지옥의 화염^Purge féroce ^Feurige Säuberung^Purga feroz
 MST_LIMITBURST_NAME_306000206^Fiery Purge^煉獄火焰^지옥의 화염^Purge féroce ^Feurige Säuberung^Purga feroz
-MST_LIMITBURST_NAME_306000303^Ancient Call^呼叫小弟^졸개 호출^Appel antique ^Uralter Ruf^Llamada antigua
-MST_LIMITBURST_NAME_306000304^Ancient Call^呼叫小弟^졸개 호출^Appel antique ^Uralter Ruf^Llamada antigua
-MST_LIMITBURST_NAME_306000305^Ancient Call^呼叫小弟^졸개 호출^Appel antique ^Uralter Ruf^Llamada antigua
+MST_LIMITBURST_NAME_306000303^Call for Backup^呼叫小弟^졸개 호출^Appel antique ^Uralter Ruf^Llamada antigua
+MST_LIMITBURST_NAME_306000304^Call for Backup^呼叫小弟^졸개 호출^Appel antique ^Uralter Ruf^Llamada antigua
+MST_LIMITBURST_NAME_306000305^Call for Backup^呼叫小弟^졸개 호출^Appel antique ^Uralter Ruf^Llamada antigua
 MST_LIMITBURST_NAME_306000804^Metal Armguard^金屬防禦^메탈 가드^Coudière d'Acier^Metallarmschutz^Guardia metálica
 MST_LIMITBURST_NAME_306000805^Metal Armguard^金屬防禦^메탈 가드^Coudière d'Acier^Metallarmschutz^Guardia metálica
 MST_LIMITBURST_NAME_201000106^Crystal Saber^水晶之劍^크리스탈의 수호자^Sabre de cristal ^Kristallsäbel^Sable de cristal
@@ -779,10 +779,10 @@ MST_LIMITBURST_NAME_310000306^Scrap Hell^銷毀·地獄^지옥의 단편^Déchet
 MST_LIMITBURST_NAME_310000403^Reckless^不計後果^레클리스^Téméraire^Risiko^Lanzado
 MST_LIMITBURST_NAME_310000404^Reckless^不計後果^레클리스^Téméraire^Risiko^Lanzado
 MST_LIMITBURST_NAME_310000405^Reckless^不計後果^레클리스^Téméraire^Risiko^Lanzado
-MST_LIMITBURST_NAME_210000205^Farplane Sent^異界引渡^이계 전송^Envoi dans l'Au-delà^Aus dem Abyssum^Envío al Etéreo
-MST_LIMITBURST_NAME_210000206^Farplane Sent^異界引渡^이계 전송^Envoi dans l'Au-delà^Aus dem Abyssum^Envío al Etéreo
-MST_LIMITBURST_NAME_210000405^T Ultima^T·最終究極^T·알테마^Ultima T^T Ultima^Artema triple
-MST_LIMITBURST_NAME_210000406^T Ultima^T·最終究極^T·알테마^Ultima T^T Ultima^Artema triple
+MST_LIMITBURST_NAME_210000205^The Sending^異界引渡^이계 전송^Accompagnement^Geleit ins Abyssum^Rito de envío
+MST_LIMITBURST_NAME_210000206^The Sending^異界引渡^이계 전송^Accompagnement^Geleit ins Abyssum^Rito de envío
+MST_LIMITBURST_NAME_210000405^Ultima Fury^T·最終究極^T·알테마^Ultima T^Ultima-Wut^Artema triple
+MST_LIMITBURST_NAME_210000406^Ultima Fury^T·最終究極^T·알테마^Ultima T^Ultima-Wut^Artema triple
 MST_LIMITBURST_NAME_210000804^Requiem^安魂曲^레퀴엠^Requiem^Requiem^Réquiem
 MST_LIMITBURST_NAME_210000805^Requiem^安魂曲^레퀴엠^Requiem^Requiem^Réquiem
 MST_LIMITBURST_NAME_210000806^Requiem^安魂曲^레퀴엠^Requiem^Requiem^Réquiem
@@ -1016,3 +1016,13 @@ MST_LIMITBURST_NAME_401003905^Falling Sun^射日^낙일^Soleil descendant^Sonnen
 MST_LIMITBURST_NAME_401003906^Falling Sun^射日^낙일^Soleil descendant^Sonnensturz^Sol descendente
 MST_LIMITBURST_NAME_401003805^Celestial Limit^天體極限^천상의 극한^Limite céleste^Himmlisches Limit^Límite celestial
 MST_LIMITBURST_NAME_401003806^Celestial Limit^天體極限^천상의 극한^Limite céleste^Himmlisches Limit^Límite celestial
+MST_LIMITBURST_NAME_401003303^Desert Wind^荒漠之風^사막바람^Vent du désert^Wüstenwind^Viento del desierto
+MST_LIMITBURST_NAME_401003304^Desert Wind^荒漠之風^사막바람^Vent du désert^Wüstenwind^Viento del desierto
+MST_LIMITBURST_NAME_401003305^Desert Wind^荒漠之風^사막바람^Vent du désert^Wüstenwind^Viento del desierto
+MST_LIMITBURST_NAME_401003404^Empowering Devotion^賦權之心^헌신의 힘^Dévotion valorisante^Bestärkende Hingabe^Devoción empoderante
+MST_LIMITBURST_NAME_401003405^Empowering Devotion^賦權之心^헌신의 힘^Dévotion valorisante^Bestärkende Hingabe^Devoción empoderante
+MST_LIMITBURST_NAME_401003406^Empowering Devotion^賦權之心^헌신의 힘^Dévotion valorisante^Bestärkende Hingabe^Devoción empoderante
+MST_LIMITBURST_NAME_401003505^Point-blank Impact^近距離衝擊^직격타^Impact à bout portant^Direkter Aufprall^Impacto a bocajarro
+MST_LIMITBURST_NAME_401003506^Point-blank Impact^近距離衝擊^직격타^Impact à bout portant^Direkter Aufprall^Impacto a bocajarro
+MST_LIMITBURST_NAME_401003605^Blaze of Glory^炎炎烈日^영광의 불꽃^Étincelle de gloire^Ruhmesglanz^Llamarada de gloria
+MST_LIMITBURST_NAME_401003606^Blaze of Glory^炎炎烈日^영광의 불꽃^Étincelle de gloire^Ruhmesglanz^Llamarada de gloria

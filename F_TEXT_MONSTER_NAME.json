@@ -238,7 +238,7 @@ MST_MONSTER_NAME_210001000^Gladilith^菲爾遜^페르젠^Gladialithe^Gladilith^G
 MST_MONSTER_NAME_210001001^Gladilith^菲爾遜^페르젠^Gladialithe^Gladilith^Gladilito
 MST_MONSTER_NAME_210001002^Gladilith^菲爾遜^페르젠^Gladialithe^Gladilith^Gladilito
 MST_MONSTER_NAME_210011000^Golem^巨像兵^골렘^Golem^Golem^Gólem
-MST_MONSTER_NAME_210011001^Golem^巨像兵^골렘^Golem^Golem 2.0^Gólem
+MST_MONSTER_NAME_210011001^Golem^巨像兵^골렘^Golem^Golem^Gólem
 MST_MONSTER_NAME_210021000^Roper^觸手妖^밧줄잡이^Rampant^Bandwurm^Vermis
 MST_MONSTER_NAME_210021001^Roper^觸手妖^밧줄잡이^Rampant^Bandwurm^Vermis
 MST_MONSTER_NAME_212001000^Bone Dragon^骸骨龍^해골 드래곤^Crânodragon^Knochendrache^Dragón óseo
@@ -928,7 +928,7 @@ MST_MONSTER_NAME_108001003^Blue Wisp^湛藍幽光^푸른 위스프^Volute bleue^
 MST_MONSTER_NAME_108003002^Green Wisp^翠綠幽光^초록 위스프^Volute verte^Grünes Irrlicht^Esfera verde
 MST_MONSTER_NAME_210021003^Roper^觸手妖^밧줄잡이^Rampant^Bandwurm^Vermis
 MST_MONSTER_NAME_309001001^Antlion^蟻獅^개미귀신^Fourmilion^Ameisenlöwe^Formileón
-MST_MONSTER_NAME_104023000^Grenade^榴彈怪^그레네이드^Grenade^Granate^Granada
+MST_MONSTER_NAME_104023000^Grenade^榴彈怪^그레네이드^Grenade^Granatenbomber^Granada
 MST_MONSTER_NAME_108014004^Red Elemental^火紅元素^붉은 원소^Élémentaire rouge^Rotling^Ente rojo
 MST_MONSTER_NAME_112031002^Poplium^帕普病毒^포플리움^Pauplium^Papolium^Poplium
 MST_MONSTER_NAME_201002001^Barbarus^巴巴拉斯^바바러스^Barbarus^Barbatus^Barbarus
@@ -1005,7 +1005,7 @@ MST_MONSTER_NAME_105051005^Cutpurse^小賊^심부름꾼^Malandrin^Taschendieb^Ra
 MST_MONSTER_NAME_106002009^Searcher^偵察眼^정찰 로봇^Tête chercheuse^Sucher^Rastreador
 MST_MONSTER_NAME_206011002^Centipede^蜈蚣裝甲^로봇 지네^Centipède^Hundertfüßler^Ciempiés
 MST_MONSTER_NAME_105031006^Foot Soldier^士兵^일반병사^Soldat^Fußsoldat^Soldado raso
-MST_MONSTER_NAME_104023001^Grenade^榴彈怪^그레네이드^Grenade^Granate^Granada
+MST_MONSTER_NAME_104023001^Grenade^榴彈怪^그레네이드^Grenade^Granatenbomber^Granada
 MST_MONSTER_NAME_103013003^Red Marshmallow^紅色棉花糖^붉은 마시멜로^Marshmallow rouge^Rotpudding^Malvavisco rojo
 MST_MONSTER_NAME_406001000^Crane^吊臂^크레인^Grue ^Kran^Grúa
 MST_MONSTER_NAME_406001001^Crane^吊臂^크레인^Grue ^Kran^Grúa
@@ -1572,7 +1572,7 @@ MST_MONSTER_NAME_112002002^Cursed Bones^詛咒骸骨^저주받은 해골^Ossemen
 MST_MONSTER_NAME_112011006^Green Soul^綠之魂^초록빛 영혼^Âme verte^Heilgeist^Alma verde
 MST_MONSTER_NAME_209012007^Sea Scorpion^海蝎^바다전갈^Scorpène^Seeskorpion^Scorpio de mar
 MST_MONSTER_NAME_202013002^Lenergia^胡兀鷲^레네르지아^Lenergia^Renerjia^Lenergia
-MST_MONSTER_NAME_104023002^Grenade^榴彈怪^그레네이드^Grenade^Granate^Granada
+MST_MONSTER_NAME_104023002^Grenade^榴彈怪^그레네이드^Grenade^Granatenbomber^Granada
 MST_MONSTER_NAME_103007002^Cobalt Frog^鈷藍巨蛙^코발트 개구리^Grenouille de Cobalt^Kobaltfrosch^Rana de cobalto
 MST_MONSTER_NAME_103011005^Green Slime^綠色史萊姆^초록 슬라임^Flambos vert^Grünschleim^Baba verde
 MST_MONSTER_NAME_103024001^Cetus^刻托^괴물고래^Cetus^Cetus^Cetus
@@ -1721,7 +1721,7 @@ MST_MONSTER_NAME_108014009^Red Elemental^火紅元素^붉은 원소^Élémentair
 MST_MONSTER_NAME_108002001^Red Wisp^赤紅幽光^붉은 위스프^Volute rouge^Rotes Irrlicht^Esfera roja
 MST_MONSTER_NAME_208022000^Lavaburst^爆裂熔岩^용암^Magma^Lavahaufen^Magma
 MST_MONSTER_NAME_204025000^Fire Lizard^火蜥蜴^파이어 도마뱀^Kaïmahn de Feu^Feuerechse^Lagarto ígneo
-MST_MONSTER_NAME_104023003^Grenade^榴彈怪^그레네이드^Grenade^Granate^Granada
+MST_MONSTER_NAME_104023003^Grenade^榴彈怪^그레네이드^Grenade^Granatenbomber^Granada
 MST_MONSTER_NAME_201003003^Armored Beast^裝甲獸^철갑야수^Bête en armure^Panzerbestie^Alimaña con armadura
 MST_MONSTER_NAME_103013005^Red Marshmallow^紅色棉花糖^붉은 마시멜로^Marshmallow rouge^Rotpudding^Malvavisco rojo
 MST_MONSTER_NAME_204012004^Abyssal^深淵惡魔^심연의 포식자^Ver abyssal^Abyss^Abisal
@@ -1733,7 +1733,7 @@ MST_MONSTER_NAME_206013000^Elytron^赤紅裝甲^에류트론^Elytron^Elytro^Elyt
 MST_MONSTER_NAME_106002017^Searcher^偵察眼^정찰 로봇^Tête chercheuse^Sucher^Rastreador
 MST_MONSTER_NAME_206022000^Tarvos^土衛二十一^타르보스^Tarvos^Tarvos^Tarvos
 MST_MONSTER_NAME_206001013^Magitek Armor^魔導裝甲^마도 아머^Armure magitech^Magitek-Mech^Unidad Magitec
-MST_MONSTER_NAME_104023004^Grenade^榴彈怪^그레네이드^Grenade^Granate^Granada
+MST_MONSTER_NAME_104023004^Grenade^榴彈怪^그레네이드^Grenade^Granatenbomber^Granada
 MST_MONSTER_NAME_105042000^Lieutenant^中尉^중위^Lieutenant^Leutnant^Lugarteniente
 MST_MONSTER_NAME_110012001^Pawn^石卒^석상 졸병^Péon^Kouros^Peón
 MST_MONSTER_NAME_306012000^Ganymede^木衛三^가니메데^Ganymède^Ganymed^Ganímedo
@@ -2162,7 +2162,7 @@ MST_MONSTER_NAME_305071000^Veritas of the Light^光輝之維利亞斯^찬란한 
 MST_MONSTER_NAME_103081000^Slime^史萊姆^슬라임^Gluant^Schleim^Limo
 MST_MONSTER_NAME_103081001^Slime^史萊姆^슬라임^Gluant^Schleim^Limo
 MST_MONSTER_NAME_103081002^Slime^史萊姆^슬라임^Gluant^Schleim^Limo
-MST_MONSTER_NAME_103091000^Liquid Metal Slime^流浪金屬史萊姆^하구레메탈^Gluant de mercure^Flüssigmetallschleim^Limo metálico
+MST_MONSTER_NAME_103091000^Liquid Metal Slime^流浪金屬史萊姆^하구레메탈^Gluant de mercure^Flüssigmetallschleim^Burbujilimo metálico
 MST_MONSTER_NAME_105071000^Dragonlord^龍王^용왕^Lordragon^Drachenfürst^Draconarius
 MST_MONSTER_NAME_105081000^Robbin' 'Ood^甘達坦^칸다타^Chaperon vert^Grüner Rächer^Luis Candelas
 MST_MONSTER_NAME_105081001^Robbin' 'Ood^甘達坦^칸다타^Chaperon vert^Grüner Rächer^Luis Candelas
@@ -2613,7 +2613,7 @@ MST_MONSTER_NAME_104021016^Bomb^炸彈^봄^Bombo^Bomber^Bom
 MST_MONSTER_NAME_104022015^Balloon^氣球怪^벌룬^Bustule^Granater^Bom verde
 MST_MONSTER_NAME_204031007^Medusa^梅杜莎^메두사^Méduse^Medusa^Medusa
 MST_MONSTER_NAME_204012008^Abyssal^深淵惡魔^심연의 포식자^Abysse^Abyss^Abisal
-MST_MONSTER_NAME_104023005^Grenade^榴彈怪^그레네이드^Grenade^Granate^Granada
+MST_MONSTER_NAME_104023005^Grenade^榴彈怪^그레네이드^Grenade^Granatenbomber^Granada
 MST_MONSTER_NAME_204021008^Basilisk^石蜥蜴^바실리스크^Basilic^Basilisk^Basilisco
 MST_MONSTER_NAME_204031008^Medusa^梅杜莎^메두사^Méduse^Medusa^Medusa
 MST_MONSTER_NAME_104003009^Bloody Eye^血色眼^혈홍안^Œil sanguinaire^Blutauge^Ojo sanguino
@@ -2949,7 +2949,7 @@ MST_MONSTER_NAME_209022007^Gigas Worm^巨型蠕蟲^기가스 지렁이^Ascaride^
 MST_MONSTER_NAME_108021016^Damia^達米亞^다미아^Damia^Damia^Damia
 MST_MONSTER_NAME_107002011^Diresaur^變異龍^변종 드래곤^Dragon-garou^Werdrache^Dracodonte
 MST_MONSTER_NAME_204021009^Basilisk^石蜥蜴^바실리스크^Basilic^Basilisk^Basilisco
-MST_MONSTER_NAME_104023006^Grenade^榴彈怪^그레네이드^Grenade^Granate^Granada
+MST_MONSTER_NAME_104023006^Grenade^榴彈怪^그레네이드^Grenade^Granatenbomber^Granada
 MST_MONSTER_NAME_210041006^Monster Effigy^石像獸^석상수^Effigie^Monsterstatue^Efigie monstruosa
 MST_MONSTER_NAME_207011010^Allosaur^異龍^알로사우루스^Allosaure^Allosaurus^Alosaurio
 MST_MONSTER_NAME_209011014^Scorpion^毒蝎^전갈^Scorpion^Skorpion^Escorpión
@@ -3738,7 +3738,7 @@ MST_MONSTER_NAME_202022009^Sprinter^駭鳥^질주자^Sprinteur^Sprinter^Velocist
 MST_MONSTER_NAME_205001004^Ziggurat Gigas^鎮塔巨人^지구라트 기가스^Gigas du ziggurat^Zikkurat-Gigas^Zigurat gigas
 MST_MONSTER_NAME_304011002^Arachne^阿剌克涅^아라크네^Arachné^Arachne^Aracnolia
 MST_MONSTER_NAME_103013013^Red Marshmallow^紅色棉花糖^붉은 마시멜로^Marshmallow rouge^Rotpudding^Malvavisco rojo
-MST_MONSTER_NAME_104023007^Grenade^榴彈怪^그레네이드^Grenade^Granate^Granada
+MST_MONSTER_NAME_104023007^Grenade^榴彈怪^그레네이드^Grenade^Granatenbomber^Granada
 MST_MONSTER_NAME_107005006^Geeta^熔岩龍^용암룡^Geeta^Glutdrache^Geeta
 MST_MONSTER_NAME_107013003^Ember^餘燼龍^엠버^Ambre^Flammdrache^Ámbar
 MST_MONSTER_NAME_108002009^Red Wisp^赤紅幽光^붉은 위스프^Volute rouge^Rotes Irrlicht^Esfera roja
@@ -4423,18 +4423,18 @@ MST_MONSTER_NAME_105171000^Thorn^索恩^손^Face^Son^Son
 MST_MONSTER_NAME_105171001^Thorn^索恩^손^Face^Son^Son
 MST_MONSTER_NAME_105171002^Thorn^索恩^손^Face^Son^Son
 MST_MONSTER_NAME_105171003^Thorn^索恩^손^Face^Son^Son
-MST_MONSTER_NAME_201161000^Bandersnatch^斑攫獸^밴더스내치^Bandsnatch^Wastigo^Zamarrajo
-MST_MONSTER_NAME_201161001^Bandersnatch^斑攫獸^밴더스내치^Bandsnatch^Wastigo^Zamarrajo
-MST_MONSTER_NAME_201161002^Bandersnatch^斑攫獸^밴더스내치^Bandsnatch^Wastigo^Zamarrajo
-MST_MONSTER_NAME_201161003^Bandersnatch^斑攫獸^밴더스내치^Bandsnatch^Wastigo^Zamarrajo
+MST_MONSTER_NAME_201161000^Bandersnatch^斑攫獸^밴더스내치^Bandsnatch^Bandersnatcher^Mal Bernardo
+MST_MONSTER_NAME_201161001^Bandersnatch^斑攫獸^밴더스내치^Bandsnatch^Bandersnatcher^Mal Bernardo
+MST_MONSTER_NAME_201161002^Bandersnatch^斑攫獸^밴더스내치^Bandsnatch^Bandersnatcher^Mal Bernardo
+MST_MONSTER_NAME_201161003^Bandersnatch^斑攫獸^밴더스내치^Bandsnatch^Bandersnatcher^Mal Bernardo
 MST_MONSTER_NAME_205661000^Beatrix^貝特麗克絲^베아트릭스^Béate^Beatrix^Beatrix
 MST_MONSTER_NAME_205661001^Beatrix^貝特麗克絲^베아트릭스^Béate^Beatrix^Beatrix
 MST_MONSTER_NAME_104028008^Golden Bomb^黃金炸彈^골든 봄^Bombo doré^Goldbomber^Bom dorado
 MST_MONSTER_NAME_204171000^Tantarian^丹塔利安^단타리안^Lovecraft^Alexandrikon^Dantarián
 MST_MONSTER_NAME_204171001^Tantarian^丹塔利安^단타리안^Lovecraft^Alexandrikon^Dantarián
-MST_MONSTER_NAME_102061000^Seeker Bat^探索蝙蝠^탐색 박쥐^Cernolophe^Sucherfeldermaus^Sanguino
-MST_MONSTER_NAME_401061000^Ralvuimago^拉爾瓦成體^랄바이마고^Larvalar^Königsbasilisk<br>^Larválida X
-MST_MONSTER_NAME_401061001^Ralvuimago^拉爾瓦成體^랄바이마고^Larvalar^Königsbasilisk<br>^Larválida X
+MST_MONSTER_NAME_102061000^Seeker Bat^探索蝙蝠^탐색 박쥐^Cernolophe^Vampir^Sanguino
+MST_MONSTER_NAME_401061000^Ralvuimago^拉爾瓦成體^랄바이마고^Larvalar^Königsbasilisk^Larválida X
+MST_MONSTER_NAME_401061001^Ralvuimago^拉爾瓦成體^랄바이마고^Larvalar^Königsbasilisk^Larválida X
 MST_MONSTER_NAME_102036007^Serrated Chick^瘴毒怪鳥^톱니 햇병아리^Oisillon dentelé^Gezacktes Küken^Polluelo serrador
 MST_MONSTER_NAME_108004017^St. Elmo^聖光精靈^세인트 엘모^St. Elmo^St. Elmo^San Elmo
 MST_MONSTER_NAME_108025008^Ninlil^寧利勒^닌릴^Ninlil^Ninlil^Ninlil
@@ -4625,45 +4625,45 @@ MST_MONSTER_NAME_104028018^Golden Bomb^黃金炸彈^골든 봄^Bombo doré^Goldb
 MST_MONSTER_NAME_104028019^Golden Bomb^黃金炸彈^골든 봄^Bombo doré^Goldbomber^Bom dorado
 MST_MONSTER_NAME_104028020^Golden Bomb^黃金炸彈^골든 봄^Bombo doré^Goldbomber^Bom dorado
 MST_MONSTER_NAME_104028021^Golden Bomb^黃金炸彈^골든 봄^Bombo doré^Goldbomber^Bom dorado
-MST_MONSTER_NAME_206141000^Mech Leader^機械司令^오토 커맨더^Méca-leader^Mech-Anführer^Líder mecánico
-MST_MONSTER_NAME_206141001^Mech Leader^機械司令^오토 커맨더^Méca-leader^Mech-Anführer^Líder mecánico
-MST_MONSTER_NAME_206141002^Mech Leader^機械司令^오토 커맨더^Méca-leader^Mech-Anführer^Líder mecánico
-MST_MONSTER_NAME_206141003^Mech Leader^機械司令^오토 커맨더^Méca-leader^Mech-Anführer^Líder mecánico
-MST_MONSTER_NAME_206141004^Mech Leader^機械司令^오토 커맨더^Méca-leader^Mech-Anführer^Líder mecánico
-MST_MONSTER_NAME_206141005^Mech Leader^機械司令^오토 커맨더^Méca-leader^Mech-Anführer^Líder mecánico
-MST_MONSTER_NAME_206141006^Mech Leader^機械司令^오토 커맨더^Méca-leader^Mech-Anführer^Líder mecánico
-MST_MONSTER_NAME_206141007^Mech Leader^機械司令^오토 커맨더^Méca-leader^Mech-Anführer^Líder mecánico
-MST_MONSTER_NAME_211041000^Grat^古拉特^그랫^Orchida^Grat^Grat
-MST_MONSTER_NAME_211041001^Grat^古拉特^그랫^Orchida^Grat^Grat
-MST_MONSTER_NAME_211041002^Grat^古拉特^그랫^Orchida^Grat^Grat
-MST_MONSTER_NAME_211041003^Grat^古拉特^그랫^Orchida^Grat^Grat
-MST_MONSTER_NAME_211041004^Grat^古拉特^그랫^Orchida^Grat^Grat
-MST_MONSTER_NAME_211041005^Grat^古拉特^그랫^Orchida^Grat^Grat
-MST_MONSTER_NAME_211041006^Grat^古拉特^그랫^Orchida^Grat^Grat
-MST_MONSTER_NAME_211041007^Grat^古拉特^그랫^Orchida^Grat^Grat
-MST_MONSTER_NAME_201171000^Bandersnatch^邦達斯那奇^밴더스내치^Bandersnatch^Wastigo^Zamarrajo
-MST_MONSTER_NAME_201171001^Bandersnatch^邦達斯那奇^밴더스내치^Bandersnatch^Wastigo^Zamarrajo
-MST_MONSTER_NAME_201171002^Bandersnatch^邦達斯那奇^밴더스내치^Bandersnatch^Wastigo^Zamarrajo
-MST_MONSTER_NAME_201171003^Bandersnatch^邦達斯那奇^밴더스내치^Bandersnatch^Wastigo^Zamarrajo
-MST_MONSTER_NAME_201171004^Bandersnatch^邦達斯那奇^밴더스내치^Bandersnatch^Wastigo^Zamarrajo
-MST_MONSTER_NAME_201171005^Bandersnatch^邦達斯那奇^밴더스내치^Bandersnatch^Wastigo^Zamarrajo
-MST_MONSTER_NAME_206151000^Mech Defender^機械防衛者^오토 아머^Méca-armure^Mech-Verteidiger^Defensor mecánico
-MST_MONSTER_NAME_206151001^Mech Defender^機械防衛者^오토 아머^Méca-armure^Mech-Verteidiger^Defensor mecánico
-MST_MONSTER_NAME_206151002^Mech Defender^機械防衛者^오토 아머^Méca-armure^Mech-Verteidiger^Defensor mecánico
-MST_MONSTER_NAME_206151003^Mech Defender^機械防衛者^오토 아머^Méca-armure^Mech-Verteidiger^Defensor mecánico
-MST_MONSTER_NAME_206151004^Mech Defender^機械防衛者^오토 아머^Méca-armure^Mech-Verteidiger^Defensor mecánico
-MST_MONSTER_NAME_205681000^Ashura^阿修羅^아수라^Asherah^Ashura^Ashura
-MST_MONSTER_NAME_205681001^Ashura^阿修羅^아수라^Asherah^Ashura^Ashura
-MST_MONSTER_NAME_205681002^Ashura^阿修羅^아수라^Asherah^Ashura^Ashura
-MST_MONSTER_NAME_205681003^Ashura^阿修羅^아수라^Asherah^Ashura^Ashura
+MST_MONSTER_NAME_206141000^Mech Leader^機械司令^오토 커맨더^Méca-leader^Befehlseinheit^Droid jefe
+MST_MONSTER_NAME_206141001^Mech Leader^機械司令^오토 커맨더^Méca-leader^Befehlseinheit^Droid jefe
+MST_MONSTER_NAME_206141002^Mech Leader^機械司令^오토 커맨더^Méca-leader^Befehlseinheit^Droid jefe
+MST_MONSTER_NAME_206141003^Mech Leader^機械司令^오토 커맨더^Méca-leader^Befehlseinheit^Droid jefe
+MST_MONSTER_NAME_206141004^Mech Leader^機械司令^오토 커맨더^Méca-leader^Befehlseinheit^Droid jefe
+MST_MONSTER_NAME_206141005^Mech Leader^機械司令^오토 커맨더^Méca-leader^Befehlseinheit^Droid jefe
+MST_MONSTER_NAME_206141006^Mech Leader^機械司令^오토 커맨더^Méca-leader^Befehlseinheit^Droid jefe
+MST_MONSTER_NAME_206141007^Mech Leader^機械司令^오토 커맨더^Méca-leader^Befehlseinheit^Droid jefe
+MST_MONSTER_NAME_211041000^Grat^古拉特^그랫^Orchida^Rotzkraut^Grat
+MST_MONSTER_NAME_211041001^Grat^古拉特^그랫^Orchida^Rotzkraut^Grat
+MST_MONSTER_NAME_211041002^Grat^古拉特^그랫^Orchida^Rotzkraut^Grat
+MST_MONSTER_NAME_211041003^Grat^古拉特^그랫^Orchida^Rotzkraut^Grat
+MST_MONSTER_NAME_211041004^Grat^古拉特^그랫^Orchida^Rotzkraut^Grat
+MST_MONSTER_NAME_211041005^Grat^古拉特^그랫^Orchida^Rotzkraut^Grat
+MST_MONSTER_NAME_211041006^Grat^古拉特^그랫^Orchida^Rotzkraut^Grat
+MST_MONSTER_NAME_211041007^Grat^古拉特^그랫^Orchida^Rotzkraut^Grat
+MST_MONSTER_NAME_201171000^Bandersnatch^邦達斯那奇^밴더스내치^Bandersnatch^Bandersnatcher^Mal Bernardo
+MST_MONSTER_NAME_201171001^Bandersnatch^邦達斯那奇^밴더스내치^Bandersnatch^Bandersnatcher^Mal Bernardo
+MST_MONSTER_NAME_201171002^Bandersnatch^邦達斯那奇^밴더스내치^Bandersnatch^Bandersnatcher^Mal Bernardo
+MST_MONSTER_NAME_201171003^Bandersnatch^邦達斯那奇^밴더스내치^Bandersnatch^Bandersnatcher^Mal Bernardo
+MST_MONSTER_NAME_201171004^Bandersnatch^邦達斯那奇^밴더스내치^Bandersnatch^Bandersnatcher^Mal Bernardo
+MST_MONSTER_NAME_201171005^Bandersnatch^邦達斯那奇^밴더스내치^Bandersnatch^Bandersnatcher^Mal Bernardo
+MST_MONSTER_NAME_206151000^Mech Defender^機械防衛者^오토 아머^Méca-armure^Protekeinheit^Droid blindado
+MST_MONSTER_NAME_206151001^Mech Defender^機械防衛者^오토 아머^Méca-armure^Protekeinheit^Droid blindado
+MST_MONSTER_NAME_206151002^Mech Defender^機械防衛者^오토 아머^Méca-armure^Protekeinheit^Droid blindado
+MST_MONSTER_NAME_206151003^Mech Defender^機械防衛者^오토 아머^Méca-armure^Protekeinheit^Droid blindado
+MST_MONSTER_NAME_206151004^Mech Defender^機械防衛者^오토 아머^Méca-armure^Protekeinheit^Droid blindado
+MST_MONSTER_NAME_205681000^Bashura^阿修羅^아수라^Asherah^Ashura^Asur
+MST_MONSTER_NAME_205681001^Bashura^阿修羅^아수라^Asherah^Ashura^Asur
+MST_MONSTER_NAME_205681002^Bashura^阿修羅^아수라^Asherah^Ashura^Asur
+MST_MONSTER_NAME_205681003^Bashura^阿修羅^아수라^Asherah^Ashura^Asur
 MST_MONSTER_NAME_205691000^Biran Ronso^比朗‧隆索^비란 론조^Biran Ronso^Biran Ronso^Biran Ronso
 MST_MONSTER_NAME_205691001^Biran Ronso^比朗‧隆索^비란 론조^Biran Ronso^Biran Ronso^Biran Ronso
 MST_MONSTER_NAME_205701000^Yenke Ronso^恩格‧隆索^엔케 론조^Yenke Ronso^Yenke Ronso^Yenke Ronso
 MST_MONSTER_NAME_205701001^Yenke Ronso^恩格‧隆索^엔케 론조^Yenke Ronso^Yenke Ronso^Yenke Ronso
-MST_MONSTER_NAME_108221000^Grenade^榴彈怪^그레네이드^Grenade^Granate^Granada
+MST_MONSTER_NAME_108221000^Grenade^榴彈怪^그레네이드^Grenade^Granatenbomber^Granada
 MST_MONSTER_NAME_301131000^Grendel^格蘭戴爾^그렌델^Grendel^Grendel^Grendel
-MST_MONSTER_NAME_412041000^Seymour Final Form^希摩爾終極變異體^시모어 종 이체^Seymour - Forme finale^Seymour - finale Form^Seymour Beta
-MST_MONSTER_NAME_412041001^Seymour Final Form^希摩爾終極變異體^시모어 종 이체^Seymour - Forme finale^Seymour - finale Form^Seymour Beta
+MST_MONSTER_NAME_412041000^Seymour Flux^希摩爾終極變異體^시모어 종 이체^Seymour - Forme finale^Seymor Obscura^Seymour Beta
+MST_MONSTER_NAME_412041001^Seymour Flux^希摩爾終極變異體^시모어 종 이체^Seymour - Forme finale^Seymor Obscura^Seymour Beta
 MST_MONSTER_NAME_401051002^Behemoth^凶惡巨獸^베히모스^Béhémoth^Behemoth^Bégimo
 MST_MONSTER_NAME_401051003^Behemoth^凶惡巨獸^베히모스^Béhémoth^Behemoth^Bégimo
 MST_MONSTER_NAME_205531002^Sol^索菲拉^솔^Sol^Sol^Solfuego
@@ -5233,7 +5233,7 @@ MST_MONSTER_NAME_103013014^Red Marshmallow^紅色棉花糖^붉은 마시멜로^M
 MST_MONSTER_NAME_208022006^Lavaburst^爆裂熔岩^용암^Magma^Lavahaufen^Magma
 MST_MONSTER_NAME_204025005^Fire Lizard^火蜥蜴^파이어 도마뱀^Kaïmahn de Feu^Feuerechse^Lagarto ígneo
 MST_MONSTER_NAME_201003007^Armored Beast^裝甲獸^철갑야수^Bête en armure^Panzerbestie^Alimaña con armadura
-MST_MONSTER_NAME_104023008^Grenade^榴彈怪^그레네이드^Grenade^Granate^Granada
+MST_MONSTER_NAME_104023008^Grenade^榴彈怪^그레네이드^Grenade^Granatenbomber^Granada
 MST_MONSTER_NAME_204017000^Heartburn^餓魔^아귀^Brûlures d'estomac^Sodbrennen^Quemaropa
 MST_MONSTER_NAME_111002020^Human Trap^惡魔植物^악마의 덩굴^Plante carnivore^Menschenfalle^Planta devoradora
 MST_MONSTER_NAME_101024010^Worgen^魔狼^와르그^Loup féroce^Isegrim^Lobo warg
@@ -5904,7 +5904,7 @@ MST_MONSTER_NAME_999026500^Veritas of the Light^光輝之維利亞斯^찬란한 
 MST_MONSTER_NAME_103013016^Red Marshmallow^紅色棉花糖^붉은 마시멜로^Marshmallow rouge^Rotpudding^Malvavisco rojo
 MST_MONSTER_NAME_105051022^Cutpurse^小賊^심부름꾼^Malandrin^Taschendieb^Ratero
 MST_MONSTER_NAME_106002032^Searcher^偵察眼^정찰 로봇^Tête chercheuse^Sucher^Rastreador
-MST_MONSTER_NAME_104023009^Grenade^榴彈怪^그레네이드^Grenade^Granate^Granada
+MST_MONSTER_NAME_104023009^Grenade^榴彈怪^그레네이드^Grenade^Granatenbomber^Granada
 MST_MONSTER_NAME_306011001^Tunnel Armor^掘地裝甲^굴착 아머^Excavatrice^Maulwurf^Tuneladora
 MST_MONSTER_NAME_404021000^Brachium^布拉奇烏姆^브라키움^Brachium^Brachium^Braquio
 MST_MONSTER_NAME_404021001^Brachium^布拉奇烏姆^브라키움^Brachium^Brachium^Braquio
@@ -6028,3 +6028,8 @@ MST_MONSTER_NAME_900010416^Dragon Junior^幼龍^작은 드래곤^Petit dragon^Mi
 MST_MONSTER_NAME_900010417^Rokh^不死巨鳥^암제스^Rokh^Rokh^Rokh
 MST_MONSTER_NAME_900010418^Rokh^不死巨鳥^암제스^Rokh^Rokh^Rokh
 MST_MONSTER_NAME_900010419^Rokh^不死巨鳥^암제스^Rokh^Rokh^Rokh
+MST_MONSTER_NAME_900010428^Apep^阿佩普^아펩^Apep^Apep^Apep
+MST_MONSTER_NAME_900010429^Apep^阿佩普^아펩^Apep^Apep^Apep
+MST_MONSTER_NAME_900010430^Apep^阿佩普^아펩^Apep^Apep^Apep
+MST_MONSTER_NAME_900010431^Apep^阿佩普^아펩^Apep^Apep^Apep
+MST_MONSTER_NAME_900010432^King Apep^阿佩普王^킹 아펩^Roi Apep^König Apep^Rey Apep

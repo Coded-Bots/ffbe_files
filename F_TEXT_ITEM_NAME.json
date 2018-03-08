@@ -291,7 +291,7 @@ MST_ITEM_NAME_109205080^Black Key 9^漆黑之鍵9^칠흑의 열쇠9^Clé de l'ob
 MST_ITEM_NAME_109205090^Black Key 10^漆黑之鍵10^칠흑의 열쇠10^Clé de l'obscurité 10^Schwarzer Schlüssel 10^Llave Oscuridad 10
 MST_ITEM_NAME_106300600^Red Orb^赤之寶玉^붉은색 보옥^Orbe rouge ^Roter Orb^Joya roja
 MST_ITEM_NAME_106210100^Rat Tail^老鼠尾巴^생쥐 꼬리^Queue de rat ^Rattenschwänze^Cola de ratón
-MST_ITEM_NAME_106300700^Gold^黃金^골드^Or^Gold^Oro
+MST_ITEM_NAME_106300700^Gold Coins^黃金^골드^Pièces d'or^Goldmünzen^Monedas de oro
 MST_ITEM_NAME_203000500^Gold Ore^金礦^금광^Minerai d'or^Golderz^Pepita de oro
 MST_ITEM_NAME_106300800^Blue Phantoma^藍色幻能^푸른 판토마^Anima bleue^Blaues Phantoma^Pneuma azul
 MST_ITEM_NAME_202002800^Koltz Star^科爾茲之星^콜츠의 별^Étoile de Kolts^Koltzstern^Estrella de Kolts
@@ -477,7 +477,7 @@ MST_ITEM_NAME_106302800^Contest Raid Coin^大賽共鬥硬幣^콘테스트 레이
 MST_ITEM_NAME_106302900^Debased Coin^古老銅板^낡은 동전^Sou ancien^Verrostete Münze^Moneda antigua
 MST_ITEM_NAME_106303100^Ticket^戲劇門票^공연 티켓^Billet^Eintrittskarte^Entrada
 MST_ITEM_NAME_106303200^Engels Raid Coin^恩格斯共鬥硬幣^엥겔스 레이드 코인^Jeton d'Engels^Engelsraubzugmünze^Moneda de Engels
-MST_ITEM_NAME_106303300^Al Bhed Primer^阿爾貝德語辭典^알베드어 사전^Manuel d'Al Bhed^Al Bhed-Wörterbuch^Diccionario albhed
+MST_ITEM_NAME_106303300^Al Bhed Primer^阿爾貝德語辭典^알베드어 사전^Manuel d'Al Bhed^Al Bhed-Lexikon^Diccionario albhed
 MST_ITEM_NAME_216000100^Twilight Feather^黃昏羽毛^황혼빛의 깃털^Plume du crépuscule^Dämmerungsfeder^Pluma crepuscular
 MST_ITEM_NAME_216000200^Pure Thread^純白柔線^순백의 실^Fil pur^Reiner Faden^Hilo puro
 MST_ITEM_NAME_216000300^Worn Blueprint^破損的設計圖^찢어진 설계도^Plan déchiré^Abgenutzter Entwurf^Diseño desgarrado
@@ -582,3 +582,10 @@ MST_ITEM_NAME_1209000861^Sun Jade ^太陽翡翠^태양의 비취^Soleil de jade^
 MST_ITEM_NAME_1209000862^Fire Opal^火蛋白石^파이어 오팔^Opale de feu^Feueropal^Ópalo de fuego
 MST_ITEM_NAME_1209000863^Red Flax^紅色亞麻^붉은색 아마^Lin rouge^Rotes Flachs^Lino rojo
 MST_ITEM_NAME_1209000864^Gold Flax^金色亞麻^황금색 아마^Lin doré^Goldenes Flachs^Lino dorado
+MST_ITEM_NAME_1209000865^Yellow Disk^金碟^옐로우 디스크^Disque jaune ^Gelbe Scheibe^Disco amarillo
+MST_ITEM_NAME_1209000866^Gunmetal Alloy^砲金^포금^Bronze à canon^Geschützmetall-Legierung^Aleación plomiza
+MST_ITEM_NAME_1209000867^Sealed Treasure^封印寶箱^봉인된 보물상자^Trésor scellé^Verschlossener Schatz^Tesoro sellado
+MST_ITEM_NAME_1209000868^Glitz Gem^奢華寶石^현란한 보석^Joyau tape-à-l'œil^Glanzgemme^Gema barata
+MST_ITEM_NAME_1209000869^Dense Ore^高密度礦石^고밀도 광석^Minerai condensé^Dichtes Erz^Mineral concentrado
+MST_ITEM_NAME_1209000870^Gunpowder^火槍粉^건파우더^Poudre à canon^Schießpulver^Pólvora
+MST_ITEM_NAME_1209000871^30 Million Downloads Celebratory Ticket^3000萬下載紀念券^3천만 다운로드 기념 티켓^Ticket de célébration des 30 M de téléchargements^30 Millionen Downloads Feierkarte^Tícket de celebración por las 30 millones de descargas
