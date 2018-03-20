@@ -710,7 +710,7 @@ MST_EQUIP_ITEM_NAME_1100000090^Diamond Shield^鑽石盾^다이아 실드^Bouclie
 MST_EQUIP_ITEM_NAME_1100000091^Hell Claws^地獄之爪^지옥의 발톱^Griffes infernales^Höllenklauen^Garra infernal
 MST_EQUIP_ITEM_NAME_1100000092^Gaia Hammer^大地之鎚^대지의 해머^Marteau de Gaïa^Gaias Hammer^Maza de Gaia
 MST_EQUIP_ITEM_NAME_1100000093^Shadow Dragon Scales^黑龍麟^흑룡의 비늘^Écailles du dragon obscur^Schattendrachenschuppen^Escamas de dragón sombrío
-MST_EQUIP_ITEM_NAME_1100000097^Cloak of Flame^烈焰披風^화염의 망토^Cape ardente ^Flammenumhang^Capa llameante
+MST_EQUIP_ITEM_NAME_1100000097^Cloak of Flames^烈焰披風^화염의 망토^Cape ardente ^Flammenumhang^Capa llameante
 MST_EQUIP_ITEM_NAME_1100000098^Fashionable Dancewear^時尚舞蹈服^멋스러운 무대의상^Tenue de danse chic^Modisches Tanzoutfit^Traje de baile fabuloso
 MST_EQUIP_ITEM_NAME_1100000099^Microphone Stand^麥克風架^마이크 스탠드^Pied de micro^Mikrofonständer^Pata de micrófono
 MST_EQUIP_ITEM_NAME_1100000100^Magical Scrunchie^奇幻髮圈^마법의 헤어 타이^Chouchou magique^Magisches Haargummi^Felpa mágica
@@ -756,8 +756,8 @@ MST_EQUIP_ITEM_NAME_308003300^Dragon's Whisker - Replica^龍髭·複製品^용�
 MST_EQUIP_ITEM_NAME_302004200^Ryumiel^盧米埃劍^뤼미에르^Lumière^Lumière^Ryumiel
 MST_EQUIP_ITEM_NAME_405004300^Butler's Uniform^管家服^집사의 옷^Tenue de majordome ^Butler-Uniform^Uniforme de mayordomo
 MST_EQUIP_ITEM_NAME_403043800^Hairpin of Purity^純潔之心髮飾^순수의 머리 장식^Épingle de pureté^Haarschmuck der Reinheit^Coletero de la pureza
-MST_EQUIP_ITEM_NAME_409016700^Sash of Restraint^忍者魔力腰帶^닌자의 마력대^Ceinture de retenue^Schärpe der Beharrlichkeit^Cinturón de entereza
-MST_EQUIP_ITEM_NAME_304002200^Himonto^冰紋刀^빙문도^Himonto^Himonto^Himonto
+MST_EQUIP_ITEM_NAME_409016700^Mystic Sash^忍者魔力腰帶^닌자의 마력대^Ceinture mystique^Mystische Schärpe^Banda mística
+MST_EQUIP_ITEM_NAME_304002200^Hyomonto^冰紋刀^빙문도^Hyomonto^Hyomonto^Hyomonto
 MST_EQUIP_ITEM_NAME_404002600^Aranea's Helm^艾拉妮亞頭盔^아라네아의 투구^Heaume d'Aranea^Araneas Helm^Yelmo de Aranea
 MST_EQUIP_ITEM_NAME_313003000^Valiant II^英勇槍 II^배리언트Ⅱ^Vaillant II^Valiant II^Heroica
 MST_EQUIP_ITEM_NAME_409016800^A1-Class Powershield^士官用特A級護盾^장교용 A급 실드^Bouclier classe A1^Kraftschild der Klasse A1^Escudo de primera clase
@@ -813,7 +813,7 @@ MST_EQUIP_ITEM_NAME_409017700^Bomb Ring^炸彈戒指^봄의 반지^Bague de corn
 MST_EQUIP_ITEM_NAME_306002200^Rock Hammer^岩錘^록 해머^Marteau de pierre^Steinhammer^Martillo de roca
 MST_EQUIP_ITEM_NAME_309002200^Reflect Knuckle^反射拳套^리플렉트 너클^Poings réflecteurs^Reflektivkralle^Puños reflectores
 MST_EQUIP_ITEM_NAME_402002500^Cerulean Shield^水盾^아쿠아 실드^Bouclier Aquatique^Wasserschild^Escudo acuoso
-MST_EQUIP_ITEM_NAME_407003000^Dual Armor^杜爾鎧^듀얼 아머^Doublarmure^Doppelrüstung^Armadura dual
+MST_EQUIP_ITEM_NAME_407003000^Durus Armor^杜爾鎧^두러스 아머^Armure de Durus^Durusrüstung^Armadura de Durus
 MST_EQUIP_ITEM_NAME_409017800^Aquamarine Ring^海藍石戒指^아쿠아마린 반지^Bague aquamarine^Aquamarinring^Anillo de aguamarina
 MST_EQUIP_ITEM_NAME_302004900^Enhancer+^魔化細劍·改^개량형 인핸스 소드^Lame Soutien +^Verstärker+^Artífice+
 MST_EQUIP_ITEM_NAME_409017900^Invigorator^激勵者^인비고레이터^Revitaliseur^Beleber^Vigorizador
@@ -853,8 +853,8 @@ MST_EQUIP_ITEM_NAME_303003900^Lotus Blade Agni^紅蓮劍阿格尼^홍련의 검 
 MST_EQUIP_ITEM_NAME_305002300^Thunder Axe Keraunos^雷霆斧凱拉諾斯^벼락의 도끼 케라우노스^Keraunos, hache-tonnerre^Donneraxt Keraunos^Keraunos, hacha del trueno
 MST_EQUIP_ITEM_NAME_310003300^Gale Rod^烈風棒^열풍의 홀장^Sceptre des tempêtes^Sturmstab^Vara del vendaval
 MST_EQUIP_ITEM_NAME_409018800^Merald's Belt^梅拉路德腰帶^메랄드의 벨트^Ceinture de Merald^Meralds Gürtel^Cinto de Merald
-MST_EQUIP_ITEM_NAME_301003100^Assassin Dagger^刺客短劍^암살자의 단검^Assassine^Assassinendolch^Daga asesina
-MST_EQUIP_ITEM_NAME_301003200^Assassin Dagger - Replica^刺客短劍·複製品^암살자의 단검·레플리카^Assassine - Réplique^Assassinendolch - Replik^Réplica de Daga asesina
+MST_EQUIP_ITEM_NAME_301003100^Assassin Dagger^刺客匕首^암살자의 단검^Assassine^Assassinendolch^Daga asesina
+MST_EQUIP_ITEM_NAME_301003200^Assassin Dagger - Replica^刺客匕首·複製品^암살자의 단검·레플리카^Assassine - Réplique^Assassinendolch - Replik^Réplica de Daga asesina
 MST_EQUIP_ITEM_NAME_302005000^Holy Sword Farwell^聖劍法韋爾^성검 파웰^Farwell, épée sacrée^Heiliges Schwert Farwell^Farwell, espada sacra
 MST_EQUIP_ITEM_NAME_309002500^Fallen Hope^墮落的希望^떨어진 희망^Espoir perdu ^Verlorene Hoffnung^Esperanza perdida
 MST_EQUIP_ITEM_NAME_409018900^Millie's Pendant^米麗的護身符^밀리의 부적^Pendentif de Millie^Millies Anhänger^Pendiente de Millie

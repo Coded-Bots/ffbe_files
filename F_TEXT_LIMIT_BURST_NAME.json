@@ -26,10 +26,10 @@ MST_LIMITBURST_NAME_100001501^Big Shot^沉重射擊^묵직한 사격^Tir puissan
 MST_LIMITBURST_NAME_100001502^Lethal Shot^刺殺射擊^필살 사격^Tir fatal^Killerschuss^Tiro letal
 MST_LIMITBURST_NAME_100001601^War Anthem^助威歌^응원의 노래^Chant de soutien^Zu den Waffen^Llamada a las armas
 MST_LIMITBURST_NAME_100001602^Hearty Cheer^喝彩^기적의 응원^Cri de joie^Ovation^Apoyo sincero 
-MST_LIMITBURST_NAME_206001502^Mega Blizzbeam^百萬暴雪射線^메가블리자 광선^Méga rayon gelant^Mega-Eisstrahl^Megarrayo Hielo
-MST_LIMITBURST_NAME_206001503^Giga Blizzbeam^十億暴雪射線^기가블리자 광선^Giga rayon gelant ^Giga-Eisstrahl^Gigarrayo Hielo
-MST_LIMITBURST_NAME_206001602^Mega Firebeam^百萬火焰射線^메가파이어 광선^Méga rayon brûlant^Mega-Feuerstrahl^Megarrayo Piro
-MST_LIMITBURST_NAME_206001603^Giga Firebeam^十億火焰射線^기가파이어 광선^Giga rayon brûlant^Giga-Feuerstrahl^Gigarrayo Piro
+MST_LIMITBURST_NAME_206001502^Mega Ice Beam^百萬暴雪射線^메가블리자 광선^Méga rayon gelant^Mega-Eisstrahl^Megarrayo Hielo
+MST_LIMITBURST_NAME_206001503^Giga Ice Beam^十億暴雪射線^기가블리자 광선^Giga rayon gelant ^Giga-Eisstrahl^Gigarrayo Hielo
+MST_LIMITBURST_NAME_206001602^Mega Fire Beam^百萬火焰射線^메가파이어 광선^Méga rayon brûlant^Mega-Feuerstrahl^Megarrayo Piro
+MST_LIMITBURST_NAME_206001603^Giga Fire Beam^十億火焰射線^기가파이어 광선^Giga rayon brûlant^Giga-Feuerstrahl^Gigarrayo Piro
 MST_LIMITBURST_NAME_202001402^Treasure Snatch^寶物到手！^보물은 내가 가져간다!^Voleur de trésor^Mein Schatz^Adiós tesoro
 MST_LIMITBURST_NAME_202001403^Thief Supreme^舉世大竊賊^천하의 대도적^Maître voleur^Meisterklau^Toque experto
 MST_LIMITBURST_NAME_203000602^Hermit's Judgment^隱者裁火^은자의 불꽃^Jugement du sage ^Eremitenfeuer^Juicio del eremita
@@ -55,13 +55,13 @@ MST_LIMITBURST_NAME_100001803^Anti-Protectga^反超物防護^안티 프로테가
 MST_LIMITBURST_NAME_100001902^Liquid Steel^流水劍^아쿠아 세이버^Aqualame^Wasserschwert^Hoja líquida
 MST_LIMITBURST_NAME_100001903^Water Spout^流水颶風^아쿠아 허리케인^Geyser^Wasserhose^Maelstrom
 MST_LIMITBURST_NAME_100002002^Face Powder^信念粉末^얼굴 치장^Fard magique^Puder^Polvos faciales
-MST_LIMITBURST_NAME_100002003^Mana Tonic^魔力秘藥^마력의 비약^Breuvage magique^Mana-Tonikum^Pócima mágica
+MST_LIMITBURST_NAME_100002003^Mana Tonic^魔力秘藥^마력의 비약^Breuvage magique^MP-Wundermittel^Pócima mágica
 MST_LIMITBURST_NAME_204000602^Exorcist's Prelude^除魔序曲^액막이의 서곡^Prélude exorciste^Exzorzistenfuge^Preludio exorcista
 MST_LIMITBURST_NAME_204000603^Hunter's Lullaby^退魔搖籃曲^퇴마의 자장가^Berceuse bénéfique^Schlaflied des Jägers^Nana de cazador
 MST_LIMITBURST_NAME_204000604^Divine Oratorio^神護聖曲^가호의 성담곡^Oratorio divin^Göttliches Oratorium^Oratorio divino
 MST_LIMITBURST_NAME_202000302^Helmsplitter^斬盔^투구 깨기^Brise-casque^Helmspalter^Rompecascos
-MST_LIMITBURST_NAME_202000303^Gaia's Roar^大地咆哮^지열참^Grondement de Gaïa^Gaias Brüllen^Rugido de Gaia
-MST_LIMITBURST_NAME_202000304^Gaia's Howl^大地咆哮^대지의 포효^Grondement de Gaïa^Gaias Brüllen^Rugido de Gaia
+MST_LIMITBURST_NAME_202000303^Gaia's Roar^地烈斬^지열참^Briseur de rocs^Erdspalter^Rugido de Gaia
+MST_LIMITBURST_NAME_202000304^Gaia's Howl^大地咆哮^대지의 포효^Grondement de Gaïa^Gaias Brüllen^Aullido de Gaia
 MST_LIMITBURST_NAME_209000602^Limit Glove^極限手套^리미트 글로브^Ultime limite^Kugelblitz^Esfera fulgente
 MST_LIMITBURST_NAME_209000603^Pumpkin Head^南瓜頭^호박머리^Tête de citrouille^Kürbiskopf^Cabeza de calabaza
 MST_LIMITBURST_NAME_209000604^Super Frog Drop^真·青蛙墜^진 개구리 낙하^Super tétarisation^Super-Krötenfalle^SuperCroac
@@ -69,7 +69,7 @@ MST_LIMITBURST_NAME_202001002^Taskmaster^給我上！^해치워버려!^Tyran^Du 
 MST_LIMITBURST_NAME_202001003^No Escape^別想跑！^놓칠까 보냐!^Sans issue^Na warte!^Sin salida
 MST_LIMITBURST_NAME_202001004^Final Punishment^最後一擊！^이걸로 끝이다!^Ultime punition^Das war's dann!^Castigo final
 MST_LIMITBURST_NAME_205000303^Royal Seal^王族之證^왕족의 증표^Sceau royal^Königssiegel^Sello real
-MST_LIMITBURST_NAME_205000304^Daybreak Slash^拂曉劍^새벽의 검^Lame de l'aube^Dämmerklinge^Tajo del alba
+MST_LIMITBURST_NAME_205000304^Dayspring^拂曉劍^새벽의 검^Lame de l'aube^Dämmerklinge^Tajo del alba
 MST_LIMITBURST_NAME_209000203^Magical Rampage^魔力暴走^마력 폭주^Fureur magique^Magische Wut^Arrebato mágico
 MST_LIMITBURST_NAME_209000204^Flames of Ruin^終焉之炎^종말의 불꽃^Flammes du trépas^Todesflammen^Llamas de la ruina
 MST_LIMITBURST_NAME_212000403^Intercession^生殺予奪^생살여탈^Danse des âmes^Seelenmarter^Conjuro
@@ -80,7 +80,7 @@ MST_LIMITBURST_NAME_206000403^Phoenix Dance^鳳凰之舞^봉황의 춤^Danse du 
 MST_LIMITBURST_NAME_206000404^Vacuum Wave^真空波^진공파^Onde de vide^Vakuum-Welle^Onda de vacío
 MST_LIMITBURST_NAME_206000503^Wild Fang^狂野尖牙^야성의 송곳니^Crocs sauvages^Wildfang^Colmillo salvaje
 MST_LIMITBURST_NAME_206000504^Takedown^獵犬阻截^사냥개 돌진^Riposte canine^Niederreißen^Derribo
-MST_LIMITBURST_NAME_205000503^Gaia's Breath^大地之息^대지의 숨결^Souffle de Gaïa^Gaias Atem^Aliento de Gaia
+MST_LIMITBURST_NAME_205000503^Breath of the Earth^大地之息^대지의 숨결^Souffle de Gaïa^Gaias Atem^Aliento de Gaia
 MST_LIMITBURST_NAME_205000504^Gaia's Blessing^森羅萬象的恩賜^삼라만상의 은혜^Grâce de Gaïa^Gaias Segen^Bendición de Gaia
 MST_LIMITBURST_NAME_204000203^Whirling Lance^螺旋槍擊^나선창^Lance tournoyante^Spirallanze^Lanza espiral
 MST_LIMITBURST_NAME_204000204^Dragon Fang^暴龍尖牙^드래곤 송곳니^Croc de dragon^Drachenzahn^Colmillo de dragón
@@ -106,7 +106,7 @@ MST_LIMITBURST_NAME_201000203^Chaotic Impact^混沌衝擊^혼돈의 충격^Impac
 MST_LIMITBURST_NAME_201000204^Eternal Recurrence^永劫回歸^영겁회귀^Récurrence infinie^Ewige Wiederkehr^Eterna repetición
 MST_LIMITBURST_NAME_201000205^Vagrant Soul^混沌之靈^혼돈의 영혼^Âme de Chaos^Chaosgeist^Alma del caos
 MST_LIMITBURST_NAME_204001403^Onyx Dragon^黑龍，參戰！^나와라, 흑룡이여!^Dragon d'onyx^Schattendrache^Dragón de ónice
-MST_LIMITBURST_NAME_204001404^Twin Moons^雙月^쌍둥이 달^Lunes jumelles^Doppelmond^Lunas gemelas
+MST_LIMITBURST_NAME_204001404^Twin Moon^雙月^쌍둥이 달^Lunes jumelles^Doppelmond^Lunas gemelas
 MST_LIMITBURST_NAME_204001405^Dark of the Moon^新月之暗^초승달의 어둠^Ombre de la lune^Neumondnacht^Oscuridad lunar
 MST_LIMITBURST_NAME_205000703^Black Hole^黑洞^블랙홀^Trou noir^Schwarzes Loch^Agujero negro
 MST_LIMITBURST_NAME_205000704^Almagest^至高無上^알마게스트^Almageste^Almagest^Almagesto
@@ -114,7 +114,7 @@ MST_LIMITBURST_NAME_205000705^Grand Cross^大十字^그랜드 크로스^Croix su
 MST_LIMITBURST_NAME_206001703^Vengeance^復仇^리벤저^Vengeance^Rächer^Revancha
 MST_LIMITBURST_NAME_206001704^Forsaken^失蹤^행방불명^Cataclysme^Verloren^Olvido
 MST_LIMITBURST_NAME_206001705^Wings of Ruin^破壞之翼^파괴의 날개^Ailes de la ruine^Flügel des Untergangs^Alas de la ruina
-MST_LIMITBURST_NAME_209001003^Flare Star^核爆之星^플레어 스타^Astre flamboyant^Feuerstern^Astro fulgurante
+MST_LIMITBURST_NAME_209001003^Flare Star^核爆之星^플레어 스타^Astre flamboyant^Flarestar^Astro fulgurante
 MST_LIMITBURST_NAME_209001004^Reaper's Dirge^死神慟哭^사신의 통곡^Litanie de la mort^Klagelied^Elegía de la parca
 MST_LIMITBURST_NAME_209001005^Neutron Ring^中子環^뉴턴 고리^Anneau de neutrons^Neutronenring^Anillo de neutrones
 MST_LIMITBURST_NAME_203000803^Wave Cannon^波動炮^파동포^Rayon-particules^Wellengeschütz^Cañón de ondas
@@ -127,16 +127,16 @@ MST_LIMITBURST_NAME_206000103^Riot Blade^真空斬^폭도의 검격^Lame rebelle
 MST_LIMITBURST_NAME_206000104^Magic Flash^魔導閃光^마도 섬광^Éclair magique^Magischer Blitz^Fogonazo mágico
 MST_LIMITBURST_NAME_206000105^Apocalyptic Blade^默示錄之光劍^묵시록의 광검^Lame apocalyptique^Gehennaklinge^Hoja apocalíptica
 MST_LIMITBURST_NAME_206000113^Laser Blaster^激光衝擊波^광선포^Faisceau laser^Laserblaster^Electroplasma
-MST_LIMITBURST_NAME_206000114^Magic Cannon^魔導炮^마도 포격^Canon magitech^Magiegeschütz^Cañón mágico
+MST_LIMITBURST_NAME_206000114^Magitek Cannon^魔導炮^마도 포격^Canon magitech^Magiegeschütz^Cañón mágico
 MST_LIMITBURST_NAME_205000103^Pursuing Winds^探求之風^탐구의 바람^Vents chercheurs^Suchender Wind^Viento acechador
-MST_LIMITBURST_NAME_205000104^Drogan's Blade^多爾伽恩秘劍^도르간의 비검^Épée de Dorgan^Dorgans Klinge^Hoja de Doran
+MST_LIMITBURST_NAME_205000104^Dorgann's Blade^多爾伽恩秘劍^도르간의 비검^Épée de Dorgann^Dorganns Klinge^Hoja de Dorgann
 MST_LIMITBURST_NAME_205000105^Brave Blade^勇者利劍^용기의 검^Lame des braves^Mutklinge^Hoja valiente
 MST_LIMITBURST_NAME_202000103^Counter Beacon^叛擊狼火^반격의 효시^Flambeau rebelle^Signalfeuer^Contraluz
 MST_LIMITBURST_NAME_202000104^Wild Rose^野玫瑰^들장미^Rose sauvage^Wildrose^Rosa salvaje
 MST_LIMITBURST_NAME_202000105^Sword of Rebellion^叛逆之劍^반란의 검^Épée de la révolte^Schwert der Rebellion^Espada de rebelión
 MST_LIMITBURST_NAME_209000103^Meo Twister^爆裂迴旋^밀 트위스터^Coup tordu^Mörteltwister^Sacudida
 MST_LIMITBURST_NAME_209000104^Solution 9^溶液9號^솔루션 9^Solution 9^Plan 9^Solución 9
-MST_LIMITBURST_NAME_209000105^Grand Lethal^大致死^그랜드 리설^Grand final^Ah Puch^Luminaria
+MST_LIMITBURST_NAME_209000105^Grand Lethal^大致死^그랜드 리설^Intrigue^Ah Puch^Luminaria
 MST_LIMITBURST_NAME_212000103^Red Spiral^深紅螺旋^레드 스파이럴^Vortex^Rote Hydra^Espiral roja
 MST_LIMITBURST_NAME_212000104^White Whorl^極度危險^딥 해저드^Tornade blanche^Höllenzyklon^Vorágine
 MST_LIMITBURST_NAME_212000105^Pyroclasm^深紅熔體^멜트 크림슨^Pyrolyse^Mana-Fusion^Masa crítica
@@ -182,7 +182,7 @@ MST_LIMITBURST_NAME_206000204^Eccentric Collector^尋寶妙技^보물찾기 묘�
 MST_LIMITBURST_NAME_206000205^Treasure Master^追尋大秘寶^위대한 보물을 찾아^Expert en trésors^Schatzsuche der Legenden^Maestro de tesoros
 MST_LIMITBURST_NAME_206001803^Shock^激震^충격타^Choc^Schock^Impacto
 MST_LIMITBURST_NAME_206001804^Giga Shock^十億激震^거대 충격타^Giga choc^Gigaschock^Gigaimpacto
-MST_LIMITBURST_NAME_206001805^Ground Shock^大激震^압도 충격타^Choc terrestre^Erdschock^Impacto terrestre
+MST_LIMITBURST_NAME_206001805^Grand Shock^大激震^압도 충격타^Choc terrestre^Erdschock^Impacto terrestre
 MST_LIMITBURST_NAME_100003903^Verdant Rhapsody^新綠狂想曲^신록의 광시곡^Rhapsodie verte^Immergrüne Rhapsodie^Rapsodia forestal
 MST_LIMITBURST_NAME_100003904^Hurricane Ballad^疾風民謠^질풍의 담시곡^Ballade venteuse^Sturmwindballade^Balada del huracán
 MST_LIMITBURST_NAME_100003905^Prelude to Victory^通往勝利的序曲^승리를 향한 서곡^Prélude triomphal^Preludium des Sieges^Preludio de victoria
@@ -209,12 +209,12 @@ MST_LIMITBURST_NAME_205000204^Tycoon Guard^泰空的守護^타이쿤의 수호^G
 MST_LIMITBURST_NAME_205000205^Benediction^慈愛祈禱^자애의 기도^Onction^Weihung^Consagración
 MST_LIMITBURST_NAME_209000304^Princess's Prayer^公主的願望^공주의 소원^Prière de princesse^Gebet der Prinzessin^Plegaria de princesa
 MST_LIMITBURST_NAME_209000305^Guardian's Oath^誓願守護神^수호신에게 비는 소원^Serment divin^Wächterschwur^Juramento divino
-MST_LIMITBURST_NAME_209000503^Dragon Breath^神龍吐息^드래곤 브레스^Souffle du dragon^Drachenhauch^Vaho letal
-MST_LIMITBURST_NAME_209000504^Cherry Blossom^櫻花怒放^꽃잎 폭풍^Cerisier en fleur ^Kirschblüte^Cerezo en flor
-MST_LIMITBURST_NAME_209000505^Dragon's Crest^龍之紋章^용의 문장^Emblème du dragon^Drachenzeichen^Ira del dragón
-MST_LIMITBURST_NAME_209000803^No Mercy^掃蕩雜兵^졸개 해치우기^Sans pitié^Aufräumen^Exterminio
+MST_LIMITBURST_NAME_209000503^Dragon Breath^神龍吐息^드래곤 브레스^Drée^Plasmadrache^Vaho letal
+MST_LIMITBURST_NAME_209000504^Cherry Blossom^櫻花怒放^꽃잎 폭풍^Cerisier en fleur ^Drachenglorie^Cerezo en flor
+MST_LIMITBURST_NAME_209000505^Dragon's Crest^龍之紋章^용의 문장^Guivre^Drakogramm^Ira del dragón
+MST_LIMITBURST_NAME_209000803^No Mercy^掃蕩雜兵^졸개 해치우기^Aquarius^Mahagomeha^Exterminio
 MST_LIMITBURST_NAME_209000804^Holy Strike^聖光擊^성광격^Coup sacré ^Götterschlag^Puño sagrado
-MST_LIMITBURST_NAME_209000805^Countdown^秘孔拳^혈도 찌르기^Compte à rebours^Countdown^Cuenta atrás
+MST_LIMITBURST_NAME_209000805^Countdown^秘孔拳^혈도 찌르기^Ermitage^Gravitsynkope^Hikooken
 MST_LIMITBURST_NAME_209000903^Hands Off!^幹什麼！^무슨 짓이야!^Bas les pattes !^Pfoten weg!^¡No se toca!
 MST_LIMITBURST_NAME_209000904^Elegant Swing^華麗擺動^미인의 휘두르기^Élégant moulinet^Graziler Angriff^Balanceo elegante
 MST_LIMITBURST_NAME_100000503^Mecha Chocobo Assault^機械陸行鳥突擊！^메카초코보 돌격!^Assaut du mecha-chocobo^Mecha-Chocobo-Angriff^Asalto Chocobot
@@ -236,17 +236,17 @@ MST_LIMITBURST_NAME_100004304^Barricade^堅固城塞^견고한 요새^Barricade^
 MST_LIMITBURST_NAME_100004305^Fortify^不破要塞^난공불락의 성채^Fortification ^Verstärken^Fuerte impenetrable
 MST_LIMITBURST_NAME_213000105^Army of One^王牌驅散^신 드라이브^Combo éclair^Ein-Mann-Armee^Andanada
 MST_LIMITBURST_NAME_213000106^Army of One^王牌驅散^신 드라이브^Combo éclair^Ein-Mann-Armee^Andanada
-MST_LIMITBURST_NAME_253000105^Scream^咆哮^외침^Hurler^Schrei^Grito
-MST_LIMITBURST_NAME_253000106^Scream^咆哮^외침^Hurler^Schrei^Grito
-MST_LIMITBURST_NAME_253000205^Lightning Stab^無雙閃電刺^무쌍번개 찌르기^Éclair béni ^Heiliger Blitz^Descarga sagrada
-MST_LIMITBURST_NAME_253000206^Lightning Stab^無雙閃電刺^무쌍번개 찌르기^Éclair béni ^Heiliger Blitz^Descarga sagrada
-MST_LIMITBURST_NAME_253000304^Stasis Sword^不動無明劍^부동무명검^Lame du jugement^Gerechtigkeitsschwert^Hoja inamovible
-MST_LIMITBURST_NAME_253000305^Stasis Sword^不動無明劍^부동무명검^Lame du jugement^Gerechtigkeitsschwert^Hoja inamovible
-MST_LIMITBURST_NAME_253000403^Wish^祝福^주문^Gri-gri^Auto-Leben^Hechizar
-MST_LIMITBURST_NAME_253000404^Wish^祝福^주문^Gri-gri^Auto-Leben^Hechizar
-MST_LIMITBURST_NAME_253000405^Wish^祝福^주문^Gri-gri^Auto-Leben^Hechizar
-MST_LIMITBURST_NAME_253000504^Night Sword^暗影劍^어둠의 검^Lame nuit^Schattenklinge^Espada sombría
-MST_LIMITBURST_NAME_253000505^Night Sword^暗影劍^어둠의 검^Lame nuit^Schattenklinge^Espada sombría
+MST_LIMITBURST_NAME_253000105^Shout^咆哮^외침^Hurler^Schrei^Grito
+MST_LIMITBURST_NAME_253000106^Shout^咆哮^외침^Hurler^Schrei^Grito
+MST_LIMITBURST_NAME_253000205^Hallowed Bolt^無雙閃電刺^무쌍번개 찌르기^Éclair béni ^Heiliger Blitz^Descarga sagrada
+MST_LIMITBURST_NAME_253000206^Hallowed Bolt^無雙閃電刺^무쌍번개 찌르기^Éclair béni ^Heiliger Blitz^Descarga sagrada
+MST_LIMITBURST_NAME_253000304^Judgment Blade^不動無明劍^부동무명검^Lame du jugement^Gerechtigkeitsschwert^Hoja inamovible
+MST_LIMITBURST_NAME_253000305^Judgment Blade^不動無明劍^부동무명검^Lame du jugement^Gerechtigkeitsschwert^Hoja inamovible
+MST_LIMITBURST_NAME_253000403^Chant^祝福^주문^Gri-gri^Auto-Leben^Hechizar
+MST_LIMITBURST_NAME_253000404^Chant^祝福^주문^Gri-gri^Auto-Leben^Hechizar
+MST_LIMITBURST_NAME_253000405^Chant^祝福^주문^Gri-gri^Auto-Leben^Hechizar
+MST_LIMITBURST_NAME_253000504^Shadowblade^暗影劍^어둠의 검^Lame nuit^Schattenklinge^Espada sombría
+MST_LIMITBURST_NAME_253000505^Shadowblade^暗影劍^어둠의 검^Lame nuit^Schattenklinge^Espada sombría
 MST_LIMITBURST_NAME_253000603^Seal Evil^封印邪心^사심봉인^Sceau maléfique ^Siegel des Bösen^Sello del mal
 MST_LIMITBURST_NAME_253000604^Seal Evil^封印邪心^사심봉인^Sceau maléfique ^Siegel des Bösen^Sello del mal
 MST_LIMITBURST_NAME_253000605^Seal Evil^封印邪心^사심봉인^Sceau maléfique ^Siegel des Bösen^Sello del mal
@@ -255,9 +255,9 @@ MST_LIMITBURST_NAME_213000205^Sovereign Fist^至高神拳^룰러 피스트^Poing
 MST_LIMITBURST_NAME_213000206^Sovereign Fist^至高神拳^룰러 피스트^Poing du Tyran^Überlegene Faust^Puño feroz
 MST_LIMITBURST_NAME_213000304^Death^致命一擊^데스^Mort^Tod^Necro
 MST_LIMITBURST_NAME_213000305^Death^致命一擊^데스^Mort^Tod^Necro
-MST_LIMITBURST_NAME_213000403^Desperado^冷酷絕望^무법자의 난동^Desperado^Desperado^Desperado
-MST_LIMITBURST_NAME_213000404^Desperado^冷酷絕望^무법자의 난동^Desperado^Desperado^Desperado
-MST_LIMITBURST_NAME_213000405^Desperado^冷酷絕望^무법자의 난동^Desperado^Desperado^Desperado
+MST_LIMITBURST_NAME_213000403^Cold Blood^冷酷絕望^무법자의 난동^Desperado^Desperado^Desperado
+MST_LIMITBURST_NAME_213000404^Cold Blood^冷酷絕望^무법자의 난동^Desperado^Desperado^Desperado
+MST_LIMITBURST_NAME_213000405^Cold Blood^冷酷絕望^무법자의 난동^Desperado^Desperado^Desperado
 MST_LIMITBURST_NAME_213000504^Last Resort^最後樂園^라스트 리조트^Punition céleste^Letzter Ausweg ^Último recurso
 MST_LIMITBURST_NAME_213000505^Last Resort^最後樂園^라스트 리조트^Punition céleste^Letzter Ausweg^Último recurso
 MST_LIMITBURST_NAME_213000603^Highwind^強勁神風^하이윈드^Queue du Dragon^Highwind^Viento fuerte
@@ -325,17 +325,17 @@ MST_LIMITBURST_NAME_205000106^Brave Blade^勇者利劍^용기의 검^Lame des br
 MST_LIMITBURST_NAME_205000706^Grand Cross^大十字^그랜드 크로스^Croix suprême^Supernova^Gran cruz
 MST_LIMITBURST_NAME_205000505^Gaia's Blessing^森羅萬象的恩賜^삼라만상의 은혜^Grâce de Gaïa^Gaias Segen^Bendición de Gaia
 MST_LIMITBURST_NAME_205000305^Daybreak Slash^拂曉劍^새벽의 검^Lame de l'aube^Dämmerklinge^Tajo del alba
-MST_LIMITBURST_NAME_254000205^Divine Judgment^十字審判^성령의 심판^Croix du jugement^Göttliches Urteil^Iudicium Crux
-MST_LIMITBURST_NAME_254000206^Divine Judgment^十字審判^성령의 심판^Croix du jugement^Göttliches Urteil^Iudicium Crux
-MST_LIMITBURST_NAME_254000304^Laser Lance^直擊長槍^스트라이크 랜서^Lancer brutal^Laserlanze^Venablo fatal
-MST_LIMITBURST_NAME_254000305^Laser Lance^直擊長槍^스트라이크 랜서^Lancer brutal^Laserlanze^Venablo fatal
-MST_LIMITBURST_NAME_254000306^Laser Lance^直擊長槍^스트라이크 랜서^Lancer brutal^Laserlanze^Venablo fatal
-MST_LIMITBURST_NAME_254000503^Earthquake^大地天震^어스퀘이크^Choc sismique^Erdbeben^Terremoto
-MST_LIMITBURST_NAME_254000504^Earthquake^大地天震^어스퀘이크^Choc sismique^Erdbeben^Terremoto
-MST_LIMITBURST_NAME_254000505^Earthquake^大地天震^어스퀘이크^Choc sismique^Erdbeben^Terremoto
-MST_LIMITBURST_NAME_254001003^Sacrificial Slug^捨身拳^필사의 펀치^Poing périlleux^Berserkerprügel^Golpe del mártir
-MST_LIMITBURST_NAME_254001004^Sacrificial Slug^捨身拳^필사의 펀치^Poing périlleux^Berserkerprügel^Golpe del mártir
-MST_LIMITBURST_NAME_254001005^Sacrificial Slug^捨身拳^필사의 펀치^Poing périlleux^Berserkerprügel^Golpe del mártir
+MST_LIMITBURST_NAME_254000205^Divine Judgment^十字審判^크로스 저지^Croix du jugement^Richtkreuz^Iudicium Crux
+MST_LIMITBURST_NAME_254000206^Divine Judgment^十字審判^크로스 저지^Croix du jugement^Richtkreuz^Iudicium Crux
+MST_LIMITBURST_NAME_254000304^Laser Lance^直擊長槍^스트라이크 랜서^Lancer brutal^Kraftspeer^Venablo fatal
+MST_LIMITBURST_NAME_254000305^Laser Lance^直擊長槍^스트라이크 랜서^Lancer brutal^Kraftspeer^Venablo fatal
+MST_LIMITBURST_NAME_254000306^Laser Lance^直擊長槍^스트라이크 랜서^Lancer brutal^Kraftspeer^Venablo fatal
+MST_LIMITBURST_NAME_254000503^Earthquake^大地天震^어스퀘이크^Choc sismique^Erderschütterung^Terremoto
+MST_LIMITBURST_NAME_254000504^Earthquake^大地天震^어스퀘이크^Choc sismique^Erderschütterung^Terremoto
+MST_LIMITBURST_NAME_254000505^Earthquake^大地天震^어스퀘이크^Choc sismique^Erderschütterung^Terremoto
+MST_LIMITBURST_NAME_254001003^Sacrificial Slug^捨身拳^새크리파이스 펀치^Poing périlleux^Verzweiflungsschlag^Golpe del mártir
+MST_LIMITBURST_NAME_254001004^Sacrificial Slug^捨身拳^새크리파이스 펀치^Poing périlleux^Verzweiflungsschlag^Golpe del mártir
+MST_LIMITBURST_NAME_254001005^Sacrificial Slug^捨身拳^새크리파이스 펀치^Poing périlleux^Verzweiflungsschlag^Golpe del mártir
 MST_LIMITBURST_NAME_100000106^Shining Nova^閃光新星^새벽의 광휘^Nova étincelante^Novaglanz^Nova deslumbrante
 MST_LIMITBURST_NAME_100004606^Phantom Blade^幻夢瞬迅斬^환몽순신참^Lame fantôme^Phantomklinge^Hoja fantasma
 MST_LIMITBURST_NAME_100000315^Hell's Judgment^地獄審判^지옥의 심판^Juge des Enfers^Höllischer Richtspruch^Juicio infernal
@@ -360,7 +360,7 @@ MST_LIMITBURST_NAME_302000605^Scarlet Reaper^緋紅死神^스칼렛 리퍼^Fauch
 MST_LIMITBURST_NAME_302000606^Soul Eclipse^蝕魂^소울 이클립스^Éclipse spirituelle^Seelenfinsternis^Eclipse de alma
 MST_LIMITBURST_NAME_302000505^Endless^無盡^엔드리스^Infinité^Endlos^Infinito
 MST_LIMITBURST_NAME_302000506^Endless^無盡^엔드리스^Infinité^Endlos^Infinito
-MST_LIMITBURST_NAME_202000305^Gaia's Howl^大地咆哮^대지의 포효^Grondement de Gaïa^Gaias Brüllen^Rugido de Gaia
+MST_LIMITBURST_NAME_202000305^Gaia's Howl^大地咆哮^대지의 포효^Grondement de Gaïa^Gaias Brüllen^Aullido de Gaia
 MST_LIMITBURST_NAME_100000703^Donnerschlag^雷電一擊^천둥벼락^Éclair rebelle^Donnerschlag^Relámpago rebelde
 MST_LIMITBURST_NAME_100000704^Blitzkrieg^閃電一擊^전격전^Éclair libérateur ^Blitzkrieg^Trueno liberador
 MST_LIMITBURST_NAME_100000705^Revolution^革命之雷^혁명의 번개^Révolution^Revolution^Rayo revolucionario
@@ -397,17 +397,17 @@ MST_LIMITBURST_NAME_306000405^Blast Beam^暴風射線^블래스트 광선^Rayon 
 MST_LIMITBURST_NAME_306000503^Meditate^冥想^명상^Méditation ^Meditieren^Meditación
 MST_LIMITBURST_NAME_306000504^Meditate^冥想^명상^Méditation ^Meditieren^Meditación
 MST_LIMITBURST_NAME_306000505^Meditate^冥想^명상^Méditation ^Meditieren^Meditación
-MST_LIMITBURST_NAME_306000603^Royal Stomp^皇家重踏^왕의 발구르기^Piétinement royal ^Königlicher Stampfer^Aplastamiento real
-MST_LIMITBURST_NAME_306000604^Royal Stomp^皇家重踏^왕의 발구르기^Piétinement royal ^Königlicher Stampfer^Aplastamiento real
-MST_LIMITBURST_NAME_306000605^Royal Stomp^皇家重踏^왕의 발구르기^Piétinement royal ^Königlicher Stampfer^Aplastamiento real
+MST_LIMITBURST_NAME_306000603^Royal Stomp^皇家重踏^왕의 발구르기^Piétinement royal ^Königsstampfer^Aplastamiento real
+MST_LIMITBURST_NAME_306000604^Royal Stomp^皇家重踏^왕의 발구르기^Piétinement royal ^Königsstampfer^Aplastamiento real
+MST_LIMITBURST_NAME_306000605^Royal Stomp^皇家重踏^왕의 발구르기^Piétinement royal ^Königsstampfer^Aplastamiento real
 MST_LIMITBURST_NAME_306000204^Fiery Purge^煉獄火焰^지옥의 화염^Purge féroce ^Feurige Säuberung^Purga feroz
 MST_LIMITBURST_NAME_306000205^Fiery Purge^煉獄火焰^지옥의 화염^Purge féroce ^Feurige Säuberung^Purga feroz
 MST_LIMITBURST_NAME_306000206^Fiery Purge^煉獄火焰^지옥의 화염^Purge féroce ^Feurige Säuberung^Purga feroz
-MST_LIMITBURST_NAME_306000303^Call for Backup^呼叫小弟^졸개 호출^Appel antique ^Uralter Ruf^Llamada antigua
-MST_LIMITBURST_NAME_306000304^Call for Backup^呼叫小弟^졸개 호출^Appel antique ^Uralter Ruf^Llamada antigua
-MST_LIMITBURST_NAME_306000305^Call for Backup^呼叫小弟^졸개 호출^Appel antique ^Uralter Ruf^Llamada antigua
-MST_LIMITBURST_NAME_306000804^Metal Armguard^金屬防禦^메탈 가드^Coudière d'Acier^Metallarmschutz^Guardia metálica
-MST_LIMITBURST_NAME_306000805^Metal Armguard^金屬防禦^메탈 가드^Coudière d'Acier^Metallarmschutz^Guardia metálica
+MST_LIMITBURST_NAME_306000303^Call for Backup^呼叫小弟^부하 호출^Appel antique ^Lakaien rufen^Llamada antigua
+MST_LIMITBURST_NAME_306000304^Call for Backup^呼叫小弟^부하 호출^Appel antique ^Lakaien rufen^Llamada antigua
+MST_LIMITBURST_NAME_306000305^Call for Backup^呼叫小弟^부하 호출^Appel antique ^Lakaien rufen^Llamada antigua
+MST_LIMITBURST_NAME_306000804^Metal Guard^金屬防禦^메탈 가드^Coudière d'Acier^Metallschutz^Guardia metálica
+MST_LIMITBURST_NAME_306000805^Metal Guard^金屬防禦^메탈 가드^Coudière d'Acier^Metallschutz^Guardia metálica
 MST_LIMITBURST_NAME_201000106^Crystal Saber^水晶之劍^크리스탈의 수호자^Sabre de cristal ^Kristallsäbel^Sable de cristal
 MST_LIMITBURST_NAME_201000206^Vagrant Soul^混沌之靈^혼돈의 영혼^Âme de Chaos^Chaosgeist^Alma del caos
 MST_LIMITBURST_NAME_100005604^Imperial Raid^皇帝侵略^황제의 침략^Invasion impériale ^Imperialer Raubzug^Invasión imperial
@@ -485,12 +485,12 @@ MST_LIMITBURST_NAME_100006706^Secret Ingredient^秘製調配藥^비밀의 조합
 MST_LIMITBURST_NAME_100006603^Burying Slash^水地靈劍·葬^물과 땅의 영검^Direct au cimetière ^Grabesschlag^Cuchillada enterradora
 MST_LIMITBURST_NAME_100006604^Burying Slash^水地靈劍·葬^물과 땅의 영검^Direct au cimetière ^Grabesschlag^Cuchillada enterradora
 MST_LIMITBURST_NAME_100006605^Burying Slash^水地靈劍·葬^물과 땅의 영검^Direct au cimetière ^Grabesschlag^Cuchillada enterradora
-MST_LIMITBURST_NAME_210000704^Hyper Mighty G^卓越非凡G^하이퍼 마이티 가드^Barrière Ultime G^Hypergravitation^Barrera total ++
-MST_LIMITBURST_NAME_210000705^Hyper Mighty G^卓越非凡G^하이퍼 마이티 가드^Barrière Ultime G^Hypergravitation^Barrera total ++
-MST_LIMITBURST_NAME_210000706^Hyper Mighty G^卓越非凡G^하이퍼 마이티 가드^Barrière Ultime G^Hypergravitation^Barrera total ++
-MST_LIMITBURST_NAME_210000303^Attack Reels^攻擊轉軸^어택 릴^Combos^Angriffsrollen^Ruleta de chutes
-MST_LIMITBURST_NAME_210000304^Attack Reels^攻擊轉軸^어택 릴^Combos^Angriffsrollen^Ruleta de chutes
-MST_LIMITBURST_NAME_210000305^Attack Reels^攻擊轉軸^어택 릴^Combos^Angriffsrollen^Ruleta de chutes
+MST_LIMITBURST_NAME_210000704^Hyper Mighty G^卓越非凡G^하이퍼 마이티 가드^S-garde impénétrable^Unfallschutz^Barrera total ++
+MST_LIMITBURST_NAME_210000705^Hyper Mighty G^卓越非凡G^하이퍼 마이티 가드^S-garde impénétrable^Unfallschutz^Barrera total ++
+MST_LIMITBURST_NAME_210000706^Hyper Mighty G^卓越非凡G^하이퍼 마이티 가드^S-garde impénétrable^Unfallschutz^Barrera total ++
+MST_LIMITBURST_NAME_210000303^Attack Reels^攻擊轉軸^어택 릴^Combos^Angriffs-T^Ruleta de chutes
+MST_LIMITBURST_NAME_210000304^Attack Reels^攻擊轉軸^어택 릴^Combos^Angriffs-T^Ruleta de chutes
+MST_LIMITBURST_NAME_210000305^Attack Reels^攻擊轉軸^어택 릴^Combos^Angriffs-T^Ruleta de chutes
 MST_LIMITBURST_NAME_212000505^Element of Treachery^謀逆之相位星^역모의 아스팩트^Impact astral^Element der Tücke^Impacto astral
 MST_LIMITBURST_NAME_212000506^Element of Treachery^謀逆之相位星^역모의 아스팩트^Impact astral^Element der Tücke^Impacto astral
 MST_LIMITBURST_NAME_212000204^Maelstrom's Bolt^天鼓雷音閃電斬^천고뇌음섬전참^Fulmination^Mahlstromschlag^Resplandor sagrado
@@ -557,8 +557,8 @@ MST_LIMITBURST_NAME_253000906^Divine Blade^神聖之刃^신성검^Lame divine^G�
 MST_LIMITBURST_NAME_253001204^Celestial stasis^星天停止^성천정지^Stase céleste^Himmlische Stase^Estasis celestial
 MST_LIMITBURST_NAME_253001205^Celestial stasis^星天停止^성천정지^Stase céleste^Himmlische Stase^Estasis celestial
 MST_LIMITBURST_NAME_253001206^Celestial stasis^星天停止^성천정지^Stase céleste^Himmlische Stase^Estasis celestial
-MST_LIMITBURST_NAME_253000306^Stasis Sword^不動無明劍^부동무명검^Lame du jugement^Gerechtigkeitsschwert^Hoja inamovible
-MST_LIMITBURST_NAME_253000506^Night Sword^暗影劍^어둠의 검^Lame nuit^Schattenklinge^Espada sombría
+MST_LIMITBURST_NAME_253000306^Judgment Blade^不動無明劍^부동무명검^Lame du jugement^Gerechtigkeitsschwert^Hoja inamovible
+MST_LIMITBURST_NAME_253000506^Shadowblade^暗影劍^어둠의 검^Lame nuit^Schattenklinge^Espada sombría
 MST_LIMITBURST_NAME_100007705^Seal of Conviction^斷罪刻印^단죄의 각인^Sceau de conviction^Siegel der Überzeugung^Sello penitente
 MST_LIMITBURST_NAME_100007706^Seal of Conviction^斷罪刻印^단죄의 각인^Sceau de conviction^Siegel der Überzeugung^Sello penitente
 MST_LIMITBURST_NAME_100008005^Burning Hellfire^狂猛獄炎^맹렬한 지옥불^Feu de l'enfer^Brennendes Höllenfeuer^Fuego del averno
@@ -713,9 +713,9 @@ MST_LIMITBURST_NAME_100009206^Kupolkan Power^庫啵露卡之力^쿠포르칸의 
 MST_LIMITBURST_NAME_100009604^White Night^夢現白夜^꿈이 실현되는 하얀 밤^Nuit immaculée^Weiße Nacht^Noche blanca
 MST_LIMITBURST_NAME_100009605^White Night^夢現白夜^꿈이 실현되는 하얀 밤^Nuit immaculée^Weiße Nacht^Noche blanca
 MST_LIMITBURST_NAME_100009606^White Night^夢現白夜^꿈이 실현되는 하얀 밤^Nuit immaculée^Weiße Nacht^Noche blanca
-MST_LIMITBURST_NAME_100009704^Dimensional Feast^次元饗宴^차원의 축제^Festivités dimensionnelles^Dimensionsfest^Festejo dimensional
-MST_LIMITBURST_NAME_100009705^Dimensional Feast^次元饗宴^차원의 축제^Festivités dimensionnelles^Dimensionsfest^Festejo dimensional
-MST_LIMITBURST_NAME_100009706^Dimensional Feast^次元饗宴^차원의 축제^Festivités dimensionnelles^Dimensionsfest^Festejo dimensional
+MST_LIMITBURST_NAME_100009704^Dimensional Fist^次元饗宴^차원의 축제^Coup de poing dimensionnel^Dimensionsfaust^Puño dimensional
+MST_LIMITBURST_NAME_100009705^Dimensional Fist^次元饗宴^차원의 축제^Coup de poing dimensionnel^Dimensionsfaust^Puño dimensional
+MST_LIMITBURST_NAME_100009706^Dimensional Fist^次元饗宴^차원의 축제^Coup de poing dimensionnel^Dimensionsfaust^Puño dimensional
 MST_LIMITBURST_NAME_215000205^Impulse^增幅衝擊^라이징 임펄스^Éradication^Steigender Impuls^Erradicación
 MST_LIMITBURST_NAME_215000206^Impulse^增幅衝擊^라이징 임펄스^Éradication^Steigender Impuls^Erradicación
 MST_LIMITBURST_NAME_215000304^Lion's Roar^獅吼^사자후^Rugissement du lion^Löwengebrüll^Corazón de león
@@ -738,7 +738,7 @@ MST_LIMITBURST_NAME_100011105^Dragon's Dance^龍神之舞^용신의 춤^Danse de
 MST_LIMITBURST_NAME_100011203^Assault Raid^龍騎槍衝鋒突擊^용의 창 어설트 레이드^Raid violent^Raubangriff^Asalto
 MST_LIMITBURST_NAME_100011204^Assault Raid^龍騎槍衝鋒突擊^용의 창 어설트 레이드^Raid violent^Raubangriff^Asalto
 MST_LIMITBURST_NAME_100011205^Assault Raid^龍騎槍衝鋒突擊^용의 창 어설트 레이드^Raid violent^Raubangriff^Asalto
-MST_LIMITBURST_NAME_209000106^Grand Lethal^大致死^그랜드 리설^Grand final^Ah Puch^Luminaria
+MST_LIMITBURST_NAME_209000106^Grand Lethal^大致死^그랜드 리설^Intrigue^Ah Puch^Luminaria
 MST_LIMITBURST_NAME_209000205^Flames of Ruin^終焉之炎^종말의 불꽃^Flammes du trépas^Todesflammen^Llamas de la ruina
 MST_LIMITBURST_NAME_209000206^Flames of Ruin^終焉之炎^종말의 불꽃^Flammes du trépas^Todesflammen^Llamas de la ruina
 MST_LIMITBURST_NAME_209000306^Guardian's Oath^誓願守護神^수호신에게 비는 소원^Serment divin^Wächterschwur^Juramento divino
@@ -884,9 +884,9 @@ MST_LIMITBURST_NAME_100012005^AL Type Light Particle Gun^AL式魔電粒子炮^AL
 MST_LIMITBURST_NAME_100012006^AL Type Light Particle Gun^AL式魔電粒子炮^AL식 마전입자포^Pistolet à particules de lum. type AL^AL-Typ Lichtpartikelgewehr^Pistola de partículas de luz tipo AL
 MST_LIMITBURST_NAME_100013305^Kaiser Verteidiger^皇帝守護^카이저 페어타이디거^Kaiser Verteidige^Imperator Protegit!^Kaiser Verteidige
 MST_LIMITBURST_NAME_100013306^Kaiser Verteidiger^皇帝守護^카이저 페어타이디거^Kaiser Verteidige^Imperator Protegit!^Kaiser Verteidige
-MST_LIMITBURST_NAME_100012104^Slowing Knife^緩速小刀^슬로잉 나이프^Couteau ralentisseur^Abbremsendes Messer^Cuchillada ralentizadora
-MST_LIMITBURST_NAME_100012105^Slowing Knife^緩速小刀^슬로잉 나이프^Couteau ralentisseur^Abbremsendes Messer^Cuchillada ralentizadora
-MST_LIMITBURST_NAME_100012106^Slowing Knife^緩速小刀^슬로잉 나이프^Couteau ralentisseur^Abbremsendes Messer^Cuchillada ralentizadora
+MST_LIMITBURST_NAME_100012104^Throwing Knife^緩速小刀^슬로잉 나이프^Couteau de lancer^Wurfmesser^Cuchillada voladora
+MST_LIMITBURST_NAME_100012105^Throwing Knife^緩速小刀^슬로잉 나이프^Couteau de lancer^Wurfmesser^Cuchillada voladora
+MST_LIMITBURST_NAME_100012106^Throwing Knife^緩速小刀^슬로잉 나이프^Couteau de lancer^Wurfmesser^Cuchillada voladora
 MST_LIMITBURST_NAME_100012304^Giant Wall^巨人墻^기간트 월^Mur géant^Gigantische Mauer^Muro gigante
 MST_LIMITBURST_NAME_100012305^Giant Wall^巨人墻^기간트 월^Mur géant^Gigantische Mauer^Muro gigante
 MST_LIMITBURST_NAME_100012306^Giant Wall^巨人墻^기간트 월^Mur géant^Gigantische Mauer^Muro gigante

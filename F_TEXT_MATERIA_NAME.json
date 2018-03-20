@@ -217,17 +217,17 @@ MST_MATERIA_NAME_504205450^Fighter^鬥士^파이터^Combattant ^Kämpfer^Luchado
 MST_MATERIA_NAME_504205460^Seething Cauldron^溢滿魔力^넘치는 마력^Chaudron magique^Brodelnder Kessel^Fuente de magia
 MST_MATERIA_NAME_504205470^Swelling Power^充滿力量^차오르는 힘^Pouvoir débordant ^Anschwellende Kraft^Poder rebosante
 MST_MATERIA_NAME_504205490^Bushido - Freedom^奧義·天下御免^오의·천하공인^Bushido - Liberté ^Bushido - Freiheit^Bushido - Libertad
-MST_MATERIA_NAME_504205650^Champion Spirit^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504205980^Scorch^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504205880^Mighty Defense^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504206070^Instinctual Guard^翻訳不要^翻訳不要^NA^NA^NA
+MST_MATERIA_NAME_504205650^Champion Spirit^霸者的鬥氣^패자의 투기^Esprit de champion^So sehen Sieger aus!^Espíritu de campeón
+MST_MATERIA_NAME_504205980^Scorch^灼熱^작열^Brûlure^Hitzewelle^Quemadura
+MST_MATERIA_NAME_504205880^Mighty Defense^常時大防禦^항상 대방어^Super défense ^Mächtiger Abwehrchampion^Fortaleza
+MST_MATERIA_NAME_504206070^Instinctual Guard^防衛本能^방어 본능^Garde instinctive^Schutzinstinkt^Guardia instintiva
 MST_MATERIA_NAME_504200530^Thunder Blade^雷電劍^선더 검^Lame Foudre ^Blitz-Klinge^Hoja Electro
 MST_MATERIA_NAME_504201150^Armor Break^潰甲^아머 브레이크^Brise-armure^Panzerbrecher^Rompecoraza
-MST_MATERIA_NAME_504205710^Metal Slash^翻訳不要^翻訳不要^NA^NA^Golpe metálico
-MST_MATERIA_NAME_504205990^Hustle Dance^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504205660^Wave of Panic^翻訳不要^翻訳不要^NA^NA^NA
+MST_MATERIA_NAME_504205710^Metal Slash^金屬斬^메탈 베기^Lame de métal^Metallhieb^Estocada metálica
+MST_MATERIA_NAME_504205990^Hustle Dance^振奮之舞^허슬 댄스^Danse des soins^Muntermacher^Danza fogosa
+MST_MATERIA_NAME_504205660^Wave of Panic^暗之波動^어둠의 파동^Vague de panique^Welle der Panik^Onda de pánico
 MST_MATERIA_NAME_504101060^Undead Killer^驅靈^언데드 킬러^Tueur de morts-vivants^Weihrauch^Matazombis
-MST_MATERIA_NAME_504206080^Elemental Damage Down^翻訳不要^翻訳不要^NA^NA^NA
+MST_MATERIA_NAME_504206080^Elemental Damage Down^屬性傷害減少^속성 대미지 감소^Dégâts élémentaire ↓^Verringerter Elementarschaden^Daño elemental↓
 MST_MATERIA_NAME_504206270^Emperor's Majesty^皇帝的威嚴^황제의 위엄^Majesté impériale^Würde des Imperators^Solemnidad imperial
 MST_MATERIA_NAME_504206320^Heretic Abyss^魔道深淵^마도의 심연^Abysse hérétique^Häretischer Abgrund^Abismo hereje
 MST_MATERIA_NAME_504206390^Resuscitate^起死回生^기사회생^Résurrection ^Wiederbeleben^De las cenizas
@@ -635,7 +635,7 @@ MST_MATERIA_NAME_504213170^Water Resistance +20%^水屬性耐性+20%^마도사�
 MST_MATERIA_NAME_504226050^Mage's Hope^魔道士的祈願^^Espoir de mage^Wunsch des Ritters^Esperanza de caballero
 MST_MATERIA_NAME_504226041^Knight's Hope^騎士的祈願^기사의 소망^Espoir de chevalier^Wunsch des Magiers^Esperanza de mago
 MST_MATERIA_NAME_504226031^Ruling Fiend^裁決的惡魔^재정의 악마^Monstre dirigeant^Urteilssprechender Dämon^Fiera reinante
-MST_MATERIA_NAME_504226380^Hero's Vow - Darkness^英雄誓言·暗^영웅의 맹세·어둠^Vœu du héros - Ténèbres^Heldenschwur - Dunkel^Voto del héroe - Oscuridad
+MST_MATERIA_NAME_504226380^Hero's Vow - Dark^英雄誓言·暗^영웅의 맹세·어둠^Vœu du héros - Ténèbres^Heldenschwur - Dunkel^Voto del héroe - Oscuridad
 MST_MATERIA_NAME_1500000032^Cheerful Tune^輕快旋律^경쾌한 선율^Air enjoué^Fröhliche Melodie^Tono alegre
 MST_MATERIA_NAME_1500000033^Instrumental Flair^樂器天賦^연주자의 자질^Style instrumental^Instrumentales Flair^Estilo instrumental
 MST_MATERIA_NAME_1500000034^Magic Sanctuary^魔法聖殿^마법 성역^Sanctuaire magique^Magischer Zufluchtsort^Santuario mágico
@@ -645,6 +645,6 @@ MST_MATERIA_NAME_1500000037^Cowered Courage^懦夫的勇氣^소심한 용기^Cou
 MST_MATERIA_NAME_1500000038^Unmatched Wizardry^獨一魔道師^언매치드 위저드리^Sorcellerie implacable^Unerreichte Zauberei^Hechicería incontestable
 MST_MATERIA_NAME_1500000039^White Knight's Soul^白騎士之魂^백기사의 영혼^Âme de chevalier blanc^Seele des Weißen Ritters^Alma del caballero blanco
 MST_MATERIA_NAME_1500000040^Tomb Raider^古墓奇兵^툼 레이더^Pilleur de tombe^Tomb Raider^Cazador de tesoros
-MST_MATERIA_NAME_1500000044^Offensive Defense^^^^Offensive Abwehr^
 MST_MATERIA_NAME_1500000041^Power of the Sands^金沙之力^모래의 힘^Pouvoir des sables^Kraft des Sandes^Poder de las arenas
 MST_MATERIA_NAME_1500000043^Croft's Intuition^卡芙特的直覺^크로프트의 직감^Intuition des Croft^Crofts Intuition^Intuición de los Croft
+MST_MATERIA_NAME_1500000044^Offensive Defense^攻守一體^공세 방어^Défense offensive^Offensive Abwehr^Defensa ofensiva

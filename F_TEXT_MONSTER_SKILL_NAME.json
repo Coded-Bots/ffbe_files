@@ -210,7 +210,7 @@ MST_MONSTER_SKILL_NAME_140340^Matra Magic^馬特拉導彈^마트라 매직^Matra
 MST_MONSTER_SKILL_NAME_140350^Shadowflare^影核爆^섀도 플레어^Brasier d'ombre^Schattenfackel^Fulgor espectral
 MST_MONSTER_SKILL_NAME_140360^Homing Laser^導航射線^추적 레이저^Laser^Zielsuchlaser^Láser autoguiado
 MST_MONSTER_SKILL_NAME_140370^White Wind^白風^순백의 바람^Mistral^Weißer Wind^Viento blanco
-MST_MONSTER_SKILL_NAME_140380^Mighty Guard^強力守護^강력 방어^Protection suprême^Totalabwehr^Barrera total
+MST_MONSTER_SKILL_NAME_140380^Mighty Guard^強力守護^강력 방어^Garde impénétrable^Totalabwehr^Barrera total
 MST_MONSTER_SKILL_NAME_140390^Quasar^類星體^퀘이사^Quasar^Quasar^Quásar
 MST_MONSTER_SKILL_NAME_140400^Grand Delta^大三角^대삼각^Triangle des Bermudes^Superdelta^Gran delta
 MST_MONSTER_SKILL_NAME_140410^Angel Whisper^天使細語^천사의 속삭임^Soupir d'ange^Engelsflüstern^Voz de ángel
@@ -1072,21 +1072,21 @@ MST_MONSTER_SKILL_NAME_158100^Fizzle^瑪霍托恩^마호톤^Antimagie^Ätsch^Neg
 MST_MONSTER_SKILL_NAME_158110^Kafrizzle^美拉蓋亞^메라가이아^Gigaflamme^Schmurgel^Superataque ígneo
 MST_MONSTER_SKILL_NAME_158120^Kasizzle^貝基拉格恩^베기라곤^Mégacrame^Schmor^Superincendio
 MST_MONSTER_SKILL_NAME_158130^Midheal^貝霍伊米^베호이미^Soins partiels^Mittelheilung^Semicuración
-MST_MONSTER_SKILL_NAME_158140^Mind Barrier^精神壁障^마인드 배리어^Barrière mentale^^Barrera mental
-MST_MONSTER_SKILL_NAME_158150^Dragonlord's Wrath^龍王之怒^용왕의 분노^Colère de Lordragon^^Ira de Draconarius
+MST_MONSTER_SKILL_NAME_158140^Mind Barrier^精神壁障^마인드 배리어^Barrière mentale^Mentalbarriere^Barrera mental
+MST_MONSTER_SKILL_NAME_158150^Dragonlord's Wrath^龍王之怒^용왕의 분노^Colère de Lordragon^Zorn des Drachenfürsten^Ira de Draconarius
 MST_MONSTER_SKILL_NAME_158160^Channel Anger^魔力覺醒^마력 각성^Psychocanalisation^Aggressionstraining^Canalizar furia
-MST_MONSTER_SKILL_NAME_158170^Bite Off^撕咬^물어뜯기^Morsure profonde^^Mordisco desgarrador
-MST_MONSTER_SKILL_NAME_158180^Roar^咆哮^포효^Rugissement^^Rugido
+MST_MONSTER_SKILL_NAME_158170^Bite Off^撕咬^물어뜯기^Morsure profonde^Abbeißen^Mordisco desgarrador
+MST_MONSTER_SKILL_NAME_158180^Roar^咆哮^포효^Rugissement^Gebrüll^Rugido
 MST_MONSTER_SKILL_NAME_158190^Inferno^烈焰^거센 불길^Inferno^Inferno^Infierno
 MST_MONSTER_SKILL_NAME_158200^Wave of Panic^暗之波動^어둠의 파동^Vague de panique^Welle der Panik^Onda de pánico
 MST_MONSTER_SKILL_NAME_158210^Disruptive Wave^凍結波動^얼어붙은 파동^Perturbonde^Störwelle^Onda perjudicial
 MST_MONSTER_SKILL_NAME_158220^Sizz^基拉^기라^Crame^Knister^Miniincendio
-MST_MONSTER_SKILL_NAME_158230^Liquid metal slime ran away!^流浪金屬史萊姆 逃跑了！^하구레메탈은 도망쳤다!^Le gluant de mercure s'est échappé !^^¡Se escapó el burbujilimo metálico!
-MST_MONSTER_SKILL_NAME_158240^Magic Purification^淨化魔力^마력을 정화하다^Purification magique^^Purificación mágica
-MST_MONSTER_SKILL_NAME_158250^Dragonlord's ATK increased^龍王的 攻撃 提升了^용왕의 공격력이 상승했다^L'ATT de Lordragon a augmenté ^^ATQ de Draconarius↑
-MST_MONSTER_SKILL_NAME_158260^Dragonlord's DEF increased^龍王的 防禦 提升了^용왕의 방어력이 상승했다^La DEF de Lordragon a augmenté ^^DEF de Draconarius↑
-MST_MONSTER_SKILL_NAME_158270^Dragonlord's MAG increased^龍王的 魔力 提升了^용왕의 마력이 상승했다^La MAGIE de Lordragon a augmenté ^^MAG de Draconarius↑
-MST_MONSTER_SKILL_NAME_158280^Dragonlord's SPR increased^龍王的 精神 提升了^용왕의 정신력이 상승했다^La PSY de Lordragon a augmenté ^^ESP de Draconarius↑
+MST_MONSTER_SKILL_NAME_158230^Liquid metal slime ran away!^流浪金屬史萊姆 逃跑了！^하구레메탈은 도망쳤다!^Le gluant de mercure s'est échappé !^Flüssigmetallschleim ist geflohen!^¡Se escapó el burbujilimo metálico!
+MST_MONSTER_SKILL_NAME_158240^Magic Purification^淨化魔力^마력을 정화하다^Purification magique^Magische Reinigung^Purificación mágica
+MST_MONSTER_SKILL_NAME_158250^Dragonlord's ATK increased^龍王的 攻撃 提升了^용왕의 공격력이 상승했다^L'ATT de Lordragon a augmenté ^ANG des Drachenfürsten hat sich erhöht^ATQ de Draconarius incrementado
+MST_MONSTER_SKILL_NAME_158260^Dragonlord's DEF increased^龍王的 防禦 提升了^용왕의 방어력이 상승했다^La DEF de Lordragon a augmenté ^ABW des Drachenfürsten hat sich erhöht^DEF de Draconarius incrementado
+MST_MONSTER_SKILL_NAME_158270^Dragonlord's MAG increased^龍王的 魔力 提升了^용왕의 마력이 상승했다^La MAGIE de Lordragon a augmenté ^MAG des Drachenfürsten hat sich erhöht^MAG de Draconarius incrementado
+MST_MONSTER_SKILL_NAME_158280^Dragonlord's SPR increased^龍王的 精神 提升了^용왕의 정신력이 상승했다^La PSY de Lordragon a augmenté ^PSY des Drachenfürsten hat sich erhöht^ESP de Draconarius incrementado
 MST_MONSTER_SKILL_NAME_158290^Kafrizzle^美拉蓋亞^메라가이아^Mégaflamme^Schmurgel^Superataque ígneo
 MST_MONSTER_SKILL_NAME_158300^Scorch^灼熱^작열탄^Brûlure^Hitzewelle^Quemadura
 MST_MONSTER_SKILL_NAME_158310^Kafrizz^美拉佐瑪^메라조마^Mégaflamme^Zisch^Megaataque ígneo
@@ -2468,7 +2468,7 @@ MST_MONSTER_SKILL_NAME_171770^Mortibsorption^幻光吸收^환광 흡수^Régén�
 MST_MONSTER_SKILL_NAME_171780^Berserk Mode^狂暴^광폭화^Berserk^Berserker-Modus^Modo enloquecido
 MST_MONSTER_SKILL_NAME_171790^Bulldoze^衝撞^태클^Tacle^Tackle^Placaje
 MST_MONSTER_SKILL_NAME_171800^Guard^袒護^감싸기^Couvrir^Bodyguard^Proteger
-MST_MONSTER_SKILL_NAME_171810^Mighty Guard^強力守護^강력 방어^Protection suprême^Totalabwehr^Barrera total
+MST_MONSTER_SKILL_NAME_171810^Mighty Guard^強力守護^강력 방어^Garde impénétrable^Totalabwehr^Barrera total
 MST_MONSTER_SKILL_NAME_171820^Aqua Breath^流水吐息^아쿠아 숨결^Aquasouffle^Nasshauch^Vaho acuático
 MST_MONSTER_SKILL_NAME_171830^Bulldoze^衝撞^태클^Tacle^Tackle^Placaje
 MST_MONSTER_SKILL_NAME_171840^Guard^袒護^감싸기^Couvrir^Bodyguard^Proteger
@@ -3707,3 +3707,4 @@ MST_MONSTER_SKILL_NAME_900149^Bite Trial^撲咬試煉^물어뜯기^Épreuve de m
 MST_MONSTER_SKILL_NAME_900150^Serpent Glare^險狡閃光^노려보는 눈빛^Scintillement de vipère^Schlangenblick^Mirada viperina
 MST_MONSTER_SKILL_NAME_900151^Embers^餘火^불씨^Braise^Glut^Ascuas
 MST_MONSTER_SKILL_NAME_900152^Rest^小憩^휴식^Repos^Ruhen^Descanso
+MST_MONSTER_SKILL_NAME_900153^Congratulations, you have successfully participated in the raffle. Good Luck!^^^^^

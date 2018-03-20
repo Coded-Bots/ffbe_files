@@ -234,8 +234,8 @@ MST_QUESTSUB_NAME_102100401^An Otherworldly Beauty^地上的世界^바깥 세계
 MST_QUESTSUB_NAME_201300101^Phantom Spirit?^奇幻精靈？^환상의 정령?^Un esprit fantomatique ?^Phantomgeist?^¿Un espíritu fantasma?
 MST_QUESTSUB_NAME_201400101^Bonds Forever^永遠的羈絆^인연은 영원히^Un lien éternel ^Ewige Bande^Lazos para la eternidad
 MST_QUESTSUB_NAME_201400201^Footprints into the Past^歷史的足跡^역사의 발자취^Les traces du passé^Fußspuren in die Vergangenheit^Las huellas del pasado
-MST_QUESTSUB_NAME_201400301^Dual Wielder of the Sea 1^水陸二刀流劍士１^물과 땅의 쌍검사1^Deux guerriers de la mer 1^Doppelter Herrscher der See 1^A dos manos por el mar 1
-MST_QUESTSUB_NAME_201400302^Dual Wielder of the Sea 2^水陸二刀流劍士２^물과 땅의 쌍검사2^Deux guerriers de la mer 2^Doppelter Herrscher der See 2^A dos manos por el mar 2
+MST_QUESTSUB_NAME_201400301^Warrior of Earth and Sea 1^水陸二刀流劍士１^물과 땅의 쌍검사1^Guerrier sur terre et mer 1^Krieger von Land und Wasser 1^Guerrero del mar y la tierra 1
+MST_QUESTSUB_NAME_201400302^Warrior of Earth and Sea 2^水陸二刀流劍士２^물과 땅의 쌍검사2^Guerrier sur terre et mer 2^Krieger von Land und Wasser 2^Guerrero del mar y la tierra 2
 MST_QUESTSUB_NAME_102200101^A Stitch in Time Saves Nine^未雨綢繆^유비무환^On est jamais trop prudent ^Vorsicht ist besser als Nachsicht^La prudencia nunca yerra
 MST_QUESTSUB_NAME_201500101^Tunnel to Tomorrow^通向明天的坑道^내일로 이어지는 지하도^Un tunnel vers demain ^Tunnel ins Morgen^Un túnel al mañana
 MST_QUESTSUB_NAME_201500201^The Four Annoying Siblings^吵鬧的四兄弟^시끌벅적 4형제^Les quatre frères ^Die vier lästigen Geschwister^Cuatro hermanos pesados
@@ -309,7 +309,7 @@ MST_QUESTSUB_NAME_190200401^Monster Patrol Duty^魔物搜查令^마물 수사 �
 MST_QUESTSUB_NAME_190200501^Goken's Training^剛健的修行^고우켄의 수행^L'entraînement de Goken^Gokens Training^El entrenamiento de Goken
 MST_QUESTSUB_NAME_190200601^The Fight Within^與自己的戰鬥^나 자신과의 싸움^Combat intérieur^Der innere Kampf^La lucha interior
 MST_QUESTSUB_NAME_102600101^The Last Concern^最後的牽掛^마지막 근심^Le dernier souci^Die letzte Sorge^La última preocupación
-MST_QUESTSUB_NAME_202100101^Flash of the Blacksmith^鍛造師的靈感^대장장이의 번뜩임^L'éclair du forgeron^Der Augenblick des Waffenschmieds^La chispa del herrero
+MST_QUESTSUB_NAME_202100101^Searching for Inspiration^鍛造師的靈感^대장장이의 번뜩임^L'éclair du forgeron^Der Augenblick des Waffenschmieds^La chispa del herrero
 MST_QUESTSUB_NAME_202200101^Floating Island Challenge^挑戰漂浮島^부유섬을 향한 도전^Allez sur l'île flottant dans les airs - défi^Herausforderung - Schwebende Insel^El desafío de la isla flotante
 MST_QUESTSUB_NAME_102700101^The Busy Dragoon^忙碌的龍騎士^공사다망 용기사^Le dragonnier occupé^Der geschäftige Dragoner^El dragontino atareado
 MST_QUESTSUB_NAME_102700201^A Delicious Meal^美味的食物^맛좋은 식사^Un repas délicieux^Ein köstliches Mahl^Una comida deliciosa
@@ -345,9 +345,9 @@ MST_QUESTSUB_NAME_103100303^Further Developments 3^開發新技術３^신기술 
 MST_QUESTSUB_NAME_103100401^Hard to Swallow^良藥苦口^좋은 약은 입에 쓴 법^Dur à avaler^Gute Medizin schmeckt bitter^Difícil de tragar
 MST_QUESTSUB_NAME_103200101^Parts Hunter^籌集零件^부품 조달^Chasseur de pièces^Teilesammler^Cazador de partes
 MST_QUESTSUB_NAME_103300101^Materials Hunter^捕獲素材^재료 채집^Chasseur de matériaux^Materialienjäger^Cazador de materiales
-MST_QUESTSUB_NAME_103300201^Lost by the Adventurer 1^冒險家的遺失物１^모험가의 분실물１^Perdu par l'aventurier 1^Die Fundsachen des Abenteurers 1^Perdidos 1
-MST_QUESTSUB_NAME_103300202^Lost by the Adventurer 2^冒險家的遺失物２^모험가의 분실물２^Perdu par l'aventurier 2^Die Fundsachen des Abenteurers 2^Perdidos 2
-MST_QUESTSUB_NAME_103300203^Lost by the Adventurer 3^冒險家的遺失物３^모험가의 분실물３^Perdu par l'aventurier 3^Die Fundsachen des Abenteurers 3^Perdidos 3
+MST_QUESTSUB_NAME_103300201^Lost by the Adventurer 1^冒險家的遺失物１^모험가가 잊고 간 것１^Perdu par l'aventurier 1^Die Fundsachen des Abenteurers 1^Perdidos 1
+MST_QUESTSUB_NAME_103300202^Lost by the Adventurer 2^冒險家的遺失物２^모험가가 잊고 간 것２^Perdu par l'aventurier 2^Die Fundsachen des Abenteurers 2^Perdidos 2
+MST_QUESTSUB_NAME_103300203^Lost by the Adventurer 3^冒險家的遺失物３^모험가가 잊고 간 것３^Perdu par l'aventurier 3^Die Fundsachen des Abenteurers 3^Perdidos 3
 MST_QUESTSUB_NAME_103400101^Monster Cleanup^清除魔物^마물 소탕^Nettoyage de monstre^Schädlingsbekämpfung^Limpieza de monstruos
 MST_QUESTSUB_NAME_103400201^Miraculous Waters^奇蹟之水^기적의 물^Eaux miraculeuses^Wundersame Wasser^Aguas milagrosas
 MST_QUESTSUB_NAME_103500101^Target: Danger^討伐危險魔物^위험한 마물 처치^Cible : danger^Ziel: Gefahr^Objetivo: peligro
