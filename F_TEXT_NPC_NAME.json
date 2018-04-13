@@ -376,7 +376,7 @@ MST_NPC_NAME_100005400^Gohken^剛健^고우켄^Goken^Gohken^Gohken
 MST_NPC_NAME_100005500^Citra^希特拉^시트라^Citra^Citra^Citra
 MST_NPC_NAME_100005610^Sol^索菲拉^솔^Sol^Sol^Solfuego
 MST_NPC_NAME_100005700^Loren^洛倫^로렌^Loren ^Loren^Loren
-MST_NPC_NAME_100005800^Minister of Moogles^莫古利大臣^모그리 대신^Ministre des mogs ^Mogry-Minister^Ministro moguri
+MST_NPC_NAME_100005800^Mog Minister^莫古利大臣^모그리 대신^Ministre mog^Mogryminister^Ministro Moguri
 MST_NPC_NAME_100005900^Lawrence^勞倫斯^로렌스^Lawrence^Lawrence^Lawrence
 MST_NPC_NAME_100006000^Shade^謝德^셰이드^Shade^Shade^Shade
 MST_NPC_NAME_100006100^Roy^羅伊^로이^Roy^Roy^Roy
@@ -450,7 +450,7 @@ MST_NPC_NAME_100009700^Otogiri^音霧^오토기리^Otogiri^Otogiri^Otogiri
 MST_NPC_NAME_100009800^Cid^希德^시드^Cid^Cid^Cid
 MST_NPC_NAME_100009900^Folka^芙爾卡^폴카^Folka^Folka^Folka
 MST_NPC_NAME_100010000^Ignacio^伊格尼西奧^이그니시오^Ignacio^Ignacio^Ignacio
-MST_NPC_NAME_100010100^Zekehart^吉克哈特^지크하르트^Zekehart^Zekehart^Zekehart
+MST_NPC_NAME_100010100^Sieghard^吉克哈特^지크하르트^Sieghard^Sieghard^Sieghard
 MST_NPC_NAME_100010200^Cid's Wife^希德妻子^시드의 부인^Épouse de Cid^Cids Frau^Esposa de Cid
 MST_NPC_NAME_100010300^Mamir^馬米爾^마밀^Mamir^Mamir^Mamir
 MST_NPC_NAME_100011000^Cedona^賽德娜^세드나^Cédona^Cedona^Cedona
@@ -517,15 +517,15 @@ MST_NPC_NAME_100006700^Yego of the Gamma Star^三鬥星伊戈^삼성투사 이�
 MST_NPC_NAME_100006710^Yego of the Gamma Star^三鬥星伊戈^삼성투사 이고^Yego de l'étoile Gamma^Gamma-Stern-Yego^Yego de la estrella Gamma
 MST_NPC_NAME_100006720^Yego of the Gamma Star (Ride)^三鬥星伊戈（騎士）^삼성투사 이고 (라이드)^Yego de l'étoile Gamma (cavalier)^Gamma-Stern-Yego (Reiter)^Yego de la estrella Gamma (a caballo)
 MST_NPC_NAME_100006730^Yego of the Gamma Star (Ride)^三鬥星伊戈（騎士）^삼성투사 이고 (라이드)^Yego de l'étoile Gamma (cavalier)^Gamma-Stern-Yego (Reiter)^Yego de la estrella Gamma (a caballo)
-MST_NPC_NAME_100006900^Epsilon Star^五鬥星^오성투사^Epsilon^Epsilon-Stern^Estrella Epsilón
-MST_NPC_NAME_100007000^Zeta Star^六鬥星^육성투사^Étoile Epsilon^Zeta-Stern^Estrella Zeta
-MST_NPC_NAME_100007100^Eta Star^七鬥星^칠성투사^Étoile Zêta^Eta-Stern^Estrella Eta
-MST_NPC_NAME_100007300^Nagi of the Iota Star^九鬥星那岐^구성투사 나기^de l'étoile^Iota-Stern-Nagi^Nagi de la estrella Iota
-MST_NPC_NAME_100007400^Nazuu of the Kappa Star^十鬥星納茨^십성투사 나즈^Nagi de l'étoile Iota^Kappa-Stern-Nazuu^Nazuu de la estrella Kappa
-MST_NPC_NAME_100007500^Zolulu of the Lambda Star^十一鬥星佐魯魯^십일성투사 조루루^Nazuu de l'étoile Kappa^Lambda-Stern-Zolulu^Zolulu de la estrella Lambda
-MST_NPC_NAME_100007600^Delulu of the Mu Star^十二鬥星德魯魯^십이성투사 데루루^Zolulu de l'étoile Lambda^Mu-Stern-Delulu^Delulu de la estrella Mu
-MST_NPC_NAME_100007700^Nu Star^十三鬥星^십삼성투사^Delulu de l'étoile Mu^Nu-Stern^Estrella Nu
-MST_NPC_NAME_100008000^Pi Star^十六鬥星^십육성투사^Étoile Nu^Pi-Stern^Estrella Pi
+MST_NPC_NAME_100006900^Epsilon Star^五鬥星^오성투사^Étoile Epsilon^Epsilon-Stern^Estrella Epsilón
+MST_NPC_NAME_100007000^Zeta Star^六鬥星^육성투사^Étoile Zêta^Zeta-Stern^Estrella Zeta
+MST_NPC_NAME_100007100^Eta Star^七鬥星^칠성투사^Étoile Êta^Eta-Stern^Estrella Eta
+MST_NPC_NAME_100007300^Nagi of the Iota Star^九鬥星那岐^구성투사 나기^Nagi de l'étoile Iota^Iota-Stern-Nagi^Nagi de la estrella Iota
+MST_NPC_NAME_100007400^Nazuu of the Kappa Star^十鬥星納茨^십성투사 나즈^Nazuu de l'étoile Kappa^Kappa-Stern-Nazuu^Nazuu de la estrella Kappa
+MST_NPC_NAME_100007500^Zolulu of the Lambda Star^十一鬥星佐魯魯^십일성투사 조루루^Zolulu de l'étoile Lambda^Lambda-Stern-Zolulu^Zolulu de la estrella Lambda
+MST_NPC_NAME_100007600^Delulu of the Mu Star^十二鬥星德魯魯^십이성투사 데루루^Delulu de l'étoile Mu^Mu-Stern-Delulu^Delulu de la estrella Mu
+MST_NPC_NAME_100007700^Nu Star^十三鬥星^십삼성투사^Étoile Nu^Nu-Stern^Estrella Nu
+MST_NPC_NAME_100008000^Pi Star^十六鬥星^십육성투사^Étoile Pi^Pi-Stern^Estrella Pi
 MST_NPC_NAME_100010400^Fong^霍恩^혼^Fong^Fong^Fong
 MST_NPC_NAME_100010500^Palte^巴爾特^파르테^Palte^Palte^Palte
 MST_NPC_NAME_100010600^Kunshira^庫西拉^쿤시라^Kunshira^Kunshira^Kunshira

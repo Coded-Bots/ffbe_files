@@ -252,7 +252,7 @@ MST_MONSTER_NAME_301001000^Chimera^奇美拉^키마이라^Khimaira^Chimära^Quim
 MST_MONSTER_NAME_301002000^Gorgimera^強化奇美拉^슈퍼 키마이라^Méta-khimaira^Gochimära^Gorgimera
 MST_MONSTER_NAME_301011000^Behemoth^凶惡巨獸^베히모스^Béhémoth^Behemoth^Bégimo
 MST_MONSTER_NAME_301021000^Ifrit^伊弗利特^이프리트^Ifrit^Ifrit^Ifrit
-MST_MONSTER_NAME_301021001^Ifrit^伊弗利特^이프리트^Ifrit^Ifrit 2.0^Ifrit
+MST_MONSTER_NAME_301021001^Ifrit^伊弗利特^이프리트^Ifrit^Ifrit^Ifrit
 MST_MONSTER_NAME_301031000^Chocobo Eater^陸行鳥殺手^초코보 포식자^Dévoreur de chocobos^Chocogourmet^Comechocobos
 MST_MONSTER_NAME_301032000^Moogle Eater^莫古利殺手^모그리 포식자^Dévoreur de mogs^Mogryfresser^Comemoguris
 MST_MONSTER_NAME_302001000^Zu^祖^즈^Zu^Zuu^Zu
@@ -2179,8 +2179,8 @@ MST_MONSTER_NAME_203061001^King Slime^史萊姆王^킹 슬라임^Roi gluant^Kön
 MST_MONSTER_NAME_203061002^King Slime^史萊姆王^킹 슬라임^Roi gluant^Königsschleim^Limo rey
 MST_MONSTER_NAME_203061003^King Slime^史萊姆王^킹 슬라임^Roi gluant^Königsschleim^Limo rey
 MST_MONSTER_NAME_203061004^King Slime^史萊姆王^킹 슬라임^Roi gluant^Königsschleim^Limo rey
-MST_MONSTER_NAME_207051000^Orochi^八俁遠呂智^야마타노오로치^Yamata-no-orochi^Yamata-no-orochi^Orochi
-MST_MONSTER_NAME_207051001^Orochi^八俁遠呂智^야마타노오로치^Yamata-no-orochi^Yamata-no-orochi^Orochi
+MST_MONSTER_NAME_207051000^Orochi^八俁遠呂智^야마타노오로치^Orochi^Yamata-no-orochi^Orochi
+MST_MONSTER_NAME_207051001^Orochi^八俁遠呂智^야마타노오로치^Orochi^Yamata-no-orochi^Orochi
 MST_MONSTER_NAME_210061000^Gold Golem^黃金人^골드맨^Golem d'or^Goldgolem^Gólem de oro
 MST_MONSTER_NAME_105071001^Dragonlord^龍王^용왕^Lordragon^Drachenfürst^Draconarius
 MST_MONSTER_NAME_207021000^Dragonlord^龍王^용왕^Lordragon^Drachenfürst^Draconarius
@@ -4423,10 +4423,10 @@ MST_MONSTER_NAME_105171000^Thorn^索恩^손^Face^Son^Son
 MST_MONSTER_NAME_105171001^Thorn^索恩^손^Face^Son^Son
 MST_MONSTER_NAME_105171002^Thorn^索恩^손^Face^Son^Son
 MST_MONSTER_NAME_105171003^Thorn^索恩^손^Face^Son^Son
-MST_MONSTER_NAME_201161000^Bandersnatch^斑攫獸^밴더스내치^Bandsnatch^Bandersnatcher^Mal Bernardo
-MST_MONSTER_NAME_201161001^Bandersnatch^斑攫獸^밴더스내치^Bandsnatch^Bandersnatcher^Mal Bernardo
-MST_MONSTER_NAME_201161002^Bandersnatch^斑攫獸^밴더스내치^Bandsnatch^Bandersnatcher^Mal Bernardo
-MST_MONSTER_NAME_201161003^Bandersnatch^斑攫獸^밴더스내치^Bandsnatch^Bandersnatcher^Mal Bernardo
+MST_MONSTER_NAME_201161000^Bandersnatch^斑攫獸^밴더스내치^Bandsnatch^Wastigo^Mal Bernardo
+MST_MONSTER_NAME_201161001^Bandersnatch^斑攫獸^밴더스내치^Bandsnatch^Wastigo^Mal Bernardo
+MST_MONSTER_NAME_201161002^Bandersnatch^斑攫獸^밴더스내치^Bandsnatch^Wastigo^Mal Bernardo
+MST_MONSTER_NAME_201161003^Bandersnatch^斑攫獸^밴더스내치^Bandsnatch^Wastigo^Mal Bernardo
 MST_MONSTER_NAME_205661000^Beatrix^貝特麗克絲^베아트릭스^Béate^Beatrix^Beatrix
 MST_MONSTER_NAME_205661001^Beatrix^貝特麗克絲^베아트릭스^Béate^Beatrix^Beatrix
 MST_MONSTER_NAME_104028008^Golden Bomb^黃金炸彈^골든 봄^Bombo doré^Goldbomber^Bom dorado
@@ -4661,9 +4661,9 @@ MST_MONSTER_NAME_205691001^Biran Ronso^比朗‧隆索^비란 론조^Biran Ronso
 MST_MONSTER_NAME_205701000^Yenke Ronso^恩格‧隆索^엔케 론조^Yenke Ronso^Yenke Ronso^Yenke Ronso
 MST_MONSTER_NAME_205701001^Yenke Ronso^恩格‧隆索^엔케 론조^Yenke Ronso^Yenke Ronso^Yenke Ronso
 MST_MONSTER_NAME_108221000^Grenade^榴彈怪^그레네이드^Grenade^Granatenbomber^Granada
-MST_MONSTER_NAME_301131000^Grendel^格蘭戴爾^그렌델^Grendel^Grendel^Grendel
-MST_MONSTER_NAME_412041000^Seymour Flux^希摩爾終極變異體^시모어 종 이체^Seymour - Forme finale^Seymor Obscura^Seymour Beta
-MST_MONSTER_NAME_412041001^Seymour Flux^希摩爾終極變異體^시모어 종 이체^Seymour - Forme finale^Seymor Obscura^Seymour Beta
+MST_MONSTER_NAME_301131000^Grendel^格倫戴爾^그렌델^Grendel^Grendel^Grendel
+MST_MONSTER_NAME_412041000^Seymour Flux^希摩爾終極變異體^시모어 종 이체^Seymour Sublimé^Seymor Obscura^Seymour Beta
+MST_MONSTER_NAME_412041001^Seymour Flux^希摩爾終極變異體^시모어 종 이체^Seymour Sublimé^Seymor Obscura^Seymour Beta
 MST_MONSTER_NAME_401051002^Behemoth^凶惡巨獸^베히모스^Béhémoth^Behemoth^Bégimo
 MST_MONSTER_NAME_401051003^Behemoth^凶惡巨獸^베히모스^Béhémoth^Behemoth^Bégimo
 MST_MONSTER_NAME_205531002^Sol^索菲拉^솔^Sol^Sol^Solfuego
@@ -4861,11 +4861,11 @@ MST_MONSTER_NAME_103012933^Yellow Jelly^黃色膠質怪^노란 젤리^Flan jaune
 MST_MONSTER_NAME_101023933^Wild Nakk^野狼^사나운 늑대^Nakk sauvage^Wildhund^Nakk salvaje
 MST_MONSTER_NAME_101002934^Stunner^強襲鼠^스터너^Rat enragé^Narko-Ratte^Abrebocas
 MST_MONSTER_NAME_301031001^Chocobo Eater^陸行鳥殺手^초코보 포식자^Dévoreur de chocobos^Chocogourmet^Comechocobos
-MST_MONSTER_NAME_402011000^Garuda^風神迦樓羅^바람신 가루다^Garuda, dame du Vortex^Garuda, Dame des Vortex^Garuda, señora del vórtice
-MST_MONSTER_NAME_402011001^Garuda^風神迦樓羅^바람신 가루다^Garuda,^Garuda, Dame des Vortex^Garuda, señora del vórtice
-MST_MONSTER_NAME_402011002^Garuda^風神迦樓羅^바람신 가루다^Garuda, dame du Vortex^Garuda, Dame des Vortex^Garuda, señora del vórtice
-MST_MONSTER_NAME_402011003^Garuda^風神迦樓羅^바람신 가루다^Garuda, dame du Vortex^Garuda, Dame des Vortex^Garuda, señora del vórtice
-MST_MONSTER_NAME_402011004^Garuda^風神迦樓羅^바람신 가루다^Garuda, dame du Vortex^Garuda, Dame des Vortex^Garuda, señora del vórtice
+MST_MONSTER_NAME_402011000^Garuda^風神迦樓羅^바람신 가루다^Garuda^Garuda, Dame des Vortex^Garuda, señora del vórtice
+MST_MONSTER_NAME_402011001^Garuda^風神迦樓羅^바람신 가루다^Garuda^Garuda, Dame des Vortex^Garuda, señora del vórtice
+MST_MONSTER_NAME_402011002^Garuda^風神迦樓羅^바람신 가루다^Garuda^Garuda, Dame des Vortex^Garuda, señora del vórtice
+MST_MONSTER_NAME_402011003^Garuda^風神迦樓羅^바람신 가루다^Garuda^Garuda, Dame des Vortex^Garuda, señora del vórtice
+MST_MONSTER_NAME_402011004^Garuda^風神迦樓羅^바람신 가루다^Garuda^Garuda, Dame des Vortex^Garuda, señora del vórtice
 MST_MONSTER_NAME_202051000^Suparna^美翼^수파르나^Suparna^Suparna^Suparna
 MST_MONSTER_NAME_202061000^Chirada^妙翅^치라다^Chirada^Chirada^Chirada
 MST_MONSTER_NAME_110031000^Monolith^石塔^석탑^Monolithe^Monolith^Monolito
@@ -6033,3 +6033,14 @@ MST_MONSTER_NAME_900010429^Apep^阿佩普^아펩^Apep^Apep^Apep
 MST_MONSTER_NAME_900010430^Apep^阿佩普^아펩^Apep^Apep^Apep
 MST_MONSTER_NAME_900010431^Apep^阿佩普^아펩^Apep^Apep^Apep
 MST_MONSTER_NAME_900010432^King Apep^阿佩普王^킹 아펩^Roi Apep^König Apep^Rey Apep
+MST_MONSTER_NAME_900010433^Golden Bomb^黃金炸彈^골든 봄^Bombo doré^Goldbomber^Bom dorado
+MST_MONSTER_NAME_900010434^Crimson Elemental^深紅元素^진홍색 원소^Élémentaire pourpre^Purpurelementar^Ente escarlata
+MST_MONSTER_NAME_900010435^Aqua Elemental^水綠元素^물의 원소^Élémentaire cyan^Wasserling^Ente de agua
+MST_MONSTER_NAME_900010436^Dark Elemental^暗黑元素^어둠의 원소^Élémentaire obscur^Dunkelelementar^Ente oscuro
+MST_MONSTER_NAME_900010437^Yellow Elemental^金黃元素^노란 원소^Élémentaire jaune^Gelelementar^Ente amarillo
+MST_MONSTER_NAME_900010438^Red Elemental^火紅元素^붉은 원소^Élémentaire rouge^Rotling^Ente rojo
+MST_MONSTER_NAME_900010439^White Elemental^雪白元素^하얀 원소^Élémentaire blanc^Weißelementar^Ente blanco
+MST_MONSTER_NAME_900010440^Green Elemental^翠綠元素^초록색 원소^Élémentaire vert^Grünelementar^Ente verde
+MST_MONSTER_NAME_900010441^Black Elemental^漆黑元素^검정색 원소^Élémentaire noir^Schwarzelementar^Ente negro
+MST_MONSTER_NAME_900010442^Gil Snapper Family^金幣龜家族^길거북 패밀리^Famille de gilkhélone^Gilkröten-Familie^Familia guilonio
+MST_MONSTER_NAME_900010443^Metal Minituar King^金屬小仙人掌王^킹 메탈 미니텐^Mini pampinator roi^Königs-Mini-Metallkaktor^Rey mini cactilio de metal

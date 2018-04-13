@@ -173,14 +173,14 @@ MST_DUNGEONS_NAME_72507^When Fates Cross^交錯的命運^교차하는 운명^Des
 MST_DUNGEONS_NAME_72508^The Gathering^被召集的人們^모여든 자들^La congrégation^Die Versammlung^La congregación
 MST_DUNGEONS_NAME_72509^Mission Accepted^特命^특명^Mission acceptée ^Mission angenommen^Misión aceptada
 MST_DUNGEONS_NAME_72510^Woods of Miasma^充滿瘴氣的森林^독기로 가득한 숲^Fôret aux miasmes ^Gifthauchwälder^Bosques Miasmáticos
-MST_DUNGEONS_NAME_89931^Rebirth of the Intangir^沉睡的獅子降臨^잠자는 사자 강림^Renaissance du Intangir^Wiedergeburt des Schläfers^Renacimiento del Intangir
+MST_DUNGEONS_NAME_89931^Attack of the Intangir^沉睡的獅子降臨^잠자는 사자 강림^Attaque du Intangir^Angriff des Schläfers^El ataque del Intangir
 MST_DUNGEONS_NAME_89932^Surging Menace^蜂擁而至的強者們^몰려드는 강자들^Menace imminente^Wachsende Bedrohung^La amenaza se aproxima
-MST_DUNGEONS_NAME_89933^Attack of Antenolla^安忒諾拉降臨^안테노라 강림^Attaque d'Antenolla ^Antenollas Angriff^Ataque de la Antenolla
-MST_DUNGEONS_NAME_89934^Attack of the 2-Headed Dragon^雙頭巨龍降臨^투헤드 드래곤 강림^Attaque du Dragon à deux têtes^Angriff des zweiköpfigen Drachen^Ataque del Dragón bicéfalo
+MST_DUNGEONS_NAME_89933^Attack of Antenolla^安忒諾拉降臨^안테노라 강림^Attaque d'Antenolla ^Antenollas Angriff^El ataque de la Antenolla
+MST_DUNGEONS_NAME_89934^Attack of the 2-Headed Dragon^雙頭巨龍降臨^투헤드 드래곤 강림^Attaque du Dragon à deux têtes^Angriff des zweiköpfigen Drachen^El ataque del Dragón bicéfalo
 MST_DUNGEONS_NAME_89935^March of the Beasts^狂魔行進^광마의 행진^Le Défilé des Bêtes ^Marsch der Bestien^Desfile de titanes
-MST_DUNGEONS_NAME_89936^Gilgamesh's Offensive^吉爾伽美什降臨^길가메시 강림^Offensive de Gilgamesh^Gilgameschs Angriff^El ataque de Gilgamesh
+MST_DUNGEONS_NAME_89936^Attack of Gilgamesh^吉爾伽美什降臨^길가메시 강림^Attaque de Gilgamesh^Gilgameschs Angriff^El ataque de Gilgamesh
 MST_DUNGEONS_NAME_89937^Beasts of the Dark^暗夜魔物^어둠의 마물들^Bêtes des ténèbres ^Bestien der Dunkelheit^Bestias oscuras
-MST_DUNGEONS_NAME_89938^The Octopus Teacher^令人又愛又恨的章魚與大師^미워할 수 없는 문어 선생^Le poulpe et le maître^Der Oktupuslehrer^El pulpo y el maestro
+MST_DUNGEONS_NAME_89938^The Octopus and the Teacher^令人又愛又恨的章魚與大師^미워할 수 없는 문어와 선생님^Le poulpe et le maître^Oktopus und Meisterlehrer^El pulpo y el maestro
 MST_DUNGEONS_NAME_90005^A Frosty Offensive^速凍雪人襲擊^눈사람 습격^Combat en terres gelées^Frost schlägt zu^Ataque del homo glacialis aterrador
 MST_DUNGEONS_NAME_90006^Dread Frost Arrives^恐怖速凍雪人登場^공포의 눈사람 등장^Avènement du Bonhomme de l'Effroi^Drohfrost bricht herein^Venida del homo glacialis pavoroso
 MST_DUNGEONS_NAME_90007^Nian Beast Challenges!^挑戰年獸！^니안에게 도전하라!^Défi du Nian !^Nian-Bestie-Herausforderungen!^Desafío de la Bestia Nian
@@ -363,7 +363,7 @@ MST_DUNGEONS_NAME_76010^Once Again Someday^有緣再見^언젠가 또^Un autre j
 MST_DUNGEONS_NAME_89801^Chamber of Arms^十二武具之間^십이무구의 틈새^Chambre des armes^Waffenkammer^Cámara de las reliquias
 MST_DUNGEONS_NAME_89940^Wicked Moon^奸邪兇惡的紅月^사악한 붉은 달^Lune maléfique^Teufelsmond^La vil luna
 MST_DUNGEONS_NAME_89941^The Fallen Ice Bird^翩然而至的冰鳥^춤추는 빙조^L'oiseau de glace déchu ^Der gefallene Eisvogel^El pájaro de hielo caído
-MST_DUNGEONS_NAME_89942^The Legendary Stud^武勇巨角^용맹한 뿔^Le légendaire étalon^Der legendäre Hengst^El semental legendario
+MST_DUNGEONS_NAME_89942^The Legendary Stag^武勇巨角^용맹한 뿔^Le cerf légendaire^Der legendäre Hirsch^El ciervo legendario
 MST_DUNGEONS_NAME_90017^A Musical Showdown^音樂對決^MUSICAL SHOWDOWN^Une véritable performance musicale ^Ein musikalischer Wettkampf^Enfrentamiento musical
 MST_DUNGEONS_NAME_90018^The Tower of Zot^佐特塔^조트의 탑^Tour de Zott^Der Turm von Zot^Torre de Zot
 MST_DUNGEONS_NAME_90019^The Man in Black^黑衣男^검은 갑옷의 남자^L'homme en noir^Der Mann in Schwarz^El hombre de negro
@@ -386,8 +386,8 @@ MST_DUNGEONS_NAME_113112^Battlegrounds^決戰場^결전장^Champ de bataille^Ent
 MST_DUNGEONS_NAME_113113^Lutal Mine^魯塔爾廢坑^루탈 폐갱^Mine de Lutal^Lutal-Mine^Mina de Lutal
 MST_DUNGEONS_NAME_113114^Falfa Hill^法爾法丘陵^팔파 구릉^Colline de Falfa^Falfa-Hügel^Colina de Falfa
 MST_DUNGEONS_NAME_113115^Energy Transfer Station^能量轉換設施^에너지 변환 시설^Station de transfert d'énergie^Energietransfer-Station^Estación de transferencia de energía
-MST_DUNGEONS_NAME_113151^Ruins of the Water God^水神的遺跡^수신의 유적^Ruines du roi de l'eau^Ruinen des Wassergottes^Ruinas del rey del agua
-MST_DUNGEONS_NAME_114101^Crystallis Cave^克里斯塔里斯大洞穴^크리스탈리스 동굴^Cave de Crystallis^Höhle von Crystallis^Cueva de Cristalis
+MST_DUNGEONS_NAME_113151^Ruins of the Water God^水神的遺跡^수신의 유적^Ruines du dieu l'eau^Ruinen des Wassergottes^Ruinas del rey del agua
+MST_DUNGEONS_NAME_114101^Crystallis Cave^克里斯塔里斯大洞穴^크리스탈리스 동굴^Cave de Cristalis^Höhle von Crystallis^Cueva de Cristalis
 MST_DUNGEONS_NAME_114201^Quartz Sands^玻璃的沙漠^유리수정 사막^Désert de Quartz^Quartzwüste^Arenas de cuarzo
 MST_DUNGEONS_NAME_114202^City of Ash Anabeth^灰之街亞那貝斯^잿빛 도시 아나베스^Anabeth, ville de poussière^Stadt der Asche, Anabeth^Anabeth, ciudad de la ceniza
 MST_DUNGEONS_NAME_114203^Skylight Desert^天窗的沙漠^천창의 사막^Désert de la lumière céleste^Himmelstorwüste^Desierto de luz celeste
@@ -445,7 +445,7 @@ MST_DUNGEONS_NAME_78401^Latius Woods - Past^拉提烏斯之森・過去^라티�
 MST_DUNGEONS_NAME_76501^Kunshira and Wadow^庫西拉和瓦多^쿤시라와 와도우^Kushina et Wadow^Kunshira und Wadow^Kunshira y Wadow
 MST_DUNGEONS_NAME_76502^Two Strangers^兩個陌生人^두 사람의 외지인^Deux étrangers^Zwei Fremde^Dos extraños
 MST_DUNGEONS_NAME_76503^Loyal Hound^忠義的忍者犬^충의의 닌자견^Loyauté à tout prix^Der treue Wachhund^Sabueso fiel
-MST_DUNGEONS_NAME_76504^The Unpleasant Threesome^尷尬的三人^거북한 세 사람^Un trio malaisant^Ein unangenehmes Trio^Un trio molesto
+MST_DUNGEONS_NAME_76504^The Unpleasant Trio^尷尬的三人^거북한 세 사람^Un trio malaisant^Ein unangenehmes Trio^Un trio molesto
 MST_DUNGEONS_NAME_76505^Unending Discord^無法消除的爭執^사라지지 않는 불화^Dispute sans fin^Endlose Zwietracht^Discordia sinfín
 MST_DUNGEONS_NAME_76506^Kunshira's Determination^庫西拉的決心^쿤시라의 결심^La détermination de Kushina^Kunshiras Entschlossenheit^La determinación de Kunshira
 MST_DUNGEONS_NAME_76507^Reconciliation of the Beasts^獸人們的和解^수인들의 화해^Réconciliation entre bêtes^Versöhnung der Bestienmenschen^Reconciliación entre bestias
@@ -458,7 +458,7 @@ MST_DUNGEONS_NAME_77003^Cavern of Trials^試煉洞窟^시련의 동굴^La cavern
 MST_DUNGEONS_NAME_77004^Shera's Commandos^榭拉直屬遊擊隊^시엘라 직속 유격대^Le commando de Shera^Sheras Kommandoeinheit^El comando de Shera
 MST_DUNGEONS_NAME_77005^Escape from the Cavern^逃出洞窟^동굴 탈출^Fuite de la caverne^Flucht aus der Höhle^Escapando de la cueva
 MST_DUNGEONS_NAME_77006^The Followers' Reality^隨從的真相^심복의 진실^La vérité du disciple^Die Realität der Anhänger^La verdad sobre el súbdito
-MST_DUNGEONS_NAME_77007^Assassination on Emperor Shera^暗殺皇帝榭拉^시엘라 황제 암살^Assassinat de l'empereur Shera^Assassination von Imperator Shera^Asesinato del emperador Shera
+MST_DUNGEONS_NAME_77007^Assassination on Emperor Shera^暗殺皇帝榭拉^시엘라 황제 암살^Assassinat de l'empereur Shera^Ermordung von Imperator Shera^Asesinato del emperador Shera
 MST_DUNGEONS_NAME_77008^A New Era^新時代^새로운 시대^Une nouvelle ère^Eine neue Ära^Una nueva era
 MST_DUNGEONS_NAME_77009^Extra Stage 1^特別關卡1^엑스트라 스테이지 1^Niveau bonus 1^Bonusabschnitt 1^Misión extra 1
 MST_DUNGEONS_NAME_77010^Extra Stage 2^特別關卡2^엑스트라 스테이지 2^Niveau bonus 2^Bonusabschnitt 2^Misión extra 2
@@ -504,11 +504,11 @@ MST_DUNGEONS_NAME_78513^Cave of Crystals (Guard)^晶石的洞窟【防守】1^�
 MST_DUNGEONS_NAME_78514^Cave of Crystals (Tech)^晶石的洞窟【技巧】3^수정의 동굴 [기술]^Caverne de cristaux techniques^Höhle der Kristalle (Tech)^Cueva de los crists técnicos
 MST_DUNGEONS_NAME_78515^Cave of Crystals (Healing)^晶石的洞窟【治癒】^수정의 동굴 [치유]^Caverne de cristaux de soin^Höhle der Kristalle (Heilung)^Cueva de los crists curativos
 MST_DUNGEONS_NAME_78516^Cave of Crystals (Support)^晶石的洞窟【支援】^수정의 동굴 [지원]^Caverne de cristaux de soutien^Höhle der Kristalle (Unterstützung)^Cueva de los crists apoyadores
-MST_DUNGEONS_NAME_89728^True Rebirth of the White Dragon^白龍 真降臨^백룡 진강림^Super renaissance du Dragon blanc^Wahre Wiedergeburt des Weißdrachen^Renacimiento del Dragón Blanco II
-MST_DUNGEONS_NAME_89729^True Rebirth of the Demon Chimera^惡魔奇美拉 真降臨^데빌 키마이라 진강림^Super renaissance de la Khimaira démoniaque ^Wahre Wiedergeburt der Dämonenchimäre^Renacimiento de la Quimera demoníaca II
-MST_DUNGEONS_NAME_89730^True Rebirth of the Brachiosaur^腕龍 真降臨^브라키오 레이더스 진강림^Super renaissance du brachiosaure^Wahre Wiedergeburt des Vlakorados^Renacimiento del Braquiosaurio II
-MST_DUNGEONS_NAME_89731^True Rebirth of the Intangir^沉睡的獅子 真降臨^잠자는 사자 진강림^Super renaissance du Intangir^Wahre Wiedergeburt des Schläfers^Renacimiento del Intangir II
-MST_DUNGEONS_NAME_89732^True Rebirth of the Surging Menace^蜂擁而至的強者們 真降臨^몰려드는 강자들 진강림^Super menace imminente^Wahre Wiedergeburt der Wachsenden Bedrohung^Renacimiento de la amenaza se aproxima II
+MST_DUNGEONS_NAME_89728^Scorn of the White Dragon^白龍 真降臨^백룡 진강림^Mépris du Dragon blanc^Spott des Weißdrachen^El desprecio del Dragón Blanco
+MST_DUNGEONS_NAME_89729^Scorn of the Demon Chimera^惡魔奇美拉 真降臨^데빌 키마이라 진강림^Mépris de la Khimaira démoniaque ^Spott der Dämonenchimäre^El desprecio de la Quimera demoníaca
+MST_DUNGEONS_NAME_89730^Scorn of the Brachiosaur^腕龍 真降臨^브라키오 레이더스 진강림^Mépris du brachiosaure^Spott des Vlakorados^El desprecio del Braquiosaurio
+MST_DUNGEONS_NAME_89731^Scorn of the Intangir^沉睡的獅子 真降臨^잠자는 사자 진강림^Mépris du Intangir^Spott des Schläfers^El desprecio del Intangir
+MST_DUNGEONS_NAME_89732^Scorn of the Surging Menace^蜂擁而至的強者們 真降臨^몰려드는 강자들 진강림^Mépris de la menace imminente^Spott der Wachsenden Bedrohung^El desprecio de la amenaza se aproxima
 MST_DUNGEONS_NAME_89943^Armor of Oppression^強力襲來的鐵鎧^맹위를 떨치는 철갑옷^L'armure de l'oppression^Rüstung der Unterdrückung^La armadura opresora
 MST_DUNGEONS_NAME_89944^Great Explosion Festival^大爆炸慶典^대폭발 축제^Un festival explosif^Großes Explosionsfest^Un festival explosivo
 MST_DUNGEONS_NAME_90022^Dark Symphony^黑暗交響樂^어둠의 교향곡^Symphonie obscure^Dunkle Symphonie^Sinfonía tenebrosa
@@ -520,101 +520,123 @@ MST_DUNGEONS_NAME_90027^Festival of Love^愛之祭典^사랑의 축제^Festival 
 MST_DUNGEONS_NAME_90028^Kanshou and Bakuya^干將莫邪^간장과 막야^Kanshou et Bakuya^Kanshou und Bakuya^Kanshou y Bakuya
 MST_DUNGEONS_NAME_90029^Tomb of the Silversmith^銀匠之墓^은세공사의 무덤^Tombeau de l'Orfèvre^Grab des Silberschmieds^Tumba del platero
 MST_DUNGEONS_NAME_90030^God of Chaos^混沌之神^혼돈의 신^Dieu du chaos^Gott des Chaos^Dios del caos
-MST_DUNGEONS_NAME_90031^30 Million Download Raffle^^^^^
-MST_DUNGEONS_NAME_114303^^^^^^
-MST_DUNGEONS_NAME_115101^^^^^^
-MST_DUNGEONS_NAME_115102^^^^^^
-MST_DUNGEONS_NAME_115103^^^^^^
-MST_DUNGEONS_NAME_115104^^^^^^
-MST_DUNGEONS_NAME_115105^^^^^^
-MST_DUNGEONS_NAME_115106^^^^^^
-MST_DUNGEONS_NAME_115107^^^^^^
-MST_DUNGEONS_NAME_115108^^^^^^
-MST_DUNGEONS_NAME_115109^^^^^^
-MST_DUNGEONS_NAME_115110^^^^^^
-MST_DUNGEONS_NAME_115111^^^^^^
-MST_DUNGEONS_NAME_115112^^^^^^
-MST_DUNGEONS_NAME_115113^^^^^^
-MST_DUNGEONS_NAME_115114^^^^^^
-MST_DUNGEONS_NAME_115115^^^^^^
-MST_DUNGEONS_NAME_115116^^^^^^
-MST_DUNGEONS_NAME_115117^^^^^^
-MST_DUNGEONS_NAME_115118^^^^^^
-MST_DUNGEONS_NAME_115119^^^^^^
-MST_DUNGEONS_NAME_115120^^^^^^
-MST_DUNGEONS_NAME_115121^^^^^^
-MST_DUNGEONS_NAME_115122^^^^^^
-MST_DUNGEONS_NAME_115151^^^^^^
-MST_DUNGEONS_NAME_60017^^^^^^
-MST_DUNGEONS_NAME_60018^^^^^^
-MST_DUNGEONS_NAME_60019^^^^^^
-MST_DUNGEONS_NAME_78601^^^^^^
-MST_DUNGEONS_NAME_78701^^^^^^
-MST_DUNGEONS_NAME_78901^^^^^^
-MST_DUNGEONS_NAME_79001^^^^^^
-MST_DUNGEONS_NAME_79201^^^^^^
-MST_DUNGEONS_NAME_79301^^^^^^
-MST_DUNGEONS_NAME_79401^^^^^^
-MST_DUNGEONS_NAME_79501^^^^^^
-MST_DUNGEONS_NAME_79701^^^^^^
-MST_DUNGEONS_NAME_79801^^^^^^
-MST_DUNGEONS_NAME_79901^^^^^^
-MST_DUNGEONS_NAME_80001^^^^^^
-MST_DUNGEONS_NAME_80201^^^^^^
-MST_DUNGEONS_NAME_80301^^^^^^
-MST_DUNGEONS_NAME_80401^^^^^^
-MST_DUNGEONS_NAME_80501^^^^^^
-MST_DUNGEONS_NAME_79101^^^^^^
-MST_DUNGEONS_NAME_79102^^^^^^
-MST_DUNGEONS_NAME_79103^^^^^^
-MST_DUNGEONS_NAME_79104^^^^^^
-MST_DUNGEONS_NAME_79105^^^^^^
-MST_DUNGEONS_NAME_79106^^^^^^
-MST_DUNGEONS_NAME_79107^^^^^^
-MST_DUNGEONS_NAME_79108^^^^^^
-MST_DUNGEONS_NAME_79109^^^^^^
-MST_DUNGEONS_NAME_79110^^^^^^
-MST_DUNGEONS_NAME_79111^^^^^^
-MST_DUNGEONS_NAME_79112^^^^^^
-MST_DUNGEONS_NAME_79113^^^^^^
-MST_DUNGEONS_NAME_79114^^^^^^
-MST_DUNGEONS_NAME_79115^^^^^^
-MST_DUNGEONS_NAME_79116^^^^^^
-MST_DUNGEONS_NAME_79601^^^^^^
-MST_DUNGEONS_NAME_79602^^^^^^
-MST_DUNGEONS_NAME_79603^^^^^^
-MST_DUNGEONS_NAME_79604^^^^^^
-MST_DUNGEONS_NAME_79605^^^^^^
-MST_DUNGEONS_NAME_79606^^^^^^
-MST_DUNGEONS_NAME_79607^^^^^^
-MST_DUNGEONS_NAME_79608^^^^^^
-MST_DUNGEONS_NAME_79609^^^^^^
-MST_DUNGEONS_NAME_79610^^^^^^
-MST_DUNGEONS_NAME_79611^^^^^^
-MST_DUNGEONS_NAME_79612^^^^^^
-MST_DUNGEONS_NAME_79613^^^^^^
-MST_DUNGEONS_NAME_79614^^^^^^
-MST_DUNGEONS_NAME_79615^^^^^^
-MST_DUNGEONS_NAME_79616^^^^^^
-MST_DUNGEONS_NAME_79617^^^^^^
-MST_DUNGEONS_NAME_80101^^^^^^
-MST_DUNGEONS_NAME_80102^^^^^^
-MST_DUNGEONS_NAME_80103^^^^^^
-MST_DUNGEONS_NAME_80104^^^^^^
-MST_DUNGEONS_NAME_80105^^^^^^
-MST_DUNGEONS_NAME_80106^^^^^^
-MST_DUNGEONS_NAME_80107^^^^^^
-MST_DUNGEONS_NAME_80108^^^^^^
-MST_DUNGEONS_NAME_80109^^^^^^
-MST_DUNGEONS_NAME_80110^^^^^^
-MST_DUNGEONS_NAME_80111^^^^^^
-MST_DUNGEONS_NAME_80112^^^^^^
-MST_DUNGEONS_NAME_80113^^^^^^
-MST_DUNGEONS_NAME_80114^^^^^^
-MST_DUNGEONS_NAME_80115^^^^^^
-MST_DUNGEONS_NAME_80116^^^^^^
-MST_DUNGEONS_NAME_80117^^^^^^
-MST_DUNGEONS_NAME_89945^^^^^^
-MST_DUNGEONS_NAME_89946^^^^^^
-MST_DUNGEONS_NAME_89733^^^^^^
-MST_DUNGEONS_NAME_89734^^^^^^
+MST_DUNGEONS_NAME_90031^30 Million Downloads Raffle^3000萬下載 抽獎^3천만 다운로드 추첨^Tombola des 30 millions de téléchargements^30 Millionen Downloads Tombola^Sorteo por las 30 millones de descargas
+MST_DUNGEONS_NAME_90032^Vault of Hidden Treasures^秘密的寶物庫^비밀의 보물창고^Chambre secrète ^Geheimes Schließfach^La Cámara Secreta
+MST_DUNGEONS_NAME_114303^Ancient Ruins Level 2^^^^^
+MST_DUNGEONS_NAME_115101^Mizass Mountains^^^^^
+MST_DUNGEONS_NAME_115102^Arc Bay^^^^^
+MST_DUNGEONS_NAME_115103^Slumson Plains^^^^^
+MST_DUNGEONS_NAME_115104^Molera Flatlands^^^^^
+MST_DUNGEONS_NAME_115105^Camp Danacos^^^^^
+MST_DUNGEONS_NAME_115106^Savage Ruins^^^^^
+MST_DUNGEONS_NAME_115107^Madelle Bridge^^^^^
+MST_DUNGEONS_NAME_115108^Barriered Base^^^^^
+MST_DUNGEONS_NAME_115109^Grave of the Warriors^^^^^
+MST_DUNGEONS_NAME_115110^Grassy Road^^^^^
+MST_DUNGEONS_NAME_115111^Emerald Lake^^^^^
+MST_DUNGEONS_NAME_115112^Protta Forest^^^^^
+MST_DUNGEONS_NAME_115113^Rock Pile Hill^^^^^
+MST_DUNGEONS_NAME_115114^Ghastly Valley^^^^^
+MST_DUNGEONS_NAME_115115^Helmna Heights^^^^^
+MST_DUNGEONS_NAME_115116^Kudalaska Pass^^^^^
+MST_DUNGEONS_NAME_115117^Rilakka Grasslands^^^^^
+MST_DUNGEONS_NAME_115118^Fortress Outlook^^^^^
+MST_DUNGEONS_NAME_115119^Jima Wetlands^^^^^
+MST_DUNGEONS_NAME_115120^Vibrant Forest^^^^^
+MST_DUNGEONS_NAME_115121^Shrine of Prayers^^^^^
+MST_DUNGEONS_NAME_115122^Londell Road^^^^^
+MST_DUNGEONS_NAME_115151^Sacred Valley^^^^^
+MST_DUNGEONS_NAME_60017^Paladia Chapter III Part 1^^^^^
+MST_DUNGEONS_NAME_60018^Paladia Chapter III Part 2^^^^^
+MST_DUNGEONS_NAME_60019^Paladia Chapter III Part 3^^^^^
+MST_DUNGEONS_NAME_78601^Steel Castle Melfikya^^^^^
+MST_DUNGEONS_NAME_78701^Once Per Day 2nd Anniversary Raid^^^^^
+MST_DUNGEONS_NAME_78901^SeeD Field Test^^^^^
+MST_DUNGEONS_NAME_79001^Dorr - Exploration^^^^^
+MST_DUNGEONS_NAME_79201^Estark's Challenge^^^^^
+MST_DUNGEONS_NAME_79301^March on the Emperor of the Underworld^^^^^
+MST_DUNGEONS_NAME_79401^Shrine of Ru'Avitau^^^^^
+MST_DUNGEONS_NAME_79501^Shrine of Ru'Avitau - Exploration^^^^^
+MST_DUNGEONS_NAME_79701^Illustration Contest Round 2^^^^^
+MST_DUNGEONS_NAME_79801^Rats from the Gutters^^^^^
+MST_DUNGEONS_NAME_79901^Born to be King^^^^^
+MST_DUNGEONS_NAME_80001^Caestino Mines - Exploration^^^^^
+MST_DUNGEONS_NAME_80201^Lost City of Dipan^^^^^
+MST_DUNGEONS_NAME_80301^Tower of Lezard Valeth^^^^^
+MST_DUNGEONS_NAME_80401^Cliffs of Gaia^^^^^
+MST_DUNGEONS_NAME_80501^Gaia's Cliffs - Exploration^^^^^
+MST_DUNGEONS_NAME_79101^Domain^^^^^
+MST_DUNGEONS_NAME_79102^Soldiers on the Border^^^^^
+MST_DUNGEONS_NAME_79103^Expectations of the Servants^^^^^
+MST_DUNGEONS_NAME_79104^The Girl and the Coeurl^^^^^
+MST_DUNGEONS_NAME_79105^Vanquish Orders^^^^^
+MST_DUNGEONS_NAME_79106^General Offensive^^^^^
+MST_DUNGEONS_NAME_79107^Rescue Mission^^^^^
+MST_DUNGEONS_NAME_79108^Where We Belong^^^^^
+MST_DUNGEONS_NAME_79109^Cave of Crystals (Black)^^^^^
+MST_DUNGEONS_NAME_79110^Cave of Crystals (White)^^^^^
+MST_DUNGEONS_NAME_79111^Cave of Crystals (Green)^^^^^
+MST_DUNGEONS_NAME_79112^Cave of Crystals (Power)^^^^^
+MST_DUNGEONS_NAME_79113^Cave of Crystals (Guard)^^^^^
+MST_DUNGEONS_NAME_79114^Cave of Crystals (Tech)^^^^^
+MST_DUNGEONS_NAME_79115^Cave of Crystals (Healing)^^^^^
+MST_DUNGEONS_NAME_79116^Cave of Crystals (Support)^^^^^
+MST_DUNGEONS_NAME_79601^New Orders^^^^^
+MST_DUNGEONS_NAME_79602^Chatal and Domino^^^^^
+MST_DUNGEONS_NAME_79603^Assault on Hess's Hideout^^^^^
+MST_DUNGEONS_NAME_79604^Welling Doubts^^^^^
+MST_DUNGEONS_NAME_79605^The Betrayal^^^^^
+MST_DUNGEONS_NAME_79606^Hyoh's Plan^^^^^
+MST_DUNGEONS_NAME_79607^Truth Brought to Light^^^^^
+MST_DUNGEONS_NAME_79608^For You^^^^^
+MST_DUNGEONS_NAME_79609^Extra Stage^^^^^
+MST_DUNGEONS_NAME_79610^Cave of Crystals (Black)^^^^^
+MST_DUNGEONS_NAME_79611^Cave of Crystals (White)^^^^^
+MST_DUNGEONS_NAME_79612^Cave of Crystals (Green)^^^^^
+MST_DUNGEONS_NAME_79613^Cave of Crystals (Power)^^^^^
+MST_DUNGEONS_NAME_79614^Cave of Crystals (Guard)^^^^^
+MST_DUNGEONS_NAME_79615^Cave of Crystals (Tech)^^^^^
+MST_DUNGEONS_NAME_79616^Cave of Crystals (Healing)^^^^^
+MST_DUNGEONS_NAME_79617^Cave of Crystals (Support)^^^^^
+MST_DUNGEONS_NAME_80101^The Day of Release^^^^^
+MST_DUNGEONS_NAME_80102^The Ambitious Repairman^^^^^
+MST_DUNGEONS_NAME_80103^Thoughts Invoked^^^^^
+MST_DUNGEONS_NAME_80104^Citra Lost^^^^^
+MST_DUNGEONS_NAME_80105^Location of the Abducted^^^^^
+MST_DUNGEONS_NAME_80106^An Unfortunate Reunion^^^^^
+MST_DUNGEONS_NAME_80107^Silence Broken^^^^^
+MST_DUNGEONS_NAME_80108^True Darkness^^^^^
+MST_DUNGEONS_NAME_80109^Extra Stage^^^^^
+MST_DUNGEONS_NAME_80110^Cave of Crystals (Black)^^^^^
+MST_DUNGEONS_NAME_80111^Cave of Crystals (White)^^^^^
+MST_DUNGEONS_NAME_80112^Cave of Crystals (Green)^^^^^
+MST_DUNGEONS_NAME_80113^Cave of Crystals (Power)^^^^^
+MST_DUNGEONS_NAME_80114^Cave of Crystals (Guard)^^^^^
+MST_DUNGEONS_NAME_80115^Cave of Crystals (Tech)^^^^^
+MST_DUNGEONS_NAME_80116^Cave of Crystals (Healing)^^^^^
+MST_DUNGEONS_NAME_80117^Cave of Crystals (Support)^^^^^
+MST_DUNGEONS_NAME_89945^Ancient Hellbringer^^^^^
+MST_DUNGEONS_NAME_89946^Plant of the Deadly Venom^^^^^
+MST_DUNGEONS_NAME_89733^Scorn of Antenolla^^^^^
+MST_DUNGEONS_NAME_89734^Scorn of the 2-Headed Dragon^^^^^
+MST_DUNGEONS_NAME_89735^Scorn of the Beasts^^^^^
+MST_DUNGEONS_NAME_89801^Chamber of Arms^^^^^
+MST_DUNGEONS_NAME_89901^Chamber of the Reborn^^^^^
+MST_DUNGEONS_NAME_89921^Chamber of Trials^^^^^
+MST_DUNGEONS_NAME_89931^Attack of the Intangir^^^^^
+MST_DUNGEONS_NAME_89932^Surging Menace^^^^^
+MST_DUNGEONS_NAME_89933^Attack of Antenolla^^^^^
+MST_DUNGEONS_NAME_89934^Attack of the 2-Headed Dragon^^^^^
+MST_DUNGEONS_NAME_89935^March of the Beasts^^^^^
+MST_DUNGEONS_NAME_89936^Attack of Gilgamesh^^^^^
+MST_DUNGEONS_NAME_89937^Beasts of the Dark^^^^^
+MST_DUNGEONS_NAME_89938^The Octopus and the Teacher^^^^^
+MST_DUNGEONS_NAME_89939^Machina of Destruction^^^^^
+MST_DUNGEONS_NAME_89940^Wicked Moon^^^^^
+MST_DUNGEONS_NAME_89941^The Fallen Ice Bird^^^^^
+MST_DUNGEONS_NAME_89942^The Legendary Stag^^^^^
+MST_DUNGEONS_NAME_89943^Armor of Oppression^^^^^
+MST_DUNGEONS_NAME_89944^Great Explosion Festival^^^^^
+MST_DUNGEONS_NAME_89945^Ancient Hellbringer^^^^^
+MST_DUNGEONS_NAME_89946^Plant of the Deadly Venom^^^^^
+MST_DUNGEONS_NAME_89947^The Mad Dolll^^^^^

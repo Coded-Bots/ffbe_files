@@ -291,7 +291,7 @@ MST_ITEM_NAME_109205080^Black Key 9^漆黑之鍵9^칠흑의 열쇠9^Clé de l'ob
 MST_ITEM_NAME_109205090^Black Key 10^漆黑之鍵10^칠흑의 열쇠10^Clé de l'obscurité 10^Schwarzer Schlüssel 10^Llave Oscuridad 10
 MST_ITEM_NAME_106300600^Red Orb^赤之寶玉^붉은색 보옥^Orbe rouge ^Roter Orb^Joya roja
 MST_ITEM_NAME_106210100^Rat Tail^老鼠尾巴^생쥐 꼬리^Queue de rat ^Rattenschwänze^Cola de ratón
-MST_ITEM_NAME_106300700^Gold^黃金^골드^Pièces d'or^Goldmünzen^Oro en polvo puro
+MST_ITEM_NAME_106300700^Gold Coin^黃金^골드^Pièces d'or^Goldmünze^Oro en polvo puro
 MST_ITEM_NAME_203000500^Gold Ore^金礦^금광^Minerai d'or^Golderz^Pepita de oro
 MST_ITEM_NAME_106300800^Blue Phantoma^藍色幻能^푸른 판토마^Anima bleue^Blaues Phantoma^Pneuma azul
 MST_ITEM_NAME_202002800^Koltz Star^科爾茲之星^콜츠의 별^Étoile de Kolts^Koltzstern^Estrella de Kolts
@@ -528,12 +528,12 @@ MST_ITEM_NAME_107003100^Black Supercite^黑色超魔石^검정 초월마석^Giga
 MST_ITEM_NAME_107003200^Yellow Supercite^黃色超魔石^노란 초월마석^Gigalithe jaune^Gelber Supermaginit^Supercita amarilla
 MST_ITEM_NAME_107003300^Orange Supercite^橙色超魔石^주황 초월마석^Gigalithe orange^Oranger Supermaginit^Supercita naranja
 MST_ITEM_NAME_107003400^Violet Supercite^紫色超魔石^보라 초월마석^Gigalithe violet^Violetter Supermaginit^Supercita lila
-MST_ITEM_NAME_109301000^Sectored Circle - Blue^石板碎片·藍^석판 조각·파랑^Éclat de tablette - bleu^Steintafelsplitter - Blau^Fragmento de círculo azul
-MST_ITEM_NAME_109301010^Sectored Circle - Blue^石板碎片·藍^석판 조각·파랑^Éclat de tablette - bleu^Steintafelsplitter - Blau^Fragmento de círculo azul
-MST_ITEM_NAME_109301020^Sectored Circle - Blue^石板碎片·藍^석판 조각·파랑^Éclat de tablette - bleu^Steintafelsplitter - Blau^Fragmento de círculo azul
-MST_ITEM_NAME_109301030^Sectored Circle - Blue^石板碎片·藍^석판 조각·파랑^Éclat de tablette - bleu^Steintafelsplitter - Blau^Fragmento de círculo azul
-MST_ITEM_NAME_109301040^Sectored Circle - Blue^石板碎片·藍^석판 조각·파랑^Éclat de tablette - bleu^Steintafelsplitter - Blau^Fragmento de círculo azul
-MST_ITEM_NAME_109301050^Sectored Circle - Blue^石板碎片·藍^석판 조각·파랑^Éclat de tablette - bleu^Steintafelsplitter - Blau^Fragmento de círculo azul
+MST_ITEM_NAME_109301000^Sectored Circle - Blue^石板碎片·藍^석판 조각·파랑^Cercle d'ardoise - bleu^Steintafelsplitter - Blau^Fragmento de círculo azul
+MST_ITEM_NAME_109301010^Sectored Circle - Blue^石板碎片·藍^석판 조각·파랑^Cercle d'ardoise - bleu^Steintafelsplitter - Blau^Fragmento de círculo azul
+MST_ITEM_NAME_109301020^Sectored Circle - Blue^石板碎片·藍^석판 조각·파랑^Cercle d'ardoise - bleu^Steintafelsplitter - Blau^Fragmento de círculo azul
+MST_ITEM_NAME_109301030^Sectored Circle - Blue^石板碎片·藍^석판 조각·파랑^Cercle d'ardoise - bleu^Steintafelsplitter - Blau^Fragmento de círculo azul
+MST_ITEM_NAME_109301040^Sectored Circle - Blue^石板碎片·藍^석판 조각·파랑^Cercle d'ardoise - bleu^Steintafelsplitter - Blau^Fragmento de círculo azul
+MST_ITEM_NAME_109301050^Sectored Circle - Blue^石板碎片·藍^석판 조각·파랑^Cercle d'ardoise - bleu^Steintafelsplitter - Blau^Fragmento de círculo azul
 MST_ITEM_NAME_205000300^Corrosive Powder^侵蝕之粉^침식의 가루^Poudre corrosive^Korrosives Pulver^Polvo corrosivo
 MST_ITEM_NAME_218000100^Earth Gemstone^大地寶珠^땅의 보옥^Joyau de la terre^Erdsphäre^Joya de la tierra
 MST_ITEM_NAME_218000200^Laser Sensor^雷射感應器^레이저 센서^Capteur laser^Lasersensor^Sensor láser
@@ -588,4 +588,9 @@ MST_ITEM_NAME_1209000867^Sealed Treasure^封印寶箱^봉인된 보물상자^Tr�
 MST_ITEM_NAME_1209000868^Glitz Gem^奢華寶石^현란한 보석^Joyau tape-à-l'œil^Glanzgemme^Gema barata
 MST_ITEM_NAME_1209000869^Dense Ore^高密度礦石^고밀도 광석^Minerai condensé^Dichtes Erz^Mineral concentrado
 MST_ITEM_NAME_1209000870^Gunpowder^火槍粉^건파우더^Poudre à canon^Schießpulver^Pólvora
-MST_ITEM_NAME_1209000871^30 Million Downloads Celebratory Ticket^3000萬下載紀念券^3천만 다운로드 기념 티켓^Ticket de célébration des 30 M de téléchargements^30 Millionen Downloads Feierkarte^Tícket de celebración por las 30 millones de descargas
+MST_ITEM_NAME_1209000871^30 Million Downloads Ticket^3000萬下載紀念券^3천만 다운로드 기념 티켓^Ticket 30 M de télécharg.^30 Millionen Downloads Karte^Tícket de 30 m. de descargas
+MST_ITEM_NAME_1209000881^Petal Token^花瓣紀念物^벚꽃 토큰^Pièce de pétale^Blütenblattmarke^Moneda de pétalo
+MST_ITEM_NAME_1209000872^Blue and Red Supercites^藍紅超魔石^파랑&빨강 초월마석^Gigalithes bleues et rouges^Blaue und Rote Supermaginite^Supercitas azules y rojas
+MST_ITEM_NAME_1209000873^Violet and Yellow Supercites^紫黃超魔石^보라&노랑 초월마석^Gigalithes violettes et jaunes^Violette und Gelbe Supermaginite^Supercitas violetas y amarillas
+MST_ITEM_NAME_1209000874^Orange and White Supercites^橙白超魔石^주황&하양 초월마석^Gigalithes orange et blanches^Orange und Weiße Supermaginite^Supercitas naranjas y blancas
+MST_ITEM_NAME_1209000875^Green and Black Supercites^綠黑超魔石^초록&검정 초월마석^Gigalithes vertes et noires^Grüne und Schwarze Supermaginite^Supercitas verdes y negras

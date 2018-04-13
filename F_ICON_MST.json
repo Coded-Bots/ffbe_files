@@ -2880,6 +2880,11 @@
         "qtkvrS60": "global_spd_bn_list_00032.png"
     }, 
     {
+        "0HUPxDf1": "9000037", 
+        "G4L0YIB2": "30 Million Download Raffle", 
+        "qtkvrS60": "spd_30Mill_Lottery.png"
+    }, 
+    {
         "0HUPxDf1": "10100100", 
         "G4L0YIB2": "戦貴族", 
         "qtkvrS60": "award_10100100.png"
@@ -7560,6 +7565,11 @@
         "qtkvrS60": "item_40111.png"
     }, 
     {
+        "0HUPxDf1": "401001200", 
+        "G4L0YIB2": "メタスラトレイ", 
+        "qtkvrS60": "item_40112.png"
+    }, 
+    {
         "0HUPxDf1": "401001300", 
         "G4L0YIB2": "ドラゴンの盾", 
         "qtkvrS60": "item_40110.png"
@@ -11560,6 +11570,36 @@
         "qtkvrS60": "global_item_10168.png"
     }, 
     {
+        "0HUPxDf1": "1209000871", 
+        "G4L0YIB2": "30M Ticket", 
+        "qtkvrS60": "global_item_10169.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000872", 
+        "G4L0YIB2": "Cherry Blossom Petal", 
+        "qtkvrS60": "global_item_10179.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000873", 
+        "G4L0YIB2": "Supercite set 1", 
+        "qtkvrS60": "global_item_10170.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000874", 
+        "G4L0YIB2": "Supercite set 2", 
+        "qtkvrS60": "global_item_10171.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000875", 
+        "G4L0YIB2": "Supercite set 3", 
+        "qtkvrS60": "global_item_10172.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000876", 
+        "G4L0YIB2": "Supercite set 4", 
+        "qtkvrS60": "global_item_10173.png"
+    }, 
+    {
         "0HUPxDf1": "1300000001", 
         "G4L0YIB2": "Ancient Coin", 
         "qtkvrS60": "global_item_10047.png"
@@ -11588,6 +11628,11 @@
         "0HUPxDf1": "1300000007", 
         "G4L0YIB2": "Green Clover", 
         "qtkvrS60": "image/icon/icon_clover_energy.png"
+    }, 
+    {
+        "0HUPxDf1": "1300000008", 
+        "G4L0YIB2": "Naga's Blood", 
+        "qtkvrS60": "image/icon/icon_naga_blood.png"
     }, 
     {
         "0HUPxDf1": "1500000001", 
