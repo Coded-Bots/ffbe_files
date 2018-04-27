@@ -49,7 +49,7 @@ MST_AREA_NAME_222^Vision of Bahamut^巴哈姆特的幻影^바하무트의 환영
 MST_AREA_NAME_711^Hall of Memories^記憶的迴廊^기억의 회랑^Salle des souvenirs ^Halle der Erinnerungen^Sala de los recuerdos
 MST_AREA_NAME_712^FFT Round 2^FFT（第2彈）^FFT (제2탄)^FFT 2ème partie ^FFT - Runde 2^FFT 2ª parte
 MST_AREA_NAME_713^The Dreadnought^FF2大戰艦^FF2 대전함^Le Cuirassé^Das Schlachtschiff^El Acorazado
-MST_AREA_NAME_714^Monster Carnival^勇者鬥惡龍怪物仙境^몬스터 카니발^Carnaval des monstres ^Monsterkarneval^Carnaval monstruoso
+MST_AREA_NAME_714^Monster Carnival^勇者鬥惡龍怪物仙境^몬스터 카니발^Carnaval des monstres ^Monsterkarneval^Carnaval de monstruos
 MST_AREA_NAME_715^Dragonlord's Challenge^龍王挑戰^용왕 챌린지^Défi de Lordragon^Herausforderung des Drachenfürsten^Desafío de Draconarius
 MST_AREA_NAME_716^Metal Dungeon^金屬迷宮^메탈 던전^Donjon métallique ^Metallhöhle^Mazmorra metálica
 MST_AREA_NAME_717^Shadow of the Empire^帝國之影^제국에 드리운 그늘^L'ombre de l'Empire^Schatten des Imperiums^La sombra sobre el Imperio
@@ -137,7 +137,7 @@ MST_AREA_NAME_1143^???^？？？^???^???^???^???
 MST_AREA_NAME_402^2nd Anniversary Short Story^二週年短篇故事^2주년 기념·짧은 이야기^2e anniversaire - histoire courte^2-Jahre-Jubiläum Kurzgeschichte^2º aniversario: Relatos breves
 MST_AREA_NAME_600^Playback 1^playback1^playback 1^Revoir 1^Playback 1^Playback 1
 MST_AREA_NAME_747^FFBE Raid - King of Darkness^FFBE 共鬥 - 漆黑帝王^FFBE 레이드 - 어둠의 군주^Raid FFBE - Roi des Ténèbres^FFBE Raubzug - König der Dunkelheit^FFBE Evento de banda - El rey de la oscuridad
-MST_AREA_NAME_761^March on Garuda^風神迦樓羅殲滅戰^바람신 가루다 토벌전^Garuda, dame du Vortex^Garuda, die Dame des Vortex^Garuda, señora del vórtice
+MST_AREA_NAME_761^March on Garuda^風神迦樓羅殲滅戰^바람신 가루다 토벌전^Garuda, la Souffleuse de rafales^Garuda, die Dame des Vortex^Garuda, señora del vórtice
 MST_AREA_NAME_762^The True Garuda^真迦樓羅殲滅戰^진 가루다 토벌전^Garuda déchaînée^Die wahre Garuda^La verdadera Garuda
 MST_AREA_NAME_763^Dark Castle^黑暗城堡^어둠의 성^Château obscur^Dunkles Schloss^Castillo oscuro
 MST_AREA_NAME_764^Glaive Castle - Exploration^格蘭斯城・探索^글랜스 성·탐색^Château de Glaive - Exploration^Schloss Glaive - Erkundung^Castillo de Glaive - Exploración
@@ -151,10 +151,10 @@ MST_AREA_NAME_771^Luxendarc, Land of Light and Shadow^光與暗的世界盧森�
 MST_AREA_NAME_772^Abyss Hall 55^無底深淵55層^어비스 홀 55층^Trou abyssal 55^Abysshalle 55^-
 MST_AREA_NAME_773^Fabul Castle Guard^法布爾城防衛戰^파불 성 수비전^Défenses du chât. de Fabul^Verteidigung der Burg Fabul^Defensa del castillo de Fabul
 MST_AREA_NAME_774^Crystal Room - Battle with Kain^水晶之間・凱因戰^크리스탈 룸·카인 전^Chambre du cristal - Face à Kain^Kristallraum - Kampf mit Kain^Sala del cristal - Contra Kain
-MST_AREA_NAME_775^Phantom in the Details^虛構的計劃書^환상의 설계서^Illusion planifiée^Phantomplan^Ilusión planeada
+MST_AREA_NAME_775^The Phantom Blueprint^虛構的計劃書^환상의 설계서^Le plan fantôme^Phantomplan^El anteproyecto fantasma
 MST_AREA_NAME_776^Global Version Anniversary Raid^國際版一週年紀念共鬥^글로벌판 1주년 기념 레이드^Raid anniversaire version internationale^Globale Version Jubiläumsraubzug^Banda de la versión internacional
 MST_AREA_NAME_777^Global Version Anniversary Raid - The Great Nian Beast^國際版一週年紀念共鬥・巨年獸戰^글로벌판 1주년 기념 레이드·거대 니안 전^Raid anniversaire version internationale - Le Nian géant ^Globale Version Jubiläumsraubzug - Die Große Nian-Bestie^Banda de ver. internacional - Ataque de la Megabestia Nian
-MST_AREA_NAME_778^Nibelheim^尼布爾海姆^니블헤임^Niblheim^Nibelheim^Nibelheim
+MST_AREA_NAME_778^Nibelheim^尼布爾海姆^니블헤임^Nibelheim^Nibelheim^Nibelheim
 MST_AREA_NAME_779^Mt. Nibel - Exploration^尼布爾山・探索^니블 산·탐색^Mont Nibel - Exploration^Berg Nibel - Erkundung^Monte Nibel - Exploración
 MST_AREA_NAME_780^Where Destinies Intersect^交錯的命運^교차하는 운명^La croisée des destinées^Wenn Schicksale sich kreuzen^Donde se cruzan los destinos
 MST_AREA_NAME_781^Vanquish Jie Revorse!^打倒傑・瑞沃斯！^지에 리보즈를 처치하라!^Battez Jie Revorse !^Überwältige Jie Revorse!^-
@@ -187,7 +187,7 @@ MST_AREA_NAME_795^Shrine of Ru'Avitau - Exploration^^^^^
 MST_AREA_NAME_796^The Color of Heartlessness^^^^^
 MST_AREA_NAME_797^Illustration Contest Round 2^^^^^
 MST_AREA_NAME_798^Rats from the Gutters^^^^^
-MST_AREA_NAME_799^Born to be King^^^^^
+MST_AREA_NAME_799^Born to Be King^^^^^
 MST_AREA_NAME_800^Caestino Mines - Exploration^^^^^
 MST_AREA_NAME_801^Creaking Light^^^^^
 MST_AREA_NAME_802^Lost City of Dipan^^^^^

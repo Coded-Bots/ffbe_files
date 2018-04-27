@@ -327,7 +327,7 @@ MST_EQUIP_ITEM_NAME_409008600^Grimoire Hat^魔導帽^그리모어 모자^Chapeau
 MST_EQUIP_ITEM_NAME_301001500^Swordbreaker^鋸齒短劍^소드 브레이커^Brisépée^Schwertbrecher^Rompespadas
 MST_EQUIP_ITEM_NAME_304001200^Yakei^邪迎八景^사영팔경^Jagei-yakei^Yakei^Yakei
 MST_EQUIP_ITEM_NAME_409002800^Yellow Ring^雷神戒指^뇌신의 반지^Bague ambrée^Gelber Ring^Anillo de Thor
-MST_EQUIP_ITEM_NAME_302002100^Trauminator Sword^S機械劍^S 머신 소드^S-épée mécanique^S-Maschinenschwert^Espada mecánica S
+MST_EQUIP_ITEM_NAME_302002100^Trauminator Sword^S機械劍^S 머신 소드^S-épée mécanique^Maschinenschwert^Espada mecánica S
 MST_EQUIP_ITEM_NAME_303001800^Erdrick's Sword^洛特之劍^로토의 검^Épée d'Elric^Erdrickschwert^Espada de Erdrick
 MST_EQUIP_ITEM_NAME_305001400^Iron Axe^鐵斧^철도끼^Hache de fer^Eisenaxt^Hacha de hierro
 MST_EQUIP_ITEM_NAME_311001800^Staff of Antimagic^封魔法杖^마봉의 지팡이^Bâton d'antimagie^Stab der Antimagie^Báculo de antimagia
@@ -335,7 +335,7 @@ MST_EQUIP_ITEM_NAME_302002200^Cautery Sword^破邪之劍^패자의 검^Épée ar
 MST_EQUIP_ITEM_NAME_305001500^Moon Axe^月之斧^문 액스^Hache de lune^Mondaxt^Hacha lunar
 MST_EQUIP_ITEM_NAME_308001800^Gracos's Trident^古拉柯斯之矛^그라코스의 창^Trident de Gracos^Gracosdreizack^Tridente de Gracos
 MST_EQUIP_ITEM_NAME_309001100^Crow's Claws^隼爪^매발톱^Serres de corbeau^Krähenkrallen^Garras de cuervo
-MST_EQUIP_ITEM_NAME_401001200^Metal Slime Shield^金屬史萊姆托盤^메탈 슬라임 트레이^Plateau gluant de métal^Metallschleimplatte^Escudo de limo metálico
+MST_EQUIP_ITEM_NAME_401001200^Metal Slime Shield^金屬史萊姆托盤^메탈 슬라임 트레이^Plateau gluant de métal^Metallschleimplatte^Escudo limometálico
 MST_EQUIP_ITEM_NAME_402001500^Big Boss Shield^大頭領盾^큰형님 방패^Bouclier dominateur^Oberboss-Schild^Escudo de gran jefe
 MST_EQUIP_ITEM_NAME_308001900^Artisan^匠槍^아르티잔^Artisan^Kunsthandwerker^Artesana
 MST_EQUIP_ITEM_NAME_306001500^Beast Hammer^野獸鎚^야수의 망치^Marteau bestial^Bestienhammer^Martillo bestial
@@ -728,10 +728,10 @@ MST_EQUIP_ITEM_NAME_1100000106^Jake's Pirate Ring^海盜戒指^제이크의 해�
 MST_EQUIP_ITEM_NAME_1100000108^Magical Top Hat^魔術帽^마술 모자^Chapeau magique ^Magischer Zylinder^Sombrero de copa mágico
 MST_EQUIP_ITEM_NAME_1100000112^Loren's Insignia^洛倫的徽章^로렌의 휘장^Insigne de Loren^Lorens Insignie^Insignia de Loren
 MST_EQUIP_ITEM_NAME_1100000113^Hibiscus Hairpin^扶桑花髮飾^무궁화 꽃핀^Épingle en hibiscus^Hibiskushaarnadel^Coletero de hibisco
-MST_EQUIP_ITEM_NAME_409015600^Wind-up Garuda^迦樓羅之形^가루다 인형^Mini Garuda^Aufzieh-Garuda^Mini Garuda
+MST_EQUIP_ITEM_NAME_409015600^Wind-up Garuda^迦樓羅之形^가루다 인형^Petite Garuda^Aufzieh-Garuda^Mini Garuda
 MST_EQUIP_ITEM_NAME_409015700^Wind-up Y'shtola^迷你雅·修特拉^야슈톨라 인형^Mini Y'shtola^Aufzieh-Y'shtola^Mini Y'shtola
 MST_EQUIP_ITEM_NAME_409015800^Wind-up Thancred^迷你桑克瑞德^산크레드 인형^Mini Thancred^Aufzieh-Thancred^Mini Thancred
-MST_EQUIP_ITEM_NAME_409015900^Wind-up Minfilia^迷你敏菲利亞^민필리아 인형^Mini  Minfilia^Aufzieh-Minifilia^Mini Minfilia
+MST_EQUIP_ITEM_NAME_409015900^Wind-up Minfilia^迷你敏菲利亞^민필리아 인형^Mini Minfilia^Aufzieh-Minifilia^Mini Minfilia
 MST_EQUIP_ITEM_NAME_409016000^Wind-up Yda^迷你伊達^이다 인형^Mini Yda^Aufzieh-Yda^Mini Yda
 MST_EQUIP_ITEM_NAME_409016100^Wind-up Papalymo^迷你帕帕力莫^파파리모 인형^Mini Papalymo^Aufzieh-Papalymo^Mini Papalymo
 MST_EQUIP_ITEM_NAME_409016200^Wind-up Alphinaud^迷你阿爾菲諾^알피노 인형^Mini Alphinaud^Aufzieh-Alphinaud^Mini Alphinaud
@@ -835,11 +835,11 @@ MST_EQUIP_ITEM_NAME_304002500^Sasuke - Replica^佐助刀·複製品^사스케의
 MST_EQUIP_ITEM_NAME_304002600^Masamune^正宗^마사무네^Masamune^Masamune^Masamune
 MST_EQUIP_ITEM_NAME_309002400^Claws of Darkness^暗黑千刃爪^암흑천인조^Griffes ténébreuses^Klauen der Dunkelheit^Zarpas tenebrosas
 MST_EQUIP_ITEM_NAME_409018300^Fairy's Scrunchie^妖精髮圈^요정의 슈슈^Chouchou de fée^Feenhaargummi^Coletero de hada
-MST_EQUIP_ITEM_NAME_406003100^Sephiroth's Coat^薩菲羅斯外套^세피로스의 코트^Veste de Sephiroth^Sephiroths Umhang^Abrigo de Sefirot
-MST_EQUIP_ITEM_NAME_405004700^Local Guide's Clothes^當地嚮導服^현지 가이드의 복장^Tenue de guide locale^Kleidung des Reiseführers^Uniforme de guía local
-MST_EQUIP_ITEM_NAME_409018400^Tough Ring^精力充沛的指環^터프 링^Anneau résistant^Tough-Ring^Anillo fuerte
-MST_EQUIP_ITEM_NAME_315021800^Twin Viper^雙頭蛇^트윈 바이퍼^Vipère jumelle^Doppelviper^Serpiente bicéfala
-MST_EQUIP_ITEM_NAME_313003200^Enemy Launcher^狙敵者^에너미 런처^Lanceur ennemi^Feindeswerfer^Lanza enemigos
+MST_EQUIP_ITEM_NAME_406003100^Sephiroth's Longcoat^薩菲羅斯外套^세피로스의 코트^Manteau de Séphiroth^Sephiroths Umhang^Abrigo de Sefirot
+MST_EQUIP_ITEM_NAME_405004700^Guide Clothes^當地嚮導服^현지 가이드의 복장^Vêtements de guide^Kleidung des Reiseführers^Uniforme de guía
+MST_EQUIP_ITEM_NAME_409018400^Ring of Toughness^精力充沛的指環^터프 링^Anneau d'endurance^Tough-Ring^Anillo fuerte
+MST_EQUIP_ITEM_NAME_315021800^Twin Viper^雙頭蛇^트윈 바이퍼^Vipère double^Doppelviper^Serpiente bicéfala
+MST_EQUIP_ITEM_NAME_313003200^Enemy Launcher^狙敵者^에너미 런처^Lanceur ennemi^Feindeswerfer^Lanzaenemigos
 MST_EQUIP_ITEM_NAME_409018500^Bomb Engagement Ring^炸彈婚戒^봄의 약혼반지^Bague bombo^Bombenverlobungsring^Anillo de bom
 MST_EQUIP_ITEM_NAME_316001200^Dust Horn^沙塵角笛^모래먼지의 뿔피리^Corne de poussière^Staubhorn^Cuerno del polvo
 MST_EQUIP_ITEM_NAME_304002700^Light Blade^吸血妖刀^빛의 검^Lame droite^Lichtklinge^Hoja diestra
@@ -849,7 +849,7 @@ MST_EQUIP_ITEM_NAME_313003300^Blaster^颶風槍^블래스터^Pistolaser^Blaster^
 MST_EQUIP_ITEM_NAME_314001400^Sleipnir Tail^斯萊普尼爾之尾^슬레이프니르의 꼬리^Queue de Sleipnir^Slepinirschweif^Cola de Sleipnir
 MST_EQUIP_ITEM_NAME_409018700^Jeweled Belt^寶石腰帶^쥬얼 벨트^Ceinture parée de joyaux^Juwelengürtel^Cinto enjoyado
 MST_EQUIP_ITEM_NAME_408003200^Strategic Cape^戰略外套^전략가의 망토^Cape du stratège^Strategischer Umhang^Capa del estratega
-MST_EQUIP_ITEM_NAME_303003900^Lotus Blade Agni^紅蓮劍阿格尼^홍련의 검 아그니^Agni, épée du lotus^Lotusklinge Agni^Agni, espada del loto
+MST_EQUIP_ITEM_NAME_303003900^Flaming Blade Agni^紅蓮劍阿格尼^홍련의 검 아그니^Agni, épée enflammée^Flammenklinge Agni^Agni, espada llameante
 MST_EQUIP_ITEM_NAME_305002300^Thunder Axe Keraunos^雷霆斧凱拉諾斯^벼락의 도끼 케라우노스^Keraunos, hache-tonnerre^Donneraxt Keraunos^Keraunos, hacha del trueno
 MST_EQUIP_ITEM_NAME_310003300^Gale Rod^烈風棒^열풍의 홀장^Sceptre des tempêtes^Sturmstab^Vara del vendaval
 MST_EQUIP_ITEM_NAME_409018800^Merald's Belt^梅拉路德腰帶^메랄드의 벨트^Ceinture de Merald^Meralds Gürtel^Cinto de Merald
