@@ -3885,8 +3885,8 @@ MST_ABILITY_NAME_220610^Snakebite Earring^毒蛇耳環^독사 귀걸이^Morserpe
 MST_ABILITY_NAME_220620^Brawn^頑強^굴강^Force musculaire^Stämmig^Fuerzudo
 MST_ABILITY_NAME_220630^Intrique^戰術^술책^Intrigue^List^Intriga
 MST_ABILITY_NAME_220650^Wind Resistance +20%^風屬性耐性+20%^바람속성 저항력+20%^Résistance au vent +20%^Windresistenz +20%^Res. al viento +20%
-MST_ABILITY_NAME_220660^Great Mage's Chant^大魔道士的詠唱法^대마도사의 영창법^Aura de grand mage^Aura des Großmagiers^Aura de archimago
-MST_ABILITY_NAME_220670^Dragon's Whisker^龍鬚^용의 수염^Crinière de dragon^Drachenmähne^Pelo de dragón
+MST_ABILITY_NAME_220660^Great Mage's Chant^大魔道士的詠唱法^대마도사의 영창법^Chant de grand mage^Intonation des Großmagiers^Canto de archimago
+MST_ABILITY_NAME_220670^Dragon's Whisker^龍鬚^용의 수염^Poil de dragon^Drachenbarthaar^Pelo de dragón
 MST_ABILITY_NAME_220680^Nature Loving Spellblade^熱愛自然的魔法劍士^자연을 사랑하는 마법검사^Magilame fan de la nature^Naturliebender Schwertmagier^Esgrimago naturista
 MST_ABILITY_NAME_220690^Frozen Law^冰凍之理^동빙의 이치^Loi de glace^Gefrorene Regeln^Ley de hielo
 MST_ABILITY_NAME_220700^Spellblade - Blazing Threat^魔法劍·炎威^마법검·염위^Magilame - Menace ardente^Schwertmagie - Flammendrohung^Esgrimago - Amenaza ígnea
@@ -4157,10 +4157,10 @@ MST_ABILITY_NAME_223360^Equip Helm^頭盔裝備^투구 장착^Heaume^Helm anlege
 MST_ABILITY_NAME_223370^Wind Resistance +10%^風屬性耐性+10%^바람속성 저항력+10%^Résistance au vent +10%^Windresistenz +10%^Resistencia al viento +10%
 MST_ABILITY_NAME_223380^Moogle Luck^幸運莫古利^모그리 럭키^Mog de chance^Mogry-Glück^Suerte de moguri
 MST_ABILITY_NAME_223390^Tradition^信仰^트라디션^Tradition^Tradition^Tradición
-MST_ABILITY_NAME_223400^Esper Chocobo Kick^幻獸陸行鳥的踢腿^환수 초코보의 발차기^Éon : Coup de chocobo^Beschwörbarer Chocobo: Tritt^Esper chocobo: patada
-MST_ABILITY_NAME_223410^Esper Bomb Explosion^幻獸炸彈的自爆^환수 봄의 자폭^Éon : Explosion de bombe^Beschwörbarer Bomber : Explosion^Esper bom: explosión
-MST_ABILITY_NAME_223420^Esper Cockatrice Peck^幻獸蛇雞獸的喙^환수 코카트리스의 부리^Éon : Bec de Gallus^Beschwörbarer Basilisk: Schnabel^Esper cocatriz: picotazo
-MST_ABILITY_NAME_223430^Esper Mindflayer's Chant^幻獸奪心魔的詠唱^환수 마인드 플레어의 영창^Éon : Chant de flagelleur mental^Beschwörbarer Gedankenschinder: Intonation^Esper mentalis: canto
+MST_ABILITY_NAME_223400^Eidolon Chocobo Kick^幻獸陸行鳥的踢腿^환수 초코보의 발차기^Éon : Coup de chocobo^Beschwörbarer Chocobo: Tritt^Eidolón: patada chocobo 
+MST_ABILITY_NAME_223410^Eidolon Bomb Explosion^幻獸炸彈的自爆^환수 봄의 자폭^Éon : Explosion de bombe^Beschwörbarer Bomber : Explosion^Eidolón: explosión bom
+MST_ABILITY_NAME_223420^Eidolon Cockatrice Peck^幻獸蛇雞獸的喙^환수 코카트리스의 부리^Éon : Bec de Gallus^Beschwörbarer Basilisk: Schnabel^Eidolón: picotazo de cocatriz
+MST_ABILITY_NAME_223430^Eidolon Mindflayer's Chant^幻獸奪心魔的詠唱^환수 마인드 플레어의 영창^Éon : Chant de flagelleur mental^Beschwörbarer Gedankenschinder: Intonation^Eidolón: canto del mentalis
 MST_ABILITY_NAME_223440^The Feymarch Guardian^幻界的守護^환수계의 수호^Gardien du monde fantomatique^Wächterin der Beschwörbaren^Guardián del Limbo
 MST_ABILITY_NAME_223450^Mother's Teachings^母親的教誨^어머니의 가르침^Enseignements de mère^Mütterlicher Rat^Inculcación de madre
 MST_ABILITY_NAME_223460^Mist Village Girl^魔霧之村的少女^미스트 마을의 소녀^Fille de Mist^Mädchen aus dem Dorf des Nebels^Chica de Mist
@@ -4303,8 +4303,8 @@ MST_ABILITY_NAME_224820^Earnest Prayer^專心祈禱^한결같은 기도^Prière 
 MST_ABILITY_NAME_224830^Fairy Powder^精靈粉^요정의 가루^Poudre de fée^Feenstaub^Polvo de hada
 MST_ABILITY_NAME_224840^Barrier Mage's Oath^壁魔道士的誓言^장벽마도사의 맹세^Serment de mage spé. barrière^Schwur des Barrierenmagiers^Juramento del invocabarreras
 MST_ABILITY_NAME_224850^Guts and Glory^毅力^근성^Risque et gloire^Mumm^Sangre y gloria
-MST_ABILITY_NAME_224860^Thunderous Avoidance^避雷的期望^피뢰 희구^Évasion tonitruante^Blitzableiter^Evasión del trueno
-MST_ABILITY_NAME_224870^Defeat of Destruction^破暗的期望^파암 희구^Désir de destruction^Schattenzerschmetterer^Deseo de destrucción
+MST_ABILITY_NAME_224860^Thunderous Avoidance^避雷的期望^피뢰 희구^Évasion tonitruante^Blitzausfall^Evasión del trueno
+MST_ABILITY_NAME_224870^Nebulous Avoidance^破暗的期望^파암 희구^Évasion nébuleuse^Schattenausfall^Evasión nebulosa
 MST_ABILITY_NAME_224880^Stone Killer+^碎石·改^개량형 돌 킬러^Tue-pierres +^Herz aus Stein+^Matapétreos+
 MST_ABILITY_NAME_224890^Bug Killer+^殺蟲·改^개량형 벌레 킬러^Tue-insectes +^Pestizid+^Matabichos+
 MST_ABILITY_NAME_224900^Bomb Spirit^炸彈魂^봄의 혼령^Esprit de bombo^Bombergeist^Espíritu de bom
@@ -4935,8 +4935,8 @@ MST_ABILITY_NAME_706510^Revenge^復仇^리벤지^Vengeance ^Rache^Venganza
 MST_ABILITY_NAME_706520^Revenge^復仇^리벤지^Vengeance ^Rache^Venganza
 MST_ABILITY_NAME_706530^Magic Revenge^魔法復仇^마법 리벤지^Vengeance magique ^Magische Rache^Venganza mágica
 MST_ABILITY_NAME_706540^Magic Revenge^魔法復仇^마법 리벤지^Vengeance magique ^Magische Rache^Venganza mágica
-MST_ABILITY_NAME_706550^Staff Wielder^魔杖的使用者^지팡이의 명수^Utilisateur de bâton^Magierutenbenutzer^Diestro del bastón
-MST_ABILITY_NAME_706560^Staff Wielder^魔杖的使用者^지팡이의 명수^Utilisateur de bâton^Magierutenbenutzer^Diestro del bastón
+MST_ABILITY_NAME_706550^Magic Rod Wielder^魔杖的使用者^지팡이의 명수^Porteur de sceptre magique^Magierutenbenutzer^Portavaras mágico
+MST_ABILITY_NAME_706560^Magic Rod Wielder^魔杖的使用者^지팡이의 명수^Porteur de sceptre magique^Magierutenbenutzer^Portavaras mágico
 MST_ABILITY_NAME_706570^Liberation^復原^해방^Libération^Befreiung^Liberación
 MST_ABILITY_NAME_706580^Liberation^復原^해방^Libération^Befreiung^Liberación
 MST_ABILITY_NAME_706590^Dark Curiosity^暗黑探求心^어둠의 탐구심^Curiosité obscure ^Dunkle Neugier^Curiosidad oscura

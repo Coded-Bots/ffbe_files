@@ -3306,14 +3306,14 @@ MST_MONSTER_SKILL_NAME_179680^Guillotine^斷頭臺^길로틴^Guillotine^Guilloti
 MST_MONSTER_SKILL_NAME_179690^Lost Strike^迷失衝擊^라스트 블로우^Coup perdu^Verlorener Schlag^Golpe perdido
 MST_MONSTER_SKILL_NAME_179700^Biora^猛毒化^바이오라^Toxine +^Biora^Bio+
 MST_MONSTER_SKILL_NAME_179710^Clasp^糾纏^들러붙기^Étreinte^Klette^Apresar
-MST_MONSTER_SKILL_NAME_179720^Gout of Flame^火炎放射^화염 방사기^Souffle de feu^Feuerbrunst^Lanzallamas
+MST_MONSTER_SKILL_NAME_179720^Gout of Flame^火炎放射^화염 방사기^Souffle de feu^Feuersbrunst^Lanzallamas
 MST_MONSTER_SKILL_NAME_179730^Thrash^揮翅^날갯짓^Battement d'aile^Flügelschlag^Aleteo
 MST_MONSTER_SKILL_NAME_179740^Hell Combo^地獄連擊^헬 콤보^Combo infernal^Höllencombo^Combo infernal
 MST_MONSTER_SKILL_NAME_179750^Trine^異三角^트라인^Trigone^Trigon^Trino
 MST_MONSTER_SKILL_NAME_179760^Big Horn^大角^큰 뿔^Grande corne^Großes Horn^Gran cuerno
 MST_MONSTER_SKILL_NAME_179770^Brimstone^地獄之火^헬 파이어^Flamme de l'enfer^Höllenfeuer^Llama infernal
-MST_MONSTER_SKILL_NAME_179780^Counter Hell Combo^反擊地獄連擊^카운터 헬 콤보^Contre combo infernal^Gegen-Höllencombo^Contracombo infernal
-MST_MONSTER_SKILL_NAME_179790^Counter Trine^反擊三位一體^카운터 트라인^Contre Trigone^Gegen-Trigon^Contratrino
+MST_MONSTER_SKILL_NAME_179780^Counter Hell Combo^反擊地獄連擊^카운터 헬 콤보^Contre combo infernal^Höllencombo-Konter^Contracombo infernal
+MST_MONSTER_SKILL_NAME_179790^Counter Trine^反擊三位一體^카운터 트라인^Contre Trigone^Trigon-Konter^Contratrino
 MST_MONSTER_SKILL_NAME_179800^Guillotine^斷頭臺^길로틴^Guillotine^Guillotine^Guillotina
 MST_MONSTER_SKILL_NAME_179810^Quake^地槌^퀘이크^Séisme^Beben^Seísmo
 MST_MONSTER_SKILL_NAME_179820^Trample^重踏^밟아 뭉개다^Piétinement^Zertrampeln^Pisada fuerte
@@ -3708,3 +3708,4 @@ MST_MONSTER_SKILL_NAME_900150^Serpent Glare^險狡閃光^노려보는 눈빛^Sci
 MST_MONSTER_SKILL_NAME_900151^Embers^餘火^불씨^Braise^Glut^Ascuas
 MST_MONSTER_SKILL_NAME_900152^Rest^小憩^휴식^Repos^Ruhen^Descanso
 MST_MONSTER_SKILL_NAME_900153^Thanks for 30M Downloads!^感謝 3000萬下載！^3천만 다운로드 감사합니다!^Merci pour les 30 millions de téléchargements !^Danke für 30 Millionen Downloads!^¡Gracias por las 30 millones de descargas!
+ 
