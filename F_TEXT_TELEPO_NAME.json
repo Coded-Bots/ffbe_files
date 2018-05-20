@@ -158,7 +158,7 @@ MST_TELEPO_NAME_520102^Tool/Accessory Shop^道具·首飾店^도구·장신구 �
 MST_TELEPO_NAME_520103^Fat Chocobo^胖陸行鳥前^뚱보 초코보 앞^Gros Chocobo^Fetter Chocobo^Chocobo gordo
 MST_TELEPO_NAME_520104^Farplane Monument^異界石碑^이계의 비석^Stèle de l'Au-delà^Abyssum-Monument^Obelisco Etéreo
 MST_TELEPO_NAME_610101^Entrance^入口^입구^Entrée^Eingangsbereich^Entrada
-MST_TELEPO_NAME_610102^Weapon/Ability Shop^武器·防具店^무기·방어구 상점^Boutique d'aptitudes/d'armes^Waffenschmied/Fertigkeiten-Shop^Armas/Armaduras
+MST_TELEPO_NAME_610102^Weaponsmith/Armorer^武器·防具店^무기·방어구 상점^Armurier/Marchand d'armures^Waffenschmied/Plattner^Armas/Armaduras
 MST_TELEPO_NAME_610103^Farplane Monument^異界石碑^이계의 비석^Stèle de l'Au-delà^Abyssum-Monument^Obelisco Etéreo
 MST_TELEPO_NAME_610104^Lower Floor^下層^아래층^Niveau inférieur^Unteres Stockwerk^Pisos bajos
 MST_TELEPO_NAME_610105^Vault^出租保險箱^대여금고^Salle des coffres^Gewölbe^Caja fuerte
@@ -208,3 +208,20 @@ MST_TELEPO_NAME_1420401^Entrance^入口^입구^Entrée^Eingangsbereich^Entrada
 MST_TELEPO_NAME_1420402^Tool Shop^道具店^도구 상점^Boutique d'outils^Werkzeugladen^Utensilios
 MST_TELEPO_NAME_1420403^Accessory Shop^首飾店^장신구 상점^Bijoutier^Accessoire-Shop^Accesorios
 MST_TELEPO_NAME_1430101^Entrance^入口^입구^Entrée^Eingangsbereich^Entrada
+MST_TELEPO_NAME_1420501^Entrance^入口^입구^Entrée^Eingangsbereich^Entrada
+MST_TELEPO_NAME_1510101^Entrance^入口^입구^Entrée^Eingangsbereich^Entrada
+MST_TELEPO_NAME_1510102^Weaponsmith^武器店^무기 상점^Armurier^Waffenschmied^Armas
+MST_TELEPO_NAME_1510103^Armorer^防具店^방어구 상점^Marchand d'armures^Plattner^Armaduras
+MST_TELEPO_NAME_1510104^^^^^^
+MST_TELEPO_NAME_1510105^^^^^^
+MST_TELEPO_NAME_1510106^^^^^^
+MST_TELEPO_NAME_1510201^^^^^^
+MST_TELEPO_NAME_1510301^Entrance^入口^입구^Entrée^Eingangsbereich^Entrada
+MST_TELEPO_NAME_1510302^^^^^^
+MST_TELEPO_NAME_1510303^Tool Shop^道具店^도구 상점^Boutique d'outils^Werkzeugladen^Utensilios
+MST_TELEPO_NAME_1510401^Entrance^入口^입구^Entrée^Eingangsbereich^Entrada
+MST_TELEPO_NAME_1510402^^^^^^
+MST_TELEPO_NAME_1520101^Entrance^入口^입구^Entrée^Eingangsbereich^Entrada
+MST_TELEPO_NAME_1520102^Inn^旅店^여인숙^Gîte^Herberge^Posada
+MST_TELEPO_NAME_1520103^^^^^^
+MST_TELEPO_NAME_1520104^^^^^^

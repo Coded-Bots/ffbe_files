@@ -447,7 +447,7 @@ MST_MONSTER_SKILL_NAME_152260^Sonic Blade^音速劍^음속검^Entaille sonique^S
 MST_MONSTER_SKILL_NAME_152270^Crater Blast^地裂擊^지열격^Explosion dévastatrice ^Kraterexplosion^Estallido demoledor
 MST_MONSTER_SKILL_NAME_152280^Frantic Stance^活殺獸神衝^활살수신충^Posture frénétique ^Rasend^Postura frenética
 MST_MONSTER_SKILL_NAME_152290^Grand Slam^猛攻升級^그랜드 슬램^Grand Slam^Grand Slam^Golpetazo tremendo
-MST_MONSTER_SKILL_NAME_152300^Maelstrom^海龍捲^소용돌이^Maelström^Mahlstrom^Maelstrom
+MST_MONSTER_SKILL_NAME_152300^Maelstrom^旋渦海擊波^소용돌이^Maelström^Mahlstrom^Maelstrom
 MST_MONSTER_SKILL_NAME_152310^Dual Thrust^二重刺^이단 찌르기^Double estocade ^Doppelstoß^Estocada doble
 MST_MONSTER_SKILL_NAME_152320^Lightning Thrust^閃電刺^번개 찌르기^Estocade électrique^Blitzstoß^Estocada eléctrica
 MST_MONSTER_SKILL_NAME_152330^Fireball^火球^파이어 볼^Boule de feu^Feuerball^Bola de fuego
@@ -1810,11 +1810,11 @@ MST_MONSTER_SKILL_NAME_165370^Romp^打鬧^장난질^Ébrouement^Herumtollen^Reto
 MST_MONSTER_SKILL_NAME_165380^Erupt^暴怒^광분^Éruption de colère^Eruption^Erupción
 MST_MONSTER_SKILL_NAME_165390^Rampage^橫衝直撞^날뛰기^Massacrer^Raserei^Enloquecido
 MST_MONSTER_SKILL_NAME_165400^Blaze^烈焰^화염^Embrasement^Feuerlohe^Llamarada
-MST_MONSTER_SKILL_NAME_165410^Icestorm^吹雪^눈보라^Blizzard^Blizzard^Tormenta de nieve
+MST_MONSTER_SKILL_NAME_165410^Icestorm^吹雪^눈보라^Blizzard^Blizzard^Tormenta de hielo
 MST_MONSTER_SKILL_NAME_165420^Thunderbolt^閃電^우레^Éclair fulgurant^Schlägerei^Estruendo
 MST_MONSTER_SKILL_NAME_165430^Magic Cry^魔力之泣^마법의 울부짖음^Cri magique^Magischer Schrei^Grito mágico
 MST_MONSTER_SKILL_NAME_165440^Blaze^烈焰^화염^Embrasement^Feuerlohe^Llamarada
-MST_MONSTER_SKILL_NAME_165450^Icestorm^吹雪^눈보라^Blizzard^Blizzard^Tormenta de nieve
+MST_MONSTER_SKILL_NAME_165450^Icestorm^吹雪^눈보라^Blizzard^Blizzard^Tormenta de hielo
 MST_MONSTER_SKILL_NAME_165460^Thunderbolt^閃電^우레^Éclair fulgurant^Schlägerei^Estruendo
 MST_MONSTER_SKILL_NAME_165470^Petrifying Blow^石化一擊^석화의 일격^Souffle pétrifiant^Versteinerungsschlag^Golpe petrificador
 MST_MONSTER_SKILL_NAME_165480^Bay^吼叫^짖기^Cri redoutable^Bellen^Aullido
@@ -1870,8 +1870,8 @@ MST_MONSTER_SKILL_NAME_165990^Poison Sting^毒針^독침^Dard empoisonné^Giftst
 MST_MONSTER_SKILL_NAME_166000^Poison Sting^毒針^독침^Dard empoisonné^Giftstachel^Aguja tóxico
 MST_MONSTER_SKILL_NAME_166010^Swallow^吞噬^삼키기^Avaler^Verschlingen^Tragar
 MST_MONSTER_SKILL_NAME_166020^Swallow^吞噬^삼키기^Avaler^Verschlingen^Tragar
-MST_MONSTER_SKILL_NAME_166030^Maelstrom^海龍捲^소용돌이^Maelström^Mahlstrom^Vórtice
-MST_MONSTER_SKILL_NAME_166040^Maelstrom^海龍捲^소용돌이^Maelström^Mahlstrom^Vórtice
+MST_MONSTER_SKILL_NAME_166030^Maelstrom^旋渦海擊波^소용돌이^Maelström^Mahlstrom^Vórtice
+MST_MONSTER_SKILL_NAME_166040^Maelstrom^旋渦海擊波^소용돌이^Maelström^Mahlstrom^Vórtice
 MST_MONSTER_SKILL_NAME_166050^Thwack^強擊衝撞^부딪히기^Clameur^Verprügeln^Choque
 MST_MONSTER_SKILL_NAME_166060^Thwack^強擊衝撞^부딪히기^Clameur^Verprügeln^Choque
 MST_MONSTER_SKILL_NAME_166070^Hot Iron^烙印^인두^Fer brûlant^Heißes Essen^Hierro caliente
@@ -2321,7 +2321,7 @@ MST_MONSTER_SKILL_NAME_170310^Became compact^變硬了^단단해졌다^Larvalar 
 MST_MONSTER_SKILL_NAME_170320^Ralvuimago relaxes its guard^解除警戒^경계를 풀다^Larvalar n'est plus en alerte^Nicht mehr wachsam^Ha bajado la guardia.
 MST_MONSTER_SKILL_NAME_170330^Fang of Confusion^混亂之牙^혼란의 송곳니^Croc de confusion^Fang der Konfusion^Colmillo de la confusión
 MST_MONSTER_SKILL_NAME_170340^Howling Moon^月夜狼嚎^하울링 문^Lune hurlante^Mondheulen^Luna aullante
-MST_MONSTER_SKILL_NAME_170350^Icestorm^吹雪^눈보라^Blizzard^Blizzard^Tormenta de nieve
+MST_MONSTER_SKILL_NAME_170350^Icestorm^吹雪^눈보라^Blizzard^Blizzard^Tormenta de hielo
 MST_MONSTER_SKILL_NAME_170360^Great Bleat^大咆哮^거대한 포효^Grand rugissement^Großes Gezeter^Gran quejido
 MST_MONSTER_SKILL_NAME_170370^Dark Breath^黑暗吐息^다크 숨결^Souffle obscur^Dunkelatem^Aliento oscuro
 MST_MONSTER_SKILL_NAME_170380^Darkga^大暗黑^다크가^Ténèbres X^Darkga^Sombra++
@@ -2330,7 +2330,7 @@ MST_MONSTER_SKILL_NAME_170400^Crunch^咬碎^물어뜯기^Croquer^Zermalmen^Cruji
 MST_MONSTER_SKILL_NAME_170410^Fang of Confusion^混亂之牙^혼란의 송곳니^Croc de confusion^Fang der Konfusion^Colmillo de la confusión
 MST_MONSTER_SKILL_NAME_170420^Hell Fang^地獄之牙^지옥의 송곳니^Croc infernal^Höllenfang^Colmillo infernal
 MST_MONSTER_SKILL_NAME_170430^Howling Moon^月夜狼嚎^하울링 문^Lune hurlante^Mondheulen^Luna aullante
-MST_MONSTER_SKILL_NAME_170440^Icestorm^吹雪^눈보라^Blizzard^Blizzard^Tormenta de nieve
+MST_MONSTER_SKILL_NAME_170440^Icestorm^吹雪^눈보라^Blizzard^Blizzard^Tormenta de hielo
 MST_MONSTER_SKILL_NAME_170450^Cold Breath^寒冷吐息^추위의 숨결^Souffle gelé^Kalter Atem^Hálito frío
 MST_MONSTER_SKILL_NAME_170460^Strong Claw^強烈爪擊^강렬한 손톱^Griffe puissante^Starke Kralle^Garra poderosa
 MST_MONSTER_SKILL_NAME_170470^Dark Breath^黑暗吐息^다크 숨결^Souffle obscur^Dunkelatem^Aliento oscuro

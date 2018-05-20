@@ -223,7 +223,7 @@ MST_TOWNSTORE_NAME_1430101^Sector Collector^石板收集負責人^석판 수집 
 MST_TOWNSTORE_NAME_900127^King Mog^莫古利王^모그리 왕^Roi mog^König Mogry^Rey Moguri
 MST_TOWNSTORE_NAME_900128^King Mog^莫古利王^모그리 왕^Roi mog^König Mogry^Rey Moguri
 MST_TOWNSTORE_NAME_900129^King Mog^莫古利王^모그리 왕^Roi mog^König Mogry^Rey Moguri
-MST_TOWNSTORE_NAME_900130^King Mog^莫古利王^모그리 왕^Roi mog^König Mogry^Rey Moguri
+MST_TOWNSTORE_NAME_900130^Mog Minister^莫古利大臣^모그리 대신^Ministre mog^Mogryminister^Ministro Moguri
 MST_TOWNSTORE_NAME_900131^King Mog^莫古利王^모그리 왕^Roi mog^König Mogry^Rey Moguri
 MST_TOWNSTORE_NAME_7000003^King Mog^莫古利王^모그리 왕^Roi mog^König Mogry^Rey Moguri
 MST_TOWNSTORE_NAME_900124^Mog Minister^莫古利大臣^모그리 대신^Ministre mog^Mogryminister^Ministro Moguri
@@ -747,3 +747,73 @@ MST_MEDAL_EXCHANGE_EXPLAIN_71076^^^^^^
 MST_MEDAL_EXCHANGE_EXPLAIN_71077^^^^^^
 MST_MEDAL_EXCHANGE_EXPLAIN_71078^^^^^^
 MST_MEDAL_EXCHANGE_EXPLAIN_71079^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72701^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72702^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72703^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72704^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72705^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72706^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72707^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72708^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72709^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72710^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72711^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72712^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72713^[Select Unit Enhancer] Fuse to increase units with the <color=255:255:0>Onion Sword</color> trust master by 5%^【強化素材專用兵員】合成後<color=255:255:0>洋蔥劍</color>的信賴度將會提高5%^[유닛 강화 재료 전용 유닛] 합성하면 <color=255:255:0>양파 검</color>의 트러스트가 5% 상승하는 유닛^[Matériau d'amélioration d'unité] Fusionnez-la pour augmenter la confiance absolue de l'unité possédant la récompense <color=255:255:0>"Épée oignon"</color> de 5%^[Einheit-Verstärker] Erhöht Treue von Einheiten mit Wahrer Treue <color=255:255:0>Zwiebelschwert</color> um 5%.^[Material de mejora exclusivo] Fusiónalo para mejorar a las unidades con el Maestro Fiel <color=255:255:0>Espada cebolla</color> un 5%
+MST_MEDAL_EXCHANGE_EXPLAIN_72714^[Select Unit Enhancer] Fuse to increase units with the <color=255:255:0>Soul of Thamasa</color> trust master by 5%^【強化素材專用兵員】合成後<color=255:255:0>薩瑪莎靈珠</color>的信賴度將會提高5%^[유닛 강화 재료 전용 유닛] 합성하면 <color=255:255:0>사마사의 영혼</color>의 트러스트가 5% 상승하는 유닛^[Matériau d'amélioration d'unité] Fusionnez-la pour augmenter la confiance absolue de l'unité possédant la récompense <color=255:255:0>"Âme de Thamasa"</color> de 5%^[Einheit-Verstärker] Erhöht Treue von Einheiten mit Wahrer Treue <color=255:255:0>Seele von Thamasa</color> um 5%.^[Material de mejora exclusivo] Fusiónalo para mejorar a las unidades con el Maestro Fiel <color=255:255:0>Alma de Tábata</color> un 5%
+MST_MEDAL_EXCHANGE_EXPLAIN_72715^[Select Unit Enhancer] Fuse to increase units with the <color=255:255:0>Sworn Six's Pride - Dark</color> trust master by 5%^【強化素材專用兵員】合成後<color=255:255:0>六盟傑榮耀·暗</color>的信賴度將會提高5%^[유닛 강화 재료 전용 유닛] 합성하면 <color=255:255:0>여섯 호걸 연맹의 긍지·어둠</color>의 트러스트가 5% 상승하는 유닛^[Matériau d'amélioration d'unité] Fusionnez-la pour augmenter la confiance absolue de l'unité possédant la récompense <color=255:255:0>"Fierté des Six - Ténèbres"</color> de 5%^[Einheit-Verstärker] Erhöht Treue von Einheiten mit Wahrer Treue <color=255:255:0>Stolz der Sechs - Finsternis</color> um 5%.^[Material de mejora exclusivo] Fusiónalo para mejorar a las unidades con el Maestro Fiel <color=255:255:0>Orgullo de Paladia - Oscuridad</color> un 5%
+MST_MEDAL_EXCHANGE_EXPLAIN_72716^[Select Unit Enhancer] Fuse to increase units with the <color=255:255:0>Thirst for Survival</color> trust master by 5%^【強化素材專用兵員】合成後<color=255:255:0>求生慾望</color>的信賴度將會提高5%^[유닛 강화 재료 전용 유닛] 합성하면 <color=255:255:0>생존을 향한 갈망</color>의 트러스트가 5% 상승하는 유닛^[Matériau d'amélioration d'unité] Fusionnez-la pour augmenter la confiance absolue de l'unité possédant la récompense <color=255:255:0>"Soif de survie"</color> de 5%^[Einheit-Verstärker] Erhöht Treue von Einheiten mit Wahrer Treue <color=255:255:0>Überlebensdurst</color> um 5%.^[Material de mejora exclusivo] Fusiónalo para mejorar a las unidades con el Maestro Fiel <color=255:255:0>Sed de supervivencia</color> un 5%
+MST_MEDAL_EXCHANGE_EXPLAIN_72717^[Select Unit Enhancer] Fuse to increase units with the <color=255:255:0>Champion's Belt</color> trust master by 5%^【強化素材專用兵員】合成後<color=255:255:0>冠軍腰帶</color>的信賴度將會提高5%^[유닛 강화 재료 전용 유닛] 합성하면 <color=255:255:0>챔피언 벨트</color>의 트러스트가 5% 상승하는 유닛^[Matériau d'amélioration d'unité] Fusionnez-la pour augmenter la confiance absolue de l'unité possédant la récompense <color=255:255:0>"Ceinture de champion"</color> de 5%^[Einheit-Verstärker] Erhöht Treue von Einheiten mit Wahrer Treue <color=255:255:0>Championgurt</color> um 5%.^[Material de mejora exclusivo] Fusiónalo para mejorar a las unidades con el Maestro Fiel <color=255:255:0>Cinto de adalid</color> un 5%
+MST_MEDAL_EXCHANGE_EXPLAIN_72718^[Select Unit Enhancer] Fuse to increase units with the <color=255:255:0>Light's Blessing</color> trust master by 5%^【強化素材專用兵員】合成後<color=255:255:0>光之加護</color>的信賴度將會提高5%^[유닛 강화 재료 전용 유닛] 합성하면 <color=255:255:0>빛의 가호</color>의 트러스트가 5% 상승하는 유닛^[Matériau d'amélioration d'unité] Fusionnez-la pour augmenter la confiance absolue de l'unité possédant la récompense <color=255:255:0>"Grâce de la lumière"</color> de 5%^[Einheit-Verstärker] Erhöht Treue von Einheiten mit Wahrer Treue <color=255:255:0>Lichtsegen</color> um 5%.^[Material de mejora exclusivo] Fusiónalo para mejorar a las unidades con el Maestro Fiel <color=255:255:0>Bendición de Luz</color> un 5%
+MST_MEDAL_EXCHANGE_EXPLAIN_72719^[Select Unit Enhancer] Fuse to increase units with the <color=255:255:0>Barrage</color> trust master by 5%^【強化素材專用兵員】合成後<color=255:255:0>亂擊</color>的信賴度將會提高5%^[유닛 강화 재료 전용 유닛] 합성하면 <color=255:255:0>난사</color>의 트러스트가 5% 상승하는 유닛^[Matériau d'amélioration d'unité] Fusionnez-la pour augmenter la confiance absolue de l'unité possédant la récompense <color=255:255:0>"Pluie de coups"</color> de 5%^[Einheit-Verstärker] Erhöht Treue von Einheiten mit Wahrer Treue <color=255:255:0>Sperrfeuer</color> um 5%.^[Material de mejora exclusivo] Fusiónalo para mejorar a las unidades con el Maestro Fiel <color=255:255:0>Ráfaga</color> un 5%
+MST_MEDAL_EXCHANGE_EXPLAIN_72720^[Select Unit Enhancer] Fuse to increase units with the <color=255:255:0>Hanzo Gauntlet</color> trust master by 5%^【強化素材專用兵員】合成後<color=255:255:0>半藏前臂</color>的信賴度將會提高5%^[유닛 강화 재료 전용 유닛] 합성하면 <color=255:255:0>한조의 팔보호대</color>의 트러스트가 5% 상승하는 유닛^[Matériau d'amélioration d'unité] Fusionnez-la pour augmenter la confiance absolue de l'unité possédant la récompense <color=255:255:0>"Gants de Hanzo"</color> de 5%^[Einheit-Verstärker] Erhöht Treue von Einheiten mit Wahrer Treue <color=255:255:0>Hanzo-Handschuh</color> um 5%.^[Material de mejora exclusivo] Fusiónalo para mejorar a las unidades con el Maestro Fiel <color=255:255:0>Guantes de Hanzo</color> un 5%
+MST_MEDAL_EXCHANGE_EXPLAIN_72721^[Select Unit Enhancer] Fuse to increase units with the <color=255:255:0>Angel Earrings</color> trust master by 5%^【強化素材專用兵員】合成後<color=255:255:0>天使耳墜</color>的信賴度將會提高5%^[유닛 강화 재료 전용 유닛] 합성하면 <color=255:255:0>천사의 귀걸이</color>의 트러스트가 5% 상승하는 유닛^[Matériau d'amélioration d'unité] Fusionnez-la pour augmenter la confiance absolue de l'unité possédant la récompense <color=255:255:0>"Boucles d'oreilles d'ange"</color> de 5%^[Einheit-Verstärker] Erhöht Treue von Einheiten mit Wahrer Treue <color=255:255:0>Engelsohrring</color> um 5%.^[Material de mejora exclusivo] Fusiónalo para mejorar a las unidades con el Maestro Fiel <color=255:255:0>Aretes de ángel</color> un 5%
+MST_MEDAL_EXCHANGE_EXPLAIN_72722^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72723^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72724^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72725^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72726^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72727^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72728^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72729^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72730^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72731^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72732^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72733^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72734^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72735^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72736^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72737^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72738^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72739^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72740^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72741^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72742^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72743^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72744^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72745^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72746^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72747^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72748^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72749^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72750^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72751^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72752^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72753^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72754^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72755^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72756^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72757^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72758^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72759^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72760^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72761^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72762^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72763^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72764^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72765^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72766^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72767^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72768^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72769^^^^^^
+MST_MEDAL_EXCHANGE_EXPLAIN_72770^^^^^^
