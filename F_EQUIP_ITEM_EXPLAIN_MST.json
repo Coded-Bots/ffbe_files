@@ -1760,6 +1760,11 @@
         "VC9F3eJn": "二匹の毒蛇と例えられる刃の付いた巨大な投擲武器。両端に鋭い鎌が取り付けられており、中央の柄を持って投げ放つことで、遠距離から敵を攻撃できる。遥か異界では、ある忍者の娘が好んで用いていたとされる。"
     }, 
     {
+        "J1YX9kmM": "315022300", 
+        "T7aEx3Mj": "陰陽師が悪霊退治に用いる札", 
+        "VC9F3eJn": "陰陽師が悪霊退治に用いる札。敵に向かって投げると空を飛んでピタリと貼り付き、邪悪を滅する力を解放する。弱い魔物なら一瞬で消滅させてしまうほど強力な武器だが、善なる者が札に触れた場合は消耗した気力を回復してくれるという。近年では陰陽師ではない者まで、この札を求めるようになっているらしい。"
+    }, 
+    {
         "J1YX9kmM": "316000100", 
         "T7aEx3Mj": "ありふれた普通の竪琴", 
         "VC9F3eJn": "何のへんてつもない竪琴。弦を指で爪弾いて音を出す。手ごろなサイズなので、旅の吟遊詩人の多くが持ち歩いている。竪琴の中には、それ自体が魔力を持っているものもあるが、このハープはただの楽器。そのため、持ち主の演奏技術や歌の腕前がダイレクトに相手に伝わってしまう。そういう意味では、扱いにくい武器だと言えるだろう。"
@@ -2268,6 +2273,11 @@
         "J1YX9kmM": "403044700", 
         "T7aEx3Mj": "戦場で手柄をアピールする時に役立つ帽子", 
         "VC9F3eJn": "戦場において、手柄をアピールするには他者より目立つ以上の方法はない。派手な色で縁取られたこの大きな帽子は、戦場で目立ちたい兵士たちの願いを叶えてくれる格好のアイテムである。最前線で敵を倒す機会が少なく、後方からの遠距離攻撃が多い砲撃兵はこの帽子をかぶり、自らの存在感を高めることに努めたようだ。"
+    }, 
+    {
+        "J1YX9kmM": "403045100", 
+        "T7aEx3Mj": "古き毬に宿る神をかたどった人形", 
+        "VC9F3eJn": "古き毬に宿る神“ツクモ”をかたどった人形。これを憑代としたツクモの思念が、装備者にささやかな加護を与える。一見、モンスターのような外見をした神だが、陰陽師を目指す女の子と友情を結び、ともに修行したという微笑ましいエピソードも残っており、祟りや呪いで周囲に害を与える可能性は一切ない。"
     }, 
     {
         "J1YX9kmM": "404000200", 
@@ -3048,6 +3058,16 @@
         "J1YX9kmM": "408003300", 
         "T7aEx3Mj": "グランシェルト軍の衛生兵がまとうローブ", 
         "VC9F3eJn": "グランシェルト軍の衛生兵がまとうローブ。過酷な環境下でも動きやすいよう随所に工夫がこらされている。特に、付属のポーチは多くの医薬品を収納できることから、利便性が高いと兵士たちの間で評判が良い。"
+    }, 
+    {
+        "J1YX9kmM": "408003600", 
+        "T7aEx3Mj": "陰陽師の女の子が愛用するちゃんちゃんこ", 
+        "VC9F3eJn": "陰陽師の女の子が愛用するちゃんちゃんこ。ファルム王国では広く防寒着として用いられている。「ちゃんちゃんこ」は「オフトン」や「ユタンポ」と並ぶ定番の人気商品で、地方によっては長寿のお祝いに贈られることもあるようだ。"
+    }, 
+    {
+        "J1YX9kmM": "408003700", 
+        "T7aEx3Mj": "陰陽師の家に代々伝わる狩衣", 
+        "VC9F3eJn": "陰陽師の家に代々伝わる狩衣。ファルムの離島で織られる貴重な布で仕立てられており、着る者の様々な能力を高めてくれる。人心を惑わす悪霊と対峙する陰陽師の狩衣は特に手の込んだ逸品で、身に着けた者を光属性や闇属性の攻撃から守る効果も期待できるという。"
     }, 
     {
         "J1YX9kmM": "409000100", 
@@ -4588,5 +4608,25 @@
         "J1YX9kmM": "1100000151", 
         "T7aEx3Mj": "Ankh of the Goddess", 
         "VC9F3eJn": "Ankh of the Goddess"
+    }, 
+    {
+        "J1YX9kmM": "1100000161", 
+        "T7aEx3Mj": "A red piece of garment made from soft fabrics.", 
+        "VC9F3eJn": "A red piece of garment made from soft fabrics. It was commonly worn by a certain group of clerics in the past as typical daily attire. Although its appearance is quite normal, this garb seems to be blessed with a certain form of magic."
+    }, 
+    {
+        "J1YX9kmM": "1100000162", 
+        "T7aEx3Mj": "A triangular piece of white cloth typically worn around the head.", 
+        "VC9F3eJn": "A triangular piece of white cloth typically worn around the head. The very first person who started wearing this was a young rebellious mage apprentice. He believed that wearing the color white played an important role in channeling his magical abilities to their fullest potential."
+    }, 
+    {
+        "J1YX9kmM": "1100000163", 
+        "T7aEx3Mj": "A staff used by elvish conjurers from a distant kingdom.", 
+        "VC9F3eJn": "A staff used by elvish conjurers from a distant kingdom. This magical weapon contains an ancient elf enchantment that grants its wielder increased vitality and healing capabilities."
+    }, 
+    {
+        "J1YX9kmM": "1100000164", 
+        "T7aEx3Mj": "A bright yellow rubber balloon that floats.", 
+        "VC9F3eJn": "A bright yellow rubber balloon that floats. It is filled with a powerful magical gas that enables it to hover mid-air. However, inhaling this gas can prove dangerous, as it is known to cause signs of madness."
     }
 ]

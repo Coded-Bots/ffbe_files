@@ -1846,8 +1846,8 @@ MST_ABILITY_NAME_212000^Shield Impact^盾牌衝擊^실드 임팩트^Impact prote
 MST_ABILITY_NAME_212010^Immortal Spirit^不滅鬥志^불멸의 투지^Esprit immortel ^Unsterblicher Geist^Espíritu inmortal
 MST_ABILITY_NAME_212020^Flame Type 2^火遁二式^화둔 2식^Flamme Type 2^Flamme Typ 2^Candela nivel 2
 MST_ABILITY_NAME_212030^Wildfire Type 2^火焰陣二式^화염진 2식^Feu sauvage Type 2^Lauffeuer Typ 2^Incendio nivel 2
-MST_ABILITY_NAME_212040^True Illude^真·幻惑^진·현혹^Fascination X^Wahrer Verführen^Fascinación+
-MST_ABILITY_NAME_212050^True Slumber Blade^真·誘眠之刃^진·잠을 부르는 칼날^Lame de somnolence X^Wahrer Schlummerklinge^Espada Morfeo+
+MST_ABILITY_NAME_212040^True Illude^真·幻惑^진·현혹^Fascination X^Wahrer Verführen^Fascinación X
+MST_ABILITY_NAME_212050^True Slumber Blade^真·誘眠之刃^진·잠을 부르는 칼날^Lame de somnolence X^Wahrer Schlummerklinge^Espada Morfeo X
 MST_ABILITY_NAME_212060^Spy^隱秘^은밀^Espionner ^Spion^Espionaje
 MST_ABILITY_NAME_212070^Negation^重置氣場^리셋의 오라^Négation^Negation^Aura cero
 MST_ABILITY_NAME_212080^Divine^聖域^디바인^Divin ^Göttlich^Divinidad
@@ -2137,14 +2137,14 @@ MST_ABILITY_NAME_214920^Innocent Magika^聖潔魔法^이노센트 마기카^Magi
 MST_ABILITY_NAME_214930^Mage's Resolution^魔道士的覺悟^마도사의 각오^Résolution de mage^Magierbeschluss^Resolución de mago
 MST_ABILITY_NAME_214940^Random Sample^隨機樣本^무작위 표본^Extrait au hasard ^Zufällige Probe^Muestra cualquiera
 MST_ABILITY_NAME_214950^Preservation^維護^점검^Préservation ^Erhaltung^Preservación
-MST_ABILITY_NAME_214960^Missile Shelter^導彈庇護所^미사일 셸터^Abri à missiles ^Raketenschutz^Refugio de misiles
+MST_ABILITY_NAME_214960^Missile Shelter^導彈庇護所^미사일 셸터^Abri à missiles ^Raketenschutz^Refugio antimisiles
 MST_ABILITY_NAME_214970^Booby Trap^傻瓜陷阱^부비 트랩^Piège à crétin ^Sprengfalle^Trampa traicionera
 MST_ABILITY_NAME_214980^Aggression^積極進攻^침략^Agressivité^Aggression^Agresión
 MST_ABILITY_NAME_214990^Buster Style^破壞者姿態^버스터 폼^Posture de casseur^Jägergestalt^Postura de espada mortal
-MST_ABILITY_NAME_215000^True Doublehand^真·雙手持^진·양손 들기^Deux mains X^Wahre Doppelhand^Manodoble+
+MST_ABILITY_NAME_215000^True Doublehand^真·雙手持^진·양손 들기^Deux mains X^Wahre Doppelhand^Manodoble X
 MST_ABILITY_NAME_215010^Frozen Blade^冰凍劍^프로즌 블레이드^Lame gelée^Frierklinge^Cuchilla congelante
 MST_ABILITY_NAME_215020^Icicle Storm^冰凌風暴^아이시클 스톰^Tempête de stalactites^Eiszapfensturm^Tormenta de témpanos
-MST_ABILITY_NAME_215030^Frost Fall^冰霜痛擊^동상^Gelure^Frostbiss^Frío quemador
+MST_ABILITY_NAME_215030^Frostbite^冰霜痛擊^동상^Gelure^Frostbiss^Frío quemador
 MST_ABILITY_NAME_215040^Clever Smile^伶俐微笑^영리한 미소^Sourire intelligent ^Schlaues Lächeln^Sonrisa astuta
 MST_ABILITY_NAME_215050^Vigorous Cry^高聲吶喊^기세 높은 함성 소리^Cri énergique ^Kampfschrei^Llanto vigorizador
 MST_ABILITY_NAME_215060^Sub-zero Blade^冰柩封刃^영하의 칼^Lame zéro absolu^Klinge - Unter Null^Cuchilla bajo cero
@@ -2376,9 +2376,9 @@ MST_ABILITY_NAME_502940^Blood Weapon^嗜血武裝^피의 무기^Arme de sang^Blu
 MST_ABILITY_NAME_502950^Dark Weapon^暗黑武器^어둠의 무기^Arme obscure ^Dunkelwaffe^Arma tenebrosa
 MST_ABILITY_NAME_502960^Dark Weapon^暗黑武器^어둠의 무기^Arme obscure ^Dunkelwaffe^Arma tenebrosa
 MST_ABILITY_NAME_502970^Crushing Vice^雙臂重擊^바이스 크러쉬^Vice écrasant ^Schraubstock^Presa aplastadora
-MST_ABILITY_NAME_502980^Cat Hook^貓撲^냥냥펀치^Capuche de chat ^Katzenhaken^Garfio felino
-MST_ABILITY_NAME_502990^Cat Hook^貓撲^냥냥펀치^Capuche de chat ^Katzenhaken^Garfio felino
-MST_ABILITY_NAME_503000^Cat Hook^貓撲^냥냥펀치^Capuche de chat ^Katzenhaken^Garfio felino
+MST_ABILITY_NAME_502980^Cat Hook^貓撲^냥냥펀치^Crochet félin^Katzenhaken^Garfio felino
+MST_ABILITY_NAME_502990^Cat Hook^貓撲^냥냥펀치^Crochet félin^Katzenhaken^Garfio felino
+MST_ABILITY_NAME_503000^Cat Hook^貓撲^냥냥펀치^Crochet félin^Katzenhaken^Garfio felino
 MST_ABILITY_NAME_600130^Tempest^暴風掃擊^템페스트^Tempête ^Unwetter^Tempestad
 MST_ABILITY_NAME_600140^Divine Selection^天選^하늘의 선택^Choix céleste ^Göttliche Auswahl^Selección divina
 MST_ABILITY_NAME_600150^Call to Ruin^破滅造訪^파멸의 도래^Appel de la destruction^Ruf zum Ruin^Llamada de la ruina
@@ -2767,7 +2767,7 @@ MST_ABILITY_NAME_910249^Potion of Cleansing^淨化治療劑^정화의 포션^Pot
 MST_ABILITY_NAME_910250^Potion of Elemental Resistance^屬性耐性治療劑^속성 저항력의 포션^Potion de résistance élémentaire^Trank der Elementarresistenz^Poción de resistencia elemental
 MST_ABILITY_NAME_910251^Minor Potion of Rejuvenation^恢復治療劑・小^원기회복의 포션(소)^Potion de rajeunissement mineure^Kleiner Trank der Verjüngung^Poción rejuvenecedora menor
 MST_ABILITY_NAME_910252^Potion of Rejuvenation^恢復治療劑・中^원기회복의 포션(중)^Potion de rajeunissement^Trank der Verjüngung^Poción rejuvenecedora
-MST_ABILITY_NAME_910253^Greater Potion of Rejuvenation^恢復治療劑・大^원기회복의 포션(대)^Potion de rajeunissement majeure^Großer Trank der Verjüngung^Poción rejuvenecedora mayor
+MST_ABILITY_NAME_910253^Greater Potion of Rejuvenation^恢復治療劑・大^원기회복의 포션(대)^Potion de rajeunissement majeure^#N/A^Poción rejuvenecedora mayor
 MST_ABILITY_NAME_910254^Miracle Blessing^奇蹟加護^기적의 축복^Bénédiction miraculeuse^Wundersegen^Bendición milagrosa
 MST_ABILITY_NAME_910255^Speedster^速度之星^속도광^Roi du sprint^Raser^Gacela
 MST_ABILITY_NAME_910256^Speedster^速度之星^속도광^Roi du sprint^Raser^Gacela
@@ -2784,7 +2784,7 @@ MST_ABILITY_NAME_215710^Hybrid Lady^混血女士^하이브리드 레이디^Dame 
 MST_ABILITY_NAME_215720^Cat Pet^貓撒嬌^골골송^Ronronnement^Hauskatze^Caricia felina
 MST_ABILITY_NAME_215730^Cat Play^貓嬉戲^오뎅꼬치^Jeu félin^Katzenspiel^Juego felino
 MST_ABILITY_NAME_215740^Cat Fan^寵愛貓^궁디 팡팡^Adorateur félin^Katzennarr^Mimo felino
-MST_ABILITY_NAME_215750^Cat Hook^貓撲^냥냥펀치^Capuche de chat^Katzenhaken^Gancho felino
+MST_ABILITY_NAME_215750^Cat Hook^貓撲^냥냥펀치^Crochet félin^Katzenhaken^Gancho felino
 MST_ABILITY_NAME_215760^Grooming^梳毛^그루밍^Toilettage^Fellpflege^Acicalar
 MST_ABILITY_NAME_215770^Cat Brain^扮貓裝乖^고양이 내숭^Instinct félin^Katzenhirn^Instinto felino
 MST_ABILITY_NAME_215780^Nine Lives^九命怪貓^아홉 개의 생명^Neuf vies^Neun Leben^Nueve vidas
@@ -2809,7 +2809,7 @@ MST_ABILITY_NAME_215960^Fancy Dress^奇幻洋裝^팬시 드레스^Vêtement él�
 MST_ABILITY_NAME_215970^Washable^水洗^워셔블^Lavable^Waschbar^Impoluto
 MST_ABILITY_NAME_215980^Draping^立體剪裁^드레이핑^Draper^Drappieren^Drapear
 MST_ABILITY_NAME_215990^Crack Stitch^暗線縫紉^크랙 스티치^Rafistolage^Stechriss^Remiendo
-MST_ABILITY_NAME_216000^Black Formal^黑色禮服^블랙 포멀^Noir formel^Förmlich in Schwarz^Negro formal
+MST_ABILITY_NAME_216000^Black Formal^黑色禮服^블랙 포멀^Noir habillé^Förmlich in Schwarz^Negro formal
 MST_ABILITY_NAME_216010^Tailor's Taste^裁縫師的嗜好^테일러의 몸가짐^Goût de tailleur^Schneiders Geschmack^Gusto de sastre
 MST_ABILITY_NAME_216030^Floral Blessing^薔薇祝福^장미의 축복^Bénédiction florale^Floraler Segen^Bendición floral
 MST_ABILITY_NAME_216040^Light Resistance +20%^光屬性耐性+20%^빛속성 저항력+20%^Rés. à la lumière +20%^Lichtresistenz +20%^Res. a la luz +20%
@@ -3480,11 +3480,11 @@ MST_ABILITY_NAME_704910^Manufacture^製造^만들어내기^Manufacture^Produktio
 MST_ABILITY_NAME_704920^Manufacture^製造^만들어내기^Manufacture^Produktion^Manufactura
 MST_ABILITY_NAME_704930^Dwarven Force^矮人潛力^드워프의 저력^Pouvoir nain^Zwergenkraft^Poder enano
 MST_ABILITY_NAME_704940^Dwarven Force^矮人潛力^드워프의 저력^Pouvoir nain^Zwergenkraft^Poder enano
-MST_ABILITY_NAME_218970^True Shard of Genius^真・睿智的結晶^진·예지의 결정^Éclat de génie X^Wahrer Splitter des Genies^Fragmento de ingenio+
-MST_ABILITY_NAME_218980^True Follower's Oath^真・追隨者的誓言^진·맹주에게 바치는 맹세^Serment du serviteur X^Wahrer Schwur des Anhängers^Voto del servidor+
-MST_ABILITY_NAME_218990^True Hydaelyn Guard^真・海德林的加護^진·하이델린의 가호^Protection d'Hydaelyn X^Wahre Hydaelynische Wache^Guarda de Hydaelyn+
-MST_ABILITY_NAME_219000^True Spirit of Freedom^真・不羈的氣焰^진·불기의 기염^Esprit de liberté X^Wahrer Geist der Freiheit^Espíritu libre+
-MST_ABILITY_NAME_219010^True Sage's Prajna^真・賢人的智慧^진·현자의 지혜^Prajna du sage X^Wahre Prajna des Weisen^Prajna del sabio+
+MST_ABILITY_NAME_218970^True Shard of Genius^真・睿智的結晶^진·예지의 결정^Éclat de génie X^Wahrer Splitter des Genies^Fragmento de ingenio X
+MST_ABILITY_NAME_218980^True Follower's Oath^真・追隨者的誓言^진·맹주에게 바치는 맹세^Serment du serviteur X^Wahrer Schwur des Anhängers^Voto del servidor X
+MST_ABILITY_NAME_218990^True Hydaelyn Guard^真・海德林的加護^진·하이델린의 가호^Protection d'Hydaelyn X^Wahre Hydaelynische Wache^Guarda de Hydaelyn X
+MST_ABILITY_NAME_219000^True Spirit of Freedom^真・不羈的氣焰^진·불기의 기염^Esprit de liberté X^Wahrer Geist der Freiheit^Espíritu libre X
+MST_ABILITY_NAME_219010^True Sage's Prajna^真・賢人的智慧^진·현자의 지혜^Prajna du sage X^Wahre Prajna des Weisen^Prajna del sabio X
 MST_ABILITY_NAME_910257^Judge Magister^最高審判者^저지 매지스터^Juge suprême^Magister-Richter^Juicio supremo
 MST_ABILITY_NAME_910258^Hero Crest^英雄紋章^영웅의 인장^Emblème de héros^Heldenwappen^Emblema heroico
 MST_ABILITY_NAME_910259^Blade of Justice^正義之劍^정의로운 검^Lame de la justice^Schwert der Rechtschaffenheit^Espada justiciera
@@ -4623,7 +4623,7 @@ MST_ABILITY_NAME_506210^Transmission^傳送^트랜스미션^Transmission^Transmi
 MST_ABILITY_NAME_506220^Hammer of Fury^憤怒的鐵錘^분노의 철퇴^Marteau de la colère^Zorneshammer^Martillo de la ira
 MST_ABILITY_NAME_506230^Restrained Agression^激情的制裁^격정의 제재^Agression retenue^Gezügelte Aggression^Agresión contenida
 MST_ABILITY_NAME_506240^Originating Swirl^根源災禍^근원의 소용돌이^Tourbillon original^Ursprungswirbel^Torbellino original
-MST_ABILITY_NAME_506250^True Originating Swirl^真·根源災禍^진·근원의 소용돌이^Tourbillon originel X^Wahrer Ursprungswirbel^Torbellino original+
+MST_ABILITY_NAME_506250^True Originating Swirl^真·根源災禍^진·근원의 소용돌이^Tourbillon originel X^Wahrer Ursprungswirbel^Torbellino original X
 MST_ABILITY_NAME_506260^Soul Drive^靈魂驅動^소울 드라이브^Sursaut d'âme^Seelenschub^Picado del alma
 MST_ABILITY_NAME_506270^Double Axe^雙重斧^더블 액스^Double hache^Doppelaxt^Hacha doble
 MST_ABILITY_NAME_506280^Full Charge Stomp^超蓄力印章^전력 발구르기^Piétinement maximum^Voller Stampfer^Pisotón total
@@ -5066,7 +5066,7 @@ MST_ABILITY_NAME_910638^Gears of Time^齒輪時間^시간의 장치들^Équipeme
 MST_ABILITY_NAME_910639^Snowbear's Gift^雪熊之禮^눈곰의 선물^Cadeau de l'ours polaire^Geschenk des Schneebären^Regalo de oso polar
 MST_ABILITY_NAME_910640^Frost Nova^冰霜新星^얼음 회오리^Nova gelée^Frostnova^Nova gélida
 MST_ABILITY_NAME_910641^Cold Air^寒冷氣息^냉기류^Air froid^Kalte Luft^Aire frío
-MST_ABILITY_NAME_910642^Frost Fall^霜降^서리 내림^Tombegivre^Frostfall^Frío quemador
+MST_ABILITY_NAME_910642^Frost Fall^霜降^서리 내림^Tombegel^Frostfall^Caída gélida
 MST_ABILITY_NAME_910643^Ice Shards^寒冰碎片^얼음 조각^Fragment de glace^Eissplitter^Fragmentos de hielo
 MST_ABILITY_NAME_910644^Witch's Talent^女巫的才能^마녀의 재능^Talent de sorcière^Hexentalent^Talento de bruja
 MST_ABILITY_NAME_910645^Frozen Armor^冰凍鎧甲^얼어붙은 갑옷^Armure gelée^Frostrüstung^Armadura congelada
@@ -5427,7 +5427,7 @@ MST_ABILITY_NAME_911019^Motherly Love^母愛^모성애^Amour maternel^Mutterlieb
 MST_ABILITY_NAME_100021^^^^^^
 MST_ABILITY_NAME_100051^^^^^^
 MST_ABILITY_NAME_100081^^^^^^
-MST_ABILITY_NAME_100111^^^^^^
+MST_ABILITY_NAME_100111^MAG +20%^魔力+20%^마력+20%^MAGIE +20%^MAG + 20 %^MAG +20%
 MST_ABILITY_NAME_100141^^^^^^
 MST_ABILITY_NAME_100171^^^^^^
 MST_ABILITY_NAME_100065^^^^^^
@@ -5917,20 +5917,20 @@ MST_ABILITY_NAME_227331^^^^^^
 MST_ABILITY_NAME_227332^^^^^^
 MST_ABILITY_NAME_227333^^^^^^
 MST_ABILITY_NAME_227334^^^^^^
-MST_ABILITY_NAME_227340^^^^^^
-MST_ABILITY_NAME_227341^^^^^^
-MST_ABILITY_NAME_227342^^^^^^
-MST_ABILITY_NAME_227343^^^^^^
-MST_ABILITY_NAME_227344^^^^^^
-MST_ABILITY_NAME_227345^^^^^^
-MST_ABILITY_NAME_227346^^^^^^
-MST_ABILITY_NAME_227347^^^^^^
-MST_ABILITY_NAME_227348^^^^^^
-MST_ABILITY_NAME_227349^^^^^^
-MST_ABILITY_NAME_227350^^^^^^
-MST_ABILITY_NAME_227351^^^^^^
-MST_ABILITY_NAME_227352^^^^^^
-MST_ABILITY_NAME_227353^^^^^^
+MST_ABILITY_NAME_227340^Basic Duality^陰陽基礎^음양의 기초^Dualité basique^Yin-Yang-Grundlagen^Dualidad básica
+MST_ABILITY_NAME_227341^Festive Girl^祭典少女^축제의 소녀^Fille de la fête^Festmädchen^Chica festiva
+MST_ABILITY_NAME_227342^Supreme Protection^太極護法^태극의 호법^Protection suprême^Schutz der dualen Harmonie^Protección suprema
+MST_ABILITY_NAME_227343^Fox Charm^狐之符^여우의 부적^Amulette (renard)^Kitsune-Gebet^Encanto vulpino
+MST_ABILITY_NAME_227344^Absorbing Talisman^破吸靈符^파흡의 부적^Talisman d'absorption^Absorbierender Talisman^Talismán de absorción
+MST_ABILITY_NAME_227345^Protective Talisman^守護靈符^수호의 부적^Talisman de protection^Schützender Talisman^Talismán protector
+MST_ABILITY_NAME_227346^Tengu Charm^天狗之符^텐구의 부적^Amulette (tengu)^Tengu-Gebet^Amuleto tengu
+MST_ABILITY_NAME_227347^Dragon Charm^龍之符^용의 부적^Amulette (dragon)^Drachen-Gebet^Amuleto dragoniano
+MST_ABILITY_NAME_227348^Tsukumo and I^和付喪一起^츠쿠모와 함께^Tsukumo et moi^Gemeinsam mit den Tsukumo^Tsukumo y yo
+MST_ABILITY_NAME_227349^Exorcist's Essence^陰陽精髓^음양도의 비법^Essence de l'exorcisme^Essenz der Yin-Yang-Lehre^Esencia exorcistada
+MST_ABILITY_NAME_227350^Tsukumo's Transformation^付喪變化^츠쿠모 변화^Transformation de Tsukumo^Tsukumo-Verwandlung^Transformación de Tsukumo
+MST_ABILITY_NAME_227351^Ukiyo's Light Spell^浮世式陽咒彈^우키요식 주술탄[양]^Sort de lumière d'Ukiyo^Ukiyos Lichtspruch^Hechizo lumínico de Ukiyo
+MST_ABILITY_NAME_227352^Dance of Shadows^陰之舞^음박자의 춤^Danse des ombres^Yin-Tanzform^Danza de sombras
+MST_ABILITY_NAME_227353^Dance of Light^陽之舞^양박자의 춤^Danse de lumière^Yang-Tanzform^Danza de luces
 MST_ABILITY_NAME_227360^^^^^^
 MST_ABILITY_NAME_227361^^^^^^
 MST_ABILITY_NAME_227362^^^^^^
@@ -7157,8 +7157,8 @@ MST_ABILITY_NAME_507852^^^^^^
 MST_ABILITY_NAME_507853^^^^^^
 MST_ABILITY_NAME_507854^^^^^^
 MST_ABILITY_NAME_507855^^^^^^
-MST_ABILITY_NAME_507860^^^^^^
-MST_ABILITY_NAME_507861^^^^^^
+MST_ABILITY_NAME_507860^Festive Girl^祭典少女^축제의 소녀^Fille de la fête^Festmädchen^Chica festiva
+MST_ABILITY_NAME_507861^Demon Tsukumo^鬼付喪^귀신 츠쿠모^Tsukumo démoniaque^Dämonischer Tsukumo^Tsukumo demoníaco
 MST_ABILITY_NAME_507870^^^^^^
 MST_ABILITY_NAME_507871^^^^^^
 MST_ABILITY_NAME_507872^^^^^^
@@ -7482,10 +7482,10 @@ MST_ABILITY_NAME_706230^^^^^^
 MST_ABILITY_NAME_706240^^^^^^
 MST_ABILITY_NAME_706250^^^^^^
 MST_ABILITY_NAME_706260^^^^^^
-MST_ABILITY_NAME_707170^^^^^^
-MST_ABILITY_NAME_707171^^^^^^
-MST_ABILITY_NAME_707172^^^^^^
-MST_ABILITY_NAME_707173^^^^^^
+MST_ABILITY_NAME_707170^Mog Waltz^莫古華爾茲^모그 왈츠^Valse mog^Mogry-Walzer^Vals moguri
+MST_ABILITY_NAME_707171^Mog Waltz^莫古華爾茲^모그 왈츠^Valse mog^Mogry-Walzer^Vals moguri
+MST_ABILITY_NAME_707172^Mog Barrage^莫古亂突刺^모그 혼란^Pluie de coups mog^Mogry-Sperrfeuer^Ráfaga moguri
+MST_ABILITY_NAME_707173^Mog Barrage^莫古亂突刺^모그 혼란^Pluie de coups mog^Mogry-Sperrfeuer^Ráfaga moguri
 MST_ABILITY_NAME_707174^^^^^^
 MST_ABILITY_NAME_707175^^^^^^
 MST_ABILITY_NAME_707176^^^^^^

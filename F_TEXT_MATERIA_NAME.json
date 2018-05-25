@@ -390,9 +390,9 @@ MST_MATERIA_NAME_504901300^NA^翻訳不要^翻訳不要^NA^NA^NA
 MST_MATERIA_NAME_504901310^NA^翻訳不要^翻訳不要^NA^NA^NA
 MST_MATERIA_NAME_504901320^NA^翻訳不要^翻訳不要^NA^NA^NA
 MST_MATERIA_NAME_504901330^NA^翻訳不要^翻訳不要^NA^NA^NA
-MST_MATERIA_NAME_504901340^Dark^暗黑^다크^Ténèbres^Dunkel^Sombra
-MST_MATERIA_NAME_504901350^Darkra^中暗黑^다크라^Ténèbres +^Darkra^Sombra+
-MST_MATERIA_NAME_504901360^Darkga^大暗黑^다크가^Ténèbres X^Darkga^Sombra++
+MST_MATERIA_NAME_504901340^Dark^暗黑^다크^Ténèbres^Negrum^Sombra
+MST_MATERIA_NAME_504901350^Darkra^中暗黑^다크라^Ténèbres +^Negra^Sombra+
+MST_MATERIA_NAME_504901360^Darkga^大暗黑^다크가^Ténèbres X^Nega^Sombra++
 MST_MATERIA_NAME_504901370^NA^翻訳不要^翻訳不要^NA^NA^NA
 MST_MATERIA_NAME_504901380^NA^翻訳不要^翻訳不要^NA^NA^NA
 MST_MATERIA_NAME_504901390^NA^翻訳不要^翻訳不要^NA^NA^NA
@@ -571,11 +571,11 @@ MST_MATERIA_NAME_1500000028^Drowned King^洪災之王^익사한 왕^Monarque noy
 MST_MATERIA_NAME_1500000029^Lunarian's Hate^月之民的憎恨^달의 주민의 증오^Haine de Sélénite^Hass der Lunarier^Ira lunaria
 MST_MATERIA_NAME_1500000031^Barbariccia's Spirit^巴爾巴莉希亞之魂^발바리시아의 영혼^Esprit de Barbariccia^Barbarizias Seele^Espíritu de Barbariccia
 MST_MATERIA_NAME_504020270^Graviga^強重力^그라비가^Gravité X^Graviga^Gravedad++
-MST_MATERIA_NAME_504218970^True Shard of Genius^真・睿智的結晶^진·예지의 결정^Éclat de génie X^Wahrer Splitter des Genies^Fragmento de ingenio+
-MST_MATERIA_NAME_504218980^True Follower's Oath^真・追隨者的誓言^진·맹주에게 바치는 맹세^Serment du serviteur X^Wahrer Schwur des Anhängers^Voto del servidor+
-MST_MATERIA_NAME_504218990^True Hydaelyn Guard^真・海德林的加護^진·하이델린의 가호^Protection d'Hydaelyn X^Wahre Hydaelynische Wache^Guarda de Hydaelyn+
-MST_MATERIA_NAME_504219000^True Spirit of Freedom^真・不羈的氣焰^진·불기의 기염^Esprit de liberté X^Wahrer Geist der Freiheit^Espíritu libre+
-MST_MATERIA_NAME_504219010^True Sage's Prajna^真・賢人的智慧^진·현자의 지혜^Prajna du sage X^Wahre Prajna des Weisen^Prajna del sabio+
+MST_MATERIA_NAME_504218970^True Shard of Genius^真・睿智的結晶^진·예지의 결정^Éclat de génie X^Wahrer Splitter des Genies^Fragmento de ingenio X
+MST_MATERIA_NAME_504218980^True Follower's Oath^真・追隨者的誓言^진·맹주에게 바치는 맹세^Serment du serviteur X^Wahrer Schwur des Anhängers^Voto del servidor X
+MST_MATERIA_NAME_504218990^True Hydaelyn Guard^真・海德林的加護^진·하이델린의 가호^Protection d'Hydaelyn X^Wahre Hydaelynische Wache^Guarda de Hydaelyn X
+MST_MATERIA_NAME_504219000^True Spirit of Freedom^真・不羈的氣焰^진·불기의 기염^Esprit de liberté X^Wahrer Geist der Freiheit^Espíritu libre X
+MST_MATERIA_NAME_504219010^True Sage's Prajna^真・賢人的智慧^진·현자의 지혜^Prajna du sage X^Wahre Prajna des Weisen^Prajna del sabio X
 MST_MATERIA_NAME_504010380^Refresh^精神振奮^리프레쉬^Recharge^Heilaura^Restauración
 MST_MATERIA_NAME_504219930^Katana Enchantment^妖刀的知識^요도 지식^Enchantement de Katana^Katanaverzauberung^Encantamiento de katana
 MST_MATERIA_NAME_504219940^Heavy Chimera^重型奇美拉^헤비 키마이라^Khimaira lourde^Schwere Chimäre^Quimera pesada
@@ -654,3 +654,98 @@ MST_MATERIA_NAME_1500000047^Demon Banisher^惡魔驅趕者^악마 퇴치자^Bann
 MST_MATERIA_NAME_1500000048^Naga's Protection^納迦守護者^나가의 수호^Protection naga^Nagaschutz^Protección de Naga
 MST_MATERIA_NAME_1500000049^Intense Determination^強烈的決心^강렬한 투지^Détermination intense^Heftige Entschlossenheit^Determinación absoluta
 MST_MATERIA_NAME_1500000050^Motherly Love^母愛^모성애^Amour maternel^Mutterliebe^Amor maternal
+MST_MATERIA_NAME_504226406^^^^^^
+MST_MATERIA_NAME_504226422^^^^^^
+MST_MATERIA_NAME_504226880^The Subservient^^이용당한 자^^^
+MST_MATERIA_NAME_504226881^^^^^^
+MST_MATERIA_NAME_504226882^^^^^^
+MST_MATERIA_NAME_504226883^Praying Child's Dream^^기도자의 꿈^^^
+MST_MATERIA_NAME_504226892^^^^^^
+MST_MATERIA_NAME_504226893^^^^^^
+MST_MATERIA_NAME_504226894^^^^^^
+MST_MATERIA_NAME_504226895^^^^^^
+MST_MATERIA_NAME_504226896^^^^^^
+MST_MATERIA_NAME_504226898^^^^^^
+MST_MATERIA_NAME_504226899^^^^^^
+MST_MATERIA_NAME_504226900^^^^^^
+MST_MATERIA_NAME_504226901^^^^^^
+MST_MATERIA_NAME_504226902^^^^^^
+MST_MATERIA_NAME_504226903^^^^^^
+MST_MATERIA_NAME_504226980^^^^^^
+MST_MATERIA_NAME_504227020^^^^^^
+MST_MATERIA_NAME_504227076^^^^^^
+MST_MATERIA_NAME_504227237^^^^^^
+MST_MATERIA_NAME_504400110^^^^^^
+MST_MATERIA_NAME_504227260^^^^^^
+MST_MATERIA_NAME_504227261^^^^^^
+MST_MATERIA_NAME_504222190^^^^^^
+MST_MATERIA_NAME_504100770^^^^^^
+MST_MATERIA_NAME_504227209^^^^^^
+MST_MATERIA_NAME_504227270^^^^^^
+MST_MATERIA_NAME_504227271^Dark Aspirations^^검은 야망^^^
+MST_MATERIA_NAME_504227272^Trials of the Hexatheon^^여섯 신의 계시^^^
+MST_MATERIA_NAME_504227273^Loyal General^^충의의 여장군^^^
+MST_MATERIA_NAME_504227274^Soul of the Summoner^^소환의 진수^^^
+MST_MATERIA_NAME_504226639^^^^^^
+MST_MATERIA_NAME_504226653^^^^^^
+MST_MATERIA_NAME_504227318^^^^^^
+MST_MATERIA_NAME_504227328^^^^^^
+MST_MATERIA_NAME_504227389^^^^^^
+MST_MATERIA_NAME_504227410^^^^^^
+MST_MATERIA_NAME_504227411^^^^^^
+MST_MATERIA_NAME_504227413^^^^^^
+MST_MATERIA_NAME_504227414^^^^^^
+MST_MATERIA_NAME_504227428^^^^^^
+MST_MATERIA_NAME_504227448^^^^^^
+MST_MATERIA_NAME_504227459^^^^^^
+MST_MATERIA_NAME_504227506^Zodiac Barret^^조디악 불릿^^^
+MST_MATERIA_NAME_504227527^^^^^^
+MST_MATERIA_NAME_504227555^Shield of the Chosen King^^선택받은 왕의 방패^^^
+MST_MATERIA_NAME_504227586^Booster Cactuar^^사보텐 부스트^^^
+MST_MATERIA_NAME_504227605^^^^^^
+MST_MATERIA_NAME_504227625^Sky Lancer^^스카이랜서^^^
+MST_MATERIA_NAME_504227640^^^^^^
+MST_MATERIA_NAME_504227641^^^^^^
+MST_MATERIA_NAME_504227701^^^^^^
+MST_MATERIA_NAME_504227666^^^^^^
+MST_MATERIA_NAME_504227682^^^^^^
+MST_MATERIA_NAME_504227712^^^^^^
+MST_MATERIA_NAME_504227713^^^^^^
+MST_MATERIA_NAME_504227714^^^^^^
+MST_MATERIA_NAME_504227847^^^^^^
+MST_MATERIA_NAME_504227865^^^^^^
+MST_MATERIA_NAME_504227902^^^^^^
+MST_MATERIA_NAME_504227903^^^^^^
+MST_MATERIA_NAME_504227930^Absolute Devotion^^절대적인 충의^^^
+MST_MATERIA_NAME_504227931^Twisted Hero^^일그러진 영웅^^^
+MST_MATERIA_NAME_504227926^^^^^^
+MST_MATERIA_NAME_504228151^^^^^^
+MST_MATERIA_NAME_504228152^^^^^^
+MST_MATERIA_NAME_504228161^^^^^^
+MST_MATERIA_NAME_504228200^^^^^^
+MST_MATERIA_NAME_504228201^^^^^^
+MST_MATERIA_NAME_504228202^^^^^^
+MST_MATERIA_NAME_504228203^^^^^^
+MST_MATERIA_NAME_504228204^^^^^^
+MST_MATERIA_NAME_504228234^^^^^^
+MST_MATERIA_NAME_504228254^^^^^^
+MST_MATERIA_NAME_504228277^^^^^^
+MST_MATERIA_NAME_504228287^^^^^^
+MST_MATERIA_NAME_504228299^^^^^^
+MST_MATERIA_NAME_504228324^^^^^^
+MST_MATERIA_NAME_504228356^^^^^^
+MST_MATERIA_NAME_504228371^^^^^^
+MST_MATERIA_NAME_504228380^^^^^^
+MST_MATERIA_NAME_504228381^^^^^^
+MST_MATERIA_NAME_504228390^^^^^^
+MST_MATERIA_NAME_504228391^^^^^^
+MST_MATERIA_NAME_504209540^^^^^^
+MST_MATERIA_NAME_504228416^^^^^^
+MST_MATERIA_NAME_504228452^^^^^^
+MST_MATERIA_NAME_504228470^^^^^^
+MST_MATERIA_NAME_504228490^^^^^^
+MST_MATERIA_NAME_504228565^^^^^^
+MST_MATERIA_NAME_504228586^^^^^^
+MST_MATERIA_NAME_504228610^^^^^^
+MST_MATERIA_NAME_504228611^^^^^^
+MST_MATERIA_NAME_504224890^^^^^^

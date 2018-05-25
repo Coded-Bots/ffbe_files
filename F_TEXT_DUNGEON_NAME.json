@@ -69,7 +69,7 @@ MST_DUNGEONS_NAME_22001^Choco-Chocobo Woods^巧兒陸行鳥之森^초코초코�
 MST_DUNGEONS_NAME_22101^The Enchanted Maze^夢幻迷宮^몽환의 미궁^Le labyrinthe des illusions^Der verwunschene Irrgarten^Laberinto Encantado
 MST_DUNGEONS_NAME_70201^<na>^七英雄 襲來！^7영웅 습격!^<na>^<na>^¡Ataque de los 7 Héroes!
 MST_DUNGEONS_NAME_70301^Orbonne Vaults^歐博納地下書庫^오본느 지하 서고^Les archives d'Orbonne^OrbonneSchließfach^Criptas de Orbonne
-MST_DUNGEONS_NAME_70401^The Hanging Edge^封鎖區域垂落邊緣^봉쇄구역 행드 엣지^La Cité Suspendue^Bodhum^El Despeñadero
+MST_DUNGEONS_NAME_70401^The Hanging Edge^封鎖區域垂落邊緣^봉쇄구역 행드 엣지^La Cité Suspendue^Brückland^El Despeñadero
 MST_DUNGEONS_NAME_70501^The Giant of Babel^巴別巨人^바빌의 거인^Le Géant de Babel^Der Gigant von Babel^El Gigante de Babel
 MST_DUNGEONS_NAME_89921^Chamber of Trials^挑戰之間^도전의 틈^Vortex des épreuves^Vortex der Probe^Cámara de los Desafíos
 MST_DUNGEONS_NAME_90001^Demons Unleashed^惡魔來襲^악마족 출현^Démons déchaînés^Entfesselte Dämonen^Demonios desatados
@@ -549,22 +549,22 @@ MST_DUNGEONS_NAME_115151^Sacred Valley^^^^^
 MST_DUNGEONS_NAME_60017^Paladia Chapter III Part 1^^^^^
 MST_DUNGEONS_NAME_60018^Paladia Chapter III Part 2^^^^^
 MST_DUNGEONS_NAME_60019^Paladia Chapter III Part 3^^^^^
-MST_DUNGEONS_NAME_78601^Steel Castle Melfikya^^^^^
+MST_DUNGEONS_NAME_78601^Steel Castle Melfikya^^^^^Castillo de acero Melfikya
 MST_DUNGEONS_NAME_78701^Once Per Day 2nd Anniversary Raid^^^^^
-MST_DUNGEONS_NAME_78901^SeeD Field Test^^^^^
-MST_DUNGEONS_NAME_79001^Dorr - Exploration^^^^^
-MST_DUNGEONS_NAME_79201^Estark's Challenge^^^^^
-MST_DUNGEONS_NAME_79301^March on the Emperor of the Underworld^^^^^
-MST_DUNGEONS_NAME_79401^Shrine of Ru'Avitau^^^^^
-MST_DUNGEONS_NAME_79501^Shrine of Ru'Avitau - Exploration^^^^^
-MST_DUNGEONS_NAME_79701^Illustration Contest Round 2^^^^^
-MST_DUNGEONS_NAME_79801^Rats from the Gutters^^^^^
-MST_DUNGEONS_NAME_79901^Born to be King^^^^^
-MST_DUNGEONS_NAME_80001^Caestino Mines - Exploration^^^^^
-MST_DUNGEONS_NAME_80201^Lost City of Dipan^^^^^
-MST_DUNGEONS_NAME_80301^Tower of Lezard Valeth^^^^^
-MST_DUNGEONS_NAME_80401^Cliffs of Gaia^^^^^
-MST_DUNGEONS_NAME_80501^Gaia's Cliffs - Exploration^^^^^
+MST_DUNGEONS_NAME_78901^SeeD Field Exam^^^^^Campo de pruebas SEMilla
+MST_DUNGEONS_NAME_79001^Dollet - Exploration^^^^^Dorr - Exploración
+MST_DUNGEONS_NAME_79201^Estark's Challenge^^^^^El desafío de Estark
+MST_DUNGEONS_NAME_79301^March on the Lord of the Underworld^^^^^Marcha sobre el emperador del Inframundo
+MST_DUNGEONS_NAME_79401^Shrine of Ru'Avitau^^^^^Templo de Ru'Avitau
+MST_DUNGEONS_NAME_79501^Shrine of Ru'Avitau - Exploration^^^^^Templo de Ru'Avitau - Exploración
+MST_DUNGEONS_NAME_79701^FFBE Raid - Dracotaur Lancer^FFBE 共鬥 - 半龍人槍兵^FFBE 레이드 - 괴룡병^Raid FFBE - Lancier dracotaure^FFBE Raubzug - Draconischer Lancier^Evento de banda de FFBE - Lancero dragoniano
+MST_DUNGEONS_NAME_79801^Rats from the Gutters^地下蠢動的老鼠們^지하에서 튀어나온 생쥐들^Rats d'égout^Ratten aus der Kanalisation^Ratas de alcantarilla
+MST_DUNGEONS_NAME_79901^The Heart of a King^^^^^El peso de la corona
+MST_DUNGEONS_NAME_80001^Fodina Caestino - Exploration^^^^^Fodina Caestino - Exploración
+MST_DUNGEONS_NAME_80201^Lost City of Dipan^^^^^Ciudad perdida de Dipan
+MST_DUNGEONS_NAME_80301^Tower of Lezard Valeth^^^^^La torre de Lezard Valeth
+MST_DUNGEONS_NAME_80401^Gaea's Cliff^^^^^Acantilados de Gaia
+MST_DUNGEONS_NAME_80501^Gaea's Cliff - Exploration^^^^^Acantilados de Gaia - Exploración
 MST_DUNGEONS_NAME_79101^Domain^^^^^
 MST_DUNGEONS_NAME_79102^Soldiers on the Border^^^^^
 MST_DUNGEONS_NAME_79103^Expectations of the Servants^^^^^
@@ -615,10 +615,10 @@ MST_DUNGEONS_NAME_80114^Cave of Crystals (Guard)^^^^^
 MST_DUNGEONS_NAME_80115^Cave of Crystals (Tech)^^^^^
 MST_DUNGEONS_NAME_80116^Cave of Crystals (Healing)^^^^^
 MST_DUNGEONS_NAME_80117^Cave of Crystals (Support)^^^^^
-MST_DUNGEONS_NAME_89945^Ancient Hellbringer^^^^^
-MST_DUNGEONS_NAME_89946^Plant of the Deadly Venom^^^^^
-MST_DUNGEONS_NAME_89733^Scorn of Antenolla^^^^^
-MST_DUNGEONS_NAME_89734^Scorn of the 2-Headed Dragon^^^^^
+MST_DUNGEONS_NAME_89945^Ancient Hellbringer^^^^^El viejo invocainfiernos
+MST_DUNGEONS_NAME_89946^Venomous Vines of Death^^^^^Ramas del veneno mortal
+MST_DUNGEONS_NAME_89733^Scorn of Antenolla^^^^^El desprecio de la Antenolla
+MST_DUNGEONS_NAME_89734^Scorn of the 2-Headed Dragon^^^^^El desprecio del dragón bicéfalo
 MST_DUNGEONS_NAME_89735^Scorn of the Beasts^^^^^
 MST_DUNGEONS_NAME_89801^Chamber of Arms^^^^^
 MST_DUNGEONS_NAME_89901^Chamber of the Reborn^^^^^
@@ -637,6 +637,6 @@ MST_DUNGEONS_NAME_89941^The Fallen Ice Bird^^^^^
 MST_DUNGEONS_NAME_89942^The Legendary Stag^^^^^
 MST_DUNGEONS_NAME_89943^Armor of Oppression^^^^^
 MST_DUNGEONS_NAME_89944^Great Explosion Festival^^^^^
-MST_DUNGEONS_NAME_89945^Ancient Hellbringer^^^^^
-MST_DUNGEONS_NAME_89946^Plant of the Deadly Venom^^^^^
-MST_DUNGEONS_NAME_89947^The Mad Dolll^^^^^
+MST_DUNGEONS_NAME_89945^Ancient Hellbringer^^^^^El viejo invocainfiernos
+MST_DUNGEONS_NAME_89946^Venomous Vines of Death^^^^^Ramas del veneno mortal
+MST_DUNGEONS_NAME_89947^The Mad Doll^^^^^

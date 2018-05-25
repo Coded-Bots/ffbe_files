@@ -356,11 +356,11 @@ MST_MISSION_NAME_7030112^Battle in the Vaults - INT^地下書庫 戰鬥·中級^
 MST_MISSION_NAME_7030113^Battle in the Vaults - ADV^地下書庫 戰鬥·上級^지하 서고 전투·상급^Salle des archives - Combat (PRO)^Kampf im Schließfach - EXP^Criptas de Orbonne - Batalla (AVA)
 MST_MISSION_NAME_7030114^Battle in the Vaults - PRO^地下書庫 戰鬥·超級^지하 서고 전투·최상급^Salle des archives - Combat (SUP)^Kampf im Schließfach - PRO^Criptas de Orbonne - Batalla (PRO)
 MST_MISSION_NAME_7030115^Battle in the Vaults - ELT^地下書庫 戰鬥·覺醒級^지하 서고 전투·각성급^Salle des archives - Combat (EX!)^Kampf im Schließfach - ELI^Criptas de Orbonne - Batalla (ELI)
-MST_MISSION_NAME_7040101^The Hanging Edge - BGN^垂落邊緣·初級^행드 엣지·초급^La Cité Suspendue - DBT^Bodhum - ANF^El Despeñadero - PRI
-MST_MISSION_NAME_7040102^The Hanging Edge - INT^垂落邊緣·中級^행드 엣지·중급^La Cité Suspendue - INT^Bodhum - FOR^El Despeñadero - INT
-MST_MISSION_NAME_7040103^The Hanging Edge - ADV^垂落邊緣·上級^행드 엣지·상급^La Cité Suspendue - PRO^Bodhum - EXP^El Despeñadero - AVA
-MST_MISSION_NAME_7040104^The Hanging Edge - PRO^垂落邊緣·超級^행드 엣지·최상급^La Cité Suspendue - SUP^Bodhum - PRO^El Despeñadero - PRO
-MST_MISSION_NAME_7040105^The Hanging Edge - ELT^垂落邊緣·覺醒級^행드 엣지·각성급^La Cité Suspendue - EX!^Bodhum - ELI^El Despeñadero - ELI
+MST_MISSION_NAME_7040101^The Hanging Edge - BGN^垂落邊緣·初級^행드 엣지·초급^La Cité Suspendue - DBT^Brückland - ANF^El Despeñadero - PRI
+MST_MISSION_NAME_7040102^The Hanging Edge - INT^垂落邊緣·中級^행드 엣지·중급^La Cité Suspendue - INT^Brückland - FOR^El Despeñadero - INT
+MST_MISSION_NAME_7040103^The Hanging Edge - ADV^垂落邊緣·上級^행드 엣지·상급^La Cité Suspendue - PRO^Brückland - EXP^El Despeñadero - AVA
+MST_MISSION_NAME_7040104^The Hanging Edge - PRO^垂落邊緣·超級^행드 엣지·최상급^La Cité Suspendue - SUP^Brückland - PRO^El Despeñadero - PRO
+MST_MISSION_NAME_7040105^The Hanging Edge - ELT^垂落邊緣·覺醒級^행드 엣지·각성급^La Cité Suspendue - EX!^Brückland - ELI^El Despeñadero - ELI
 MST_MISSION_NAME_7050101^The Giant of Babel - BGN^巴別巨人 探索·初級^바빌의 거인 탐색·초급^Le Géant de Babel - DBT^Der Gigant von Babel - ANF^El Gigante de Babel - PRI
 MST_MISSION_NAME_7050102^The Giant of Babel - INT^巴別巨人 探索·中級^바빌의 거인 탐색·중급^Le Géant de Babel - INT^Der Gigant von Babel - FOR^El Gigante de Babel - INT
 MST_MISSION_NAME_7050103^The Giant of Babel - ADV^巴別巨人 探索·上級^바빌의 거인 탐색·상급^Le Géant de Babel - PRO^Der Gigant von Babel - EXP^El Gigante de Babel - AVA
@@ -2189,8 +2189,8 @@ MST_MISSION_NAME_11421202^Quicksand Valley - Swirling Quicksand^流沙之谷・�
 MST_MISSION_NAME_11421203^Quicksand Valley - Bottomless Sands^流沙之谷・深不見底的沙谷^흐르는 모래언덕·끝없는 모래 언덕^Vallée des sables mouvants - Sables profonds^Treibsandtal - Bodenlose Wüstentäler^Valle de arenas movedizas - Arenas profundas
 MST_MISSION_NAME_11421204^Quicksand Valley - Hunter Under the Sands^流沙之谷・沙底獵人^흐르는 모래언덕·모래 아래의 사냥꾼^Vallée des sables mouvants - Chasseur des sables^Treibsandtal - Jäger der Sandtiefen^Valle de arenas movedizas - Cazador de las arenas
 MST_MISSION_NAME_11421301^Room of Oblivion - Burial Way^忘卻的寢室・祭奠之路^망각의 침소·애도의 길^Chambre de l'oubli - Chemin mortuaire^Schlafkammer des Vergessens - Grabpfad^Dormitorio del olvido - Camino mortuorio
-MST_MISSION_NAME_11421302^Room of Oblivion - Uneasy March^忘卻的寢室・焦躁的行軍^망각의 침소·초조한 행군^Chambre de l'oubli - Marche tortueuse^Schlafkammer des Vergessens - Grabpfad^Dormitorio del olvido - Marcha tortuosa
-MST_MISSION_NAME_11421303^Room of Oblivion - Battle with Time^忘卻的寢室・與時間戰鬥^망각의 침소·시간과의 싸움^Chambre de l'oubli - Combat contre le temps^Schlafkammer des Vergessens - Ungemütlicher Marsch^Dormitorio del olvido - Batallando contra el tiempo
+MST_MISSION_NAME_11421302^Room of Oblivion - Uneasy March^忘卻的寢室・焦躁的行軍^망각의 침소·초조한 행군^Chambre de l'oubli - Marche tortueuse^Schlafkammer des Vergessens - Ungemütlicher Marsch^Dormitorio del olvido - Marcha tortuosa
+MST_MISSION_NAME_11421303^Room of Oblivion - Battle with Time^忘卻的寢室・與時間戰鬥^망각의 침소·시간과의 싸움^Chambre de l'oubli - Combat contre le temps^Schlafkammer des Vergessens - Kampf gegen die Zeit^Dormitorio del olvido - Batallando contra el tiempo
 MST_MISSION_NAME_11421304^Room of Oblivion - Golden Dragon^忘卻的寢室・黃金邪龍^망각의 침소·황금의 악룡^Chambre de l'oubli - Dragon doré^Schlafkammer des Vergessens - Goldener Drache^Dormitorio del olvido - Dragón dorado
 MST_MISSION_NAME_11421401^Hideaway Lanzatto - Provocation of the Heretic^隱居之處蘭扎特・惡人的挑釁^란자토 은거지·악인의 도발^Cachette Lanzatto - Provocation de l'hérétique^Refugium Lanzatto - Provokation der Häretiker^Guarida Lanzatto - Provocación del hereje
 MST_MISSION_NAME_11421402^Hideaway Lanzatto - Ambush^隱居之處蘭扎特・襲來的伏兵^란자토 은거지·복병의 습격^Cachette Lanzatto - Embuscade^Refugium Lanzatto - Hinterhalt^Guarida Lanzatto - Emboscada
@@ -3142,53 +3142,53 @@ MST_MISSION_NAME_7870101^Once Per Day 2nd Anniversary Raid - Thanks^^^^^
 MST_MISSION_NAME_7870102^Once Per Day 2nd Anniversary Raid - Thank You!^^^^^
 MST_MISSION_NAME_7870103^Once Per Day 2nd Anniversary Raid - Many Thanks!^^^^^
 MST_MISSION_NAME_7870104^Once Per Day 2nd Anniversary Raid -Thank You So Much!^^^^^
-MST_MISSION_NAME_7890101^SeeD Field Test - BGN^^^^^
-MST_MISSION_NAME_7890102^SeeD Field Test - INT^^^^^
-MST_MISSION_NAME_7890103^SeeD Field Test - ADV^^^^^
-MST_MISSION_NAME_7890104^SeeD Field Test - PRO^^^^^
-MST_MISSION_NAME_7890105^SeeD Field Test - ELT^^^^^
-MST_MISSION_NAME_7890106^SeeD Field Test - LGD^^^^^
-MST_MISSION_NAME_7900101^Dorr - Exploration (HARD)^^^^^
-MST_MISSION_NAME_7900102^Dorr - Exploration (EASY)^^^^^
-MST_MISSION_NAME_7920101^March on Estark - INT^^^^^
-MST_MISSION_NAME_7920102^March on Estark - ADV^^^^^
-MST_MISSION_NAME_7920103^March on Estark - PRO^^^^^
-MST_MISSION_NAME_7920104^March on Estark - ELT^^^^^
-MST_MISSION_NAME_7930101^March on the Emperor of the Underworld^^^^^
-MST_MISSION_NAME_7940101^Shrine of Ru'Avitau - BGN^^^^^
-MST_MISSION_NAME_7940102^Shrine of Ru'Avitau - INT^^^^^
-MST_MISSION_NAME_7940103^Shrine of Ru'Avitau - ADV^^^^^
-MST_MISSION_NAME_7940104^Shrine of Ru'Avitau - PRO^^^^^
-MST_MISSION_NAME_7940105^Shrine of Ru'Avitau - ELT^^^^^
-MST_MISSION_NAME_7940106^Shrine of Ru'Avitau - LGD^^^^^
-MST_MISSION_NAME_7950101^Shrine of Ru'Avitau - Exploration (HARD)^^^^^
-MST_MISSION_NAME_7950102^Shrine of Ru'Avitau - Exploration (EASY)^^^^^
-MST_MISSION_NAME_7970101^Illustration Contest Round 2 - INT^^^^^
-MST_MISSION_NAME_7970102^Illustration Contest Round 2 - ADV^^^^^
-MST_MISSION_NAME_7970103^Illustration Contest Round 2 - PRO^^^^^
-MST_MISSION_NAME_7970104^Illustration Contest Round 2 - ELT^^^^^
-MST_MISSION_NAME_7980101^Rats from the Gutters^^^^^
-MST_MISSION_NAME_7990101^Caestino Mines - BGN^^^^^
-MST_MISSION_NAME_7990102^Caestino Mines - INT^^^^^
-MST_MISSION_NAME_7990103^Caestino Mines - ADV^^^^^
-MST_MISSION_NAME_7990104^Caestino Mines - PRO^^^^^
-MST_MISSION_NAME_7990105^Caestino Mines - ELT^^^^^
-MST_MISSION_NAME_7990106^Caestino Mines - LGD^^^^^
-MST_MISSION_NAME_8000101^Caestino Mines - Exploration (HARD)^^^^^
-MST_MISSION_NAME_8000102^Caestino Mines - Exploration (EASY)^^^^^
-MST_MISSION_NAME_8020101^Lost City of Dipan - INT^^^^^
-MST_MISSION_NAME_8020102^Lost City of Dipan - PRO^^^^^
-MST_MISSION_NAME_8020103^Lost City of Dipan - ELT^^^^^
-MST_MISSION_NAME_8020104^Lost City of Dipan - LGD^^^^^
-MST_MISSION_NAME_8030101^Tower of Lezard Valeth^^^^^
-MST_MISSION_NAME_8040101^Cliffs of Gaia - BGN^^^^^
-MST_MISSION_NAME_8040102^Cliffs of Gaia - INT^^^^^
-MST_MISSION_NAME_8040103^Cliffs of Gaia - ADV^^^^^
-MST_MISSION_NAME_8040104^Cliffs of Gaia - PRO^^^^^
-MST_MISSION_NAME_8040105^Cliffs of Gaia - ELT^^^^^
-MST_MISSION_NAME_8040106^Cliffs of Gaia - LGD^^^^^
-MST_MISSION_NAME_8050101^Cliffs of Gaia - Exploration (HARD)^^^^^
-MST_MISSION_NAME_8050102^Cliffs of Gaia - Exploration (EASY)^^^^^
+MST_MISSION_NAME_7890101^SeeD Field Exam - BGN^^^^^
+MST_MISSION_NAME_7890102^SeeD Field Exam - INT^^^^^
+MST_MISSION_NAME_7890103^SeeD Field Exam - ADV^^^^^
+MST_MISSION_NAME_7890104^SeeD Field Exam - PRO^^^^^
+MST_MISSION_NAME_7890105^SeeD Field Exam - ELT^^^^^
+MST_MISSION_NAME_7890106^SeeD Field Exam - LGD^^^^^
+MST_MISSION_NAME_7900101^Dollet - Exploration (HARD)^^^^^Dorr - Exploración (DIFÍCIL)
+MST_MISSION_NAME_7900102^Dollet - Exploration (EASY)^^^^^Dorr - Exploración (FÁCIL)
+MST_MISSION_NAME_7920101^March on Estark - INT^^^^^Marcha sobre Estark - INT
+MST_MISSION_NAME_7920102^March on Estark - ADV^^^^^Marcha sobre Estark - AVA
+MST_MISSION_NAME_7920103^March on Estark - PRO^^^^^Marcha sobre Estark - PRO
+MST_MISSION_NAME_7920104^March on Estark - ELT^^^^^Marcha sobre Estark - ÉLI
+MST_MISSION_NAME_7930101^March on the Lord of the Underworld^^^^^Marcha sobre el emperador del Inframundo
+MST_MISSION_NAME_7940101^Shrine of Ru'Avitau - BGN^^^^^Templo de Ru'Avitau - PRI
+MST_MISSION_NAME_7940102^Shrine of Ru'Avitau - INT^^^^^Templo de Ru'Avitau - INT
+MST_MISSION_NAME_7940103^Shrine of Ru'Avitau - ADV^^^^^Templo de Ru'Avitau - AVA
+MST_MISSION_NAME_7940104^Shrine of Ru'Avitau - PRO^^^^^Templo de Ru'Avitau - PRO
+MST_MISSION_NAME_7940105^Shrine of Ru'Avitau - ELT^^^^^Templo de Ru'Avitau - ÉLI
+MST_MISSION_NAME_7940106^Shrine of Ru'Avitau - LGD^^^^^Templo de Ru'Avitau - LGD
+MST_MISSION_NAME_7950101^Shrine of Ru'Avitau - Exploration (HARD)^^^^^Templo de Ru'Avitau - Exploración (DIFÍCIL)
+MST_MISSION_NAME_7950102^Shrine of Ru'Avitau - Exploration (EASY)^^^^^Templo de Ru'Avitau - Exploración (FÁCIL)
+MST_MISSION_NAME_7970101^FFBE Raid - Dracotaur Lancer - INT^FFBE 共鬥 - 半龍人槍兵・中級^FFBE 레이드 - 괴룡병·중급^Raid FFBE - Lancier dracotaure - INT^FFBE Raubzug - Draconischer Lancier - FOR^Evento de banda de FFBE - Lancero dragoniano - INT
+MST_MISSION_NAME_7970102^FFBE Raid - Dracotaur Lancer - ADV^FFBE 共鬥 - 半龍人槍兵・上級^FFBE 레이드 - 괴룡병·상급^Raid FFBE - Lancier dracotaure - PRO^FFBE Raubzug - Draconischer Lancier - EXP^Evento de banda de FFBE - Lancero dragoniano - AVA
+MST_MISSION_NAME_7970103^FFBE Raid - Dracotaur Lancer - PRO^FFBE 共鬥 - 半龍人槍兵・超級^FFBE 레이드 - 괴룡병·최상급^Raid FFBE - Lancier dracotaure - SUP^FFBE Raubzug - Draconischer Lancier - PRO^Evento de banda de FFBE - Lancero dragoniano - PRO
+MST_MISSION_NAME_7970104^FFBE Raid - Dracotaur Lancer - ELT^FFBE 共鬥 - 半龍人槍兵・覺醒級^FFBE 레이드 - 괴룡병·각성급^Raid FFBE - Lancier dracotaure - EX!^FFBE Raubzug - Draconischer Lancier - ELI^Evento de banda de FFBE - Lancero dragoniano - ÉLI
+MST_MISSION_NAME_7980101^Rats from the Gutters^地下蠢動的老鼠們^지하에서 튀어나온 생쥐들^Rats d'égout^Ratten aus der Kanalisation^Ratas de alcantarilla
+MST_MISSION_NAME_7990101^Fodina Caestino - BGN^^^^^Fodina Caestino - PRI
+MST_MISSION_NAME_7990102^Fodina Caestino - INT^^^^^Fodina Caestino - INT
+MST_MISSION_NAME_7990103^Fodina Caestino - ADV^^^^^Fodina Caestino - AVA
+MST_MISSION_NAME_7990104^Fodina Caestino - PRO^^^^^Fodina Caestino - PRO
+MST_MISSION_NAME_7990105^Fodina Caestino - ELT^^^^^Fodina Caestino - ÉLI
+MST_MISSION_NAME_7990106^Fodina Caestino - LGD^^^^^Fodina Caestino - LGD
+MST_MISSION_NAME_8000101^Fodina Caestino - Exploration (HARD)^^^^^Fodina Caestino - Exploración (DIFÍCIL)
+MST_MISSION_NAME_8000102^Fodina Caestino - Exploration (EASY)^^^^^Fodina Caestino - Exploración (FÁCIL)
+MST_MISSION_NAME_8020101^Lost City of Dipan - INT^^^^^Ciudad perdida de Dipan - INT
+MST_MISSION_NAME_8020102^Lost City of Dipan - PRO^^^^^Ciudad perdida de Dipan - PRO
+MST_MISSION_NAME_8020103^Lost City of Dipan - ELT^^^^^Ciudad perdida de Dipan - ÉLI
+MST_MISSION_NAME_8020104^Lost City of Dipan - LGD^^^^^Ciudad perdida de Dipan - LGD
+MST_MISSION_NAME_8030101^Tower of Lezard Valeth^^^^^La torre de Lezard Valeth
+MST_MISSION_NAME_8040101^Gaea's Cliff - BGN^^^^^Acantilados de Gaia - PRI
+MST_MISSION_NAME_8040102^Gaea's Cliff - INT^^^^^Acantilados de Gaia - INT
+MST_MISSION_NAME_8040103^Gaea's Cliff - ADV^^^^^Acantilados de Gaia - AVA
+MST_MISSION_NAME_8040104^Gaea's Cliff - PRO^^^^^Acantilados de Gaia - PRO
+MST_MISSION_NAME_8040105^Gaea's Cliff - ELT^^^^^Acantilados de Gaia - ÉLI
+MST_MISSION_NAME_8040106^Gaea's Cliff - LGD^^^^^Acantilados de Gaia - LGD
+MST_MISSION_NAME_8050101^Gaea's Cliff - Exploration (HARD)^^^^^Acantilados de Gaia - Exploración (DIFÍCIL)
+MST_MISSION_NAME_8050102^Gaea's Cliff - Exploration (EASY)^^^^^Acantilados de Gaia - Exploración (FÁCIL)
 MST_MISSION_NAME_7910100^Domain^^^^^
 MST_MISSION_NAME_7910101^Night Offensive^^^^^
 MST_MISSION_NAME_7910102^Escape from Fear^^^^^

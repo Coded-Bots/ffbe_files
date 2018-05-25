@@ -8960,6 +8960,13 @@
         "o2ye8th6": "aero3(50)"
     }, 
     {
+        "2HjxCGo6": "bm_2024_aero3.bmb:0:0:90", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "70", 
+        "h5t4yBm2": "2000224", 
+        "o2ye8th6": "aero3(70)L90"
+    }, 
+    {
         "2HjxCGo6": "bm_2033_aero4.bmb", 
         "I1B7wNWc": "5", 
         "avX1k34K": "100", 
@@ -9196,6 +9203,13 @@
         "avX1k34K": "100", 
         "h5t4yBm2": "2000350", 
         "o2ye8th6": "commet1"
+    }, 
+    {
+        "2HjxCGo6": "bm_2017_comet.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "70", 
+        "h5t4yBm2": "2000352", 
+        "o2ye8th6": "commet1(70)"
     }, 
     {
         "2HjxCGo6": "bm_2043_meteor.bmb", 
@@ -29512,6 +29526,13 @@
         "o2ye8th6": "eff_piller_of_fire_white30"
     }, 
     {
+        "2HjxCGo6": "eff_piller_of_fire_white.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "50", 
+        "h5t4yBm2": "5022333", 
+        "o2ye8th6": "eff_piller_of_fire_white50"
+    }, 
+    {
         "2HjxCGo6": "eff_piller_of_fire_yellow.bmb", 
         "I1B7wNWc": "5", 
         "avX1k34K": "100", 
@@ -30513,6 +30534,20 @@
         "o2ye8th6": "eff_claw_slash_purple"
     }, 
     {
+        "2HjxCGo6": "eff_claw_slash_purple.bmb:0:180:60", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "100", 
+        "h5t4yBm2": "5023591", 
+        "o2ye8th6": "eff_claw_slash_purplereverse"
+    }, 
+    {
+        "2HjxCGo6": "eff_claw_slash_purple.bmb:0:0:300", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "100", 
+        "h5t4yBm2": "5023592", 
+        "o2ye8th6": "eff_claw_slash_purpleR60"
+    }, 
+    {
         "2HjxCGo6": "eff_claw_slash_red.bmb", 
         "I1B7wNWc": "5", 
         "avX1k34K": "100", 
@@ -30784,6 +30819,13 @@
         "avX1k34K": "100", 
         "h5t4yBm2": "5023910", 
         "o2ye8th6": "eff_tribal_suicide_all"
+    }, 
+    {
+        "2HjxCGo6": "eff_hex_buff_01_blue.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "100", 
+        "h5t4yBm2": "5024780", 
+        "o2ye8th6": "hex_buff_01_blue"
     }, 
     {
         "2HjxCGo6": "lb_0001_01_lain2.bmb", 

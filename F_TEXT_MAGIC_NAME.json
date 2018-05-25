@@ -91,9 +91,9 @@ MST_MAGIC_NAME_20340^Stonja^強落石^스톤쟈^Terre max^Terraka^Piedra+++
 MST_MAGIC_NAME_20370^Burst^炸裂^버스트^Implosion^Einschlag^Descarga
 MST_MAGIC_NAME_20390^Tornado^龍捲風^토네이도^Tornade ^Tornado^Tornado
 MST_MAGIC_NAME_20400^Quake^地槌^퀘이크^Séisme^Beben^Seísmo
-MST_MAGIC_NAME_20450^Dark^暗黑^다크^Ténèbres^Dunkel^Sombra
-MST_MAGIC_NAME_20460^Darkra^中暗黑^다크라^Ténèbres +^Darkra^Sombra+
-MST_MAGIC_NAME_20470^Darkga^大暗黑^다크가^Ténèbres X^Darkga^Sombra++
+MST_MAGIC_NAME_20450^Dark^暗黑^다크^Ténèbres^Negrum^Sombra
+MST_MAGIC_NAME_20460^Darkra^中暗黑^다크라^Ténèbres +^Negra^Sombra+
+MST_MAGIC_NAME_20470^Darkga^大暗黑^다크가^Ténèbres X^Nega^Sombra++
 MST_MAGIC_NAME_30290^Barwaterga^超抗水^바워터가^Anti-Eau X^Exaquaga^AntiAgua++
 MST_MAGIC_NAME_30300^Baraeroga^超抗風^바에어로가^Anti-Vent X^Exaeroga^AntiAero++
 MST_MAGIC_NAME_30310^Barstonga^超抗土^바스톤가^Anti-Terre X^Exterraga^AntiPiedra++
@@ -185,6 +185,12 @@ MST_MAGIC_NAME_70420^Impact^衝擊^임팩트^Impact^Aufprall^Impacto
 MST_MAGIC_NAME_10120^Regen^再生^리제네^Récup^Regena^Revitalia
 MST_MAGIC_NAME_91006^Mortar Beacon^烽火砲擊^모르타르 비콘^Mortier éclaireur ^Mörserfeuer ^Señal de mortero
 MST_MAGIC_NAME_91007^Mortar Beacon^烽火砲擊^모르타르 비콘^Mortier éclaireur ^Mörserfeuer ^Señal de mortero
+MST_MAGIC_NAME_91008^Barfiraga^超抗火^바파이가^Anti-Feu X^Exfeuga^AntiFuego++
+MST_MAGIC_NAME_91009^Barfiraga^超抗火^바파이가^Anti-Feu X^Exfeuga^AntiFuego++
+MST_MAGIC_NAME_91010^Barblizzaga^超抗冰^바블리자가^Anti-Glace X^Exeisga^AntiHielo++
+MST_MAGIC_NAME_91011^Barblizzaga^超抗冰^바블리자가^Anti-Glace X^Exeisga^AntiHielo++
+MST_MAGIC_NAME_91012^Barthundaga^超抗雷^바선더가^Anti-Foudre X^Exblitzga^AntiElectro++
+MST_MAGIC_NAME_91013^Barthundaga^超抗雷^바선더가^Anti-Foudre X^Exblitzga^AntiElectro++
 MST_MAGIC_NAME_10126^^^^^^
 MST_MAGIC_NAME_10127^^^^^^
 MST_MAGIC_NAME_10128^^^^^^
@@ -205,7 +211,7 @@ MST_MAGIC_NAME_20680^^^^^^
 MST_MAGIC_NAME_20690^^^^^^
 MST_MAGIC_NAME_20700^^^^^^
 MST_MAGIC_NAME_20730^^^^^^
-MST_MAGIC_NAME_20760^^^^^^
+MST_MAGIC_NAME_20760^Raging Water^^조워터^^^
 MST_MAGIC_NAME_20770^^^^^^
 MST_MAGIC_NAME_20780^^^^^^
 MST_MAGIC_NAME_30092^^^^^^

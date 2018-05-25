@@ -49,7 +49,7 @@ MST_ITEM_NAME_105004100^Pinwheel^風車^풍차 칼날^Moulinet^Klingenstern^Moli
 MST_ITEM_NAME_106000100^Tent^帳篷^천막^Tente^Zelt^Tienda de lona
 MST_ITEM_NAME_106100100^Magic Key^魔法鑰匙^마법 열쇠^Clé magique^Zauberschlüssel^Llave mágica
 MST_ITEM_NAME_106200100^Star Quartz^石英星石^별빛 운석^Quartz étoilé^Sternenquarz^Estrella de cuarzo
-MST_ITEM_NAME_107000100^Magicite Shard^魔石碎片^마석 조각^Éclat de magilithe^Maginit-Splitter^Grava de magicita
+MST_ITEM_NAME_107000100^Magicite Shard^魔石碎片^마석 조각^Éclat de magilithe^Maginit-Splitter^Fragmento de magicita
 MST_ITEM_NAME_107000200^Magicite^魔石^마석^Magilithe^Maginit^Magicita
 MST_ITEM_NAME_107001100^Red Magicite^紅色魔石^붉은색 마석^Magilithe rouge^Roter Maginit^Magicita roja
 MST_ITEM_NAME_107001200^Blue Magicite^藍色魔石^파란색 마석^Magilithe bleue^Blauer Maginit^Magicita azul
@@ -591,6 +591,14 @@ MST_ITEM_NAME_1209000870^Gunpowder^火槍粉^건파우더^Poudre à canon^Schie�
 MST_ITEM_NAME_1209000871^30 Million Downloads Ticket^3000萬下載紀念券^3천만 다운로드 기념 티켓^Ticket 30 M de télécharg.^30 Millionen Downloads Karte^Tícket de 30 m. de descargas
 MST_ITEM_NAME_1209000881^Petal Token^花瓣紀念物^벚꽃 토큰^Pièce de pétale^Blütenblattmarke^Moneda de pétalo
 MST_ITEM_NAME_1209000872^Blue and Red Supercites^藍紅超魔石^파랑&빨강 초월마석^Gigalithes bleues et rouges^Blaue und Rote Supermaginite^Supercitas azules y rojas
-MST_ITEM_NAME_1209000873^Violet and Yellow Supercites^紫黃超魔石^보라&노랑 초월마석^Gigalithes violettes et jaunes^Violette und Gelbe Supermaginite^Supercitas violetas y amarillas
+MST_ITEM_NAME_1209000873^Violet and Yellow Supercites^紫黃超魔石^보라&노랑 초월마석^Gigalithes violettes et jaunes^Violette und Gelbe Supermaginite^Supercitas lilas y amarillas
 MST_ITEM_NAME_1209000874^Orange and White Supercites^橙白超魔石^주황&하양 초월마석^Gigalithes orange et blanches^Orange und Weiße Supermaginite^Supercitas naranjas y blancas
 MST_ITEM_NAME_1209000875^Green and Black Supercites^綠黑超魔石^초록&검정 초월마석^Gigalithes vertes et noires^Grüne und Schwarze Supermaginite^Supercitas verdes y negras
+MST_ITEM_NAME_106304700^Graverobber Raid Coin^融屍魔共鬥硬幣^그레이브로버 레이드 코인^Jeton de raid de Pilletombes^Grabräuber-Raubzugmünze^Moneda de banda de robatumbas
+MST_ITEM_NAME_1209000882^Elven Crystal^精靈水晶^엘프의 수정^Cristal elfique^Elfenkristall^Cristal élfico
+MST_ITEM_NAME_1209000883^Manufactured Wood^人造木材^인공 목재^Bois manufacturé^Fertigholz^Madera procesada
+MST_ITEM_NAME_1209000884^Scarlet Orb^朱紅色寶珠^진홍색 구슬^Orbe écarlate^Scharlachjuwel^Orbe escarlata
+MST_ITEM_NAME_1209000885^Black Thread^黑色線綢^검은색 실뭉치^Fil noir^Schwarzer Garn^Hilo negro
+MST_ITEM_NAME_1209000886^Scarlet Hide^朱紅色皮^진홍색 가죽^Peau écarlate^Scharlachhaut^Piel escarlata
+MST_ITEM_NAME_1209000887^Grey Feathers^灰色羽毛^회색 깃털^Plumes grises^Graue Federn^Plumas grises
+MST_ITEM_NAME_1209000888^Scarlet Egg^朱紅色蛋^진홍색 달걀^Œuf écarlate^Scharlachei^Huevo escarlata

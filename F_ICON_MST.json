@@ -2625,6 +2625,16 @@
         "qtkvrS60": "spd_20171010_bn_list_ffbe_last.png"
     }, 
     {
+        "0HUPxDf1": "7970101", 
+        "G4L0YIB2": "第2回ユニットイラストコンテストレイド", 
+        "qtkvrS60": "spd_20171220_bn_list_contest.png"
+    }, 
+    {
+        "0HUPxDf1": "7980101", 
+        "G4L0YIB2": "地下を飛び出たネズミたち", 
+        "qtkvrS60": "spd_20171225_bn_list_contest.png"
+    }, 
+    {
         "0HUPxDf1": "8973001", 
         "G4L0YIB2": "ねむれるしし降臨HELL", 
         "qtkvrS60": "spd_20170731_bn_list_SBF_04.png"
@@ -3798,6 +3808,11 @@
         "0HUPxDf1": "106304200", 
         "G4L0YIB2": "訓練用の木剣", 
         "qtkvrS60": "item_9180.png"
+    }, 
+    {
+        "0HUPxDf1": "106304700", 
+        "G4L0YIB2": "グラープロイバーレイドコイン", 
+        "qtkvrS60": "item_9191.png"
     }, 
     {
         "0HUPxDf1": "107000100", 
@@ -7475,6 +7490,11 @@
         "qtkvrS60": "item_11319.png"
     }, 
     {
+        "0HUPxDf1": "315022300", 
+        "G4L0YIB2": "陰陽の札", 
+        "qtkvrS60": "item_11324_.png"
+    }, 
+    {
         "0HUPxDf1": "316000100", 
         "G4L0YIB2": "ハープ", 
         "qtkvrS60": "item_11100.png"
@@ -7988,6 +8008,11 @@
         "0HUPxDf1": "403044700", 
         "G4L0YIB2": "砲撃士のビコルヌ", 
         "qtkvrS60": "item_30145.png"
+    }, 
+    {
+        "0HUPxDf1": "403045100", 
+        "G4L0YIB2": "ツクモ人形", 
+        "qtkvrS60": "item_30151.png"
     }, 
     {
         "0HUPxDf1": "404000200", 
@@ -8768,6 +8793,16 @@
         "0HUPxDf1": "408003300", 
         "G4L0YIB2": "キュアローブ", 
         "qtkvrS60": "item_20434.png"
+    }, 
+    {
+        "0HUPxDf1": "408003600", 
+        "G4L0YIB2": "ちゃんちゃんこ", 
+        "qtkvrS60": "item_20438.png"
+    }, 
+    {
+        "0HUPxDf1": "408003700", 
+        "G4L0YIB2": "ウキヨの狩衣", 
+        "qtkvrS60": "item_20437.png"
     }, 
     {
         "0HUPxDf1": "409000100", 
@@ -11200,6 +11235,26 @@
         "qtkvrS60": "global_equip_10091.png"
     }, 
     {
+        "0HUPxDf1": "1100000161", 
+        "G4L0YIB2": "Vestment of Prayers", 
+        "qtkvrS60": "global_equip_10101.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000162", 
+        "G4L0YIB2": "White Bandana", 
+        "qtkvrS60": "global_equip_10102.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000163", 
+        "G4L0YIB2": "Elven Staff", 
+        "qtkvrS60": "global_equip_10103.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000164", 
+        "G4L0YIB2": "Yellow Balloon", 
+        "qtkvrS60": "global_equip_10104.png"
+    }, 
+    {
         "0HUPxDf1": "1106300100", 
         "G4L0YIB2": "MogCake", 
         "qtkvrS60": "global_item_10011.png"
@@ -11605,6 +11660,41 @@
         "qtkvrS60": "global_item_10173.png"
     }, 
     {
+        "0HUPxDf1": "1209000882", 
+        "G4L0YIB2": "Elven Crystal", 
+        "qtkvrS60": "global_item_10180.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000883", 
+        "G4L0YIB2": "Manufactured Wood", 
+        "qtkvrS60": "global_item_10181.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000884", 
+        "G4L0YIB2": "Scarlet Orb", 
+        "qtkvrS60": "global_item_10182.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000885", 
+        "G4L0YIB2": "Black Thread", 
+        "qtkvrS60": "global_item_10183.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000886", 
+        "G4L0YIB2": "Scarlet Hide", 
+        "qtkvrS60": "global_item_10184.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000887", 
+        "G4L0YIB2": "Gray Feather", 
+        "qtkvrS60": "global_item_10185.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000888", 
+        "G4L0YIB2": "Scarlet Egg", 
+        "qtkvrS60": "global_item_10186.png"
+    }, 
+    {
         "0HUPxDf1": "1300000001", 
         "G4L0YIB2": "Ancient Coin", 
         "qtkvrS60": "global_item_10047.png"
@@ -11638,6 +11728,11 @@
         "0HUPxDf1": "1300000008", 
         "G4L0YIB2": "Naga's Blood", 
         "qtkvrS60": "image/icon/icon_naga_blood.png"
+    }, 
+    {
+        "0HUPxDf1": "1300000009", 
+        "G4L0YIB2": "NRG Light Sphere", 
+        "qtkvrS60": "image/icon/icon_light_sphere.png"
     }, 
     {
         "0HUPxDf1": "1500000001", 

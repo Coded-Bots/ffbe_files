@@ -677,7 +677,7 @@ MST_UNIT_EXPLAIN_FUSION_309000405^Ha ha ha ha ha!<br>When it comes to nimbly wie
 MST_UNIT_EXPLAIN_FUSION_303000204^^^^^^
 MST_UNIT_EXPLAIN_FUSION_303000205^^^^^^
 MST_UNIT_EXPLAIN_FUSION_303000206^^^^^^
-MST_UNIT_EXPLAIN_FUSION_207000105^Never doubt a former SOLDIER.<br>I'll show you what I'm made of.^別小看前戰士。<br>讓你看看我的實力。^전직 솔저를 우습게 보지 마라.<br>내 실력을 보여주지.^Ne me sous-estime pas !<br>Ou je vais te montrer ce dont un ancien membre de SOLDAT est capable.^Mach dich lieber nicht über ein<br>ehemaliges Mitglied von SOLDAT lustig.<br>Ich zeige dir, woraus ich gemacht bin.^No te rías de un antiguo SOLDADO.<br>Te demostraré lo fuerte que soy.
+MST_UNIT_EXPLAIN_FUSION_207000105^Never doubt a former SOLDIER.<br>I'll show you what I'm made of.^別小看前戰士。<br>讓你看看我的實力。^전직 솔저를 우습게 보지 마라.<br>내 실력을 보여주지.^Ne me sous-estime pas !<br>Ou je vais te montrer ce dont un ancien membre de SOLDATS est capable.^Mach dich lieber nicht über ein<br>ehemaliges Mitglied von SOLDAT lustig.<br>Ich zeige dir, woraus ich gemacht bin.^No te rías de un antiguo SOLDADO.<br>Te demostraré lo fuerte que soy.
 MST_UNIT_EXPLAIN_FUSION_207000106^You think I look pale?<br>This is what I always look like.^我臉色看起來不太好？<br>不，這就是普通的表情。^상태가 안 좋아 보인다고?<br>아니, 그렇지 않아. 아무렇지 않다.^J'ai pas l'air dans mon assiette ?<br>Pas du tout. Je me sens comme d'habitude.^Ich seh' nicht gut aus?<br>So seh' ich immer aus.^¿Que tengo cara de mal humor?<br>No, esta es la cara que tengo siempre.
 MST_UNIT_EXPLAIN_FUSION_100009805^Thank you.<br>As much as I've grown stronger,<br>I feel I can progress further.^謝謝。<br>強化多少<br>就能向前邁進多少。^고마워.<br>강해진 만큼<br>앞으로 나아갈 수 있게 되었어.^Merci.<br>Vu que je viens de devenir plus forte,<br>je sens que vais progresser encore plus.^Danke.<br>Ich kann noch stärker werden,<br>als ich jetzt geworden bin.^Gracias.<br>A pesar de haberme hecho más fuerte,<br>aún siento que puedo seguir progresando.
 MST_UNIT_EXPLAIN_FUSION_100009806^Let us proceed together.<br>I will be your blade.^一起向前邁進吧。<br>我將成為你的利刃。^함께 나아가자.<br>내가 당신의 검이 될 테니.^Avançons ensemble !<br>Je serai ta lame.^Schreiten wir gemeinsam fort.<br>Ich werde deine Klinge sein.^Continuemos juntos.<br>Yo seré tu espada.
@@ -1042,3 +1042,259 @@ MST_UNIT_EXPLAIN_FUSION_401003505^I have an idea!<br>Just do this a little bit m
 MST_UNIT_EXPLAIN_FUSION_401003506^What a great idea!<br>I guess I should try just a little bit harder, eh?^真是個好點子！<br>我要不要再努力一下？^좋은 생각이야~<br>좀 더 힘내 보실까?^Quelle idée géniale !<br>Je vais essayer de faire plus d'efforts de mon côté.^Großartige Idee!<br>Ich sollte mich wohl noch etwas anstrengen, oder?^¡Muy buena idea!<br>Supongo que tendré que intentarlo con más ahínco, ¿eh?
 MST_UNIT_EXPLAIN_FUSION_401003605^Will you look at that! This is brilliant.^快看那裡！真是太美了……^저걸 봐! 정말 아름답군……^Regarde-moi ça ! Regarde comme ça brille.^Nun schau dir das mal an! Absolut genial.^¡Mira eso! Es genial.
 MST_UNIT_EXPLAIN_FUSION_401003606^Sometimes to understand your present, you need to go back to your past.^為了了解「現在」，有時必須先回到「過去」。^'지금'을 이해하기 위해서,<br>때로는 '과거'를 거슬러갈 필요가 있어.^Parfois, pour comprendre le présent, il faut remonter dans le passé.^Um deine Gegenwart zu verstehen, musst du dich manchmal in deine Vergangenheit zurückbegeben.^A veces, para entender el presente hay que remontarse al pasado.
+MST_UNIT_EXPLAIN_FUSION_100015005^There is still much I've left to do. That is why I can't just sit still. As a knight of Grandshelt.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100015006^Even if I get separated from everyone else, I know I'm not alone.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100015805^If this light represents my power, then I accept it wholeheartedly!^^^^^
+MST_UNIT_EXPLAIN_FUSION_100015806^I need more power. Without it, there's no way I can take him on.^^^^^
+MST_UNIT_EXPLAIN_FUSION_208000105^Now's my chance to test the fruits of my training. I feel I can take on any sort of cowardly opponent at this point.^^^^^
+MST_UNIT_EXPLAIN_FUSION_208000106^I will never turn tail. It's unforgivable to leave others behind.^^^^^
+MST_UNIT_EXPLAIN_FUSION_208000107^As long as this battle persists, I need more power. I don't care what I have to do to obtain it, I'm all in.^^^^^
+MST_UNIT_EXPLAIN_FUSION_208000205^If I keep getting stronger like this, I can take part in any sort of strategy I choose!^^^^^
+MST_UNIT_EXPLAIN_FUSION_208000206^I do understand that this isn't a time to play around. I can still get the job done, you know...^^^^^
+MST_UNIT_EXPLAIN_FUSION_208000207^...I will fight, too. I hate always being the one being protected. I want to fight because I want to be with you all.^^^^^
+MST_UNIT_EXPLAIN_FUSION_208000404^My weapons are my fists! Leave the rest to me!^^^^^
+MST_UNIT_EXPLAIN_FUSION_208000405^I can fight, too. I won't sit back and be called a chicken by nobody!^^^^^
+MST_UNIT_EXPLAIN_FUSION_208000406^I'll never let go of the power I have to protect those important to me.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100016503^I told you, leave it to me!^^^^^
+MST_UNIT_EXPLAIN_FUSION_100016504^I'm an adventurer too, you know! This'll be a piece of cake!^^^^^
+MST_UNIT_EXPLAIN_FUSION_100016505^Save the weak, defeat the strong. I wasn't going to say anything, but since you're depending on me I'll do my best!^^^^^
+MST_UNIT_EXPLAIN_FUSION_904000115^I can feel our bond growing stronger, kupo!^^^^^
+MST_UNIT_EXPLAIN_FUSION_213000107^Fighting without hope is pointless. Show me what you hope for.^^희망도 없이 싸우는 건 삶의 방식이 아니야.<br>그저 죽음을 택하는 길이지.<br>너의 '희망'을 보여 줘.^^^
+MST_UNIT_EXPLAIN_FUSION_253000107^Are the circumstances of one's birth really that important? I guess no matter how hard one tries, they cannot change that...^^태생이 그렇게 중요한가?<br>노력해도 뒤집을 수 없는 걸까……^^^
+MST_UNIT_EXPLAIN_FUSION_253000207^There are somethings that will never change no matter how hard you try... I, myself, am of the have-nots.^^아무리 노력해도<br>뒤집을 수 없는 건 존재해……<br>나는 '가지지 못한 자'야.^^^
+MST_UNIT_EXPLAIN_FUSION_204000117^There will be a time when I must face my own true self. I have a feeling it will come.^^^^^
+MST_UNIT_EXPLAIN_FUSION_254000107^If I were to ask you, would you help me out? Would you fight for me?^^^^^
+MST_UNIT_EXPLAIN_FUSION_203000207^Aria, Doga, and Unei all supported us. Therefore, I must do my best to help out as well!^^^^^
+MST_UNIT_EXPLAIN_FUSION_254000207^Well then, what book should I read today, I wonder.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100000317^I wonder if you can make sufficient use of me. Let's have a look at what you can do.^^^^^
+MST_UNIT_EXPLAIN_FUSION_253000807^No use going easy on anyone now. All one needs to do is swing to their heart's content.^^이제 봐줄 필요는 없나니.<br>거리낄 것 없이 검을 휘두를 수 있다는 뜻이다.^^^
+MST_UNIT_EXPLAIN_FUSION_100005807^Thank you! I'm thinking up some new magic, so I'd greatly appreciate any help you can offer!^^^^^
+MST_UNIT_EXPLAIN_FUSION_202000507^I'll turn all our enemies back to the underworld. I am the only emperor this world needs!^^^^^
+MST_UNIT_EXPLAIN_FUSION_306000107^The Dragonlord obtained experience!^^^^^
+MST_UNIT_EXPLAIN_FUSION_100005907^Theoretically I've become stronger, am I right!?^^^^^
+MST_UNIT_EXPLAIN_FUSION_254000907^I want to grow stronger... I would like to at least be able to protect those before me.^^^^^
+MST_UNIT_EXPLAIN_FUSION_210000107^As strong as I am now, I can take on any enemy we come across with ease!^^이만큼 강해졌으니<br>어떤 적이든 식은 죽 먹기지!^^^
+MST_UNIT_EXPLAIN_FUSION_100006107^I wonder if my experiences will live on in my people. Either way, I'm happy to be of service.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100007207^I wonder if you can make sufficient use of me. Let's have a look at what you can do.^^^^^
+MST_UNIT_EXPLAIN_FUSION_206000127^I will protect everyone's future. And I will absolutely return to those children.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100006807^I feel more capable than before. Even my partner doesn't seem like a normal chocobo anymore.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100007707^If this power is meant to save, then what am I to do with it...^^^^^
+MST_UNIT_EXPLAIN_FUSION_203000107^The hope of light and dark... With their powers combined, we can take on the very void itself!^^^^^
+MST_UNIT_EXPLAIN_FUSION_100015405^I have even more fighting strength than before. I'm gonna knock our enemies out.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100015406^We are strong. We've no need to fall into what other say.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100015407^With Est's claws and my spear, we'll send 'em flying to the edge of the sky!^^^^^
+MST_UNIT_EXPLAIN_FUSION_100015504^Don't be too critical of how I do things. I get the job done, I promise!^^^^^
+MST_UNIT_EXPLAIN_FUSION_100015505^Back in those days... Those guys were just looking after themselves and no one else.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100015506^Go ahead and choose as you please! Though I do feel this itch in my tail...^^^^^
+MST_UNIT_EXPLAIN_FUSION_100015604^I'm strong, you know. I'll bang down and flatten anyone we come across.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100015605^I'm already as strong as I need to be. Why meaning is there in strengthening me further?^^^^^
+MST_UNIT_EXPLAIN_FUSION_100015606^Oh wow! I guess I could get even stronger after all!^^^^^
+MST_UNIT_EXPLAIN_FUSION_100015703^How tiresome... Is there someone else for us to deal with now?^^^^^
+MST_UNIT_EXPLAIN_FUSION_100015704^Getting worked to the bone day after day... And on top of that, the food is gross.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100015705^I feel a little more motivated now. So I expect to get some better food from now on.^^^^^
+MST_UNIT_EXPLAIN_FUSION_306000905^Estark obtained experience.^^^^^
+MST_UNIT_EXPLAIN_FUSION_306000906^Estark obtained experience.^^^^^
+MST_UNIT_EXPLAIN_FUSION_306000907^Estark obtained experience.^^^^^
+MST_UNIT_EXPLAIN_FUSION_306001005^Marquis de Léon obtained experience.^^^^^
+MST_UNIT_EXPLAIN_FUSION_306001006^Marquis de Léon obtained experience.^^^^^
+MST_UNIT_EXPLAIN_FUSION_306001007^Marquis de Léon obtained experience.^^^^^
+MST_UNIT_EXPLAIN_FUSION_306001104^The Killing Machine obtained experience.^^^^^
+MST_UNIT_EXPLAIN_FUSION_306001105^The Killing Machine obtained experience.^^^^^
+MST_UNIT_EXPLAIN_FUSION_306001106^The Killing Machine obtained experience.^^^^^
+MST_UNIT_EXPLAIN_FUSION_306001204^The Slime Knight obtained experience.^^^^^
+MST_UNIT_EXPLAIN_FUSION_306001205^The Slime Knight obtained experience.^^^^^
+MST_UNIT_EXPLAIN_FUSION_306001206^The Slime Knight obtained experience.^^^^^
+MST_UNIT_EXPLAIN_FUSION_306001303^Dracky obtained experience.^^^^^
+MST_UNIT_EXPLAIN_FUSION_306001304^Dracky obtained experience.^^^^^
+MST_UNIT_EXPLAIN_FUSION_306001305^Dracky obtained experience.^^^^^
+MST_UNIT_EXPLAIN_FUSION_211000805^Ho ho ho, how foolish... Oh, I beg your pardon.^^^^^
+MST_UNIT_EXPLAIN_FUSION_211000806^There's no doubting it. This is perfect.^^^^^
+MST_UNIT_EXPLAIN_FUSION_211000807^Who do you think I am? There is nothing I cannot do.^^^^^
+MST_UNIT_EXPLAIN_FUSION_211000905^Humans are darker than the darkest of nights, often holding tight to such things...^^^^^
+MST_UNIT_EXPLAIN_FUSION_211000906^And now, you plead for your life. There is no turning back now...^^^^^
+MST_UNIT_EXPLAIN_FUSION_211000907^Everyone holds danger within them. Give that up, and you lose your very humanity...^^^^^
+MST_UNIT_EXPLAIN_FUSION_211001004^We are all fighting in fear of the day we will come face to face with death.^^^^^
+MST_UNIT_EXPLAIN_FUSION_211001005^If we can just manage to get ourselves on the offensive, surely that will fill our tired soldiers with strength!^^^^^
+MST_UNIT_EXPLAIN_FUSION_211001006^My hopes have taken root thanks to you all. I hope I can rely on your power until the very end.^^^^^
+MST_UNIT_EXPLAIN_FUSION_211000306^I'm not made or anything. I don't need souvenirs or anything like that to be happy.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100007507^I believe this power can be used not to fight, but to lead us toward a peaceful future.^^^^^
+MST_UNIT_EXPLAIN_FUSION_211000407^I do not wish for the end! We were born to survive!^^^^^
+MST_UNIT_EXPLAIN_FUSION_253000117^Blood means nothing. It's all about how you live your life.^^가문 같은 건 관계없어……<br>중요한 건, 어떻게 사느냐야……^^^
+MST_UNIT_EXPLAIN_FUSION_253000217^Allow me to become the hero so many want for. In order to become that, please use me as needed.^^국민들이 바라는 '영웅'이 되어 주지.<br>그걸 위해 이용할 수 있는 건<br>뭐든지 이용하겠어.^^^
+MST_UNIT_EXPLAIN_FUSION_207000107^I know the reason why I fight. I fight for myself...as well as for someone very close to me.^^나는 내가 싸우는 이유를 알아.<br>나와…… 나의 소중한<br>누군가를 위해 계속 싸우는 거야.^^^
+MST_UNIT_EXPLAIN_FUSION_100008007^How strong do you intend on making me? ^^^^^
+MST_UNIT_EXPLAIN_FUSION_100009107^Though this be a temporary form, power is still power. I graciously accept it.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100008207^Accept this power, you say? Stop it with such frivolous words!^^^^^
+MST_UNIT_EXPLAIN_FUSION_215000107^Don't worry, I won't give up.^^걱정하지 마.<br>도중에 포기할 리가 있나.^^^
+MST_UNIT_EXPLAIN_FUSION_209001107^This must be what I've been training all this time for.^^내가 기술을 갈고 닦아온 건<br>이걸 위해서였는지도 모르겠군.^^^
+MST_UNIT_EXPLAIN_FUSION_209000707^The ill-fated girl. That's me, don't you think?^^'박복한 미소녀'라는 말, <br>에코를 위해 존재하는 거 같지 않아?^^^
+MST_UNIT_EXPLAIN_FUSION_100016205^I will decide the fate of our enemies. You just sit back and watch.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100016206^Relinquish all, and you shall obtain all. That is how I live.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100016207^Without power, nothing can be changed. That is why I must...^^^^^
+MST_UNIT_EXPLAIN_FUSION_100016304^Seems we've got some free time on our hands. Want me to tell you a love story?^^^^^
+MST_UNIT_EXPLAIN_FUSION_100016305^Such a luxurious offering for a simple soldier. You must be of some wealth, eh?^^^^^
+MST_UNIT_EXPLAIN_FUSION_100016306^There must be something we can do before mindlessly killing each other. Like trying to have a chat, for instance.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100016403^I've much more fighting potential than before. This will definitely prove strategically advantageous.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100016404^*Huff*... So much to do, so little time to do it.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100016405^This power... I wish to use it for the sake of justice.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100017005^I will work as hard as you pay me to.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100017006^There are so many things you can give to a person... It's kinda fun choosing, actually.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100017007^Thank you, but I feel my time spent here has been much more precious and wonderful.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100016605^I guess I'm a full-fledged exorcist now... Maybe it's finally time to banish some wicked spirits!^已經......可以獨當一面了嗎？<br>驅散惡靈，沒問題吧～？^이제…… 한 사람 몫은 되겠지~?<br>악령 퇴치, 가 볼까~?^J'imagine que je suis une exorciste accomplie maintenant... Je vais peut-être enfin pouvoir renvoyer quelques esprits malins dans l'Au-delà !^Nun gehöre ich wohl auch zu den Besten ...! Ob ich das mit dem Exorzieren so hinkriege?^¿Seré ya una exorcista de verdad...? ¡Quizás sea el momento de acabar con algunos espíritus malignos!
+MST_UNIT_EXPLAIN_FUSION_100016606^Oh! There's one, there's one! Away with you, shoo!^哇哇......來了來了～！<br>急急如律令～♪^와, 와…… 왔다~!<br>급 급 여 율 령~♪^Oh ! En voilà un ! En voilà un ! Allez ouste ! Fiche-moi le camp !^Oh-oh, da ist einer! Weg mit dir, kusch!^¡Ah! ¡Ahí hay uno, ahí hay uno! ¡Largo de aquí! ¡Cheeee!
+MST_UNIT_EXPLAIN_FUSION_215000505^It's great having someone around to appreciate your cooking.^^^^^
+MST_UNIT_EXPLAIN_FUSION_215000506^I feel like some black coffee. Some might say it's for the young, but I also like it.^^^^^
+MST_UNIT_EXPLAIN_FUSION_215000507^Stand around for too long and you're likely to get caught. Let us keep our wits about us.^^^^^
+MST_UNIT_EXPLAIN_FUSION_215001004^I needn't such worrisome things.^^^^^
+MST_UNIT_EXPLAIN_FUSION_215001005^Feel free to leave the rest to me.^^^^^
+MST_UNIT_EXPLAIN_FUSION_215001006^Would you dare try and defeat me, even knowing what the legends speak of?^^^^^
+MST_UNIT_EXPLAIN_FUSION_215001406^Freedom? And what exactly is that?^^^^^
+MST_UNIT_EXPLAIN_FUSION_307000105^We must all start by doing whatever we're capable of.^^^^^
+MST_UNIT_EXPLAIN_FUSION_307000106^I am grateful for what you have given me.^^^^^
+MST_UNIT_EXPLAIN_FUSION_307000107^I won't let them do what they wish with this world!^^이 세계를<br>녀석들 마음대로 하게 두진 않겠어!^^^
+MST_UNIT_EXPLAIN_FUSION_307000204^I'm still stronger than the younger crowd.^^^^^
+MST_UNIT_EXPLAIN_FUSION_307000205^I am indebted to you...^^^^^
+MST_UNIT_EXPLAIN_FUSION_307000206^That's right... Not even to my master will I lose.^^^^^
+MST_UNIT_EXPLAIN_FUSION_307000404^I guess that's just how it goes.^^^^^
+MST_UNIT_EXPLAIN_FUSION_307000405^Don't call me a kid! I'm not a kid!^^^^^
+MST_UNIT_EXPLAIN_FUSION_307000406^I guess it's time to show you what I'm made of.^^^^^
+MST_UNIT_EXPLAIN_FUSION_307000303^Well, I don't think I'm the best fighter or anything, but I'll do my best!^^^^^
+MST_UNIT_EXPLAIN_FUSION_307000304^Thank you for this power you have given me!^^^^^
+MST_UNIT_EXPLAIN_FUSION_307000305^We can't just sit and stand around in a place like this!^^^^^
+MST_UNIT_EXPLAIN_FUSION_212000507^You've no need to worry. Who do you think I am? Well, I'm the main character in this story, of course.^^걱정할 필요 없어.<br>내가 누구라고 생각하는 거야?<br>이 이야기의 주인공이야.^^^
+MST_UNIT_EXPLAIN_FUSION_205000807^Allow me to show you my top-class power!^^^^^
+MST_UNIT_EXPLAIN_FUSION_100008607^I will no longer hurt anyone, and if anyone should be hurt, I will heal them.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100009807^Allow me to use this new power I've been bestowed with to protect you.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100010407^Poetry is power. I will continue to sing my songs for you.^^^^^
+MST_UNIT_EXPLAIN_FUSION_215000207^Sometimes we just gotta kick back and relax, us guys.^^남자한테는 말이야,<br>무모해야 할 때도 있는 거야.^^^
+MST_UNIT_EXPLAIN_FUSION_100010807^As long as dragons live and breath, I will continue to fulfill my duty as a dragoon. Therefore I mustn't go a day without training.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100011707^Real strength lies in the ability to protect others without fail no matter the circumstances.^^^^^
+MST_UNIT_EXPLAIN_FUSION_210000207^I won't hesitate. I'll keep moving forward and keep fighting on this journey of ours.^^저는…… 망설이지 않아요.<br>도망치지 않고, 싸워서<br>여행을 계속하겠어요.^^^
+MST_UNIT_EXPLAIN_FUSION_210000407^It'd be nice if we could just continue forth without worrying about where we're going. So much to think about when you're just standing around.^^아무 생각 없이 그저 <br>앞으로 나아갈 수 있다면 편할 텐데.<br>멈춰 서면 여러 가지 생각이 들어.^^^
+MST_UNIT_EXPLAIN_FUSION_100012407^This power you have bestowed upon me, Master...I will not let it go to waste.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100011807^I have many people I wish to protect, so thank you for this. I need to get more and more powerful, still.^^^^^
+MST_UNIT_EXPLAIN_FUSION_215000607^Shouldn't we have someone on patrol? I feel like working.^^순찰은 하지 않아도 되나?<br>난 움직이는 걸 좋아하는 성격인데.^^^
+MST_UNIT_EXPLAIN_FUSION_215000707^That's it! Let's do this!^^느낌 좋은데~<br>이대로 쭉쭉 가 보자고!^^^
+MST_UNIT_EXPLAIN_FUSION_100012607^How strange. I feel even stronger than I was before.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100016905^Now I understand. He who relinquishes everything, armor and all, is truly the strongest.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100016906^Rest assured, I will no longer be consumed by hatred.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100016907^I understand more than anyone what it is like to be alone. That is why I will not leave you.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100016704^......I have no real thoughts on this either way.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100016705^......I'm trying to concentrate. Be quiet.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100016706^......Don't rush me, I want to do this the right way.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100016803^I was once told it is okay not to use magic. This is much cooler, after all!^^^^^
+MST_UNIT_EXPLAIN_FUSION_100016804^I can get even stronger, you know. Still, no cheating, okay?^^^^^
+MST_UNIT_EXPLAIN_FUSION_100016805^I plan to soon fill out this loose-fitting robe!^^^^^
+MST_UNIT_EXPLAIN_FUSION_330000105^Those without a place to rest will simply be turned to ash.^^^^^
+MST_UNIT_EXPLAIN_FUSION_330000106^No matter where, no matter when, the flames of war will continue to burn... Or will they...^^^^^
+MST_UNIT_EXPLAIN_FUSION_330000107^The wicked are to be vanquished if we are to free their pitiful souls.^^^^^
+MST_UNIT_EXPLAIN_FUSION_330000205^I can probably help out a little bit, but that's it, you know?^^^^^
+MST_UNIT_EXPLAIN_FUSION_330000206^Nothing can change the truth.^^^^^
+MST_UNIT_EXPLAIN_FUSION_330000207^This feeling isn't so bad. You might just be able to become a fine Einheria some day.^^^^^
+MST_UNIT_EXPLAIN_FUSION_330000305^Don't mess with me. Do you know who I am?^^^^^
+MST_UNIT_EXPLAIN_FUSION_330000306^Doesn't matter who or what shows up, it's just a matter of time before I take them out.^^^^^
+MST_UNIT_EXPLAIN_FUSION_330000307^It doesn't matter how strong I get, I don't need to take it easy on my enemies, right?^^^^^
+MST_UNIT_EXPLAIN_FUSION_330000404^All right, let's do this.^^^^^
+MST_UNIT_EXPLAIN_FUSION_330000405^I will show you my true power.^^^^^
+MST_UNIT_EXPLAIN_FUSION_330000406^I don't want to make anyone suffer anymore...^^^^^
+MST_UNIT_EXPLAIN_FUSION_330000503^H-how rude! What do you think you're trying to do!?^^^^^
+MST_UNIT_EXPLAIN_FUSION_330000504^I was a bit lost at first, but now I feel this isn't such a bad way to gain power.^^^^^
+MST_UNIT_EXPLAIN_FUSION_330000505^Doesn't matter how many you defeat, they still keep coming.^^^^^
+MST_UNIT_EXPLAIN_FUSION_207000305^Seems I've grown a bit stronger. My master is said to be pretty apt, as well.^^^^^
+MST_UNIT_EXPLAIN_FUSION_207000306^Don't take me too lightly or you'll get bit!^^^^^
+MST_UNIT_EXPLAIN_FUSION_207000307^I do have friends. No matter how scary it gets, I won't give up.^^^^^
+MST_UNIT_EXPLAIN_FUSION_207000805^The endless nightmares I see as I sleep, I feel, are my chance for atonement.^^^^^
+MST_UNIT_EXPLAIN_FUSION_207000806^Let me show you how to really fight.^^^^^
+MST_UNIT_EXPLAIN_FUSION_207000807^Though I was once frozen in place, I am ready to move once again...^^^^^
+MST_UNIT_EXPLAIN_FUSION_207000204^This is the real thing! I'm really gonna give it to 'em this time!^^^^^
+MST_UNIT_EXPLAIN_FUSION_207000205^If even after deep thought you still don't understand, all you've left to do is act!^^^^^
+MST_UNIT_EXPLAIN_FUSION_207000206^I'm with you to the very end, pal!^^^^^
+MST_UNIT_EXPLAIN_FUSION_207000703^Let's go! Even if you tell me not to, I'm still going to follow you!^^^^^
+MST_UNIT_EXPLAIN_FUSION_207000704^How's this? I shall now read all your futures!^^^^^
+MST_UNIT_EXPLAIN_FUSION_207000705^I just can't hold back my feelings. I'm going to join you all!^^^^^
+MST_UNIT_EXPLAIN_FUSION_215001107^By my pride, I will build the future.^^나는 긍지로 미래를 만들어가겠어.^^^
+MST_UNIT_EXPLAIN_FUSION_100011307^There is no end to mastering one's techniques. There is but diligence.^^^^^
+MST_UNIT_EXPLAIN_FUSION_212001107^Even stray dogs have spirit! Now bear witness to my blade of judgment!^^들개에게도 의지는 있다!<br>보아라, 심판의 검을!^^^
+MST_UNIT_EXPLAIN_FUSION_212000907^Are there things we can justify giving our lives up to atone for? I think we need to live to pay of the debts of sins past.^^목숨으로는 아무것도 갚을 수 없다.<br>과거의 죄는 살아서 갚아야만 해.^^^
+MST_UNIT_EXPLAIN_FUSION_100012007^I'm not always messing around. I'm really trying my best, you know?^^^^^
+MST_UNIT_EXPLAIN_FUSION_100013307^Thank you kindly. I will continue to improve myself so that I can aid you in the future.^^^^^
+MST_UNIT_EXPLAIN_FUSION_204001507^As long as my magic can be of help to everyone...^^^^^
+MST_UNIT_EXPLAIN_FUSION_204001607^As I am now, I have no right to offer my blessings to Cecil and Rosa. However, someday I just might...^^^^^
+MST_UNIT_EXPLAIN_FUSION_100011907^Steady as she goes, I'm moving step by step closer to my dream!^^^^^
+MST_UNIT_EXPLAIN_FUSION_100014007^I can't hold back this overflowing power. It's been a long time since I've felt so refreshed.^^^^^
+MST_UNIT_EXPLAIN_FUSION_207001007^I live and breath thanks to the soul energy born from death...^^죽음으로 인해 생겨나는 정신 에너지.<br>그 모든 것이 마침내 나의 일부가 되어<br>살아가는 것이다……^^^
+MST_UNIT_EXPLAIN_FUSION_100013807^As strong as I am now I might even be able to surpass my master.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100012507^A world without sacrifices... That is the world I hope for.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100010007^I will grow as strong as you require me to become.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100015807^I will cut a path toward the future with this power. It is something I must do.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100017105^If you ever find yourself in trouble, you can always rely on us fairies.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100017106^Timothy and Mim haven't been troubling you, have they? I always worry about that.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100017107^I am willing to do anything for the sake of humanity.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100017204^I need to become even stronger to please my father.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100017205^I don't mind this form that much. It's pretty cool, actually!^^^^^
+MST_UNIT_EXPLAIN_FUSION_100017206^I don't just want to meet your expectations of me, I want to grow stronger for myself, as well. That is how I feel now.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100017304^You'd best remember my name as it will surely go down in history.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100017305^I can still do so much more. You should help me in doing so, yeah?^^^^^
+MST_UNIT_EXPLAIN_FUSION_100017306^I will absolutely become a great mage. I will spare no effort in attaining that goal.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100017403^I've never tasted a monster like that. I'd like to see if I can't find another.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100017404^Hmm, I wonder what's the best way to cook a lion...^^^^^
+MST_UNIT_EXPLAIN_FUSION_100017405^How about a stew made of mages cooked painstakingly over the course of three days?^^^^^
+MST_UNIT_EXPLAIN_FUSION_304000405^Flammie obtained experience.^^^^^
+MST_UNIT_EXPLAIN_FUSION_304000406^Flammie obtained experience.^^^^^
+MST_UNIT_EXPLAIN_FUSION_304000407^Flammie obtained experience.^^^^^
+MST_UNIT_EXPLAIN_FUSION_304000107^Real warriors require true bravery. I doubt I can handle it on my own, but if we all fight together...^^^^^
+MST_UNIT_EXPLAIN_FUSION_312000307^I'll never abandon a friend! I won't turn tail ever again!^^^^^
+MST_UNIT_EXPLAIN_FUSION_312000107^I must get stronger, if only for Roland and Elliot.^^^^^
+MST_UNIT_EXPLAIN_FUSION_312000207^I need strength so that I can avenge my friend and protect his younger sister.^^^^^
+MST_UNIT_EXPLAIN_FUSION_304000503^Rabite obtained experience. ^^^^^
+MST_UNIT_EXPLAIN_FUSION_304000504^Rabite obtained experience. ^^^^^
+MST_UNIT_EXPLAIN_FUSION_304000505^Rabite obtained experience. ^^^^^
+MST_UNIT_EXPLAIN_FUSION_254001805^We can't let the enemy have it their way any longer.^^^^^
+MST_UNIT_EXPLAIN_FUSION_254001806^I hate being weak. I hate being the one who has to be protected.^^^^^
+MST_UNIT_EXPLAIN_FUSION_254001807^I refuse to give up on my friends.^^^^^
+MST_UNIT_EXPLAIN_FUSION_254001905^Would it trouble you if I died?^^^^^
+MST_UNIT_EXPLAIN_FUSION_254001906^Somehow I feel that without you all, nothing would be worth doing.^^^^^
+MST_UNIT_EXPLAIN_FUSION_254001907^I won't allow you to die so easily. If you did, my approval rating would decrease.^^^^^
+MST_UNIT_EXPLAIN_FUSION_254002004^Do you think it's possible to understand a warrior's pain from behind a desk?^^^^^
+MST_UNIT_EXPLAIN_FUSION_254002005^Surely what is important is how we lead the fight.^^^^^
+MST_UNIT_EXPLAIN_FUSION_254002006^There are plenty of things other than warfare to study, you know.^^^^^
+MST_UNIT_EXPLAIN_FUSION_254001103^Why don't we have a bit of fun?^^^^^
+MST_UNIT_EXPLAIN_FUSION_254001104^Sorry for the wait! Now watch this!^^^^^
+MST_UNIT_EXPLAIN_FUSION_254001105^I have no intention of losing. I'll take down anyone who dares stand up against us!^^^^^
+MST_UNIT_EXPLAIN_FUSION_100017905^My beauty comes from within. Therefore, whether I'm wearing armor or not, I will be beautiful forever.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100017906^Well look at me. Not only am I beautiful, I'm strong as well. Guess I'll be fighting off those jealous gazes once again.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100017907^How troubling. There seems to be no end to my beauty or strength.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100018004^Behold, Zeke. This is my true power.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100018005^Behold, brother. I've still room to grow.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100018006^Look at me...I'm so beautiful!^^^^^
+MST_UNIT_EXPLAIN_FUSION_100018104^You had best examine hard my elegance, young brother.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100018105^I am still far more elegant than you, little sister.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100018106^Look at me...I'm so elegant!^^^^^
+MST_UNIT_EXPLAIN_FUSION_100018203^What an enhancement. I can do more than ever with this.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100018204^What an enhancement. I do not mind getting busy.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100018205^What an enhancement. There truly is never a dull moment here.^^^^^
+MST_UNIT_EXPLAIN_FUSION_332000105^Will you look at that! This is brilliant.^^^^^
+MST_UNIT_EXPLAIN_FUSION_332000106^Sometimes to understand your present, you need to go back to your past.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100017605^The power of the mother of Hess. I shall reveal it to you all in due time.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100017606^He he. Mother is strong, is she not.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100017607^To lead the world toward a just future. I would spare no effort to attain such a goal.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100017704^Do not underestimate my power. You haven't seen anything yet.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100017705^My duty is on the front lines. I'll leave the rear to you.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100017706^I will not allow our hopes to die. Therefore, I must become stronger.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100017803^Do you think it is just to solve everything by force?^^^^^
+MST_UNIT_EXPLAIN_FUSION_100017804^I would gladly offer up my own life to help in the resurrection of Hess.^^^^^
+MST_UNIT_EXPLAIN_FUSION_100017805^I shall not miss, for within this arrow lies the thoughts and memories of Hess.^^^^^
+MST_UNIT_EXPLAIN_FUSION_203001305^It's always best to try your hardest, especially when it comes to training.^^^^^
+MST_UNIT_EXPLAIN_FUSION_203001306^I can't say I was very diligent in my training, but I would still like to help save everyone.^^^^^
+MST_UNIT_EXPLAIN_FUSION_203001307^Thank you. I think now it's about time I see my father once more.^^^^^
+MST_UNIT_EXPLAIN_FUSION_203001405^We might just have what it takes if we combine our power.^^^^^
+MST_UNIT_EXPLAIN_FUSION_203001406^Thank you. All right everyone, let's go.^^^^^
+MST_UNIT_EXPLAIN_FUSION_203001407^I hadn't noticed before, but it seems like I have the power of light within me.^^^^^
+MST_UNIT_EXPLAIN_FUSION_203000604^We must hurry... I don't have much time left myself either, you see.^^^^^
+MST_UNIT_EXPLAIN_FUSION_203000605^I thank you, kindly. This somehow brings new encouragement to this aged body of mine.^^^^^
+MST_UNIT_EXPLAIN_FUSION_203000606^Ho ho. It seems I wasn't just about to be thrown away after all.^^^^^
+MST_UNIT_EXPLAIN_FUSION_203001503^Hoo hoo... Seems I can put up with being old after all.^^^^^
+MST_UNIT_EXPLAIN_FUSION_203001504^I've been lost in a dream world up until now. Ah! Here's not so bad either!^^^^^
+MST_UNIT_EXPLAIN_FUSION_203001505^Do not worry. Even if my body dies, my spirit will live on...^^^^^
+MST_UNIT_EXPLAIN_FUSION_900010501^ ^ ^ ^ ^ ^ 
+MST_UNIT_EXPLAIN_FUSION_904000115^^^^^^

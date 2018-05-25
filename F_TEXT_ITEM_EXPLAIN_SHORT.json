@@ -527,7 +527,7 @@ MST_ITEM_SHORTDESCRIPTION_107003000^A great white stone said to grant power to e
 MST_ITEM_SHORTDESCRIPTION_107003100^A great black stone said to grant power to espers^能給予幻獸力量的黑色超魔石^환수에게 힘을 부여하는 검은 초월마석.^Une grosse pierre noire qui, selon la légende, confère un grand pouvoir aux chimères.^Ein großer, schwarzer Stein, von dem es heißt, er würde Espern Kräfte verleihen.^Una gran piedra negra que supuestamente le confiere poder a los espers.
 MST_ITEM_SHORTDESCRIPTION_107003200^A great yellow stone said to grant power to espers^能給予幻獸力量的黃色超魔石^환수에게 힘을 부여하는 노란 초월마석.^Une grosse pierre jaune qui, selon la légende, confère un grand pouvoir aux chimères.^Ein großer, gelber Stein, von dem es heißt, er würde Espern Kräfte verleihen. ^Una gran piedra amarilla que supuestamente le confiere poder a los espers.
 MST_ITEM_SHORTDESCRIPTION_107003300^A great orange stone said to grant power to espers^能給予幻獸力量的橙色超魔石^환수에게 힘을 부여하는 주황 초월마석.^Une grosse pierre orange qui, selon la légende, confère un grand pouvoir aux chimères.^Ein großer, oranger Stein, von dem es heißt, er würde Espern Kräfte verleihen.^Una gran piedra naranja que supuestamente le confiere poder a los espers.
-MST_ITEM_SHORTDESCRIPTION_107003400^A great purple stone said to grant power to espers^能給予幻獸力量的紫色超魔石^환수에게 힘을 부여하는 보라 초월마석.^Une grosse pierre pourpre qui, selon la légende, confère un grand pouvoir aux chimères.^Ein großer, lilaner Stein, von dem es heißt, er würde Espern Kräfte verleihen. ^Una gran piedra morada que supuestamente le confiere poder a los espers.
+MST_ITEM_SHORTDESCRIPTION_107003400^A great violet stone said to grant power to espers^能給予幻獸力量的紫色超魔石^환수에게 힘을 부여하는 보라 초월마석.^Une grosse pierre pourpre qui, selon la légende, confère un grand pouvoir aux chimères.^Ein großer, lilaner Stein, von dem es heißt, er würde Espern Kräfte verleihen. ^Una gran piedra lila que supuestamente le confiere poder a los espers.
 MST_ITEM_SHORTDESCRIPTION_109301000^A fragment from a blue-colored, fan-shaped slate.^扇形的藍色石板碎片^부채꼴 모양의 푸른 석판 조각.^Un fragment d'une ardoise bleue en forme d'éventail.^Ein blaufarbiges, fächerförmiges Fragment einer Steinplatte.^Un trozo de pizarra azul con forma de abanico.
 MST_ITEM_SHORTDESCRIPTION_109301010^A fragment from a blue-colored, fan-shaped slate.^扇形的藍色石板碎片^부채꼴 모양의 푸른 석판 조각.^Un fragment d'une ardoise bleue en forme d'éventail.^Ein blaufarbiges, fächerförmiges Fragment einer Steinplatte.^Un trozo de pizarra azul con forma de abanico.
 MST_ITEM_SHORTDESCRIPTION_109301020^A fragment from a blue-colored, fan-shaped slate.^扇形的藍色石板碎片^부채꼴 모양의 푸른 석판 조각.^Un fragment d'une ardoise bleue en forme d'éventail.^Ein blaufarbiges, fächerförmiges Fragment einer Steinplatte. ^Un trozo de pizarra azul con forma de abanico.
@@ -591,6 +591,168 @@ MST_ITEM_SHORTDESCRIPTION_1209000870^An explosive powder used in crafting bullet
 MST_ITEM_SHORTDESCRIPTION_1209000871^Use to perform one 30 million downloads celebratory summon!^用於3000萬下載召喚的紀念券！^3천만 다운로드 기념 소환에 사용하세요!^Utilisez-le pour lancer une invocation des 30 millions de téléchargements !^Wird benutzt um eine feierliche 30 Millionen Downloads-Beschwörung durchzuführen!^¡Sirve para realizar la Invocación de celebración de las 30 millones de descargas!
 MST_ITEM_SHORTDESCRIPTION_1209000881^A metallic token resembling the petal of a cherry blossom.^形似櫻花花瓣的金屬紀念物^벚꽃잎 모양을 띤 금속 토큰.^Une pièce de monnaie en métal ressemblant à un pétale de fleur de cerisier.^Eine metallische Marke, die dem Blatt einer Kirschblüte nachempfunden ist.^Una moneda de metal que se asemeja al pétalo de un cerezo en flor.
 MST_ITEM_SHORTDESCRIPTION_1209000872^A cluster of blue and red supercites.^帶有藍紅色的超魔石^푸른색과 붉은색을 띤 초월마석^Un amas de gigalithes bleues et rouges.^Eine Ansammlung blauer und roter Supermaginite.^Un grupo de supercitas azules y rojas.
-MST_ITEM_SHORTDESCRIPTION_1209000873^A cluster of violet and yellow supercite.^帶有紫黃色的超魔石^보라색과 노란색을 띤 초월마석^Un amas de gigalithes violettes et jaunes.^Eine Ansammlung violetter und gelber Supermaginite.^Un grupo de supercitas violetas y amarillas.
-MST_ITEM_SHORTDESCRIPTION_1209000874^A cluster of orange and white supercite.^帶有橙白色的超魔石^주황색과 하얀색을 띤 초월마석^Un amas de gigalithes orange et blanches.^Eine Ansammlung oranger und weißer Supermaginite.^Un grupo de supercitas naranjas y blancas.
-MST_ITEM_SHORTDESCRIPTION_1209000875^A cluster of green and black supercite.^帶有綠黑色的超魔石^초록색과 검정색을 띤 초월마석^Un amas de gigalithes vertes et noires.^Eine Ansammlung grüner und schwarzer Supermaginite.^Un grupo de supercitas verdes y negras.
+MST_ITEM_SHORTDESCRIPTION_1209000873^A cluster of violet and yellow supercites.^帶有紫黃色的超魔石^보라색과 노란색을 띤 초월마석^Un amas de gigalithes violettes et jaunes.^Eine Ansammlung violetter und gelber Supermaginite.^Un grupo de supercitas violetas y amarillas.
+MST_ITEM_SHORTDESCRIPTION_1209000874^A cluster of orange and white supercites.^帶有橙白色的超魔石^주황색과 하얀색을 띤 초월마석^Un amas de gigalithes orange et blanches.^Eine Ansammlung oranger und weißer Supermaginite.^Un grupo de supercitas naranjas y blancas.
+MST_ITEM_SHORTDESCRIPTION_1209000875^A cluster of green and black supercites.^帶有綠黑色的超魔石^초록색과 검정색을 띤 초월마석^Un amas de gigalithes vertes et noires.^Eine Ansammlung grüner und schwarzer Supermaginite.^Un grupo de supercitas verdes y negras.
+MST_ITEM_SHORTDESCRIPTION_101003500^Fully recover all downed allies.^^^^^
+MST_ITEM_SHORTDESCRIPTION_101003600^Fully recover 1 downed ally.^^^^^
+MST_ITEM_SHORTDESCRIPTION_101003700^Dispel some debuff effects from 1 ally.^^^^^
+MST_ITEM_SHORTDESCRIPTION_101003800^Recover 1 ally's MP.^^^^^
+MST_ITEM_SHORTDESCRIPTION_101003900^Reduce incoming damage to all allies for 3 turns.^^^^^
+MST_ITEM_SHORTDESCRIPTION_105006300^Fully recover all downed allies.^^^^^
+MST_ITEM_SHORTDESCRIPTION_105006400^Increase all ally's attack powers, and slowly recover all ally's HP.^^^^^
+MST_ITEM_SHORTDESCRIPTION_105006500^Apply reflect onto 1 ally.^^^^^
+MST_ITEM_SHORTDESCRIPTION_105006600^A flag that brings in blessed winds.^^^^^
+MST_ITEM_SHORTDESCRIPTION_105006700^A small gavel that lowers a target's ability.^^^^^
+MST_ITEM_SHORTDESCRIPTION_105006800^A small gavel that lowers a target's ability.^^^^^
+MST_ITEM_SHORTDESCRIPTION_105006900^Slightly increase 1 ally's LB gauge.^^^^^
+MST_ITEM_SHORTDESCRIPTION_106211110^A mysterious gem that glows blue.^^^^^
+MST_ITEM_SHORTDESCRIPTION_106211150^A ticket that can be used to get specific units.^^^^^
+MST_ITEM_SHORTDESCRIPTION_106304300^A coin etched with the image of King Mog.^^^^^
+MST_ITEM_SHORTDESCRIPTION_106304400^A card used for a popular game in a faraway world.^^^^^
+MST_ITEM_SHORTDESCRIPTION_106304500^A coin proving one has fought the Lord of the Underworld.^^^^^
+MST_ITEM_SHORTDESCRIPTION_106304600^A crystal that came from a faraway world.^^^^^
+MST_ITEM_SHORTDESCRIPTION_106304700^A coin that serves as proof of one's battle against an amalgamated beast from a faraway world. ^用來證明挑戰過合成魔獸的硬幣^이계에서 나타난 합성 마수와 싸운 증거로서 손에 넣을 수 있는 코인. ^Une pièce qui atteste d'une bataille livrée contre une bête chimérique d'un monde lointain. ^Eine Münze, die als Beweis für den Kampf mit einer aus vielen Teilen zusammengesetzten Bestie dient.^Una moneda que sirve como prueba de que se luchó contra una bestia fusionada de un mundo lejano.
+MST_ITEM_SHORTDESCRIPTION_106304800^A beautiful, transparent bottle.^^^^^
+MST_ITEM_SHORTDESCRIPTION_106304900^A coin proving one has fought the king of a lost kingdom.^^^^^
+MST_ITEM_SHORTDESCRIPTION_106305000^An icicle that will never melt that came from a faraway world.^^^^^
+MST_ITEM_SHORTDESCRIPTION_106305100^A coin proving one has fought a divine beast.^^^^^
+MST_ITEM_SHORTDESCRIPTION_106305200^A tag from a faraway world that proves a person's existence.^^^^^
+MST_ITEM_SHORTDESCRIPTION_106305300^A coin proving one has faced a powerful enemy.^^^^^
+MST_ITEM_SHORTDESCRIPTION_106305400^A fang that holds the power of earth.^^^^^
+MST_ITEM_SHORTDESCRIPTION_109302000^A fragment of a yellow slab shaped like a fan.^^^^^
+MST_ITEM_SHORTDESCRIPTION_109302010^A fragment of a yellow slab shaped like a fan.^^^^^
+MST_ITEM_SHORTDESCRIPTION_109302020^A fragment of a yellow slab shaped like a fan.^^^^^
+MST_ITEM_SHORTDESCRIPTION_109302030^A fragment of a yellow slab shaped like a fan.^^^^^
+MST_ITEM_SHORTDESCRIPTION_109302040^A fragment of a yellow slab shaped like a fan.^^^^^
+MST_ITEM_SHORTDESCRIPTION_109302050^A fragment of a yellow slab shaped like a fan.^^^^^
+MST_ITEM_SHORTDESCRIPTION_110000100^A map of the Farplane sought by King Mog.^^^^^
+MST_ITEM_SHORTDESCRIPTION_110000200^A map of the Farplane sought by King Mog.^^^^^
+MST_ITEM_SHORTDESCRIPTION_110000300^A map of the Farplane sought by King Mog.^^^^^
+MST_ITEM_SHORTDESCRIPTION_110000400^A map of the Farplane sought by King Mog.^^^^^
+MST_ITEM_SHORTDESCRIPTION_110000500^A map of the Farplane sought by King Mog.^^^^^
+MST_ITEM_SHORTDESCRIPTION_203000600^An ore containing very hard crystals.^^^^^
+MST_ITEM_SHORTDESCRIPTION_221000100^A raid material from "Estark Challenge."^^^^^
+MST_ITEM_SHORTDESCRIPTION_221000200^A raid material from "Estark Challenge."^^^^^
+MST_ITEM_SHORTDESCRIPTION_221000300^A raid material from "Estark Challenge."^^^^^
+MST_ITEM_SHORTDESCRIPTION_221000400^A raid material from "Estark Challenge."^^^^^
+MST_ITEM_SHORTDESCRIPTION_221000500^A raid material from "Estark Challenge."^^^^^
+MST_ITEM_SHORTDESCRIPTION_221000600^A raid material from "Estark Challenge."^^^^^
+MST_ITEM_SHORTDESCRIPTION_221000700^FFBE Raid - Dracotaur Lancer raid material.^^^Matériau du raid FFBE - Lancier dracotaure^^
+MST_ITEM_SHORTDESCRIPTION_221000800^FFBE Raid - Dracotaur Lancer raid material.^^^Matériau du raid FFBE - Lancier dracotaure^^
+MST_ITEM_SHORTDESCRIPTION_221000900^FFBE Raid - Dracotaur Lancer raid material.^^^Matériau du raid FFBE - Lancier dracotaure^^
+MST_ITEM_SHORTDESCRIPTION_221001000^FFBE Raid - Dracotaur Lancer raid material.^^^Matériau du raid FFBE - Lancier dracotaure^^
+MST_ITEM_SHORTDESCRIPTION_221001100^FFBE Raid - Dracotaur Lancer raid material.^^^Matériau du raid FFBE - Lancier dracotaure^^
+MST_ITEM_SHORTDESCRIPTION_222000100^A raid material from "The Lost City of Dipan."^^^^^
+MST_ITEM_SHORTDESCRIPTION_222000200^A raid material from "The Lost City of Dipan."^^^^^
+MST_ITEM_SHORTDESCRIPTION_222000300^A raid material from "The Lost City of Dipan."^^^^^
+MST_ITEM_SHORTDESCRIPTION_222000400^A raid material from "The Lost City of Dipan."^^^^^
+MST_ITEM_SHORTDESCRIPTION_222000500^A raid material from "The Lost City of Dipan."^^^^^
+MST_ITEM_SHORTDESCRIPTION_223000100^A raid material from "The Enshrined Divine Beast."^^^^^
+MST_ITEM_SHORTDESCRIPTION_223000200^A raid material from "The Enshrined Divine Beast."^^^^^
+MST_ITEM_SHORTDESCRIPTION_223000300^A raid material from "The Enshrined Divine Beast."^^^^^
+MST_ITEM_SHORTDESCRIPTION_223000400^A raid material from "The Enshrined Divine Beast."^^^^^
+MST_ITEM_SHORTDESCRIPTION_223000500^A raid material from "The Enshrined Divine Beast."^^^^^
+MST_ITEM_SHORTDESCRIPTION_224000100^A raid material from "Silversmith Ruins."^^^^^
+MST_ITEM_SHORTDESCRIPTION_224000200^A raid material from "Silversmith Ruins."^^^^^
+MST_ITEM_SHORTDESCRIPTION_224000300^A raid material from "Silversmith Ruins."^^^^^
+MST_ITEM_SHORTDESCRIPTION_224000400^A raid material from "Silversmith Ruins."^^^^^
+MST_ITEM_SHORTDESCRIPTION_224000500^A raid material from "Silversmith Ruins."^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000010^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000020^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000030^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000040^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000050^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000060^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000070^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000080^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000090^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000100^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000110^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000120^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000130^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000140^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000150^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000160^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000170^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000180^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000190^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000200^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000210^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000220^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000230^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000240^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000250^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000260^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000270^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000280^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000290^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000300^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000310^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000320^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000330^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000340^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000350^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000360^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000370^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000380^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000390^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000400^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000410^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000420^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000430^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000440^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000450^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000460^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000470^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000480^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000490^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000500^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000510^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000520^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000530^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000540^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000550^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000560^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000570^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000580^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000590^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000600^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000610^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000620^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000630^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000640^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000650^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000660^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000670^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000680^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000690^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000700^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000710^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000720^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000730^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000740^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000750^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000760^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000770^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000780^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000790^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000800^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000810^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000820^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000830^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000840^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000850^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000860^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000870^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000880^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000890^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000900^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_300000910^A rainbow colored stone that holds a mysterious power.^^^^^
+MST_ITEM_SHORTDESCRIPTION_1209000882^FFBE Raid - Dracotaur Lancer raid material.^FFBE 共鬥 - 半龍人槍兵的素材^고대의 엘프 왕국에서 전해져 내려온 무지갯빛 수정. ^Matériau du raid FFBE - Lancier dracotaure^FFBE Raubzug - Draconischer Lancier Raubzugmaterial^Material de banda de evento de banda de FFBE - Lancero dragoniano.
+MST_ITEM_SHORTDESCRIPTION_1209000883^FFBE Raid - Dracotaur Lancer raid material.^FFBE 共鬥 - 半龍人槍兵的素材^인공 목재. ^Matériau du raid FFBE - Lancier dracotaure^FFBE Raubzug - Draconischer Lancier Raubzugmaterial^Material de banda de evento de banda de FFBE - Lancero dragoniano.
+MST_ITEM_SHORTDESCRIPTION_1209000884^FFBE Raid - Dracotaur Lancer raid material.^FFBE 共鬥 - 半龍人槍兵的素材^투명한 진홍색 수정 구슬.^Matériau du raid FFBE - Lancier dracotaure^FFBE Raubzug - Draconischer Lancier Raubzugmaterial^Material de banda de evento de banda de FFBE - Lancero dragoniano.
+MST_ITEM_SHORTDESCRIPTION_1209000885^FFBE Raid - Dracotaur Lancer raid material.^FFBE 共鬥 - 半龍人槍兵的素材^신비스러운 검은색 비단 실뭉치. ^Matériau du raid FFBE - Lancier dracotaure^FFBE Raubzug - Draconischer Lancier Raubzugmaterial^Material de banda de evento de banda de FFBE - Lancero dragoniano.
+MST_ITEM_SHORTDESCRIPTION_1209000886^FFBE Raid - Dracotaur Lancer raid material.^FFBE 共鬥 - 半龍人槍兵的素材^희귀 악마의 검붉은 가죽 조각. ^Matériau du raid FFBE - Lancier dracotaure^FFBE Raubzug - Draconischer Lancier Raubzugmaterial^Material de banda de evento de banda de FFBE - Lancero dragoniano.
+MST_ITEM_SHORTDESCRIPTION_1209000887^FFBE Raid - Dracotaur Lancer raid material.^FFBE 共鬥 - 半龍人槍兵的素材^큰 새의 날개에서 얻을 수 있는 회색 깃털. ^Matériau du raid FFBE - Lancier dracotaure^FFBE Raubzug - Draconischer Lancier Raubzugmaterial^Material de banda de evento de banda de FFBE - Lancero dragoniano.
+MST_ITEM_SHORTDESCRIPTION_1209000888^FFBE Raid - Dracotaur Lancer raid material.^FFBE 共鬥 - 半龍人槍兵的素材^푸른 달이 뜨는 밤 악마의 동굴에서 발견되는 진홍색의 달걀. ^Matériau du raid FFBE - Lancier dracotaure^FFBE Raubzug - Draconischer Lancier Raubzugmaterial^Material de banda de evento de banda de FFBE - Lancero dragoniano.
