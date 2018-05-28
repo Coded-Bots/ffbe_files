@@ -1,0 +1,26 @@
+[
+    {
+        "9XyCMoG0": "1", 
+        "F14ibzDC": "<color=255:165:0><param=player_name></color>が<color=255:255:0><param=rank></color>にランクアップ！"
+    }, 
+    {
+        "9XyCMoG0": "2", 
+        "F14ibzDC": "<color=255:165:0><param=player_name></color>がトラストマスター「<color=255:255:0><param=reward_name></color>」を獲得！"
+    }, 
+    {
+        "9XyCMoG0": "3", 
+        "F14ibzDC": "<color=255:165:0><param=player_name></color>が<color=255:255:0><param=unit_name></color>を<color=255:255:0>★<param=rarity></color>に覚醒！"
+    }, 
+    {
+        "9XyCMoG0": "4", 
+        "F14ibzDC": "<color=255:165:0><param=player_name></color>がアビリティ<color=255:255:0><param=ability_name></color>を<color=255:255:0>+<param=rank></color>に覚醒！"
+    }, 
+    {
+        "9XyCMoG0": "5", 
+        "F14ibzDC": "<color=255:165:0><param=player_name></color>が<color=255:255:0>★<param=rarity> <param=unit_name></color>を召喚！"
+    }, 
+    {
+        "9XyCMoG0": "6", 
+        "F14ibzDC": "<color=255:165:0><param=player_name></color>が<color=255:255:0><param=mission_name></color>をクリア！"
+    }
+]
