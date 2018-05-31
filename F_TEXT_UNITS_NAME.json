@@ -931,8 +931,8 @@ MST_UNIT_NAME_315000105^Rinne^林奈^린네^Rinne^Rinne^Rinne
 MST_UNIT_NAME_315000106^Rinne^林奈^린네^Rinne^Rinne^Rinne
 MST_UNIT_NAME_204001505^Pure Summoner Rydia^無瑕召喚士莉迪亞^순수의 소환사 리디아^Rydia, pure invocatrice^Reine Beschwörerin Rydia^Rydia invocadora pura
 MST_UNIT_NAME_204001506^Pure Summoner Rydia^無瑕召喚士莉迪亞^순수의 소환사 리디아^Rydia, pure invocatrice^Reine Beschwörerin Rydia^Rydia invocadora pura
-MST_UNIT_NAME_204001605^Studious Dragoon Kain^極致龍騎士凱因^궁극의 용기사 카인^Kaïn, dragonnier studieux^Strebsamer Dragoner Kain^Kain élite draconarius
-MST_UNIT_NAME_204001606^Studious Dragoon Kain^極致龍騎士凱因^궁극의 용기사 카인^Kaïn, dragonnier studieux^Strebsamer Dragoner Kain^Kain élite draconarius
+MST_UNIT_NAME_204001605^Atoning Dragoon Kain^極致龍騎士凱因^궁극의 용기사 카인^Kaïn, dragonnier repenti^Sühnender Dragoner Kain^Kain, dragontino redentor
+MST_UNIT_NAME_204001606^Atoning Dragoon Kain^極致龍騎士凱因^궁극의 용기사 카인^Kaïn, dragonnier repenti^Sühnender Dragoner Kain^Kain, dragontino redentor
 MST_UNIT_NAME_204000704^Yang^楊^얀^Yang^Yang^Yang
 MST_UNIT_NAME_204000705^Yang^楊^얀^Yang^Yang^Yang
 MST_UNIT_NAME_204000706^Yang^楊^얀^Yang^Yang^Yang
@@ -1219,7 +1219,7 @@ MST_UNIT_NAME_212000907^Basch^^바슈^^^
 MST_UNIT_NAME_100012007^Nameless Gunner Jake^^무명의 총잡이 제이크^^^
 MST_UNIT_NAME_100013307^Emperor Shera^^시엘라 황제^^^
 MST_UNIT_NAME_204001507^Pure Summoner Rydia^^순수의 소환사 리디아^^^
-MST_UNIT_NAME_204001607^Studious Dragoon Kain^^궁극의 용기사 카인^^^
+MST_UNIT_NAME_204001607^Atoning Dragoon Kain^^궁극의 용기사 카인^^^
 MST_UNIT_NAME_100011907^Heavenly Technician Lid^^성홍의 기술자 리드^^^
 MST_UNIT_NAME_100014007^Mediena^^메디아나^^^
 MST_UNIT_NAME_207001007^Sephiroth^^세피로스^^^
@@ -1227,9 +1227,9 @@ MST_UNIT_NAME_100013807^Lila^^리라^^^
 MST_UNIT_NAME_100012507^Maritime Strategist Nichol^^황양의 참모 니콜^^^
 MST_UNIT_NAME_100010007^Raegen^^레겐^^^
 MST_UNIT_NAME_100015807^Rain (Awoken)^^레인(힘의 각성)^^^
-MST_UNIT_NAME_100017105^Elephim^^엘핌^^^
-MST_UNIT_NAME_100017106^Elephim^^엘핌^^^
-MST_UNIT_NAME_100017107^Elephim^^엘핌^^^
+MST_UNIT_NAME_100017105^Elephim^^엘핌^Elephim^Elephim^Elephim
+MST_UNIT_NAME_100017106^Elephim^^엘핌^Elephim^Elephim^Elephim
+MST_UNIT_NAME_100017107^Elephim^^엘핌^Elephim^Elephim^Elephim
 MST_UNIT_NAME_100017204^Leopold^^레오폴드^^^
 MST_UNIT_NAME_100017205^Leopold^^레오폴드^^^
 MST_UNIT_NAME_100017206^Leopold^^레오폴드^^^
@@ -1281,9 +1281,9 @@ MST_UNIT_NAME_100017607^Yuraisha^^유라이샤^^^
 MST_UNIT_NAME_100017704^Franis^^프라니스^^^
 MST_UNIT_NAME_100017705^Franis^^프라니스^^^
 MST_UNIT_NAME_100017706^Franis^^프라니스^^^
-MST_UNIT_NAME_100017803^Ishil^^이실^^^
-MST_UNIT_NAME_100017804^Ishil^^이실^^^
-MST_UNIT_NAME_100017805^Ishil^^이실^^^
+MST_UNIT_NAME_100017803^Ishil^伊修爾^이실^Ishil^Ishil^Ishil
+MST_UNIT_NAME_100017804^Ishil^伊修爾^이실^Ishil^Ishil^Ishil
+MST_UNIT_NAME_100017805^Ishil^伊修爾^이실^Ishil^Ishil^Ishil
 MST_UNIT_NAME_203001305^Onion Knight Refia^^양파 검사 레피아^^^
 MST_UNIT_NAME_203001306^Onion Knight Refia^^양파 검사 레피아^^^
 MST_UNIT_NAME_203001307^Onion Knight Refia^^양파 검사 레피아^^^

@@ -17415,6 +17415,16 @@
         "VC9F3eJn": "味方全体にダメージを与える。"
     }, 
     {
+        "Ga5V42LZ": "507481", 
+        "T7aEx3Mj": "自分のHPMPを回復", 
+        "VC9F3eJn": "自分のHPMPを回復する。"
+    }, 
+    {
+        "Ga5V42LZ": "507482", 
+        "T7aEx3Mj": "自分のHPMPを回復", 
+        "VC9F3eJn": "自分のHPMPを回復する。"
+    }, 
+    {
         "Ga5V42LZ": "507860", 
         "T7aEx3Mj": "物理、魔法攻撃を受けると確率で自分の魔力をアップ", 
         "VC9F3eJn": "物理、魔法攻撃を受けると確率で自分の魔力をアップする。"
@@ -21253,6 +21263,26 @@
         "Ga5V42LZ": "707160", 
         "T7aEx3Mj": "敵全体に光属性ダメージ+味方全体の光属性耐性をアップ", 
         "VC9F3eJn": "敵全体に光属性のダメージを与え、味方全体の光属性耐性をアップする。"
+    }, 
+    {
+        "Ga5V42LZ": "707170", 
+        "T7aEx3Mj": "味方1体に「モグワルツ」が1回使用可能の効果+自分のHPMPを回復", 
+        "VC9F3eJn": "味方1体に「モグワルツ」が1回使用可能の効果を付与し、自分のHPMPを回復する。"
+    }, 
+    {
+        "Ga5V42LZ": "707171", 
+        "T7aEx3Mj": "味方1体に「モグワルツ」が1回使用可能の効果+自分のHPMPを回復+3ターン「W白魔法」が使用可能", 
+        "VC9F3eJn": "味方1体に「モグワルツ」が1回使用可能の効果を付与し、自分のHPMPを回復し、3ターンの間、「W白魔法」が使用可能になる。"
+    }, 
+    {
+        "Ga5V42LZ": "707172", 
+        "T7aEx3Mj": "敵1体に一部防御無視ダメージ", 
+        "VC9F3eJn": "敵1体に一部防御無視のダメージを与える。"
+    }, 
+    {
+        "Ga5V42LZ": "707173", 
+        "T7aEx3Mj": "敵1体に一部防御無視ダメージ", 
+        "VC9F3eJn": "敵1体に一部防御無視のダメージを与える。"
     }, 
     {
         "Ga5V42LZ": "900000", 
@@ -26293,5 +26323,235 @@
         "Ga5V42LZ": "911019", 
         "T7aEx3Mj": "Boost HP by 20% and DEF by 10%", 
         "VC9F3eJn": "Motherly Love"
+    }, 
+    {
+        "Ga5V42LZ": "911021", 
+        "T7aEx3Mj": "Heart of Light", 
+        "VC9F3eJn": "Heart of Light"
+    }, 
+    {
+        "Ga5V42LZ": "911022", 
+        "T7aEx3Mj": "Heart of Light", 
+        "VC9F3eJn": "Heart of Light"
+    }, 
+    {
+        "Ga5V42LZ": "911023", 
+        "T7aEx3Mj": "名もなき詩", 
+        "VC9F3eJn": "名もなき詩"
+    }, 
+    {
+        "Ga5V42LZ": "911024", 
+        "T7aEx3Mj": "名もなき詩", 
+        "VC9F3eJn": "名もなき詩"
+    }, 
+    {
+        "Ga5V42LZ": "911025", 
+        "T7aEx3Mj": "名もなき詩", 
+        "VC9F3eJn": "名もなき詩"
+    }, 
+    {
+        "Ga5V42LZ": "911026", 
+        "T7aEx3Mj": "Chantage", 
+        "VC9F3eJn": "Chantage"
+    }, 
+    {
+        "Ga5V42LZ": "911027", 
+        "T7aEx3Mj": "Chantage", 
+        "VC9F3eJn": "Chantage"
+    }, 
+    {
+        "Ga5V42LZ": "911028", 
+        "T7aEx3Mj": "Blood Scar", 
+        "VC9F3eJn": "Blood Scar"
+    }, 
+    {
+        "Ga5V42LZ": "911029", 
+        "T7aEx3Mj": "Blood Scar", 
+        "VC9F3eJn": "Blood Scar"
+    }, 
+    {
+        "Ga5V42LZ": "911030", 
+        "T7aEx3Mj": "Blood Rage", 
+        "VC9F3eJn": "Blood Rage"
+    }, 
+    {
+        "Ga5V42LZ": "911031", 
+        "T7aEx3Mj": "Blood Rage", 
+        "VC9F3eJn": "Blood Rage"
+    }, 
+    {
+        "Ga5V42LZ": "911032", 
+        "T7aEx3Mj": "Blood Rend", 
+        "VC9F3eJn": "Blood Rend"
+    }, 
+    {
+        "Ga5V42LZ": "911033", 
+        "T7aEx3Mj": "Blood Rend", 
+        "VC9F3eJn": "Blood Rend"
+    }, 
+    {
+        "Ga5V42LZ": "911049", 
+        "T7aEx3Mj": "Blood Pulsar", 
+        "VC9F3eJn": "Blood Pulsar"
+    }, 
+    {
+        "Ga5V42LZ": "911050", 
+        "T7aEx3Mj": "Blood Pulsar", 
+        "VC9F3eJn": "Blood Pulsar"
+    }, 
+    {
+        "Ga5V42LZ": "911054", 
+        "T7aEx3Mj": "Branded Heretic", 
+        "VC9F3eJn": "Branded Heretic"
+    }, 
+    {
+        "Ga5V42LZ": "911055", 
+        "T7aEx3Mj": "Branded Heretic", 
+        "VC9F3eJn": "Branded Heretic"
+    }, 
+    {
+        "Ga5V42LZ": "911056", 
+        "T7aEx3Mj": "True Justice", 
+        "VC9F3eJn": "True Justice"
+    }, 
+    {
+        "Ga5V42LZ": "911057", 
+        "T7aEx3Mj": "True Justice", 
+        "VC9F3eJn": "True Justice"
+    }, 
+    {
+        "Ga5V42LZ": "911058", 
+        "T7aEx3Mj": "投石", 
+        "VC9F3eJn": "投石"
+    }, 
+    {
+        "Ga5V42LZ": "911059", 
+        "T7aEx3Mj": "投石", 
+        "VC9F3eJn": "投石"
+    }, 
+    {
+        "Ga5V42LZ": "911060", 
+        "T7aEx3Mj": "覇道の剣", 
+        "VC9F3eJn": "覇道の剣"
+    }, 
+    {
+        "Ga5V42LZ": "911061", 
+        "T7aEx3Mj": "覇道の剣", 
+        "VC9F3eJn": "覇道の剣"
+    }, 
+    {
+        "Ga5V42LZ": "911062", 
+        "T7aEx3Mj": "獅子戦争の英雄", 
+        "VC9F3eJn": "獅子戦争の英雄"
+    }, 
+    {
+        "Ga5V42LZ": "911063", 
+        "T7aEx3Mj": "獅子戦争の英雄", 
+        "VC9F3eJn": "獅子戦争の英雄"
+    }, 
+    {
+        "Ga5V42LZ": "911064", 
+        "T7aEx3Mj": "Mystic Thrust", 
+        "VC9F3eJn": "Mystic Thrust"
+    }, 
+    {
+        "Ga5V42LZ": "911065", 
+        "T7aEx3Mj": "Mystic Thrust", 
+        "VC9F3eJn": "Mystic Thrust"
+    }, 
+    {
+        "Ga5V42LZ": "911066", 
+        "T7aEx3Mj": "Mystic Thrust", 
+        "VC9F3eJn": "Mystic Thrust"
+    }, 
+    {
+        "Ga5V42LZ": "911067", 
+        "T7aEx3Mj": "Mystic Thrust", 
+        "VC9F3eJn": "Mystic Thrust"
+    }, 
+    {
+        "Ga5V42LZ": "911068", 
+        "T7aEx3Mj": "Mystic Thrust", 
+        "VC9F3eJn": "Mystic Thrust"
+    }, 
+    {
+        "Ga5V42LZ": "911069", 
+        "T7aEx3Mj": "Mystic Thrust", 
+        "VC9F3eJn": "Mystic Thrust"
+    }, 
+    {
+        "Ga5V42LZ": "911070", 
+        "T7aEx3Mj": "Mystic Thrust", 
+        "VC9F3eJn": "Mystic Thrust"
+    }, 
+    {
+        "Ga5V42LZ": "911071", 
+        "T7aEx3Mj": "Ice Breath", 
+        "VC9F3eJn": "Ice Breath"
+    }, 
+    {
+        "Ga5V42LZ": "911072", 
+        "T7aEx3Mj": "Ice Breath", 
+        "VC9F3eJn": "Ice Breath"
+    }, 
+    {
+        "Ga5V42LZ": "911073", 
+        "T7aEx3Mj": "Lightning Breath", 
+        "VC9F3eJn": "Lightning Breath"
+    }, 
+    {
+        "Ga5V42LZ": "911074", 
+        "T7aEx3Mj": "Lightning Breath", 
+        "VC9F3eJn": "Lightning Breath"
+    }, 
+    {
+        "Ga5V42LZ": "911075", 
+        "T7aEx3Mj": "Fire Breath", 
+        "VC9F3eJn": "Fire Breath"
+    }, 
+    {
+        "Ga5V42LZ": "911076", 
+        "T7aEx3Mj": "Fire Breath", 
+        "VC9F3eJn": "Fire Breath"
+    }, 
+    {
+        "Ga5V42LZ": "911077", 
+        "T7aEx3Mj": "Death Crimson", 
+        "VC9F3eJn": "Death Crimson"
+    }, 
+    {
+        "Ga5V42LZ": "911078", 
+        "T7aEx3Mj": "Death Crimson", 
+        "VC9F3eJn": "Death Crimson"
+    }, 
+    {
+        "Ga5V42LZ": "911079", 
+        "T7aEx3Mj": "Death Crimson", 
+        "VC9F3eJn": "Death Crimson"
+    }, 
+    {
+        "Ga5V42LZ": "911080", 
+        "T7aEx3Mj": "Death Crimson", 
+        "VC9F3eJn": "Death Crimson"
+    }, 
+    {
+        "Ga5V42LZ": "911081", 
+        "T7aEx3Mj": "Death Crimson+", 
+        "VC9F3eJn": "Death Crimson+"
+    }, 
+    {
+        "Ga5V42LZ": "911082", 
+        "T7aEx3Mj": "Death Crimson", 
+        "VC9F3eJn": "Death Crimson"
+    }, 
+    {
+        "Ga5V42LZ": "911083", 
+        "T7aEx3Mj": "Pike Master", 
+        "VC9F3eJn": "Pike Master"
+    }, 
+    {
+        "Ga5V42LZ": "911084", 
+        "T7aEx3Mj": "Pike Master", 
+        "VC9F3eJn": "Pike Master"
     }
 ]
