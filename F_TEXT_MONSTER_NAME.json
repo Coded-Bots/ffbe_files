@@ -5069,8 +5069,8 @@ MST_MONSTER_NAME_201005009^Soilmodar^索爾摩達^소일모다^Soilmodar^Soilmod
 MST_MONSTER_NAME_203011004^Adamanfold^堅鋼福德龜^아다만폴드^Adamanfold^Adamanfold^Adamanfold
 MST_MONSTER_NAME_203011005^Adamanfold^堅鋼福德龜^아다만폴드^Adamanfold^Adamanfold^Adamanfold
 MST_MONSTER_NAME_303017001^King Kraken^克拉肯王^킹 크라켄^Roi kraken^Krakenkönig^Rey kraken
-MST_MONSTER_NAME_405091000^Alhena^阿爾赫那^알레나^Alhena^Alhena^Alena
-MST_MONSTER_NAME_405091001^Alhena^阿爾赫那^알레나^Alhena^Alhena^Alena
+MST_MONSTER_NAME_405091000^Alhena^阿爾赫那^알레나^Alhéna^Alhena^Alhena
+MST_MONSTER_NAME_405091001^Alhena^阿爾赫那^알레나^Alhéna^Alhena^Alhena
 MST_MONSTER_NAME_406121000^MA-X Maniple^重魔導機甲「步兵中隊」^매니플스^AM-X Manipulus^Maniplus-Mech^U. M. Manipulus G
 MST_MONSTER_NAME_406121001^MA-X Maniple^重魔導機甲「步兵中隊」^매니플스^AM-X Manipulus^Maniplus-Mech^U. M. Manipulus G
 MST_MONSTER_NAME_406121002^MA-X Maniple^重魔導機甲「步兵中隊」^매니플스^AM-X Manipulus^Maniplus-Mech^U. M. Manipulus G
@@ -5283,8 +5283,8 @@ MST_MONSTER_NAME_206022007^Tarvos^土衛二十一^타르보스^Tarvos^Tarvos^Tar
 MST_MONSTER_NAME_105201005^Rebel Soldier^叛亂兵^반란군 병사^Soldat rebelle^Rebellensoldat^Soldado rebelde
 MST_MONSTER_NAME_105202004^Rebel Axeman^叛亂斧兵^반란군 도끼병^Fendeur rebelle^Axtrebell^Hachero rebelde
 MST_MONSTER_NAME_105211001^Rebel Remnant Leader^叛亂兵殘黨首領^반란군 잔당의 리더^Chef rebelle^Rebellenrest-Anführer^Líder rebelde
-MST_MONSTER_NAME_410011000^Degumin^特古明^테그민^Degumin^Degumin^Degumín
-MST_MONSTER_NAME_410011001^Degumin^特古明^테그민^Degumin^Degumin^Degumín
+MST_MONSTER_NAME_410011000^Tegmine^特古明^테그민^Tegmine^Tegmine^Tegmine
+MST_MONSTER_NAME_410011001^Tegmine^特古明^테그민^Tegmine^Tegmine^Tegmine
 MST_MONSTER_NAME_403031000^Charybdis^漩渦珊瑚^카리브디스^Charybdis^Charybdis^Caribdis
 MST_MONSTER_NAME_403031001^Charybdis^漩渦珊瑚^카리브디스^Charybdis^Charybdis^Caribdis
 MST_MONSTER_NAME_403031002^Charybdis^漩渦珊瑚^카리브디스^Charybdis^Charybdis^Caribdis
@@ -5488,8 +5488,8 @@ MST_MONSTER_NAME_112002022^Cursed Bones^詛咒骸骨^저주받은 해골^Ossemen
 MST_MONSTER_NAME_112032023^Akhkhazu^阿哈茲^아크카주^Akhkhazu^Dimmekur^Akhkhazu
 MST_MONSTER_NAME_112002023^Cursed Bones^詛咒骸骨^저주받은 해골^Ossements maudits^Verdammter^Esqueleto maldito
 MST_MONSTER_NAME_312017001^Experiment #44^實驗體四十四號^실험체 44호^Cobaye n°44^Experiment Nr. 44^Espécimen nº 44
-MST_MONSTER_NAME_401071000^Adferra^阿達非拉^알다페라^Adferra^Adferra^Adferra
-MST_MONSTER_NAME_401071001^Adferra^阿達非拉^알다페라^Adferra^Adferra^Adferra
+MST_MONSTER_NAME_401071000^Aldhafera^阿達非拉^알다페라^Aldhafera^Aldhafera^Aldhafera
+MST_MONSTER_NAME_401071001^Aldhafera^阿達非拉^알다페라^Aldhafera^Aldhafera^Aldhafera
 MST_MONSTER_NAME_111041044^Cactuar^仙人掌^사보텐더^Pampa^Kaktor^Cactilio
 MST_MONSTER_NAME_111041045^Cactuar^仙人掌^사보텐더^Pampa^Kaktor^Cactilio
 MST_MONSTER_NAME_111041046^Cactuar^仙人掌^사보텐더^Pampa^Kaktor^Cactilio
@@ -6079,7 +6079,7 @@ MST_MONSTER_NAME_202016001^Kaimu^^^^^
 MST_MONSTER_NAME_205047000^Katannavah^^^^^
 MST_MONSTER_NAME_107005008^Geeta^^^^^
 MST_MONSTER_NAME_201083005^Nubian^^^^^
-MST_MONSTER_NAME_212003000^Bone Dragon^^^^^
+MST_MONSTER_NAME_212003000^Skulwyrm^^^^^
 MST_MONSTER_NAME_112046001^Dark Skull^^^^^
 MST_MONSTER_NAME_212016001^Bathin^^^^^
 MST_MONSTER_NAME_208005000^Snatcher^^^^^
@@ -6734,7 +6734,7 @@ MST_MONSTER_NAME_205901003^Boastful Swordsman^^^^^
 MST_MONSTER_NAME_205911003^Ambitious Mage^^^^^
 MST_MONSTER_NAME_205902000^Skilled Swordsman^^^^^
 MST_MONSTER_NAME_205912000^Greedy Mage^^^^^
-MST_MONSTER_NAME_305371000^Demoldoa^^^^^
+MST_MONSTER_NAME_305371000^Demoldoa^^^Demoldoa^Demoldoa^Demoldoa
 MST_MONSTER_NAME_205901004^Boastful Swordsman^^^^^
 MST_MONSTER_NAME_205911004^Ambitious Mage^^^^^
 MST_MONSTER_NAME_205902001^Skilled Swordsman^^^^^

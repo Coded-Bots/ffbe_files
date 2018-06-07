@@ -898,7 +898,7 @@ MST_MONSTERDICTIONARY_NAME_2100230^Tropic^密林觸手妖^트로픽스^Tropique^
 MST_MONSTERDICTIONARY_NAME_3030040^Biowaste^廢棄黏液^부패점액^Biodéchet^Biomüll^Biodesecho
 MST_MONSTERDICTIONARY_NAME_2120140^Abaddon^阿巴頓^아바돈^Abaddon^Abaddon^Abadón
 MST_MONSTERDICTIONARY_NAME_3030170^King Kraken^克拉肯王^킹 크라켄^Roi kraken^Krakenkönig^Rey kraken
-MST_MONSTERDICTIONARY_NAME_4050910^Alhena^阿爾赫那^알레나^Alhena^Alhena^Alena
+MST_MONSTERDICTIONARY_NAME_4050910^Alhena^阿爾赫那^알레나^Alhéna^Alhena^Alhena
 MST_MONSTERDICTIONARY_NAME_2057610^Aranea^艾拉妮亞^아라네아^Aranea^Aranea^Aranea
 MST_MONSTERDICTIONARY_NAME_4061210^MA-X Maniple^重魔導機甲「步兵中隊」^매니플스^AM-X Manipulus^Maniplus-Mech^U. M. Manipulus G
 MST_MONSTERDICTIONARY_NAME_1060050^Watcher^看守者^와쳐^Veilleur^Beobachter^Vigilante
@@ -928,7 +928,7 @@ MST_MONSTERDICTIONARY_NAME_2031110^Yensa^焉薩魚^옌사^Yensa^Yensa^Yensa
 MST_MONSTERDICTIONARY_NAME_3030510^Urutan Eater^兀魯坦吞噬者^우루탄 이터^Urutanovore^Urutan-Fresser^Yensáfago
 MST_MONSTERDICTIONARY_NAME_3070710^Wyvern^雙足飛龍^와이번^Vouivre^Wyvern^Guiverno
 MST_MONSTERDICTIONARY_NAME_3080610^Salamand Entite^精靈沙拉曼多^정령 샐러맨더^Esprit de Salamandre^Salamander^Alma Salamandra
-MST_MONSTERDICTIONARY_NAME_4100110^Degumin^特古明^테그민^Degumin^Degumin^Degumín
+MST_MONSTERDICTIONARY_NAME_4100110^Tegmine^特古明^테그민^Tegmine^Tegmine^Tegmine
 MST_MONSTERDICTIONARY_NAME_1052210^Bandit^強盜^밴디트^Bandit^Bandit^Bandido
 MST_MONSTERDICTIONARY_NAME_2010440^Ironback^鐵甲犰狳^아이언딜로^Carapacier^Gürteltier^Armadicidio
 MST_MONSTERDICTIONARY_NAME_1052010^Rebel Soldier^叛亂兵^반란군 병사^Soldat rebelle^Rebellensoldat^Soldado rebelde
@@ -977,7 +977,7 @@ MST_MONSTERDICTIONARY_NAME_2120680^Shadow Wonder^暗影死靈^그림자 사령^M
 MST_MONSTERDICTIONARY_NAME_3120040^Terror Steed^恐怖戰馬^공포의 군마^Étalon terrifiant^Terrormähre^Corcel terrorífico
 MST_MONSTERDICTIONARY_NAME_2120280^Malacoda^瑪拉科達^마라코다^Malacoda^Malacoda^Malacoda
 MST_MONSTERDICTIONARY_NAME_3120170^Experiment No. 44^實驗體四十四號^실험체 44호^Cobaye n°44^Experiment Nr. 44^Espécimen nº 44
-MST_MONSTERDICTIONARY_NAME_4010710^Adferra^阿達非拉^알다페라^Adferra^Adferra^Adferra
+MST_MONSTERDICTIONARY_NAME_4010710^Aldhafera^阿達非拉^알다페라^Aldhafera^Aldhafera^Aldhafera
 MST_MONSTERDICTIONARY_NAME_4010810^Nian Beast^年獸^니안^Nian^Nian-Bestie^Bestia Nian
 MST_MONSTERDICTIONARY_NAME_4010910^Great Nian Beast^巨年獸^거대 니안^Nian géant^Große Nian-Bestie^Megabestia Nian
 MST_MONSTERDICTIONARY_NAME_1051240^Aldore Guard^阿爾多爾警備兵^알도르 경비병^Garde d'Aldore^Aldore-Wache^Guardia de Aldore
@@ -1073,7 +1073,7 @@ MST_MONSTERDICTIONARY_NAME_2050470^Katannavah^^^^^
 MST_MONSTERDICTIONARY_NAME_2070450^Mizuchi^^^^^
 MST_MONSTERDICTIONARY_NAME_2080050^Snatcher^^^^^
 MST_MONSTERDICTIONARY_NAME_2080320^Vulcan^^^^^
-MST_MONSTERDICTIONARY_NAME_2120030^Bone Dragon^^^^^
+MST_MONSTERDICTIONARY_NAME_2120030^Skulwyrm^^^^^
 MST_MONSTERDICTIONARY_NAME_4110050^Platano^^^^^
 MST_MONSTERDICTIONARY_NAME_3120060^Deadly Knight^^^^^
 MST_MONSTERDICTIONARY_NAME_4040070^Olivier^^^^^
@@ -1176,7 +1176,7 @@ MST_MONSTERDICTIONARY_NAME_2059120^Greedy Mage^^^^^
 MST_MONSTERDICTIONARY_NAME_2100460^Yakhanati^^^^^
 MST_MONSTERDICTIONARY_NAME_2110230^Shaguma^^^^^
 MST_MONSTERDICTIONARY_NAME_3053610^Distorque of the Zeta Star^^^^^
-MST_MONSTERDICTIONARY_NAME_3053710^Demoldoa^^^^^
+MST_MONSTERDICTIONARY_NAME_3053710^Demoldoa^^^Demoldoa^Demoldoa^Demoldoa
 MST_MONSTERDICTIONARY_NAME_1020810^Evilhead^^^^^
 MST_MONSTERDICTIONARY_NAME_2090910^Zolokalter^^^^^
 MST_MONSTERDICTIONARY_NAME_2012110^Coeurl^^^^^
