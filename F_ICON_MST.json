@@ -7492,7 +7492,7 @@
     {
         "0HUPxDf1": "315022300", 
         "G4L0YIB2": "陰陽の札", 
-        "qtkvrS60": "item_11324_.png"
+        "qtkvrS60": "item_11324.png"
     }, 
     {
         "0HUPxDf1": "316000100", 
@@ -11235,6 +11235,11 @@
         "qtkvrS60": "global_equip_10091.png"
     }, 
     {
+        "0HUPxDf1": "1100000159", 
+        "G4L0YIB2": "Protec Grappler G3", 
+        "qtkvrS60": "global_equip_10099.png"
+    }, 
+    {
         "0HUPxDf1": "1100000161", 
         "G4L0YIB2": "Vestment of Prayers", 
         "qtkvrS60": "global_equip_10101.png"
@@ -11253,6 +11258,11 @@
         "0HUPxDf1": "1100000164", 
         "G4L0YIB2": "Yellow Balloon", 
         "qtkvrS60": "global_equip_10104.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000166", 
+        "G4L0YIB2": "Soccer Jersey", 
+        "qtkvrS60": "global_equip_10106.png"
     }, 
     {
         "0HUPxDf1": "1106300100", 
@@ -11695,6 +11705,16 @@
         "qtkvrS60": "global_item_10186.png"
     }, 
     {
+        "0HUPxDf1": "1209000889", 
+        "G4L0YIB2": "2nd anniversary Medal", 
+        "qtkvrS60": "global_item_10187.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000890", 
+        "G4L0YIB2": "2nd anniversary Gacha Ticket", 
+        "qtkvrS60": "item_9184.png"
+    }, 
+    {
         "0HUPxDf1": "1300000001", 
         "G4L0YIB2": "Ancient Coin", 
         "qtkvrS60": "global_item_10047.png"
@@ -11768,5 +11788,25 @@
         "0HUPxDf1": "1500000035", 
         "G4L0YIB2": "Joyful Spirit", 
         "qtkvrS60": "global_materia_1500000015.png"
+    }, 
+    {
+        "0HUPxDf1": "1500000056", 
+        "G4L0YIB2": "Keepers Gate", 
+        "qtkvrS60": "global_materia_1500000016.png"
+    }, 
+    {
+        "0HUPxDf1": "1500000057", 
+        "G4L0YIB2": "Defenders Barrier", 
+        "qtkvrS60": "global_materia_1500000017.png"
+    }, 
+    {
+        "0HUPxDf1": "1500000058", 
+        "G4L0YIB2": "Midfielders Potential", 
+        "qtkvrS60": "global_materia_1500000018.png"
+    }, 
+    {
+        "0HUPxDf1": "1500000059", 
+        "G4L0YIB2": "Strikers Roundhouse", 
+        "qtkvrS60": "global_materia_1500000019.png"
     }
 ]

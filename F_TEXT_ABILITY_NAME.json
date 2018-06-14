@@ -2613,8 +2613,8 @@ MST_ABILITY_NAME_702910^Hi-Cap Magazine^機關槍彈數增加^장탄 수 증가^
 MST_ABILITY_NAME_702920^Hi-Cap Magazine^機關槍彈數增加^장탄 수 증가^Chargeur amélioré^Hi-Cap-Magazin^Cargador mejorado
 MST_ABILITY_NAME_702930^Hi-Cap Magazine II^機關槍彈數增加改^장탄 수 증가+^Chargeur amélioré +^Hi-Cap-Magazin II^Cargador mejorado+
 MST_ABILITY_NAME_702940^Hi-Cap Magazine II^機關槍彈數增加改^장탄 수 증가+^Chargeur amélioré +^Hi-Cap-Magazin II^Cargador mejorado+
-MST_ABILITY_NAME_702950^Quick Hit^快捷進擊^퀵 트릭^Attaque éclair^Schneller Treffer^Golpe rápido
-MST_ABILITY_NAME_702960^Quick Hit^快捷進擊^퀵 트릭^Attaque éclair^Schneller Treffer^Golpe rápido
+MST_ABILITY_NAME_702950^Quick Hit^快捷進擊^퀵 트릭^Attaque éclair^Rapidschlag^Golpe rápido
+MST_ABILITY_NAME_702960^Quick Hit^快捷進擊^퀵 트릭^Attaque éclair^Rapidschlag^Golpe rápido
 MST_ABILITY_NAME_702970^Get pumped!^不要放過機會！^계속 밀어붙인다!^J'suis chaud !^Sei bereit!^¡Estoy a tope!
 MST_ABILITY_NAME_702980^Get pumped!^不要放過機會！^계속 밀어붙인다!^J'suis chaud !^Sei bereit!^¡Estoy a tope!
 MST_ABILITY_NAME_702990^Sun Crest^日輪之印^태양의 인장^Symbole Solaire^Sonnengipfel^Símbolo del Sol
@@ -4163,7 +4163,7 @@ MST_ABILITY_NAME_223420^Eidolon Cockatrice Peck^幻獸蛇雞獸的喙^환수 코
 MST_ABILITY_NAME_223430^Eidolon Mindflayer's Chant^幻獸奪心魔的詠唱^환수 마인드 플레어의 영창^Éon : Chant de Psychopolype^Beschwörbarer Gedankenschinder: Intonation^Eidolón: canto del mentalis
 MST_ABILITY_NAME_223440^The Feymarch Guardian^幻界的守護^환수계의 수호^Gardien du monde fantomatique^Wächterin der Beschwörbaren^Guardián del Limbo
 MST_ABILITY_NAME_223450^Mother's Teachings^母親的教誨^어머니의 가르침^Enseignements de mère^Mütterlicher Rat^Inculcación de madre
-MST_ABILITY_NAME_223460^Mist Village Girl^魔霧之村的少女^미스트 마을의 소녀^Fille de Mist^Mädchen aus dem Dorf des Nebels^Chica de Mist
+MST_ABILITY_NAME_223460^Mist Village Girl^迷霧村的少女^미스트 마을의 소녀^Fille de Mist^Mädchen aus dem Dorf des Nebels^Chica de Mist
 MST_ABILITY_NAME_223470^Sonic Gale^音速颶風^소닉 게일^Siroco sonique^Schallsturm^Siroco sónico
 MST_ABILITY_NAME_223480^Piercing Air^刺骨寒風^피어싱 에어^Vent perçant^Luftdurchstoß^Viento penetrante
 MST_ABILITY_NAME_223490^Piercing Aqua^刺骨冰水^피어싱 아쿠아^Eau perçante^Wasserdurchstoß^Agua penetrante
@@ -7771,3 +7771,7 @@ MST_ABILITY_NAME_707385^^^^^^
 MST_ABILITY_NAME_707386^^^^^^
 MST_ABILITY_NAME_707387^^^^^^
 MST_ABILITY_NAME_910978^Agility^敏捷^민첩성^Agilité^Agilität^Agilidad
+MST_ABILITY_NAME_911160^Keeper's Gate^門衛的球門^골키퍼의 골문^Cages du gardien^Hütertor^Portería del guardameta
+MST_ABILITY_NAME_911161^Defender's Barrier^防守的屏障^수비수의 장벽^Barrière défensive^Verteidigerbarriere^Barrera del defensa
+MST_ABILITY_NAME_911162^Midfielder's Potential^中場的潛能^미드필더의 잠재력^Potentiel de milieu de terrain^Potenzial im Mittelfeld^Potencial del centrocampista
+MST_ABILITY_NAME_911163^Striker's Roundhouse^前鋒的迴旋^스트라이커의 돌려차기슛^Tir en crochet^Stürmischer Fallrückzieher<br>^Tijera del delantero

@@ -2677,13 +2677,13 @@ MST_MISSION_NAME_7800100^The Visitors^訪客們^방문자들^Les visiteurs^Die B
 MST_MISSION_NAME_7800101^Pursue the Mystery^追查不解之謎^수수께끼를 쫓아서^À la poursuite du mystère^Auf der Jagd nach dem Mysterium^Persigue el misterio
 MST_MISSION_NAME_7800102^Change of Plans^計劃變更^예정 변경^Changement de plans^Planänderung^Cambio de planes
 MST_MISSION_NAME_7800103^Prompt Reinforcements^迅速抵達的援軍^신속한 증원^Renforts immédiats^Prompte Verstärkung^Refuerzos inmediatos
-MST_MISSION_NAME_7800104^Soldiers in Pursuit^追擊的士兵們^추격하는 병사들^Soldats poursuivis^Die Soldaten auf den Fersen^Soldados en persecución
+MST_MISSION_NAME_7800104^Soldiers in Pursuit^追擊的士兵們^추격하는 병사들^Soldat en poursuite^Die Soldaten auf den Fersen^Soldados en persecución
 MST_MISSION_NAME_7800105^Catch me if you can^有本事就來抓我^잡을 수 있으면 잡아 보시지^Essaye de me capturer pour voir^Eingefangen^Capturado
 MST_MISSION_NAME_7800106^Limitless Power^無限的力量^무한의 힘^Pouvoir sans limites^Grenzenlose Macht^Poder ilimitado
 MST_MISSION_NAME_7800107^The Silver Wolf Strikes^襲來的銀狼^은빛 늑대의 습격^L'attaque du loup d'argent^Angriff des Silberwolfs^El ataque del lobo plateado
 MST_MISSION_NAME_7800108^The Unwithering Man^深不可測的男人^기죽지 않는 남자^L'homme incassable^Der unergründbare Mann^El hombre incansable
 MST_MISSION_NAME_7800200^Lexa and Merald^萊基薩與梅拉路德^렉사와 메랄드^Lexa et Merald^Lexa und Merald^Lexa y Merald
-MST_MISSION_NAME_7800201^When Fates Cross - I^交錯的命運・I^교차하는 운명·I^La croisée des destins - I^Wenn Schicksale sich kreuzen - I^Cuando los destinos se cruzan - I
+MST_MISSION_NAME_7800201^Where Destinies Intersect - I^交錯的命運・I^교차하는 운명·I^La croisée des destins - I^Wenn Schicksale sich schneiden  - I^Cuando los destinos se cruzan - I
 MST_MISSION_NAME_7800202^Escape Route^近路^샛길^Route d'évasion ^Fluchtweg^Ruta de escape
 MST_MISSION_NAME_7800203^Thick Forest^鬱鬱蔥蔥的森林^울창한 숲^Épaisse forêt ^Dichter Wald^El bosque frondoso
 MST_MISSION_NAME_7800204^The Hidden Pathway^無路之路^길 없는 길^Le chemin caché^Der verborgene Pfad^El camino oculto
@@ -2694,11 +2694,11 @@ MST_MISSION_NAME_7800208^Knockout Girl^橫掃眾敵的女人^불도저 그녀^Fi
 MST_MISSION_NAME_7800300^Dancer of Dragon Village^龍之鄉的舞者^용의 마을의 무용수^Danseuse de Dragonia^Tänzerin des Drachendorfes^Bailarina del pueblo dragón
 MST_MISSION_NAME_7800301^Dragonscale Flower^龍鱗之花^용비늘 꽃^Fleur d'écaille de dragon^Die Drachenschuppenblume^Flor de escamas de dragón
 MST_MISSION_NAME_7800302^For Everyone^為了大家^모두를 위해^Pour tout le monde^Für Alle^Para todos
-MST_MISSION_NAME_7800303^To Where There's Water^前往水邊^물가를 향하여^Allons où il y a de l'heure^Zum Wasser hin^Adónde hay agua
+MST_MISSION_NAME_7800303^To Where There's Water^前往水邊^물가를 향하여^Allons où il y a de l'eau^Zum Wasser hin^Adónde hay agua
 MST_MISSION_NAME_7800304^Advance Without Worry^勇往直前^굴하지 않고 전진^Avancer sans peur ^Vorwärts, unbesorgt^Avanza sin miedo
 MST_MISSION_NAME_7800305^The Fighting Dancer^戰鬥的舞者^싸우는 무용수^Le danseur combattant^Die kämpfende Tänzerin^El bailarín luchador
 MST_MISSION_NAME_7800306^The Raging Beast^狂暴的野獸^흉포한 야수^La bête enragée^Die tobende Bestie^La bestia furiosa
-MST_MISSION_NAME_7800307^When Fates Cross - II^交錯的命運・II^교차하는 운명·II^La croisée des destins - II^Wenn Schicksale sich kreuzen - II^Cuando los destinos se cruzan - II
+MST_MISSION_NAME_7800307^Where Destinies Intersect - II^交錯的命運・II^교차하는 운명·II^La croisée des destins - II^Wenn Schicksale sich schneiden  - II^Cuando los destinos se cruzan - II
 MST_MISSION_NAME_7800400^Forced Journey^旅伴^여행과 길동무^Voyage forcé^Reisen soll man nicht alleine^Viajes forzosos
 MST_MISSION_NAME_7800401^Mysterious, But Able^神秘的高手^수수께끼의 수완가^Mystérieux, mais possible^Mysteriös, aber fähig^Misterioso, pero posible
 MST_MISSION_NAME_7800402^Charie's Secret^夏莉的秘密^샤리의 비밀^Le secret de Charie^Charies Verschwiegenheit^El secreto de Charie
@@ -2708,8 +2708,8 @@ MST_MISSION_NAME_7800405^Decisions and Knowledge^判斷與知識^판단과 지�
 MST_MISSION_NAME_7800406^Plant of Fear^恐怖的植物^공포의 식물^Plante de la peur^Die Pflanze des Schreckens^Planta del miedo
 MST_MISSION_NAME_7800407^Dangerous Flora^危險的毒花^위험한 독꽃^Fleur dangereuse^Gefährliche Giftblumen^Flora peligrosa
 MST_MISSION_NAME_7800408^Way to Dragon Village^一路前往龍之鄉^용의 마을을 향하여^Direction Dragonia^Ein Weg, zum Drachendorf^Camino a Draconia
-MST_MISSION_NAME_7800500^When Fates Cross^交錯的命運^교차하는 운명^La croisée des destins^Wenn Schicksale sich kreuzen^Cuando los destinos se cruzan
-MST_MISSION_NAME_7800501^When Fates Cross - III^交錯的命運・III^교차하는 운명·III^La croisée des destins - III^Wenn Schicksale sich kreuzen - III^Cuando los destinos se cruzan - III
+MST_MISSION_NAME_7800500^Where Destinies Intersect^交錯的命運^교차하는 운명^La croisée des destins^Wenn Schicksale sich schneiden^Cuando los destinos se cruzan
+MST_MISSION_NAME_7800501^Where Destinies Intersect - III^交錯的命運・III^교차하는 운명·III^La croisée des destins - III^Wenn Schicksale sich schneiden - III^Cuando los destinos se cruzan - III
 MST_MISSION_NAME_7800502^New Party Formation^新隊伍成立^새로운 파티 결성^Formation d'un nouveau groupe^Neue Gruppenformation^La creación de un nuevo equipo
 MST_MISSION_NAME_7800503^Nichol's Spectacles^尼科爾的眼鏡^니콜의 안경^Le spectacle de Nichol ^Nichols Brille^El espectáculo de Nichol
 MST_MISSION_NAME_7800504^An Important Thing^貴重之物^소중한 것^Une chose importante ^Etwas Wichtiges^Algo importante
@@ -2726,7 +2726,7 @@ MST_MISSION_NAME_7800606^Deadly Guardian^殺氣騰騰的守護者^살의를 지�
 MST_MISSION_NAME_7800607^Hate Matters Not^就算被討厭也不要緊^미움받는다 해도 괜찮아^La haine importe peu^Des Hasses ungeachtet^El odio no importa
 MST_MISSION_NAME_7800700^Miraculous Escape^奇蹟般的逃脫^기적의 탈출^Une fuite miraculeuse^Eine wundersame Flucht^Una escapada milagrosa
 MST_MISSION_NAME_7800701^Friends and Trust^夥伴與信賴^동료와 신뢰^Amitié et confiance^Mit Gefährten, mit Vertrauen^Amigos y confianza
-MST_MISSION_NAME_7800702^The Treacherous Way Back^艱險的歸途^험난한 귀로^Traitrise sur le retour^Der mühsame Rückweg^El traicionero retorno
+MST_MISSION_NAME_7800702^The Treacherous Way Back^艱險的歸途^험난한 귀로^Perils sur le retour^Der mühsame Rückweg^El traicionero retorno
 MST_MISSION_NAME_7800703^Entangling Plants^互相纏繞的植物^얽혀가는 식물^Plante enchevêtrée^Schlingpflanzen^Plantas enredadas
 MST_MISSION_NAME_7800704^Calling Out for Food^渴望食物的聲音^먹이를 구하는 목소리^Une faim tenaillante ^Eine Stimme auf Beutefang^Pidiendo comida
 MST_MISSION_NAME_7800705^Beyond the Forest^森林盡頭^숲을 빠져나간 뒤^Au-delà de la forêt^Hinter dem Wald^Más allá del bosque
@@ -2734,13 +2734,13 @@ MST_MISSION_NAME_7800706^An Unwelcome Encounter^不期而遇^바라지 않은 �
 MST_MISSION_NAME_7800707^The Two Soldiers of Aldore^兩名阿爾多爾士兵^두 사람의 알도르 병사^Les deux soldats d'Aldore^Die zwei Soldaten von Aldore^Los dos soldados de Aldore
 MST_MISSION_NAME_7800708^You won't...right?^……不會這樣做吧？^……안 할 거지?^Tu n'oserais pas... si ?^Du wirst doch nicht ...?^No vas a... ¿verdad?
 MST_MISSION_NAME_7800800^Separate Ways^不同的路^각자의 길^Chemins séparés^Getrennte Wege^Caminos separados
-MST_MISSION_NAME_7800801^Wishing for a Reunion^希望有一天還能再見^재회를 바라며^Demande de rencontre^Hoffen auf ein Wiedersehen^Deseando un encuentro
-MST_MISSION_NAME_7800802^A Sharp-tongued Girl^疾聲厲色的女人^신랄한 그녀^La fille à la langue de vipère^Ein scharfzüngiges Mädchen^La chica de la lengua viperina
+MST_MISSION_NAME_7800801^Wishing for a Reunion^希望有一天還能再見^재회를 바라며^Espoir de retrouvailles^Hoffen auf ein Wiedersehen^Deseando un encuentro
+MST_MISSION_NAME_7800802^A Sharp-tongued Girl^疾聲厲色的女人^신랄한 그녀^La fille à la langue acérée^Ein scharfzüngiges Mädchen^La chica de la lengua viperina
 MST_MISSION_NAME_7800803^The Laughing Man^大笑的男人^크게 웃는 남자^L'homme qui riait aux éclats^Der herzlich lachende Mann^El hombre afable
 MST_MISSION_NAME_7800804^The Happily Obedient Girl^心甘情願服從的女人^기쁘게 따르는 여자^La fille ravie d'être docile^Das fröhlich gehorchende Mädchen^La chica felizmente obediente
 MST_MISSION_NAME_7800805^Frenzied Platoon^眼睛充血的士兵們^혈안이 된 병사들^Peloton frénétique ^Die wildgewordenen Soldaten^Pelotón enloquecido
 MST_MISSION_NAME_7800806^The Tables Have Turned^反擊^되갚음^L'arroseur arrosé^Der Spieß hat sich umgedreht^Han cambiado las tablas
-MST_MISSION_NAME_7800807^When Fates Cross - After^交錯的命運・後來^교차하는 운명·그 후^La croisée des destins - Après^Wenn Schicksale sich kreuzen - Nachspiel^Cuando los destinos se cruzan - Futuro
+MST_MISSION_NAME_7800807^Where Destinies Intersect - After^交錯的命運・後來^교차하는 운명·그 후^La croisée des destins - Après^Wenn Schicksale sich schneiden - Nachspiel^Cuando los destinos se cruzan - Futuro
 MST_MISSION_NAME_7800900^Cave of Crystals (Black)^晶石的洞窟【黑】^수정의 동굴 [흑]^Caverne de cristaux noirs^Höhle der Kristalle (Schwarz)^Cueva de los crists negros
 MST_MISSION_NAME_7800901^Cave of Crystals (Black) 1^晶石的洞窟【黑】1^수정의 동굴 [흑] 1^Caverne de cristaux noirs 1^Höhle der Kristalle (Schwarz) 1^Cueva de los crists negros 1
 MST_MISSION_NAME_7800902^Cave of Crystals (Black) 2^晶石的洞窟【黑】2^수정의 동굴 [흑] 2^Caverne de cristaux noirs 2^Höhle der Kristalle (Schwarz) 2^Cueva de los crists negros 2

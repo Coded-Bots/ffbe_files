@@ -7421,7 +7421,7 @@ MST_CHALLENGE_NAME_78001061^No espers^不使用召喚幻獸^환수를 소환하�
 MST_CHALLENGE_NAME_78001062^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_78001070^Deal fire damage^對敵人造成火屬性傷害^불속성으로 적에게 피해를 줌^Infligez des dégâts de feu à un ennemi^Füge einem Gegner Feuerschaden zu.^Inflige daño de fuego
 MST_CHALLENGE_NAME_78001071^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
-MST_CHALLENGE_NAME_78001072^Defeat the silver wolf with magic^使用魔法終結「銀狼」^'은랑'을 마법으로 처치^Terrassez le Loup d'agent avec une limite^Besiege Silberwolf mit Magie^Derrota al lobo plateado con magia
+MST_CHALLENGE_NAME_78001072^Defeat the silver wolf with magic^使用魔法終結「銀狼」^'은랑'을 마법으로 처치^Terrassez le Loup d'argent avec de la magie^Besiege Silberwolf mit Magie^Derrota al lobo plateado con magia
 MST_CHALLENGE_NAME_78001073^Clear all stages in the area^完成區域內全部關卡^구역 내 모든 스테이지 완료^Terminez tous les niveaux de la zone^Schließe alle Abschnitte im Gebiet ab^Completa todas las misiones del área
 MST_CHALLENGE_NAME_78002020^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_78002021^No items^不使用道具^아이템을 사용하지 않고 완료^Ne pas utiliser d'objets^Keine Gegenstände^No uses objetos
@@ -8461,19 +8461,19 @@ MST_CHALLENGE_NAME_78901022^Use green magic^使用「綠魔法」^'녹'마법을
 MST_CHALLENGE_NAME_78901023^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_78901030^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_78901031^Use a limit burst^使用極限技^LB를 사용해 완료^Utilisez une limite^Benutze einen Limitrausch^Usa un Estallido Límite
-MST_CHALLENGE_NAME_78901032^^^^^^
+MST_CHALLENGE_NAME_78901032^Defeat geezard within 5 turns^^^^^
 MST_CHALLENGE_NAME_78901033^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_78901040^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_78901041^Use magic 3 or more times^使用至少3次魔法^마법을 3회 이상 사용^Utilisez la magie 3 fois ou plus^Benutze mind. 3 Mal Magie^Usa magia 3 veces o más
-MST_CHALLENGE_NAME_78901042^^^^^^
+MST_CHALLENGE_NAME_78901042^Defeat anacondaur with magic^^^^^
 MST_CHALLENGE_NAME_78901043^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_78901050^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_78901051^No items^不使用道具^아이템을 사용하지 않고 완료^Ne pas utiliser d'objets^Keine Gegenstände^No uses objetos
-MST_CHALLENGE_NAME_78901052^^^^^^
+MST_CHALLENGE_NAME_78901052^Defeat biggs with a limit burst^^^^^
 MST_CHALLENGE_NAME_78901053^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_78901060^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_78901061^Evoke an esper^召喚幻獸^환수를 소환해 완료^Appelez une chimère^Beschwöre einen Esper^Evoca a un esper
-MST_CHALLENGE_NAME_78901062^^^^^^
+MST_CHALLENGE_NAME_78901062^Defeat elvoret with a limit burst^^^^^
 MST_CHALLENGE_NAME_78901063^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_79001020^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_79001021^Use no more than 3 items^使用道具次數在3次以內^아이템 사용 횟수 3회 이내^N'utilisez pas plus de 3 objets^Benutze höchstens 3 Gegenstände^Usa 3 objetos o menos
