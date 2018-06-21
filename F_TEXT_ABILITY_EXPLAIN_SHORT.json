@@ -27,7 +27,7 @@ MST_ABILITY_SHORTDESCRIPTION_101000^Boost physical damage against plant monsters
 MST_ABILITY_SHORTDESCRIPTION_101010^Boost physical damage against stone monsters^物理攻擊時提高對岩石系魔物的傷害^물리공격 시 암석형 마물에 대한 피해량 상승^Dégâts physiques accrus contre les monstres de type pierre^Mehr physischen Schaden gegen Steinmonster^Aumenta el daño físico contra monstruos de piedra
 MST_ABILITY_SHORTDESCRIPTION_101020^Boost physical damage against bug monsters^物理攻擊時提高對蟲系魔物的傷害^물리공격 시 곤충형 마물에 대한 피해량 상승^Dégâts physiques accrus contre les monstres de type insecte^Mehr physischen Schaden gegen Insektenmonster^Aumenta el daño físico contra monstruos insecto
 MST_ABILITY_SHORTDESCRIPTION_101030^Boost physical damage against machina monsters^物理攻擊時提高對機械系魔物的傷害^물리공격 시 기계형 마물에 대한 피해량 상승^Dégâts physiques accrus contre les monstres de type machine^Erhöht phys. Schaden gegen Maschinen.^Aumenta el daño físico contra monstruos mecánicos
-MST_ABILITY_SHORTDESCRIPTION_101040^Boost physical damage against humans^物理攻擊時提高對人形系魔物的傷害^물리공격 시 인간형 마물에 대한 피해량 상승^Dégâts physiques accrus contre les monstres de type humain^Mehr physischen Schaden gegen Menschen^Aumenta el daño físico contra humanos
+MST_ABILITY_SHORTDESCRIPTION_101040^Boost physical damage against humans^物理攻擊時提高對人形系魔物的傷害^물리공격 시 인간형 마물에 대한 피해량 상승^Dégâts physiques accrus contre les humains^Mehr physischen Schaden gegen Menschen^Aumenta el daño físico contra humanos
 MST_ABILITY_SHORTDESCRIPTION_101050^Boost physical damage against dragons^物理攻擊時提高對龍系魔物的傷害^물리공격 시 드래곤형 마물에 대한 피해량 상승^Dégâts physiques accrus contre les monstres de type dragon^Mehr physischen Schaden gegen Drachen^Aumenta el daño físico contra dragones
 MST_ABILITY_SHORTDESCRIPTION_101070^Boost physical damage against demons^物理攻擊時提高對惡魔系魔物的傷害^물리공격 시 악마형 마물에 대한 피해량 상승^Dégâts physiques accrus contre les monstres de type démon^Mehr physischen Schaden gegen Dämonen^Aumenta el daño físico contra demonios
 MST_ABILITY_SHORTDESCRIPTION_101080^Boost physical damage against beasts^物理攻擊時提高對獸系魔物的傷害^물리공격 시 야수형 마물에 대한 피해량 상승^Dégâts physiques accrus contre les monstres de type bête^Mehr physischen Schaden gegen Bestien^Aumenta el daño físico contra bestias
@@ -46,7 +46,7 @@ MST_ABILITY_SHORTDESCRIPTION_101230^Chance of evading physical attacks^一定機
 MST_ABILITY_SHORTDESCRIPTION_101240^Boost LB gauge fill rate^提高極限技石對極限技槽的增加量^LB 게이지 효율 상승^La jauge de limite se remplit plus vite^Limitmeter füllt sich schneller^La barra EL se llena más rápido
 MST_ABILITY_SHORTDESCRIPTION_101250^Boost chakra fill rate^提高脈輪恢復量^차크라의 회복량 상승^Le chakra s'accumule plus vite^Chakra füllt sich schneller^Potencia la curación del chakra
 MST_ABILITY_SHORTDESCRIPTION_101260^Drain MP consumed by enemy when being attacked with magic^吸收敵人消耗的MP^적에게서 마법공격을 받으면 적의 소비 MP를 흡수^Aspire les PM dépensés par un ennemi^Stiehlt vom Gegner verbrauchte MP^Drena los PM del enemigo
-MST_ABILITY_SHORTDESCRIPTION_101270^Boost gil obtained by defeating enemies^提高獲得ＧＩＬ的量^적을 쓰러뜨리고 얻는 길 획득량 증가^Augmente le nombre de gils obtenus^Mehr Gil bekommen^Aumenta los guiles obtenidos
+MST_ABILITY_SHORTDESCRIPTION_101270^Boost gil obtained by defeating enemies^提高獲得ＧＩＬ的量^적을 쓰러뜨리고 얻는 길 획득량 증가^Augmente le nombre de gils obtenus^Mehr Gil bekommen^Aumenta la cantidad de guiles obtenida al derrotar enemigos
 MST_ABILITY_SHORTDESCRIPTION_101280^Obtain gil when stealing^使用盜取時可盜到ＧＩＬ^훔치기 사용 시 길도 훔침^Permet d'obtenir des gils lors d'un vol^Zusätzlich Gil stehlen^Obtén guiles al robar
 MST_ABILITY_SHORTDESCRIPTION_101290^Boost success rate of stealing^提高盜取的成功率^훔치기 성공률 상승^Augmente les chances de voler^Mehr Erfolg beim Stehlen^Más probabilidad de éxito del robo
 MST_ABILITY_SHORTDESCRIPTION_101310^Boost drop rate of rare items from enemies^提高敵人掉落稀有道具的機率^적의 레어 아이템 드랍률 상승^Meilleure chance de voler des objets rares^Höhere Chance, seltene Gegenstände zu stehlen.^Más probabilidad de robar objetos raros
@@ -89,11 +89,11 @@ MST_ABILITY_SHORTDESCRIPTION_200270^Drain HP and MP from one enemy^吸收1名敵
 MST_ABILITY_SHORTDESCRIPTION_200280^Damage and chance of paralyzing one enemy^攻擊1名敵人+一定機率施加麻痺效果^적 1명에게 피해+일정 확률로 마비 부여^Attaque et paralyse un ennemi^Schaden und Lähmung, ein Ziel^Daña y paraliza a un enemigo
 MST_ABILITY_SHORTDESCRIPTION_200290^Damage all enemies^攻擊全體敵人^적 전체에 피해^Retire 30 PV à tous les ennemis^30 LP Schaden, alle Ziele^Resta 30 a la VIT de todos los enemigos
 MST_ABILITY_SHORTDESCRIPTION_200300^Chance of instantly KO'ing all enemies^一定機率對全體敵人施加致死一擊效果^적 전체에 일정 확률로 즉사 부여^Met KO tous les ennemis^Chance, alle Gegner sofort auszuschalten^K.O. instantáneo a los enemigos
-MST_ABILITY_SHORTDESCRIPTION_200310^Attack four enemies chosen at random^隨機對全體敵人攻擊4次^적 전체에 무작위로 4회 피해^Attaque quatre ennemis au hasard^Vier zufällige Gegner angreifen^Ataca a cuatro enemigos al azar
+MST_ABILITY_SHORTDESCRIPTION_200310^Attack four enemies chosen at random^隨機對全體敵人攻擊4次^적에게 무작위로 4회 피해^Attaque quatre ennemis au hasard^Vier zufällige Gegner angreifen^Ataca a cuatro enemigos al azar
 MST_ABILITY_SHORTDESCRIPTION_200320^Damage one enemy^攻擊1名敵人^적 1명에게 피해^Dégâts sur un ennemi^Schaden, ein Ziel^Daña a un enemigo
 MST_ABILITY_SHORTDESCRIPTION_200330^Damage and dispel on one enemy^攻擊1名敵人+解除狀態效果^적 1명에게 피해+능력치 효과 해제^Attaque un ennemi et inflige dissipation^Schaden und Bann, ein Ziel^Daña y aplica Antimagia a un enemigo
 MST_ABILITY_SHORTDESCRIPTION_200340^Deal partial unmitigated damage to one enemy^對1名敵人發動無視部分防禦的攻擊^적 1명에게 일부 방어 무시 피해^Dégâts en partie fixes sur un ennemi^Fügt einem Gegner teilweise direkten Schaden zu.^Daño absoluto parcial a un enemigo
-MST_ABILITY_SHORTDESCRIPTION_200350^Deal partial unmitigated damage to all enemies^對全體敵人發動無視部分防禦的攻擊^적 전체에일부 방어 무시 피해^Dégâts en partie fixes sur tous les ennemis^Fügt allen Gegnern teilweise direkten Schaden zu.^Daño absoluto parcial a todos los enemigos
+MST_ABILITY_SHORTDESCRIPTION_200350^Deal partial unmitigated damage to all enemies^對全體敵人發動無視部分防禦的攻擊^적 전체에 일부 방어 무시 피해^Dégâts en partie fixes sur tous les ennemis^Fügt allen Gegnern teilweise direkten Schaden zu.^Daño absoluto parcial a todos los enemigos
 MST_ABILITY_SHORTDESCRIPTION_200360^Boost ATK for caster^提高自身的攻擊^자신의 공격력 상승^Augmente l'ATT de l'utilisateur^Benutzer ANG hoch^Aumenta el ATQ de quien lo usa
 MST_ABILITY_SHORTDESCRIPTION_200370^Boost own DEF and SPR^對發動者施加物防護和魔防護的效果^자신의 방어력과 정신력 상승^Lance barrière et bouclier sur l'utilisateur^Vallum und Protes auf Benutzer^Escudo y Coraza sobre quien lo usa 
 MST_ABILITY_SHORTDESCRIPTION_200390^Damage one enemy^攻擊1名敵人^적 1명에게 피해^Dégâts sur un ennemi^Schaden, ein Ziel^Daña a un enemigo
@@ -288,14 +288,14 @@ MST_ABILITY_SHORTDESCRIPTION_201790^Damage and chance of paralyzing one enemy^�
 MST_ABILITY_SHORTDESCRIPTION_201800^Damage all enemies^攻擊全體敵人^적 전체에 피해^Dégâts sur tous les ennemis^Schaden, alle Ziele^Daña a todos los enemigos
 MST_ABILITY_SHORTDESCRIPTION_201810^Caster can dodge one attack^發動者可防住1次攻擊^자신에게 일부 물리공격 1회 회피 효과 부여^Le lanceur peut esquiver une attaque^Benutzer weicht einem Angriff aus^El usuario puede esquivar un ataques
 MST_ABILITY_SHORTDESCRIPTION_201820^Damage one enemy^攻擊1名敵人^적 1명에게 피해^Dégâts sur un ennemi^Schaden, ein Ziel^Daña a un enemigo
-MST_ABILITY_SHORTDESCRIPTION_201830^Attack three enemies chosen at random^隨機對全體敵人攻擊3次^적 전체에 무작위로 3회 피해^Attaque trois ennemis choisis au hasard^Drei zufällige Gegner angreifen^Ataca a tres enemigos al azar
+MST_ABILITY_SHORTDESCRIPTION_201830^Attack three enemies chosen at random^隨機對全體敵人攻擊3次^적에게 무작위로 3회 피해^Attaque trois ennemis choisis au hasard^Drei zufällige Gegner angreifen^Ataca a tres enemigos al azar
 MST_ABILITY_SHORTDESCRIPTION_201840^Wind damage to one enemy^對1名敵人發動風屬性攻擊^적 1명에게 바람속성 피해^Dégâts de vent sur un ennemi^Windschaden, ein Ziel^Daño de viento a un enemigo
 MST_ABILITY_SHORTDESCRIPTION_201850^Lightning damage to all enemies^對全體敵人發動雷屬性攻擊^적 전체에 번개속성 피해^Dégâts de foudre sur tous les ennemis^Blitzschaden, alle Ziele^Daño de rayo a todos los enemigos
 MST_ABILITY_SHORTDESCRIPTION_201860^Boost ATK and MAG for all allies^提高全體隊員的攻擊魔力^아군 전체의 공격력과 마력 상승^Augmente l'ATT et la MAGIE de tous les alliés^Erhöht ANG und MAG aller Verbündeten^Aumenta el ATQ y la MAG de los aliados
 MST_ABILITY_SHORTDESCRIPTION_201870^Fire damage to one enemy^對1名敵人發動火屬性攻擊^적 1명에게 불속성 피해^Dégâts de feu sur un ennemi^Feuerschaden, ein Ziel^Daño de fuego a un enemigo
 MST_ABILITY_SHORTDESCRIPTION_201880^Fire damage to all enemies^對全體敵人發動火屬性攻擊^적 전체에 불속성 피해^Dégâts de feu sur tous les ennemis^Feuerschaden, alle Ziele^Daño de fuego a todos los enemigos
 MST_ABILITY_SHORTDESCRIPTION_201890^Boost DEF and SPR for all allies^提高全體隊員的防禦精神^아군 전체의 방어력과 정신력 상승^Augmente la DEF et la PSY de tous les alliés^ABW und PSY hoch, alle Verb.^Aumenta la DEF y el ESP de los aliados
-MST_ABILITY_SHORTDESCRIPTION_201900^Restore HP and cure poison, blind, sleep, silence, paralysis, confusion for all allies^恢復全體隊員HP+治療中毒失明睡眠沉默麻痹混亂狀態^전체 HP 회복+독, 암흑, 수면, 침묵, 마비, 혼란 회복^Soigne et retire poison, sommeil, silence, paralysie et confusion à tous les alliés^Heilt von Gift/ Blenden/ Schlaf/ Stille/ Lähmung/ Konfus., alle Verb.^Cura VIT y ven, ceg, sue, sil, par y conf a todos los aliados
+MST_ABILITY_SHORTDESCRIPTION_201900^Restore HP and cure poison, blind, sleep, silence, paralysis, confusion for all allies^恢復全體隊員HP+治療中毒失明睡眠沉默麻痹混亂狀態^전체 HP 회복+독, 암흑, 수면, 침묵, 마비, 혼란 회복^Soigne et retire poison, cécité, sommeil, silence, paralysie et confusion à tous les alliés^Heilt von Gift/ Blenden/ Schlaf/ Stille/ Lähmung/ Konfus., alle Verb.^Cura VIT y ven, ceg, sue, sil, par y conf a todos los aliados
 MST_ABILITY_SHORTDESCRIPTION_201910^Damage all enemies^攻擊全體敵人^적 전체에 피해^Dégâts sur tous les ennemis^Schaden, alle Ziele^Daña a todos los enemigos
 MST_ABILITY_SHORTDESCRIPTION_201920^Remove all status effects for one enemy^解除1名敵人的狀態效果^적 1명의 능력치 효과 해제^Retire tous les bonus d'un ennemi^Entfernt alle Zustände, ein Ziel^Elimina todas las mejoras de un enemigo
 MST_ABILITY_SHORTDESCRIPTION_201930^Boost ATK, DEF, MAG, and SPR for all allies^提高全體隊員的攻擊防禦魔力精神^아군 전체의 공격력, 방어력, 마력, 정신력 상승^Augmente l'ATT, la DEF, la MAGIE et la PSY de tous les alliés^ANG, ABW, MAG und PSY hoch, alle Verb.^Aumenta ATQ, DEF, MAG y ESP de los aliados
@@ -343,7 +343,7 @@ MST_ABILITY_SHORTDESCRIPTION_202300^Damage and chance of paralyzing one enemy^�
 MST_ABILITY_SHORTDESCRIPTION_202310^Consume caster's HP to damage all enemies^消耗發動者的HP對全體敵人發動攻擊^자신의 HP를 소모하여 적 전체에 어둠속성 피해^Dégâts sur tous les ennemis en échange de PV^LP für Schaden nutzen, alle Ziele^Consume la VIT del usuario y daña a enemigos
 MST_ABILITY_SHORTDESCRIPTION_202320^Damage and reduce DEF and SPR for one enemy^攻擊1名敵人+降低防禦和精神^적 1명에게 피해+방어력과 정신력 감소^Dégâts et réduit la DEF et la PSY d'un ennemi^Schaden und ABW und PSY runter, ein Ziel^Daña y reduce la DEF y el ESP de un enemigo
 MST_ABILITY_SHORTDESCRIPTION_202330^Damage and reduce ATK and MAG for one enemy^攻擊1名敵人+降低攻擊和魔力^적 1명에게 피해+공격력과 마력 감소^Dégâts et réduit l'ATT et la MAGIE d'un ennemi^Schaden und ANG und MAG runter, ein Ziel^Daña y reduce el ATQ y la MAG de un enemigo
-MST_ABILITY_SHORTDESCRIPTION_202340^Random damage single enemies one to six times^隨機攻擊全體敵人^적 전체에 무작위로  1~6회 피해^Dégâts sur tous les ennemis au hasard^Verursacht 1-6 Mal Schaden bei zufällig gewählten Gegnern.^Daño al azar a todos los enemigos
+MST_ABILITY_SHORTDESCRIPTION_202340^Random damage single enemies one to six times^隨機攻擊敵人1~6次^적에게 무작위로 1~6회 피해^Dégâts sur un ennemi au hasard, de 1 à 6 fois^Verursacht 1-6 Mal Schaden bei zufällig gewählten Gegnern.^Daño al azar de 1 a 6 veces a todos los enemigos
 MST_ABILITY_SHORTDESCRIPTION_202350^Boost ATK and MAG for one ally^提高1名隊員的攻擊魔力^아군 1명의 공격력과 마력 상승^Augmente l'ATT et la MAGIE d'un allié^Erhöht ANG und MAG, ein Verb^Aumenta el ATQ y la MAG de un aliado
 MST_ABILITY_SHORTDESCRIPTION_202360^Damage and reduce DEF and SPR for one enemy^攻擊1名敵人+降低防禦精神^적 1명에게 피해+방어력과 정신력 감소^Dégâts et réduit la DEF et la PSY d'un ennemi^Schaden und ABW und PSY runter, ein Ziel^Daña y reduce la DEF y el ESP de un enemigo
 MST_ABILITY_SHORTDESCRIPTION_202370^Cure poison, blind, and silence for caster^治療發動者中毒、失明和沉默的狀態^자신의 독, 암흑, 침묵 회복^Retire poison, cécité et silence au lanceur^Heilt beim Benutzer Gift, Blenden und Stille^Elimina veneno, ceguera y silencio del usuario
@@ -365,7 +365,7 @@ MST_ABILITY_SHORTDESCRIPTION_202510^Auto-brave during battle^戰鬥中自動附�
 MST_ABILITY_SHORTDESCRIPTION_202520^Use random ability on enemy^隨機對敵人使用能力^적에게 무작위로 어빌리티 사용^Utilise une aptitude au hasard sur un ennemi^Wendet ein zuf. Fertigkeit auf ein Ziel an^Use una habilidad al azar sobre un enemigo
 MST_ABILITY_SHORTDESCRIPTION_202560^Randomly poison, blind, put to sleep, silence, paralyze, confuse, inflict disease, or petrify one enemy^對1名敵人隨機施加異常狀態^적 1명에게 무작위로 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 부여^Altération d'état au hasard sur un ennemi^ Zuf. Zustand, ein Ziel^Inflige un estado alterado al azar a un enemigo
 MST_ABILITY_SHORTDESCRIPTION_202570^Chance of charming one enemy^一定機率對1名敵人施加魅惑效果^일정 확률로 적 1명에게 매혹 부여^Charme un ennemi^Bezaubert einen Gegner^Embruja a un enemigo
-MST_ABILITY_SHORTDESCRIPTION_202580^Attack five enemies chosen at random^隨機對全體敵人攻擊5次^적 전체에 무작위로 5회 피해^Attaque 5 ennemis choisis au hasard^Fünf zufällige Gegner angreifen^Ataca a 5 enemigos elegidos al azar
+MST_ABILITY_SHORTDESCRIPTION_202580^Attack five enemies chosen at random^隨機對全體敵人攻擊5次^적에게 무작위로 5회 피해^Attaque 5 ennemis choisis au hasard^Fünf zufällige Gegner angreifen^Ataca a 5 enemigos elegidos al azar
 MST_ABILITY_SHORTDESCRIPTION_202590^Cure poison, blind, sleep, silence, paralysis, and confusion for one ally^治療隊員的中毒失明睡眠沉默麻痹混亂狀態^아군 1명의 독, 암흑, 수면, 침묵, 마비, 혼란 회복^Retire Poison/ Cécité/ Sommeil/ Silence/ Paralysie/ Folie à un allié^Heilt einen Verbündeten von Gift/ Blenden/ Schlaf/ Stille/ Lähmung/ Konfus^Elimina ven/ ceg/ sue/ sil/ par/ con de un aliado
 MST_ABILITY_SHORTDESCRIPTION_202600^Magic damage one enemy and power up with consecutive use^對1名敵人發動魔法攻擊+威力上升^적 1명에게 마법 피해+연속 사용 시 피해량 상승^Dégâts magiques sur un ennemi et augmentation de puissance^Magieschaden und Stärkung, ein Ziel^Daño mágico a un enemigo y aumento de poder
 MST_ABILITY_SHORTDESCRIPTION_202610^Chance of stopping one enemy^一定機率對1名敵人施加停止效果^적 1명에게 일정 확률로 스톱 부여^Stoppe un ennemi^Stoppt einen Gegner^Para a un enemigo
@@ -428,7 +428,7 @@ MST_ABILITY_SHORTDESCRIPTION_203000^Use random ability on all enemies^對全體�
 MST_ABILITY_SHORTDESCRIPTION_203010^Inflict stop with random effect on one enemy^對1敵人施加隨機停止的效果^적 1명에게 일정 확률로 턴 무작위 횟수 스톱 부여^Stoppe un ennemi et lui inflige un effet aléatoire^Stopp mit zuf. Effekt, ein Ziel^Inflige paro con un efecto al azar a un enemigo
 MST_ABILITY_SHORTDESCRIPTION_203020^Recover random amount of MP for caster^隨機恢復發動者的MP^자신의 MP 무작위 회복^Le lanceur récupère un montant de PM aléatoire^Heilt zufällige Menge MP für Benutzer^Recupera una cantidad de PM al azar al usuario
 MST_ABILITY_SHORTDESCRIPTION_203030^Recover random amount of HP for caster^隨機恢復發動者的HP^자신의 HP 무작위 회복^Le lanceur récupère un montant de PV aléatoire^Heilt zufällige Menge LP für Benutzer^Recupera una cantidad de VIT al azar al usuario
-MST_ABILITY_SHORTDESCRIPTION_203040^Attack four enemies chosen at random^隨機對敵人攻擊4次^무작위로 적에게 4회 피해^Attaque quatre ennemis au hasard^Vier zufällige Gegner angreifen^Ataca a cuatro enemigos al azar
+MST_ABILITY_SHORTDESCRIPTION_203040^Attack four enemies chosen at random^隨機對敵人攻擊4次^적에게 무작위로 4회 피해^Attaque quatre ennemis au hasard^Vier zufällige Gegner angreifen^Ataca a cuatro enemigos al azar
 MST_ABILITY_SHORTDESCRIPTION_203050^Damage and reduce DEF for one enemy^攻擊1名敵人+降低防禦^적 1명에게 피해+방어력 감소^Dégâts et réduit la DEF d'un ennemi^Schaden und ABW runter, ein Ziel^Daño y reduce la DEF de un enemigo
 MST_ABILITY_SHORTDESCRIPTION_203060^Chance of countering physical attacks^受到物理攻擊時一定機率進行反擊^물리공격을 받으면 일정 확률로 반격^Chance de contrer une attaque physique^Chance, physische Angriffe zu kontern^Posibilita devolver ataques físicos
 MST_ABILITY_SHORTDESCRIPTION_203070^Boost ATK when equipped with a katana^提高裝備刀時的攻擊^도 장착 시 공격력 상승^Augmente l'ATT si un katana est équipé^Erhöht ANG, wenn mit Katana ausgerüstet^Aumenta el ATQ al llevar una katana
@@ -466,7 +466,7 @@ MST_ABILITY_SHORTDESCRIPTION_203370^Boost MP by 20% and SPR by 30%^提高20%MP�
 MST_ABILITY_SHORTDESCRIPTION_203380^Boost MAG when equipped with a sword^提高裝備劍時的魔力^검 장착 시 마력 상승^Augmente la MAGIE lorsqu'une épée est équipée^Erhöht MAG, wenn mit Schwert ausgerüstet^Aumenta la MAG al equiparse con espadas
 MST_ABILITY_SHORTDESCRIPTION_203390^Boost ATK when equipped with a sword^提高裝備劍時的攻擊^검 장착 시 공격력 상승^Augmente l'ATT lorsqu'une épée est équipée^Erhöht ANG, wenn mit Schwert ausgerüstet^Aumenta el ATQ al equiparse con espadas
 MST_ABILITY_SHORTDESCRIPTION_203400^Cure poison, blind, sleep, silence, paralysis, and confusion for all allies^治療全體隊員的中毒失明睡眠沉默麻痹混亂狀態^아군 전체의 독, 암흑, 수면, 침묵, 마비, 혼란 회복^Soigne poison, cécité, sommeil, paralysie, confusion pour tous les alliés^Heilt Gift/ Blenden/ Schlaf/ Stille/ Lähmung/ Konfus, alle Verb.^Cura ven, ceg, sue, sil, par y con a los aliados
-MST_ABILITY_SHORTDESCRIPTION_203410^Boost ATK by 10% and resistance to poison, blind, sleep, silence, paralysis, confusion, disease, and stone^提高10%攻擊、中毒失明睡眠沉默麻痺混亂生病石化耐性^공격력 10%+독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 저항력 상승^Augmente l'ATT de 10% et la rés. au poison, à cécité, sommeil, silence, paralysie, confusion, maladie et pétrification^ANG + 10 % und Resistenz gegen Gift/ Blenden/ Schlaf/ Stille/ Lähmung/ Konfus/ Virus/ Stein^Aumenta el ATQ un 10% y res. a estados alterados
+MST_ABILITY_SHORTDESCRIPTION_203410^Boost ATK by 10% and resistance to poison, blind, sleep, silence, paralysis, confusion, disease, and stone^提高10%攻擊、中毒失明睡眠沉默麻痺混亂生病石化耐性^공격력 10%+독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 저항력 상승^Augmente l'ATT de 10% et la rés. au poison, cécité, sommeil, silence, paralysie, confusion, maladie et pétrification^ANG + 10 % und Resistenz gegen Gift/ Blenden/ Schlaf/ Stille/ Lähmung/ Konfus/ Virus/ Stein^Aumenta el ATQ un 10% y res. a estados alterados
 MST_ABILITY_SHORTDESCRIPTION_203420^Boost ATK, DEF and SPR when equipped with a sword^提高裝備劍時的攻擊防禦精神^검 장착 시 공격력, 방어력, 정신력 상승^Augmente l'ATT, la DEF et la PSY lorsqu'une épée est équipée^Erhöht ANG, ABW u. PSY, wenn mit Schwert ausgerüstet^Aumenta ATQ/DEF/ESP al equiparse con espadas
 MST_ABILITY_SHORTDESCRIPTION_203430^Cause limit gauge to fill more quickly^提高極限技石對極限技槽的增加量^LB 게이지 효율 상승^Permet à la barre de limite de se remplir plus rapidement^Das Limitmeter füllt sich schneller^La barra de EL se llenará más rápido
 MST_ABILITY_SHORTDESCRIPTION_203440^LB gauge fills each turn during battle^戰鬥中每回合自動增加極限技槽^전투 중 매 턴마다 LB 게이지 증가^La jauge de limite se remplit à chaque tour^Limitmeter steigt langsam^La barra de EL se llena en cada turno
@@ -513,7 +513,7 @@ MST_ABILITY_SHORTDESCRIPTION_203840^Boost MP by 5% and MAG by 25%^提高5%MP、2
 MST_ABILITY_SHORTDESCRIPTION_200690^Damage and drain MP from one enemy^吸收1名敵人的MP^적 1명에게 피해+MP 흡수^Aspire les PM d'un ennemi^Stiehlt MP, ein Ziel^Drena los PM de un enemigo
 MST_ABILITY_SHORTDESCRIPTION_203850^Boost LB gauge fill rate^提高極限技石對極限技槽的增加量^LB 게이지 효율 상승^Augmente la quantité de limite récupérée grâce aux pierres de combat^Verstärkt den Effekt von Limitsteinen^Las piedras de estallido recuperarán más EL
 MST_ABILITY_SHORTDESCRIPTION_203860^Wind damage to one enemy^對1名敵人發動風屬性攻擊^적 1명에게 바람속성 피해^Dégâts de vent sur un ennemi^Windschaden, ein Ziel^Daño de viento a un enemigo
-MST_ABILITY_SHORTDESCRIPTION_203870^Random wind damage five times to single enemies^隨機對全體敵人發動5次風屬性攻擊^무작위로 적에게 5회 바람속성 피해^Dégâts de vent aléatoire 5 fois sur un ennemi^Verursacht fünfmal Windschaden bei zufällig gewählten Gegnern.^Daño al azar de viento 5 veces a enemigos
+MST_ABILITY_SHORTDESCRIPTION_203870^Random wind damage five times to single enemies^隨機對全體敵人發動5次風屬性攻擊^적에게 무작위로 5회 바람속성 피해^Dégâts de vent aléatoire 5 fois sur un ennemi^Verursacht fünfmal Windschaden bei zufällig gewählten Gegnern.^Daño al azar de viento 5 veces a enemigos
 MST_ABILITY_SHORTDESCRIPTION_203880^KO caster but full restore HP and MP for one ally^發動者進入無法戰鬥狀態並完全恢復1名隊員的HPMP^자신이 전투불능 상태에 빠지는 대신, 아군 1명의 HP와 MP 모두 회복^Rend KO le lanceur pour restaurer tous les PV et PM d'un allié^Wenn kampfunf., volle LP und MP für einen ^Restaura la VIT y PM del objetivo pero el usuario queda K.O.
 MST_ABILITY_SHORTDESCRIPTION_203890^Boost ATK and MAG when equipped with a sword^提高裝備劍時的攻擊魔力^검 장착 시 공격력, 마력 상승^Augmente l'ATT et la MAGIE lorsqu'une épée est équipée^Erhöht ANG u. MAG, wenn mit Schwert ausgerüstet^Aumenta el ATQ y la MAG al equiparse con espadas
 MST_ABILITY_SHORTDESCRIPTION_202530^Boost HP, MP, ATK, DEF, MAG and SPR by 10%^提高10%HPMP攻擊防禦魔力精神^HP, MP, 공격력, 방어력, 마력, 정신력 10% 상승^Augmente les PV, les PM, l'ATT, la DEF, la MAGIE et les PSY de 10%^Erhöht LP, MP, ANG, ABW, MAG u. PSY um 10 %^Aumenta VIT/PM/ATQ/DEF/MAG/ESP un 10%
@@ -533,7 +533,7 @@ MST_ABILITY_SHORTDESCRIPTION_204040^Boost ATK when equipped with an axe^提高�
 MST_ABILITY_SHORTDESCRIPTION_204050^Damage and reduce water resistance for one enemy^攻擊1名敵人+降低水屬性耐性^적 1명에게 피해+물속성 저항력 감소^Dégâts et réduit la résistance à l'eau d'un ennemi^Schaden und Wasserres. runter, ein Ziel^Daña y reduce la res. al agua de un enemigo
 MST_ABILITY_SHORTDESCRIPTION_204060^Boost ATK for all allies^提高全體隊員的攻擊^아군 전체의 공격력 상승^Augmente l'ATT de tous les alliés^ANG hoch, alle Verb.^Aumenta el ATQ de todos los aliados
 MST_ABILITY_SHORTDESCRIPTION_204070^Boost ATK when HP is below a certain point^HP降低到一定數值以下時，提高攻擊^HP가 일정량 이하일 때 공격력 상승^Augmente l'ATT lorsque les PV sont en dessous d'un certain seuil^ANG hoch bei niedrigen LP^Aumenta el ATQ al bajar su VIT hasta cierto punto
-MST_ABILITY_SHORTDESCRIPTION_204080^Attack five enemies chosen at random^隨機對全體敵人攻擊5次^무작위로 적에게 5회 피해^Attaque 5 ennemis choisis au hasard^5 zufällige Gegner angreifen^Ataca a 5 enemigos elegidos al azar
+MST_ABILITY_SHORTDESCRIPTION_204080^Attack five enemies chosen at random^隨機對全體敵人攻擊5次^적에게 무작위로 5회 피해^Attaque 5 ennemis choisis au hasard^5 zufällige Gegner angreifen^Ataca a 5 enemigos elegidos al azar
 MST_ABILITY_SHORTDESCRIPTION_204090^Consume caster's HP to gradually regenerate MP for all allies^消耗發動者HP持續恢復全體隊員的MP^자신의 HP를 소모하여 아군 전체의 MP 서서히 회복^Consume les PV du lanceur pour restaurer progressivement les PM de tous les alliés^Verbraucht LP, um MP aller Verb. aufzufüllen^Usa su VIT para regenerar los PM de los aliados poco a poco
 MST_ABILITY_SHORTDESCRIPTION_204100^Damage one enemy^攻擊1名敵人^적 1명에게 피해^Dégâts sur un ennemi^Schaden, ein Ziel^Daña a un enemigo
 MST_ABILITY_SHORTDESCRIPTION_204110^Damage one enemy^攻擊1名敵人^적 1명에게 피해^Dégâts sur un ennemi^Schaden, ein Ziel^Daña a un enemigo
@@ -546,7 +546,7 @@ MST_ABILITY_SHORTDESCRIPTION_204170^Boost ATK when equipped with a spear^提高�
 MST_ABILITY_SHORTDESCRIPTION_204180^Damage all enemies^攻擊全體敵人^적 전체에 피해^Dégâts sur tous les ennemis^Schaden, alle Ziele^Daña a todos los enemigos
 MST_ABILITY_SHORTDESCRIPTION_204190^Wind damage to all enemies^對全體敵人發動風屬性攻擊^적 전체에 바람속성 피해^Dégâts de vent sur tous les ennemis^Windschaden, alle Ziele^Daño de viento a todos los enemigos
 MST_ABILITY_SHORTDESCRIPTION_204200^Damage and reduce DEF for one enemy^攻擊1名敵人+降低防禦^적 1명에게 피해+방어력 감소^Dégâts et réduit la DEF d'un ennemi^Schaden und ABW runter, ein Ziel^Daña y reduce la DEF de un enemigo
-MST_ABILITY_SHORTDESCRIPTION_204210^Attack four enemies chosen at random^隨機對全體敵人攻擊4次^무작위로 적에게 5회 피해^Attaque quatre ennemis au hasard^Vier zufällige Gegner angreifen^Ataca a cuatro enemigos al azar
+MST_ABILITY_SHORTDESCRIPTION_204210^Attack four enemies chosen at random^隨機對全體敵人攻擊4次^적에게 무작위로 4회 피해^Attaque quatre ennemis au hasard^Vier zufällige Gegner angreifen^Ataca a cuatro enemigos al azar
 MST_ABILITY_SHORTDESCRIPTION_204220^Boost ATK for caster^提高自身的攻擊^자신의 공격력 상승^Augmente l'ATT de l'utilisateur^Benutzer ANG hoch^Aumenta el ATQ de quien lo usa
 MST_ABILITY_SHORTDESCRIPTION_204230^Drain HP from one enemy^吸收1名敵人的HP^적 1명의 HP 흡수^Aspire les PC d'un ennemi^Stiehlt LP, ein Ziel^Drena la VIT de un enemigo
 MST_ABILITY_SHORTDESCRIPTION_204240^Boost ATK when equipped with fists^提高裝備格鬥武器時的攻擊^격투무기 장착 시 공격력 상승^Augmente l'ATT lorsque des poings sont équipés^Erhöht ANG, wenn mit Nahkampfwaffe ausgerüstet^Aumenta el ATQ al llevar armas de puño
@@ -630,7 +630,7 @@ MST_ABILITY_SHORTDESCRIPTION_207630^Light damage, blind and disease on all enemi
 MST_ABILITY_SHORTDESCRIPTION_207670^Boost light resistance by 50%^提高50%光屬性耐性^빛속성 저항력 50% 상승^Augmente la résistance à la lumière de 50%^Erhöht Lichtresistenz um 50 %^Aumenta la resistencia a la luz un 50%
 MST_ABILITY_SHORTDESCRIPTION_207660^Auto-regen during battle^戰鬥中每回合自動恢復HP^전투 중 매 턴마다 HP 회복^Restaure les PV à chaque tour durant le combat^Stellt im Kampf jede Runde LP wieder her^Recupera la VIT cada turno durante el combate
 MST_ABILITY_SHORTDESCRIPTION_207610^Boost ATK and DEF and automatically revive caster one time^提高發動者攻擊防禦的數值+進入無法戰鬥狀態時自動復活1次^자신의 공격력과 방어력 상승+전투불능 상태를 1회 자동 회복하는 효과 부여^Augmente l'ATT et la DEF et ressuscite automatiquement le lanceur une fois^ANG und ABW hoch und automatische Wiederbelebung, einmal^Aumenta ATQ/DEF y revive al usuario automáticamente una vez
-MST_ABILITY_SHORTDESCRIPTION_207650^Cure and boost resistance to poison, blind, sleep, silence, paralysis, confusion, disease, and stone for all allies^治療全體隊員的中毒失明睡眠沉默麻痺混亂生病石化狀態+提高中毒失明睡眠沉默麻痺混亂生病石化耐性^아군 전체의 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화를 회복+독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 저항력 상승^Soigne et augmente la résistance au poison, à cécité, sommeil, silence, paralysie, confusion, maladie et pétrification de tous les alliés^Heilung + erhöhte Resi. gegen Gi., Bl., Schl., St., Lä., Ko., Vi., Stei., alle Verb.^Recupera y aumenta la res. a ven, ceg, sue, sil, par, conf, enf, pie de aliados
+MST_ABILITY_SHORTDESCRIPTION_207650^Cure and boost resistance to poison, blind, sleep, silence, paralysis, confusion, disease, and stone for all allies^治療全體隊員的中毒失明睡眠沉默麻痺混亂生病石化狀態+提高中毒失明睡眠沉默麻痺混亂生病石化耐性^아군 전체의 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화를 회복+독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 저항력 상승^Soigne et augmente la résistance au poison, cécité, sommeil, silence, paralysie, confusion, maladie et pétrification de tous les alliés^Heilung + erhöhte Resi. gegen Gi., Bl., Schl., St., Lä., Ko., Vi., Stei., alle Verb.^Recupera y aumenta la res. a ven, ceg, sue, sil, par, conf, enf, pie de aliados
 MST_ABILITY_SHORTDESCRIPTION_207600^Deal partial unmitigated light damage to one enemy^對1名敵人發動光屬性無視部分防禦的攻擊^적 1명에게 빛속성 일부 방어 무시 피해^Inflige des dégâts de lumière en partie fixes à un ennemi^Teilweise direkter Lichtschaden, ein Ziel.^Inflige daño absoluto parcial de luz a un enemigo
 MST_ABILITY_SHORTDESCRIPTION_900006^Deal partial unmitigated damage to one enemy^對1名敵人發動無視部分防禦的攻擊^적 1명에게 일부 방어 무시 피해^Dégâts en partie fixes sur un ennemi^Fügt einem Gegner teilweise direkten Schaden zu.^Daño absoluto parcial a un enemigo
 MST_ABILITY_SHORTDESCRIPTION_900007^Restore HP for one ally^恢復1名隊員的HP^아군 1명의 HP 회복^Soigne un allié^Heilt LP eines Verbündeten.^Recupera la VIT de un aliado
@@ -763,7 +763,7 @@ MST_ABILITY_SHORTDESCRIPTION_205510^Deal partial unmitigated damage and reduce D
 MST_ABILITY_SHORTDESCRIPTION_205520^Boost ATK, DEF, MAG and SPR when equipped with a katana^提高裝備刀時的攻擊防禦魔力精神^도 장착 시 공격력, 방어력, 마력, 정신력 상승^Augmente l'ATT, ma DEF, la MAGIE et la PSY lorsqu'un katana est équipé^Erhöht ANG, ABW, MAG und PSY, wenn ein Katana ausgerüstet ist.^Aumenta ATQ/DEF/MAG/ESP al llevar katanas
 MST_ABILITY_SHORTDESCRIPTION_205530^Ice and wind damage all enemies two times^對全體敵人發動2次冰與風屬性攻擊^적 전체에 2회 얼음속성과 바람속성 피해^Dégâts de glace et de vent sur tous les ennemis à deux reprises^Zweimal Eis- und Windschaden, alle Ziele^Daño de hielo y viento a todos los enemigos dos veces
 MST_ABILITY_SHORTDESCRIPTION_205540^Boost LB gauge fill rate^提高極限技石對極限技槽的增加量^LB 게이지 효율 상승^Augmente la quantité de limite récupérée grâce aux pierres de combat^Verstärkt den Effekt von Limitsteinen^Las piedras de estallido recuperarán más EL
-MST_ABILITY_SHORTDESCRIPTION_205550^Deal partial unmitigated damage to one enemy and boost resistance to blind for caster^對1名敵人發動無視部分防禦的攻擊+提高發動者失明耐性^적 1명에게 일부 방어 무시 피해+자신의 암흑 저항력 상승^Dégâts en partie fixes sur un ennemi et augmente la résistance aux ténèbres du lanceur^Fügt einem Gegner teilw. dir. Schaden zu und erhöht Blendres. für Benutzer.^Daño absoluto parcial a uno y más res. a ceguera al usuario
+MST_ABILITY_SHORTDESCRIPTION_205550^Deal partial unmitigated damage to one enemy and boost blind resistance for caster^對1名敵人發動無視部分防禦的攻擊+提高發動者失明耐性^적 1명에게 일부 방어 무시 피해+자신의 암흑 저항력 상승^Dégâts en partie fixes sur un ennemi et augmente la résistance aux ténèbres du lanceur^Fügt einem Gegner teilw. dir. Schaden zu und erhöht Blendres. für Benutzer.^Daño absoluto parcial a uno y más res. a ceguera al usuario
 MST_ABILITY_SHORTDESCRIPTION_205560^Chance of escaping death when HP is above a certain point^HP高於一定量時一定機率避免陷入無法戰鬥狀態^HP가 일정량 이상일 때 일정 확률로 전투불능 상태 견딤^Chance d'éviter de tomber KO lorsque les PV sont au-dessus d'un certain seuil^Chance, dem Tod zu entkommen, wenn LP über einem bestimmten Wert.^Posibilita evitar caer K.O. si la VIT está sobre cierto punto
 MST_ABILITY_SHORTDESCRIPTION_205570^Fire damage to one enemy^對1名敵人發動火屬性攻擊^적 1명에게 불속성 피해^Dégâts de feu sur un ennemi^Fügt einem Gegner Feuerschaden zu.^Daño de fuego a un enemigo
 MST_ABILITY_SHORTDESCRIPTION_205580^Fire damage to one enemy^對1名敵人發動火屬性攻擊^적 1명에게 불속성 피해^Dégâts de feu sur un ennemi^Feuerschaden, ein Ziel^Daño de fuego a un enemigo
@@ -792,7 +792,7 @@ MST_ABILITY_SHORTDESCRIPTION_205800^Boost DEF for one ally^提高1名隊員的�
 MST_ABILITY_SHORTDESCRIPTION_205810^Boost DEF for all allies^提高全體隊員的防禦^아군 전체의 방어력 상승^Augmente la DEF de tous les alliés^Erhöht ABW aller Verb.^Aumenta la DEF de todos los aliados
 MST_ABILITY_SHORTDESCRIPTION_205820^Damage one enemy^攻擊1名敵人^적 1명에게 피해^Dégâts sur un ennemi^Schaden, ein Ziel^Daña a un enemigo
 MST_ABILITY_SHORTDESCRIPTION_205830^Damage and reduce DEF for one enemy^攻擊1名敵人+降低防禦^적 1명에게 피해+방어력 감소^Dégâts et réduit la DEF d'un ennemi^Schaden und ABW runter, ein Ziel^Daña y reduce la DEF de un enemigo
-MST_ABILITY_SHORTDESCRIPTION_205840^Attack four enemies chosen at random^隨機對全體敵人攻擊4次^적 전체에 무작위로 4회 피해^Attaque quatre ennemis au hasard^Fügt zuf. Gegnern vier Mal Schaden zu.^Ataca a cuatro enemigos al azar
+MST_ABILITY_SHORTDESCRIPTION_205840^Attack four enemies chosen at random^隨機對全體敵人攻擊4次^적에게 무작위로 4회 피해^Attaque quatre ennemis au hasard^Fügt zuf. Gegnern vier Mal Schaden zu.^Ataca a cuatro enemigos al azar
 MST_ABILITY_SHORTDESCRIPTION_205850^Consume caster's HP to damage one enemy for up to 2/5 max HP^消耗發動者的HP，對1名敵人造成最大HP2/5的傷害^자신의 HP를 소모하여 적 1명에게 최대 HP 2/5 피해^Consume les PV du lanceur pour infliger des dégâts à un ennemi équivalent à 2/5 de ses PV max^LP für 2/5 Schaden der max. LP bei einem Ziel nutzen^Usa VIT propia para quitarle hasta el 40% de su VIT al enemigo
 MST_ABILITY_SHORTDESCRIPTION_205860^Boost normal attack power for caster next turn^提高下一回合發動者普通攻擊的威力^다음 턴에 자신의 일반 공격 위력 상승^Augmente les dégâts des attaques normales du lanceur au prochain tour^Normaler Angriff für Benutzer eine Runde verstärkt^Más daño con ataque normal el siguiente turno
 MST_ABILITY_SHORTDESCRIPTION_205870^Auto-regen during battle^每回合恢復HP^매 턴마다 HP 회복^Récup auto en combat^Auto-Regena im Kampf^AutoRevitalia en combate
@@ -1119,7 +1119,7 @@ MST_ABILITY_SHORTDESCRIPTION_209400^Chance of reducing ATK, DEF, MAG, and SPR fo
 MST_ABILITY_SHORTDESCRIPTION_209410^Damage one enemy^攻擊1名敵人^적 1명에게 피해^Dégâts sur un ennemi^Schaden, ein Ziel^Daña a un enemigo
 MST_ABILITY_SHORTDESCRIPTION_209420^Caster can dodge some physical attacks three times^發動者可防住3次攻擊^자신이 받는 공격 3회 무효화^Le lanceur peut esquiver trois attaques^Benutzer weicht drei Angriffen aus^Permite esquivar hasta tres ataques al usuario
 MST_ABILITY_SHORTDESCRIPTION_209430^Damage and inflict all enemies with disease^攻擊全體敵人+一定機率施加生病效果^적 전체에 피해+일정 확률로 질병 부여^Dégâts et inflige maladie à tous les ennemis^Schaden und Virus, alle Ziele^Inflige daño y enfermedad a todos los enemigos
-MST_ABILITY_SHORTDESCRIPTION_209440^Boost stop resistance for all allies^提高全體隊員的停止耐性^아군 전체의 스톱 저항력 상승^Augmente la résistance à stop pour tous les alliés^Resistenzstop hoch, alle Ziele^Aumenta la resistencia al paro de todos los enemigos
+MST_ABILITY_SHORTDESCRIPTION_209440^Boost stop resistance for all allies^提高全體隊員的停止耐性^아군 전체의 스톱 저항력 상승^Augmente la résistance à stop pour tous les alliés^Erhöht Stopp-Resistenz aller Verb.^Aumenta la resistencia al paro de todos los enemigos
 MST_ABILITY_SHORTDESCRIPTION_209450^Chance of evading physical attacks^一定機率閃避物理攻擊^일정 확률로 일부 물리공격 회피^Esquive parfois les attaques physiques^Chance, physischen Angriffen auszuweichen^Posibilita evadir ataques físicos
 MST_ABILITY_SHORTDESCRIPTION_209460^Restore HP and cure poison, blind, sleep, silence, paralysis, confusion for all allies^恢復全體隊員的HP+治療中毒失明睡眠沉默麻痺混亂的狀態^아군 전체의 HP 회복+독, 암흑, 수면, 침묵, 마비, 혼란 회복^Restaure les PV et soigne pois. céc., som., sil., para. et conf. pour tous les alliés^Heilt LP und Gift, Blenden, Schlaf, Stille, Lähmung und Konfus aller Verb.^Cura VIT y ven, ceg, sue, sil, par y con a todos los aliados
 MST_ABILITY_SHORTDESCRIPTION_209470^Boost ATK and MAG when equipped with a short sword^提高裝備短劍時的攻擊魔力^단검 장착 시 공격력과 마력 상승^Augmente l'ATT et la MAGIE lorsqu'une épée courte est équipée^Erhöht ANG u. MAG, wenn mit Kurzschwert ausgerüstet^Aumenta el ATQ y la MAG al llevar espadas cortas
@@ -1449,8 +1449,8 @@ MST_ABILITY_SHORTDESCRIPTION_700270^Restore HP for all allies^恢復全體隊員
 MST_ABILITY_SHORTDESCRIPTION_700280^Restore HP and MP for all allies^恢復全體隊員的HPMP^아군 전체의 HP와 MP 회복^Restaure les PV et les PM de tous les alliés^Stellt alle LP und MP aller Verbündeten wieder her.^Recupera la VIT y los PM de todos los aliados
 MST_ABILITY_SHORTDESCRIPTION_700290^Mechanized attack on random enemy^隨機對敵人使用機械攻擊^적에게 무작위로 기계 공격^Attaque mécanique sur un ennemi au hasard^Mechanischer Angriff auf zuf. Gegner^Ataque mecánico a un enemigo al azar
 MST_ABILITY_SHORTDESCRIPTION_700300^Mechanized attack on random enemy^隨機對敵人使用機械攻擊^적에게 무작위로 기계 공격^Attaque mécanique sur un ennemi au hasard^Mechanischer Angriff auf zuf. Gegner^Ataque mecánico a un enemigo al azar
-MST_ABILITY_SHORTDESCRIPTION_700310^Attack three enemies chosen at random^隨機對全體敵人攻擊3次^적 전체에 무작위로 3회 피해^Attaque trois ennemis choisis au hasard^Drei zufällige Gegner angreifen^Ataca a tres enemigos al azar
-MST_ABILITY_SHORTDESCRIPTION_700320^Attack four enemies chosen at random^隨機對全體敵人攻擊4次^적 전체에 무작위로 4회 피해^Attaque quatre ennemis au hasard^Fügt zuf. Gegnern vier Mal Schaden zu.^Ataca a cuatro enemigos al azar
+MST_ABILITY_SHORTDESCRIPTION_700310^Attack three enemies chosen at random^隨機對全體敵人攻擊3次^적에게 무작위로 3회 피해^Attaque trois ennemis choisis au hasard^Drei zufällige Gegner angreifen^Ataca a tres enemigos al azar
+MST_ABILITY_SHORTDESCRIPTION_700320^Attack four enemies chosen at random^隨機對全體敵人攻擊4次^적에게 무작위로 4회 피해^Attaque quatre ennemis au hasard^Fügt zuf. Gegnern vier Mal Schaden zu.^Ataca a cuatro enemigos al azar
 MST_ABILITY_SHORTDESCRIPTION_700330^Chance of evading physical and magic attacks^一定機率閃避物理、魔法攻擊^일정 확률로 일부 물리, 마법공격 회피^Chance d'éviter les attaques physiques et magiques^Chance, physischen und magischen Angriffen auszuweichen^Posibilita evadir ataques físicos y mágicos
 MST_ABILITY_SHORTDESCRIPTION_700340^Chance of evading physical and magic attacks^一定機率閃避物理、魔法攻擊^일정 확률로 일부 물리, 마법공격 회피^Chance d'éviter les attaques physiques et magiques^Chance, physischen und magischen Angriffen auszuweichen^Posibilita evadir ataques físicos y mágicos
 MST_ABILITY_SHORTDESCRIPTION_700350^Damage and reduce MAG for one enemy^攻擊1名敵人+降低魔力^적 1명에게 피해+마력 감소^Dégâts et réduit la MAGIE d'un ennemi^Schaden und MAG runter, ein Ziel^Daña y reduce la MAG de un enemigo
@@ -1509,7 +1509,7 @@ MST_ABILITY_SHORTDESCRIPTION_910050^Cure and temporarily gain immunity to poison
 MST_ABILITY_SHORTDESCRIPTION_910051^Randomly restore HP for caster or all allies^恢復發動者或全體隊員的HP^무작위로 자신 또는 아군 전체의 HP 회복^Restaure aléatoirement les PV du lanceur ou de tous les alliés^Heilt zufällig LP für Benutzer oder alle Verb.^Recupera la VIT del usuario o de los aliados al azar
 MST_ABILITY_SHORTDESCRIPTION_910052^Restore HP for caster^恢復發動者的HP^자신의 HP 회복^Restaure les PV du lanceur^Füllt LP auf, Benutzer^Cura la VIT del usuario
 MST_ABILITY_SHORTDESCRIPTION_910053^Restore HP for all allies^恢復全體隊員的HP^아군 전체의 HP 회복^Restaure les PV de tous les alliés^Heilt LP, alle Verb.^Cura la VIT a todos los aliados
-MST_ABILITY_SHORTDESCRIPTION_910054^Boost dark resistance and resistance to stone for all allies^提高全體隊員暗屬性耐性和石化耐性^아군 전체의 어둠속성 저항력과 석화 저항력 상승^Augmente la rés. aux ténèbres et à la pétrification de tous les alliés^Erhöht Dunkelresistenz und Resistenz gegen Stein, alle Verb.^Aumenta la res. a oscuridad y piedra a todos los aliados
+MST_ABILITY_SHORTDESCRIPTION_910054^Boost dark and stone resistance for all allies^提高全體隊員暗屬性耐性和石化耐性^아군 전체의 어둠속성 저항력과 석화 저항력 상승^Augmente la rés. aux ténèbres et à la pétrification de tous les alliés^Erhöht Dunkelresistenz und Resistenz gegen Stein, alle Verb.^Aumenta la res. a oscuridad y piedra a todos los aliados
 MST_ABILITY_SHORTDESCRIPTION_910055^Random damage to all enemies^以全體敵人為對象隨機選擇目標，進行攻擊^적 전체에 무작위로 피해^Dégâts sur tous les ennemis au hasard^Zuf. Schaden, alle Ziele^Daño al azar a todos los enemigos
 MST_ABILITY_SHORTDESCRIPTION_910056^Deal partial unmitigated damage to one enemy^對1名敵人發動無視部分防禦的攻擊^적 1명에게 일부 방어 무시 피해^Inflige des dégâts en partie fixes à un ennemi^Fügt einem Gegner teilweise direkten Schaden zu^Daño absoluto parcial a un enemigo
 MST_ABILITY_SHORTDESCRIPTION_910057^Boost ice and wind resistance for three turns for all allies^3回合內提高50%冰、風屬性耐性^3턴 동안 아군 전체의 얼음, 바람속성 저항력 50% 상승^Augmente la résistance à la glace (50%) de tous les alliés pendant 3 tours^Eis und Windres. hoch (50 %), alle Verb. für 3 Runden^Aumenta un 50% la res. a hielo y viento de aliados (3 turnos)
@@ -1567,7 +1567,7 @@ MST_ABILITY_SHORTDESCRIPTION_910083^Inflict all enemies with 2 random status ail
 MST_ABILITY_SHORTDESCRIPTION_910084^Chance of decreasing physical damage taken^一定機率減輕物理傷害^일정 확률로 물리 피해량 감소^Chance de diminuer les dégâts reçus^Chance, zugefügten phys. Schaden zu verringern.^Posibilita anular el daño físico recibido
 MST_ABILITY_SHORTDESCRIPTION_910085^Boost fire resistance and nullify sleep, paralyze, confuse and stone^提高火屬性耐性+睡眠麻痺混亂石化無效^불속성 저항력 상승+수면, 마비, 혼란, 석화 무효화^Augmente la rés. au feu et annule som, para, conf, et pétri^Erhöht Feuerrest. und annuliert Schlaf, Betäubung und Konfus.^Aumenta la res. al fuego y anula sueño, parálisis, confusión y piedra
 MST_ABILITY_SHORTDESCRIPTION_910086^Revive all allies and boost next normal attack^使全體隊員從無法戰鬥狀態中復活+提高下一回合普通攻擊的威力^아군 전체의 전투불능 상태 회복+다음 턴에 일반 공격 위력 상승^Ressuscite tous les alliés et augmente l'attaque au prochain tour^Wiederbelebung aller Verb. und erhöht den nä. norm. Angriff.^Revive a todos los aliados y potencia Atacar el próximo turno
-MST_ABILITY_SHORTDESCRIPTION_910087^Skip next turn and boost ATK and DEF and recover HP and MP^跳至下一回合並提高攻擊防禦+恢復HPMP^다음 턴을 건너뛰고 공격력과 방어력 상승+HP와 MP 회복^Fait sauter un tour, augmente ATT/DEF et récupère PV/PM^Überspr. nächste Runde + erh. ANG + ABW, .Stellt allm. alle LP + MP her.^Se salta el siguiente turno, aumenta ATQ/DEF y cura VIT/PM propios
+MST_ABILITY_SHORTDESCRIPTION_910087^Skip next turn, boost ATK and DEF, and gradually restore HP and MP^跳至下一回合並提高攻擊防禦+恢復HPMP^다음 턴을 건너뛰고 공격력과 방어력 상승+HP와 MP 회복^Fait sauter un tour, augmente ATT/DEF et récupère PV/PM^Überspr. nächste Runde + erh. ANG + ABW, .Stellt allm. alle LP + MP her.^Se salta el siguiente turno, aumenta ATQ/DEF y cura VIT/PM propios
 MST_ABILITY_SHORTDESCRIPTION_910088^Increase chance of being targeted and inflict berserk status on the user^容易被敵人攻擊+對使用者施加狂暴的效果^적의 공격 대상이 될 확률 상승+자신에게 광폭화 부여^Augmente les chances d'être ciblé et inflige Furie au lanceur^Wird häufiger angegriffen und fügt Nutzer Berserker zu.^Más posibilidad de ser atacado e inflige locura al usuario
 MST_ABILITY_SHORTDESCRIPTION_910089^Deal partial unmitigated damage to all enemies^對全體敵人發動無視部分防禦的攻擊^적 전체에 일부 방어 무시 피해^Dégâts en partie fixes à tous les ennemis^Teilweise direkter Schaden, alle Ziele^Daño absoluto parcial a todos los enemigos
 MST_ABILITY_SHORTDESCRIPTION_910090^Physical damage and reduce ATK and DEF to one enemy^攻擊1名敵人+降低攻擊防禦^적 1명에게 피해+공격력과 방어력 감소^Dégâts et réduit l'ATT et la DEF d'un ennemi^Teilweise direkter phy. Schaden, ABW und PSY runter, ein Ziel^Daño físico y reduce el ATQ y la DEF de un enemigo
@@ -1791,7 +1791,7 @@ MST_ABILITY_SHORTDESCRIPTION_211230^Wind damage one enemy and add wind element t
 MST_ABILITY_SHORTDESCRIPTION_211240^Earth damage one enemy and add earth element to own physical attack^對1名敵人發動土屬性攻擊+將自身的物理攻擊賦予土屬性^적 1명에게 땅속성 피해+자신의 물리공격에 땅속성 부여^Dégâts de terre sur un ennemi et ajoute l'élément terre aux attaques physiques du lanceur^Fügt einem Gegner Erdschaden zu und Erdelement für eigenen phy. Angriff.^Daño de tierra a un enemigo y añade elemento tierra a los ataques físicos propios
 MST_ABILITY_SHORTDESCRIPTION_211250^Light damage one enemy and add light element to own physical attack^對1名敵人發動光屬性攻擊+將自身的物理攻擊賦予光屬性^적 1명에게 빛속성 피해+자신의 물리공격에 빛속성 부여^Dégâts de lumière sur un ennemi et ajoute l'élément lumière aux attaques physiques du lanceur^Fügt einem Gegner Lichtschaden zu und Lichtelement für eigenen phy. Angriff.^Daño de luz a un enemigo y añade elemento luz a los ataques físicos propios
 MST_ABILITY_SHORTDESCRIPTION_211260^Dark damage one enemy and add dark element to own physical attack^對1名敵人發動暗屬性攻擊+將自身的物理攻擊賦予暗屬性^적1명에게 어둠속성 피해+자신의 물리공격에 어둠속성 부여^Dégâts de ténèbres sur un ennemi et ajoute l'élément ténèbres aux attaques physiques du lanceur^Fügt einem Gegner Dunkelschaden zu und Dunkelelement für eigenen phy. Angriff.^Daño oscuro a un enemigo y añade elemento oscuro a los ataques físicos propios
-MST_ABILITY_SHORTDESCRIPTION_211270^Boost stop resistance for all allies^提高全體隊員的停止耐性^아군 전체의 스톱 저항력 상승^Augmente la résistance à stop pour tous les alliés^Resistenzstop hoch, alle Ziele^Aumenta la res. a pararse de todos los aliados
+MST_ABILITY_SHORTDESCRIPTION_211270^Boost stop resistance for all allies^提高全體隊員的停止耐性^아군 전체의 스톱 저항력 상승^Augmente la résistance à stop pour tous les alliés^Erhöht Stopp-Resistenz aller Verb.^Aumenta la res. a pararse de todos los aliados
 MST_ABILITY_SHORTDESCRIPTION_211280^LB gauge fills each turn during battle^每回合自動增加極限技槽^매 턴마다 LB 게이지 증가^La jauge de limite se remplit à chaque tour^Limitmeter steigt langsam^La barra de EL se llena en cada turno
 MST_ABILITY_SHORTDESCRIPTION_211290^Boost LB gauge fill rate^提高極限技石對極限技槽的增加量^LB 게이지 효율 상승^Augmente la quantité de limite récupérée grâce aux pierres de combat^Verstärkt den Effekt von Limitsteinen^Las piedras de estallido recuperarán más EL
 MST_ABILITY_SHORTDESCRIPTION_211300^Deal partial unmitigated damage to one enemy^對1名敵人發動無視部分防禦的攻擊^적 1명에게 일부 방어 무시 피해^Dégâts en partie fixes sur un ennemi^Fügt einem Gegner teilweise direkten Schaden zu.^Daño absoluto parcial a un enemigo
@@ -1884,7 +1884,7 @@ MST_ABILITY_SHORTDESCRIPTION_212370^Boost ATK when equipped with a spear and boo
 MST_ABILITY_SHORTDESCRIPTION_212380^Boost SPR when equipped with a staff, and MAG when equipped with a rod^提高裝備手杖時的精神+提高裝備魔棒時的魔力^지팡이 장착 시 정신력 상승+홀장 장착 시 마력 상승^Aug. la PSY quand un bâton est équipé et la MAGIE quand un sceptre est équipé^Erhöht PSY, wenn mit Stock ausgerüstet und MAG, wenn mit Stab.^Aumenta el ESP al llevar bastones y la MAG al llevar varas
 MST_ABILITY_SHORTDESCRIPTION_212400^Lightning damage and reduce wind resistance for all enemies^對全體敵人發動雷屬性攻擊+降低風屬性耐性^적 전체에 번개속성 피해+바람속성 저항력 감소^Dégâts de foudre et réduit la rés. au vent de tous les ennemis^Blitzschaden und reduzierte Windresistenz, alle Gegner.^Daño de rayo y reduce res. al viento de los enemigos
 MST_ABILITY_SHORTDESCRIPTION_212410^Lightning damage and chance of paralyzing all enemies^對全體敵人發動雷屬性攻擊+一定機率施加麻痺效果^적 전체에 번개속성 피해+일정 확률로 마비 부여^Dégâts de foudre et chance de paralyser tous les ennemis^Blitzschaden und Chance, alle Gegner zu betäuben.^Daño de rayo y posibilidad de paralizar a los enemigos
-MST_ABILITY_SHORTDESCRIPTION_212420^Lightning damage to four random enemies^隨機對敵人發動4次雷屬性攻擊^무작위로 적에게 4회의 번개속성 피해^Dégâts de foudre sur quatre ennemis au hasard^Fügt 4 zuf. Gegnern Blitzschaden zu.^Daño de luz a cuatro enemigos al azar
+MST_ABILITY_SHORTDESCRIPTION_212420^Lightning damage to four random enemies^隨機對敵人發動4次雷屬性攻擊^적에게 무작위로 4회 번개속성 피해^Dégâts de foudre sur quatre ennemis au hasard^Fügt 4 zuf. Gegnern Blitzschaden zu.^Daño de luz a cuatro enemigos al azar
 MST_ABILITY_SHORTDESCRIPTION_212430^Boost DEF and lightning resistance for all allies^提高全體隊員的防禦+提高雷屬性耐性^아군 전체의 방어력 상승+번개속성 저항력 상승^Aug. la DEF et la rés. à la foudre de tous les alliés^Erhöht ABW und Blitzresistenz aller Verbündeten.^Aumenta DEF y res. al rayo de todos los aliados
 MST_ABILITY_SHORTDESCRIPTION_212440^Temporarily increase chance of being targeted^暫時性容易被敵人攻擊^일시적으로 적의 공격 대상이 될 확률 상승^Augmente temporairement les chances d'être ciblé^Wird vorübergehend häufiger angegriffen^Aumenta temporalmente la posibilidad de ser atacado
 MST_ABILITY_SHORTDESCRIPTION_212450^Chance of taking physical damage for a female unit, and boost own ATK when receiving a physical attack^一定機率代替我方女性兵員承受物理攻擊+受到物理攻擊時一定機率提高自身的攻擊^일정 확률로 여성 유닛이 받는 물리공격을 대신 받음+물리공격을 받으면 일정 확률로 자신의 공격력 상승^Chance de prendre les dégâts d'une unité femme et aug. l'ATT du lanceur après avoir reçu une att. phy.^Chance, dass die Einheit für einen weiblichen Verbündeten Schaden nimmt. Chance, eigene ANG zu erhöhen, wenn phys. angegriffen.^Posibilidad de recibir daño físico por unidad femenina y aumentar ATQ propio al recibir un ataque físico
@@ -1892,7 +1892,7 @@ MST_ABILITY_SHORTDESCRIPTION_212460^Boost DEF when HP falls below a certain poin
 MST_ABILITY_SHORTDESCRIPTION_212470^Wind damage and reduce lightning resistance for all enemies^對全體敵人發動風屬性攻擊+降低雷屬性耐性^적 전체에 바람속성 피해+번개속성 저항력 감소^Dégâts de vent et réduit la rés. à la foudre de tous les ennemis^Windschaden und reduzierte Blitzresistenz, ein Ziel^Daño de viento y reduce res. al rayo de todos los enemigos
 MST_ABILITY_SHORTDESCRIPTION_212480^Deal partial unmitigated damage to one enemy^對1名敵人發動無視部分防禦的攻擊^적 1명에게 일부 방어 무시 피해^Dégâts en partie fixes sur un ennemi^Fügt einem Gegner teilweise direkten Schaden zu.^Daño absoluto parcial a un enemigo
 MST_ABILITY_SHORTDESCRIPTION_212490^Deal partial unmitigated damage to one enemy^對1名敵人發動無視部分防禦的攻擊^적 1명에게 일부 방어 무시 피해^Dégâts en partie fixes sur un ennemi^Fügt einem Gegner teilweise direkten Schaden zu.^Daño absoluto parcial a un enemigo
-MST_ABILITY_SHORTDESCRIPTION_212500^Wind damage five times to random single enemies^隨機對敵人發動5次風屬性攻擊^무작위로 적에게 5회의 바람속성 피해^Dégâts de vent sur cinq ennemis au hasard^Fügt 5 zuf. Gegnern Windschaden zu.^Daño de viento a cinco enemigos al azar
+MST_ABILITY_SHORTDESCRIPTION_212500^Wind damage five times to random single enemies^隨機對敵人發動5次風屬性攻擊^적에게 무작위로 5회 바람속성 피해^Dégâts de vent sur cinq ennemis au hasard^Fügt 5 zuf. Gegnern Windschaden zu.^Daño de viento a cinco enemigos al azar
 MST_ABILITY_SHORTDESCRIPTION_212510^Boost own ATK and add wind element to physical attack^提高自身的攻擊+將自身的物理攻擊賦予風屬性^자신의 공격력 상승+물리공격에 바람속성 부여^Aug. sa propre ATT et ajoute l'élément vent aux attaques physiques^Erhöht ANG und Windelement für eigenen physischen Angriff.^Aumenta el ATQ y añade elemento viento a ataques físicos propios
 MST_ABILITY_SHORTDESCRIPTION_212520^Boost SPR and wind resistance for all allies^提高全體隊員的精神+提高風屬性耐性^아군 전체의 정신력 상승+바람속성 저항력 상승^Aug. la PSY et la rés. au vent de tous les alliés^PSY und Windres. hoch, alle Verb.^Aumenta el ESP y la res. al viento de todos los aliados
 MST_ABILITY_SHORTDESCRIPTION_212530^Restore HP and cure poison, sleep, paralysis, and disease for one ally^恢復1名隊員的HP並治療中毒睡眠麻痺生病狀態^아군 1명의 HP, 독, 수면, 마비, 질병 회복^Restaure les PV et soigne poi., som., para., et mala. pour un allié^Heilt LP und Gift, Schlaf, Lähmung und Virus bei allen Verbündeten.^Recupera VIT y cura a un aliado ven, sue, par y enf
@@ -1945,7 +1945,7 @@ MST_ABILITY_SHORTDESCRIPTION_212990^Damage one enemy^攻擊1名敵人^적 1명�
 MST_ABILITY_SHORTDESCRIPTION_213000^Deal partial unmitigated ice damage to one enemy^對1名敵人發動冰屬性無視部分防禦的攻擊^적 1명에게 얼음속성 일부 방어 무시 피해^Inflige des dégâts de glace en partie fixes sur un ennemi^Teilweise direkter Eisschaden, ein Ziel.^Daño absoluto parcial de hielo a un enemigo
 MST_ABILITY_SHORTDESCRIPTION_213010^Deal partial unmitigated lightning damage to one enemy^對1名敵人發動雷屬性無視部分防禦的攻擊^적 1명에게 번개속성 일부 방어 무시 피해^Inflige des dégâts de foudre en partie fixes sur un ennemi^Teilweise direkter Blitzschaden, ein Ziel.^Daño absoluto parcial de rayo a un enemigo
 MST_ABILITY_SHORTDESCRIPTION_213020^Lightning damage and chance of confusing all enemies^對全體敵人發動雷屬性攻擊+一定機率施加混亂效果^적 전체에 번개속성 피해+일정 확률로 혼란 부여^Dégâts de foudre et chance de rendre confus tous les ennemis^Blitzschaden und Konfus, alle Gegner.^Daño de rayo y posibilidad de confundir a todos los enemigos
-MST_ABILITY_SHORTDESCRIPTION_213030^Attack four enemies chosen at random^隨機對敵人發動4次攻擊^무작위로 적에게 4회 피해^Dégâts à quatre reprises sur des ennemis au hasard^Fügt zuf. Gegnern viermal Schaden zu.^Daña enemigos al azar cuatro veces
+MST_ABILITY_SHORTDESCRIPTION_213030^Attack four enemies chosen at random^隨機對敵人發動4次攻擊^적에게 무작위로 4회 피해^Dégâts à quatre reprises sur des ennemis au hasard^Fügt zuf. Gegnern viermal Schaden zu.^Daña enemigos al azar cuatro veces
 MST_ABILITY_SHORTDESCRIPTION_213040^Evade physical attacks two times and boost ATK^閃避2次物理攻擊+提高自身的攻擊^자신에게 일부 물리공격 2회 회피 효과 부여+공격력 상승^Permet d'esquiver les attaques à deux reprises er aug. l'ATT^Vermeidet physische Attacken zweimal und erhöht ANG.^Evita ataques físicos dos veces y aumenta el ATQ
 MST_ABILITY_SHORTDESCRIPTION_213050^Damage and reduce DEF for one enemy^攻擊1名敵人+降低防禦^적 1명에게 피해+방어력 감소^Dégâts et réduit la DEF d'un ennemi^Schaden und ABW runter, ein Ziel^Daña y reduce DEF de un enemigo
 MST_ABILITY_SHORTDESCRIPTION_213060^Damage and reduce SPR for one enemy^攻擊1名敵人+降低精神^적 1명에게 피해+정신력 감소^Dégâts et réduit la PSY d'un ennemi^Schaden und PSY runter, ein Ziel^Daña y reduce ESP de un enemigo
@@ -2057,7 +2057,7 @@ MST_ABILITY_SHORTDESCRIPTION_214120^Fire damage all enemies and boost fire resis
 MST_ABILITY_SHORTDESCRIPTION_214130^Ice damage all enemies and boost ice resistance for all allies^對全體敵人發動冰屬性攻擊+提高全體隊員的冰屬性耐性^적 전체에 얼음속성 피해+아군 전체의 얼음속성 저항력 상승^Dégâts de glace sur tous les ennemis et aug. la rés. à la glace de tous les alliés^Eisschaden für alle Gegner und Eisrs. hoch für alle Verb.^Daño de hielo a todos los enemigos y aumenta la res. al hielo de todos los aliados
 MST_ABILITY_SHORTDESCRIPTION_214140^Wind damage all enemies and boost wind resistance for all allies^對全體敵人發動風屬性攻擊+提高全體隊員的風屬性耐性^적 전체에 바람속성 피해+아군 전체의 바람속성 저항력 상승^Dégâts de vent sur tous les ennemis et aug. la rés. au vent de tous les alliés^Windschaden für alle Gegner und Windrs. hoch für alle Verb.^Daño de viento a todos los enemigos y aumenta la res. al viento de todos los aliados
 MST_ABILITY_SHORTDESCRIPTION_214150^Boost resistance to reductions to ATK, DEF, MAG, and SPR for all allies^提高全體隊員降低攻擊防禦魔力精神的耐性^아군 전체의 공격력, 방어력, 마력, 정신력 감소 저항력 상승^Augmente la rés. aux réductions de l'ATT, de la DEF, de la MAGIE et de la PSY de tous les alliés^Erhöht Resistenz gegen Verringerung von ANG, ABW, MAG und PSY, alle Verb.^Aumenta la res. a reducción de ATQ, DEF, MAG y ESP de todos los aliados
-MST_ABILITY_SHORTDESCRIPTION_214160^Boost stop resistance for all allies^提高全體隊員的停止耐性^아군 전체의 스톱 저항력 상승^Augmente la résistance à stop pour tous les alliés^Resistenzstop hoch, alle Ziele^Aumenta la res. a parar de todos los aliados
+MST_ABILITY_SHORTDESCRIPTION_214160^Boost stop resistance for all allies^提高全體隊員的停止耐性^아군 전체의 스톱 저항력 상승^Augmente la résistance à stop pour tous les alliés^Erhöht Stopp-Resistenz aller Verb.^Aumenta la res. a parar de todos los aliados
 MST_ABILITY_SHORTDESCRIPTION_214170^Damage one enemy^攻擊1名敵人^적 1명에게 피해^Dégâts sur un ennemi^Schaden, ein Ziel^Daña a un enemigo
 MST_ABILITY_SHORTDESCRIPTION_214180^Fire damage to one enemy^對1名敵人發動火屬性攻擊^적 1명에게 불속성 피해^Dégâts de feu sur un ennemi^Feuerschaden, ein Ziel^Daño de fuego a un enemigo
 MST_ABILITY_SHORTDESCRIPTION_214190^Ice damage to one enemy^對1名敵人發動冰屬性攻擊^적 1명에게 얼음속성 피해^Dégâts de glace sur un ennemi^Eisschaden, ein Ziel^Daño de hielo a un enemigo
@@ -2154,7 +2154,7 @@ MST_ABILITY_SHORTDESCRIPTION_215090^Remove all status effects and reduce SPR for
 MST_ABILITY_SHORTDESCRIPTION_215100^Chance of countering against all enemies after receiving a physical attack^受到物理攻擊時一定機率對全體敵人進行反擊^물리공격을 받으면 일정 확률로 적 전체에게 반격^Chance de contre-attaque sur tous les ennemis après avoir reçu une att. phy.^Chance, physische Angriffe zu kontern, alle Ziele^Posibilita contraatacar a todos los enemigos al recibir un ataque físico
 MST_ABILITY_SHORTDESCRIPTION_215110^Chance of reducing ice resistance when receiving a physical or magic attack^受到物理、魔法攻擊時一定機率降低敵人冰屬性的耐性^물리, 마법공격을 받으면 일정 확률로 얼음속성 저항력 감소^Chance de réduire la rés. à la glace après avoir reçu une attaque physique ou magique^Chance erhöht, dass bei einem physischen Angriff die Eisresistenz eines Gegners sinkt.^Posibilita reducir res. al hielo al recibir un ataque físico o mágico
 MST_ABILITY_SHORTDESCRIPTION_215120^Chance of countering with a critical hit when receiving a physical attack^受到物理、魔法攻擊時一定機率降低敵人冰屬性耐性的數值^물리공격을 받으면 일정 확률로 크리티컬 반격^Chance de contre-attaquer en coup critique après avoir reçu une att. phy.^Chance, physischen Angriff eines Gegners mit kritischem Treffer zu kontern.^Posibilita contraatacar con un golpe crítico al recibir un ataque físico
-MST_ABILITY_SHORTDESCRIPTION_215130^Nullify paralysis and confusion^受到物理攻擊時一定機率進行暴擊反擊^마비와 혼란 무효^Annule paralysie et confusion^Annuliert Lähmung und Konfus.^Anula parálisis y confusión
+MST_ABILITY_SHORTDESCRIPTION_215130^Nullify paralysis and confusion^麻痺混亂無效^마비와 혼란 무효^Annule paralysie et confusion^Annuliert Lähmung und Konfus.^Anula parálisis y confusión
 MST_ABILITY_SHORTDESCRIPTION_215140^Boost DEF and SPR when equipped with light armor or heavy armor^麻痺混亂無效^경갑과 중갑 장착 시 방어력과 정신력 상승^Aug. DEF/PSY lorsqu'une armure légère ou lourde est équipée^Erhöht ABW u. PSY, wenn mit leichter oder schwerer Rüstung ausgerüstet.^Aumenta DEF y ESP al llevar armadura ligera o pesada
 MST_ABILITY_SHORTDESCRIPTION_215150^LB gauge fills each turn during battle^每回合自動增加極限技槽^매 턴마다 LB 게이지 증가^La jauge de limite se remplit à chaque tour^Limitmeter steigt langsam^La barra de EL se llena en cada turno
 MST_ABILITY_SHORTDESCRIPTION_215160^Chance of escaping death when HP is above a certain point^HP高於一定量時一定機率避免陷入無法戰鬥狀態^HP가 일정량 이상일 때 일정 확률로 전투불능 상태 견딤^Chance d'éviter de tomber KO lorsque les PV sont au-dessus d'un certain seuil^Chance, dem Tod zu entkommen, wenn LP über einem bestimmten Wert sind.^Posibilita evitar caer K.O. si la VIT está sobre cierto punto
@@ -2465,10 +2465,10 @@ MST_ABILITY_SHORTDESCRIPTION_701430^Boost DEF and SPR when equipped with a light
 MST_ABILITY_SHORTDESCRIPTION_701440^Boost DEF and SPR when equipped with a light shield and ATK when equipped with a large sword^提高裝備輕盾時的防禦精神+提高裝備大劍時德的攻擊^가벼운 방패 장착 시 방어력과 정신력 상승+대검 장착 시 공격력 상승^Augmente DEF/PSY lorsqu'un bouclier léger est équipé et ATT lorsqu'une longue épée est équipée^Erhöht ABW u. PSY, wenn mit leichtem Schild ausgerüstet und erhöht ANG, wenn mit Großschwert ausgerüstet.^Aumenta la DEF y ESP al llevar un escudo ligero y el ATQ al llevar una espada larga
 MST_ABILITY_SHORTDESCRIPTION_701450^Restore random amount of MP for all allies^隨機恢復全體隊員的MP^아군 전체의 MP 무작위 회복^Restaure une quantité aléatoire de PM pour tous les alliés^Stellt zuf. MP aller Verbündeten wieder her.^Recupera cantidad al azar de PM a todos los aliados
 MST_ABILITY_SHORTDESCRIPTION_701460^Restore random amount of MP for all allies^隨機恢復全體隊員的MP^아군 전체의 MP 무작위 회복^Restaure une quantité aléatoire de PM pour tous les alliés^Stellt zuf. MP aller Verbündeten wieder her.^Recupera cantidad al azar de PM a todos los aliados
-MST_ABILITY_SHORTDESCRIPTION_701470^Attack five enemies chosen at random^隨機對敵人發動5次攻擊^무작위로 5회 적에게 피해^Attaque aléatoirement les ennemis à cinq reprises^Fügt zuf. Gegnern fünf Mal Schaden zu.^Daña a enemigos al azar cinco veces
-MST_ABILITY_SHORTDESCRIPTION_701480^Attack five enemies chosen at random^隨機對敵人發動5次攻擊^무작위로 5회 적에게 피해^Attaque aléatoirement les ennemis à cinq reprises^Fügt zuf. Gegnern fünf Mal Schaden zu.^Daña a enemigos al azar cinco veces
-MST_ABILITY_SHORTDESCRIPTION_701490^Inflict three times the damage of a normal attack^「普通攻擊」的3倍傷害^일반 공격'의 3배 피해^Inflige 3x plus de dégâts avec une attaque normale^3 x Schaden mit normalen Angriffen^Los ataques normales triplican su daño
-MST_ABILITY_SHORTDESCRIPTION_701500^Inflict three times the damage of a normal attack^「普通攻擊」的3倍傷害^일반 공격'의 3배 피해^Inflige 3x plus de dégâts avec une attaque normale^3 x Schaden mit normalen Angriffen^Los ataques normales triplican su daño
+MST_ABILITY_SHORTDESCRIPTION_701470^Attack five enemies chosen at random^隨機對敵人發動5次攻擊^적에게 무작위로 5회 피해^Attaque aléatoirement les ennemis à cinq reprises^Fügt zuf. Gegnern fünf Mal Schaden zu.^Daña a enemigos al azar cinco veces
+MST_ABILITY_SHORTDESCRIPTION_701480^Attack five enemies chosen at random^隨機對敵人發動5次攻擊^적에게 무작위로 5회 피해^Attaque aléatoirement les ennemis à cinq reprises^Fügt zuf. Gegnern fünf Mal Schaden zu.^Daña a enemigos al azar cinco veces
+MST_ABILITY_SHORTDESCRIPTION_701490^Inflict three times the damage of a normal attack^「普通攻擊」的3倍傷害^'일반 공격'의 3배 피해^Inflige 3x plus de dégâts avec une attaque normale^3 x Schaden mit normalen Angriffen^Los ataques normales triplican su daño
+MST_ABILITY_SHORTDESCRIPTION_701500^Inflict three times the damage of a normal attack^「普通攻擊」的3倍傷害^'일반 공격'의 3배 피해^Inflige 3x plus de dégâts avec une attaque normale^3 x Schaden mit normalen Angriffen^Los ataques normales triplican su daño
 MST_ABILITY_SHORTDESCRIPTION_701510^Boost ATK and ATK reduction resistance for all allies^提高全體隊員的攻擊同時提高降低攻擊的耐性^아군 전체의 공격력과 공격력 감소 저항력 상승^Augmente l'ATT et la résistance à la réduction de l'ATT pour tous les alliés^Erhöht ANG und ANG-Verringerungsresis. für alle Verb.^Aumenta el ATQ y la res. a la reducción de ATQ de todos los aliados
 MST_ABILITY_SHORTDESCRIPTION_701520^Boost ATK and ATK reduction resistance for all allies^提高全體隊員的攻擊同時提高降低攻擊的耐性^아군 전체의 공격력과 공격력 감소 저항력 상승^Augmente l'ATT et la résistance à la réduction de l'ATT pour tous les alliés^Erhöht ANG und ANG-Verringerungsresis. für alle Verb.^Aumenta el ATQ y la res. a la reducción de ATQ de todos los aliados
 MST_ABILITY_SHORTDESCRIPTION_701530^Fire damage to all enemies and restore own HP^對全體敵人發動火屬性攻擊+恢復自身HP^적 전체에 불속성 피해+자신의 HP 회복^Dégâts de feu sur tous les ennemis et restaure les PV du lanceur^Fügt allen Gegnern Schaden zu und erhöht die eigenen LP.^Daño de fuego a todos los enemigos y recupera la VIT propia
@@ -2545,8 +2545,8 @@ MST_ABILITY_SHORTDESCRIPTION_702230^Boost ATK, DEF and SPR when equipped with a 
 MST_ABILITY_SHORTDESCRIPTION_702240^Boost ATK, DEF and SPR when equipped with a sword and boost ATK, DEF and SPR when armed with a one-handed weapon with the other hand empty^提高裝備劍時的攻擊防禦精神+裝備單手武器且另一隻手空著的狀態下提高攻擊防禦精神^검 장착 시 공격력, 방어력, 정신력 상승+한손용 무기를 한손에만 장착 시 공격력, 방어력, 정신력 상승^Augmente ATT/DEF/PSY lorsqu'une épée est équipée et ATT/DEF/PSY lorsqu'une arme à une main est équipée et que l'autre est vide^Erhöht ANG, ABW und PSY, wenn ein Schwert ausgerüstet ist. Erhöht ANG, ABW und PSY, wenn mit einhändiger Waffe ausgerüstet und andere Hand leer.^Aumenta ATQ, DEF y ESP al llevar una espada y aumenta el ATQ, DEF y ESP al tener un arma en una mano y nada en la otra
 MST_ABILITY_SHORTDESCRIPTION_702250^Boost burst stone fill capacity for self and ATK, DEF, and SPR^提高極限技石對自身極限技槽的增加量+提高攻擊防禦精神^자신의 LB 게이지 효율 상승+공격력, 방어력, 정신력 상승^Augmente le taux de remplissage des pierres de limite pour le lanceur et ATT/DEF/PSY^Erhöht den eigenen Effekt von Limitsteinen und ANG, ABW und PSY.^Las piedras de estallido recuperarán más EL y aumenta ATQ, DEF y ESP de quien lo usa
 MST_ABILITY_SHORTDESCRIPTION_702260^Boost burst stone fill capacity for self, ATK, DEF, and SPR, and enable swinging slash and whirlwind slash for three turns^提高極限技石對自身極限技槽的增加量+提高攻擊防禦精神+3回合內可以使用「迴旋斬」「旋風三段斬」「前後逆波斬」^자신의 LB 게이지 효율 상승+공격력, 방어력, 정신력 상승+3턴 동안 특정 어빌리티 사용 가능^Augmente le taux de remplissage des pierres de limite pour le lanceur, ATT/DEF/PSY et permet d'utiliser Entaille oscillante et Entaille tourbillonnante  pendant trois tours^Erhöht den eigenen Effekt von Limitsteinen und ANG, ABW und PSY. Ermöglicht Schwingender Schnitt und Wirbelwindschnitt für drei Runden.^Las piedras de estallido recuperarán más EL, aumenta ATQ, DEF y ESP de quien lo usa y aprende Tajo espiral y Tajo torbellino durante 3 turnos
-MST_ABILITY_SHORTDESCRIPTION_702270^Boost ATK by 10% and resistance to poison, blind, sleep, silence, paralysis, confusion, disease, and stone^提高10%攻擊、中毒失明睡眠沉默麻痺混亂生病石化耐性^공격력 10%, 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 저항력 상승^Augmente l'ATT de 10% et la rés. au poison, à cécité, sommeil, silence, paralysie, confusion, maladie et pétrification^Erhöht ANG um 10% und Resist. gegen Gift, Blenden, Schlaf, Stille, Lähmung, Konfus, Virus und Stein.^Aumenta el ATQ un 10% y la res. al ven, ceg, sue, sil, par, conf, enf y pie
-MST_ABILITY_SHORTDESCRIPTION_702280^Boost ATK by 10% and resistance to poison, blind, sleep, silence, paralysis, confusion, disease, and stone, and restore HP and MP each turn^提高10%攻擊、中毒失明睡眠沉默麻痺混亂生病石化耐性+每回合恢復HP、MP^공격력 10%, 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 저항력 상승+매 턴마다 HP와 MP 회복^Augmente l'ATT de 10%, la rés. au poison, à cécité, sommeil, silence, paralysie, confusion, maladie et pétrification et restaure PV/PM à chaque tour^Erhöht ANG um 10% und Resist. gegen Gift, Blenden, Schlaf, Stille, Lähmung, Konfus, Virus und Stein. Stellt jede Runde LP und MP wieder her.^Aumenta el ATQ un 10% y la res. al ven, ceg, sue, sil, par, con, enf y pie y recupera VIT y PM cada turno
+MST_ABILITY_SHORTDESCRIPTION_702270^Boost ATK by 10% and resistance to poison, blind, sleep, silence, paralysis, confusion, disease, and stone^提高10%攻擊、中毒失明睡眠沉默麻痺混亂生病石化耐性^공격력 10%, 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 저항력 상승^Augmente l'ATT de 10% et la rés. au poison, cécité, sommeil, silence, paralysie, confusion, maladie et pétrification^Erhöht ANG um 10% und Resist. gegen Gift, Blenden, Schlaf, Stille, Lähmung, Konfus, Virus und Stein.^Aumenta el ATQ un 10% y la res. al ven, ceg, sue, sil, par, conf, enf y pie
+MST_ABILITY_SHORTDESCRIPTION_702280^Boost ATK by 10% and resistance to poison, blind, sleep, silence, paralysis, confusion, disease, and stone, and restore HP and MP each turn^提高10%攻擊、中毒失明睡眠沉默麻痺混亂生病石化耐性+每回合恢復HP、MP^공격력 10%, 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 저항력 상승+매 턴마다 HP와 MP 회복^Augmente l'ATT de 10%, la rés. au poison, cécité, sommeil, silence, paralysie, confusion, maladie et pétrification et restaure PV/PM à chaque tour^Erhöht ANG um 10% und Resist. gegen Gift, Blenden, Schlaf, Stille, Lähmung, Konfus, Virus und Stein. Stellt jede Runde LP und MP wieder her.^Aumenta el ATQ un 10% y la res. al ven, ceg, sue, sil, par, con, enf y pie y recupera VIT y PM cada turno
 MST_ABILITY_SHORTDESCRIPTION_702290^LB gauge fills each turn during battle^每回合自動增加極限技槽^매 턴마다 LB 게이지 증가^La jauge de limite se remplit à chaque tour^Limitmeter steigt langsam^La barra de EL se llena en cada turno
 MST_ABILITY_SHORTDESCRIPTION_702300^Boost ATK by 30% and LB gauge fills each turn during battle^提高30%攻擊+戰鬥中每回合自動增加極限技槽^공격력 30% 상승+매 턴마다 LB 게이지 증가^Augmente l'ATT de 30% et la jauge de limite se remplit à chaque tour^Erhöht ANG um 30% und Limitmeter steigt langsam im Kampf.^Aumenta el ATQ un 30% y la barra de EL se llena en cada turno
 MST_ABILITY_SHORTDESCRIPTION_702310^Revive one ally from being KO'd^使1名隊員從無法戰鬥狀態中復活^아군 1명의 전투불능 상태 회복^Ranime un allié KO^Belebt einen kampfunfähigen Verbündeten^Resucita a un aliado K.O.
@@ -2585,7 +2585,7 @@ MST_ABILITY_SHORTDESCRIPTION_702630^Regenerate HP and MP for all allies^持續�
 MST_ABILITY_SHORTDESCRIPTION_702640^Regenerate HP and MP for all allies^持續恢復全體隊員的HPMP^아군 전체의 HP와 MP 서서히 회복^Régénère les PV et les PM de tous les alliés^Stellt LP und MP aller Verbündeten wieder her.^Recupera VIT y PM de todos los aliados
 MST_ABILITY_SHORTDESCRIPTION_702650^Consume caster's HP to gradually regenerate MP for all allies^消耗自身HP持續恢復全體隊員的MP^자신의 HP를 소모하여 아군 전체의 MP를 서서히 회복^Consume les PV du lanceur pour restaurer progressivement les PM de tous les alliés^Verbraucht eigene LP, um MP aller Verb. aufzufüllen^Consume VIT propia para regenerar los PM de todos los aliados poco a poco
 MST_ABILITY_SHORTDESCRIPTION_702660^Consume caster's HP to gradually regenerate MP for all allies^消耗自身HP持續恢復全體隊員的MP^자신의 HP를 소모하여 아군 전체의 MP를 서서히 회복^Consume les PV du lanceur pour restaurer progressivement les PM de tous les alliés^Verbraucht eigene LP, um MP aller Verb. aufzufüllen^Consume VIT propia para regenerar los PM de todos los aliados poco a poco
-MST_ABILITY_SHORTDESCRIPTION_702670^Attack five enemies chosen at random^隨機對敵人發動5次攻擊^무작위로 5회 적에게 피해^Attaque aléatoirement les ennemis à cinq reprises^Fügt zuf. Gegnern fünf Mal Schaden zu.^Daña enemigos al azar cinco veces
+MST_ABILITY_SHORTDESCRIPTION_702670^Attack five enemies chosen at random^隨機對敵人發動5次攻擊^적에게 무작위로 5회 피해^Attaque aléatoirement les ennemis à cinq reprises^Fügt zuf. Gegnern fünf Mal Schaden zu.^Daña enemigos al azar cinco veces
 MST_ABILITY_SHORTDESCRIPTION_702680^Damage one enemy^攻擊1名敵人^적 1명에게 피해^Dégâts sur un ennemi^Schaden, ein Ziel^Daña a un enemigo
 MST_ABILITY_SHORTDESCRIPTION_702690^Boost ATK, DEF, and SPR when HP falls below a certain point^HP降低到一定數值以下時提高攻擊防禦精神^HP가 일정량 이하일 때 공격력, 방어력, 정신력 상승^Augmente ATT/DEF/PSY lorsque les PV descendent en dessous d'un certain seuil^ANG, ABW und PSY steigen, wenn die LP unter einen bestimmten Wert fallen.^Aumenta ATQ, DEF y ESP cuando la VIT baja a cierto nivel
 MST_ABILITY_SHORTDESCRIPTION_702700^Boost ATK, DEF, and SPR when HP falls below a certain point^HP降低到一定數值以下時提高攻擊防禦精神^HP가 일정량 이하일 때 공격력, 방어력, 정신력 상승^Augmente ATT/DEF/PSY lorsque les PV descendent en dessous d'un certain seuil^ANG, ABW und PSY steigen, wenn die LP unter einen bestimmten Wert fallen.^Aumenta ATQ, DEF y ESP cuando la VIT baja a cierto nivel
@@ -2715,7 +2715,7 @@ MST_ABILITY_SHORTDESCRIPTION_910196^Enable unit to wield two short swords^可以
 MST_ABILITY_SHORTDESCRIPTION_910197^Deal magical damage and power up^發動魔法攻擊+提升威力^마법 피해+위력 상승^Inflige des dégâts magiques et bonus de force^Verursacht Magieschaden und Stärkung^Inflige daño mágico y aumenta la potencia
 MST_ABILITY_SHORTDESCRIPTION_910198^Cast auto-regen and boost MAG^自動再生+提高魔力^매 턴마다 HP 회복+마력 상승^Lance Auto-récup et augmente la MAGIE^Auto-Regena im Kampf und erhöht MAG^Otorga AutoRevitalia y aumenta la MAG
 MST_ABILITY_SHORTDESCRIPTION_910199^Boost ATK and HP^提高攻擊、HP^공격력과 HP 상승^Augmente l'ATT et les PV^Erhöht ANG und LP^Aumenta el ATQ y la VIT
-MST_ABILITY_SHORTDESCRIPTION_910200^Boost ATK and poison resistance^提高攻擊、中毒耐性^공격력과 독 저항력 상승^Augmente l'ATT et la résistance au poison^Erhöht ANG und Giftresistenz^Aumenta el ATQ y anula el veneno
+MST_ABILITY_SHORTDESCRIPTION_910200^Boost ATK and poison resistance^提高攻擊、中毒耐性^공격력과 독 저항력 상승^Augmente l'ATT et la résistance au poison^Erhöht ANG und Giftresistenz^Aumenta el ATQ y la res. al veneno
 MST_ABILITY_SHORTDESCRIPTION_910235^Boost ATK and MAG and LB gauge fill rate for all allies^提高全體隊員攻擊、魔力、極限技槽的積累速度^공격력과 마력 상승+아군 전체의 LB 게이지 효율 상승^Augmente ATT/MAGIE et le taux de remplissage de la jauge de limite de tous les alliés^Erhöht ANG, MAG und Limitmeterfüllrate für alle Verb.^Aumenta ATQ/MAG de aliados y su barra de EL se llena más rápido
 MST_ABILITY_SHORTDESCRIPTION_910236^Boost resistance against all status ailments and LB gauge fills each turn^提高全異常狀態耐性+每回合自動增加極限技槽^모든 상태이상 저항력 상승+매 턴마다 LB 게이지 증가^Augmente la résistance contre toutes les altérations d'état et augmente la vitesse de remplissage de la jauge de limite à chaque tour^Res. hoch gegen alle Zustände und Limitmeter steigt im Kampf jede Runde.^Aumenta la res. a estados alterados y la barra de EL  se llena cada turno
 MST_ABILITY_SHORTDESCRIPTION_216910^Restore HP for user^恢復自身HP^자신의 HP 회복^Restaure les PV du lanceur^Heilt eigene LP.^Recupera VIT propia
@@ -3234,7 +3234,7 @@ MST_ABILITY_SHORTDESCRIPTION_503630^Fire damage and reduce fire resistance for o
 MST_ABILITY_SHORTDESCRIPTION_503640^Boost wind resistance by 50%, chance of dodging physical attacks, can dodge one physical attack at the start of battle, and chance of reducing wind resistance when receiving a physical attack^提高50%風屬性耐性+一定機率閃避物理攻擊+戰鬥開始時賦予閃避1次部分物理攻擊的效果+受到物理攻擊時一定機率降低風屬性耐性^바람속성 저항력 50% 상승+일정 확률로 일부 물리공격 회피+전투가 시작되면 물리공격을 1회 회피하는 효과 부여+물리공격을 받으면 일정 확률로 바람속성 저항력 감소^Augmente la rés. au vent de 50%, chance d'éviter des attaques physiques, peut éviter une attaque physique au début du combat, et chance de réduire la rés. au vent après avoir reçu une attaque physique^Erhöht Windres. um 50%, Chance auf Ausweichen vor physischen Angriffen und weicht einmal physischem Angriff zu Kampfbeginn aus, Chance auf Verr. von Windresist. bei physischem Angriff.^Aumenta la res. al viento un 50%, posibilidad de esquivar ataques físicos, puede esquivar un ataque físico al comienzo del combate, posibilidad de reducir res. al viento tras recibir un ataque físico
 MST_ABILITY_SHORTDESCRIPTION_503650^Boost wind resistance by 50%, chance of dodging physical attacks, can dodge one physical attack at the start of battle, and chance of reducing wind resistance when receiving a physical attack^提高50%風屬性耐性+一定機率閃避物理攻擊+戰鬥開始時賦予閃避1次部分物理攻擊的效果+受到物理攻擊時一定機率降低風屬性耐性^바람속성 저항력 50%상승+일정 확률로 일부 물리공격 회피+전투가 시작되면 물리공격을 1회 회피하는 효과 부여+물리공격을 받으면 일정 확률로 바람속성 저항력 감소^Augmente la rés. au vent de 50%, chance d'éviter des attaques physiques, peut éviter une attaque physique au début du combat, et chance de réduire la rés. au vent après avoir reçu une attaque physique^Erhöht Windres. um 50%, Chance auf Ausweichen vor physischen Angriffen und weicht einmal physischem Angriff zu Kampfbeginn aus, Chance auf Verr. von Windresist. bei physischem Angriff.^Aumenta la res. al viento un 50%, posibilidad de esquivar ataques físicos, puede esquivar un ataque físico al comienzo del combate, posibilidad de reducir res. al viento tras recibir un ataque físico
 MST_ABILITY_SHORTDESCRIPTION_503660^Chance of instantly KO'ing one enemy or deal partial unmitigated damage to one enemy^對1名敵人施加致死一擊效果或發動無視部分防禦的攻擊^적 1명에게 일정 확률로 즉사 부여 또는 일부 방어 무시 피해^Chance de mettre instantanément KO un ennemi ou d'infliger des dégâts en partie fixes à un ennemi^Chance, einen Gegner sofort auszuschalten oder teilweisen direkten Schaden für einen Gegner.^Puede dejar K.O. al instante o infligirle daño absoluto parcial a un enemigo
-MST_ABILITY_SHORTDESCRIPTION_503670^Cure and boost resistance to poison, blind, sleep, silence, paralysis, confusion, disease, and stone for all allies^治療全體隊員的中毒失明睡眠沉默麻痺混亂生病石化狀態+提高異常狀態耐性^아군 전체에 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 회복+독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 저항력 상승^Soigne et augmente la résistance au poison, à cécité, sommeil, silence, paralysie, confusion, maladie et pétrification de tous les alliés^Heilung und erhöhte Resistenz gegen Gift/Blenden/Schlaf/ Stille/Lähmung/Konfus/Virus und Stein, alle Verb.^Cura y aumenta la res. al ven, ceg, sue, sil, par, con, enf y pie de todos los aliados
+MST_ABILITY_SHORTDESCRIPTION_503670^Cure and boost resistance to poison, blind, sleep, silence, paralysis, confusion, disease, and stone for all allies^治療全體隊員的中毒失明睡眠沉默麻痺混亂生病石化狀態+提高異常狀態耐性^아군 전체에 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 회복+독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 저항력 상승^Soigne et augmente la résistance au poison, cécité, sommeil, silence, paralysie, confusion, maladie et pétrification de tous les alliés^Heilung und erhöhte Resistenz gegen Gift/Blenden/Schlaf/ Stille/Lähmung/Konfus/Virus und Stein, alle Verb.^Cura y aumenta la res. al ven, ceg, sue, sil, par, con, enf y pie de todos los aliados
 MST_ABILITY_SHORTDESCRIPTION_503680^Remove ATK, DEF, MAG, and SPR reductions for one ally^解除1名隊員降低攻擊防禦魔力精神的效果^아군 1명의 공격력, 방어력, 마력, 정신력 감소 효과를 해제^Retire la réduction de l'ATT, la DEF, La MAGIE et la PSY d'un allié^Entfernt Verringerung für ANG, ABW, MAG und PSY für einen Verb.^Elimina las reducciones de ATQ, DEF, MAG y ESP de un aliado
 MST_ABILITY_SHORTDESCRIPTION_503690^Boost ATK and MAG for all allies and enable berserker serum, blockade serum, and resist down for one turn^提高全體隊員的攻擊魔力+僅限1回合內可以使用「猛攻突擊藥」「鐵壁強壯藥」「全屬性弱化藥」^아군 전체의 공격력과 마력 상승+1턴에 한해 '광전사 세럼', '철벽강장제', '모든 속성 약화 세럼' 사용 가능^Augmente l'ATT et la MAGIE pour tous les alliés et permet d'utiliser Sérum de berserker, Sérum de tank et Réducteur de résistance pendant un tour^Erhöht ANG und MAG für alle Verbündeten und ermöglicht Berserker-Serum, Blockade-Serum und Resistenzausfall für eine Runde.^Aumenta ATQ y MAG de todos los aliados, aprende Suero de berserker, Suero de tanque y Antiresistencias durante un turno
 MST_ABILITY_SHORTDESCRIPTION_503700^Boost DEF and SPR for all allies and enable berserker serum, blockade serum, and resist down for one turn^提高全體隊員的防禦精神+僅限1回合內可以使用「猛攻突擊藥」「鐵壁強壯藥」「全屬性弱化藥」^아군 전체의 방어력과 정신력 상승+1턴에 한해 '광전사 세럼', '철벽강장제', '모든 속성 약화 세럼' 사용 가능^Augmente la DEF et la PSY pour tous les alliés et permet d'utiliser Sérum de berserker, Sérum de tank et Réducteur de résistance pendant un tour^Erhöht ABW und PSY für alle Verbündeten und ermöglicht Berserker-Serum, Blockade-Serum und Resistenzausfall für eine Runde.^Aumenta DEF y ESP de todos los aliados, aprende Suero de berserker, Suero de tanque y Antiresistencias durante un turno
@@ -3250,7 +3250,7 @@ MST_ABILITY_SHORTDESCRIPTION_503790^Reduce fire, ice, lightning, water, wind, ea
 MST_ABILITY_SHORTDESCRIPTION_503800^Boost ATK and MAG for all allies^提高全體隊員的攻擊魔力^아군 전체의 공격력과 마력 상승^Augmente l'ATT et la MAGIE de tous les alliés^ANG und MAG hoch, alle Verb.^Aumenta ATQ y MAG de todos los aliados
 MST_ABILITY_SHORTDESCRIPTION_503810^Boost DEF and SPR for all allies^提高全體隊員的防禦精神^아군 전체의 방어력과 정신력 상승^Augmente la DEF et la PSY de tous les alliés^PSY und ABW hoch, alle Ziele^Aumenta DEF y ESP de todos los aliados
 MST_ABILITY_SHORTDESCRIPTION_503820^Reduce fire, ice, lightning, water, wind, earth, light, and dark resistance for all enemies^降低全體敵人的火冰雷水風土光暗屬性耐性^적 전체의 불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 감소^Réduit la résistance à feu, glace, foudre, eau, vent, terre, lumière et ténèbres pour tous les ennemis^Verringert Feuer-, Eis-, Blitz, Wasser-, Wind-, Erd-, Licht- und Dunkelresistenz aller Gegner.^Reduce la resistencia al fuego, hielo, rayo, agua, viento, tierra, luz y oscuridad de todos los enemigos
-MST_ABILITY_SHORTDESCRIPTION_503830^Cure and boost resistance to poison, blind, sleep, silence, paralysis, confusion, disease, and stone for all allies^治療全體隊員的中毒失明睡眠沉默麻痺混亂生病石化狀態+提高異常狀態耐性^아군 전체에 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 회복+독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 저항력 상승^Soigne et augmente la résistance au poison, à cécité, sommeil, silence, paralysie, confusion, maladie et pétrification de tous les alliés^Heilung und erhöhte Resistenz gegen Gift/Blenden/Schlaf/ Stille/Lähmung/Konfus/Virus und Stein, alle Verb.^Cura y aumenta la res. al ven, ceg, sue, sil, par, con, enf y pie de todos los aliados
+MST_ABILITY_SHORTDESCRIPTION_503830^Cure and boost resistance to poison, blind, sleep, silence, paralysis, confusion, disease, and stone for all allies^治療全體隊員的中毒失明睡眠沉默麻痺混亂生病石化狀態+提高異常狀態耐性^아군 전체에 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 회복+독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 저항력 상승^Soigne et augmente la résistance au poison, cécité, sommeil, silence, paralysie, confusion, maladie et pétrification de tous les alliés^Heilung und erhöhte Resistenz gegen Gift/Blenden/Schlaf/ Stille/Lähmung/Konfus/Virus und Stein, alle Verb.^Cura y aumenta la res. al ven, ceg, sue, sil, par, con, enf y pie de todos los aliados
 MST_ABILITY_SHORTDESCRIPTION_503840^Randomly restores HP for all allies^隨機恢復全體隊員的HP^아군 전체의 HP 무작위 회복^Restaure aléatoirement les PV de tous les alliés^Heilt zufällig LP bei allen Verbündeten.^Recupera VIT al azar de todos los aliados
 MST_ABILITY_SHORTDESCRIPTION_503850^Randomly restores HP for all allies^隨機恢復全體隊員的HP^아군 전체의 HP 무작위 회복^Restaure aléatoirement les PV de tous les alliés^Heilt zufällig LP bei allen Verbündeten.^Recupera VIT al azar de todos los aliados
 MST_ABILITY_SHORTDESCRIPTION_503860^Randomly restores HP for all allies^隨機恢復全體隊員的HP^아군 전체의 HP 무작위 회복^Restaure aléatoirement les PV de tous les alliés^Heilt zufällig LP bei allen Verbündeten.^Recupera VIT al azar de todos los aliados
@@ -3482,7 +3482,7 @@ MST_ABILITY_SHORTDESCRIPTION_910259^Deal damage partially unaffected by DEF and 
 MST_ABILITY_SHORTDESCRIPTION_910260^Inflict berserk on any ally except self for 3 turns^3回合內除自身以外對1名隊員造成狂暴狀態^3턴 동안 자신을 제외한 아군 1명에게 광폭화 부여^Inflige furie à un allié autre que le lanceur pendant trois tours^Versetzt Verbündeten 3 Runden in Berserkerwut.^Inflige locura en un aliado durante 3 turnos
 MST_ABILITY_SHORTDESCRIPTION_910261^Boost the healing amount of items used in battle^提高恢復系道具的效果^전투 중에만 회복 아이템 회복량 상승^Augmente la puissance de soin des objets en combat^Erhöht die Wirksamkeit von Heilgegenständen im Kampf^Aumenta el núm. de objetos curativos a usar en combate
 MST_ABILITY_SHORTDESCRIPTION_910262^Chance of countering physical and magic attacks^受到物理、魔法攻擊時一定機率進行反擊^물리, 마법공격을 받으면 일정 확률로 카운터^Chance de contre-attaquer après avoir reçu une attaque physique ou magique^Chance auf Konter bei physischem oder magischem Angriff.^Posibilita devolver ataques físicos y mágicos
-MST_ABILITY_SHORTDESCRIPTION_910263^Boost ATK by 30% when equipped with a sword or large sword, and MAG by 30% when equipped with a katana, hammer, or spear^提高30%裝備劍大劍時的攻擊+提高30%裝備刀鎚子長槍時的魔力^검과 대검 장착 시 공격력 30% 상승+도, 망치, 창 장착 시 마력 30% 상승^Aug. l'ATT quand une épée ou une épée longue est équipée et la MAGIE lorsqu'un katana, un marteau ou une lance est équipé^Erhöht ANG um 30%, wenn mit Schwert oder Großschwert ausger. und MAG um 30%, wenn mit Katana, Hammer oder Speer.^Aumenta ATQ un 30% al llevar espada y MAG un 30% al llevar katana, martillo o lanza
+MST_ABILITY_SHORTDESCRIPTION_910263^Boost ATK by 30% when equipped with a sword or large sword, and MAG by 30% when equipped with a katana, hammer, or spear^提高30%裝備劍大劍時的攻擊+提高30%裝備刀鎚子長槍時的魔力^검과 대검 장착 시 공격력 30% 상승+도, 망치, 창 장착 시 마력 30% 상승^Aug. l'ATT quand une épée ou une épée longue est équipée et la MAGIE lorsqu'un katana, un marteau ou une lance est équipé^Erhöht ANG um 30%, wenn mit Schwert oder Großschwert ausger. und MAG um 30%, wenn mit Katana, Hammer oder Speer.^Aumenta ATQ un 30% al llevar espada o espada grande y MAG un 30% al llevar katana, martillo o lanza
 MST_ABILITY_SHORTDESCRIPTION_910264^Deal damage partially unaffected by DEF and reduces light resistance for one enemy for 3 turns^對1名敵人發動無視部分防禦的物理攻擊+3回合內降低對方的光屬性耐性^적 1명에게 빛속성 일부 방어 무시 피해+3턴 동안 빛속성 저항력 감소^Inflige des dégâts en partie fixes de lumière et réduit la rés. à la lumière d'un ennemi^Fügt einem Gegner teilweise direkten Lichschaden zu und reduziert Lichtresistenz 3 Runden für einen Gegner.^Inflige daño absoluto parcial y reduce la res. a la luz de un enemigo durante 3 turnos
 MST_ABILITY_SHORTDESCRIPTION_910265^Deal light magic damage partially unaffected by SPR to all enemies and reduces damage taken by all allies for 2 turns^對全體敵人發動無視部分精神的光屬性魔法攻擊+2回合內減少對全體隊員的傷害^적 전체에 빛속성 일부 마법 방어 무시 피해+ 2턴 동안 아군 전체가 받는 피해량 감소^Inflige des dégâts de lumière ignorant en partie la PSY à tous les ennemis, et réduit les dégâts reçus par tous les alliés pendant deux tours^Fügt allen Gegnern teilweise Lichtschaden zu, der PSY umgeht, und reduziert für 2 Runden den Schaden, den die Verbündeten erleiden.^Daño absoluto parcial mágico de luz a todos los enemigos y reduce el daño que reciben los aliados durante 2 turnos
 MST_ABILITY_SHORTDESCRIPTION_910266^Boosts blind, paralysis, confusion, and disease resistance.^提高對失明麻痺混亂生病的耐性^암흑, 마비, 혼란, 질병 저항력 상승^Annule céc., para., conf. et mala.^Erhöht Resist. gegen Blenden, Lähmung, Konfus und Virus.^Aumenta la res. a ceg, par, con y enf
@@ -3681,7 +3681,7 @@ MST_ABILITY_SHORTDESCRIPTION_910453^Boost DEF by 30%, HP by 20% and nullify pois
 MST_ABILITY_SHORTDESCRIPTION_910454^Boost DEF and HP by 50% and nullify poison and paralysis^提高50%HP、防禦+中毒麻痺無效^방어력과 HP 50% 상승 + 독과 마비 무효화^Augmente la DEF et les PV de 50% et annule poison et paralysie ^Erhöht ABW und LP um 50%, annulliert Gift sowie Lähmung. ^Aumenta DEF y VIT un 50%, y anula ven y par
 MST_ABILITY_SHORTDESCRIPTION_910456^Chance of guarding a female ally^一定機率袒護我方女性兵員^일정 확률로 아군 여성 유닛 감싸기^Chance de protéger une alliée^Chance, Schaden anstatt eines weibl. Verb. zu nehmen^Posibilita proteger a una aliada
 MST_ABILITY_SHORTDESCRIPTION_910457^Can escape most enemies^從戰鬥中逃脫（部份敵人除外）^일부 적을 제외하고 반드시 도주 가능^Peut fuir la plupart des ennemis^Kann den meisten Gegnern entkommen^Escapa de la mayoría de enemigos
-MST_ABILITY_SHORTDESCRIPTION_910458^Boost gil obtained by defeating enemies^提高獲得ＧＩＬ的量^획득하는 길 증가^Augmente le nombre de gils obtenus^Mehr Gil von besiegten Gegnern erhalten.^Aumenta los guiles obtenidos
+MST_ABILITY_SHORTDESCRIPTION_910458^Boost gil obtained by defeating enemies^提高獲得ＧＩＬ的量^획득하는 길 증가^Augmente le nombre de gils obtenus^Mehr Gil von besiegten Gegnern erhalten.^Aumenta la cantidad de guiles obtenida al derrotar enemigos
 MST_ABILITY_SHORTDESCRIPTION_910459^Boost HP and SPR by 20% and nullify poison and disease^提高20%HP精神+中毒生病無效^HP와 정신력 20% 상승+독과 질병 무효화^Augmente les PV et la PSY de 20% et annule poi. et mala.^Erhöht LP und PSY um 20%, annulliert Gift und Virus.^Aumenta la VIT y el ESP un 20% y anula veneno y enfermedad
 MST_ABILITY_SHORTDESCRIPTION_910460^Boost ATK by 30% and nullify stone^提高30%攻擊+石化無效^공격력 30% 상승+석화 무효화^Augmente l'ATT de 30% et annule pétri.^Erhöht ANG um 30% und annulliert Stein.^Aumenta el ATQ un 30% y anula piedra
 MST_ABILITY_SHORTDESCRIPTION_910461^Chance of escaping death when HP is above a certain point^HP高於一定量時一定機率避免陷入無法戰鬥狀態^HP가 일정량 이상일 때 일정 확률로 전투불능 상태 견딤^Chance d'éviter de tomber KO lorsque les PV sont au-dessus d'un certain seuil^Chance, dem Tod zu entkommen, wenn LP über einem bestimmten Wert.^Posibilita evitar caer K.O. si la VIT está sobre cierto punto
@@ -3960,7 +3960,7 @@ MST_ABILITY_SHORTDESCRIPTION_221520^Revive one ally from being KO'd^使1名隊�
 MST_ABILITY_SHORTDESCRIPTION_221530^Enable double ability - Iris for four turns and reduce damage taken by self for one turn^4回合內可以使用「W能力・伊莉絲」+1回合內減少對發動者的傷害^4턴 동안 'W어빌리티·아이리스' 사용 가능+자신이 받는 피해량 1턴 동안 감소^Active Double aptitude - Iris pendant quatre tours et réduit les dégâts subis par le lanceur pendant un tour^Ermöglicht für vier Runden Doppelfähigkeit - Iris und reduziert eine Runde lang selbst erhaltenen Schaden.^Aprende Habilidad doble - Iris durante 4 turnos y reduce el daño que recibe el usuario durante un turno
 MST_ABILITY_SHORTDESCRIPTION_221540^Boost critical hit rate^提高暴擊率^치명타 발생률 상승^Augmente le taux de coups critiques^Erhöht Wahrscheinlichkeit krit. Treffer.^Aumenta la probabilidad de crítico
 MST_ABILITY_SHORTDESCRIPTION_221550^Boost HP by 30% and boost own burst stone fill rate at the beginning of battle or after being revived^提高30%HP+戰鬥開始時和從無法戰鬥狀態中復活時提高極限技石對自身極限技槽的增加量^HP 30% 상승+전투 시작 시 및 전투불능 상태에서 회복했을 때 자신의 LB 게이지 효율 상승^Augmente les PV de 30 % et les pierres de limite remplissent plus vite la jauge du lanceur au début du combat ou après avoir ressucité.^Erhöht LP um 30% und erhöht eigenen Effekt von Limitsteinen zu Beginn eines Kampfes oder nach Wiederbelebung.^Aumenta la VIT un 30% y las piedras de estallido del usuario recuperan más EL al principio del combate o tras ser revivido
-MST_ABILITY_SHORTDESCRIPTION_221560^Boost HP and DEF when equipped with heavy armor^提高裝備重鎧甲時HP防禦的數值^중갑 장착 시 HP와 방어력 상승^Augmente les PV et la DEF lorsqu'une armure lourde est équipée^Erhöht LP und ABW, wenn mit schwerer Ausrüstung ausgerüstet.^Aumenta VIT y DEF al llevar armadura P
+MST_ABILITY_SHORTDESCRIPTION_221560^Boost HP and DEF when equipped with heavy armor^提高裝備重鎧甲時HP防禦的數值^중갑 장착 시 HP와 방어력 상승^Augmente les PV et la DEF lorsqu'une armure lourde est équipée^Erhöht LP und ABW, wenn mit schwerer Ausrüstung ausgerüstet.^Aumenta la VIT y DEF al llevar una armadura pesada
 MST_ABILITY_SHORTDESCRIPTION_221570^Boost DEF, SPR, and fire, ice, lightning, water, wind, earth, light, and dark resistance for all allies^提高全體隊員的防禦精神、火冰雷水風土光暗屬性耐性^아군 전체의 방어력과 정신력 상승+불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 상승^Augmente DEF et PSY et la rés. à feu, glace, foudre, eau, vent, terre, lumière et ténèbres de tous les alliés^Erhöht ABW/PSY und Feuer-, Eis-, Blitz-, Wasser-, Wind-, Erd-, Licht- und Dunkelresistenz für alle Verb.^Aumenta DEF, ESP y la res. al fuego, hielo, rayo, agua, viento, tierra, luz y oscuridad de todos los aliados
 MST_ABILITY_SHORTDESCRIPTION_221580^Boost ATK by 10% and physical damage against spirit monsters^提高10%攻擊+物理攻擊時提高對精靈系魔物的傷害^공격력 10% 상승+물리공격 시 정령형 마물에게 주는 피해량 상승^Augmente l'ATT de 10 % et les dégâts physiques contre les morts-vivants^Erhöht ANG um 10% und phys. Schaden gegen Feen.^Aumenta el ATQ un 10% y el daño físico contra espíritus
 MST_ABILITY_SHORTDESCRIPTION_221590^Boost MAG by 10% and magic damage against spirit monsters^提高10%魔力+魔法攻擊時提高對精靈系魔物的傷害^마력 10% 상승+마법공격 시 정령형 마물에게 주는 피해량 상승^Augmente la MAGIE de 10 % et les dégâts magiques contre les esprits^Erhöht MAG um 10% und mag. Schaden gegen Feen.^Aumenta la MAG un 10% y el daño mágico contra espíritus
@@ -4807,11 +4807,11 @@ MST_ABILITY_SHORTDESCRIPTION_705300^Deal partial unmitigated damage and reduce l
 MST_ABILITY_SHORTDESCRIPTION_705310^Boost MP, ATK, and MAG when equipped with a sword^提高裝備劍時的MP攻擊魔力^검 장착 시 MP, 공격력, 마력 상승^Augmente les PM, l'ATT et la MAGIE quand une épée est équipée^Erhöht MP, ANG und MAG, wenn mit Schwert ausgerüstet.^Aumenta PM, ATQ y MAG al llevar espada
 MST_ABILITY_SHORTDESCRIPTION_705320^Boost HP, MP, ATK, and MAG when equipped with a sword^提高裝備劍時的HPMP攻擊魔力^검 장착 시 HP, MP, 공격력, 마력 상승^Augmente les PV, PM, l'ATT et la MAGIE quand une épée est équipée^Erhöht MP, ANG und MAG, wenn mit Schwert ausgerüstet.^Aumenta VIT, PM, ATQ y MAG al llevar espada
 MST_ABILITY_SHORTDESCRIPTION_705330^Deal partial unmitigated magic damage to all enemies and restore HP for all allies^對全體敵人發動無視部分魔法防禦的傷害+恢復全體隊員的HP^적 전체에 일부 마법 방어 무시 피해+아군 전체의 HP 회복^Dégâts magiques en partie fixes à tous les ennemis et restaure les PV de tous les alliés^Fügt allen Gegnern teilweise direkten mag. Schaden zu und regeneriert LP aller Verb.^Daño absoluto parcial mágico a todos los enemigos y recupera la VIT de todos los aliados
-MST_ABILITY_SHORTDESCRIPTION_705340^Deal partial unmitigated magic damage and reduce light resistance for all enemies, and restore HP for all allies^對全體敵人發動無視部分魔法防禦的傷害+降低光屬性耐性+恢復全體隊員的HP^적 전체에 일부 마법 방어 무시 피해+빛속성 저항력 감소+아군 전체의 HP 회복^Dégâts magiques en partie fixes et réduit la résistance à la lumière de tous les ennemis et restaure les PV de tous les alliés^Fügt allen Gegnern teilweise direkten mag. Schaden zu und regeneriert LP aller Verb.^Daño absoluto parcial mágico a todos los enemigos, reduce la res. a la luz de todos los enemigos y recupera la VIT de todos los aliados
+MST_ABILITY_SHORTDESCRIPTION_705340^Deal partial unmitigated magic damage to all enemies and restore HP for all allies^對全體敵人發動無視部分魔法防禦的傷害+恢復全體隊員的HP^적 전체에 일부 마법 방어 무시 피해+아군 전체의 HP 회복^Dégâts magiques en partie fixes à tous les ennemis et restaure les PV de tous les alliés^Fügt allen Gegnern teilweise direkten mag. Schaden zu und regeneriert LP aller Verb.^Daño absoluto parcial mágico a todos los enemigos y recupera la VIT de todos los aliados
 MST_ABILITY_SHORTDESCRIPTION_705350^Boost DEF and SPR when equipped with heavy armor^提高裝備重鎧甲時的防禦精神^중갑 장착 시 방어력과 정신력 상승^Augmente la DEF et la PSY lorsqu'une armure lourde est équipée^Erhöht ABW und PSY, wenn mit schwerer Rüstung ausgerüstet.^Aumenta DEF y ESP al llevar armadura pesada
-MST_ABILITY_SHORTDESCRIPTION_705360^Boost HP, DEF, and SPR when equipped with heavy armor^提高裝備重鎧甲時的HP防禦精神^중갑 장착 시 HP, 방어력, 정신력 상승^Augmente les PV, la DEF et la PSY lorsqu'une armure lourde est équipée^Erhöht ABW und PSY, wenn mit schwerer Rüstung ausgerüstet.^Aumenta VIT, DEF y ESP al llevar armadura P
+MST_ABILITY_SHORTDESCRIPTION_705360^Boost HP, DEF, and SPR when equipped with light armor or heavy armor^提高裝備重鎧甲時的HP防禦精神^중갑 장착 시 HP, 방어력, 정신력 상승^Augmente les PV, la DEF et la PSY lorsqu'une armure lourde est équipée^Erhöht ABW und PSY, wenn mit schwerer Rüstung ausgerüstet.^Aumenta VIT, DEF y ESP al llevar armadura P
 MST_ABILITY_SHORTDESCRIPTION_705370^Chance of guarding allies against physical damage^暫時性有一定機率以「防禦」狀態代替隊員承受物理攻擊^일정 확률로 물리공격을 '방어' 상태로 대신 받음^Chance de prendre des dégâts physiques en état de garde à la place des alliés^Chance, Verb. gegen phys. Schaden zu verteidigen.^Posibilita proteger a un aliado aleatorio contra daño físico en guardia
-MST_ABILITY_SHORTDESCRIPTION_705380^Chance of guarding allies against physical damage^暫時性有一定機率以「防禦」狀態代替隊員承受物理攻擊^일정 확률로 물리공격을 '방어' 상태로 대신 받음^Chance de prendre des dégâts physiques en état de garde à la place des alliés^Chance, Verb. gegen phys. Schaden zu verteidigen.^Posibilita proteger a un aliado aleatorio contra daño físico en guardia
+MST_ABILITY_SHORTDESCRIPTION_705380^Boost DEF and SPR for caster, and chance of temporarily guarding allies against physical damage^暫時性有一定機率以「防禦」狀態代替隊員承受物理攻擊^일정 확률로 물리공격을 '방어' 상태로 대신 받음^Chance de prendre des dégâts physiques en état de garde à la place des alliés^Chance, Verb. gegen phys. Schaden zu verteidigen.^Posibilita proteger a un aliado aleatorio contra daño físico en guardia
 MST_ABILITY_SHORTDESCRIPTION_705390^Boost light resistance for all allies^提高全體隊員的光屬性耐性^아군 전체의 빛속성 저항력 상승^Augmente la résistance à la lumière de tous les alliés^Erhöht Lichtresistenz aller Verb.^Aumenta la res. a la luz de todos los aliados
 MST_ABILITY_SHORTDESCRIPTION_705400^Boost light resistance for all allies^提高全體隊員的光屬性耐性^아군 전체의 빛속성 저항력 상승^Augmente la résistance à la lumière de tous les alliés^Erhöht Lichtresistenz aller Verb.^Aumenta la res. a la luz de todos los aliados
 MST_ABILITY_SHORTDESCRIPTION_705410^Chance of reducing ATK, DEF, MAG, and SPR for all enemies when receiving a magic attack^受到魔法攻擊時一定機率降低全體敵人的攻擊防禦魔力精神^마법공격을 받으면 일정 확률로 적 전체의 공격력, 방어력, 마력, 정신력 감소^Chance de réduire l'ATT, la DEF, la MAGIE et la PSY de tous les ennemis après avoir reçu une attaque magique^Chance, bei mag. Angriff ANG, ABW, MAG und PSY zu verringern, alle Gegner.^Puede reducir ATQ, DEF, MAG y ESP de todos los enemigos al recibir un ataque mágico
@@ -5163,7 +5163,7 @@ MST_ABILITY_SHORTDESCRIPTION_910732^Obtain gil when stealing and boost success r
 MST_ABILITY_SHORTDESCRIPTION_910733^Wind damage and reduce wind resistance for one enemy^對1名敵人發動風屬性攻擊+降低風屬性耐性^적 1명에게 바람속성 피해+바람속성 저항력 감소^Dégâts de vent et réduit la résistance au vent d'un ennemi^Fügt Windschaden zu und reduziert Windresistenz eines Gegners.^Daño de viento y reduce la res. al viento de un enemigo
 MST_ABILITY_SHORTDESCRIPTION_910734^Boost ATK by 10%, wind resistance by 20% and chance of evading physical attacks^提高10%攻擊、20%風屬性耐性+一定機率閃避物理攻擊^공격력 10% 상승, 바람속성 저항력 20% 상승+일정 확률로 일부 물리공격 회피^Augmente l'ATT de 10 %, la résistance au vent de 20 % et les chances d'éviter les attaques physiques^Erhöht ANG um 10%, Windresistenz um 20% und Wahrsch., phys. Angriffen auszuweichen.^Aumenta el ATQ un 10% y la res. al viento un 20%, puede evadir ataques físicos
 MST_ABILITY_SHORTDESCRIPTION_910737^Boost HP and DEF by 20%^提高20%HP防禦^HP와 방어력 20% 상승^Augmente les PV et la DEF de 20 %^Erhöht LP und ABW um 20%.^Aumenta VIT y DEF un 20%
-MST_ABILITY_SHORTDESCRIPTION_910738^Cure and boost resistance to poison, blind, sleep, silence, paralysis, confusion, disease, and stone to self for three turns^治療毒失明睡眠沉默麻痺混亂生病石化狀態+3回合內提高耐性^3턴 동안 자신의 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 회복+저항력 상승^Soigne et augmente la résistance au poison, à cécité, sommeil, silence, paralysie, confusion, maladie et pétrification du lanceur pendant trois tours^Heilt und erhöht drei Runden lang eigene Resistenz gegen Gift, Blind, Schlaf, Stille, Lähmung, Konfus, Virus und Stein.^Cura y aumenta la res. al ven, ceg, sue, sil, par, con, enf y pie del usuario durante 3 turnos
+MST_ABILITY_SHORTDESCRIPTION_910738^Cure and boost resistance to poison, blind, sleep, silence, paralysis, confusion, disease, and stone to self for three turns^治療毒失明睡眠沉默麻痺混亂生病石化狀態+3回合內提高耐性^3턴 동안 자신의 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 회복+저항력 상승^Soigne et augmente la résistance au poison, cécité, sommeil, silence, paralysie, confusion, maladie et pétrification du lanceur pendant trois tours^Heilt und erhöht drei Runden lang eigene Resistenz gegen Gift, Blind, Schlaf, Stille, Lähmung, Konfus, Virus und Stein.^Cura y aumenta la res. al ven, ceg, sue, sil, par, con, enf y pie del usuario durante 3 turnos
 MST_ABILITY_SHORTDESCRIPTION_910740^Boost SPR and reduce magic damage taken for one ally for three turns^提高精神+3回合內減少對1名隊員的魔法傷害^3턴 동안 아군 1명이 받는 마법피해량 감소+정신력 상승^Augmente la PSY et réduit les dégâts magiques reçus par un allié pendant trois tours^Erhöht PSY und verringert drei Runden lang erhaltenen mag. Schaden eines Verb.^Aumenta ESP y reduce el daño mágico que recibe un aliado durante 3 turnos
 MST_ABILITY_SHORTDESCRIPTION_910741^Boost DEF and reduce physical damage taken for one ally for three turns^提高防禦+3回合內減少對1名隊員的物理傷害^3턴 동안 아군 1명이 받는 물리피해량 감소+방어력 상승^Augmente la DEF et réduit les dégâts physiques reçus par un allié pendant trois tours^Erhöht ABW und verringert drei Runden lang erhaltenen phys. Schaden eines Verb.^Aumenta la DEF y reduce el daño físico que recibe un aliado durante 3 turnos
 MST_ABILITY_SHORTDESCRIPTION_910742^Boost HP and DEF when equipped with a light or heavy shield^提高裝備輕盾重盾時的HP防禦^경갑 또는 중갑 장착 시 HP와 방어력 상승^Augmente les PV et la DEF lorsqu'un bouclier léger ou lourd est équipé^Erhöht LP und ABW, wenn mit leichtem oder schwerem Schild ausgerüstet.^Aumenta VIT y DEF al llevar escudo ligero o pesado
@@ -5249,7 +5249,7 @@ MST_ABILITY_SHORTDESCRIPTION_910811^Restore HP for caster^恢復自身的HP^자�
 MST_ABILITY_SHORTDESCRIPTION_910812^Chance of taking magic damage for an ally while guarding^一定機率代替一名隊員承受魔法攻擊^일정 확률로 아군 1명이 받는 마법공격을 방어 상태로 대신 받음^Chance de prendre des dégâts magiques pour un allié en garde^Chance, dass die Einheit für einen Verbündeten während des Verteidigens Magieschaden nimmt^Posibilidad de recibir daño mágico por otra unidad en modo defensivo
 MST_ABILITY_SHORTDESCRIPTION_910813^Nullify paralysis, confusion and petrify and boost DEF by 30%.^麻痺混亂石化無效+提高30%防禦^마비, 혼란, 석화 무효화+방어력 30% 상승^Annule paralysie, confusion, pétrification et augmente la DEF de 30%^Annulliert Lähmung, Konfus sowie Stein und erhöht ABW um 30%.^Anula parálisis, confusión y piedra, y aumenta la DEF un 30%
 MST_ABILITY_SHORTDESCRIPTION_910814^Boost SPR by 30% and boost SPR when HP is below a certain level^提高30%精神+HP降低到一定數值以下時提高精神^정신력 30% 상승+HP가 일정량 이하일 때 정신력 상승^Augmente la PSY de 30% et augmente la PSY lorsque les PV descendent en dessous d'un certain seuil^Erhöht PSY um 30% und erhöht PSY, wenn LP unter einem gewissen Wert sind.^Aumenta el ESP un 30% y aumenta el ESP cuando la VIT baja a cierto nivel
-MST_ABILITY_SHORTDESCRIPTION_910815^Boost ATK and DEF and stop resistance for all allies^提高全體隊員的攻擊防禦+提高停止的耐性^아군 전체의 공격력과 방어력 상승+스톱 저항력 상승^Augmente l'ATT, la DEF et la résistance à stop de tous les alliés^Erhöht ANG, ABW und Stop-Resistenz aller Verb.^Aumenta ATQ, DEF y la resistencia a Paro de todos los aliados
+MST_ABILITY_SHORTDESCRIPTION_910815^Boost ATK and DEF and stop resistance for all allies^提高全體隊員的攻擊防禦+提高停止耐性^아군 전체의 공격력과 방어력 상승+스톱 저항력 상승^Augmente l'ATT, la DEF et la résistance à stop de tous les alliés^Erhöht ANG, ABW und Stopp-Resistenz aller Verb.^Aumenta ATQ, DEF y la resistencia a Paro de todos los aliados
 MST_ABILITY_SHORTDESCRIPTION_910816^Auto boost DEF and SPR for caster at the start of every battle^每次戰鬥開始時自動提高自身的防禦精神^매 전투 시작 시 자신의 방어력과 정신력 자동 상승^Augmente automatiquement la DEF et la PSY pour tous les alliés au début de chaque combat^Erhöht automatische ABW und PSY des Benutzers zu Beginn jedes Kampfes.^Aumenta automáticamente la DEF y el ESP del usuario al inicio de cada combate
 MST_ABILITY_SHORTDESCRIPTION_910817^Boost DEF and SPR for caster^提高自身的防禦精神^자신의 방어력과 정신력 상승^Augmente la DEF et la PSY de tous les alliés en chantant^Erhöht ABW und PSY für Benutzer.^Aumenta DEF y ESP del usuario
 MST_ABILITY_SHORTDESCRIPTION_910818^Boost HP by 20% and boost DEF when equipped with a robe and boost SPR when equipped with a heavy armor^提高20%HP+提高裝備法袍時的防禦+提高裝備重鎧甲時的精神^HP 20% 상승+로브 장착 시 방어력 상승+중갑 장착 시 정신력 상승^Augmente les PV de 20%, la DEF lorsqu'une tunique est équipée, et la PSY lorsqu'une armure lourde est équipée^Erhöht LP um 20%, erhöht ABW, wenn mit einer Robe ausgerüstet und erhöht PSY, wenn mit schwerer Rüstung ausgerüstet.^Aumenta la VIT un 20%, la DEF al llevar túnica y el ESP al llevar armadura pesada
@@ -5411,8 +5411,8 @@ MST_ABILITY_SHORTDESCRIPTION_911008^Revive one ally from being KO'd^使1名隊�
 MST_ABILITY_SHORTDESCRIPTION_911009^Revive one ally from being KO'd^使1名隊員從無法戰鬥狀態中復活^아군 1명의 전투불능 상태 회복^Ranime un allié KO^Belebt einen kampfunfähigen Verbündeten^Resucita a un aliado K.O.
 MST_ABILITY_SHORTDESCRIPTION_911018^Boost ATK by 20% and MP by 15%^提高20%攻擊+提高15%MP^공격력 20% 상승+MP 15% 상승^Augmente l'ATT de 20% et les PM de 15%^Erhöht ANG um 20% und MP um 15%.^Aumenta el ATQ un 20% y los PM un 15%
 MST_ABILITY_SHORTDESCRIPTION_911019^Boost HP by 20% and DEF by 10%^提高20%HP+提高10%防禦^HP 20% 상승+방어력 10% 상승^Augmente les PV de 20% et la DEF de 10%^Erhöht LP um 20% und ABW um 10%.^Aumenta la VIT un 20% y la DEF un 10%
-MST_ABILITY_SHORTDESCRIPTION_911021^Boost dark resistance and resistance to stone for all allies^提高全體隊員暗屬性耐性和石化耐性^아군 전체의 어둠속성 저항력과 석화 저항력 상승^Augmente la rés. aux ténèbres et à la pétrification de tous les alliés^Erhöht Dunkelresistenz und Resistenz gegen Stein, alle Verb.^Aumenta la res. a oscuridad y piedra a todos los aliados
-MST_ABILITY_SHORTDESCRIPTION_911022^Boost dark resistance and resistance to stone for all allies, and gradually restore HP^提高全體隊員暗屬性耐性和石化耐性+持續恢復HP^아군 전체의 어둠속성 저항력과 석화 저항력 상승+HP 서서히 회복^Augmente la rés. aux ténèbres et à la pétrification de tous les alliés et augmente petit à petit les PV^Erhöht Dunkelresistenz und Resistenz gegen Stein von allen Verb. + regeneriert allmählich LP.^Aumenta la res. a oscuridad y piedra a todos los aliados, y recupera VIT poco a poco
+MST_ABILITY_SHORTDESCRIPTION_911021^Boost dark and stone resistance for all allies^提高全體隊員暗屬性耐性和石化耐性^아군 전체의 어둠속성 저항력과 석화 저항력 상승^Augmente la rés. aux ténèbres et à la pétrification de tous les alliés^Erhöht Dunkelresistenz und Resistenz gegen Stein, alle Verb.^Aumenta la res. a oscuridad y piedra a todos los aliados
+MST_ABILITY_SHORTDESCRIPTION_911022^Boost dark and stone resistance for all allies, and gradually restore HP^提高全體隊員暗屬性耐性和石化耐性+持續恢復HP^아군 전체의 어둠속성 저항력과 석화 저항력 상승+HP 서서히 회복^Augmente la rés. aux ténèbres et à la pétrification de tous les alliés et augmente petit à petit les PV^Erhöht Dunkelresistenz und Resistenz gegen Stein von allen Verb. + regeneriert allmählich LP.^Aumenta la res. a oscuridad y piedra a todos los aliados, y recupera VIT poco a poco
 MST_ABILITY_SHORTDESCRIPTION_911023^Cast one time auto-revive on all allies^賦予全體隊員進入無法戰鬥狀態時自動復活1次的效果^아군 전체의 전투불능 상태를 1회 자동회복하는 효과 부여^Lance une fois Auto-réveil sur tous les alliés^Einmal Wiederbeleben für alle Verbündeten.^Lanza AutoLázaro a todos los aliados una vez
 MST_ABILITY_SHORTDESCRIPTION_911024^Boost DEF for all allies^提高全體隊員防禦^아군 전체의 방어력 상승^Augmente la DEF de tous les alliés^ABW hoch, alle Verb.^Aumenta DEF de todos los aliados
 MST_ABILITY_SHORTDESCRIPTION_911025^Boost SPR for all allies^提高全體隊員精神^아군 전체의 정신력 상승^Augmente la PSY de tous les alliés^PSY hoch für alle Verb.^Aumenta ESP de todos los aliados
@@ -5432,8 +5432,8 @@ MST_ABILITY_SHORTDESCRIPTION_911056^Boost DEF and SPR when equipped with a light
 MST_ABILITY_SHORTDESCRIPTION_911057^Boost HP by 20%, and boost DEF and SPR when equipped with a light shield or heavy shield^提高20%HP+提高裝備輕盾重盾時的防禦精神^HP 20% 상승+가벼운 방패 또는 무거운 방패 장착 시 방어력과 정신력 상승^Augmente les PV de 20%, et la DEF et la PSY lorsqu'un bouclier léger ou un bouclier lourd est équipé^Erhöht LP um 20% und erhöht ABW und PSY, wenn mit leichtem oder schwerem Schild ausgerüstet.^Aumenta la VIT un 20% y aumenta la DEF y el ESP al llevar escudo ligero o pesado
 MST_ABILITY_SHORTDESCRIPTION_911058^Damage all enemies and increase chance of being targeted for self^攻擊全體敵人+暫時性容易被敵人攻擊^적 전체에 피해+자신이 일시적으로 적의 공격 대상이 될 확률 상승^Dégâts à tous les ennemis et augmente les chances du lanceur d'être ciblé^Fügt allen Gegnern Schaden zu und erhöht Chance, selbst zum Ziel zu werden.^Daña a todos los enemigos y aumenta la probabilidad de que el usuario sea atacado
 MST_ABILITY_SHORTDESCRIPTION_911059^Damage all enemies, increase chance of being targeted, and reduce damage taken for 3 turns for self^攻擊全體敵人+暫時性容易被敵人攻擊+3回合內減少對自身的傷害^적 전체에 피해+자신이 일시적으로 적의 공격 대상이 될 확률 상승+3턴 동안 피해량 감소^Dégâts à tous les ennemis, augmente les chances d'être ciblé, et réduit les dégâts subis par le lanceur pendant 3 tours^Fügt allen Gegnern Schaden zu, erhöht Wahrsch. zum Ziel zu werden und verringert drei Runden lange selbst erlittenen Schaden.^Daña a todos los enemigos, aumenta la probabilidad de ser atacado y reduce el daño que recibe el usuario durante 3 turnos
-MST_ABILITY_SHORTDESCRIPTION_911060^Deal partial unmitigated damage to one enemy and add lightning element to own physical attack^對1名敵人發動無視部分防禦的攻擊+將自身的物理攻擊賦予雷屬性^적 1명에게 일부 방어 무시 피해+자신의 물리공격에 번개속성 부여^Inflige des dégâts en partie fixe sur un ennemi et ajoute l'élément foudre aux attaques physiques du lanceur^Fügt einem Gegner Blitzschaden zu und Eiselement für eigenen phy. Angriff.^Daño absoluto parcial a un enemigo y añade elemento rayo a ataques físicos propios
-MST_ABILITY_SHORTDESCRIPTION_911061^Deal partial unmitigated damage to one enemy and add lightning element to own physical attack^對1名敵人發動無視部分防禦的攻擊+將自身的物理攻擊賦予雷屬性^적 1명에게 일부 방어 무시 피해+자신의 물리공격에 번개속성 부여^Inflige des dégâts en partie fixe sur un ennemi et ajoute l'élément foudre aux attaques physiques du lanceur^Fügt einem Gegner Blitzschaden zu und Eiselement für eigenen phy. Angriff.^Daño absoluto parcial a un enemigo y añade elemento rayo a ataques físicos propios
+MST_ABILITY_SHORTDESCRIPTION_911060^Deal partial unmitigated damage to one enemy and add lightning element to own physical attack^對1名敵人發動無視部分防禦的攻擊+將自身的物理攻擊賦予雷屬性^적 1명에게 일부 방어 무시 피해+자신의 물리공격에 번개속성 부여^Inflige des dégâts en partie fixe sur un ennemi et ajoute l'élément foudre aux attaques physiques du lanceur^Fügt einem Gegner teilweise direkten Schaden zu gibt eigenem phy. Angriff Blitzelement.^Daño absoluto parcial a un enemigo y añade elemento rayo a ataques físicos propios
+MST_ABILITY_SHORTDESCRIPTION_911061^Deal partial unmitigated damage to one enemy and add lightning element to own physical attack^對1名敵人發動無視部分防禦的攻擊+將自身的物理攻擊賦予雷屬性^적 1명에게 일부 방어 무시 피해+자신의 물리공격에 번개속성 부여^Inflige des dégâts en partie fixe sur un ennemi et ajoute l'élément foudre aux attaques physiques du lanceur^Fügt einem Gegner teilweise direkten Schaden zu gibt eigenem phy. Angriff Blitzelement.^Daño absoluto parcial a un enemigo y añade elemento rayo a ataques físicos propios
 MST_ABILITY_SHORTDESCRIPTION_911062^Boost ATK and LB gauge fill rate, and nullify blind, sleep, and paralysis^提高攻擊+提高極限技槽的積累速度+失明睡眠麻痺無效^공격력과 LB 게이지 효율 상승+암흑, 수면, 마비 무효^Augmente l'ATT, le taux de remplissage de la jauge de limite et annule cécité, sommeil et paralysie^Erhöht ANG und Füllrate des Limitmeters und annulliert Blenden, Schlaf und Lähmung.^Aumenta el ATQ y rellena la barra de EL más rápido, y anula ceguera, sueño y parálisis
 MST_ABILITY_SHORTDESCRIPTION_911063^Boost ATK and LB gauge fill rate, and nullify blind, sleep, and paralysis^提高攻擊+提高極限技槽的積累速度+失明睡眠麻痺無效^공격력과 LB 게이지 효율 상승+암흑, 수면, 마비 무효^Augmente l'ATT, le taux de remplissage de la jauge de limite et annule cécité, sommeil et paralysie^Erhöht ANG und Füllrate des Limitmeters und annulliert Blenden, Schlaf und Lähmung.^Aumenta el ATQ y rellena la barra de EL más rápido, y anula ceguera, sueño y parálisis
 MST_ABILITY_SHORTDESCRIPTION_911064^Deal physical damage to one or all enemies after using ice breath, lightning breath, or fire breath^對1名敵人發動物理攻擊，在寒冰吐息、雷霆吐息、爆炎吐息之後使用時攻擊全體敵人^적 1명에게 물리 피해 또는 얼음의 숨결, 번개의 숨결, 불꽃의 숨결 사용 시 적 전체에 피해^Inflige des dégâts physiques sur un ennemi ou tous les ennemis si Souffle glacial, Souffle électrique, Souffle brûlant ont été utilisés^Fügt einem Gegner physischen Schaden zu oder allen Gegnern, wenn Eis-, Blitz-, oder Feueratem eingesetzt wurde.^Inflige daño físico a un enemigo o a todos si se usa tras Hálito helado, Hálito eléctrico o Hálito ígneo
@@ -5485,6 +5485,18 @@ MST_ABILITY_SHORTDESCRIPTION_911155^Boost DEF and SPR by 20%, and chance of taki
 MST_ABILITY_SHORTDESCRIPTION_911156^Boost DEF and SPR by 20%, chance of taking physical damage for ally, and chance of escaping death when HP is above a certain point^提高20%防禦精神+一定機率代替隊員承受物理攻擊+HP高於一定量時一定機率避免陷入無法戰鬥狀態^방어력과 정신력 20% 상승+일정 확률로 아군을 향한 물리공격을 대신 받음+HP가 일정량 이상일 때 일정 확률로 전투불능 상태 견딤^Augmente la DEF et la PSY de 20%, les chances de prendre des dégâts physiques à la place d'un allié, et les chances d'échapper à la mort lorsque les PV descendent en dessous d'un certain seuil^Erhöht ABW und PSY um 20% + Chance, phys. Schaden anstelle eines Verb. zu erleiden und Chance, dem Tod zu entkommen, wenn LP über einem gewissen Wert .^Aumenta la DEF y el ESP un 20%, puede recibir daño físico por un aliado y puede evitar caer K.O. cuando la VIT baja a cierto punto
 MST_ABILITY_SHORTDESCRIPTION_911157^Deal partial unmitigated damage and reduce light resistance for one enemy^對1名敵人發動無視部分防禦的攻擊+降低光屬性耐性^적 1명의 일부 방어 무시 피해+빛속성 저항력 감소^Dégâts en partie fixes et réduit la résistance à la lumière d'un ennemi^Fügt teilweise direkten Schaden zu und verringert Lichtresistenz eines Gegners.^Daño absoluto parcial y reduce la res. a la luz de un enemigo
 MST_ABILITY_SHORTDESCRIPTION_911158^Deal partial unmitigated damage and reduce light resistance for one enemy^對1名敵人發動無視部分防禦的攻擊+降低光屬性耐性^적 1명의 일부 방어 무시 피해+빛속성 저항력 감소^Dégâts en partie fixes et réduit la résistance à la lumière d'un ennemi^Fügt teilweise direkten Schaden zu und verringert Lichtresistenz eines Gegners.^Daño absoluto parcial y reduce la res. a la luz de un enemigo
+MST_ABILITY_SHORTDESCRIPTION_911164^Boost ATK and DEF, and gradually restore HP and MP^跳至下一回合並提高攻擊防禦+恢復HPMP^다음 턴을 건너뛰고 공격력과 방어력 상승+HP와 MP 회복^Fait sauter un tour, augmente ATT/DEF et récupère PV/PM^Überspr. nächste Runde + erh. ANG + ABW, .Stellt allm. alle LP + MP her.^Se salta el siguiente turno, aumenta ATQ/DEF y cura VIT/PM propios
+MST_ABILITY_SHORTDESCRIPTION_911165^Boost ATK and DEF, gradually restore HP and MP, and temporarily add chance of counterattacking when an ally receives a physical attack^跳至下一回合並提高攻擊防禦+恢復HPMP^다음 턴을 건너뛰고 공격력과 방어력 상승+HP와 MP 회복^Fait sauter un tour, augmente ATT/DEF et récupère PV/PM^Überspr. nächste Runde + erh. ANG + ABW, .Stellt allm. alle LP + MP her.^Se salta el siguiente turno, aumenta ATQ/DEF y cura VIT/PM propios
+MST_ABILITY_SHORTDESCRIPTION_911166^Increase chance of being targeted and inflict berserk status on the user^容易被敵人攻擊+對使用者施加狂暴的效果^적의 공격 대상이 될 확률 상승+자신에게 광폭화 부여^Augmente les chances d'être ciblé et inflige Furie au lanceur^Wird häufiger angegriffen und fügt Nutzer Berserker zu.^Más posibilidad de ser atacado e inflige locura al usuario
+MST_ABILITY_SHORTDESCRIPTION_911167^Increase chance of being targeted and reduce damage taken for three turns and automatically revive caster one time, and inflict berserk status on the caster^容易被敵人攻擊+對使用者施加狂暴的效果^적의 공격 대상이 될 확률 상승+자신에게 광폭화 부여^Augmente les chances d'être ciblé et inflige Furie au lanceur^Wird häufiger angegriffen und fügt Nutzer Berserker zu.^Más posibilidad de ser atacado e inflige locura al usuario
+MST_ABILITY_SHORTDESCRIPTION_911170^Restore HP and MP, regenerate HP and MP for one ally over time^恢復1名隊員的HP、MP^아군 1명의 HP와 MP 회복^Restaure entièrement les PV et restaure les PM d'un allié^Stellt LP und MP eines Verbündeten voll wieder her.^Recupera VIT y PM de un aliado
+MST_ABILITY_SHORTDESCRIPTION_911171^Restore HP and MP, regenerate HP and MP for one ally over time, and automatically revive them one time^恢復1名隊員的HP、MP^아군 1명의 HP와 MP 회복^Restaure entièrement les PV et restaure les PM d'un allié^Stellt LP und MP eines Verbündeten voll wieder her.^Recupera VIT y PM de un aliado
+MST_ABILITY_SHORTDESCRIPTION_911172^Boost ATK, DEF, MAG and SPR and resistance to blind, paralysis, confusion, and disease for all allies^提高全體隊員的攻擊防禦魔力精神+提高失明麻痺混亂生病耐性^아군 전체의 공격력, 방어력, 마력, 정신력 상승+암흑, 마비, 혼란, 질병 저항력 상승^Aug. ATT/DEF/MAGIE/PSY et la rés. à céc., para., conf., et mala. pour tous les alliés^Erhöht ANG, ABW, MAG, PSY und Resistenz gegen Blenden, Lähmung, Konfus, und Virus für alle Verbündeten.^Aumenta ATQ/DEF/MAG/ESP y res. a ceg, par, con y enf a todos los aliados
+MST_ABILITY_SHORTDESCRIPTION_911173^Boost ATK, DEF, MAG and SPR and resistance to blind, paralysis, confusion, disease, and stop for all allies^提高全體隊員的攻擊防禦魔力精神+提高失明麻痺混亂生病耐性^아군 전체의 공격력, 방어력, 마력, 정신력 상승+암흑, 마비, 혼란, 질병 저항력 상승^Aug. ATT/DEF/MAGIE/PSY et la rés. à céc., para., conf., et mala. pour tous les alliés^Erhöht ANG, ABW, MAG, PSY und Resistenz gegen Blenden, Lähmung, Konfus, und Virus für alle Verbündeten.^Aumenta ATQ/DEF/MAG/ESP y res. a ceg, par, con y enf a todos los aliados
+MST_ABILITY_SHORTDESCRIPTION_911174^Deal light magic damage partially unaffected by SPR to all enemies and reduces damage taken by all allies for 3 turns^對全體敵人發動無視部分精神的光屬性魔法攻擊+3回合內減少對全體隊員的傷害^적 전체에 빛속성 일부 마법 방어 무시 피해+ 3턴 동안 아군 전체가 받는 피해량 감소^Inflige des dégâts de lumière ignorant en partie la PSY à tous les ennemis, et réduit les dégâts reçus par tous les alliés pendant trois tours^Fügt allen Gegnern teilweise Lichtschaden zu, der PSY umgeht, und reduziert für 3 Runden den Schaden, den die Verbündeten erleiden.^Daño absoluto parcial mágico de luz a todos los enemigos y reduce el daño que reciben los aliados durante 3 turnos
+MST_ABILITY_SHORTDESCRIPTION_911175^Deal light magic damage partially unaffected by SPR to all enemies and reduces damage taken by all allies for 4 turns^對全體敵人發動無視部分精神的光屬性魔法攻擊+4回合內減少對全體隊員的傷害^적 전체에 빛속성 일부 마법 방어 무시 피해+ 4턴 동안 아군 전체가 받는 피해량 감소^Inflige des dégâts de lumière ignorant en partie la PSY à tous les ennemis, et réduit les dégâts reçus par tous les alliés pendant quatre tours^Fügt allen Gegnern teilweise Lichtschaden zu, der PSY umgeht, und reduziert für 4 Runden den Schaden, den die Verbündeten erleiden.^Daño absoluto parcial mágico de luz a todos los enemigos y reduce el daño que reciben los aliados durante 4 turnos
+MST_ABILITY_SHORTDESCRIPTION_911176^Boost ATK by 40% when equipped with a sword or large sword, and MAG by 40% when equipped with a katana, hammer, or spear^提高40%裝備劍大劍時的攻擊+提高40%裝備刀鎚子長槍時的魔力^검과 대검 장착 시 공격력 40% 상승+도, 망치, 창 장착 시 마력 40% 상승^Aug. l'ATT quand une épée ou une épée longue est équipée et la MAGIE lorsqu'un katana, un marteau ou une lance est équipé^Erhöht ANG um 40%, wenn mit Schwert oder Großschwert ausger. und MAG um 40%, wenn mit Katana, Hammer oder Speer.^Aumenta ATQ un 40% al llevar espada y MAG un 40% al llevar katana, martillo o lanza
+MST_ABILITY_SHORTDESCRIPTION_911177^Boost ATK by 50%, DEF/HP by 20% when equipped with a sword or large sword, and MAG by 50%, SPR/MP by 20% when equipped with a katana, hammer, or spear^提高50%裝備劍大劍時的攻擊+提高50%裝備刀鎚子長槍時的魔力^검과 대검 장착 시 공격력 50% 상승+도, 망치, 창 장착 시 마력 50% 상승^Aug. l'ATT quand une épée ou une épée longue est équipée et la MAGIE lorsqu'un katana, un marteau ou une lance est équipé^Erhöht ANG um 50%, wenn mit Schwert oder Großschwert ausger. und MAG um 50%, wenn mit Katana, Hammer oder Speer.^Aumenta ATQ un 50% al llevar espada y MAG un 50% al llevar katana, martillo o lanza
 MST_ABILITY_SHORTDESCRIPTION_100021^^提高20%HP^^^^
 MST_ABILITY_SHORTDESCRIPTION_100051^^提高20%MP^^^^
 MST_ABILITY_SHORTDESCRIPTION_100081^^提高20%攻擊^^^^
@@ -5493,21 +5505,21 @@ MST_ABILITY_SHORTDESCRIPTION_100141^^提高20%防禦^^^^
 MST_ABILITY_SHORTDESCRIPTION_100171^^提高20%精神^^^^
 MST_ABILITY_SHORTDESCRIPTION_100065^^提高40%MP^^^^
 MST_ABILITY_SHORTDESCRIPTION_217780^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_226390^^對全體敵人發動無視部分防禦的攻擊^^^^
-MST_ABILITY_SHORTDESCRIPTION_226391^^對1名敵人發動火土屬性攻擊+降低攻擊防禦魔力精神^^^^
-MST_ABILITY_SHORTDESCRIPTION_226392^^攻擊1名敵人+降低攻擊防禦魔力精神^^^^
-MST_ABILITY_SHORTDESCRIPTION_226393^^提高全體隊員攻擊防禦魔力精神^^^^
-MST_ABILITY_SHORTDESCRIPTION_226394^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_226395^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_226396^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_226397^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_226398^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_226399^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_226400^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_226401^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_226402^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_226403^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_226404^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_226390^^對全體敵人發動無視部分防禦的攻擊^적 전체에 일부 방어 무시 피해^^^
+MST_ABILITY_SHORTDESCRIPTION_226391^^對1名敵人發動火土屬性攻擊+降低攻擊防禦魔力精神^적 1명에게 불속성과 땅속성 피해+불속성과 땅속성 저항력 감소^^^
+MST_ABILITY_SHORTDESCRIPTION_226392^^攻擊1名敵人+降低攻擊防禦魔力精神^적 1명에게 피해+공격력, 방어력, 마력, 정신력 감소^^^
+MST_ABILITY_SHORTDESCRIPTION_226393^^提高全體隊員攻擊防禦魔力精神^아군 전체의 공격력, 방어력, 마력, 정신력 상승^^^
+MST_ABILITY_SHORTDESCRIPTION_226394^^^자신이 일시적으로 적의 공격 대상이 될 확률 상승+2턴 동안 피해량 감소^^^
+MST_ABILITY_SHORTDESCRIPTION_226395^^^적 전체에 2회 얼음속성과 바람속성 피해+얼음속성과 바람속성 저항력 감소^^^
+MST_ABILITY_SHORTDESCRIPTION_226396^^^적 전체에 빛속성 피해+아군 전체의 HP 회복^^^
+MST_ABILITY_SHORTDESCRIPTION_226397^^^적 전체에 피해+마력과 정신력 감소^^^
+MST_ABILITY_SHORTDESCRIPTION_226398^^^적 전체에 물속성 피해+물속성 저항력 감소^^^
+MST_ABILITY_SHORTDESCRIPTION_226399^^^적 전체에 피해+공격력과 방어력 감소^^^
+MST_ABILITY_SHORTDESCRIPTION_226400^^^적 전체에 번개속성 피해+번개속성 저항력 감소^^^
+MST_ABILITY_SHORTDESCRIPTION_226401^^^적 전체에 어둠속성 피해+어둠속성 저항력 감소^^^
+MST_ABILITY_SHORTDESCRIPTION_226402^^^대검 장착 시 공격력과 방어력 30% 상승^^^
+MST_ABILITY_SHORTDESCRIPTION_226403^^^경갑 장착 시 방어력과 정신력 10% 상승^^^
+MST_ABILITY_SHORTDESCRIPTION_226404^^^매 턴마다 HP와 MP 회복^^^
 MST_ABILITY_SHORTDESCRIPTION_226405^Chance of guarding allies against physical damage^^^^^
 MST_ABILITY_SHORTDESCRIPTION_226406^^^^^^
 MST_ABILITY_SHORTDESCRIPTION_226410^^^^^^
@@ -5778,10 +5790,10 @@ MST_ABILITY_SHORTDESCRIPTION_227022^^^^^^
 MST_ABILITY_SHORTDESCRIPTION_227023^^^^^^
 MST_ABILITY_SHORTDESCRIPTION_227024^^^^^^
 MST_ABILITY_SHORTDESCRIPTION_227025^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_227030^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_227031^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_227032^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_227033^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_227030^^龍之化身^^^^
+MST_ABILITY_SHORTDESCRIPTION_227031^^超魔力覺醒^^^^
+MST_ABILITY_SHORTDESCRIPTION_227032^^里貝霍伊米^^^^
+MST_ABILITY_SHORTDESCRIPTION_227033^^美拉系訣竅^^^^
 MST_ABILITY_SHORTDESCRIPTION_227040^^^^^^
 MST_ABILITY_SHORTDESCRIPTION_227041^^^^^^
 MST_ABILITY_SHORTDESCRIPTION_227042^^^^^^
@@ -6832,74 +6844,74 @@ MST_ABILITY_SHORTDESCRIPTION_300690^^^^^^
 MST_ABILITY_SHORTDESCRIPTION_300700^^^^^^
 MST_ABILITY_SHORTDESCRIPTION_300710^^^^^^
 MST_ABILITY_SHORTDESCRIPTION_300720^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410001^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410003^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410005^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410007^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410010^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410012^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410015^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410030^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410101^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410103^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410105^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410107^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410110^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410112^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410115^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410130^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410201^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410203^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410205^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410207^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410210^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410212^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410215^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410230^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410301^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410303^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410305^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410307^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410310^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410312^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410315^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410401^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410403^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410405^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410407^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410410^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410412^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410415^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410501^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410503^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410505^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410507^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410510^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410512^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_410515^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_417000^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_417010^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_417020^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_417030^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_417040^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_417050^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_417060^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_417070^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_417080^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_417090^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_417100^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_417110^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_417120^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_417130^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_417140^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_417150^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_450800^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_450810^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_450820^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_450830^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_450840^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_450850^^^^^^
-MST_ABILITY_SHORTDESCRIPTION_450860^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_410001^Boost HP by 1%^提高1%HP^HP 1% 상승^Augmente les PV de 1 %^Erhöht LP um 1%^Aumenta la VIT un 1%
+MST_ABILITY_SHORTDESCRIPTION_410003^Boost HP by 3%^提高3%HP^HP 3% 상승^Augmente les PV de 3 %^Erhöht LP um 3%^Aumenta la VIT un 3%
+MST_ABILITY_SHORTDESCRIPTION_410005^Boost HP by 5%^提高5%HP^HP 5% 상승^Augmente les PV de 5 %^Erhöht LP um 5%^Aumenta la VIT un 5%
+MST_ABILITY_SHORTDESCRIPTION_410007^Boost HP by 7%^提高7%HP^HP 7% 상승^Augmente les PV de 7 %^Erhöht LP um 7%^Aumenta la VIT un 7%
+MST_ABILITY_SHORTDESCRIPTION_410010^Boost HP by 10%^提高10%HP^HP 10% 상승^Augmente les PV de 10 %^Erhöht LP um 10%^Aumenta la VIT un 10%
+MST_ABILITY_SHORTDESCRIPTION_410012^Boost HP by 12%^提高12%HP^HP 12% 상승^Augmente les PV de 12 %^Erhöht LP um 12%^Aumenta la VIT un 12%
+MST_ABILITY_SHORTDESCRIPTION_410015^Boost HP by 15%^提高15%HP^HP 15% 상승^Augmente les PV de 15 %^Erhöht LP um 15%^Aumenta la VIT un 15%
+MST_ABILITY_SHORTDESCRIPTION_410030^Boost HP by 30%^提高30%HP^HP 30% 상승^Augmente les PV de 30 %^Erhöht LP um 30%^Aumenta la VIT un 30%
+MST_ABILITY_SHORTDESCRIPTION_410101^Boost MP by 1%^提高1%MP^MP 1% 상승^Augmente les PM de 1 %^Erhöht MP um 1%^Aumenta los PM un 1%
+MST_ABILITY_SHORTDESCRIPTION_410103^Boost MP by 3%^提高3%MP^MP 3% 상승^Augmente les PM de 3 %^Erhöht MP um 3%^Aumenta los PM un 3%
+MST_ABILITY_SHORTDESCRIPTION_410105^Boost MP by 5%^提高5%MP^MP 5% 상승^Augmente les PM de 5 %^Erhöht MP um 5%^Aumenta los PM un 5%
+MST_ABILITY_SHORTDESCRIPTION_410107^Boost MP by 7%^提高7%MP^MP 7% 상승^Augmente les PM de 7 %^Erhöht MP um 7%^Aumenta los PM un 7%
+MST_ABILITY_SHORTDESCRIPTION_410110^Boost MP by 10%^提高10%MP^MP 10% 상승^Augmente les PM de 10 %^Erhöht MP um 10%^Aumenta los PM un 10%
+MST_ABILITY_SHORTDESCRIPTION_410112^Boost MP by 12%^提高12%MP^MP 12% 상승^Augmente les PM de 12 %^Erhöht MP um 12%^Aumenta los PM un 12%
+MST_ABILITY_SHORTDESCRIPTION_410115^Boost MP by 15%^提高15%MP^MP 15% 상승^Augmente les PM de 15 %^Erhöht MP um 15%^Aumenta los PM un 15%
+MST_ABILITY_SHORTDESCRIPTION_410130^Boost MP by 30%^提高30%MP^MP 30% 상승^Augmente les PM de 30 %^Erhöht MP um 30%^Aumenta los PM un 30%
+MST_ABILITY_SHORTDESCRIPTION_410201^Boost ATK by 1%^提高1%攻擊^공격력 1% 상승^Augmente l'ATT de 1 %^Erhöht ANG um 1%^Aumenta el ATQ un 1%
+MST_ABILITY_SHORTDESCRIPTION_410203^Boost ATK by 3%^提高3%攻擊^공격력 3% 상승^Augmente l'ATT de 3 %^Erhöht ANG um 3%^Aumenta el ATQ un 3%
+MST_ABILITY_SHORTDESCRIPTION_410205^Boost ATK by 5%^提高5%攻擊^공격력 5% 상승^Augmente l'ATT de 5 %^Erhöht ANG um 5%^Aumenta el ATQ un 5%
+MST_ABILITY_SHORTDESCRIPTION_410207^Boost ATK by 7%^提高7%攻擊^공격력 7% 상승^Augmente l'ATT de 7 %^Erhöht ANG um 7%^Aumenta el ATQ un 7%
+MST_ABILITY_SHORTDESCRIPTION_410210^Boost ATK by 10%^提高10%攻擊^공격력 10% 상승^Augmente l'ATT de 10 %^Erhöht ANG um 10%^Aumenta el ATQ un 10%
+MST_ABILITY_SHORTDESCRIPTION_410212^Boost ATK by 12%^提高12%攻擊^공격력 12% 상승^Augmente l'ATT de 12 %^Erhöht ANG um 12%^Aumenta el ATQ un 12%
+MST_ABILITY_SHORTDESCRIPTION_410215^Boost ATK by 15%^提高15%攻擊^공격력 15% 상승^Augmente l'ATT de 15 %^Erhöht ANG um 15%^Aumenta el ATQ un 15%
+MST_ABILITY_SHORTDESCRIPTION_410230^Boost ATK by 30%^提高30%攻擊^공격력 30% 상승^Augmente l'ATT de 30 %^Erhöht ANG um 30%^Aumenta el ATQ un 30%
+MST_ABILITY_SHORTDESCRIPTION_410301^Boost DEF by 1%^提高1%防禦^방어력 1% 상승^Augmente la DEF de 1 %^Erhöht ABW um 1%^Aumenta la DEF un 1%
+MST_ABILITY_SHORTDESCRIPTION_410303^Boost DEF by 3%^提高3%防禦^방어력 3% 상승^Augmente la DEF de 3 %^Erhöht ABW um 3%^Aumenta la DEF un 3%
+MST_ABILITY_SHORTDESCRIPTION_410305^Boost DEF by 5%^提高5%防禦^방어력 5% 상승^Augmente la DEF de 5 %^Erhöht ABW um 5%^Aumenta la DEF un 5%
+MST_ABILITY_SHORTDESCRIPTION_410307^Boost DEF by 7%^提高7%防禦^방어력 7% 상승^Augmente la DEF de 7 %^Erhöht ABW um 7%^Aumenta la DEF un 7%
+MST_ABILITY_SHORTDESCRIPTION_410310^Boost DEF by 10%^提高10%防禦^방어력 10% 상승^Augmente la DEF de 10 %^Erhöht ABW um 10%^Aumenta la DEF un 10%
+MST_ABILITY_SHORTDESCRIPTION_410312^Boost DEF by 12%^提高12%防禦^방어력 12% 상승^Augmente la DEF de 12 %^Erhöht ABW um 12%^Aumenta la DEF un 12%
+MST_ABILITY_SHORTDESCRIPTION_410315^Boost DEF by 15%^提高15%防禦^방어력 15% 상승^Augmente la DEF de 15 %^Erhöht ABW um 15%^Aumenta la DEF un 15%
+MST_ABILITY_SHORTDESCRIPTION_410401^Boost MAG by 1%^提高1%魔力^마력 1% 상승^Augmente la MAGIE de 1 %^Erhöht MAG um 1%^Aumenta la MAG un 1%
+MST_ABILITY_SHORTDESCRIPTION_410403^Boost MAG by 3%^提高3%魔力^마력 3% 상승^Augmente la MAGIE de 3 %^Erhöht MAG um 3%^Aumenta la MAG un 3%
+MST_ABILITY_SHORTDESCRIPTION_410405^Boost MAG by 5%^提高5%魔力^마력 5% 상승^Augmente la MAGIE de 5 %^Erhöht MAG um 5%^Aumenta la MAG un 5%
+MST_ABILITY_SHORTDESCRIPTION_410407^Boost MAG by 7%^提高7%魔力^마력 7% 상승^Augmente la MAGIE de 7 %^Erhöht MAG um 7%^Aumenta la MAG un 7%
+MST_ABILITY_SHORTDESCRIPTION_410410^Boost MAG by 10%^提高10%魔力^마력 10% 상승^Augmente la MAGIE de 10 %^Erhöht MAG um 10%^Aumenta la MAG un 10%
+MST_ABILITY_SHORTDESCRIPTION_410412^Boost MAG by 12%^提高12%魔力^마력 12% 상승^Augmente la MAGIE de 12 %^Erhöht MAG um 12%^Aumenta la MAG un 12%
+MST_ABILITY_SHORTDESCRIPTION_410415^Boost MAG by 15%^提高15%魔力^마력 15% 상승^Augmente la MAGIE de 15 %^Erhöht MAG um 15%^Aumenta la MAG un 15%
+MST_ABILITY_SHORTDESCRIPTION_410501^Boost SPR by 1%^提高1%精神^정신력 1% 상승^Augmente la PSY de 1 %^Erhöht PSY um 1%^Aumenta el ESP un 1%
+MST_ABILITY_SHORTDESCRIPTION_410503^Boost SPR by 3%^提高3%精神^정신력 3% 상승^Augmente la PSY de 3 %^Erhöht PSY um 3%^Aumenta el ESP un 3%
+MST_ABILITY_SHORTDESCRIPTION_410505^Boost SPR by 5%^提高5%精神^정신력 5% 상승^Augmente la PSY de 5 %^Erhöht PSY um 5%^Aumenta el ESP un 5%
+MST_ABILITY_SHORTDESCRIPTION_410507^Boost SPR by 7%^提高7%精神^정신력 7% 상승^Augmente la PSY de 7 %^Erhöht PSY um 7%^Aumenta el ESP un 7%
+MST_ABILITY_SHORTDESCRIPTION_410510^Boost SPR by 10%^提高10%精神^정신력 10% 상승^Augmente la PSY de 10 %^Erhöht PSY um 10%^Aumenta el ESP un 10%
+MST_ABILITY_SHORTDESCRIPTION_410512^Boost SPR by 12%^提高12%精神^정신력 12% 상승^Augmente la PSY de 12 %^Erhöht PSY um 12%^Aumenta el ESP un 12%
+MST_ABILITY_SHORTDESCRIPTION_410515^Boost SPR by 15%^提高15%精神^정신력 15% 상승^Augmente la PSY de 15 %^Erhöht PSY um 15%^Aumenta el ESP un 15%
+MST_ABILITY_SHORTDESCRIPTION_417000^Restore HP each turn^每回合恢復HP^매 턴마다 HP 회복^Restaure les PV à chaque tour^Stellt jede Runde LP wieder her^Recupera VIT cada turno
+MST_ABILITY_SHORTDESCRIPTION_417010^Restore HP each turn^每回合恢復HP^매 턴마다 HP 회복^Restaure les PV à chaque tour^Stellt jede Runde LP wieder her^Recupera VIT cada turno
+MST_ABILITY_SHORTDESCRIPTION_417020^Restore HP each turn^每回合恢復HP^매 턴마다 HP 회복^Restaure les PV à chaque tour^Stellt jede Runde LP wieder her^Recupera VIT cada turno
+MST_ABILITY_SHORTDESCRIPTION_417030^Restore HP each turn^每回合恢復HP^매 턴마다 HP 회복^Restaure les PV à chaque tour^Stellt jede Runde LP wieder her^Recupera VIT cada turno
+MST_ABILITY_SHORTDESCRIPTION_417040^Restore HP each turn^每回合恢復MP^매 턴마다 MP 회복^Restaure les PV à chaque tour^Stellt jede Runde LP wieder her^Recupera VIT cada turno
+MST_ABILITY_SHORTDESCRIPTION_417050^Restore HP each turn^每回合恢復MP^매 턴마다 MP 회복^Restaure les PV à chaque tour^Stellt jede Runde LP wieder her^Recupera VIT cada turno
+MST_ABILITY_SHORTDESCRIPTION_417060^Boost DEF each turn^每回合提高防禦^매 턴마다 방어력 상승^Augmente la DEF à chaque tour^Erhöht jede Runde ABW^Aumenta la DEF cada turno
+MST_ABILITY_SHORTDESCRIPTION_417070^Boost DEF each turn^每回合提高防禦^매 턴마다 방어력 상승^Augmente la DEF à chaque tour^Erhöht jede Runde ABW^Aumenta la DEF cada turno
+MST_ABILITY_SHORTDESCRIPTION_417080^Boost DEF each turn^每回合提高防禦^매 턴마다 방어력 상승^Augmente la DEF à chaque tour^Erhöht jede Runde ABW^Aumenta la DEF cada turno
+MST_ABILITY_SHORTDESCRIPTION_417090^Boost DEF each turn^每回合提高防禦^매 턴마다 방어력 상승^Augmente la DEF à chaque tour^Erhöht jede Runde ABW^Aumenta la DEF cada turno
+MST_ABILITY_SHORTDESCRIPTION_417100^Boost DEF each turn^每回合提高防禦^매 턴마다 방어력 상승^Augmente la DEF à chaque tour^Erhöht jede Runde ABW^Aumenta la DEF cada turno
+MST_ABILITY_SHORTDESCRIPTION_417110^Boost SPR each turn^每回合提高精神^매 턴마다 정신력 상승^Augmente la PSY à chaque tour^Erhöht jede Runde PSY^Aumenta el ESP cada turno
+MST_ABILITY_SHORTDESCRIPTION_417120^Boost SPR each turn^每回合提高精神^매 턴마다 정신력 상승^Augmente la PSY à chaque tour^Erhöht jede Runde PSY^Aumenta el ESP cada turno
+MST_ABILITY_SHORTDESCRIPTION_417130^Boost SPR each turn^每回合提高精神^매 턴마다 정신력 상승^Augmente la PSY à chaque tour^Erhöht jede Runde PSY^Aumenta el ESP cada turno
+MST_ABILITY_SHORTDESCRIPTION_417140^Boost SPR each turn^每回合提高精神^매 턴마다 정신력 상승^Augmente la PSY à chaque tour^Erhöht jede Runde PSY^Aumenta el ESP cada turno
+MST_ABILITY_SHORTDESCRIPTION_417150^Boost SPR each turn^每回合提高精神^매 턴마다 정신력 상승^Augmente la PSY à chaque tour^Erhöht jede Runde PSY^Aumenta el ESP cada turno
+MST_ABILITY_SHORTDESCRIPTION_450800^Boost HP and ATK by 15%^提高15%HP攻擊^HP와 공격력 15% 상승^Augmente les PV et l'ATT de 15 %^Erhöht LP und ANG um 15%^Aumenta la VIT y el ATQ un 15%
+MST_ABILITY_SHORTDESCRIPTION_450810^Boost MP and MAG by 15%^提高15%MP魔力^MP와 마력 15% 상승^Augmente les PM et la MAGIE de 15 %^Erhöht MP und MAG um 15%^Aumenta los PM y la MAG un 15%
+MST_ABILITY_SHORTDESCRIPTION_450820^Boost HP and DEF by 15%^提高15%HP防禦^HP와 방어력 15% 상승^Augmente les PV et la DEF de 15 %^Erhöht LP und ABW um 15%^Aumenta la VIT y la DEF un 15%
+MST_ABILITY_SHORTDESCRIPTION_450830^Boost MP and SPR by 15%^提高15%MP精神^MP와 정신력 15% 상승^Augmente les PM et la PSY de 15 %^Erhöht MP und PSY um 15%^Aumenta los PM y el ESP un 15%
+MST_ABILITY_SHORTDESCRIPTION_450840^Boost HP and SPR by 15%^提高15%HP精神^HP와 정신력 15% 상승^Augmente les PV et la PSY de 15 %^Erhöht LP und PSY um 15%^Aumenta la VIT y el ESP un 15%
+MST_ABILITY_SHORTDESCRIPTION_450850^Boost ATK and MAG by 30%^提高30%攻擊魔力^공격력과 마력 30% 상승^Augmente l'ATT et la MAGIE de 30 %^Erhöht ANG und MAG um 30%^Aumenta el ATQ y la MAG un 30%
+MST_ABILITY_SHORTDESCRIPTION_450860^Boost HP and MP by 15%^提高15%HPMP^HP와 MP 15%상승^Augmente les PV et les PM de 15 %^Erhöht LP und MP um 15%^Aumenta la VIT y los PM un 15%
 MST_ABILITY_SHORTDESCRIPTION_501641^^^^^^
 MST_ABILITY_SHORTDESCRIPTION_501642^^^^^^
 MST_ABILITY_SHORTDESCRIPTION_501651^^^^^^
@@ -7375,11 +7387,443 @@ MST_ABILITY_SHORTDESCRIPTION_508272^^^^^^
 MST_ABILITY_SHORTDESCRIPTION_508280^^^^^^
 MST_ABILITY_SHORTDESCRIPTION_508281^^^^^^
 MST_ABILITY_SHORTDESCRIPTION_508282^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508290^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508300^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508301^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508302^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508303^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508304^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508305^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508306^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508307^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508308^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508309^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508311^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508312^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508313^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508314^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508320^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508330^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508331^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508340^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508341^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508342^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508343^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508350^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508351^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508360^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508361^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508362^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508363^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508371^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508372^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508373^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508380^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508381^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508382^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508383^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508390^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508392^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508400^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508401^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508402^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508403^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508410^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508411^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508412^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508413^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508414^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508415^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508416^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508417^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508418^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508419^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508420^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508421^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508422^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508423^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508424^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508425^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508426^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508427^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508428^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508430^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508440^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508441^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508442^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508443^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508450^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508451^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508452^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508453^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508454^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508460^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508461^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508462^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508470^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508471^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508472^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508480^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508481^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508482^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508490^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508491^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508500^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508510^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508511^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508512^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508513^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508520^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508521^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508522^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508523^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508524^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508525^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508526^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508530^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508531^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508532^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508533^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508540^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508541^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508542^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508543^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508544^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508545^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508546^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508547^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508548^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508549^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508550^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508551^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508552^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508553^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508554^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508555^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508560^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508561^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508562^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508563^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508564^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508565^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508566^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508567^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508568^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508569^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508570^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508571^Chance of charming all enemies, chance of temporarily guarding allies against physical damage, and allow caster to escape three attacks^^^^^Puede infligir embrujo a todos los enemigos, posibilita proteger a un aliado aleatorio contra daño físico en guardia y el usuario puede evadir 3 ataques
+MST_ABILITY_SHORTDESCRIPTION_508572^(Once every 3 turns) Chance of charming all enemies and chance of temporarily guarding allies against magic damage^^^^^Puede infligir embrujo a todos los enemigos, posibilita proteger a un aliado aleatorio contra daño mágico en guardia (una vez cada 3 turnos)
+MST_ABILITY_SHORTDESCRIPTION_508573^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508574^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508575^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508576^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508577^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508580^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508581^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508591^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508600^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508601^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508602^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508603^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508604^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508605^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508610^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508620^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508621^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508622^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508630^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508631^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508632^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508633^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_508634^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_600530^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_600540^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_600550^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_600560^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_600570^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_600580^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_600590^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_600600^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_600640^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_600650^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_600651^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_706190^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_706200^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_706210^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_706220^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_706230^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_706240^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_706250^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_706260^^^^^^
 MST_ABILITY_SHORTDESCRIPTION_707170^Enable mog waltz for one ally one time and restore HP and MP for self^賦予1名隊員可以使用1次「莫古華爾茲」的效果+恢復自身HP、MP^아군 1명에게 '모그 왈츠' 1회 사용 가능+자신의 HP와 MP 회복^Permet à un allié d'utiliser Valse mog et restaure les PV et les PM du lanceur^Ermöglicht einem Verb. einmal Mogry-Walzer und regeneriert eigene LP und MP.^Un aliado aprende Vals moguri una vez y el usuario recupera VIT y PM
 MST_ABILITY_SHORTDESCRIPTION_707171^Enable mog waltz for one ally one time, restore HP and MP for self, and enable dual white magic for 3 turns^賦予1名隊員可以使用1次「莫古華爾茲」的效果+恢復自身HP、MP+3回合內可以使用「W白魔法」^아군 1명에게 '모그 왈츠' 1회 사용 가능+자신의 HP와 MP 회복+3턴 동안 'W 백마법' 사용 가능^Permet à un allié d'utiliser Valse mog une fois, restaure les PV et les PM du lanceur et permet d'utiliser Double magie blanche pendant 3 tours^Ermöglicht einem Verb. einmal Mogry-Walzer und regeneriert eigene LP und MP + ermöglicht 3 Runden lang Doppelmagie Weiß.^Un aliado aprende Vals moguri una vez, el usuario recupera VIT y PM, y aprende Magia blanca doble durante 3 turnos
 MST_ABILITY_SHORTDESCRIPTION_707172^Deal partial unmitigated damage to one enemy^對1名敵人發動無視部分防禦的攻擊^적 1명에게 일부 방어 무시 피해^Dégâts en partie fixes sur un ennemi^Fügt einem Gegner teilweise direkten Schaden zu.^Daño absoluto parcial a un enemigo
 MST_ABILITY_SHORTDESCRIPTION_707173^Deal partial unmitigated damage to one enemy^對1名敵人發動無視部分防禦的攻擊^적 1명에게 일부 방어 무시 피해^Dégâts en partie fixes sur un ennemi^Fügt einem Gegner teilweise direkten Schaden zu.^Daño absoluto parcial a un enemigo
+MST_ABILITY_SHORTDESCRIPTION_707174^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707175^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707176^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707177^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707178^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707179^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707180^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707181^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707182^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707183^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707184^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707185^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707186^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707187^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707188^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707189^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707190^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707191^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707192^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707193^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707194^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707195^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707196^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707197^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707198^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707199^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707200^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707201^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707202^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707203^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707204^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707205^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707206^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707207^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707208^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707209^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707210^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707211^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707212^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707213^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707214^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707215^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707216^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707217^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707218^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707219^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707220^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707221^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707222^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707223^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707224^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707225^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707226^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707227^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707228^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707229^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707230^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707231^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707232^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707233^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707234^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707235^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707236^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707237^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707238^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707239^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707240^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707241^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707242^Temporarily guard select ally against physical and magic damage and boost own DEF and SPR^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707243^Temporarily guard select ally against physical and magic damage and boost own DEF and SPR^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707244^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707245^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707246^Chance of guarding allies against physical damage^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707247^Chance of guarding allies against physical damage^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707248^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707249^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707250^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707251^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707252^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707253^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707254^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707255^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707256^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707257^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707258^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707259^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707262^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707263^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707264^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707265^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707266^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707267^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707268^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707269^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707270^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707271^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707272^Chance of temporarily guarding allies against magic damage^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707273^Chance of temporarily guarding allies against magic damage^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707274^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707275^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707276^Chance of guarding allies against magic damage^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707277^Chance of guarding allies against magic damage^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707278^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707279^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707280^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707281^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707282^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707283^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707284^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707285^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707286^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707287^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707288^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707289^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707290^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707291^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707292^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707293^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707294^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707295^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707296^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707297^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707298^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707299^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707300^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707301^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707302^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707303^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707304^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707305^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707306^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707307^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707308^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707309^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707310^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707311^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707312^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707313^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707314^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707315^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707316^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707317^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707318^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707319^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707320^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707321^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707322^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707323^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707324^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707325^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707326^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707327^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707328^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707329^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707330^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707331^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707332^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707333^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707334^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707335^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707336^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707337^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707338^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707339^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707340^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707341^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707342^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707343^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707344^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707345^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707346^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707347^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707348^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707349^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707350^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707351^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707352^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707353^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707354^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707355^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707356^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707357^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707358^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707359^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707360^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707361^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707362^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707363^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707364^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707365^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707366^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707367^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707368^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707369^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707370^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707371^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707372^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707373^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707374^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707375^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707376^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707377^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707378^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707379^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707380^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707381^^^^^^
+MST_ABILITY_SHORTDESCRIPTION_707382^^^적 1명에게 불속성과 땅속성 피해+불속성과 땅속성 저항력 감소^^^
+MST_ABILITY_SHORTDESCRIPTION_707383^^^적 1명에게 불속성과 땅속성 피해+불속성과 땅속성 저항력 감소^^^
+MST_ABILITY_SHORTDESCRIPTION_707384^^^아군 전체의 공격력, 방어력, 마력, 정신력 상승^^^
+MST_ABILITY_SHORTDESCRIPTION_707385^^^아군 전체의 공격력, 방어력, 마력, 정신력 상승+LB 게이지 증가^^^
+MST_ABILITY_SHORTDESCRIPTION_707386^^^적 1명에게 피해+공격력, 방어력, 마력, 정신력 감소^^^
+MST_ABILITY_SHORTDESCRIPTION_707387^^^적 1명에게 피해+공격력, 방어력, 마력, 정신력 감소^^^
+MST_ABILITY_SHORTDESCRIPTION_910978^Caster can dodge some physical attacks once after a battle begins or after being revived^戰鬥開始時和從無法戰鬥狀態中復活時發動者可以閃避部分物理攻擊^전투 재개 또는 전투불능 상태에서 회복했을 때, 자신에게 일부 물리공격 1회 회피 효과 부여^Le lanceur peut éviter certaines attaques physiques une fois après le début du combat ou après avoir été ressuscité ^Benutzer kann einigen phys. Angriffen ein Mal nach Beginn eines Kampfes oder nach Wiederbelebung ausweichen.^El usuario puede esquivar un ataque físico al comenzar el combate o después de revivir
+MST_ABILITY_SHORTDESCRIPTION_911010^Caster can dodge some physical attacks once after a battle begins or after being revived^戰鬥開始時和從無法戰鬥狀態中復活時發動者可以閃避部分物理攻擊^전투 재개 또는 전투불능 상태에서 회복했을 때, 자신에게 일부 물리공격 1회 회피 효과 부여^Le lanceur peut éviter certaines attaques physiques une fois après le début du combat ou après avoir été ressuscité ^Benutzer kann einigen phys. Angriffen ein Mal nach Beginn eines Kampfes oder nach Wiederbelebung ausweichen.^El usuario puede esquivar un ataque físico al comenzar el combate o después de revivir
+MST_ABILITY_SHORTDESCRIPTION_911020^Reduce fire resistance for one enemy^降低1名敵人的火屬性耐性^적 1명의 불속성 저항력 감소^Réduit la résistance au feu d'un ennemi^Verringert Feuerresistenz eines Gegners.^Reduce la resistencia al fuego de un enemigo
+MST_ABILITY_SHORTDESCRIPTION_911011^Boost gil obtained by defeating enemies^提高擊敗敵人時獲得ＧＩＬ的量^적을 쓰러뜨리고 얻는 길 획득량 증가^Augmente les sommes en gils obtenues en terrassant un ennemi^Erhöht Drop-Wahrscheinlichkeit von durch besiegte Gegner erhaltene Gil.^Aumenta la cantidad de guiles obtenida al derrotar enemigos
+MST_ABILITY_SHORTDESCRIPTION_911012^Critical damage to one enemy^對1名敵人發動暴擊攻擊^적 1명에게 크리티컬 피해^Dégâts critiques à un ennemi^Fügt einem Gegner krit. Schaden zu.^Daño crítico a un enemigo
+MST_ABILITY_SHORTDESCRIPTION_911013^Damage and reduce DEF and SPR for one enemy^攻擊1名敵人+降低防禦精神^적 1명에게 피해+방어력과 정신력 감소^Dégâts et réduit la DEF et la PSY d'un ennemi^Fügt einem Gegner Schaden zu und verringert seine ABW/PSY.^Daña y reduce la DEF y el ESP de un enemigo
+MST_ABILITY_SHORTDESCRIPTION_911014^Damage and reduce ATK and MAG for one enemy^攻擊1名敵人+降低攻擊魔力^적 1명에게 피해+공격력과 마력 감소^Dégâts et réduit l'ATT et la MAGIE d'un ennemi^Fügt einem Gegner Schaden zu und verringert seine ANG/MAG.^Daña y reduce el ATQ y la MAG de un enemigo
+MST_ABILITY_SHORTDESCRIPTION_911015^Boost drop rate of items from enemies^提高敵人的道具掉落率^적의 아이템 드랍률 상승^Augmente les chances d'obtenir un objet en terrassant un ennemi^Mehr Gegenstände von Gegnern^Los enemigos dejan caer más objetos
+MST_ABILITY_SHORTDESCRIPTION_911016^Fire damage to all enemies^對全體敵人發動火屬性攻擊^적 전체에 불속성 피해^Dégâts de feu à tous les ennemis^Fügt allen Gegnern Feuerschaden zu.^Daño de fuego a todos los enemigos
+MST_ABILITY_SHORTDESCRIPTION_911017^Deal partial unmitigated damage and reduce fire resistance for all enemies^對全體敵人發動無視部分防禦的攻擊+降低火屬性耐性^적 전체에 일부 방어 무시 피해+불속성 저항력 감소^Inflige des dégâts en partie fixes et réduit la résistance au feu de tous les ennemis^Fügt allen Gegnern teilweise direkten Feuerschaden zu und verringert ihre Feuerresistenz.^Inflige daño parcial absoluto y reduce la res. al fuego de todos los enemigos
+MST_ABILITY_SHORTDESCRIPTION_911034^Boost ATK and physical damage against machina monsters, and enable rebellion for Just Cause 3 units^提高攻擊+物理攻擊時提高對機械系魔物的傷害+Just Cause 3兵員可以使用「叛亂」^공격력 상승+물리공격 시 기계형 마물에 대한 피해량 상승+Just Cause 3 유닛 한정 '반란' 사용 가능^Augmente l'ATT et les dégâts physiques infligés aux monstres de type machine, et permet d'utiliser Rébellion pour les unités de Just Cause 3^Erhöht ANG und physischen Schaden gegen Maschinenmonster und ermöglicht Rebellion für Just Cause 3 Einheiten.^Aumenta el ATQ y el daño físico contra máquinas, y las unidades de Just Cause 3 aprenden Rebelión
+MST_ABILITY_SHORTDESCRIPTION_911035^Restore MP and LB gauge fills each turn^恢復MP+每回合自動增加極限技槽^매 턴마다 MP 회복+LB 게이지 증가^Restaure les PM et remplit la jauge de limite à chaque tour^Stellt MP wieder her und füllt jede Runde Limitmeter.^Recupera PM y la barra de EL se rellena cada turno
+MST_ABILITY_SHORTDESCRIPTION_911036^Damage and chance of silencing one enemy^攻擊1名敵人+一定機率施加沉默效果^적 1명에게 피해+일정 확률로 침묵 부여^Dégâts et chance d'infliger silence à un ennemi^Fügt einem Gegner Schaden zu + Chance auf Stille.^Daña y puede infligir silencio a un enemigo
+MST_ABILITY_SHORTDESCRIPTION_911037^Damage and chance of confusing all enemies^攻擊全體敵人+一定機率施加混亂效果^적 전체에 피해+일정 확률로 혼란 부여^Dégâts et chance de rendre confus tous les ennemis^Fügt allern Gegnern Schaden zu und Chance auf Konfus.^Daña y puede confundir a todos los enemigos
+MST_ABILITY_SHORTDESCRIPTION_911038^Activate childhood friendship when Rico is in party and not KO'd^瑞科在隊伍內並為可戰鬥狀態時才能發動「兒時情誼」^ '리코'가 파티에 포함되어 있고 전투불능 상태가 아닌 경우 '죽마고우의 우정' 발동^Active Ami d'enfance quand Rico est dans le groupe et n'est pas KO^Ermöglicht Sandkastenfreundschaft, wenn Rico in der Gruppe und nicht kampfunfähig ist.^Activa Amigos de la infancia cuando Rico se encuentra en el grupo sin estar K.O.
+MST_ABILITY_SHORTDESCRIPTION_911039^Damage and cast dispel on all enemies^攻擊全體敵人+驅魔^적 전체에 피해+능력치 효과 해제^Dégâts et lance Dissipation sur tous les ennemis^Fügt allen Gegnern Schaden zu und wirkt Bann.^Daña y lanza Antimagia a todos los enemigos
+MST_ABILITY_SHORTDESCRIPTION_911040^LB gauge fills each turn^每回合自動增加極限技槽^매 턴마다 LB 게이지 증가^La jauge de limite se remplit à chaque tour^Limitmeter füllt sich jede Runde.^La barra de EL se llena cada turno
+MST_ABILITY_SHORTDESCRIPTION_911041^Consume caster's HP to damage and drain MP from one enemy^消耗自身的HP來攻擊1名敵人+吸取MP^자신의 HP를 소모하여 피해+적 1명의 MP 흡수^Consomme les PV du lanceur pour infliger des dégâts à un ennemi et lui voler ses PM^Verbraucht LP des Benutzers um um einem Gegner Schaden zuzufügen und ihm MP zu stehlen.^Consume la VIT del usuario para dañar y drenar PM a un enemigo
+MST_ABILITY_SHORTDESCRIPTION_911042^Damage and reduce DEF and SPR for all enemies^攻擊全體敵人+降低防禦精神^적 전체에 피해+방어력과 정신력 감소^Dégâts et réduit la DEF et la PSY de tous les ennemis^Fügt allen Gegnern Schaden zu und verringert ihre ABW und PSY.^Daña y reduce la DEF y el ESP a todos los enemigos
+MST_ABILITY_SHORTDESCRIPTION_911043^Activate undercover when Rico is in party and not KO'd^瑞科在隊伍內並為可戰鬥狀態時才能發動「諜報行動」^ '리코'가 파티에 포함되어 있고 전투불능 상태가 아닌 경우 '첩보 활동' 발동^Active Sous couverture quand Rico est dans le groupe et n'est pas KO^Ermöglicht Verdeckte Ermittlung, wenn Rico in der Gruppe und nicht kampfunfähig ist.^Activa Ocultación cuando Rico se encuentra en el grupo sin estar K.O.
+MST_ABILITY_SHORTDESCRIPTION_911044^Boost LB gauge fill rate for all allies^提高極限技石對全體隊員極限技槽的增加量^아군 전체의 LB 게이지 효율 상승^Augmente le taux de remplissage de la jauge de limite pour tous les alliés^Füllt Limitmeter für alle Verb.^La barra de EL de todos los aliados se llena más rápido
+MST_ABILITY_SHORTDESCRIPTION_911045^Damage and reduce ATK for one enemy^攻擊1名敵人+降低攻擊^적 1명에게 피해+공격력 감소^Dégâts et réduit l'ATT d'un ennemi^Fügt einem Gegner Schaden zu und verringert seinen ANG.^Daña y reduce el ATQ de un enemigo
+MST_ABILITY_SHORTDESCRIPTION_911046^Damage and inflict random status ailment on one enemy^攻擊1名敵人+隨機施加異常狀態效果^적 1명에게 피해+무작위로 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 부여^Dégâts et inflige une altération d'état aléatoire à un ennemi^Fügt einem Gegner Schaden zu und fügt ihm zuf. Statusveränderung zu.^Daña e inflige un estado alterado aleatorio a un enemigo
+MST_ABILITY_SHORTDESCRIPTION_911047^Restore HP and MP each turn^每回合自動恢復HP、MP^매 턴마다 HP와 MP 회복^Restaure les PV et PM à chaque tour^Regeneriert jede Runde LP/MP.^Recupera VIT y PM cada turno
+MST_ABILITY_SHORTDESCRIPTION_911048^Boost resistance to poison, blind, sleep, silence, paralysis, confusion, disease, and stone for self^提高自身的中毒失明睡眠沉默麻痺混亂生病石化耐性^자신의 독, 암흑, 수면, 침묵, 마비, 혼란, 질병, 석화 저항력 상승^Augmente la résistance à poison, cécité, sommeil, silence, paralysie, confusion, maladie et pétrification du lanceur^Erhöht Resistenz gegen Gift, Blind, Schlaf, Stille, Lähmung, Konfus, Virus und Stein für Benutzer.^Aumenta la resistencia a ven, ceg, sue, sil, par, con, enf y pie del usuario
+MST_ABILITY_SHORTDESCRIPTION_911053^Enable specific abilities to be used twice in one turn (Activate one time each regardless of equipment conditions)^1回合內可以使用2次特定能力（無視裝備狀態，只會各發動1次）^특정 어빌리티를 1턴에 2회 사용 가능(장비 상태와 관계 없이 1회씩 발동)^Permet d'utiliser les aptitudes spéciales à deux reprises en un seul tour (chacune s'active une fois peu importe les conditions de l'équipement)^Ermöglicht gewissen Fertigkeiten zweimalige Anwendung in einer Runde (Aktiviere je ein Mal, unabhängig von Ausrüstungssituation).^Aprende habilidades específicas que se pueden usar 2 veces en un mismo turno (se activan una vez cada una sin importar las condiciones específicas del equipo)
+MST_ABILITY_SHORTDESCRIPTION_911097^Chance of evading physical attacks^一定機率閃避部分物理攻擊^일정 확률로 일부 물리공격 회피^Chance d'esquiver les attaques physiques^Chance, phys. Angriffen auszuweichen.^Probabilidad de evadir ataques físicos
+MST_ABILITY_SHORTDESCRIPTION_911098^Boost ATK by 20%^提高20%攻擊^공격력 20% 상승^Augmente l'ATT de 20%^Erhöht ANG um 20%.^Aumenta el ATQ un 20%
+MST_ABILITY_SHORTDESCRIPTION_911085^Damage and reduce ATK and MAG for all enemies^攻擊全體敵人+降低攻擊魔力^적 전체에 피해+공격력과 마력 감소^Dégâts et réduit l'ATT et la MAGIE de tous les ennemis^Fügt allen Gegnern Schaden zu und verringert ihre ANG/MAG.^Daña y reduce el ATQ y la MAG de todos los enemigos
+MST_ABILITY_SHORTDESCRIPTION_911086^Damage and reduce DEF and SPR for all enemies^攻擊全體敵人+降低防禦精神^적 전체에 피해+방어력과 정신력 감소^Dégâts et réduit la DEF et la PSY de tous les ennemis^Fügt allen Gegnern Schaden zu und verringert ihre ABW/PSY.^Daña y reduce la DEF y el ESP de todos los enemigos
+MST_ABILITY_SHORTDESCRIPTION_911087^Boost physical damage inflicted against humans for self and damage one enemy^提高自身對人系魔物造成的物理傷害+攻擊1名敵人^자신에게 물리공격 시 인간형 마물에게 주는 피해량 상승 효과 부여+적 1명에게 피해^Augmente les dégâts physiques infligés aux humains par le lanceur et inflige des dégâts à un ennemi^Erhöht phys. Schaden gegen Menschen für Benutzer und fügt einem Gegner Schaden zu.^Aumenta el daño físico que el usuario inflige contra humanos y daña a un enemigo
+MST_ABILITY_SHORTDESCRIPTION_911088^Chance of escaping death when HP is above a certain point^HP高於一定量時一定機率避免陷入無法戰鬥狀態^HP가 일정량 이상일 때 일정 확률로 전투불능 상태 견딤^Chance d'échapper à la mort quand les PV sont au-dessus d'un certain seuil^Chance, Tod zu entkommen, wenn LP über einem gewissen Wert sind.^Probabilidad de no caer K.O. cuando la VIT se encuentra por encima de cierto nivel
+MST_ABILITY_SHORTDESCRIPTION_911089^Damage and chance of stopping one enemy^攻擊1名敵人+一定機率施加停止效果^적 1명에게 피해+일정 확률로 스톱 부여^Dégâts et chance d'infliger Stop à un ennemi^Fügt einem Gegner Schaden zu + Chance auf Stopp.^Daña y probabilidad de infligir paro a un enemigo
+MST_ABILITY_SHORTDESCRIPTION_911090^Leap into the air, then attack one enemy next turn, and caster can dodge two physical attacks^脫離至空，下一回合對1名敵人進行落下攻擊+賦予自身閃避2次物理攻擊的效果^공중으로 이탈 후 다음 턴에 낙하하여 적 1명에게 피해+사용자가 물리공격 2회 회피 가능^Saute dans les airs et attaque un ennemi au prochain tour, et le lanceur peut esquiver deux attaques physiques^Schwingt sich in die Lüfte und greift Gegner in der folgenden Runde an + Benutzer kann zwei phys. Angriffen ausweichen.^Salta, ataca en el próximo turno y el usuario puede esquivar 2 ataques físicos
+MST_ABILITY_SHORTDESCRIPTION_911091^Boost ATK when equipped with a gun or fist^提高裝備槍格鬥武器時的攻擊^총과 격투무기 장착 시 공격력 상승^Augmente l'ATT quand un pistolet ou des poings sont équipés^Erhöht ANG, wenn mit Schusswaffe oder Faust ausgerüstet.^Aumenta el ATQ al llevar arma o puños
+MST_ABILITY_SHORTDESCRIPTION_911092^Nullify blind, sleep, confusion, and stone, and chance of evading physical attacks^失明睡眠混亂石化無效+一定機率閃避部分物理攻擊^암흑, 수면, 혼란, 석화 무효화+일정 확률로 일부 물리공격 회피^Annule cécité, sommeil, confusion et pétrification, et confère une chance d'esquiver les attaques physiques^Annulliert Blind, Schlaf, Konfus und Stein + Chance, phys. Angriffen auszuweichen.^Anula ceg, sue, con y pie, probabilidad de esquivar ataques físicos
+MST_ABILITY_SHORTDESCRIPTION_911093^Restore MP each turn^每回合自動恢復MP^매 턴마다 MP 회복^Restaure les PM à chaque tour^Regeneriert jede Runde MP.^Recupera PM cada turno
+MST_ABILITY_SHORTDESCRIPTION_911094^Allow caster to escape battle for a set number of turns, and fully restore HP and MP^脫離戰鬥數回合+完全恢復HP、MP^일정 턴 동안 전투에서 이탈+HP와 MP 모두 회복^Permet au lanceur de sortir du combat pour un certain nombre de tours et de restaurer entièrement ses PV et PM^Erlaubt Benutzer, dem Kampf für eine gewisse Rundenanzahl zu entkommen und stellt seine LP/MP vollständig wieder her.^El usuario puede escapar del combate durante una serie de turnos, recupera toda la VIT y los PM
+MST_ABILITY_SHORTDESCRIPTION_911095^Attack three enemies chosen at random^隨機對3個敵人造成傷害^무작위로 적에게 3회 피해^Attaque trois ennemis choisis au hasard^Lässt 3 zufällig ausgewählte Gegnern angreifen.^Ataca a 3 enemigos elegidos al azar
+MST_ABILITY_SHORTDESCRIPTION_911096^Deal partial unmitigated damage to all enemies^對全體敵人發動無視部分防禦的攻擊^적 전체에 일부 방어 무시 피해^Inflige des dégâts en partie fixes à tous les ennemis^Fügt allen Gegnern teilweise direkten Schaden zu.^Daño absoluto parcial a todos los enemigos
+MST_ABILITY_SHORTDESCRIPTION_910971^View info on one enemy and boost DEF and SPR for 3 turns for self^查看1名敵人的情報+3回合內提高自身的防禦精神^적 1명의 정보 확인+3턴 동안 자신의 방어력과 정신력 상승^Décèle les informations relatives à un ennemi et augmente la DEF et la PSY du lanceur pendant 3 tours^Zeigt Info eines Gegners und erhöht 3 Runden lang ABW/PSY des Benutzers.^Muestra la info. de un enemigo y aumenta la DEF y el ESP del usuario durante 3 turnos
+MST_ABILITY_SHORTDESCRIPTION_910972^Restore HP for one ally^恢復1名隊員的HP^아군 1명의 HP 회복^Restaure les PV d'un allié^Regeneriert LP eines Verb.^Recupera la VIT de un aliado
+MST_ABILITY_SHORTDESCRIPTION_910973^Damage all enemies^攻擊全體敵人^적 전체에 피해^Dégâts à tous les ennemis^Fügt allen Gegnern Schaden zu.^Daña a todos los enemigos
+MST_ABILITY_SHORTDESCRIPTION_910974^Boost DEF and SPR for all allies for three turns^3回合內提高全體隊員的防禦精神^3턴 동안 아군 전체의 방어력과 정신력 상승^Augmente la DEF et la PSY de tous les alliés pendant 3 tours^Erhöht 3 Runden lang ABW/PSY aller Verb.^Aumenta la DEF y el ESP de todos los aliados durante 3 turnos
+MST_ABILITY_SHORTDESCRIPTION_910975^Boost ATK and MAG for all allies for three turns^3回合內提高全體隊員的攻擊魔力^3턴 동안 아군 전체의 공격력과 마력 상승^Augmente l'ATT et la MAGIE pour tous les alliés pendant 3 tours^Erhöht 3 Runden lang ANG und MAG aller Verbündeten.^Aumenta el ATQ y la MAG de todos los aliados durante 3 turnos
+MST_ABILITY_SHORTDESCRIPTION_910976^Boost ATK, MAG, DEF, and SPR by 10%^提高10%攻擊魔力防禦精神^공격력, 마력, 방어력, 정신력 10% 상승^Augmente l'ATT, la MAGIE, la DEF et la PSY de 10%^Erhöht ANG, MAG, ABW und PSY um 10%.^Aumenta ATQ, MAG, DEF y ESP un 10%
+MST_ABILITY_SHORTDESCRIPTION_911051^Restore HP for all allies^恢復全體隊員的HP^아군 전체의 HP 회복^Restaure les PV de tous les alliés^Regeneriert LP aller Verb.^Recupera la VIT de todos los aliados
+MST_ABILITY_SHORTDESCRIPTION_911052^Cure poison, blind, sleep, silence, paralysis, and confusion for one ally^治療1名隊員的中毒失明睡眠沉默麻痺混亂狀態^아군 1명의 독, 암흑, 수면, 침묵, 마비, 혼란 회복^Annule poison, cécité, sommeil, silence, paralysie et confusion pour un allié^Heilt Gift, Blind, Schlaf, Stumm, Lähmung und Konfus für einen Verb.^Cura ven, ceg, sue, sil, par y conf a un aliado
+MST_ABILITY_SHORTDESCRIPTION_910977^Boost physical damage against machina monsters for three turns for one ally^3回合內提高1名隊員對機械系魔物造成的物理傷害^아군 1명에게 3턴 동안 물리공격 시 기계형 마물에게 주는 피해량 상승 효과 부여^Augmente les dégâts infligés aux monstres de type machine pendant 3 tours pour un allié^Erhöht für einen Verb. 3 Runden lang phys. Schaden gegen Maschinenmonster.^Aumenta el daño físico que inflige un aliado contra máquinas durante 3 turnos
+MST_ABILITY_SHORTDESCRIPTION_910970^Boost ATK and SPR when equipped with a gun^提高裝備槍時的攻擊精神^총 장착 시 공격력과 정신력 상승^Augmente l'ATT et la PSY lorsqu'un pistolet est équipé^<br>Erhöht ANG und PSY wenn mit Schussw. ausgerüstet<br>^Aumenta el ATQ y el ESP al llevar un arma
 MST_ABILITY_SHORTDESCRIPTION_911160^Boost DEF and SPR by 15%^提高15%防禦精神^방어력과 정신력 15% 상승^Augmente la DEF et la PSY de 15%^Erhöht ABW und PSY um 15%.^Aumenta la DEF y el ESP un 15%
 MST_ABILITY_SHORTDESCRIPTION_911161^Boost HP by 15%, and DEF/SPR by 5%^提高15%HP+提高5%防禦精神^HP 15% 상승+방어력과 정신력 5% 상승^Augmente les PV de 15% et la DEF/PSY de 5%^Erhöht LP um 15% und ABW/PSY um 5%.^Aumenta la VIT un 15%, y la DEF y el ESP un 5%
 MST_ABILITY_SHORTDESCRIPTION_911162^Boost ATK and MAG by 15%^提高15%攻擊魔力^공격력과 마력 15% 상승^Augmente l'ATT et la MAGIE de 15%^Erhöht ANG und MAG um 15%.^Aumenta el ATQ y la MAG un 15%
 MST_ABILITY_SHORTDESCRIPTION_911163^Boost ATK by 20%^提高20%攻擊^공격력 20% 상승^Augmente l'ATT de 20%^Erhöht ANG um 20%.^Aumenta el ATQ un 20%
+MST_ABILITY_SHORTDESCRIPTION_911159^Boost ATK by 20% and MP by 10%^提高20%攻擊+提高10%MP^공격력 20% 상승+MP 10% 상승^Augmente l'ATT de 20% et les PM de 10%^Erhöht ANG um 20% und MP um 10%.^Aumenta el ATQ un 20% y los PM un 10%
+MST_ABILITY_SHORTDESCRIPTION_911169^Decrease chance of being targeted^^^^^

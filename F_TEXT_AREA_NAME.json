@@ -15,8 +15,8 @@ MST_AREA_NAME_996^Chapter 1 Replay^主線劇情回放·1章^메인 시나리오 
 MST_AREA_NAME_997^Chapter 2 Replay^主線劇情回放·2章^메인 시나리오 재생 2장^Revoir chapitre 2^Kapitel 2 wiederh.^Repetir cap. 2
 MST_AREA_NAME_216^Chamber of Riches^富豪之間^부호의 틈^Chambre des richesses^Kammer des Reichtums^Cámara de Riquezas
 MST_AREA_NAME_217^Chamber of Crystals^魔石之間^마석의 틈^Chambre des cristaux^Kammer der Kristalle^Cámara de Cristales
-MST_AREA_NAME_218^Cactuar Dunes^巨型仙人掌沙漠^사보텐더 사막^Désert des Pampas^Kaktor-Wüste^Dunas Cactilión
-MST_AREA_NAME_219^Gil Snapper's Cave^金幣龜洞窟^길거북 동굴^Caverne de Gilkhélone^Höhle der Gilkröte^Cuevas de Guilonio
+MST_AREA_NAME_218^Cactuar Dunes^巨型仙人掌沙漠^사보텐더 사막^Désert des Pampas^Kaktor-Wüste^Dunas de Cactilión
+MST_AREA_NAME_219^Gil Snapper's Cave^金幣龜洞窟^길거북 동굴^Caverne de Gilkhélone^Höhle der Gilkröte^Cueva del Guilonio
 MST_AREA_NAME_121^Dirnado^迪爾納特大陸^디르나드 대륙^Dirnado^Dirnado^Dirnado
 MST_AREA_NAME_301^Vault of Hidden Treasures^秘密的寶物庫^비밀의 보물창고^Coffre aux trésors cachés^Schließfach der verborgenen Schätze^Cámara del tesoro
 MST_AREA_NAME_701^The Spearmaiden^光槍少女^빛의 창을 든 소녀^La Lancière de lumière^Die Lanzenjungfer^Joven de la lanza
@@ -173,27 +173,26 @@ MST_AREA_NAME_930^God of Chaos^混沌之神^혼돈의 신^Dieu du chaos^Gott des
 MST_AREA_NAME_931^30 Million Downloads Raffle^3000萬下載 抽獎^3천만 다운로드 추첨^Tombola des 30 millions de téléchargements^30 Millionen Downloads Tombola^Sorteo por las 30 millones de descargas
 MST_AREA_NAME_932^Vault of Hidden Treasures^秘密的寶物庫^비밀의 보물창고^Coffre aux trésors cachés^Schließfach der verborgenen Schätze^Cámara del tesoro
 MST_AREA_NAME_1151^Visectrum^^^^^Visectrum
-MST_AREA_NAME_211^Dimensional Vortex^^^^^
+MST_AREA_NAME_211^Dimensional Vortex^次元夾縫^^^^
 MST_AREA_NAME_786^Strengthen Your Weapons^^^^^Refuerza tus armas
 MST_AREA_NAME_787^Once Per Day 2nd Anniversary Raid^^^^^
-MST_AREA_NAME_789^SeeD Field Test^^^^^
-MST_AREA_NAME_790^Dorr - Exploration^^^^^
-MST_AREA_NAME_791^Domain for Two^^^^^
-MST_AREA_NAME_792^Estark's Challenge^^^^^
-MST_AREA_NAME_793^March on the Emperor of the Underworld^^^^^
-MST_AREA_NAME_794^Shrine of Ru'Avitau^^^^^
-MST_AREA_NAME_795^Shrine of Ru'Avitau - Exploration^^^^^
-MST_AREA_NAME_796^The Color of Heartlessness^^^^^
-MST_AREA_NAME_798^Rats from the Gutters^^^^^
-MST_AREA_NAME_799^Born to Be King^^^^^
-MST_AREA_NAME_800^Caestino Mines - Exploration^^^^^
-MST_AREA_NAME_801^Creaking Light^^^^^
-MST_AREA_NAME_802^Lost City of Dipan^^^^^
-MST_AREA_NAME_803^Tower of Lezard Valeth^^^^^
-MST_AREA_NAME_804^Gaia's Cliffs^^^^^
-MST_AREA_NAME_805^Gaia's Cliffs - Exploration^^^^^
+MST_AREA_NAME_789^SeeD Field Exam^^^^^
+MST_AREA_NAME_790^Dollet - Exploration^^^^^
+MST_AREA_NAME_791^Domain for Two^兩人的領域^^^^Domio doble
+MST_AREA_NAME_792^Estark's Challenge^^^^^El desafío de Estark
+MST_AREA_NAME_793^March on the Lord of the Underworld^^^^^Marcha sobre el emperador del Inframundo
+MST_AREA_NAME_794^Shrine of Ru'Avitau^^^^^Templo de Ru'Avitau
+MST_AREA_NAME_795^Shrine of Ru'Avitau - Exploration^^^^^Templo de Ru'Avitau - Exploración
+MST_AREA_NAME_796^The Color of Heartlessness^^^^^El color del descorazonamiento
 MST_AREA_NAME_797^FFBE Raid - Dracotaur Lancer^FFBE 共鬥 - 半龍人槍兵^FFBE 레이드 - 괴룡병^Raid FFBE - Lancier dracotaure^FFBE Raubzug - Draconischer Lancier^Evento de banda de FFBE - Lancero dragoniano
 MST_AREA_NAME_798^Rats from the Gutters^地下蠢動的老鼠們^지하에서 튀어나온 생쥐들^Rats d'égout^Ratten aus der Kanalisation^Ratas de alcantarilla
+MST_AREA_NAME_799^The Heart of a King^^^^^El peso de la corona
+MST_AREA_NAME_800^Fodina Caestino - Exploration^^^^^Fodina Caestino - Exploración
+MST_AREA_NAME_801^Piercing Light^穿透之光^^^^Luz penetrante
+MST_AREA_NAME_802^Lost City of Dipan^^^^^Ciudad perdida de Dipan
+MST_AREA_NAME_803^Tower of Lezard Valeth^^^^^La torre de Lezard Valeth
+MST_AREA_NAME_804^Gaea's Cliff^^^^^Acantilados de Gaia
+MST_AREA_NAME_805^Gaea's Cliff - Exploration^^^^^Acantilados de Gaia - Exploración
 MST_AREA_NAME_806^Lion of the Mysterious Woods^^^^^
 MST_AREA_NAME_807^The Divine Beast^^^^^
 MST_AREA_NAME_808^The Dreaded Wandering Lands^^^^^
@@ -207,3 +206,5 @@ MST_AREA_NAME_815^Cave of Darkness^^^^^
 MST_AREA_NAME_818^The Moogle and the Lost Map^^^^^
 MST_AREA_NAME_898^Chamber of Arms^^^^^
 MST_AREA_NAME_901^Onward to the Chamber of Arms^^^^^
+MST_AREA_NAME_933^The Son of Medici^梅帝奇之子^메디치의 아들^Fils de Médici^Der Sohn von Medici^El hijo de Medici
+MST_AREA_NAME_934^Strike of the URGA Mstitel^烏爾加復仇者的衝擊^URGA Mstitel의 습격^Frappe du URGA Mstitel^Angriff des URGA Mstitel^El ataque del URGA Mstitel

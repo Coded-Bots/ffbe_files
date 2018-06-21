@@ -4286,7 +4286,7 @@ MST_MONSTER_NAME_112017001^Dark Soul^暗黑靈魂^어둠의 영혼^Âme obscure^
 MST_MONSTER_NAME_111087001^Moranensis^墨蘭花^벌레잡이제비꽃^Moranensis^Moranensis^Moranensis
 MST_MONSTER_NAME_101004001^Jumbo Rat^巨大鼠^특대 시궁쥐^Rat jumbo^Jumboratte^Rata jumbo
 MST_MONSTER_NAME_109006002^Queen Wasp^女王蜂^퀸 와스프^Reine guêpe^Wespenkönigin^Avispa reina
-MST_MONSTER_NAME_209016001^Red Claw^血紅巨蠍^레드 클로^Pince rouge^Rote Krähe^Garra roja
+MST_MONSTER_NAME_209016001^Red Claw^血紅巨蠍^레드 클로^Pince rouge^Rotschere^Garra roja
 MST_MONSTER_NAME_109006003^Queen Wasp^女王蜂^퀸 와스프^Reine guêpe^Wespenkönigin^Avispa reina
 MST_MONSTER_NAME_101004002^Jumbo Rat^巨大鼠^특대 시궁쥐^Rat jumbo^Jumboratte^Rata jumbo
 MST_MONSTER_NAME_209016002^Red Claw^血紅巨蠍^레드 클로^Pince rouge^Rote Krähe^Garra roja
@@ -5748,7 +5748,7 @@ MST_MONSTER_NAME_206012018^Scolopendra^鋼鐵裝甲^강철 지네^Scolopendre^Sc
 MST_MONSTER_NAME_306007001^Calixte^卡利斯特^칼리스트^Calixte^Calixte^Calixte
 MST_MONSTER_NAME_109018003^Wolf Spider^狼蜘蛛^늑대거미^Araignée loup^Wolfsspinne^Araña lobo
 MST_MONSTER_NAME_105022010^Shadow^暗影^섀도우^Ombre^Schatten^Shadow
-MST_MONSTER_NAME_110016021^Ice Sculpture^之雕像^얼음 조각상^Sculpture de glace^Eisskulptur^Estatua de hielo
+MST_MONSTER_NAME_110016021^Ice Sculpture^冰雕像^얼음 조각상^Sculpture de glace^Eisskulptur^Estatua de hielo
 MST_MONSTER_NAME_108024003^Haurvatat^水晶石^하우르바타트^Haurvatat^Haurvatat^Haurvatat
 MST_MONSTER_NAME_108015029^Aqua Elemental^水綠元素^물의 원소^Élémentaire cyan^Wasserling^Ente de agua
 MST_MONSTER_NAME_108015030^Aqua Elemental^水綠元素^물의 원소^Élémentaire cyan^Wasserling^Ente de agua
@@ -7136,3 +7136,8 @@ MST_MONSTER_NAME_109001015^Hornet^^^^^
 MST_MONSTER_NAME_109011008^Tarantula^^^^^
 MST_MONSTER_NAME_103011017^Green Slime^^^^^
 MST_MONSTER_NAME_111071006^Minituar^^^^^
+MST_MONSTER_NAME_900010444^Golden URGA Mstitel^黃金烏爾加復仇者^황금 URGA Mstitel^URGA Mstitel doré^Goldener URGA Mstitel^URGA Mstitel dorado
+MST_MONSTER_NAME_900010445^Golden URGA Mstitel^黃金烏爾加復仇者^황금 URGA Mstitel^URGA Mstitel doré^Goldener URGA Mstitel^URGA Mstitel dorado
+MST_MONSTER_NAME_900010446^Golden URGA Mstitel^黃金烏爾加復仇者^황금 URGA Mstitel^URGA Mstitel doré^Goldener URGA Mstitel^URGA Mstitel dorado
+MST_MONSTER_NAME_900010447^Golden URGA Mstitel^黃金烏爾加復仇者^황금 URGA Mstitel^URGA Mstitel doré^Goldener URGA Mstitel^URGA Mstitel dorado
+MST_MONSTER_NAME_900010448^URGA Mstitel^烏爾加復仇者^URGA Mstitel^URGA Mstitel^URGA Mstitel^URGA Mstitel

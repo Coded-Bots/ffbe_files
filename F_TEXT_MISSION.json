@@ -198,9 +198,9 @@ MST_MISSION_NAME_2111003^Chamber of Riches - ADV^富豪之間 上級^부호의 �
 MST_MISSION_NAME_2111101^Chamber of Crystals - BGN^魔石之間 初級^마석의 틈·초급^Chambre des cristaux - DBT ^Kammer der Kristalle - ANF^Cámara de los Cristales - PRI
 MST_MISSION_NAME_2111102^Chamber of Crystals - INT^魔石之間 中級^마석의 틈·중급^Chambre des cristaux - INT^Kammer der Kristalle - FOR^Cámara de los Cristales - INT
 MST_MISSION_NAME_2111103^Chamber of Crystals - ADV^魔石之間 上級^마석의 틈·상급^Chambre des cristaux - PRO^Kammer der Kristalle - EXP^Cámara de los Cristales - AVA
-MST_MISSION_NAME_2111201^Cactuar Dunes - Entrance^巨型仙人掌沙漠　入口^사보텐더 사막·입구^Désert des Pampas - Entrée^Kaktor-Wüste - Eingang^Dunas del Cactilio - Entrada
-MST_MISSION_NAME_2111202^Cactuar Dunes - Interior^巨型仙人掌沙漠　深處^사보텐더 사막·오지^Désert des Pampas - Cœur^Kaktor-Wüste - Innenteil^Dunas del Cactilio - Interior
-MST_MISSION_NAME_2111203^Cactuar Dunes - Uncharted Zone^巨型仙人掌沙漠　秘境^사보텐더 사막·비경^Désert des Pampas - Zone inexplorée^Kaktor-Wüste - Unerforschtes Gebiet^Dunas del Cactilio - Inexplorado
+MST_MISSION_NAME_2111201^Cactuar Dunes - Entrance^巨型仙人掌沙漠　入口^사보텐더 사막·입구^Désert des Pampas - Entrée^Kaktor-Wüste - Eingang^Dunas de Cactilión - Entrada
+MST_MISSION_NAME_2111202^Cactuar Dunes - Interior^巨型仙人掌沙漠　深處^사보텐더 사막·오지^Désert des Pampas - Cœur^Kaktor-Wüste - Innenteil^Dunas de Cactilión - Interior
+MST_MISSION_NAME_2111203^Cactuar Dunes - Uncharted Zone^巨型仙人掌沙漠　秘境^사보텐더 사막·비경^Désert des Pampas - Zone inexplorée^Kaktor-Wüste - Unerforschtes Gebiet^Dunas de Cactilión - Inexplorado
 MST_MISSION_NAME_2111301^Gil Snapper's Cave - Entrance^金幣龜洞窟·入口^길거북 동굴·입구^Caverne de Gilkhélone - Entrée^Höhle der Gilkröte - Eingang^Cueva del Guilonio - Entrada
 MST_MISSION_NAME_2111302^Gil Snapper's Cave - Center^金幣龜洞窟·中央^길거북 동굴·중부^Caverne de Gilkhélone - Centre^Höhle der Gilkröte - Mitte^Cueva del Guilonio - Centro
 MST_MISSION_NAME_2111303^Gil Snapper's Cave - Depths^金幣龜洞窟·深處^길거북 동굴·심층부^Caverne de Gilkhélone - Profondeurs^Höhle der Gilkröte - Tiefen^Cueva del Guilonio - Fondo
@@ -2368,7 +2368,7 @@ MST_MISSION_NAME_7430108^(Returned) Dangerous Woman Tour - Main Hall^【復刻�
 MST_MISSION_NAME_7560103^Lotus Mage Fina^白蓮魔道士菲娜^백련의 마도사 피나^Fina, mage du lotus^Lotusmagierin Fina^Fina maga del loto
 MST_MISSION_NAME_7560104^Nameless Gunner Jake^無名槍士傑科^무명의 총잡이 제이크^Jake, tireur anonyme^Namenloser Pistolero Jake^Jake el pistolero anónimo
 MST_MISSION_NAME_7560105^Heavenly Technician Lid^星虹技師里德^성홍의 기술자 리드^Lid, ingénieure cosmique^Himmlische Technikerin Lid^Lid ingeniera cósmica
-MST_MISSION_NAME_7560106^Maritime Strategist Nichol^洸洋軍師尼科爾^황양의 참모 니콜^Nichol, stratège maritime ^Maritime Strategist Nichol^Nichol estratega marino
+MST_MISSION_NAME_7560106^Maritime Strategist Nichol^洸洋軍師尼科爾^광양의 참모 니콜^Nichol, stratège maritime ^Maritime Strategist Nichol^Nichol estratega marino
 MST_MISSION_NAME_7560107^Raegen^雷根^레겐^Raegen^Raegen^Raegen
 MST_MISSION_NAME_7610101^March on Garuda - INT^風神迦樓羅殲滅戰・中級^바람신 가루다 토벌전·중급^Garuda, la Souffleuse de rafales - INT^Garuda, die Dame des Vortex - FOR^Garuda, señora del vórtice - INT
 MST_MISSION_NAME_7610102^March on Garuda - ADV^風神迦樓羅殲滅戰・上級^바람신 가루다 토벌전·상급^Garuda, la Souffleuse de rafales - PRO^Garuda, die Dame des Vortex - EXP^Garuda, señora del vórtice - AVA
@@ -2572,7 +2572,7 @@ MST_MISSION_NAME_7700702^Counterattack Commence^開始反擊^반격 개시^Débu
 MST_MISSION_NAME_7700703^Flood of Troops^蜂擁而至的私人軍隊^밀려드는 사병^Avalanche de troupes^Flut der Truppen^Avalancha de tropas
 MST_MISSION_NAME_7700704^Friends on the Assault^迎戰的同伴們^맞서 싸우는 동료들^Amis à l'assaut^Gefährten im Angriff^Amigos al asalto
 MST_MISSION_NAME_7700705^Madal's Impatience^焦躁的瑪達爾^초조한 마달^L'impatience de Madal^Madals Ungeduld^La impaciencia de Madal
-MST_MISSION_NAME_7700706^The Magitek Armor Menace^魔導裝甲的威脅^마도 아머의 위협^La menace de l'amure magitech^Bedroht vom Magitek-Mech^La amenaza de las unidades Magitec
+MST_MISSION_NAME_7700706^The Magitek Armor Menace^魔導裝甲的威脅^마도 아머의 위협^La menace de l'armure magitech^Bedroht vom Magitek-Mech^La amenaza de las unidades Magitec
 MST_MISSION_NAME_7700707^End of the Conspiracy^陰謀的終結^음모의 끝^Fin du complot^Das Ende der Verschwörung^El fin de la conspiración
 MST_MISSION_NAME_7700800^A New Era^新時代^새로운 시대^Une nouvelle ère^Eine neue Ära^Una nueva era
 MST_MISSION_NAME_7700801^Proceed and Support^前進之人與支持者^나아가는 자, 지탱하는 자^Avancée et soutien^Die Fortschreitenden und die Unterstützenden^Continúa y apoya
@@ -2753,14 +2753,14 @@ MST_MISSION_NAME_7801100^Cave of Crystals (Green)^晶石的洞窟【綠】^수�
 MST_MISSION_NAME_7801101^Cave of Crystals (Green) 1^晶石的洞窟【綠】1^수정의 동굴 [녹] 1^Caverne de cristaux verts 1^Höhle der Kristalle (Grün) 1^Cueva de los crists verdes 1
 MST_MISSION_NAME_7801102^Cave of Crystals (Green) 2^晶石的洞窟【綠】2^수정의 동굴 [녹] 2^Caverne de cristaux verts 2^Höhle der Kristalle (Grün) 2^Cueva de los crists verdes 2
 MST_MISSION_NAME_7801103^Cave of Crystals (Green) 3^晶石的洞窟【綠】3^수정의 동굴 [녹] 3^Caverne de cristaux verts 3^Höhle der Kristalle (Grün) 3^Cueva de los crists verdes 3
-MST_MISSION_NAME_7801200^Cave of Crystals (Power)^晶石的洞窟【進攻】^수정의 동굴 [공격]^Caverne de cristaux d'attaque^Höhle der Kristalle (Kraft)^Cueva de los crists potentes
-MST_MISSION_NAME_7801201^Cave of Crystals (Power) 1^晶石的洞窟【進攻】1^수정의 동굴 [공격] 1^Caverne de cristaux d'attaque 1^Höhle der Kristalle (Kraft) 1^Cueva de los crists potentes 1
-MST_MISSION_NAME_7801202^Cave of Crystals (Power) 2^晶石的洞窟【進攻】2^수정의 동굴 [공격] 2^Caverne de cristaux d'attaque 2^Höhle der Kristalle (Kraft) 2^Cueva de los crists potentes 2
-MST_MISSION_NAME_7801203^Cave of Crystals (Power) 3^晶石的洞窟【進攻】3^수정의 동굴 [공격] 3^Caverne de cristaux d'attaque 3^Höhle der Kristalle (Kraft) 3^Cueva de los crists potentes 3
-MST_MISSION_NAME_7801300^Cave of Crystals (Guard)^晶石的洞窟【防守】^수정의 동굴 [수비]^Caverne de cristaux de défense^Höhle der Kristalle (Wächter)^Cueva de los crists guardianes
-MST_MISSION_NAME_7801301^Cave of Crystals (Guard) 1^晶石的洞窟【防守】1^수정의 동굴 [수비] 1^Caverne de cristaux de défense 1^Höhle der Kristalle (Wächter) 1^Cueva de los crists guardianes 1
-MST_MISSION_NAME_7801302^Cave of Crystals (Guard) 2^晶石的洞窟【防守】2^수정의 동굴 [수비] 2^Caverne de cristaux de défense 2^Höhle der Kristalle (Wächter) 2^Cueva de los crists guardianes 2
-MST_MISSION_NAME_7801303^Cave of Crystals (Guard) 3^晶石的洞窟【防守】3^수정의 동굴 [수비] 3^Caverne de cristaux de défense 3^Höhle der Kristalle (Wächter) 3^Cueva de los crists guardianes 3
+MST_MISSION_NAME_7801200^Cave of Crystals (Power)^晶石的洞窟【攻擊】^수정의 동굴 [공격]^Caverne de cristaux d'attaque^Höhle der Kristalle (Kraft)^Cueva de los crists potentes
+MST_MISSION_NAME_7801201^Cave of Crystals (Power) 1^晶石的洞窟【攻擊】1^수정의 동굴 [공격] 1^Caverne de cristaux d'attaque 1^Höhle der Kristalle (Kraft) 1^Cueva de los crists potentes 1
+MST_MISSION_NAME_7801202^Cave of Crystals (Power) 2^晶石的洞窟【攻擊】2^수정의 동굴 [공격] 2^Caverne de cristaux d'attaque 2^Höhle der Kristalle (Kraft) 2^Cueva de los crists potentes 2
+MST_MISSION_NAME_7801203^Cave of Crystals (Power) 3^晶石的洞窟【攻擊】3^수정의 동굴 [공격] 3^Caverne de cristaux d'attaque 3^Höhle der Kristalle (Kraft) 3^Cueva de los crists potentes 3
+MST_MISSION_NAME_7801300^Cave of Crystals (Guard)^晶石的洞窟【防禦】^수정의 동굴 [수비]^Caverne de cristaux de défense^Höhle der Kristalle (Wächter)^Cueva de los crists guardianes
+MST_MISSION_NAME_7801301^Cave of Crystals (Guard) 1^晶石的洞窟【防禦】1^수정의 동굴 [수비] 1^Caverne de cristaux de défense 1^Höhle der Kristalle (Wächter) 1^Cueva de los crists guardianes 1
+MST_MISSION_NAME_7801302^Cave of Crystals (Guard) 2^晶石的洞窟【防禦】2^수정의 동굴 [수비] 2^Caverne de cristaux de défense 2^Höhle der Kristalle (Wächter) 2^Cueva de los crists guardianes 2
+MST_MISSION_NAME_7801303^Cave of Crystals (Guard) 3^晶石的洞窟【防禦】3^수정의 동굴 [수비] 3^Caverne de cristaux de défense 3^Höhle der Kristalle (Wächter) 3^Cueva de los crists guardianes 3
 MST_MISSION_NAME_7801400^Cave of Crystals (Tech)^晶石的洞窟【技巧】^수정의 동굴 [기술]^Caverne de cristaux techniques^Höhle der Kristalle (Tech)^Cueva de los crists técnicos
 MST_MISSION_NAME_7801401^Cave of Crystals (Tech) 1^晶石的洞窟【技巧】1^수정의 동굴 [기술] 1^Caverne de cristaux techniques 1^Höhle der Kristalle (Tech) 1^Cueva de los crists técnicos 1
 MST_MISSION_NAME_7801402^Cave of Crystals (Tech) 2^晶石的洞窟【技巧】2^수정의 동굴 [기술] 2^Caverne de cristaux techniques 2^Höhle der Kristalle (Tech) 2^Cueva de los crists técnicos 2
@@ -2851,14 +2851,14 @@ MST_MISSION_NAME_7851100^Cave of Crystals (Green)^晶石的洞窟【綠】^수�
 MST_MISSION_NAME_7851101^Cave of Crystals (Green) 1^晶石的洞窟【綠】1^수정의 동굴 [녹] 1^Caverne de cristaux verts 1^Höhle der Kristalle (Grün) 1^Cueva de los crists verdes 1
 MST_MISSION_NAME_7851102^Cave of Crystals (Green) 2^晶石的洞窟【綠】2^수정의 동굴 [녹] 2^Caverne de cristaux verts 2^Höhle der Kristalle (Grün) 2^Cueva de los crists verdes 2
 MST_MISSION_NAME_7851103^Cave of Crystals (Green) 3^晶石的洞窟【綠】3^수정의 동굴 [녹] 3^Caverne de cristaux verts 3^Höhle der Kristalle (Grün) 3^Cueva de los crists verdes 3
-MST_MISSION_NAME_7851200^Cave of Crystals (Power)^晶石的洞窟【進攻】^수정의 동굴 [공격]^Caverne de cristaux d'attaque^Höhle der Kristalle (Kraft) ^Cueva de los crists potentes
-MST_MISSION_NAME_7851201^Cave of Crystals (Power) 1^晶石的洞窟【進攻】1^수정의 동굴 [공격] 1^Caverne de cristaux d'attaque 1^Höhle der Kristalle (Kraft) 1^Cueva de los crists potentes 1
-MST_MISSION_NAME_7851202^Cave of Crystals (Power) 2^晶石的洞窟【進攻】2^수정의 동굴 [공격] 2^Caverne de cristaux d'attaque 2^Höhle der Kristalle (Kraft) 2^Cueva de los crists potentes 2
-MST_MISSION_NAME_7851203^Cave of Crystals (Power) 3^晶石的洞窟【進攻】3^수정의 동굴 [공격] 3^Caverne de cristaux d'attaque 3^Höhle der Kristalle (Kraft) 3^Cueva de los crists potentes 3
-MST_MISSION_NAME_7851300^Cave of Crystals (Guard)^晶石的洞窟【防守】^수정의 동굴 [수비]^Caverne de cristaux de défense^Höhle der Kristalle (Wächter)^Cueva de los crists guardianes
-MST_MISSION_NAME_7851301^Cave of Crystals (Guard) 1^晶石的洞窟【防守】1^수정의 동굴 [수비] 1^Caverne de cristaux de défense 1^Höhle der Kristalle (Wächter) 1^Cueva de los crists guardianes 1
-MST_MISSION_NAME_7851302^Cave of Crystals (Guard) 2^晶石的洞窟【防守】2^수정의 동굴 [수비] 2^Caverne de cristaux de défense 2^Höhle der Kristalle (Wächter) 2^Cueva de los crists guardianes 2
-MST_MISSION_NAME_7851303^Cave of Crystals (Guard) 3^晶石的洞窟【防守】3^수정의 동굴 [수비] 3^Caverne de cristaux de défense 3^Höhle der Kristalle (Wächter) 3^Cueva de los crists guardianes 3
+MST_MISSION_NAME_7851200^Cave of Crystals (Power)^晶石的洞窟【攻擊】^수정의 동굴 [공격]^Caverne de cristaux d'attaque^Höhle der Kristalle (Kraft) ^Cueva de los crists potentes
+MST_MISSION_NAME_7851201^Cave of Crystals (Power) 1^晶石的洞窟【攻擊】1^수정의 동굴 [공격] 1^Caverne de cristaux d'attaque 1^Höhle der Kristalle (Kraft) 1^Cueva de los crists potentes 1
+MST_MISSION_NAME_7851202^Cave of Crystals (Power) 2^晶石的洞窟【攻擊】2^수정의 동굴 [공격] 2^Caverne de cristaux d'attaque 2^Höhle der Kristalle (Kraft) 2^Cueva de los crists potentes 2
+MST_MISSION_NAME_7851203^Cave of Crystals (Power) 3^晶石的洞窟【攻擊】3^수정의 동굴 [공격] 3^Caverne de cristaux d'attaque 3^Höhle der Kristalle (Kraft) 3^Cueva de los crists potentes 3
+MST_MISSION_NAME_7851300^Cave of Crystals (Guard)^晶石的洞窟【防禦】^수정의 동굴 [수비]^Caverne de cristaux de défense^Höhle der Kristalle (Wächter)^Cueva de los crists guardianes
+MST_MISSION_NAME_7851301^Cave of Crystals (Guard) 1^晶石的洞窟【防禦】1^수정의 동굴 [수비] 1^Caverne de cristaux de défense 1^Höhle der Kristalle (Wächter) 1^Cueva de los crists guardianes 1
+MST_MISSION_NAME_7851302^Cave of Crystals (Guard) 2^晶石的洞窟【防禦】2^수정의 동굴 [수비] 2^Caverne de cristaux de défense 2^Höhle der Kristalle (Wächter) 2^Cueva de los crists guardianes 2
+MST_MISSION_NAME_7851303^Cave of Crystals (Guard) 3^晶石的洞窟【防禦】3^수정의 동굴 [수비] 3^Caverne de cristaux de défense 3^Höhle der Kristalle (Wächter) 3^Cueva de los crists guardianes 3
 MST_MISSION_NAME_7851400^Cave of Crystals (Tech)^晶石的洞窟【技巧】^수정의 동굴 [기술]^Caverne de cristaux techniques^Höhle der Kristalle (Tech)^Cueva de los crists técnicos
 MST_MISSION_NAME_7851401^Cave of Crystals (Tech) 1^晶石的洞窟【技巧】1^수정의 동굴 [기술] 1^Caverne de cristaux techniques 1^Höhle der Kristalle (Tech) 1^Cueva de los crists técnicos 1
 MST_MISSION_NAME_7851402^Cave of Crystals (Tech) 2^晶石的洞窟【技巧】2^수정의 동굴 [기술] 2^Caverne de cristaux techniques 2^Höhle der Kristalle (Tech) 2^Cueva de los crists técnicos 2
@@ -3796,3 +3796,8 @@ MST_MISSION_NAME_9003206^Vault of Hidden Treasures^秘密的寶物庫^비밀의 
 MST_MISSION_NAME_9003207^Vault of Hidden Treasures^秘密的寶物庫^비밀의 보물창고^Coffre aux trésors cachés^Schließfach der verborgenen Schätze^Cámara de los Tesoros Escondidos
 MST_MISSION_NAME_7140106^Monster Carnival  - LGD^勇者鬥惡龍怪物仙境・魔人級^몬스터 카니발·마인급^Carnaval des monstres - LGD^Monsterkarneval - LGD^Carnaval de monstruos - LGD
 MST_MISSION_NAME_7150102^Dragonlord's Challenge - ELT^龍王挑戰·覺醒級^용왕 챌린지·각성급^Défi de Lordragon - EX!^Die Herausforderung des Drachenfürsten - ELI^Desafío de Draconarius - ÉLI
+MST_MISSION_NAME_9003301^The Son of Medici - INT^梅帝奇之子・中級^메디치의 아들·중급^Fils de Médici - INT^Der Sohn von Medici - FOR^El hijo de Medici - INT
+MST_MISSION_NAME_9003302^The Son of Medici - ADV^梅帝奇之子・上級^메디치의 아들·상급^Fils de Médici - PRO^Der Sohn von Medici - EXP^El hijo de Medici - AVA
+MST_MISSION_NAME_9003303^The Son of Medici - PRO^梅帝奇之子・超級^메디치의 아들·최상급^Fils de Médici - SUP^Der Sohn von Medici - PRO^El hijo de Medici - PRO
+MST_MISSION_NAME_9003304^The Son of Medici - ELT^梅帝奇之子・覺醒級^메디치의 아들·각성급^Fils de Médici - EX!^Der Sohn von Medici - ELI^El hijo de Medici - ÉLI
+MST_MISSION_NAME_9003401^Strike of the URGA Mstitel^烏爾加復仇者的衝擊^URGA Mstitel의 습격^Frappe du URGA Mstitel^Angriff des URGA Mstitel^El ataque del URGA Mstitel

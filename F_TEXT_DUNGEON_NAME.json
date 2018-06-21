@@ -483,8 +483,8 @@ MST_DUNGEONS_NAME_78008^Separate Ways^不同的路^각자의 길^Chemins sépar�
 MST_DUNGEONS_NAME_78009^Cave of Crystals (Black)^晶石的洞窟【黑】^수정의 동굴 [흑]^Caverne de cristaux noirs^Höhle der Kristalle (Schwarz)^Cueva de los crists negros
 MST_DUNGEONS_NAME_78010^Cave of Crystals (White)^晶石的洞窟【白】^수정의 동굴 [백]^Caverne de cristaux blancs^Höhle der Kristalle (Weiß)^Cueva de los crists blancos
 MST_DUNGEONS_NAME_78011^Cave of Crystals (Green)^晶石的洞窟【綠】^수정의 동굴 [녹]^Caverne de cristaux verts^Höhle der Kristalle (Grün)^Cueva de los crists verdes
-MST_DUNGEONS_NAME_78012^Cave of Crystals (Power)^晶石的洞窟【進攻】^수정의 동굴 [공격]^Caverne de cristaux d'attaque^Höhle der Kristalle (Kraft)^Cueva de los crists potentes
-MST_DUNGEONS_NAME_78013^Cave of Crystals (Guard)^晶石的洞窟【防守】^수정의 동굴 [수비]^Caverne de cristaux de défense^Höhle der Kristalle (Wächter)^Cueva de los crists guardianes
+MST_DUNGEONS_NAME_78012^Cave of Crystals (Power)^晶石的洞窟【攻擊】^수정의 동굴 [공격]^Caverne de cristaux d'attaque^Höhle der Kristalle (Kraft)^Cueva de los crists potentes
+MST_DUNGEONS_NAME_78013^Cave of Crystals (Guard)^晶石的洞窟【防禦】^수정의 동굴 [수비]^Caverne de cristaux de défense^Höhle der Kristalle (Wächter)^Cueva de los crists guardianes
 MST_DUNGEONS_NAME_78014^Cave of Crystals (Tech)^晶石的洞窟【技巧】^수정의 동굴 [기술]^Caverne de cristaux techniques^Höhle der Kristalle (Tech)^Cueva de los crists técnicos
 MST_DUNGEONS_NAME_78015^Cave of Crystals (Healing)^晶石的洞窟【治癒】^수정의 동굴 [치유]^Caverne de cristaux de soin^Höhle der Kristalle (Heilung)^Cueva de los crists curativos
 MST_DUNGEONS_NAME_78016^Cave of Crystals (Support)^晶石的洞窟【支援】^수정의 동굴 [지원]^Caverne de cristaux de soutien^Höhle der Kristalle (Unterstützung)^Cueva de los crists apoyadores
@@ -499,8 +499,8 @@ MST_DUNGEONS_NAME_78508^Location Discovered^歸宿^찾아낸 거처^Endroit déc
 MST_DUNGEONS_NAME_78509^Cave of Crystals (Black)^晶石的洞窟【黑】2^수정의 동굴 [흑]^Caverne de cristaux noirs^Höhle der Kristalle (Schwarz)^Cueva de los crists negros
 MST_DUNGEONS_NAME_78510^Cave of Crystals (White)^晶石的洞窟【白】2^수정의 동굴 [백]^Caverne de cristaux blancs^Höhle der Kristalle (Weiß)^Cueva de los crists blancos
 MST_DUNGEONS_NAME_78511^Cave of Crystals (Green)^晶石的洞窟【綠】3^수정의 동굴 [녹]^Caverne de cristaux verts^Höhle der Kristalle (Grün)^Cueva de los crists verdes
-MST_DUNGEONS_NAME_78512^Cave of Crystals (Power)^晶石的洞窟【進攻】2^수정의 동굴 [공격]^Caverne de cristaux d'attaque^Höhle der Kristalle (Kraft)^Cueva de los crists potentes
-MST_DUNGEONS_NAME_78513^Cave of Crystals (Guard)^晶石的洞窟【防守】1^수정의 동굴 [수비]^Caverne de cristaux de défense^Höhle der Kristalle (Wächter)^Cueva de los crists guardianes
+MST_DUNGEONS_NAME_78512^Cave of Crystals (Power)^晶石的洞窟【攻擊】2^수정의 동굴 [공격]^Caverne de cristaux d'attaque^Höhle der Kristalle (Kraft)^Cueva de los crists potentes
+MST_DUNGEONS_NAME_78513^Cave of Crystals (Guard)^晶石的洞窟【防禦】1^수정의 동굴 [수비]^Caverne de cristaux de défense^Höhle der Kristalle (Wächter)^Cueva de los crists guardianes
 MST_DUNGEONS_NAME_78514^Cave of Crystals (Tech)^晶石的洞窟【技巧】3^수정의 동굴 [기술]^Caverne de cristaux techniques^Höhle der Kristalle (Tech)^Cueva de los crists técnicos
 MST_DUNGEONS_NAME_78515^Cave of Crystals (Healing)^晶石的洞窟【治癒】^수정의 동굴 [치유]^Caverne de cristaux de soin^Höhle der Kristalle (Heilung)^Cueva de los crists curativos
 MST_DUNGEONS_NAME_78516^Cave of Crystals (Support)^晶石的洞窟【支援】^수정의 동굴 [지원]^Caverne de cristaux de soutien^Höhle der Kristalle (Unterstützung)^Cueva de los crists apoyadores
@@ -640,3 +640,5 @@ MST_DUNGEONS_NAME_89944^Great Explosion Festival^^^^^
 MST_DUNGEONS_NAME_89945^Ancient Hellbringer^^^^^El viejo invocainfiernos
 MST_DUNGEONS_NAME_89946^Venomous Vines of Death^^^^^Ramas del veneno mortal
 MST_DUNGEONS_NAME_89947^The Mad Doll^^^^^
+MST_DUNGEONS_NAME_90033^The Son of Medici^梅帝奇之子^메디치의 아들^Fils de Médici^Der Sohn von Medici^El hijo de Medici
+MST_DUNGEONS_NAME_90034^Strike of the URGA Mstitel^烏爾加復仇者的衝擊^URGA Mstitel의 습격^Frappe du URGA Mstitel^Angriff des URGA Mstitel^El ataque del URGA Mstitel

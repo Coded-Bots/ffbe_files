@@ -202,7 +202,7 @@ MST_MATERIA_SHORTDESCRIPTION_504101090^Boost physical damage against avian monst
 MST_MATERIA_SHORTDESCRIPTION_504101120^Auto-heal with potions^受到攻擊時自動使用治療劑^피해를 받으면 보유하고 있는 포션으로 자동회복^Soin auto avec potions^Auto-Heilung mit Tränken^Autocuración con pociones an recibir daño.
 MST_MATERIA_SHORTDESCRIPTION_504201130^Damage and reduce ATK for one enemy^攻擊1名敵人+降低攻擊^적 1명에게 피해+공격력 감소^Dégâts et réduit l'ATT d'un ennemi^Schaden und ANG runter, ein Ziel^Daña y reduce el ATQ de un enemigo
 MST_MATERIA_SHORTDESCRIPTION_504201140^Damage and reduce MAG for one enemy^攻擊1名敵人+降低魔力^적 1명에게 피해+마력 감소^Dégâts et réduit la MAGIE d'un ennemi^Schaden und MAG runter, ein Ziel^Daña y reduce la MAG de un enemigo
-MST_MATERIA_SHORTDESCRIPTION_504204900^Add chance of evading physical attacks, boost MP by 20%, and MAG and SPR by 10%^一定機率閃避物理攻擊+提高20%MP、10%魔力精神^일정 획률로 물리공격 회피+MP 20%, 마력과 정신력 10% 상승^Chance d'esquiver les attaques physiques et booste les PM de 20% ainsi que la MAGIE et la PSY de 10%^Chance auf Ausweichen vor physischen Angriffen, erhöht MP um 20%, MAG und PSY um 10%^Posibilita esquivar ataques físicos y aumenta los PM un 20% y la MAG/ESP un 10%
+MST_MATERIA_SHORTDESCRIPTION_504204900^Add chance of evading physical attacks, boost MP by 20%, and MAG and SPR by 10%^一定機率閃避物理攻擊+提高20%MP、10%魔力精神^일정 확률로 물리공격 회피+MP 20%, 마력과 정신력 10% 상승^Chance d'esquiver les attaques physiques et booste les PM de 20% ainsi que la MAGIE et la PSY de 10%^Chance auf Ausweichen vor physischen Angriffen, erhöht MP um 20%, MAG und PSY um 10%^Posibilita esquivar ataques físicos y aumenta los PM un 20% y la MAG/ESP un 10%
 MST_MATERIA_SHORTDESCRIPTION_504204910^Damage and reduce DEF and SPR for on enemy (Orlandeau only)^攻擊1名敵人+降低防禦精神[奧爾蘭多專用]^적 1명에게 피해+방어력과 정신력 감소 [올란두 전용]^Dégâts et réduit la DEF et la PSY d'un ennemi (Uniq. Orlandeau)^Schaden und ABW und PSY runter, ein Ziel (Nur Orlandeau)^Daña y reduce la DEF y el ESP de un enemigo (exclusiva de Orlandeau)
 MST_MATERIA_SHORTDESCRIPTION_504204920^Cure poisons, blind, sleep, silence, paralysis, confusion and disease for all allies (Soleil only)^治療全體隊員的中毒失明睡眠沉默麻痺混亂生病狀態[索蕾莜專用]^아군 전체의 독, 암흑, 수면, 침묵, 마비, 혼란, 질병 회복 [솔레이유 전용]^Soigne pois., céc, som., sil.,para, conf., et mala. pour tous les alliés (Uniq. Soleil)^Annuliert Gi., Ble., Schl., Sti., Lähm., Kon., Vir. und St. (nur Soleil)^Cura ven, ceg, sue, sil, par, con y enf de los aliados (exclusiva de Soleil)
 MST_MATERIA_SHORTDESCRIPTION_504204930^Boost physical damage against plant, avian, beast, aquatic, and dragon monsters^物理攻擊時提高對植物、鳥、獸、水生、龍系的傷害^물리공격 시 식물, 조류, 짐승, 수중, 드래곤형 마물에 대한 피해량 상승^Augmente les dégâts physiques contre les monstres de type plante, oiseau, bête, aquatique et dragon^Mehr ph. Sch. gegen Men., Pflan., Vö., Be., Wa.- und Drachenm.^Aumenta el daño físico infligido contra plantas, aves, bestias, acuáticos y dragones
@@ -605,7 +605,7 @@ MST_MATERIA_SHORTDESCRIPTION_504222870^Decrease chance of being targeted and boo
 MST_MATERIA_SHORTDESCRIPTION_504221650^Boost HP by 20% and boost ATK when equipped with a sword^提高20%HP+提高裝備劍時攻擊的數值^HP 20% 상승+검 장착 시 공격력 상승^Augmente les PV de 20% et augmente l'ATT lorsqu'une épée est équipée^Erhöht LP um 20% und erhöht ANG, wenn mit Schwert ausgerüstet.^Aumenta la VIT un 20% y el ATQ al llevar espada
 MST_MATERIA_SHORTDESCRIPTION_504221660^Boost MAG by 25% and wind resistance by 15%^提高25%魔力、15%風屬性耐性的數值^마력 25%, 바람속성 저항력 15% 상승^Augmente la MAGIE de 25% et la rés. au vent de 15%^Erhöht MAG um 25% und Windresistenz um 15%.^Aumenta la MAG un 25% y la res. al viento un 15%
 MST_MATERIA_SHORTDESCRIPTION_504221670^Can equip helms^可以裝備頭盔^투구 장착 가능^Permet d'équiper des heaumes^Lässt Helme ausrüsten.^Puede equiparse con cascos
-MST_MATERIA_SHORTDESCRIPTION_504221680^Boost MAG by 40%, SPR by 20%, and parameters of espers evoked by 10%^提高40%魔力、20%精神的數值+發動召喚魔法時提高10%幻獸狀態^마력 40%, 정신력 20% 상승+소환마법 사용 시 환수 능력치 10% 상승^Augmente la MAGIE de 40%, la PSY de 20 % et les attributs des chimères invoquées de 10%^Erhöht MAG um 40%, PSY um 20% sowie Werte gerufener Esper um 10%.^Aumenta la MAG un 40%, el ESP un 20% y los parámetros de los espers invocados un 10%
+MST_MATERIA_SHORTDESCRIPTION_504221680^Boost MAG by 40%, SPR by 20%, and parameters of espers evoked by 10%^提高40%魔力、20%精神的數值+發動召喚魔法時提高10%幻獸狀態^마력 40%, 정신력 20% 상승+소환마법 사용 시 환수 능력치 10% 상승^MAGIE +40%, PSY +20% et caractéristiques des chimères +10%^Erhöht MAG um 40%, PSY um 20% sowie Werte gerufener Esper um 10%.^Aumenta la MAG un 40%, el ESP un 20% y los parámetros de los espers invocados un 10%
 MST_MATERIA_SHORTDESCRIPTION_504221690^Boost ATK and DEF when equipped with fists^提高裝備格鬥武器時攻擊防禦的數值^격투무기 장착 시 공격력과 방어력 상승^Augmente l'ATT et la DEF lorsque des poings sont équipés^Erhöht ANG und ABW, wenn mit Faust ausgerüstet.^Aumenta ATQ y DEF al usar puños
 MST_MATERIA_SHORTDESCRIPTION_504221700^Boost ATK by 10% and boost physical damage against humans^提高10%攻擊的數值+物理攻擊時提高對人形系魔物的傷害^공격력 10% 상승+물리공격 시 인간형 마물에게 주는 피해량 상승^Augmente l'ATT de 10% et les dégâts physiques contre les humains^Erhöht ANG um 10% und phys. Schaden gegen Menschen.^Aumenta ATQ un 10% y aumenta el daño físico contra humanos
 MST_MATERIA_SHORTDESCRIPTION_504221710^Boost MAG by 10% and boost magic damage against humans^提高10%魔力的數值+魔法攻擊時提高對人形系魔物的傷害^마력 10% 상승+마법공격 시 인간형 마물에게 주는 피해량 상승^Augmente la MAGIE de 10% et les dégâts physiques contre les humains^Erhöht MAG um 10% und phys. Schaden gegen Menschen.^Aumenta la MAG un 10% y aumenta el daño físico contra humanos
@@ -654,7 +654,106 @@ MST_MATERIA_SHORTDESCRIPTION_1500000047^Boost magic damage dealt against demons 
 MST_MATERIA_SHORTDESCRIPTION_1500000048^Boost MP and SPR by 20%, and water resistance by 30%^提高20%MP精神的數值+提高30%水屬性耐性的數值^MP와 정신력 20% 상승+물속성 저항력 30% 상승^Augmente les PM et la PSY de 20% et la rés. à l'eau de 30%^Erhöht MP und PSY um 20% und Wasserresistenz um 30%.^Aumenta los PM y el ESP un 20% y la res. al agua un 30%
 MST_MATERIA_SHORTDESCRIPTION_1500000049^Boost ATK by 20% and MP by 15%^提高20%攻擊的數值+提高15%MP^공격력 20% 상승+MP 15% 상승^Augmente l'ATT de 20% et les PM de 15%^Erhöht ANG um 20% und MP um 15%.^Aumenta el ATQ un 20% y los PM un 15%
 MST_MATERIA_SHORTDESCRIPTION_1500000050^Boost HP by 20% and DEF by 10%^提高20%HP+提高10%防禦的數值^HP 20% 상승+방어력 10% 상승^Augmente les PV de 20% et la DEF de 10%^Erhöht LP um 20% und ABW um 10%.^Aumenta la VIT un 20% y la DEF un 10%
+MST_MATERIA_SHORTDESCRIPTION_504226406^^^HP와 MP 15% 상승+방어력과 정신력 20% 상승^^^
+MST_MATERIA_SHORTDESCRIPTION_504226422^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504226880^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504226881^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504226882^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504226883^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504226892^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504226893^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504226894^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504226895^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504226896^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504226898^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504226899^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504226900^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504226901^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504226902^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504226903^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504226980^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227020^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227076^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227237^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504400110^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227260^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227261^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504222190^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504100770^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227209^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227270^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227271^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227272^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227273^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227274^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504226639^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504226653^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227318^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227328^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227389^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227410^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227411^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227413^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227414^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227428^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227448^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227459^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227506^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227527^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227555^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227586^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227605^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227625^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227640^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227641^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227701^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227666^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227682^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227712^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227713^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227714^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227847^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227865^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227902^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227903^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227930^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227931^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504227926^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504228151^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504228152^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504228161^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504228200^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504228201^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504228202^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504228203^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504228204^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504228234^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504228254^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504228277^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504228287^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504228299^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504228324^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504228356^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504228371^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504228380^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504228381^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504228390^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504228391^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504209540^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504228416^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504228452^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504228470^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504228490^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504228565^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504228586^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504228610^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504228611^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_504224890^^^^^^
+MST_MATERIA_SHORTDESCRIPTION_1500000055^Boost ATK by 20% and MP by 10%^提高20%攻擊+提高10%MP^공격력 20% 상승+MP 10% 상승^Augmente l'ATT de 20% et les PM de 10%^Erhöht ANG um 20% und MP um 10%.^Aumenta el ATQ un 20% y los PM un 10%
 MST_MATERIA_SHORTDESCRIPTION_1500000056^Boost DEF and SPR by 15%^提高15%防禦精神^방어력과 정신력 15% 상승^Augmente la DEF et la PSY de 15%^Erhöht ABW und PSY um 15%.^Aumenta la DEF y el ESP un 15%
 MST_MATERIA_SHORTDESCRIPTION_1500000057^Boost HP by 15%, and DEF/SPR by 5%^提高15%HP+提高5%防禦精神^HP 15% 상승+방어력과 정신력 5% 상승^Augmente les PV de 15% et la DEF/PSY de 5%^Erhöht LP um 15% und ABW/PSY um 5%.^Aumenta la VIT un 15%, y la DEF y el ESP un 5%
 MST_MATERIA_SHORTDESCRIPTION_1500000058^Boost ATK and MAG by 15%^提高15%攻擊魔力^공격력과 마력 15% 상승^Augmente l'ATT et la MAGIE de 15%^Erhöht ANG und MAG um 15%.^Aumenta el ATQ y la MAG un 15%
 MST_MATERIA_SHORTDESCRIPTION_1500000059^Boost ATK by 20%^提高20%攻擊^공격력 20% 상승^Augmente l'ATT de 20%^Erhöht ANG um 20%.^Aumenta el ATQ un 20%
+MST_MATERIA_SHORTDESCRIPTION_1500000045^Boost ATK and SPR when equipped with a gun^提高裝備槍時的攻擊精神^총 장착 시 공격력과 정신력 상승^Augmente l'ATT et la PSY lorsqu'un pistolet est équipé^Erhöht ANG und PSY, wenn mit Schussw. ausgerüstet.^Aumenta el ATQ y el ESP al llevar un arma
+MST_MATERIA_SHORTDESCRIPTION_1500000052^Boost ATK and physical damage against machina monsters, and enable rebellion for Just Cause 3 units (Not Stackable)^提高攻擊+物理攻擊時提高對機械系魔物的傷害+Just Cause 3兵員可以使用「叛亂」[無法重複裝備]^공격력 상승+물리공격 시 기계형 마물에 대한 피해량 상승+Just Cause 3 유닛 한정 '반란' 사용 가능  (중복 장착 불가)^Augmente l'ATT et les dégâts physiques infligés aux monstres de type machine, et permet d'utiliser Rébellion pour les unités de Just Cause 3 (pas cumulable)^Erhöht ANG und physischen Schaden gegen Maschinenmonster und ermöglicht Rebellion für Just Cause 3 Einheiten  (Nicht stapelbar).^Aumenta el ATQ y el daño físico contra máquinas, y las unidades de Just Cause 3 aprenden Rebelión  (no acumulable)
+MST_MATERIA_SHORTDESCRIPTION_1500000051^Boost HP by 20% and enable firestarter^提高20%HP+可以使用「導火線」^HP 20% 상승+'발화기' 어빌리티 사용 가능^Augmente les PV de 20% et permet d'utiliser Pyromane^Erhöht LP um 20% und ermöglicht Pyromane.^Aumenta la VIT un 20% y aprende Piromanía

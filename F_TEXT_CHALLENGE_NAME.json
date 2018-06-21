@@ -4021,7 +4021,7 @@ MST_CHALLENGE_NAME_73710040^No recovery magic^不使用「恢復魔法」^'회�
 MST_CHALLENGE_NAME_73710041^Use 2 or more limit bursts^使用至少2次極限技^LB를 2회 이상 사용^Utilisez 2 limites ou plus^Benutze mind. 2 Mal einen Limitrausch^Usa 2 Estallidos Límite o más
 MST_CHALLENGE_NAME_73710050^Evoke Ramuh^召喚「拉姆」^라무를 소환해 완료^Appelez Ramuh^Rufe Ramuh^Evoca a Lamú
 MST_CHALLENGE_NAME_73710051^No items^不使用道具^아이템을 사용하지 않고 완료^Ne pas utiliser d'objets^Keine Gegenstände^No uses objetos
-MST_CHALLENGE_NAME_73710060^Defeat calixte with a limit burst^使用極限技終結「卡利斯特」^'칼리스트'를 LB로 처치^Terrassez calixte avec une limite^Besiege Calixte mit einem Limitrausch^Derrota al calixte con EL
+MST_CHALLENGE_NAME_73710060^Defeat calixte with a limit burst^使用極限技終結「卡利斯特」^'칼리스트'를 LB로 처치^Terrassez Calixte avec une limite^Besiege Calixte mit einem Limitrausch^Derrota al calixte con EL
 MST_CHALLENGE_NAME_73710061^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_73710062^Clear all stages in the area^完成區域內全部關卡^구역 내 모든 스테이지 완료^Terminez tous les niveaux de la zone^Schließe alle Abschnitte des Gebietes ab^Completa todas las misiones del área
 MST_CHALLENGE_NAME_73801010^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
@@ -4424,10 +4424,10 @@ MST_CHALLENGE_NAME_21113040^Complete the quest^完成任務^퀘스트를 완료^
 MST_CHALLENGE_NAME_21113041^No limit bursts^不使用極限技^LB를 사용하지 않고 완료^Ne pas utiliser de limite^Kein Limitrausch^No uses Estallido Límite
 MST_CHALLENGE_NAME_21113042^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_21113043^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
-MST_CHALLENGE_NAME_22101030^Play the quiz^進行問答^퀴즈에 도전^Lancez le questionnaire^Nimm am Quiz teil^Juega al concurso
-MST_CHALLENGE_NAME_22101031^Clear the goal^到達目的地^모든 문제를 풀고 완료^Terminez l'objectif^Erreiche das Ziel^Completa el objetivo
-MST_CHALLENGE_NAME_22101032^Get all answers correct^全數答對^모든 문제의 정답을 맞추고 완료^Avoir toutes les réponses correctes^Beantworte alle Fragen korrekt^Responde a todas las respuestas correctamente
-MST_CHALLENGE_NAME_22101033^No limit bursts^不使用極限技^LB를 사용하지 않고 완료^Ne pas utiliser de limite^Kein Limitrausch^No uses Estallido Límite
+MST_CHALLENGE_NAME_22101030^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
+MST_CHALLENGE_NAME_22101031^No limit bursts^不使用極限技^LB를 사용하지 않고 완료^Ne pas utiliser de limite^Kein Limitrausch^No uses Estallido Límite
+MST_CHALLENGE_NAME_22101032^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
+MST_CHALLENGE_NAME_22101033^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_72901030^No items^不使用道具^아이템을 사용하지 않고 완료^Ne pas utiliser d'objets^Keine Gegenstände^No uses objetos
 MST_CHALLENGE_NAME_72901031^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab, ohne dass ein Verbündeter kampfunfähig wird^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_72901040^No black magic^不使用「黑魔法」^'흑'마법을 사용하지 않고 완료^Ne pas utiliser la magie noire^Keine Schwarzmagie^No uses magia negra
@@ -7455,7 +7455,7 @@ MST_CHALLENGE_NAME_78003060^Use 2 or more limit bursts^使用至少2次極限技
 MST_CHALLENGE_NAME_78003061^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_78003062^Defeat the mad tyrant within 5 turns^在5回合以內終結「瘋狂的暴君」戰^'광폭한 폭군' 전투 5턴 이내에 완료^Terrassez le Tyran fou en 5 tours max.^Besiege Irrer Tyrann innerhalb von 5 Runden^Derrota al tirano desviado en 5 turnos o menos
 MST_CHALLENGE_NAME_78003063^Clear all stages in the area^完成區域內全部關卡^구역 내 모든 스테이지 완료^Terminez tous les niveaux de la zone^Schließe alle Abschnitte im Gebiet ab^Completa todas las misiones del área
-MST_CHALLENGE_NAME_78004020^Maritime Strategist Nichol in party (Companion included)^隊伍中帶有「洸洋軍師尼科爾」（包括同行者）^황양의 참모 니콜을 파티에 편성(동행자 포함)^Nichol, stratège maritime dans le groupe (partenaire inclus)^Maritimer Stratege Nichol in der Gruppe (Einschl. Begleiter)^Nichol estratega marino en el grupo (compañero incluido)
+MST_CHALLENGE_NAME_78004020^Maritime Strategist Nichol in party (Companion included)^隊伍中帶有「洸洋軍師尼科爾」（包括同行者）^광양의 참모 니콜을 파티에 편성(동행자 포함)^Nichol, stratège maritime dans le groupe (partenaire inclus)^Maritimer Stratege Nichol in der Gruppe (Einschl. Begleiter)^Nichol estratega marino en el grupo (compañero incluido)
 MST_CHALLENGE_NAME_78004021^No limit bursts^不使用極限技^LB를 사용하지 않고 완료^Ne pas utiliser de limite^Kein Limitrausch^No uses Estallido Límite
 MST_CHALLENGE_NAME_78004022^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_78004030^Use green magic^使用「綠魔法」^'녹'마법을 사용해 완료^Utilisez la magie verte^Benutze Grünmagie^Usa magia verde
@@ -7533,7 +7533,7 @@ MST_CHALLENGE_NAME_78008051^No items^不使用道具^아이템을 사용하지 �
 MST_CHALLENGE_NAME_78008052^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_78008060^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_78008061^Activate an element chain 3 times or more in 1 turn^1回合內發動至少3次ELEMENT CHAIN^ELEMENT CHAIN을 1턴에 3회 이상 발생^Effectuez un combo élémentaire au moins 3 fois en 1 tour^Aktiviere in einer Runde mind. 3 Mal eine Elementarkette^Activa un combo elemental 3 veces o más en un turno
-MST_CHALLENGE_NAME_78008062^Defeat elite heavy gunner with an esper^使用幻獸終結「精銳重炮兵」^'정예 중포병'을 환수로 처치^Terrassez le Mitrailleur lourd d'élite avec une chimère^Besiege Schwerer Eliteschütze mit einem Esper^Derrota al artillero pesado de élite con un EL
+MST_CHALLENGE_NAME_78008062^Defeat elite heavy gunner with an esper^使用幻獸終結「精銳重炮兵」^'정예 중포병'을 환수로 처치^Terrassez le Mitrailleur lourd d'élite avec une chimère^Besiege Schwerer Eliteschütze mit einem Esper^Derrota al artillero pesado de élite con un esper
 MST_CHALLENGE_NAME_78008063^Clear all stages in the area^完成區域內全部關卡^구역 내 모든 스테이지 완료^Terminez tous les niveaux de la zone^Schließe alle Abschnitte im Gebiet ab^Completa todas las misiones del área
 MST_CHALLENGE_NAME_78009010^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_78009011^Use a limit burst^使用極限技^LB를 사용해 완료^Utilisez une limite^Benutze einen Limitrausch^Usa un Estallido Límite
@@ -7557,7 +7557,7 @@ MST_CHALLENGE_NAME_78010032^Defeat Addax with magic^使用魔法終結「雙角�
 MST_CHALLENGE_NAME_78010033^Clear all stages in the area^完成區域內全部關卡^구역 내 모든 스테이지 완료^Terminez tous les niveaux de la zone^Schließe alle Abschnitte im Gebiet ab^Completa todas las misiones del área
 MST_CHALLENGE_NAME_78011010^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_78011011^Use a limit burst^使用極限技^LB를 사용해 완료^Utilisez une limite^Benutze einen Limitrausch^Usa un Estallido Límite
-MST_CHALLENGE_NAME_78011012^Deal light damage 3 times or more^對敵人造成至少3次光屬性傷害^빛속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de lumière 3 fois ou plus à un ennemi^Füge einem Gegner 3 Mal oder mehr Lichtschaden zu^Inflige daño de luz 3 veces o más
+MST_CHALLENGE_NAME_78011012^Deal light damage 3 times or more^對敵人造成至少3次光屬性傷害^빛속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de lumière 3 fois ou plus à un ennemi^Füge einem Gegner mind. 3 Mal Lichtschaden zu^Inflige daño de luz 3 veces o más
 MST_CHALLENGE_NAME_78011020^No magic^不使用魔法^모든 마법을 사용하지 않고 완료^Ne pas utiliser la magie^Keine Magie^No uses magia
 MST_CHALLENGE_NAME_78011021^Deal fire and light damage 2 times or more each^對敵人造成至少2次火・光屬性傷害^불·빛속성으로 각 2회 이상 적에게 피해를 줌^Inflige des dég de feu et de lum 2 fois ou plus de chaque^Füge einem Gegner jeweils mind. 2 Mal Feuer- und Lichtschaden zu^Inflige daño de fuego y luz 2 veces o más
 MST_CHALLENGE_NAME_78011022^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
@@ -7583,7 +7583,7 @@ MST_CHALLENGE_NAME_78013021^Use 2 or more limit bursts^使用至少2次極限技
 MST_CHALLENGE_NAME_78013022^No items^不使用道具^아이템을 사용하지 않고 완료^Ne pas utiliser d'objets^Keine Gegenstände^No uses objetos
 MST_CHALLENGE_NAME_78013030^Deal water and light damage 2 times or more each^對敵人造成至少2次水・光屬性傷害^물·빛속성으로 각 2회 이상 적에게 피해를 줌^Infligez des dégâts d'eau et de lumière à 2 reprises ou plus de chaque^Füge einem Gegner jeweils mind. 2 Mal Wasser- und Lichtschaden zu^Inflige daño de agua y luz 2 veces o más
 MST_CHALLENGE_NAME_78013031^Use white magic^使用「白魔法」^'백'마법을 사용해 완료^Utilisez la magie blanche^Benutze Weißmagie^Usa magia blanca
-MST_CHALLENGE_NAME_78013032^Defeat a red roper with magic^使用魔法終結「紅色觸手妖」^'붉은 밧줄잡이'를 마법으로 처치^Terrassez un Rampant rouge avec de la magie^Besiege einen Roter Roper mit Magie^Derrota a un atador rojo con magia
+MST_CHALLENGE_NAME_78013032^Defeat a red roper with magic^使用魔法終結「紅色觸手妖」^'붉은 밧줄잡이'를 마법으로 처치^Terrassez un Rampant rouge avec de la magie^Besiege Roter Roper mit Magie^Derrota a un atador rojo con magia
 MST_CHALLENGE_NAME_78013033^Clear all stages in the area^完成區域內全部關卡^구역 내 모든 스테이지 완료^Terminez tous les niveaux de la zone^Schließe alle Abschnitte im Gebiet ab^Completa todas las misiones del área
 MST_CHALLENGE_NAME_78014010^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_78014011^Deal ice and lightning damage^對敵人造成冰・雷屬性傷害^얼음·번개속성으로 적에게 피해를 줌^Infligez des dégâts de glace et de foudre à un ennemi^Füge einem Gegner Eis- und Blitzschaden zu^Inflige daño de hielo y rayo
@@ -7593,7 +7593,7 @@ MST_CHALLENGE_NAME_78014021^Deal lightning damage 3 times or more^對敵人造�
 MST_CHALLENGE_NAME_78014022^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_78014030^Deal fire, water, and light damage^對敵人造成火・水・光屬性傷害^불·물·빛속성으로 적에게 피해를 줌^Infligez des dégâts de feu, d'eau et de lumière^Füge einem Gegner Feuer-, Wasser- und Lichtschaden zu^Inflige daño de fuego, agua y luz
 MST_CHALLENGE_NAME_78014031^No items^不使用道具^아이템을 사용하지 않고 완료^Ne pas utiliser d'objets^Keine Gegenstände^No uses objetos
-MST_CHALLENGE_NAME_78014032^Defeat calixte with a limit burst^使用極限技終結「卡利斯特」^'칼리스트'를 LB로 처치^Terrassez calixte avec une limite^Besiege Calixte mit einem Limitrausch^Derrota al calixte con un EL
+MST_CHALLENGE_NAME_78014032^Defeat calixte with a limit burst^使用極限技終結「卡利斯特」^'칼리스트'를 LB로 처치^Terrassez Calixte avec une limite^Besiege Calixte mit einem Limitrausch^Derrota al calixte con un EL
 MST_CHALLENGE_NAME_78014033^Clear all stages in the area^完成區域內全部關卡^구역 내 모든 스테이지 완료^Terminez tous les niveaux de la zone^Schließe alle Abschnitte im Gebiet ab^Completa todas las misiones del área
 MST_CHALLENGE_NAME_78015010^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_78015011^Use a limit burst^使用極限技^LB를 사용해 완료^Utilisez une limite^Benutze einen Limitrausch^Usa un Estallido Límite
@@ -8089,7 +8089,7 @@ MST_CHALLENGE_NAME_78514021^Deal lightning damage 3 times or more^對敵人造�
 MST_CHALLENGE_NAME_78514022^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_78514030^Deal fire, water, or light damage^對敵人造成火・水・光屬性傷害^불·물·빛속성으로 적에게 피해를 줌^Infligez des dégâts de feu, de feu ou de lumière^Füge einem Gegner Feuer-, Wasser-, und Lichtschaden zu^Inflige daño de fuego, agua o luz
 MST_CHALLENGE_NAME_78514031^No items^不使用道具^아이템을 사용하지 않고 완료^Ne pas utiliser d'objets^Keine Gegenstände^No uses objetos
-MST_CHALLENGE_NAME_78514032^Defeat calixte with a limit burst^使用極限技終結「卡利斯特」^'칼리스트'를 LB로 처치^Terrassez calixte avec une limite^Besiege Calixte mit einem Limitrausch^Derrota al calixte con un EL
+MST_CHALLENGE_NAME_78514032^Defeat calixte with a limit burst^使用極限技終結「卡利斯特」^'칼리스트'를 LB로 처치^Terrassez Calixte avec une limite^Besiege Calixte mit einem Limitrausch^Derrota al calixte con un EL
 MST_CHALLENGE_NAME_78514033^Clear all stages in the area^完成區域內全部關卡^구역 내 모든 스테이지 완료^Terminez tous les niveaux de la zone^Schließe alle Abschnitte im Gebiet ab^Completa todas las misiones del área
 MST_CHALLENGE_NAME_78515010^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_78515011^Use a limit burst^使用極限技^LB를 사용해 완료^Utilisez une limite^Benutze einen Limitrausch^Usa un Estallido Límite
@@ -10516,3 +10516,23 @@ MST_CHALLENGE_NAME_81601010^Complete the quest^完成任務^퀘스트를 완료^
 MST_CHALLENGE_NAME_81601011^^^^^^
 MST_CHALLENGE_NAME_81601012^^^^^^
 MST_CHALLENGE_NAME_81601013^Party of 5 or less (Companion included)^隊伍人數最多5人（包括同行者）^파티 인원수 5명 이하(동행자 포함)^Groupe de 5 ou moins (partenaire inclus)^Gruppe von höchstens 5 (einschl. Begleiter)^Grupo de 5 o menos (compañero incluido)
+MST_CHALLENGE_NAME_90033010^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
+MST_CHALLENGE_NAME_90033011^Clear within 3 turns^在3回合內結束^3턴 이내에 완료^Terminez en 3 tours max.^Gewinne innerhalb von 3 Runden^Gana en 3 turnos
+MST_CHALLENGE_NAME_90033012^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
+MST_CHALLENGE_NAME_90033013^No items^不使用道具^아이템을 사용하지 않고 완료^Ne pas utiliser d'objets^Keine Gegenstände^No uses objetos
+MST_CHALLENGE_NAME_90033020^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
+MST_CHALLENGE_NAME_90033021^Use white magic^使用「白魔法」^'백'마법을 사용해 완료^Utilisez la magie blanche^Benutze Weißmagie^Usa magia blanca
+MST_CHALLENGE_NAME_90033022^Clear within 5 turns^在5回合內結束^5턴 이내에 완료^Terminez en 5 tours max.^Gewinne innerhalb von 5 Runden^Gana en 5 turnos
+MST_CHALLENGE_NAME_90033023^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
+MST_CHALLENGE_NAME_90033030^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
+MST_CHALLENGE_NAME_90033031^Deal lightning damage^對敵人造成雷屬性傷害^번개속성으로 적에게 피해를 줌^Infligez des dégâts de foudre^Füge einem Gegner Blitzschaden zu^Inflige daño de rayo a un enemigo
+MST_CHALLENGE_NAME_90033032^Clear within 5 turns^在5回合內結束^5턴 이내에 완료^Terminez en 5 tours max.^Gewinne innerhalb von 5 Runden^Gana en 5 turnos
+MST_CHALLENGE_NAME_90033033^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
+MST_CHALLENGE_NAME_90033040^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
+MST_CHALLENGE_NAME_90033041^Deal fire damage^對敵人造成火屬性傷害^불속성으로 적에게 피해를 줌^Infligez des dégâts de feu^Füge einem Gegner Feuerschaden zu^Inflige daño de fuego a un enemigo
+MST_CHALLENGE_NAME_90033042^No items^不使用道具^아이템을 사용하지 않고 완료^Ne pas utiliser d'objets^Keine Gegenstände^No uses objetos
+MST_CHALLENGE_NAME_90033043^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
+MST_CHALLENGE_NAME_90034010^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
+MST_CHALLENGE_NAME_90034011^No items^不使用道具^아이템을 사용하지 않고 완료^Ne pas utiliser d'objets^Keine Gegenstände^No uses objetos
+MST_CHALLENGE_NAME_90034012^Party of 5 or less (Companion included)^隊伍人數最多5人（包括同行者）^파티 인원수 5명 이하(동행자 포함)^Groupe de 5 ou moins (partenaire inclus)^Gruppe von höchstens 5 (einschl. Begleiter)^Grupo de 5 o menos (compañero incluido)
+MST_CHALLENGE_NAME_90034013^Defeat the URGA Mstitel with a limit burst^使用極限技終結「烏爾加復仇者」^'URGA Mstitel'을 LB로 처치^Terrassez l'URGA Mstitel avec une limite^Besiege URGA Mstitel mit einem Limitrausch^Derrota al URGA Mstitel con un EL

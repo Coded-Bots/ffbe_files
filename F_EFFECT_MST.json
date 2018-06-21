@@ -8470,6 +8470,20 @@
         "o2ye8th6": "TombR_LaraAileen_lb_front"
     }, 
     {
+        "2HjxCGo6": "JC_heli_shield.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "320", 
+        "h5t4yBm2": "1900478", 
+        "o2ye8th6": "JC_heli_shield"
+    }, 
+    {
+        "2HjxCGo6": "sp_JC_madoumissile.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "130", 
+        "h5t4yBm2": "1900479", 
+        "o2ye8th6": "sp_JC_madoumissile"
+    }, 
+    {
         "2HjxCGo6": "JC_Rico_explosion_orange_front.bmb", 
         "I1B7wNWc": "5", 
         "avX1k34K": "150", 
@@ -8559,6 +8573,216 @@
         "avX1k34K": "100", 
         "h5t4yBm2": "1900492", 
         "o2ye8th6": "jc_rico_back_240f"
+    }, 
+    {
+        "2HjxCGo6": "atk_blow2_yellow.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "100", 
+        "h5t4yBm2": "1900493", 
+        "o2ye8th6": "JC_teo_atk_blow2_yellow"
+    }, 
+    {
+        "2HjxCGo6": "atk_blow3_yellow.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "120", 
+        "h5t4yBm2": "1900494", 
+        "o2ye8th6": "JC_teo_atk_blow3_yellow"
+    }, 
+    {
+        "2HjxCGo6": "atk_blow4_yellow.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "120", 
+        "h5t4yBm2": "1900495", 
+        "o2ye8th6": "JC_teo_atk_blow4_yellow"
+    }, 
+    {
+        "2HjxCGo6": "atk_blow2_orange.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "130", 
+        "h5t4yBm2": "1900496", 
+        "o2ye8th6": "JC_teo_atk_blow2_orange"
+    }, 
+    {
+        "2HjxCGo6": "eff_fadeblack_a75_f240.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "200", 
+        "h5t4yBm2": "1900497", 
+        "o2ye8th6": "JC_teo_eff_fadeblack_a75_f240"
+    }, 
+    {
+        "2HjxCGo6": "eff_strobe_white_a25_f30.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "200", 
+        "h5t4yBm2": "1900498", 
+        "o2ye8th6": "JC_teo_eff_strobe_white_a25_f30"
+    }, 
+    {
+        "2HjxCGo6": "eff_strobe_orange_a75_f30.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "200", 
+        "h5t4yBm2": "1900499", 
+        "o2ye8th6": "JC_teo_eff_strobe_orange_a75_f30"
+    }, 
+    {
+        "2HjxCGo6": "battle_generic_smoke2_yellow.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "70", 
+        "h5t4yBm2": "1900500", 
+        "o2ye8th6": "JC_teo_battle_generic_smoke2_yellow"
+    }, 
+    {
+        "2HjxCGo6": "JC_teo_lb5_hit.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "150", 
+        "h5t4yBm2": "1900501", 
+        "o2ye8th6": "JC_teo_lb5_hit"
+    }, 
+    {
+        "2HjxCGo6": "JC_teo_lb4_bg.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "80", 
+        "h5t4yBm2": "1900502", 
+        "o2ye8th6": "JC_teo_lb4_bg"
+    }, 
+    {
+        "2HjxCGo6": "JC_teo_lb5_bg.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "100", 
+        "h5t4yBm2": "1900503", 
+        "o2ye8th6": "JC_teo_lb5_bg"
+    }, 
+    {
+        "2HjxCGo6": "JC_Annika_explosion_orange_front.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "60", 
+        "h5t4yBm2": "1900504", 
+        "o2ye8th6": "JC_Annika_explosion_orange_front_60"
+    }, 
+    {
+        "2HjxCGo6": "JC_Annika_explosion_orange_front.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "70", 
+        "h5t4yBm2": "1900505", 
+        "o2ye8th6": "JC_Annika_explosion_orange_front_70"
+    }, 
+    {
+        "2HjxCGo6": "JC_Annika_explosion_orange_front.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "100", 
+        "h5t4yBm2": "1900506", 
+        "o2ye8th6": "JC_Annika_explosion_orange_front_100"
+    }, 
+    {
+        "2HjxCGo6": "JC_Annika_explosion_orange_back.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "100", 
+        "h5t4yBm2": "1900507", 
+        "o2ye8th6": "JC_Annika_explosion_orange_back_100"
+    }, 
+    {
+        "2HjxCGo6": "JC_Annika_explosion_orange_back.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "120", 
+        "h5t4yBm2": "1900508", 
+        "o2ye8th6": "JC_Annika_explosion_orange_back_120"
+    }, 
+    {
+        "2HjxCGo6": "JC_Annika_radiowave.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "70", 
+        "h5t4yBm2": "1900509", 
+        "o2ye8th6": "JC_Annika_radiowave"
+    }, 
+    {
+        "2HjxCGo6": "bm_2001_fire1.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "50", 
+        "h5t4yBm2": "1900510", 
+        "o2ye8th6": "JC_Annika_bm_2001_fire1_50"
+    }, 
+    {
+        "2HjxCGo6": "bm_2001_fire1.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "70", 
+        "h5t4yBm2": "1900511", 
+        "o2ye8th6": "JC_Annika_bm_2001_fire1_70"
+    }, 
+    {
+        "2HjxCGo6": "bm_2001_fire1.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "120", 
+        "h5t4yBm2": "1900512", 
+        "o2ye8th6": "JC_Annika_bm_2001_fire1_120"
+    }, 
+    {
+        "2HjxCGo6": "atk_blow1_yellow.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "60", 
+        "h5t4yBm2": "1900513", 
+        "o2ye8th6": "JC_Annika_atk_blow1_yellow"
+    }, 
+    {
+        "2HjxCGo6": "atk_blow1_orange.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "60", 
+        "h5t4yBm2": "1900514", 
+        "o2ye8th6": "JC_Annika_atk_blow1_orange"
+    }, 
+    {
+        "2HjxCGo6": "JC_Mario_explosion_orange_lb4_front.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "60", 
+        "h5t4yBm2": "1900515", 
+        "o2ye8th6": "JC_Mario_explosion_orange_lb4_front_60"
+    }, 
+    {
+        "2HjxCGo6": "JC_Mario_explosion_orange_lb5_front.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "100", 
+        "h5t4yBm2": "1900516", 
+        "o2ye8th6": "JC_Mario_explosion_orange_lb5_front_100"
+    }, 
+    {
+        "2HjxCGo6": "JC_Mario_explosion_orange_lb5_back.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "100", 
+        "h5t4yBm2": "1900517", 
+        "o2ye8th6": "JC_Mario_explosion_orange_lb5_back_100"
+    }, 
+    {
+        "2HjxCGo6": "JC_Mario_explosion_orange_lb6_front.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "150", 
+        "h5t4yBm2": "1900518", 
+        "o2ye8th6": "JC_Mario_explosion_orange_lb6_front_150"
+    }, 
+    {
+        "2HjxCGo6": "JC_Mario_explosion_orange_lb6_back.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "150", 
+        "h5t4yBm2": "1900519", 
+        "o2ye8th6": "JC_Mario_explosion_orange_lb6_back_150"
+    }, 
+    {
+        "2HjxCGo6": "JC_Mario_lb_back.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "100", 
+        "h5t4yBm2": "1900520", 
+        "o2ye8th6": "JC_Mario_lb_back_100"
+    }, 
+    {
+        "2HjxCGo6": "atk_blow2_light_blue.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "50", 
+        "h5t4yBm2": "1900521", 
+        "o2ye8th6": "JC_Mario_atk_blow2_light_blue"
+    }, 
+    {
+        "2HjxCGo6": "atk_blow1_orange.bmb", 
+        "I1B7wNWc": "5", 
+        "avX1k34K": "70", 
+        "h5t4yBm2": "1900522", 
+        "o2ye8th6": "JC_Mario_atk_blow1_orange"
     }, 
     {
         "2HjxCGo6": "bm_2001_fire1.bmb", 

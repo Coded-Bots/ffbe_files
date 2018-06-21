@@ -195,7 +195,7 @@ OPEN_PARENTHESIS^(^【^【^(^(^(
 CLOSE_PARENTHESIS^)^】^】^)^)^)
 INFORMATION^News^通知^공지사항^Informations^Neues^Noticias
 CBT_CLOSE_FUNCTION^This feature is not available during the closed beta period.^此功能無法在CBT中使用。^이 기능은 CBT 중에 이용하실 수 없습니다.^Cette fonction n'est pas disponible pendant la bêta fermée.^Dieses Feature ist in der geschlossenen Beta-Phase nicht verfügbar.^Esta función no está disponible durante el período de beta cerrada.
-DONT_VISIBLE^ ^ ^ ^ ^ ^ 
+DONT_VISIBLE^^^^^^
 ITEM_NOTHING^No items to display.^沒有道具^아이템이 없습니다.^Vous ne possédez pas d'objets.^Du hast keine Gegenstände.^No tienes ningún objeto.
 MAGIC_NOTHING^No usable magic to display.^沒有可使用的魔法^사용할 수 있는 마법이 없습니다.^Vous ne possédez pas de sorts utilisables.^Du hast keine nutzbare Magie.^No tienes ninguna magia utilizable.
 ABILITY_NOTHING^No usable abilities to display.^沒有可使用的特殊^사용할 수 있는 특수가 없습니다.^Vous ne possédez pas d'aptitudes utilisables.^Du hast keine nutzbaren Fertigkeiten.^No tienes ninguna habilidad utilizable.
@@ -827,7 +827,7 @@ SG_EARLYBIRD_HEADER^ ^ ^ ^ ^ ^
 SG_EARLYBIRD_MSG1^ ^ ^ ^ ^ ^ 
 SG_EARLYBIRD_MSG2^ ^ ^ ^ ^ ^ 
 SG_EARLYBIRD_CHECKBOX_TEXT^Don't show again today^今日不再顯示^오늘은 더는 표시하지 않습니다^Ne plus montrer aujourd'hui^Heute nicht noch einmal anzeigen^No volver a mostrar hoy
-SG_BUNDLE_TITLE^ ^ ^^^^
+SG_BUNDLE_TITLE^<br>^<br>^^^^
 SG_BUNDLE_END^Ends in : ^剩餘時間：^남은 시간:^Reste :^Endet in:^Fin en:
 HD_ASSETS_DOWNLOAD_TITLE^Download HD Assets^下載HD圖像^HD 이미지를 다운로드^Télécharger les ressources HD^HD-Daten herunterladen^Descargar recursos HD
 HD_ASSETS_DOWNLOAD_CONTENT^Would you like to download HD assets?<br><br><size=14>* HD assets are much larger and would take up much more space on your device. </size>^是否下載HD圖像？<br><br><size=14>**HD素材檔案較大，將會佔用更多的儲存空間。</size>^HD 이미지를 다운로드 하시겠습니까?<br><br><size=14>**HD 이미지는 파일 크기가 크므로 더 많은 저장용량이 필요합니다.</size>^Voulez-vous télécharger les ressources HD ?<br><br><size=14>**Veuillez noter que les ressources HD sont de bien plus gros fichiers et qu'elles prendront donc plus de place sur votre appareil.</size>^Möchtest du HD-Daten herunterladen?<br><br><size=14>**Beachte bitte, dass Daten für HD-Auflösung mehr Platz auf deinem Gerät benötigen.</size>^¿Quieres descargar recursos HD?<br><br><size=14>**Los recursos HD son mucho más pesados y ocuparán bastante más espacio en tu dispositivo</size>
@@ -2061,3 +2061,131 @@ GACHA_STEP_UP_LIMIT_OVER^Step up limit reached. Unable to summon anymore^已達S
 LOGIN_BONUS_SPECIAL_MAIL_TITLE_1007^Sephiroth's Arrival Special^賽菲羅斯降臨特別登入^세피로스 등장 스페셜^Lot fêtant l'arrivée de Séphiroth^Sephiroths Ankunftsspezial^Especial llegada de Sefirot
 LOGIN_BONUS_SPECIAL_MAIL_MSG_1007^Special Login Bonus^特別登入獎勵^스페셜 로그인 보너스^Bonus spéciaux de collaboration^Spezieller Anmeldebonus^Bonus especial de inicio de sesión
 EXPLAIN_REWARD_1007^Log in every day during the event period to receive multiple rewards!^在活動期間內每日登入遊戲獲得豪華報酬！^이벤트 기간 동안 매일 로그인하고 다양한 보상을 받으세요!^Connectez-vous tous les jours pendant la durée de l'événement pour recevoir de multiples récompenses !^Melde dich während des Ereigniszeitraums täglich an, um verschiedene Belohnungen zu erhalten!^¡Inicia sesión todos los días durante el periodo de evento para conseguir multitud de recompensas!
+SUPER^^^^^^
+ERROR_MAP_BIN_NOT_FOUND^^^^^^
+UNIT_MIX_CONFIRM_SUPER_TRUST_OVER^^^^^^
+UNIT_MIX_GET_SPECIAL_REWARD^^^^^^
+UNIT_MIX_CONFIRM_ALREADY_TRUST_MASTER^^^^^^
+UNIT_MIX_CONFIRM_ALREADY_SUPER_TRUST_MASTER^^^^^^
+UNIT_MIX_CONFIRM_MATERIAL_TRUST_MASTER^^^^^^
+UNIT_MIX_CONFIRM_MATERIAL_SUPER_TRUST_MASTER^^^^^^
+UNIT_MIX_CONFIRM_NOT_IMPROVE_SUPER_TRUST^^^^^^
+UNIT_MIX_CONFIRM_POSSIBLE_SPECIAL_REWARD^^^^^^
+UNIT_MIX_CONFIRM_IMPOSSIBLE_SPECIAL_REWARD^^^^^^
+UNIT_MIX_CONFIRM_GOT_SPECIAL_REWARD^^^^^^
+UNIT_MIX_CONFIRM_TITLE^^^^^^
+UNIT_MIX_CONFIRM_FINAL_TITLE^^^^^^
+UNIT_MIX_LABEL^^^^^^
+UNIT_SORT_UNIT_LEVEL^^^^^^
+UNIT_SORT_SUBLIMATION_SELECTABLE^^^^^^
+UNIT_SORT_CLASSUP_SELECTABLE^^^^^^
+UNIT_SORT_SP_AFFINITY^^^^^^
+UNIT_SORT_TYPE_SP_AFFINITY^^^^^^
+UNIT_SORT_TYPE_SP_AFFINITY_RATE^^^^^^
+UNIT_SORT_CLASSUP_TRANS_SELECTABLE^^^^^^
+UNIT_SORT_REWARD^^^^^^
+EQUIP_NG_REQUIRED_EQUIPMENT^^^^^^
+GACHA_SELECT_TICKET_TOTAL^^^^^^
+GACHA_SELECT_UNIT_CONFIRM^^^^^^
+GACHA_SELECT_UNIT_CONFIRM_FINAL^^^^^^
+SHOP_EQUIP_GROW_ORB_RECOVERY_SUBHEADER^^^^^^
+SHOP_ERROR_EQUIP_GROW_ORB_RECOVERY^^^^^^
+SHOP_EQUIP_GROW_ORB_RECOVERY_ITEM^^^^^^
+MISSION_EQUIP_GROW_GIVEUP_CONFIRM^^^^^^
+MISSION_REQUIRE_ITEM_IS_NOT_ENOUGH^^^^^^
+MISSION_REQUIRE_ITEM_CONFIRM_USE^^^^^^
+MISSION_REQUIRE_ITEM_HAVE_TITLE^^^^^^
+MISSION_REQUIRE_ITEM_HAVE_TEXT^^^^^^
+ERROR_SHORTAGE_EQUIP_GROW_ORB_TITLE^^^^^^
+ERROR_SHORTAGE_EQUIP_GROW_ORB_MESSAGE^^^^^^
+ERROR_SHORTAGE_EQUIP_GROW_ORB_BUY_LAPIS^^^^^^
+ERROR_SHORTAGE_EQUIP_GROW_ORB_RECOVERY_TITLE^^^^^^
+ERROR_SHORTAGE_EQUIP_GROW_ORB_RECOVERY_MESSAGE^^^^^^
+SUMMON_BEAST_BOARD_RESIST_BAD_STATE_POISON^^^^^^
+SUMMON_BEAST_BOARD_RESIST_BAD_STATE_BLINDNESS^^^^^^
+SUMMON_BEAST_BOARD_RESIST_BAD_STATE_SLEEP^^^^^^
+SUMMON_BEAST_BOARD_RESIST_BAD_STATE_SILENCE^^^^^^
+SUMMON_BEAST_BOARD_RESIST_BAD_STATE_PARALYSIS^^^^^^
+SUMMON_BEAST_BOARD_RESIST_BAD_STATE_CONFUSION^^^^^^
+SUMMON_BEAST_BOARD_RESIST_BAD_STATE_SICKNESS^^^^^^
+SUMMON_BEAST_BOARD_RESIST_BAD_STATE_PETRIFACTION^^^^^^
+TOWN_STRONGBOX_OPENED_DEFAULT^^^^^^
+TOWN_STRONGBOX_CLOSE_DEFAULT^^^^^^
+TOWN_STRONGBOX_CONFIRM_OPEN_DEFAULT^^^^^^
+RB_RULE_INFO_LOSE_REWARD^^^^^^
+RB_RULE_INFO_WIN_REWARD^^^^^^
+LOGIN_BONUS_SELECT_TEXT^^^^^^
+TOTAL_LOGIN_BONUS_TOTAL_LOGIN_COUNT^^^^^^
+TOTAL_LOGIN_BONUS_REWARD^^^^^^
+TOTAL_LOGIN_BONUS_REWARD_DAY^^^^^^
+TOTAL_LOGIN_BONUS_REWARD_CONTINUE_TEXT^^^^^^
+PLAY_REWARD_TEXT^^^^^^
+REVIEW_CONDUCTOR_TEXT^^^^^^
+RESTART_EQUIP_GROW_CONFIRM_TITLE^^^^^^
+RESTART_EQUIP_GROW_CONFIRM_TEXT^^^^^^
+SUSPEND_DELETE_EQUIP_GROW_CONFIRM_TITLE^^^^^^
+SUSPEND_DELETE_EQUIP_GROW_CONFIRM_TEXT^^^^^^
+LOCAL_NOTIFICATION_FINISHED_EXPLORE_TEXT^^^^^^
+LOCAL_NOTIFICATION_FULL_EQUIP_GROW_ORB_TEXT^^^^^^
+EXPLORE_TOP_AREA_CAPTION^^^^^^
+EXPLORE_TOP_TIME_CAPTION^^^^^^
+EXPLORE_TOP_PARTY_CAPTION^^^^^^
+EXPLORE_TOP_START_CONFIRM_SUPER_TRUST_UNIT_BODY^^^^^^
+EXPLORE_TOP_START_CONFIRM_NO_UNIT_BODY^^^^^^
+EXPLORE_TOP_FINISH_CONFIRM_TITLE^^^^^^
+EXPLORE_TOP_FINISH_CONFIRM_BODY^^^^^^
+EXPLORE_TOP_RETIRE_CONFIRM_TITLE^^^^^^
+EXPLORE_TOP_RETIRE_CONFIRM_BODY^^^^^^
+EXPLORE_AREA_SELECT_TITLE^^^^^^
+EXPLORE_AREA_DETAIL_GET_ITEM_TITLE^^^^^^
+EXPLORE_HOME_INFO_EXPLORING^^^^^^
+EXPLORE_HOME_INFO_FINISHED^^^^^^
+EXPLORE_TOP_FINISH_FAILERED_BODY^^^^^^
+EXPLORE_START_EFFECT_MESSAGE^^^^^^
+EQUIP_GROW_CONFIRM_POPUP_TITLE_EQUIP_SELECT^^^^^^
+EQUIP_GROW_CONFIRM_POPUP_TITLE_EQUIP_DETAIL^^^^^^
+EQUIP_GROW_CONFIRM_POPUP_TITLE_RETURN^^^^^^
+EQUIP_GROW_CONFIRM_POPUP_TITLE_DECIDE_RETURN^^^^^^
+EQUIP_GROW_CONFIRM_POPUP_TITLE_GAMEOVER^^^^^^
+EQUIP_GROW_CONFIRM_POPUP_TITLE_GIVEUP^^^^^^
+EQUIP_GROW_CONFIRM_POPUP_BODY_EQUIP_SELECT^^^^^^
+EQUIP_GROW_CONFIRM_POPUP_BODY_RETURN^^^^^^
+EQUIP_GROW_CONFIRM_POPUP_BODY_DECIDE_RETURN^^^^^^
+EQUIP_GROW_CONFIRM_POPUP_BODY_GAMEOVER^^^^^^
+EQUIP_GROW_CONFIRM_POPUP_BODY_GIVEUP^^^^^^
+EQUIP_GROW_CONFIRM_POPUP_DECIDE_RETURN_TITLE^^^^^^
+EQUIP_GROW_CONFIRM_POPUP_DECIDE_RETURN_BODY^^^^^^
+EQUIP_GROW_ABILITY_GET_STATUS_TITLE^^^^^^
+EQUIP_GROW_ABILITY_GET_CAPTION^^^^^^
+EQUIP_GROW_ABILITY_GET_CONFIRM^^^^^^
+EQUIP_GROW_ABILITY_REMOVE_CONFIRM^^^^^^
+EQUIP_GROW_ABILITY_GET_ANNOUNCE_ABILITY_FULL^^^^^^
+EQUIP_GROW_ABILITY_GET_ANNOUNCE_NOT_GET^^^^^^
+EQUIP_GROW_ABILITY_GET_ANNOUNCE_REMOVE^^^^^^
+EQUIP_GROW_NOSETTING_ABILITY^^^^^^
+EQUIP_GROW_CONFIRM_EQUIP_TAKEOFF^^^^^^
+EQUIP_GROW_RULE_SUB_HEADER_TITLE^^^^^^
+EQUIP_GROW_TOP_NONE_EQUIP_SETTING^^^^^^
+EQUIP_GROW_TOP_NONE_EQUIP_SETTING_ANNOUNCE^^^^^^
+EQUIP_GROW_BATTLE_RETURN_CONFIRM_BODY^^^^^^
+EQUIP_GROW_BATTLE_RETURN_CONFIRM_COST^^^^^^
+EQUIP_GROW_SELECT_EQUIP^^^^^^
+EQUIP_GROW_CLEAR_RATE_PERCENT^^^^^^
+EQUIP_GROW_PARTY_DEAD_CONFIRM_BODY^^^^^^
+EQUIP_GROW_FORCE_RETURN_CONFIRM_BODY^^^^^^
+EQUIP_GROW_FORCE_RETIRE_CONFIRM_BODY^^^^^^
+EQUIP_GROW_UPDATE_CLEAR_RATE_ANNOUNCE^^^^^^
+EQUIP_GROW_ENDED_EVENT_DUNGEON_SELECT_ANNOUNCE^^^^^^
+EQUIP_GROW_ENDED_EVENT_RULE_EQUIP_CATEGORY_ANNOUNCE^^^^^^
+EQUIP_GROW_ENDED_EVENT_RULE_RARE_ABILITY_ANNOUNCE^^^^^^
+EQUIP_GROW_EQUIP_ITEM_NOTHING^^^^^^
+SP_CLASSUP_MATERIAL_SELECT^^^^^^
+SP_CLASSUP_CONFIRM^^^^^^
+SP_CLASSUP_TRANS_SUB_HEADER_TITLE^^^^^^
+SP_CLASSUP_TRANS_SUB_TITLE^^^^^^
+SP_CLASSUP_TRANS_CONFIRM^^^^^^
+SP_CLASSUP_TRANS_RESULT_MATERIAL^^^^^^
+SP_CLASSUP_TRANS_RESULT_MOGU_LIST^^^^^^
+SP_CLASSUP_TRANS_RESULT_MOGU^^^^^^
+SP_CLASSUP_TRANS_BASE_SELECT_SUB_HEADER_TITLE^^^^^^
+SP_CLASSUP_TRANS_BASE_SELECT_LOCKED^^^^^^

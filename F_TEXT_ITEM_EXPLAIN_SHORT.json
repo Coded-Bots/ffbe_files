@@ -298,7 +298,7 @@ MST_ITEM_SHORTDESCRIPTION_209000300^A thread that can only be obtained in specia
 MST_ITEM_SHORTDESCRIPTION_209000400^The hide from a beast known as the guardian^一種被稱為守護獸的野獸的皮^수호수라 불리는 짐승의 가죽^La cachette d'une bête connue sous le nom du "Gardien"^Das Fell einer Bestie, die als der Wächter bekannt ist.^La piel de una bestia conocida como "el guardián"
 MST_ITEM_SHORTDESCRIPTION_209000500^A seed which allows its bearer to see illusions^持有此種的人會看到幻象^손에 넣은 자에게 환상을 보여주는 씨앗^Une graine qui permet à son porteur de voir des illusions^Ein Samen, der den Träger Illusionen sehen lässt.^Una semilla que permite ver fantasías a quien la obtiene
 MST_ITEM_SHORTDESCRIPTION_209000600^Writings which detail ancient lifestyles^記有古代生活記錄的書籍^고대의 생활이 기록되어 있는 책^Écrits qui détaillent d'anciens modes de vie^Schriften über uralte Lebensart^Escritos que detallan la forma de vivir en la antigüedad
-MST_ITEM_SHORTDESCRIPTION_209000700^Armor oil made using a secret technique^用秘方製作的武具用油^비밀의 제작법으로 만들어진 무기용 기름^Huile pour armes et amures fabriquée à l'aide d'une technique secrète ^Durch geheimer Technik gewonnenes Rüstungsöl^Aceite de armadura hecho con una receta secreta
+MST_ITEM_SHORTDESCRIPTION_209000700^Armor oil made using a secret technique^用秘方製作的武具用油^비밀의 제작법으로 만들어진 무기용 기름^Huile pour armes et armures fabriquée à l'aide d'une technique secrète ^Durch geheimer Technik gewonnenes Rüstungsöl^Aceite de armadura hecho con una receta secreta
 MST_ITEM_SHORTDESCRIPTION_209000800^A rain drop filled with magical power^溶有魔力的雨滴^마력이 녹아들어 있는 빗방울^Une goutte de pluie imprégnée de pouvoir magique ^Ein Regentropfen mit der Kraft der Magie.^Una gota de lluvia repleta de poder mágico
 MST_ITEM_SHORTDESCRIPTION_209000900^The fragment of a blade found in the ruins of a former nation^在已滅亡的國家的遺跡中找到的劍刃碎片^멸망한 나라의 유적지에서 발견된 칼의 파편^Un morceau d'une épée trouvé dans les ruines d'une ancienne nation ^Das Fragment einer Klinge in den Ruinen einer ehemaligen Nation.^Trozo de espada encontrado en las ruinas de un país perdido
 MST_ITEM_SHORTDESCRIPTION_209001000^A strange flower said to eat dreams^傳聞能夠食夢的神秘花^꿈을 먹는다고 하는 신비한 꽃송이^Une fleur étrange qui se nourrirait des rêves des gens ^Eine seltsame Blume, die Träume fressen soll.^Una flor extraña que se dice puede devorar los sueños
@@ -594,29 +594,29 @@ MST_ITEM_SHORTDESCRIPTION_1209000872^A cluster of blue and red supercites.^帶�
 MST_ITEM_SHORTDESCRIPTION_1209000873^A cluster of violet and yellow supercites.^帶有紫黃色的超魔石^보라색과 노란색을 띤 초월마석^Un amas de gigalithes violettes et jaunes.^Eine Ansammlung violetter und gelber Supermaginite.^Un grupo de supercitas violetas y amarillas.
 MST_ITEM_SHORTDESCRIPTION_1209000874^A cluster of orange and white supercites.^帶有橙白色的超魔石^주황색과 하얀색을 띤 초월마석^Un amas de gigalithes orange et blanches.^Eine Ansammlung oranger und weißer Supermaginite.^Un grupo de supercitas naranjas y blancas.
 MST_ITEM_SHORTDESCRIPTION_1209000875^A cluster of green and black supercites.^帶有綠黑色的超魔石^초록색과 검정색을 띤 초월마석^Un amas de gigalithes vertes et noires.^Eine Ansammlung grüner und schwarzer Supermaginite.^Un grupo de supercitas verdes y negras.
-MST_ITEM_SHORTDESCRIPTION_101003500^Fully recover all downed allies.^^^^^
-MST_ITEM_SHORTDESCRIPTION_101003600^Fully recover 1 downed ally.^^^^^
-MST_ITEM_SHORTDESCRIPTION_101003700^Dispel some debuff effects from 1 ally.^^^^^
-MST_ITEM_SHORTDESCRIPTION_101003800^Recover 1 ally's MP.^^^^^
-MST_ITEM_SHORTDESCRIPTION_101003900^Reduce incoming damage to all allies for 3 turns.^^^^^
-MST_ITEM_SHORTDESCRIPTION_105006300^Fully recover all downed allies.^^^^^
-MST_ITEM_SHORTDESCRIPTION_105006400^Increase all ally's attack powers, and slowly recover all ally's HP.^^^^^
-MST_ITEM_SHORTDESCRIPTION_105006500^Apply reflect onto 1 ally.^^^^^
+MST_ITEM_SHORTDESCRIPTION_101003500^Revive all allies from being KO'd.^^^^^
+MST_ITEM_SHORTDESCRIPTION_101003600^Revive and full restore one ally.^^^^^
+MST_ITEM_SHORTDESCRIPTION_101003700^Dispels all effects on a unit.^^^^^
+MST_ITEM_SHORTDESCRIPTION_101003800^Restore a moderate amount of MP to one ally.^^^^^
+MST_ITEM_SHORTDESCRIPTION_101003900^Reduce damage taken by all allies for three turns.^^^^^
+MST_ITEM_SHORTDESCRIPTION_105006300^Revive all allies from being KO'd.^^^^^
+MST_ITEM_SHORTDESCRIPTION_105006400^Boost ATK and gradually restore HP for all allies.^^^^^
+MST_ITEM_SHORTDESCRIPTION_105006500^Cast reflect on one ally.^^^^^
 MST_ITEM_SHORTDESCRIPTION_105006600^A flag that brings in blessed winds.^^^^^
 MST_ITEM_SHORTDESCRIPTION_105006700^A small gavel that lowers a target's ability.^^^^^
 MST_ITEM_SHORTDESCRIPTION_105006800^A small gavel that lowers a target's ability.^^^^^
-MST_ITEM_SHORTDESCRIPTION_105006900^Slightly increase 1 ally's LB gauge.^^^^^
+MST_ITEM_SHORTDESCRIPTION_105006900^Fill LB gauge by a small amount for one ally.^^^^^
 MST_ITEM_SHORTDESCRIPTION_106211110^A mysterious gem that glows blue.^^^^^
 MST_ITEM_SHORTDESCRIPTION_106211150^A ticket that can be used to get specific units.^^^^^
 MST_ITEM_SHORTDESCRIPTION_106304300^A coin etched with the image of King Mog.^^^^^
 MST_ITEM_SHORTDESCRIPTION_106304400^A card used for a popular game in a faraway world.^^^^^
-MST_ITEM_SHORTDESCRIPTION_106304500^A coin proving one has fought the Lord of the Underworld.^^^^^
-MST_ITEM_SHORTDESCRIPTION_106304600^A crystal that came from a faraway world.^^^^^
+MST_ITEM_SHORTDESCRIPTION_106304500^A coin that serves as proof of one's battle against the Lord of the Underworld from a faraway world. ^^^^^
+MST_ITEM_SHORTDESCRIPTION_106304600^A crystal that came from another world.^^^^^
 MST_ITEM_SHORTDESCRIPTION_106304700^A coin that serves as proof of one's battle against an amalgamated beast from a faraway world. ^用來證明挑戰過合成魔獸的硬幣^이계에서 나타난 합성 마수와 싸운 증거로서 손에 넣을 수 있는 코인. ^Une pièce qui atteste d'une bataille livrée contre une bête chimérique d'un monde lointain. ^Eine Münze, die als Beweis für den Kampf mit einer aus vielen Teilen zusammengesetzten Bestie dient.^Una moneda que sirve como prueba de que se luchó contra una bestia fusionada de un mundo lejano.
 MST_ITEM_SHORTDESCRIPTION_106304800^A beautiful, transparent bottle.^^^^^
-MST_ITEM_SHORTDESCRIPTION_106304900^A coin proving one has fought the king of a lost kingdom.^^^^^
+MST_ITEM_SHORTDESCRIPTION_106304900^A coin that serves as proof of one's battle against the king of a lost kingdom from a faraway world. ^^^^^
 MST_ITEM_SHORTDESCRIPTION_106305000^An icicle that will never melt that came from a faraway world.^^^^^
-MST_ITEM_SHORTDESCRIPTION_106305100^A coin proving one has fought a divine beast.^^^^^
+MST_ITEM_SHORTDESCRIPTION_106305100^A coin that serves as proof of one's battle against a divine beast from a faraway world. ^^^^^
 MST_ITEM_SHORTDESCRIPTION_106305200^A tag from a faraway world that proves a person's existence.^^^^^
 MST_ITEM_SHORTDESCRIPTION_106305300^A coin proving one has faced a powerful enemy.^^^^^
 MST_ITEM_SHORTDESCRIPTION_106305400^A fang that holds the power of earth.^^^^^
@@ -632,32 +632,32 @@ MST_ITEM_SHORTDESCRIPTION_110000300^A map of the Farplane sought by King Mog.^^^
 MST_ITEM_SHORTDESCRIPTION_110000400^A map of the Farplane sought by King Mog.^^^^^
 MST_ITEM_SHORTDESCRIPTION_110000500^A map of the Farplane sought by King Mog.^^^^^
 MST_ITEM_SHORTDESCRIPTION_203000600^An ore containing very hard crystals.^^^^^
-MST_ITEM_SHORTDESCRIPTION_221000100^A raid material from "Estark Challenge."^^^^^
-MST_ITEM_SHORTDESCRIPTION_221000200^A raid material from "Estark Challenge."^^^^^
-MST_ITEM_SHORTDESCRIPTION_221000300^A raid material from "Estark Challenge."^^^^^
-MST_ITEM_SHORTDESCRIPTION_221000400^A raid material from "Estark Challenge."^^^^^
-MST_ITEM_SHORTDESCRIPTION_221000500^A raid material from "Estark Challenge."^^^^^
-MST_ITEM_SHORTDESCRIPTION_221000600^A raid material from "Estark Challenge."^^^^^
+MST_ITEM_SHORTDESCRIPTION_221000100^A raid material  obtained from the Estark's Challenge raid.^^^^^
+MST_ITEM_SHORTDESCRIPTION_221000200^A raid material  obtained from the Estark's Challenge raid.^^^^^
+MST_ITEM_SHORTDESCRIPTION_221000300^A raid material  obtained from the Estark's Challenge raid.^^^^^
+MST_ITEM_SHORTDESCRIPTION_221000400^A raid material  obtained from the Estark's Challenge raid.^^^^^
+MST_ITEM_SHORTDESCRIPTION_221000500^A raid material  obtained from the Estark's Challenge raid.^^^^^
+MST_ITEM_SHORTDESCRIPTION_221000600^A raid material  obtained from the Estark's Challenge raid.^^^^^
 MST_ITEM_SHORTDESCRIPTION_221000700^FFBE Raid - Dracotaur Lancer raid material.^^^Matériau du raid FFBE - Lancier dracotaure^^
 MST_ITEM_SHORTDESCRIPTION_221000800^FFBE Raid - Dracotaur Lancer raid material.^^^Matériau du raid FFBE - Lancier dracotaure^^
 MST_ITEM_SHORTDESCRIPTION_221000900^FFBE Raid - Dracotaur Lancer raid material.^^^Matériau du raid FFBE - Lancier dracotaure^^
 MST_ITEM_SHORTDESCRIPTION_221001000^FFBE Raid - Dracotaur Lancer raid material.^^^Matériau du raid FFBE - Lancier dracotaure^^
 MST_ITEM_SHORTDESCRIPTION_221001100^FFBE Raid - Dracotaur Lancer raid material.^^^Matériau du raid FFBE - Lancier dracotaure^^
-MST_ITEM_SHORTDESCRIPTION_222000100^A raid material from "The Lost City of Dipan."^^^^^
-MST_ITEM_SHORTDESCRIPTION_222000200^A raid material from "The Lost City of Dipan."^^^^^
-MST_ITEM_SHORTDESCRIPTION_222000300^A raid material from "The Lost City of Dipan."^^^^^
-MST_ITEM_SHORTDESCRIPTION_222000400^A raid material from "The Lost City of Dipan."^^^^^
-MST_ITEM_SHORTDESCRIPTION_222000500^A raid material from "The Lost City of Dipan."^^^^^
-MST_ITEM_SHORTDESCRIPTION_223000100^A raid material from "The Enshrined Divine Beast."^^^^^
-MST_ITEM_SHORTDESCRIPTION_223000200^A raid material from "The Enshrined Divine Beast."^^^^^
-MST_ITEM_SHORTDESCRIPTION_223000300^A raid material from "The Enshrined Divine Beast."^^^^^
-MST_ITEM_SHORTDESCRIPTION_223000400^A raid material from "The Enshrined Divine Beast."^^^^^
-MST_ITEM_SHORTDESCRIPTION_223000500^A raid material from "The Enshrined Divine Beast."^^^^^
-MST_ITEM_SHORTDESCRIPTION_224000100^A raid material from "Silversmith Ruins."^^^^^
-MST_ITEM_SHORTDESCRIPTION_224000200^A raid material from "Silversmith Ruins."^^^^^
-MST_ITEM_SHORTDESCRIPTION_224000300^A raid material from "Silversmith Ruins."^^^^^
-MST_ITEM_SHORTDESCRIPTION_224000400^A raid material from "Silversmith Ruins."^^^^^
-MST_ITEM_SHORTDESCRIPTION_224000500^A raid material from "Silversmith Ruins."^^^^^
+MST_ITEM_SHORTDESCRIPTION_222000100^A raid material obtained from the Lost City of Dipan raid.^^^^^
+MST_ITEM_SHORTDESCRIPTION_222000200^A raid material obtained from the Lost City of Dipan raid.^^^^^
+MST_ITEM_SHORTDESCRIPTION_222000300^A raid material obtained from the Lost City of Dipan raid.^^^^^
+MST_ITEM_SHORTDESCRIPTION_222000400^A raid material obtained from the Lost City of Dipan raid.^^^^^
+MST_ITEM_SHORTDESCRIPTION_222000500^A raid material obtained from the Lost City of Dipan raid.^^^^^
+MST_ITEM_SHORTDESCRIPTION_223000100^A raid material obtained from The Divine Beast raid.^^^^^
+MST_ITEM_SHORTDESCRIPTION_223000200^A raid material obtained from The Divine Beast raid.^^^^^
+MST_ITEM_SHORTDESCRIPTION_223000300^A raid material obtained from The Divine Beast raid.^^^^^
+MST_ITEM_SHORTDESCRIPTION_223000400^A raid material obtained from The Divine Beast raid.^^^^^
+MST_ITEM_SHORTDESCRIPTION_223000500^A raid material obtained from The Divine Beast raid.^^^^^
+MST_ITEM_SHORTDESCRIPTION_224000100^A raid material obtained from the Tomb of the Silversmith raid.^^^^^
+MST_ITEM_SHORTDESCRIPTION_224000200^A raid material obtained from the Tomb of the Silversmith raid.^^^^^
+MST_ITEM_SHORTDESCRIPTION_224000300^A raid material obtained from the Tomb of the Silversmith raid.^^^^^
+MST_ITEM_SHORTDESCRIPTION_224000400^A raid material obtained from the Tomb of the Silversmith raid.^^^^^
+MST_ITEM_SHORTDESCRIPTION_224000500^A raid material obtained from the Tomb of the Silversmith raid.^^^^^
 MST_ITEM_SHORTDESCRIPTION_300000010^A rainbow colored stone that holds a mysterious power.^^^^^
 MST_ITEM_SHORTDESCRIPTION_300000020^A rainbow colored stone that holds a mysterious power.^^^^^
 MST_ITEM_SHORTDESCRIPTION_300000030^A rainbow colored stone that holds a mysterious power.^^^^^
@@ -756,5 +756,10 @@ MST_ITEM_SHORTDESCRIPTION_1209000885^FFBE Raid - Dracotaur Lancer raid material.
 MST_ITEM_SHORTDESCRIPTION_1209000886^FFBE Raid - Dracotaur Lancer raid material.^FFBE 共鬥 - 半龍人槍兵的素材^희귀 악마의 검붉은 가죽 조각. ^Matériau du raid FFBE - Lancier dracotaure^FFBE Raubzug - Draconischer Lancier Raubzugmaterial^Material de banda de evento de banda de FFBE - Lancero dragoniano.
 MST_ITEM_SHORTDESCRIPTION_1209000887^FFBE Raid - Dracotaur Lancer raid material.^FFBE 共鬥 - 半龍人槍兵的素材^큰 새의 날개에서 얻을 수 있는 회색 깃털. ^Matériau du raid FFBE - Lancier dracotaure^FFBE Raubzug - Draconischer Lancier Raubzugmaterial^Material de banda de evento de banda de FFBE - Lancero dragoniano.
 MST_ITEM_SHORTDESCRIPTION_1209000888^FFBE Raid - Dracotaur Lancer raid material.^FFBE 共鬥 - 半龍人槍兵的素材^푸른 달이 뜨는 밤 악마의 동굴에서 발견되는 진홍색의 달걀. ^Matériau du raid FFBE - Lancier dracotaure^FFBE Raubzug - Draconischer Lancier Raubzugmaterial^Material de banda de evento de banda de FFBE - Lancero dragoniano.
+MST_ITEM_SHORTDESCRIPTION_1209000876^Pulverized bavarium ore.^磨成粉末的巴伐利姆礦石^바바리움 광석을 정제해서 나온 가루. ^Du minerai de bavarium réduit en poudre.^Pulverisiertes Bavariumerz.^Mena de bavarium pulverizada.
+MST_ITEM_SHORTDESCRIPTION_1209000877^Unprocessed bavarium ore.^未加工的巴伐利姆礦石^가공되지 않은 바바리움 광석. ^Du minerai de bavarium à l'état brut.^Unverarbeitetes Bavariumerz.^Mena de bavarium sin elaborar.
+MST_ITEM_SHORTDESCRIPTION_1209000878^A small fragment of a refined bavarium ore.^精煉巴伐利姆礦石的碎片^정제된 바바리움 광석의 작은 조각. ^Un petit fragment de minerai de bavarium raffiné.^Ein kleines Stück aufbereitetes Bavariumerz.^Pequeño fragmento de mena de bavarium refinada.
+MST_ITEM_SHORTDESCRIPTION_1209000879^High grade bavarium ore.^高品質的巴伐利姆礦石^고급 바바리움 광석. ^Un minerai de bavarium de haute qualité.^Hochwertiges Bavariumerz.^Mena de bavarium de alta calidad.
+MST_ITEM_SHORTDESCRIPTION_1209000880^A coin made from bavarium.^用巴伐利姆製作的硬幣^바바리움으로 만들어진 코인.^Une pièce faite de bavarium.^Eine aus Bavarium hergestellte Münze.^Moneda hecha de bavarium.
 MST_ITEM_SHORTDESCRIPTION_1209000889^A gold medal commemorating FFBE's 2nd Anniversary.^《FFBE》2週年的紀念獎牌^FFBE 2주년을 기념하는 금메달.^Un jeton en or commémorant le 2e anniversaire de FFBE.^Eine goldene Medaille anlässlich des zweijährigen Jubiläums von FFBE.^Una medalla de oro de conmemoración del segundo aniversario de FFBE
 MST_ITEM_SHORTDESCRIPTION_1209000890^Use to perform one 2nd Anniversary summon.^用於2週年紀念召喚的召喚券^2주년 기념 소환에 사용하는 티켓.^Utilisez ce ticket pour lancer une invocation du 2e anniversaire.^Wird benutzt, um eine 2-Jahres-Jubiläumsbeschwärung durchzuführen.^Sirve para realizar una invocación de 2.º aniversario.

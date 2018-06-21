@@ -2895,6 +2895,21 @@
         "qtkvrS60": "spd_30Mill_Lottery.png"
     }, 
     {
+        "0HUPxDf1": "9000038", 
+        "G4L0YIB2": "Just Cause Banner Raid", 
+        "qtkvrS60": "global_spd_bn_list_00033.png"
+    }, 
+    {
+        "0HUPxDf1": "9000039", 
+        "G4L0YIB2": "Just Cause Banner Trial", 
+        "qtkvrS60": "global_spd_bn_list_00034.png"
+    }, 
+    {
+        "0HUPxDf1": "9000040", 
+        "G4L0YIB2": "Just Cause 3 gametitle", 
+        "qtkvrS60": "dic_JustCause3.png"
+    }, 
+    {
         "0HUPxDf1": "10100100", 
         "G4L0YIB2": "戦貴族", 
         "qtkvrS60": "award_10100100.png"
@@ -11235,9 +11250,49 @@
         "qtkvrS60": "global_equip_10091.png"
     }, 
     {
+        "0HUPxDf1": "1100000152", 
+        "G4L0YIB2": "UVK - 13", 
+        "qtkvrS60": "global_equip_10092.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000153", 
+        "G4L0YIB2": "Ricos Wing suit", 
+        "qtkvrS60": "global_equip_10093.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000154", 
+        "G4L0YIB2": "Ricos combat glove", 
+        "qtkvrS60": "global_equip_10094.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000155", 
+        "G4L0YIB2": "GE-64", 
+        "qtkvrS60": "global_equip_10095.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000156", 
+        "G4L0YIB2": "U-24 Zabijak", 
+        "qtkvrS60": "global_equip_10096.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000157", 
+        "G4L0YIB2": "CS Wraith 225R", 
+        "qtkvrS60": "global_equip_10097.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000158", 
+        "G4L0YIB2": "The little General", 
+        "qtkvrS60": "global_equip_10098.png"
+    }, 
+    {
         "0HUPxDf1": "1100000159", 
         "G4L0YIB2": "Protec Grappler G3", 
         "qtkvrS60": "global_equip_10099.png"
+    }, 
+    {
+        "0HUPxDf1": "1100000160", 
+        "G4L0YIB2": "Ricos Jumpsuit", 
+        "qtkvrS60": "global_equip_10100.png"
     }, 
     {
         "0HUPxDf1": "1100000161", 
@@ -11668,6 +11723,31 @@
         "0HUPxDf1": "1209000876", 
         "G4L0YIB2": "Supercite set 4", 
         "qtkvrS60": "global_item_10173.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000877", 
+        "G4L0YIB2": "Bavarium ore", 
+        "qtkvrS60": "global_item_10175.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000878", 
+        "G4L0YIB2": "Bavarium shard", 
+        "qtkvrS60": "global_item_10176.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000879", 
+        "G4L0YIB2": "Refined Bavarium", 
+        "qtkvrS60": "global_item_10177.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000880", 
+        "G4L0YIB2": "Bavarium Coins", 
+        "qtkvrS60": "global_item_10178.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000881", 
+        "G4L0YIB2": "Bavarium dust", 
+        "qtkvrS60": "global_item_10174.png"
     }, 
     {
         "0HUPxDf1": "1209000882", 

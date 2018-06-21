@@ -557,7 +557,7 @@ MST_ITEM_NAME_220000100^Sage's Stone^賢者之石^현자의 돌^Pierre du sage^S
 MST_ITEM_NAME_220000200^Moonlight^月夜石^문라이트^Lumière lunaire^Lotusblütenzahn^Luz lunar
 MST_ITEM_NAME_220000300^Smithy Hammer^史密提錘^스미티 해머^Marteau de forgeron^Schmiedehammer^Martillo de herrero
 MST_ITEM_NAME_220000400^Velvet Ribbon^天鵝絨絲帶^벨벳 리본^Ruban de velours^Samtband^Cinta aterciopelada
-MST_ITEM_NAME_220000500^Carbon Fiber^碳素纖維^카본 섬유^Fibre en carbone^Karbonfaser^Fibra de carbono
+MST_ITEM_NAME_220000500^Carbon Fiber^碳素纖維^카본 섬유^Fibre en carbone^Kohlefaser^Fibra de carbono
 MST_ITEM_NAME_220000600^Iron^鋼鐵^아이언^Fer^Eisen^Hierro
 MST_ITEM_NAME_1209000840^Musical Coin^音樂硬幣^뮤지컬 코인^Pièce musicale ^Musikmünze^Moneda musical
 MST_ITEM_NAME_1209000841^Purple Nail Polish^紫色指甲油^보라색 매니큐어^Vernis à ongles pourpre^Lilaner Nagellack^Esmalte de uñas morado
@@ -594,7 +594,161 @@ MST_ITEM_NAME_1209000872^Blue and Red Supercites^藍紅超魔石^파랑&빨강 �
 MST_ITEM_NAME_1209000873^Violet and Yellow Supercites^紫黃超魔石^보라&노랑 초월마석^Gigalithes violettes et jaunes^Violette und Gelbe Supermaginite^Supercitas lilas y amarillas
 MST_ITEM_NAME_1209000874^Orange and White Supercites^橙白超魔石^주황&하양 초월마석^Gigalithes orange et blanches^Orange und Weiße Supermaginite^Supercitas naranjas y blancas
 MST_ITEM_NAME_1209000875^Green and Black Supercites^綠黑超魔石^초록&검정 초월마석^Gigalithes vertes et noires^Grüne und Schwarze Supermaginite^Supercitas verdes y negras
+MST_ITEM_NAME_101003500^Fina's Chocolate II^^^^^
+MST_ITEM_NAME_101003600^Sakura's Chocolate^^^^^
+MST_ITEM_NAME_101003700^Lid's Chocolate^^^^^
+MST_ITEM_NAME_101003800^Rico's Chocolate^^^^^
+MST_ITEM_NAME_101003900^Elegant Candy^^^^^
+MST_ITEM_NAME_105006300^Mega Phoenix^^^^^
+MST_ITEM_NAME_105006400^Chilled Food Tin^^^^^
+MST_ITEM_NAME_105006500^Star Curtain^^^^^
+MST_ITEM_NAME_105006600^Blessed Flag^^^^^
+MST_ITEM_NAME_105006700^Conqueror's Gavel - Attack^^^^^
+MST_ITEM_NAME_105006800^Conqueror's Gavel - Defense^^^^^
+MST_ITEM_NAME_105006900^Invigorating Potion^^^^^
+MST_ITEM_NAME_106211110^Azure Gem^^^^^
+MST_ITEM_NAME_106211150^Unit Exchange Ticket Bonus^^^^^
+MST_ITEM_NAME_106304300^2nd Anniversary Raid Coin^^^^^
+MST_ITEM_NAME_106304400^Triple Triad Card^^^^^
+MST_ITEM_NAME_106304500^Estark Raid Coin^^^^^
+MST_ITEM_NAME_106304600^Faded Crystal^^^^^
 MST_ITEM_NAME_106304700^Graverobber Raid Coin^融屍魔共鬥硬幣^그레이브로버 레이드 코인^Jeton de raid de Pilletombes^Grabräuber-Raubzugmünze^Moneda de banda de robatumbas
+MST_ITEM_NAME_106304800^Empty Magic Bottle^^^Empty Magic Flask^^
+MST_ITEM_NAME_106304900^Barbarossa Raid Coin^^^^^
+MST_ITEM_NAME_106305000^Eternal Icicle^^^^^
+MST_ITEM_NAME_106305100^Mana Beast Raid Coin^^^^^
+MST_ITEM_NAME_106305200^Knowing Tag^^^^^
+MST_ITEM_NAME_106305300^Silversmith Raid Coin^^^^^
+MST_ITEM_NAME_106305400^Fang of Earth^^^^^
+MST_ITEM_NAME_109302000^Sectored Circle - Yellow^^^^^
+MST_ITEM_NAME_109302010^Sectored Circle - Yellow^^^^^
+MST_ITEM_NAME_109302020^Sectored Circle - Yellow^^^^^
+MST_ITEM_NAME_109302030^Sectored Circle - Yellow^^^^^
+MST_ITEM_NAME_109302040^Sectored Circle - Yellow^^^^^
+MST_ITEM_NAME_109302050^Sectored Circle - Yellow^^^^^
+MST_ITEM_NAME_110000100^Trust Moogle Map^^^^^
+MST_ITEM_NAME_110000200^Megacryst Map^^^^^
+MST_ITEM_NAME_110000300^Rank EXP Map^^^^^
+MST_ITEM_NAME_110000400^Materials Map^^^^^
+MST_ITEM_NAME_110000500^Star Quartz Map^^^^^
+MST_ITEM_NAME_203000600^Adamantite Lump^^^^^
+MST_ITEM_NAME_221000100^Emotion Stone^^^^^
+MST_ITEM_NAME_221000200^Rainbow Feathers^^^^^
+MST_ITEM_NAME_221000300^Orange Gem^^^^^
+MST_ITEM_NAME_221000400^Strange Purple Liquid^^^^^
+MST_ITEM_NAME_221000500^Monster's Claw^^^^^
+MST_ITEM_NAME_221000600^Medicinal Bark^^^^^
+MST_ITEM_NAME_221000700^Ice Alcryst^^^Alcrist de glace^^
+MST_ITEM_NAME_221000800^Snow Tree^^^Arbre de neige^^
+MST_ITEM_NAME_221000900^White Gemcryst^^^Cristgemme blanc^^
+MST_ITEM_NAME_221001000^Crimson Silk^^^Soie carmin^^
+MST_ITEM_NAME_221001100^Crimson Hide^^^Peau pourpre^^
+MST_ITEM_NAME_222000100^Lapis Lazuli^^^Lapis-lazuli^^
+MST_ITEM_NAME_222000200^Neckless Doll^^^^^
+MST_ITEM_NAME_222000300^Burgundy Flask^^^^^
+MST_ITEM_NAME_222000400^Nightshade^^^^^
+MST_ITEM_NAME_222000500^Base Metal^^^^^
+MST_ITEM_NAME_223000100^Minimum Hammer^^^^^
+MST_ITEM_NAME_223000200^Brilliant Jelly^^^^^
+MST_ITEM_NAME_223000300^Faerie Nut^^^^^
+MST_ITEM_NAME_223000400^Medical Root^^^^^
+MST_ITEM_NAME_223000500^Weathered Wood^^^^^
+MST_ITEM_NAME_224000100^Glitz Gem^^^^^
+MST_ITEM_NAME_224000200^Gunmetal Alloy^^^^^
+MST_ITEM_NAME_224000300^Sealed Treasure Chest^^^^^
+MST_ITEM_NAME_224000400^Dense Ore^^^^^
+MST_ITEM_NAME_224000500^Gunpowder^^^^^
+MST_ITEM_NAME_300000010^Lightning's Prism^^^^^
+MST_ITEM_NAME_300000020^Ramza's Prism^^^^^
+MST_ITEM_NAME_300000030^Delita's Prism^^^^^
+MST_ITEM_NAME_300000040^Dark Knight Cecil's Prism^^^^^
+MST_ITEM_NAME_300000050^Ace's Prism^^^^^
+MST_ITEM_NAME_300000060^Luneth's Prism^^^^^
+MST_ITEM_NAME_300000070^Queen's Prism^^^^^
+MST_ITEM_NAME_300000080^Dark Fina's Prism^^^^^
+MST_ITEM_NAME_300000090^Orlandeau's Prism^^^^^
+MST_ITEM_NAME_300000100^Marie's Prism^^^^^
+MST_ITEM_NAME_300000110^Emperor's Prism^^^^^
+MST_ITEM_NAME_300000120^Aileen's Prism^^^^^
+MST_ITEM_NAME_300000130^Rem's Prism^^^^^
+MST_ITEM_NAME_300000140^Tidus's Prism^^^^^
+MST_ITEM_NAME_300000150^Wilhelm's Prism^^^^^
+MST_ITEM_NAME_300000160^Seabreeze Dark Fina's Prism^^^^^
+MST_ITEM_NAME_300000170^Trance Terra's Prism^^^^^
+MST_ITEM_NAME_300000180^Fohlen's Prism^^^^^
+MST_ITEM_NAME_300000190^Veritas of the Dark's Prism^^^^^
+MST_ITEM_NAME_300000200^Squall's Prism^^^^^
+MST_ITEM_NAME_300000210^Rinoa's Prism^^^^^
+MST_ITEM_NAME_300000220^Onion Knight's Prism^^^^^
+MST_ITEM_NAME_300000230^Nalu's Prism^^^^^
+MST_ITEM_NAME_300000240^Estark's Prism^^^^^
+MST_ITEM_NAME_300000250^Marquis de Léon's Prism^^^^^
+MST_ITEM_NAME_300000260^Dragonlord's Prism^^^^^
+MST_ITEM_NAME_300000270^Livid Shantotto's Prism^^^^^
+MST_ITEM_NAME_300000280^Shadow Lord's Prism^^^^^
+MST_ITEM_NAME_300000290^Lunera's Prism^^^^^
+MST_ITEM_NAME_300000300^Prishe's Prism^^^^^
+MST_ITEM_NAME_300000310^Mercenary Ramza's Prism^^^^^
+MST_ITEM_NAME_300000320^Knight Delita's Prism^^^^^
+MST_ITEM_NAME_300000330^Cloud's Prism^^^^^
+MST_ITEM_NAME_300000340^Veritas of the Flame's Prism^^^^^
+MST_ITEM_NAME_300000350^Loren's Prism^^^^^
+MST_ITEM_NAME_300000360^Veritas of the Light's Prism^^^^^
+MST_ITEM_NAME_300000370^Noctis's Prism^^^^^
+MST_ITEM_NAME_300000380^Beatrix's Prism^^^^^
+MST_ITEM_NAME_300000390^Eiko's Prism^^^^^
+MST_ITEM_NAME_300000400^Hyoh's Prism^^^^^
+MST_ITEM_NAME_300000410^Santa Roselia's Prism^^^^^
+MST_ITEM_NAME_300000420^Ignis's Prism^^^^^
+MST_ITEM_NAME_300000430^Ray Jack's Prism^^^^^
+MST_ITEM_NAME_300000440^Balthier's Prism^^^^^
+MST_ITEM_NAME_300000450^Gilgamesh's Prism^^^^^
+MST_ITEM_NAME_300000460^Ayaka's Prism^^^^^
+MST_ITEM_NAME_300000470^Elfreeda's Prism^^^^^
+MST_ITEM_NAME_300000480^Roy's Prism^^^^^
+MST_ITEM_NAME_300000490^Gladiolus's Prism^^^^^
+MST_ITEM_NAME_300000500^Duke's Prism^^^^^
+MST_ITEM_NAME_300000510^Pyro Glacial Lasswell's Prism^^^^^
+MST_ITEM_NAME_300000520^Yuna's Prism^^^^^
+MST_ITEM_NAME_300000530^Lulu's Prism^^^^^
+MST_ITEM_NAME_300000540^Blossom Sage Sakura's Prism^^^^^
+MST_ITEM_NAME_300000550^Lotus Mage Fina's Prism^^^^^
+MST_ITEM_NAME_300000560^Aranea's Prism^^^^^
+MST_ITEM_NAME_300000570^Prompto's Prism^^^^^
+MST_ITEM_NAME_300000580^Kunshira's Prism^^^^^
+MST_ITEM_NAME_300000590^Citra's Prism^^^^^
+MST_ITEM_NAME_300000600^Lenneth's Prism^^^^^
+MST_ITEM_NAME_300000610^Freya's (VP) Prism^^^^^
+MST_ITEM_NAME_300000620^Arngrim's Prism^^^^^
+MST_ITEM_NAME_300000630^Tifa's Prism^^^^^
+MST_ITEM_NAME_300000640^Vincent's Prism^^^^^
+MST_ITEM_NAME_300000650^Nyx's Prism^^^^^
+MST_ITEM_NAME_300000660^Jiraiya's Prism^^^^^
+MST_ITEM_NAME_300000670^Gabranth's Prism^^^^^
+MST_ITEM_NAME_300000680^Basch's Prism^^^^^
+MST_ITEM_NAME_300000690^Nameless Gunner Jake's Prism^^^^^
+MST_ITEM_NAME_300000700^Emperor Shera's Prism^^^^^
+MST_ITEM_NAME_300000710^Pure Summoner Rydia's Prism^^^^^
+MST_ITEM_NAME_300000720^Atoning Dragoon Kain's Prism^^^^^
+MST_ITEM_NAME_300000730^Heavenly Technician Lid's Prism^^^^^
+MST_ITEM_NAME_300000740^Mediena's Prism^^^^^
+MST_ITEM_NAME_300000750^Sephiroth's Prism^^^^^
+MST_ITEM_NAME_300000760^Lila's Prism^^^^^
+MST_ITEM_NAME_300000770^Maritime Strategist Nichol's Prism^^^^^
+MST_ITEM_NAME_300000780^Raegan's Prism^^^^^
+MST_ITEM_NAME_300000790^Rain (Awoken) Prism^^^^^
+MST_ITEM_NAME_300000800^Elephim's Prism^^^^^
+MST_ITEM_NAME_300000810^Flammie's Prism^^^^^
+MST_ITEM_NAME_300000820^Randi's Prism^^^^^
+MST_ITEM_NAME_300000830^Kevin's Prism^^^^^
+MST_ITEM_NAME_300000840^Lise's Prism^^^^^
+MST_ITEM_NAME_300000850^Hawkeye's Prism^^^^^
+MST_ITEM_NAME_300000860^Machina's Prism^^^^^
+MST_ITEM_NAME_300000870^Kurasame's Prism^^^^^
+MST_ITEM_NAME_300000880^Sieghard's Prism^^^^^
+MST_ITEM_NAME_300000890^Yuraisha's Prism^^^^^
+MST_ITEM_NAME_300000900^Onion Knight Refia's Prism^^^^^
+MST_ITEM_NAME_300000910^Dark Knight Luneth's Prism^^^^^
 MST_ITEM_NAME_1209000882^Elven Crystal^精靈水晶^엘프의 수정^Cristal elfique^Elfenkristall^Cristal élfico
 MST_ITEM_NAME_1209000883^Manufactured Wood^人造木材^인공 목재^Bois manufacturé^Fertigholz^Madera procesada
 MST_ITEM_NAME_1209000884^Scarlet Orb^朱紅色寶珠^진홍색 구슬^Orbe écarlate^Scharlachjuwel^Orbe escarlata
@@ -602,5 +756,10 @@ MST_ITEM_NAME_1209000885^Black Thread^黑色線綢^검은색 실뭉치^Fil noir^
 MST_ITEM_NAME_1209000886^Scarlet Hide^朱紅色皮^진홍색 가죽^Peau écarlate^Scharlachhaut^Piel escarlata
 MST_ITEM_NAME_1209000887^Grey Feathers^灰色羽毛^회색 깃털^Plumes grises^Graue Federn^Plumas grises
 MST_ITEM_NAME_1209000888^Scarlet Egg^朱紅色蛋^진홍색 달걀^Œuf écarlate^Scharlachei^Huevo escarlata
+MST_ITEM_NAME_1209000876^Bavarium Dust^巴伐利姆粉末^바바리움 가루^Poudre de bavarium^Bavariumstaub^Polvo de bavarium
+MST_ITEM_NAME_1209000877^Bavarium Ore^巴伐利姆礦石^바바리움 광석^Minerai de bavarium^Bavariumerz^Mena de bavarium
+MST_ITEM_NAME_1209000878^Bavarium Shard^巴伐利姆碎片^바바리움 조각^Tesson de bavarium^Bavariumsplitter^Esquirla de bavarium
+MST_ITEM_NAME_1209000879^Refined Bavarium^精製巴伐利姆礦石^정제 바바리움^Bavarium raffiné^Raffiniertes Bavarium^Bavarium refinado
+MST_ITEM_NAME_1209000880^Bavarium Coin^巴伐利姆硬幣^바바리움 코인^Pièce de bavarium^Bavarium-Münze^Moneda de bavarium
 MST_ITEM_NAME_1209000889^2nd Anniversary Medal^2週年獎牌^2주년 기념 메달^Jeton du 2e anniversaire^2-Jahres-Jubiläumsmedaille<br>^Medalla del segundo aniversario
-MST_ITEM_NAME_1209000890^2nd Anniversary Ticket^2週年特別召喚券^2주년 스페셜 소환티켓^Ticket du 2e anniversaire^2-Jahres-Jubiläumskarte^Tícket 2.º aniversario
+MST_ITEM_NAME_1209000890^2nd Anniversary Ticket^2週年特別召喚券^2주년 기념 티켓^Ticket du 2e anniversaire^2-Jahres-Jubiläumskarte^Tícket 2.º aniversario

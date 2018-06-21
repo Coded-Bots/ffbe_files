@@ -65385,6 +65385,186 @@
         "qo3PECw6": "9003116"
     }, 
     {
+        "6uvHX2JG": "The Son of Medici INT", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "90033010", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "20:1209000880:100", 
+        "qo3PECw6": "9003301"
+    }, 
+    {
+        "6uvHX2JG": "The Son of Medici INT", 
+        "G4L0YIB2": "Clear within 3 turns", 
+        "Pzn5h0Ga": "75:1:3", 
+        "V36ygRYs": "90033011", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9003301"
+    }, 
+    {
+        "6uvHX2JG": "The Son of Medici INT", 
+        "G4L0YIB2": "Clear without an ally being KOd", 
+        "Pzn5h0Ga": "33", 
+        "V36ygRYs": "90033012", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9003301"
+    }, 
+    {
+        "6uvHX2JG": "The Son of Medici INT", 
+        "G4L0YIB2": "No items", 
+        "Pzn5h0Ga": "1", 
+        "V36ygRYs": "90033013", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9003301"
+    }, 
+    {
+        "6uvHX2JG": "The Son of Medici ADV", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "90033020", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "20:1209000880:200", 
+        "qo3PECw6": "9003302"
+    }, 
+    {
+        "6uvHX2JG": "The Son of Medici ADV", 
+        "G4L0YIB2": "Use White Magic", 
+        "Pzn5h0Ga": "13:1", 
+        "V36ygRYs": "90033021", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9003302"
+    }, 
+    {
+        "6uvHX2JG": "The Son of Medici ADV", 
+        "G4L0YIB2": "Clear within 5 turns", 
+        "Pzn5h0Ga": "75:1:5", 
+        "V36ygRYs": "90033022", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9003302"
+    }, 
+    {
+        "6uvHX2JG": "The Son of Medici ADV", 
+        "G4L0YIB2": "Clear without an ally being KOd", 
+        "Pzn5h0Ga": "33", 
+        "V36ygRYs": "90033023", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9003302"
+    }, 
+    {
+        "6uvHX2JG": "The Son of Medici  PRO", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "90033030", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "20:1209000880:300", 
+        "qo3PECw6": "9003303"
+    }, 
+    {
+        "6uvHX2JG": "The Son of Medici  PRO", 
+        "G4L0YIB2": "Deal lightning damage", 
+        "Pzn5h0Ga": "26:3", 
+        "V36ygRYs": "90033031", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9003303"
+    }, 
+    {
+        "6uvHX2JG": "The Son of Medici  PRO", 
+        "G4L0YIB2": "Clear within 5 turns", 
+        "Pzn5h0Ga": "75:1:5", 
+        "V36ygRYs": "90033032", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9003303"
+    }, 
+    {
+        "6uvHX2JG": "The Son of Medici  PRO", 
+        "G4L0YIB2": "Clear without an ally being KOd", 
+        "Pzn5h0Ga": "33", 
+        "V36ygRYs": "90033033", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9003303"
+    }, 
+    {
+        "6uvHX2JG": "The Son of Medici  ELT", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "90033040", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "50:1:40", 
+        "qo3PECw6": "9003304"
+    }, 
+    {
+        "6uvHX2JG": "The Son of Medici  ELT", 
+        "G4L0YIB2": "Deal fire damage", 
+        "Pzn5h0Ga": "26:1", 
+        "V36ygRYs": "90033041", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:20", 
+        "qo3PECw6": "9003304"
+    }, 
+    {
+        "6uvHX2JG": "The Son of Medici  ELT", 
+        "G4L0YIB2": "No items", 
+        "Pzn5h0Ga": "1", 
+        "V36ygRYs": "90033042", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:20", 
+        "qo3PECw6": "9003304"
+    }, 
+    {
+        "6uvHX2JG": "The Son of Medici  ELT", 
+        "G4L0YIB2": "Clear without an ally being KOd", 
+        "Pzn5h0Ga": "33", 
+        "V36ygRYs": "90033043", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:20", 
+        "qo3PECw6": "9003304"
+    }, 
+    {
+        "6uvHX2JG": "Strike of the URGA Mstitel", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "90034010", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "21:1100000158:1", 
+        "qo3PECw6": "9003401"
+    }, 
+    {
+        "6uvHX2JG": "Strike of the URGA Mstitel", 
+        "G4L0YIB2": "No items", 
+        "Pzn5h0Ga": "1", 
+        "V36ygRYs": "90034011", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "20:1209000880:10000", 
+        "qo3PECw6": "9003401"
+    }, 
+    {
+        "6uvHX2JG": "Strike of the URGA Mstitel", 
+        "G4L0YIB2": "Party 5 or less", 
+        "Pzn5h0Ga": "35:5", 
+        "V36ygRYs": "90034012", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "23:50:2:100", 
+        "qo3PECw6": "9003401"
+    }, 
+    {
+        "6uvHX2JG": "Strike of the URGA Mstitel", 
+        "G4L0YIB2": "Defeat the URGA Mstitel with a limit burst", 
+        "Pzn5h0Ga": "18:900010810:900010448:1", 
+        "V36ygRYs": "90034013", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "10:904000104:1:100:1:0:100000001", 
+        "qo3PECw6": "9003401"
+    }, 
+    {
         "6uvHX2JG": "Castle Dungeon BGN", 
         "G4L0YIB2": "Complete the quest", 
         "Pzn5h0Ga": "68", 

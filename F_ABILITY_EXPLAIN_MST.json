@@ -26175,6 +26175,51 @@
         "VC9F3eJn": "Counter Break"
     }, 
     {
+        "Ga5V42LZ": "910970", 
+        "T7aEx3Mj": "Boost ATK when equipped with a gun", 
+        "VC9F3eJn": "Boost ATK when equipped with a gun"
+    }, 
+    {
+        "Ga5V42LZ": "910971", 
+        "T7aEx3Mj": "View info on one enemy and boost DEF and SPR for 3 turns for self", 
+        "VC9F3eJn": "View info on one enemy and boost DEF and SPR for 3 turns for self"
+    }, 
+    {
+        "Ga5V42LZ": "910972", 
+        "T7aEx3Mj": "Restore HP for one ally", 
+        "VC9F3eJn": "Restore HP for one ally"
+    }, 
+    {
+        "Ga5V42LZ": "910973", 
+        "T7aEx3Mj": "Damage all enemies", 
+        "VC9F3eJn": "Damage all enemies"
+    }, 
+    {
+        "Ga5V42LZ": "910974", 
+        "T7aEx3Mj": "Boost DEF and SPR for all allies for 3 turns", 
+        "VC9F3eJn": "Boost DEF and SPR for all allies for 3 turns"
+    }, 
+    {
+        "Ga5V42LZ": "910975", 
+        "T7aEx3Mj": "Boost ATK and MAG for all allies for 3 turns", 
+        "VC9F3eJn": "Boost ATK and MAG for all allies for 3 turns"
+    }, 
+    {
+        "Ga5V42LZ": "910976", 
+        "T7aEx3Mj": "Boost ATK, MAG, DEF, and SPR by 10%", 
+        "VC9F3eJn": "Boost ATK, MAG, DEF, and SPR by 10%"
+    }, 
+    {
+        "Ga5V42LZ": "910977", 
+        "T7aEx3Mj": "Boost physical damage against machina monsters for 3 turns for one ally", 
+        "VC9F3eJn": "Boost physical damage against machina monsters for 3 turns for one ally"
+    }, 
+    {
+        "Ga5V42LZ": "910978", 
+        "T7aEx3Mj": "Caster can dodge some physical attacks once after a battle begins or after being revived", 
+        "VC9F3eJn": "Agility"
+    }, 
+    {
         "Ga5V42LZ": "910979", 
         "T7aEx3Mj": "Boost SPR by 20% and MP by 15%", 
         "VC9F3eJn": "Spiritual Wrath"
@@ -26325,6 +26370,46 @@
         "VC9F3eJn": "ザオラル"
     }, 
     {
+        "Ga5V42LZ": "911010", 
+        "T7aEx3Mj": "Caster can dodge some physical attacks once after a battle begins or after being revived", 
+        "VC9F3eJn": "Agility"
+    }, 
+    {
+        "Ga5V42LZ": "911011", 
+        "T7aEx3Mj": "Boost gil obtained by defeating enemies", 
+        "VC9F3eJn": "Boost gil obtained by defeating enemies"
+    }, 
+    {
+        "Ga5V42LZ": "911012", 
+        "T7aEx3Mj": "Critical damage to one enemy", 
+        "VC9F3eJn": "Critical damage to one enemy"
+    }, 
+    {
+        "Ga5V42LZ": "911013", 
+        "T7aEx3Mj": "Damage and reduce DEF and SPR for one enemy", 
+        "VC9F3eJn": "Damage and reduce DEF and SPR for one enemy"
+    }, 
+    {
+        "Ga5V42LZ": "911014", 
+        "T7aEx3Mj": "Damage and reduce ATK and MAG for one enemy", 
+        "VC9F3eJn": "Damage and reduce ATK and MAG for one enemy"
+    }, 
+    {
+        "Ga5V42LZ": "911015", 
+        "T7aEx3Mj": "Boost drop rate of items from enemies", 
+        "VC9F3eJn": "Boost drop rate of items from enemies"
+    }, 
+    {
+        "Ga5V42LZ": "911016", 
+        "T7aEx3Mj": "Fire damage to all enemies", 
+        "VC9F3eJn": "Fire damage to all enemies"
+    }, 
+    {
+        "Ga5V42LZ": "911017", 
+        "T7aEx3Mj": "Deal partial unmitigated damage and reduce fire resistance to all enemies", 
+        "VC9F3eJn": "Deal partial unmitigated damage and reduce fire resistance to all enemies"
+    }, 
+    {
         "Ga5V42LZ": "911018", 
         "T7aEx3Mj": "Boost ATK by 20% and MP by 15%", 
         "VC9F3eJn": "Intense Determination"
@@ -26333,6 +26418,11 @@
         "Ga5V42LZ": "911019", 
         "T7aEx3Mj": "Boost HP by 20% and DEF by 10%", 
         "VC9F3eJn": "Motherly Love"
+    }, 
+    {
+        "Ga5V42LZ": "911020", 
+        "T7aEx3Mj": "Reduce fire resistance for one enemy", 
+        "VC9F3eJn": "Reduce fire resistance for one enemy"
     }, 
     {
         "Ga5V42LZ": "911021", 
@@ -26400,6 +26490,81 @@
         "VC9F3eJn": "Blood Rend"
     }, 
     {
+        "Ga5V42LZ": "911034", 
+        "T7aEx3Mj": "Boost ATK and physical damage against machina monsters, and enable rebellion", 
+        "VC9F3eJn": "Boost ATK and physical damage against machina monsters, and enable rebellion"
+    }, 
+    {
+        "Ga5V42LZ": "911035", 
+        "T7aEx3Mj": "Restore MP and LB gauge fills each turn ", 
+        "VC9F3eJn": "Restore MP and LB gauge fills each turn "
+    }, 
+    {
+        "Ga5V42LZ": "911036", 
+        "T7aEx3Mj": "Damage and chance of silencing one enemy", 
+        "VC9F3eJn": "Damage and chance of silencing one enemy"
+    }, 
+    {
+        "Ga5V42LZ": "911037", 
+        "T7aEx3Mj": "Damage and chance of confusing all enemies", 
+        "VC9F3eJn": "Damage and chance of confusing all enemies"
+    }, 
+    {
+        "Ga5V42LZ": "911038", 
+        "T7aEx3Mj": "Activate childhood friendship when Rico is in party and not KOd", 
+        "VC9F3eJn": "Activate childhood friendship when Rico is in party and not KOd"
+    }, 
+    {
+        "Ga5V42LZ": "911039", 
+        "T7aEx3Mj": "Damage and cast dispel on all enemies", 
+        "VC9F3eJn": "Damage and cast dispel on all enemies"
+    }, 
+    {
+        "Ga5V42LZ": "911040", 
+        "T7aEx3Mj": "LB gauge fills each turn", 
+        "VC9F3eJn": "LB gauge fills each turn"
+    }, 
+    {
+        "Ga5V42LZ": "911041", 
+        "T7aEx3Mj": "Consume casters HP to damage and drain MP from one enemy ", 
+        "VC9F3eJn": "Consume casters HP to damage and drain MP from one enemy "
+    }, 
+    {
+        "Ga5V42LZ": "911042", 
+        "T7aEx3Mj": "Damage and reduce DEF and SPR for all enemies", 
+        "VC9F3eJn": "Damage and reduce DEF and SPR for all enemies"
+    }, 
+    {
+        "Ga5V42LZ": "911043", 
+        "T7aEx3Mj": "Activate undercover when Rico is in party and not KOd", 
+        "VC9F3eJn": "Activate undercover when Rico is in party and not KOd"
+    }, 
+    {
+        "Ga5V42LZ": "911044", 
+        "T7aEx3Mj": "Boost LB gauge fill rate for all allies", 
+        "VC9F3eJn": "Boost LB gauge fill rate for all allies"
+    }, 
+    {
+        "Ga5V42LZ": "911045", 
+        "T7aEx3Mj": "Damage and reduce ATK for one enemy", 
+        "VC9F3eJn": "Damage and reduce ATK for one enemy"
+    }, 
+    {
+        "Ga5V42LZ": "911046", 
+        "T7aEx3Mj": "Damage and inflict random status ailments to one enemy", 
+        "VC9F3eJn": "Damage and inflict random status ailments to one enemy"
+    }, 
+    {
+        "Ga5V42LZ": "911047", 
+        "T7aEx3Mj": "Restore HP and MP each turn", 
+        "VC9F3eJn": "Restore HP and MP each turn"
+    }, 
+    {
+        "Ga5V42LZ": "911048", 
+        "T7aEx3Mj": "Boost resistance to poison, blind, sleep, silence, paralysis, confusion, disease, and stone for self", 
+        "VC9F3eJn": "Boost resistance to poison, blind, sleep, silence, paralysis, confusion, disease, and stone for self"
+    }, 
+    {
         "Ga5V42LZ": "911049", 
         "T7aEx3Mj": "Blood Pulsar", 
         "VC9F3eJn": "Blood Pulsar"
@@ -26408,6 +26573,21 @@
         "Ga5V42LZ": "911050", 
         "T7aEx3Mj": "Blood Pulsar", 
         "VC9F3eJn": "Blood Pulsar"
+    }, 
+    {
+        "Ga5V42LZ": "911051", 
+        "T7aEx3Mj": "Restore HP for all allies", 
+        "VC9F3eJn": "Restore HP for all allies"
+    }, 
+    {
+        "Ga5V42LZ": "911052", 
+        "T7aEx3Mj": "Cure poison, blind, sleep, silence, paralysis, and confusion for one ally", 
+        "VC9F3eJn": "Cure poison, blind, sleep, silence, paralysis, and confusion for one ally"
+    }, 
+    {
+        "Ga5V42LZ": "911053", 
+        "T7aEx3Mj": "Enable the use of \"Rebel drop\" skills twice in 1 turn and effect lasts for 4 turns.", 
+        "VC9F3eJn": "Enable the use of \"Rebel drop\" skills twice in 1 turn and effect lasts for 4 turns."
     }, 
     {
         "Ga5V42LZ": "911054", 
@@ -26763,6 +26943,11 @@
         "Ga5V42LZ": "911158", 
         "T7aEx3Mj": "Sacred Strike", 
         "VC9F3eJn": "Sacred Strike"
+    }, 
+    {
+        "Ga5V42LZ": "911159", 
+        "T7aEx3Mj": "Scorpion Stinger", 
+        "VC9F3eJn": "Scorpion Stinger"
     }, 
     {
         "Ga5V42LZ": "911160", 

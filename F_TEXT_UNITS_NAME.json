@@ -1043,8 +1043,8 @@ MST_UNIT_NAME_401003506^Explorer Aileen^探險家艾琳^탐험가 아이린^Aile
 MST_UNIT_NAME_401003605^Lara Croft^蘿拉·卡芙特^라라 크로프트^Lara Croft^Lara Croft^Lara Croft
 MST_UNIT_NAME_401003606^Lara Croft^蘿拉·卡芙特^라라 크로프트^Lara Croft^Lara Croft^Lara Croft
 MST_UNIT_NAME_100014905^Madam^^마담^^^
-MST_UNIT_NAME_100015005^Vagrant Knight Rain^^방황의 기사 레인^^^
-MST_UNIT_NAME_100015006^Vagrant Knight Rain^^방황의 기사 레인^^^
+MST_UNIT_NAME_100015005^Vagrant Knight Rain^彷徨騎士雷因^방황의 기사 레인^Rain, chevalier vagabond^Wandernder Ritter Rain^Rain caballero mendicante
+MST_UNIT_NAME_100015006^Vagrant Knight Rain^彷徨騎士雷因^방황의 기사 레인^Rain, chevalier vagabond^Wandernder Ritter Rain^Rain caballero mendicante
 MST_UNIT_NAME_100015805^Rain (Awoken)^^레인(힘의 각성)^^^
 MST_UNIT_NAME_100015806^Rain (Awoken)^^레인(힘의 각성)^^^
 MST_UNIT_NAME_208000105^Squall^^스퀄^^^
@@ -1068,7 +1068,7 @@ MST_UNIT_NAME_203000207^Luneth^^루네스^^^
 MST_UNIT_NAME_254000207^Queen^^퀸^^^
 MST_UNIT_NAME_100000317^Dark Fina^^마인 피나^^^
 MST_UNIT_NAME_253000807^Orlandeau^^올란두^^^
-MST_UNIT_NAME_100005807^Marie^^마리아^^^
+MST_UNIT_NAME_100005807^Marie^^마리^^^
 MST_UNIT_NAME_202000507^Emperor^^황제^^^
 MST_UNIT_NAME_306000107^Dragonlord^^용왕^^^
 MST_UNIT_NAME_100005907^Aileen^^아이린^^^
@@ -1107,9 +1107,9 @@ MST_UNIT_NAME_306001206^Slime Knight^史萊姆騎士^슬라임 나이트^^^
 MST_UNIT_NAME_306001303^Dracky^多拉奇^드라키^^^
 MST_UNIT_NAME_306001304^Dracky^多拉奇^드라키^^^
 MST_UNIT_NAME_306001305^Dracky^多拉奇^드라키^^^
-MST_UNIT_NAME_211000805^Livid Shantotto^^살짝 열받은 샨토토^^^
-MST_UNIT_NAME_211000806^Livid Shantotto^^살짝 열받은 샨토토^^^
-MST_UNIT_NAME_211000807^Livid Shantotto^^살짝 열받은 샨토토^^^
+MST_UNIT_NAME_211000805^Livid Shantotto^^분노한 샨토토^^^
+MST_UNIT_NAME_211000806^Livid Shantotto^^분노한 샨토토^^^
+MST_UNIT_NAME_211000807^Livid Shantotto^^분노한 샨토토^^^
 MST_UNIT_NAME_211000905^Shadow Lord^^암흑의 왕^^^
 MST_UNIT_NAME_211000906^Shadow Lord^^암흑의 왕^^^
 MST_UNIT_NAME_211000907^Shadow Lord^^암흑의 왕^^^
@@ -1224,7 +1224,7 @@ MST_UNIT_NAME_100011907^Heavenly Technician Lid^^성홍의 기술자 리드^^^
 MST_UNIT_NAME_100014007^Mediena^^메디아나^^^
 MST_UNIT_NAME_207001007^Sephiroth^^세피로스^^^
 MST_UNIT_NAME_100013807^Lila^^리라^^^
-MST_UNIT_NAME_100012507^Maritime Strategist Nichol^^황양의 참모 니콜^^^
+MST_UNIT_NAME_100012507^Maritime Strategist Nichol^^광양의 참모 니콜^^^
 MST_UNIT_NAME_100010007^Raegen^^레겐^^^
 MST_UNIT_NAME_100015807^Rain (Awoken)^^레인(힘의 각성)^^^
 MST_UNIT_NAME_100017105^Elephim^^엘핌^Elephim^Elephim^Elephim
@@ -1297,4 +1297,15 @@ MST_UNIT_NAME_203001503^Unei^^우네^^^
 MST_UNIT_NAME_203001504^Unei^^우네^^^
 MST_UNIT_NAME_203001505^Unei^^우네^^^
 MST_UNIT_NAME_900010501^Gil Snapper Tower^^길거북 타워^^^
-MST_UNIT_NAME_904000115^Prism Moogle^^^^^Moguri prismático
+MST_UNIT_NAME_904000115^Prism Moogle^^트러스트 모그리(프리즘)^^^Moguri prismático
+MST_UNIT_NAME_401004303^Teo^特奧^테오^Teo^Teo^Teo
+MST_UNIT_NAME_401004304^Teo^特奧^테오^Teo^Teo^Teo
+MST_UNIT_NAME_401004305^Teo^特奧^테오^Teo^Teo^Teo
+MST_UNIT_NAME_401004104^Mario Frigo^馬里奧·弗瑞格^마리오 프리고^Mario Frego^Mario Frigo^Mario Frigo
+MST_UNIT_NAME_401004105^Mario Frigo^馬里奧·弗瑞格^마리오 프리고^Mario Frego^Mario Frigo^Mario Frigo
+MST_UNIT_NAME_401004106^Mario Frigo^馬里奧·弗瑞格^마리오 프리고^Mario Frego^Mario Frigo^Mario Frigo
+MST_UNIT_NAME_401004203^Annika Svennson^安妮卡·斯文森^아니카 스벤슨^Annika Svennson^Annika Svennson^Annika Svennson
+MST_UNIT_NAME_401004204^Annika Svennson^安妮卡·斯文森^아니카 스벤슨^Annika Svennson^Annika Svennson^Annika Svennson
+MST_UNIT_NAME_401004205^Annika Svennson^安妮卡·斯文森^아니카 스벤슨^Annika Svennson^Annika Svennson^Annika Svennson
+MST_UNIT_NAME_401004005^Rico Rodriguez^瑞科·羅德里格茲^리코 로드리게즈^Rico Rodriguez^Rico Rodriguez^Rico Rodríguez
+MST_UNIT_NAME_401004006^Rico Rodriguez^瑞科·羅德里格茲^리코 로드리게즈^Rico Rodriguez^Rico Rodriguez^Rico Rodríguez
