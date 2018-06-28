@@ -483,7 +483,7 @@ MST_EQUIP_ITEM_SHORTDESCRIPTION_406001900^A set of light armor made from platinu
 MST_EQUIP_ITEM_SHORTDESCRIPTION_403042100^A hat said to have once been worn by a sage.^曾經屬於賢者的帽子^과거에 현자가 쓰던 모자^Un chapeau qui aurait été porté par un sage.^Eine Hut, deren Vorbesitzer ein Weiser war.^Un sombrero que otrora llevó un sabio.
 MST_EQUIP_ITEM_SHORTDESCRIPTION_409011100^Strange gloves that heighten magic power.^能提高魔力的手套^마력을 상승시키는 신비한 장갑^Des gants étranges qui augmentent les pouvoirs magiques.^Seltsame, Magie verstärkende Handschuhe.^Unos extraños guantes que aumentan el poder mágico.
 MST_EQUIP_ITEM_SHORTDESCRIPTION_409011200^Fashionable eyeglasses worn only by a producer.^製作人佩戴的眼鏡框^프로듀서가 착용하는 멋내기용 안경^Des lunettes d'une classe folle portées uniquement par un producteur.^Modische Brille eines Produzenten.^Unas elegantes gafas que solo se ha puesto un productor.
-MST_EQUIP_ITEM_SHORTDESCRIPTION_405002700^A cool jacket worn only by a producer.^製作人穿著的古樸夾克^프로듀서가 착용하는 수수한 재킷^Une veste d'une classe folle portée uniquement par un producteur.^Die coole Jacke eines Produzenten.^Una chaqueta muy bonita que solo se ha puesto un productor.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_405002700^A cool jacket worn only by a producer.^製作人穿著的古樸夾克^프로듀서가 착용하는 멋진 재킷^Une veste d'une classe folle portée uniquement par un producteur.^Die coole Jacke eines Produzenten.^Una chaqueta muy bonita que solo se ha puesto un productor.
 MST_EQUIP_ITEM_SHORTDESCRIPTION_311002100^A staff made from cypress.^用側柏製成的手杖^사이프러스로 만든 지팡이^Un bâton fabriqué à partir d'un cyprès.^Ein aus Zypressen gefertigter Stab.^Un bastón de madera de ciprés.
 MST_EQUIP_ITEM_SHORTDESCRIPTION_305001700^A large axe said to have been dropped by a demon.^惡魔帶來的大型戰斧^악마가 전해주었다는 거대한 도끼^Une grosse hache qui aurait été abandonnée par un démon.^Eine Großaxt, deren Vorbesitzer ein Dämon war.^Un hacha de gran tamaño que un demonio se dejó caer.
 MST_EQUIP_ITEM_SHORTDESCRIPTION_308002400^A spear that can only be wielded by those recognized by the flying dragon.^只有得到飛龍認可的人能得到的長槍^비룡에게 인정받은 자만이 손에 넣을 수 있는 창^Une lance qui ne peut être portée que par ceux reconnus par le dragon volant.^Ein Speer, den nur führen kann, wer vom fliegenden Drachen anerkannt wurde.^Una lanza que solo pueden portar aquellos dignos del dragón alado.
@@ -919,7 +919,7 @@ MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000148^A two-handed shotgun which packs a ve
 MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000149^An accessory blessed by a sun god.^寄宿著太陽神之力的首飾^태양신의 힘이 깃든 장신구.^Un accessoire ayant reçu la bénédiction du dieu du soleil.^Ein Accessoire, das von einem Sonnengott gesegnet wurde.^Un accesorio que cuenta con la bendición del dios del sol.
 MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000150^A ring blessed by a wicked god.^寄宿著邪神之力的戒指^사악한 신의 힘이 깃든 반지.^Un anneau ayant reçu la bénédiction d'un dieu maléfique.^Ein Ring, der von einem bösartigen Gott gesegnet wurde.^Un anillo que cuenta con la bendición del dios de la maldad.
 MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000151^An amulet based on the symbol of a goddess.^受到女神祝福的護身符^여신을 상징하는 부적.^Une amulette basée sur le symbole de la déesse.^Ein Amulett, das auf dem Symbol einer Göttin basiert.^Un amuleto cuyo diseño se basa en el símbolo de una diosa.
-MST_EQUIP_ITEM_SHORTDESCRIPTION_409019300^A ring that was made to celebrate a commemorative day.^為了慶祝紀念日的戒指^^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_409019300^A ring made in celebration of an anniversary.^為慶祝紀念日而製作的戒指^기념일을 기념하기 위한 반지^Un anneau fabriqué pour célébrer un anniversaire.^Ein Ring, der für ein Jubiläum geschmiedet wurde.^Un anillo para conmemorar un aniversario.
 MST_EQUIP_ITEM_SHORTDESCRIPTION_302005200^A very sharp, magical sword.^被稱為魔劍的兵器^^^^
 MST_EQUIP_ITEM_SHORTDESCRIPTION_310003500^A rod named in an ancient language that holds the meaning of "magic stick."^以古代語言命名，原意為「魔法之杖」的魔棒^^^^
 MST_EQUIP_ITEM_SHORTDESCRIPTION_303004000^A type of weapon coming from a class of weapons called "gunblades" that came from a faraway world.^被稱為ガンブレード的一種異界武器^^^^
@@ -933,12 +933,12 @@ MST_EQUIP_ITEM_SHORTDESCRIPTION_315022000^A type of weapon coming from a class o
 MST_EQUIP_ITEM_SHORTDESCRIPTION_409019500^An armlet that came from a faraway world.^來自異界的手環^^^^
 MST_EQUIP_ITEM_SHORTDESCRIPTION_303004100^A type of weapon coming from a class of weapons called "gunblades" that came from a faraway world.^被稱為ガンブレード的一種異界武器^^^^
 MST_EQUIP_ITEM_SHORTDESCRIPTION_302005400^The final form of the transformable sword, gunblade, after going through many modifications.^雙重武器改造後的最終形態^듀얼 웨폰에 개조를 거듭한 최종 형태^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_401002200^A powerful, light-weight shield that was found inside a certain shrine.^從某個神殿所挖掘出的強力輕盾^어느 신전에서 발굴된 강력한 가벼운 방패^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_401002200^A powerful, light-weight shield that was found inside a certain shrine.^在某神殿中挖到的強力輕盾^어느 신전에서 발굴된 강력한 가벼운 방패^^^
 MST_EQUIP_ITEM_SHORTDESCRIPTION_315022100^A weapon that came from the faraway world of Orience.^來自遙遠異界奧利恩斯的武器^^^^
 MST_EQUIP_ITEM_SHORTDESCRIPTION_405004800^A set of clothes worn by a young man from a faraway world.^異界少年所穿著的服裝^^^^
 MST_EQUIP_ITEM_SHORTDESCRIPTION_409019600^A pair of eyeglasses that came from the faraway world of Orience.^來自遙遠異界奧利恩斯的眼鏡^^^^
 MST_EQUIP_ITEM_SHORTDESCRIPTION_408003400^A cloak used by a lady bent towards the dark.^被稱為魔人的女性所愛用的披風^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_303004200^A great sword used by a count known as the "Thunder God."^被稱為雷神的異界侯爵所使用的大劍^시드라고 불리는 이계 후작의 대검^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_303004200^A great sword used by a count known as the "Thunder God."^被稱為雷神的異界侯爵的大劍^시드라고 불리는 이계 후작의 대검^^^
 MST_EQUIP_ITEM_SHORTDESCRIPTION_403044800^A pair of goggles made using the finest of technology.^集結最先進的技術所製造的護目鏡^^^^
 MST_EQUIP_ITEM_SHORTDESCRIPTION_409019700^A ring that came from the faraway world of Orience.^來自遙遠異界奧利恩斯的戒指^^^^
 MST_EQUIP_ITEM_SHORTDESCRIPTION_407003100^An armor that was worn by a certain general of the Zoldaad Empire.^佐爾達多帝國某位將軍的鎧甲^^^^
@@ -979,7 +979,7 @@ MST_EQUIP_ITEM_SHORTDESCRIPTION_312002200^A bow infused with water magic.^蘊含
 MST_EQUIP_ITEM_SHORTDESCRIPTION_403044900^A mask made in the image of a wolf.^模仿狼的外觀所製作的面具^^^^
 MST_EQUIP_ITEM_SHORTDESCRIPTION_307002100^A modified mace with spikes.^性能提升過的帶刺權杖^^^^
 MST_EQUIP_ITEM_SHORTDESCRIPTION_309003000^A fist weapon that allows use of a special move found in a faraway world.^戴上後能夠使用異界秘奧義的格鬥武器^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_402002700^A heavy shield from a faraway world that greatly increases one's resilience.^耐久力大幅提升的異界重盾^내구도가 크게 향상된 이계의 무거운 방패^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_402002700^A heavy shield from a faraway world that greatly increases one's resilience.^大幅度提升耐久力的異界重盾^내구도가 크게 향상된 이계의 무거운 방패^^^
 MST_EQUIP_ITEM_SHORTDESCRIPTION_303004400^A great sword seen as the pinnacle of weaponry originating from a faraway world.^被許多人稱為最強的異界大劍^최강으로 명성높은 이계의 대검^^^
 MST_EQUIP_ITEM_SHORTDESCRIPTION_407003300^A heavy armor worn by Veritas of the Flames.^劫火之維利亞斯所穿過的重鎧甲^^^^
 MST_EQUIP_ITEM_SHORTDESCRIPTION_303004500^A great sword used by the "Twin Blade General."^雙劍將軍揮舞過的大劍^^^^
@@ -1047,7 +1047,7 @@ MST_EQUIP_ITEM_SHORTDESCRIPTION_313004100^A toy gun that can be used in battle.^
 MST_EQUIP_ITEM_SHORTDESCRIPTION_409021200^An armlet coming from a faraway world that increases resistance against fire attacks.^提高火屬性耐性的異界手環^^^^
 MST_EQUIP_ITEM_SHORTDESCRIPTION_409021300^An armlet coming from a faraway world that increases resistance against 3 different elements.^提高三種屬性耐性的異界手環^^^^
 MST_EQUIP_ITEM_SHORTDESCRIPTION_409021400^A ring coming from a faraway world that greatly increases resistance against three different elements.^大幅提高三種屬性耐性的異界手環^^^^
-MST_EQUIP_ITEM_SHORTDESCRIPTION_404003200^A helm that was used by a warrior from a faraway world.^異界武人使用過的頭盔^이계의 무인이 사용하던 투구^^^
+MST_EQUIP_ITEM_SHORTDESCRIPTION_404003200^A helm that was used by a warrior from a faraway world.^異界武人所使用的頭盔^이계의 무인이 사용하던 투구^^^
 MST_EQUIP_ITEM_SHORTDESCRIPTION_316004200^A very powerful firearm that was cooperatively made between Aileen and Lid.^艾琳與里德共同製作的強力火槍^^^^
 MST_EQUIP_ITEM_SHORTDESCRIPTION_409021500^A ring that has been passed down through the line of emperors of Zoldaad.^佐爾達多皇室一族所傳承的戒指^^^^
 MST_EQUIP_ITEM_SHORTDESCRIPTION_403045600^A hair accessory worn by a summoner from a faraway world.^異界召喚士配戴在身上的髮飾^^^^
@@ -1132,3 +1132,4 @@ MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000158^A unique variant of the CS44 Peacebri
 MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000166^A comfortable jersey.^一件舒適的運動衫^편안한 축구 경기용 유니폼.^Un maillot agréable à porter.^Ein bequemes Trikot.^Una equipación cómoda.
 MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000159^An improvised sleek grapple hook that utilizes a flexible display.^附有折疊螢幕的簡易滑動鉤爪^유연한 디스플레이를 사용하는 날렵한 포경포.^Un grappin de combat élégant qui utilise un panneau flexible.^Ein schnittiger, improvisierter Enterhaken, an den ein flexibler Bildschirm angebracht ist.^Un gancho improvisado bastante llamativo de ajuste flexible.
 MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000160^A jumpsuit worn by a hero from another world.^來自異界的英雄所穿著之跳傘裝^이계의 어느 영웅이 착용하던 점프슈트. ^Une tenue de saut en parachute portée par un héros venant d'un autre monde.^Ein Jumpsuit, der von einem Held aus einer anderen Welt getragen wird.^El traje aéreo que usa un héroe de otro mundo.
+MST_EQUIP_ITEM_SHORTDESCRIPTION_1100000167^A pair of golden earrings endowed with mystical energy made in commemoration of a very special day.^為了紀念特別的日子所製作，含有神秘力量的一對黃金耳飾^기념일을 축하하기 위해 만든, 신비한 힘을 담아 만든 한 쌍의 황금 귀걸이. ^Une paire de boucles d'oreilles imprégnée d'énergie mystique qui a été fabriquée pour commémorer une journée très spéciale.^Ein mit mystischer Energie ausgestattetes Paar Goldohrringe, die anlässlich eines ganz besonderen Tages angefertigt wurden.^Un par de aretes conteniendo un poder místico que fueron fabricados para celebrar un día muy especial.

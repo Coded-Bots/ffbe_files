@@ -769,6 +769,7 @@ MST_MISSION_NAME_2111204^Cactuar Dunes - Paradise^巨型仙人掌沙漠 樂園^�
 MST_MISSION_NAME_2111304^Gil Snapper's Cave - Golden Cavern^金幣龜洞窟·黄金窟^길거북 동굴·황금의 동굴^Caverne de Gilkhélone - Caverne dorée^Höhle der Gilkröte – Goldene Kaverne^Cueva del Guilonio - Cueva dorada
 MST_MISSION_NAME_2210101^The Enchanted Maze - BGN^夢幻迷宮·初級^몽환의 미궁·초급^Le labyrinthe des illusions - DBT^Der verwunschene Irrgarten - ANF^Laberinto Encantado - PRI
 MST_MISSION_NAME_2210102^The Enchanted Maze - INT^夢幻迷宮·中級^몽환의 미궁·중급^Le labyrinthe des illusions - INT^Der verwunschene Irrgarten - FOR^Laberinto Encantado - INT
+MST_MISSION_NAME_2210103^The Enchanted Maze - ADV^夢幻迷宮·上級^몽환의 미궁·상급^Le labyrinthe des illusions - PRO^Der verwunschene Irrgarten - EXP^Laberinto Encantado -  AVA
 MST_MISSION_NAME_2220101^Vision of Bahamut - INT^巴哈姆特的幻影·中級^바하무트의 환영·중급^Vision de Bahamut - INT^Vision von Bahamut - FOR^Visión de Bahamut - INT
 MST_MISSION_NAME_2220102^Vision of Bahamut - ADV^巴哈姆特的幻影·上級^바하무트의 환영·상급^Vision de Bahamut - PRO^Vision von Bahamut - EXP^Visión de Bahamut - AVA
 MST_MISSION_NAME_2220103^Vision of Bahamut - PRO^巴哈姆特的幻影·超級^바하무트의 환영·최상급^Vision de Bahamut - SUP^Vision von Bahamut - PRO^Visión de Bahamut - PRO
@@ -1162,10 +1163,10 @@ MST_MISSION_NAME_7110112^Memories of the Aquapolis - INT^深藏水都的思念·
 MST_MISSION_NAME_7110113^Memories of the Aquapolis - ADV^深藏水都的思念·上級^물의 도시에 깃든 마음·상급^Souvenirs de la Ville Aquatique - PRO^Erinnerungen aus der Aquapolis - EXP^Recuerdos de la Aquópolis - AVA
 MST_MISSION_NAME_7110114^Memories of the Aquapolis - PRO^深藏水都的思念·超級^물의 도시에 깃든 마음·최상급^Souvenirs de la Ville Aquatique - SUP^Erinnerungen aus der Aquapolis - PRO^Recuerdos de la Aquópolis - PRO
 MST_MISSION_NAME_7110115^Memories of the Aquapolis - ELT^深藏水都的思念·覺醒級^물의 도시에 깃든 마음·각성급^Souvenirs de la Ville Aquatique - EX!^Erinnerungen aus der Aquapolis - ELI^Recuerdos de la Aquópolis - ÉLI
-MST_MISSION_NAME_7300101^The Shadow Lord Invades - INT^黑暗之王來襲·中級^어둠의 왕 습격·중급^Invasion du roi des ténèbres - INT^Invasion des Schattenlords - FOR^Invasión del Señor oscuro - INT
-MST_MISSION_NAME_7300102^The Shadow Lord Invades - ADV^黑暗之王來襲·上級^어둠의 왕 습격·상급^Invasion du roi des ténèbres - PRO^Invasion des Schattenlords - EXP^Invasión del Señor oscuro - AVA
-MST_MISSION_NAME_7300103^The Shadow Lord Invades - PRO^黑暗之王來襲·超級^어둠의 왕 습격·최상급^Invasion du roi des ténèbres - SUP^Invasion des Schattenlords - PRO^Invasión del Señor oscuro - PRO
-MST_MISSION_NAME_7300104^The Shadow Lord Invades - ELT^黑暗之王來襲·覺醒級^어둠의 왕 습격·각성급^Invasion du roi des ténèbres - EX!^Invasion des Schattenlords - ELI^Invasión del Señor oscuro - ÉLI
+MST_MISSION_NAME_7300101^The Shadow Lord Invades - INT^黑暗之王來襲·中級^암흑의 왕 습격·중급^Invasion du roi des ténèbres - INT^Invasion des Schattenlords - FOR^Invasión del Señor oscuro - INT
+MST_MISSION_NAME_7300102^The Shadow Lord Invades - ADV^黑暗之王來襲·上級^암흑의 왕 습격·상급^Invasion du roi des ténèbres - PRO^Invasion des Schattenlords - EXP^Invasión del Señor oscuro - AVA
+MST_MISSION_NAME_7300103^The Shadow Lord Invades - PRO^黑暗之王來襲·超級^암흑의 왕 습격·최상급^Invasion du roi des ténèbres - SUP^Invasion des Schattenlords - PRO^Invasión del Señor oscuro - PRO
+MST_MISSION_NAME_7300104^The Shadow Lord Invades - ELT^黑暗之王來襲·覺醒級^암흑의 왕 습격·각성급^Invasion du roi des ténèbres - EX!^Invasion des Schattenlords - ELI^Invasión del Señor oscuro - ÉLI
 MST_MISSION_NAME_7310101^In the Name of Love - BGN^為了愛·初級^사랑을 위하여·초급^Par amour - DBT^Im Namen der Liebe - ANF^Todo por amor - PRI
 MST_MISSION_NAME_7310102^In the Name of Love - INT^為了愛·中級^사랑을 위하여·중급^Par amour - INT^Im Namen der Liebe - FOR^Todo por amor - INT
 MST_MISSION_NAME_7310103^In the Name of Love - ADV^為了愛·上級^사랑을 위하여·상급^Par amour - PRO^Im Namen der Liebe - EXP^Todo por amor - AVA
@@ -2208,14 +2209,14 @@ MST_MISSION_NAME_11421507^Energy Extraction Station Center - Break In^能量抽�
 MST_MISSION_NAME_11421508^Energy Extraction Station Center - On Guard^能量抽取設施中樞・警戒^에너지 추출 시설 중추·경계^Station d'extraction d'énergie - En garde^Energie-Extraktionsstation - Wache schieben^Estación de extracción de energía - En guardia
 MST_MISSION_NAME_11421509^Energy Extraction Station Center - Counter Attack^能量抽取設施中樞・迎擊^에너지 추출 시설 중추·요격^Station d'extraction d'énergie - Contre-attaque^Energie-Extraktionsstation - Gegenangriff^Estación de extracción de energía - Contraataque
 MST_MISSION_NAME_11421510^Energy Extraction Station Center - Security Guards^能量抽取設施中樞・警備兵^에너지 추출 시설 중추·경비병^Station d'extraction d'énergie - Gardes de sécurité^Energie-Extraktionsstation - Sicherheitspersonal^Estación de extracción de energía - Guardias de seguridad
-MST_MISSION_NAME_11421511^Energy Extraction Station Core - Reactor 1^能量抽取設施核心・第一動力爐^에너지 추출 시설 코어·제1동력로^Station d'extraction d'énergie - Réacteur 1^Energie-Extraktionsstation - Reaktor 2^Estación de extracción de energía - Reactor 1
-MST_MISSION_NAME_11421512^Energy Extraction Station Core - Reactor 2^能量抽取設施核心・第二動力爐^에너지 추출 시설 코어·제2동력로^Station d'extraction d'énergie - Réacteur 2^Energie-Extraktionsstation^Estación de extracción de energía - Reactor 2
+MST_MISSION_NAME_11421511^Energy Extraction Station Core - Reactor 1^能量抽取設施核心・第一動力爐^에너지 추출 시설 코어·제1동력로^Station d'extraction d'énergie - Réacteur 1^Energie-Extraktionsstation - Reaktor 1^Estación de extracción de energía - Reactor 1
+MST_MISSION_NAME_11421512^Energy Extraction Station Core - Reactor 2^能量抽取設施核心・第二動力爐^에너지 추출 시설 코어·제2동력로^Station d'extraction d'énergie - Réacteur 2^Energie-Extraktionsstation - Reaktor 2^Estación de extracción de energía - Reactor 2
 MST_MISSION_NAME_11421513^Energy Extraction Station Core - Reactor 3^能量抽取設施核心・第三動力爐^에너지 추출 시설 코어·제3동력로^Station d'extraction d'énergie - Réacteur 3^Energie-Extraktionsstation - Reaktor 3^Estación de extracción de energía - Reactor 3
 MST_MISSION_NAME_11421514^Energy Extraction Station Core - Reactor 4^能量抽取設施核心・第四動力爐^에너지 추출 시설 코어·제4동력로^Station d'extraction d'énergie - Réacteur 4^Energie-Extraktionsstation - Reaktor 4^Estación de extracción de energía - Reactor 4
-MST_MISSION_NAME_11421601^Nirvana Woods - Runaway Path^寂滅之森・敗退的小道^열반의 숲·샛길 도주^Bois du Nirvana - Fuite^Nirvana-Wälder - Trampelpfad^Bosque del nirvana - Vía de escape
+MST_MISSION_NAME_11421601^Nirvana Woods - Runaway Path^寂滅之森・敗退的小道^열반의 숲·도주의 길^Bois du Nirvana - Fuite^Nirvana-Wälder - Trampelpfad^Bosque del nirvana - Vía de escape
 MST_MISSION_NAME_11421602^Nirvana Woods - Beast Trail^寂滅之森・無主野獸的山路^열반의 숲·주인 없는 짐승 길^Bois du Nirvana - Trace de bête^Nirvana-Wälder - Bestienspur^Bosque del nirvana - Rastro de la bestia
 MST_MISSION_NAME_11421603^Nirvana Woods - Starved for Life^寂滅之森・滅絕的生命^열반의 숲·메마른 생명^Bois du Nirvana - Soif vitale^Nirvana-Wälder - Hungrig nach Leben^Bosque del nirvana - Hambriento de por vida
-MST_MISSION_NAME_11421604^Nirvana Woods - Life Stealing Soul^寂滅之森・索命的死靈^열반의 숲·목숨을 빼앗는 악령^Bois du Nirvana - Âme volvie^Nirvana-Wälder - Leben-erntende Todesseele^Bosque del nirvana - Alma robavidas
+MST_MISSION_NAME_11421604^Nirvana Woods - Life-stealing Soul^寂滅之森・索命的死靈^열반의 숲·목숨을 빼앗는 악령^Bois du Nirvana - Âme volvie^Nirvana-Wälder - Leben-erntende Todesseele^Bosque del nirvana - Alma robavidas
 MST_MISSION_NAME_11421605^Nirvana Woods - Exploration^寂滅之森・探索^열반의 숲·탐색^Bois du Nirvana - Exploration^Nirvana-Wälder - Erkundung^Bosque del nirvana - Exploración
 MST_MISSION_NAME_11421701^Scalestone Way - Stoneblocked Way^鱗岩道路・被岩石堵住的路^비늘 바위길·바위에 가로막힌 길목^Traversée Rochécailles - Chemin bloqué^Schuppensteinweg - Versperrter Pfad^Travesía escalonada - Camino bloqueado
 MST_MISSION_NAME_11421702^Scalestone Way - Falling Rocks^鱗岩道路・崩塌的落石^비늘 바위길·무너지는 바위^Traversée Rochécailles - Chute de pierres^Schuppensteinweg - Steinschlag^Travesía escalonada - Desprendimiento de rocas
@@ -2227,14 +2228,14 @@ MST_MISSION_NAME_11421803^Deadly Rock Path - Lost World^遺失岩場・消失的
 MST_MISSION_NAME_11421804^Deadly Rock Path - Howl of Lament^遺失岩場・哀歎的咆哮^사라진 바위터·비탄의 포효^Chemin des roches mortelles - Hurlement de regrets^Tödlicher Steinpfad - Gebrüll des Leids^Camino de rocas mortal - Aullido quejumbroso
 MST_MISSION_NAME_11421901^Elmaul Archives - Before the Gates^艾爾瑪烏爾的書庫外・門前^엘마울의 서고 밖·문 앞^Archives d'Elmaul - Avant les portes^Elmaul-Archive - Vor den Toren^Archivos de Elmaul - Ante las puertas
 MST_MISSION_NAME_11421902^Elmaul Archives - Courtyard^艾爾瑪烏爾的書庫外・內院^엘마울의 서고 밖·안뜰^Archives d'Elmaul - Cour^Elmaul-Archive - Hofgarten^Archivos de Elmaul - Patio
-MST_MISSION_NAME_11421903^Elmaul Archives - Pursuers^艾爾瑪烏爾的書庫內・追蹤者們^엘마울의 서고 밖·추적자들^Archives d'Elmaul - Poursuivants^Elmaul-Archive - Verfolger^Archivos de Elmaul - Perseguidores
-MST_MISSION_NAME_11421904^Elmaul Archives - Full Speed Escape^艾爾瑪烏爾的書庫內・拼命逃亡^엘마울의 서고 밖·전력 도주^Archives d'Elmaul - Fuite à toutes jambes^Elmaul-Archive - Flucht im Höchsttempo^Archivos de Elmaul - Huida a toda velocidad
-MST_MISSION_NAME_11421905^Elmaul Archives - Massacre Weapon^艾爾瑪烏爾的書庫內・殺戮兵器^엘마울의 서고 밖·살육 병기^Archives d'Elmaul - Arme de destruction^Elmaul-Archive - Metzelwaffe^Archivos de Elmaul - Arma aniquiladora 
-MST_MISSION_NAME_11422001^Road to the Village of the Whyt - Intentions^通往波其卡村的道路・內心^포치카 마을로 가는 길·마음속^Vers le village de Pochad - Intentions^Der Weg zum Dorf der Pochka- Intentionen^Camino a la aldea de Whyt - Intenciones
-MST_MISSION_NAME_11422002^Road to the Village of the Whyt - Comrades^通往波其卡村的道路・夥伴^포치카 마을로 가는 길·동료^Vers le village de Pochad - Camaraderie^Der Weg zum Dorf der Pochka- Kameraden^Camino a la aldea de Whyt - Camaradas
-MST_MISSION_NAME_11422003^Road to the Village of the Whyt - Worries^通往波其卡村的道路・擔憂^포치카 마을로 가는 길·배려^Vers le village de Pochad - Inquiétude^Der Weg zum Dorf der Pochka- Rücksicht^Camino a la aldea de Whyt - Preocupaciones
-MST_MISSION_NAME_11422004^Road to the Village of the Whyt - Presence^通往波其卡村的道路・跡象^포치카 마을로 가는 길·기운^Vers le village de Pochad - Présence^Der Weg zum Dorf der Pochka- Präsenz^Camino a la aldea de Whyt - Presencia
-MST_MISSION_NAME_11422005^Road to the Village of the Whyt - True Form^通往波其卡村的道路・原形^포치카 마을로 가는 길·정체^Vers le village de Pochad - Véritable forme^Der Weg zum Dorf der Pochka- Wahre Gestalt^Camino a la aldea de Whyt - Forma verdadera
+MST_MISSION_NAME_11421903^Elmaul Archives - Pursuers^艾爾瑪烏爾的書庫內・追蹤者們^엘마울의 서고 안·추적자들^Archives d'Elmaul - Poursuivants^Elmaul-Archive - Verfolger^Archivos de Elmaul - Perseguidores
+MST_MISSION_NAME_11421904^Elmaul Archives - Full Speed Escape^艾爾瑪烏爾的書庫內・拼命逃亡^엘마울의 서고 안·전력 도주^Archives d'Elmaul - Fuite à toutes jambes^Elmaul-Archive - Flucht im Höchsttempo^Archivos de Elmaul - Huida a toda velocidad
+MST_MISSION_NAME_11421905^Elmaul Archives - Massacre Weapon^艾爾瑪烏爾的書庫內・殺戮兵器^엘마울의 서고 안·살육 병기^Archives d'Elmaul - Arme de destruction^Elmaul-Archive - Metzelwaffe^Archivos de Elmaul - Arma aniquiladora 
+MST_MISSION_NAME_11422001^Road to the Village of the Whyt - Intentions^通往波其卡村的道路・內心^포치카의 마을로 가는 길·심정^Vers le village de Pochad - Intentions^Der Weg zum Dorf der Pochka- Intentionen^Camino a la aldea de los Whyt - Intenciones
+MST_MISSION_NAME_11422002^Road to the Village of the Whyt - Comrades^通往波其卡村的道路・夥伴^포치카의 마을로 가는 길·동료^Vers le village de Pochad - Camaraderie^Der Weg zum Dorf der Pochka- Kameraden^Camino a la aldea de los Whyt - Camaradas
+MST_MISSION_NAME_11422003^Road to the Village of the Whyt - Worries^通往波其卡村的道路・擔憂^포치카의 마을로 가는 길·걱정^Vers le village de Pochad - Inquiétude^Der Weg zum Dorf der Pochka- Rücksicht^Camino a la aldea de los Whyt - Preocupaciones
+MST_MISSION_NAME_11422004^Road to the Village of the Whyt - Presence^通往波其卡村的道路・跡象^포치카의 마을로 가는 길·기운^Vers le village de Pochad - Présence^Der Weg zum Dorf der Pochka- Präsenz^Camino a la aldea de los Whyt - Presencia
+MST_MISSION_NAME_11422005^Road to the Village of the Whyt - True Form^通往波其卡村的道路・原形^포치카의 마을로 가는 길·정체^Vers le village de Pochad - Véritable forme^Der Weg zum Dorf der Pochka- Wahre Gestalt^Camino a la aldea de los Whyt - Forma verdadera
 MST_MISSION_NAME_11425101^Cave of Rebirth - Forceful Winds^轉生的洞穴・阻擋前進的熱風^윤회의 동굴·타인을 거부하는 열풍^Caverne de la renaissance - Rafales puissantes^Höhle der Wiedergeburt - Hitzige Winde^Cueva del renacimiento - Vientos enérgicos
 MST_MISSION_NAME_11425102^Cave of Rebirth - Magma of Destruction^轉生的洞穴・殞命岩漿^윤회의 동굴·멸망의 마그마^Caverne de la renaissance - Magma destructeur^Höhle der Wiedergeburt - Magma der Zerstörung^Cueva del renacimiento - Magma de la destrucción
 MST_MISSION_NAME_11425103^Cave of Rebirth - Lava River^轉生的洞穴・熔岩之川^윤회의 동굴·용암의 강^Caverne de la renaissance - Rivière de lave^Höhle der Wiedergeburt - Lavafluss^Cueva del renacimiento - Río de lava
@@ -3123,21 +3124,21 @@ MST_MISSION_NAME_6001706^Obtain Phoenix^^^^^
 MST_MISSION_NAME_6001707^Evolve Phoenix^^^^^
 MST_MISSION_NAME_6001801^Ilteah 1^^^^^
 MST_MISSION_NAME_6001901^Barrier Station Core 1^^^^^
-MST_MISSION_NAME_6001902^Village of the Whyt 1^^^^^
+MST_MISSION_NAME_6001902^Village of the Whyt 1^^^^^Aldea de los Whyt 1
 MST_MISSION_NAME_6001903^Energy Extraction Station Center OP^^^^^
 MST_MISSION_NAME_6001904^Capital of Despair Hellstya 1^^^^^
 MST_MISSION_NAME_7560108^Hyoh^^^^^
 MST_MISSION_NAME_7560109^Citra^^^^^
-MST_MISSION_NAME_7860101^Steel Castle Melfikya 1F^^^^^
-MST_MISSION_NAME_7860102^Steel Castle Melfikya 2F^^^^^
-MST_MISSION_NAME_7860103^Steel Castle Melfikya 3F^^^^^
-MST_MISSION_NAME_7860104^Steel Castle Melfikya 4F^^^^^
-MST_MISSION_NAME_7860105^Steel Castle Melfikya 5F^^^^^
-MST_MISSION_NAME_7860106^Steel Castle Melfikya 6F^^^^^
-MST_MISSION_NAME_7860107^Steel Castle Melfikya 7F^^^^^
-MST_MISSION_NAME_7860108^Steel Castle Melfikya 8F^^^^^
-MST_MISSION_NAME_7860109^Steel Castle Melfikya 9F^^^^^
-MST_MISSION_NAME_7860110^Steel Castle Melfikya 10F^^^^^
+MST_MISSION_NAME_7860101^Steel Castle Melfikya 1F^鍛鐵城梅爾費奇亞 1F^철의 성 멜피키아 1F^Melfikya, Château d'acier RdC^Stahlburg Melfikya, 1. St.^Castillo de acero Melfikya P1
+MST_MISSION_NAME_7860102^Steel Castle Melfikya 2F^鍛鐵城梅爾費奇亞 2F^철의 성 멜피키아 2F^Melfikya, Château d'acier 1er éta.^Stahlburg Melfikya, 2. St.^Castillo de acero Melfikya P2
+MST_MISSION_NAME_7860103^Steel Castle Melfikya 3F^鍛鐵城梅爾費奇亞 3F^철의 성 멜피키아 3F^Melfikya, Château d'acier 2e éta.^Stahlburg Melfikya, 3. St.^Castillo de acero Melfikya P3
+MST_MISSION_NAME_7860104^Steel Castle Melfikya 4F^鍛鐵城梅爾費奇亞 4F^철의 성 멜피키아 4F^Melfikya, Château d'acier 3e éta.^Stahlburg Melfikya, 4. St.^Castillo de acero Melfikya P4
+MST_MISSION_NAME_7860105^Steel Castle Melfikya 5F^鍛鐵城梅爾費奇亞 5F^철의 성 멜피키아 5F^Melfikya, Château d'acier 4e éta.^Stahlburg Melfikya, 5. St.^Castillo de acero Melfikya P5
+MST_MISSION_NAME_7860106^Steel Castle Melfikya 6F^鍛鐵城梅爾費奇亞 6F^철의 성 멜피키아 6F^Melfikya, Château d'acier 5e éta.^Stahlburg Melfikya, 6. St.^Castillo de acero Melfikya P6
+MST_MISSION_NAME_7860107^Steel Castle Melfikya 7F^鍛鐵城梅爾費奇亞 7F^철의 성 멜피키아 7F^Melfikya, Château d'acier 6e éta.^Stahlburg Melfikya, 7. St.^Castillo de acero Melfikya P7
+MST_MISSION_NAME_7860108^Steel Castle Melfikya 8F^鍛鐵城梅爾費奇亞 8F^철의 성 멜피키아 8F^Melfikya, Château d'acier 7e éta.^Stahlburg Melfikya, 8. St.^Castillo de acero Melfikya P8
+MST_MISSION_NAME_7860109^Steel Castle Melfikya 9F^鍛鐵城梅爾費奇亞 9F^철의 성 멜피키아 9F^Melfikya, Château d'acier 8e éta.^Stahlburg Melfikya, 9. St.^Castillo de acero Melfikya P9
+MST_MISSION_NAME_7860110^Steel Castle Melfikya 10F^鍛鐵城梅爾費奇亞 10F^철의 성 멜피키아 10F^Melfikya, Château d'acier 9e éta.^Stahlburg Melfikya, 10. St.^Castillo de acero Melfikya P10
 MST_MISSION_NAME_7870101^Once Per Day 2nd Anniversary Raid - Thanks^^^^^
 MST_MISSION_NAME_7870102^Once Per Day 2nd Anniversary Raid - Thank You!^^^^^
 MST_MISSION_NAME_7870103^Once Per Day 2nd Anniversary Raid - Many Thanks!^^^^^

@@ -1042,8 +1042,8 @@ MST_UNIT_EXPLAIN_SUMMON_401003505^Alright, what kind of weapon<br>would you like
 MST_UNIT_EXPLAIN_SUMMON_401003506^I can take on any sort of machine!<br>If it's got gears, leave it to me!^我可是機械專家！<br>用於戰鬥的機械都交給我好了！^기계는 내 전문이야!<br>전투 기계라면 뭐든 맡겨줘!^Je peux terrasser toutes sortes de machines !<br>Tout ce qui a des écrous et des boulons, c'est pour moi ! ^Ich nehme es mit jeder Maschine auf!<br>Wenn es Räder hat, überlass es mir!^¡Me desenvuelvo de fábula con cualquier máquina!<br>¡Si tiene tornillos, yo me encargo!
 MST_UNIT_EXPLAIN_SUMMON_401003605^Basic etiquette, never arrive at a party empty handed.^要參加派對總不能空手去吧。^파티에는 선물을 들고 가야겠지.^Ne jamais arriver à une soirée les mains vides, c'est du savoir-vivre de base.^Grundregel der Etikette: Kreuze nie mit leeren Händen bei einer Party auf.^Es una norma básica: nunca vayas a una fiesta con las manos vacías.
 MST_UNIT_EXPLAIN_SUMMON_401003606^So I'm not alone here. It's a good job I packed my pistols.^看來我並不是一個人。真是慶幸帶了手槍來。^나 말고도 누군가 있는 것 같군.<br>권총을 들고 오길 잘했어.^On dirait que je ne suis pas seule finalement. J'ai bien fait d'apporter mes pistolets.^Ich bin also nicht alleine hier. Nur gut, dass ich meine Pistolen eingepackt habe.^Así que estoy sola... Fue buena idea traerme las pistolas.
-MST_UNIT_EXPLAIN_SUMMON_100015005^I thought everything was over for me, but it seems my journey still continues.^^이제 안 될 거라고 생각했었는데 말야,<br>내 여행은 아직 끝나지 않은 것 같아.^^^
-MST_UNIT_EXPLAIN_SUMMON_100015006^I thought everything was over for me, but it seems my journey still continues.^^이제 안 될 거라고 생각했었는데 말야,<br>내 여행은 아직 끝나지 않은 것 같아.^^^
+MST_UNIT_EXPLAIN_SUMMON_100015005^I thought everything was over for me, but it seems my journey still continues.^本以為已經不行了，<br>不過看來我的旅程還不會就此終結。^이제 안 될 거라고 생각했었는데 말야,<br>내 여행은 아직 끝나지 않은 것 같아.^J'ai cru que tout était fini pour moi, mais il semble que ma vie est loin d'être terminée.^Ich dachte, alles wäre verloren ... Aber meine Reise ist wohl noch nicht zu Ende.^Creía que, para mí, todo se había acabado. Pero parece que mi viaje aún continúa.
+MST_UNIT_EXPLAIN_SUMMON_100015006^I thought everything was over for me, but it seems my journey still continues.^本以為已經不行了，<br>不過看來我的旅程還不會就此終結。^이제 안 될 거라고 생각했었는데 말야,<br>내 여행은 아직 끝나지 않은 것 같아.^J'ai cru que tout était fini pour moi, mais il semble que ma vie est loin d'être terminée.^Ich dachte, alles wäre verloren ... Aber meine Reise ist wohl noch nicht zu Ende.^Creía que, para mí, todo se había acabado. Pero parece que mi viaje aún continúa.
 MST_UNIT_EXPLAIN_SUMMON_100015805^I returned so that I can fight again, bearing everything as I do.^^^^^
 MST_UNIT_EXPLAIN_SUMMON_100015806^I returned so that I can fight again, bearing everything as I do.^^^^^
 MST_UNIT_EXPLAIN_SUMMON_208000105^I don't want to carry anyone else's baggage. If you don't know what you're doing, then talk to the wall.^^^^^
@@ -1061,16 +1061,16 @@ MST_UNIT_EXPLAIN_SUMMON_100016505^You want to borrow my power? So I've become th
 MST_UNIT_EXPLAIN_SUMMON_904000115^Seems I'm finally needed, kupo! I've been waiting so long for this day, kupo!^^^^^
 MST_UNIT_EXPLAIN_SUMMON_213000107^Fighting without hope is not a way to live, it's a way to die. Tell me, where does your hope lie?^沒有希望的戰鬥並不是活法，<br>而是死法。<br>給我看看你的「希望」吧。^희망도 없이 싸우는 건 삶의 방식이 아니야.<br>그저 죽음을 택하는 길이지.<br>너의 '희망'을 보여 줘.^^^
 MST_UNIT_EXPLAIN_SUMMON_253000107^My family name has nothing to do with this. I will fight alongside you of my own will!^^가문의 이름은 상관없어.<br>나는 자신의 의지로 너와 함께 싸울 거야!^^^
-MST_UNIT_EXPLAIN_SUMMON_253000207^I'm not sure how useful I can be. Still, I will fight alongside you if it helps put an end to this war.^^얼마나 도움이 될지는 몰라.<br>하지만, 전쟁을 끝내기 위해서라면<br>나도 함께 싸우겠다.^^^
+MST_UNIT_EXPLAIN_SUMMON_253000207^I'm not sure how useful I can be. Still, I will fight alongside you if it helps put an end to this war.^雖然不知道能夠幫上多少忙。<br>不過，為了結束戰爭，<br>我會與你共同戰鬥。^얼마나 도움이 될지는 몰라.<br>하지만, 전쟁을 끝내기 위해서라면<br>나도 함께 싸우겠다.^^^
 MST_UNIT_EXPLAIN_SUMMON_204000117^I shall never forget the atrocities I have committed. I shall wear this burden along with my armor, and press forth.^^^^^
 MST_UNIT_EXPLAIN_SUMMON_254000107^I'm here!^^^^^
 MST_UNIT_EXPLAIN_SUMMON_203000207^For me to have been called here must mean this world too is in danger of being consumed by darkness...^^^^^
 MST_UNIT_EXPLAIN_SUMMON_254000207^Only us humans can decided how we choose to live our own lives.^^^^^
-MST_UNIT_EXPLAIN_SUMMON_100000317^Are you capable of using me as I am?<br>I'll have a look at what you can do.^^^^^
-MST_UNIT_EXPLAIN_SUMMON_253000807^As weak as I may be, I will help out as long as it puts an end to all this fighting.^^싸움을 끝내기 위해서라면<br>미력하나마 힘을 보내겠다.^^^
+MST_UNIT_EXPLAIN_SUMMON_100000317^I wonder if you can make sufficient use of me. Let's have a look at what you can do.^^^^^
+MST_UNIT_EXPLAIN_SUMMON_253000807^As weak as I may be, I will help out as long as it puts an end to all this fighting.^為了終結戰爭，<br>我願獻上自身這微薄之力，^싸움을 끝내기 위해서라면<br>미력하나마 힘을 보내겠다.^^^
 MST_UNIT_EXPLAIN_SUMMON_100005807^I'll make you stronger, and our enemies weaker! As long as I'm around, you'll only grow more powerful!^^^^^
 MST_UNIT_EXPLAIN_SUMMON_202000507^Absolute control. I shall rule over everything.^^^^^
-MST_UNIT_EXPLAIN_SUMMON_306000107^The Dragonlord joined your party!^^^^^
+MST_UNIT_EXPLAIN_SUMMON_306000107^The Dragonlord joined your party!^龍王 成為了夥伴！^^^^
 MST_UNIT_EXPLAIN_SUMMON_100005907^Your eyes... They remind me of his. I feel like I want to lend you all of my skill.^^^^^
 MST_UNIT_EXPLAIN_SUMMON_254000907^There are still things I can do...and people I want to see...^^^^^
 MST_UNIT_EXPLAIN_SUMMON_210000107^I'm the only ace around here! You can just leave the rest to me!^王牌就是我！<br>全都交給我吧！^에이스는 바로 나야!<br>됐으니까 맡겨 두라고!^^^
@@ -1119,13 +1119,13 @@ MST_UNIT_EXPLAIN_SUMMON_211001006^And what's your name? I am Joachim. Call me wh
 MST_UNIT_EXPLAIN_SUMMON_211000306^I have the perfect job for you.<br>I'm just like that-hat!^^^^^
 MST_UNIT_EXPLAIN_SUMMON_100007507^Differences between races are so trivial. I hope my feelings will help to bring peace.^^^^^
 MST_UNIT_EXPLAIN_SUMMON_211000407^Oh ho, and where is this?! Looks like quite the interesting place! Come on then, tell me your name!^^^^^
-MST_UNIT_EXPLAIN_SUMMON_253000117^I believe I can be of help to you. Let's do our best!^^너희의 힘이 될 수 있을 거야.<br>서로 열심히 하자!^^^
-MST_UNIT_EXPLAIN_SUMMON_253000217^I act on my own intentions, but as long as our goal is the same, I am not your enemy...^^나는 내 의지로 움직인다.<br>하지만 지향하는 방향이 일치하는 한<br>너는 내 적이 아니야……^^^
+MST_UNIT_EXPLAIN_SUMMON_253000117^I believe I can be of help to you. Let's do our best!^我會成為你們的力量，<br>讓我們共同努力吧！^너희의 힘이 될 수 있을 거야.<br>서로 열심히 하자!^^^
+MST_UNIT_EXPLAIN_SUMMON_253000217^I act on my own intentions, but as long as our goal is the same, I am not your enemy...^只要目標還一致，<br>你就不是我的敵人……^나는 내 의지로 움직인다.<br>하지만 지향하는 방향이 일치하는 한<br>너는 내 적이 아니야……^^^
 MST_UNIT_EXPLAIN_SUMMON_207000107^I'm gonna do whatever I can.^只要是我能做得到的事，<br>全都會盡力而為的。^내가 할 수 있는 일이라면<br>뭐든지 할 생각이야.^^^
 MST_UNIT_EXPLAIN_SUMMON_100008007^Enemy or ally, given this temporary body I will follow you wherever you go.^^^^^
 MST_UNIT_EXPLAIN_SUMMON_100009107^Feelings, time, age, so all can be overcome, huh? Please allow me to help you.^^^^^
 MST_UNIT_EXPLAIN_SUMMON_100008207^So you desire power so much you would summon your own foe?!^^^^^
-MST_UNIT_EXPLAIN_SUMMON_215000107^Sorry for the wait. Ready to go?^^기다리게 해서 미안.<br>그럼, 갈까.^^^
+MST_UNIT_EXPLAIN_SUMMON_215000107^Sorry for the wait. Ready to go?^抱歉讓你久等了。<br>那麼，我們走吧。^기다리게 해서 미안.<br>그럼, 갈까.^^^
 MST_UNIT_EXPLAIN_SUMMON_209001107^I, the 100-Knight Slayer, will always emerge victorious.^你是贏不過人稱百人斬的我的。^제 또다른 이름은 백 명을 벤 자.<br>절 이기는 건 불가능할 겁니다.^^^
 MST_UNIT_EXPLAIN_SUMMON_209000707^I'm the last of my family, you know. But you don't need to worry about that! It's not like I'm sad about it or anything!^艾可是召喚士一族最後的倖存者。<br>但是，不用在意！<br>因為艾可完全不寂寞！！^에코는 일족의 마지막 생존자니까.<br>하지만 신경쓸 것 없어!<br>조금도 쓸쓸하지 않거든!^^^
 MST_UNIT_EXPLAIN_SUMMON_100016205^Do not think you can tame me. I fight of my own free will.^^^^^
@@ -1166,15 +1166,15 @@ MST_UNIT_EXPLAIN_SUMMON_205000807^Look, monsters! Hmm...? This isn't the dimensi
 MST_UNIT_EXPLAIN_SUMMON_100008607^Just when I was wondering what my master was up to... All of the sudden I find myself a vision.^^^^^
 MST_UNIT_EXPLAIN_SUMMON_100009807^I will carry out my duty as a mercenary. Creating a bond any stronger than that... Might be possible with you.^^^^^
 MST_UNIT_EXPLAIN_SUMMON_100010407^Going on journey's with other people isn't so bad. I can say that for sure, now.^^^^^
-MST_UNIT_EXPLAIN_SUMMON_215000207^Us Amicitia have but one goal in life. To protect and support the king.^^아미시티아 가문의 사명은 오로지 하나.<br>왕을 지키고 떠받치는 것이다.^^^
+MST_UNIT_EXPLAIN_SUMMON_215000207^Us Amicitia have but one goal in life. To protect and support the king.^艾米提亞家族的使命只有一個，<br>就是守護國王。^아미시티아 가문의 사명은 오로지 하나.<br>왕을 지키고 떠받치는 것이다.^^^
 MST_UNIT_EXPLAIN_SUMMON_100010807^I am a descendant of a legendary dragoon. I have inherited the ability to seal away dragons. I shall aid you in your fight.^^^^^
 MST_UNIT_EXPLAIN_SUMMON_100011707^I have no problem brandishing my blade if it's for the sake of protecting others.^^^^^
 MST_UNIT_EXPLAIN_SUMMON_210000207^Regardless the outcome, you will surely regret it if you let yourself be swayed. That is why I will act according to my own will!^如果隨波逐流，無論迎來什麼樣的結局，也一定會後悔。<br>所以，我要自己來做決定！^이리저리 흔들려 떠밀려 가다가는 <br>어떤 결말을 맞아도 후회할 거야.<br>그러니까 나는 스스로 결정하겠어!^^^
 MST_UNIT_EXPLAIN_SUMMON_210000407^Very well, then. Allow me to perform my last duty to you. My last as your guardian.^我會盡好護衛的職責。^가드 임무는 <br>확실하게 수행하겠어.^^^
 MST_UNIT_EXPLAIN_SUMMON_100012407^So you require my power, I see. That's fine with me, it's all yours.^^^^^
 MST_UNIT_EXPLAIN_SUMMON_100011807^If this power can be of help to someone... If it can help bring a smile to everyone's faces... Then I will fight alongside you.^^^^^
-MST_UNIT_EXPLAIN_SUMMON_215000607^You seem to be troubled. Shall I help you out?^^힘들어 보이네.<br>도와줄까?^^^
-MST_UNIT_EXPLAIN_SUMMON_215000707^The longer this journey goes, the better I'll get at taking pictures, I bet.^^여행을 하다 보면 <br>언젠간 사진을 잘 찍을 수 있게 될까~^^^
+MST_UNIT_EXPLAIN_SUMMON_215000607^You seem to be troubled. Shall I help you out?^看你好像遇到麻煩了。<br>需要幫忙嗎？^힘들어 보이네.<br>도와줄까?^^^
+MST_UNIT_EXPLAIN_SUMMON_215000707^The longer this journey goes, the better I'll get at taking pictures, I bet.^旅行的話，<br>我的攝影技術能夠提高嗎。^여행을 하다 보면 <br>언젠간 사진을 잘 찍을 수 있게 될까~^^^
 MST_UNIT_EXPLAIN_SUMMON_100012607^Since the day the king officially recognized me, I have always been Kunshira of the Natura.^^^^^
 MST_UNIT_EXPLAIN_SUMMON_100016905^So you need my power? Then I swear not to fight for vengeance, but for you.^^^^^
 MST_UNIT_EXPLAIN_SUMMON_100016906^So you need my power? Then I swear not to fight for vengeance, but for you.^^^^^
@@ -1214,8 +1214,8 @@ MST_UNIT_EXPLAIN_SUMMON_207000704^Hey you! What a grim look, you have!^^^^^
 MST_UNIT_EXPLAIN_SUMMON_207000705^Hey you! What a grim look, you have!^^^^^
 MST_UNIT_EXPLAIN_SUMMON_215001107^You've got yourself an agreement. Let us move forth to protect the future.^契約成立了。<br>讓我們一同守護未來吧。^계약 성립이다.<br>'미래'를 지키러 가자고.^^^
 MST_UNIT_EXPLAIN_SUMMON_100011307^So, you require my ninja skills? If so, then see with your own eyes the true value of my techniques.^^^^^
-MST_UNIT_EXPLAIN_SUMMON_212001107^I am a judge magister, though I have now gone astray.^^나는 저지 마스터다.<br>지금은 들개와 다를 게 없지만.^^^
-MST_UNIT_EXPLAIN_SUMMON_212000907^We must struggle against the cruel reality we are faced with. I shall help you in this.^^괴롭고 혹독한 현실에<br>저항하려고 하는군.<br>알았다, 힘을 빌려주겠다.^^^
+MST_UNIT_EXPLAIN_SUMMON_212001107^I am a judge magister, though I have now gone astray.^我是最高審判者。<br>雖然現在如同一條喪家犬。^나는 저지 마스터다.<br>지금은 들개와 다를 게 없지만.^^^
+MST_UNIT_EXPLAIN_SUMMON_212000907^We must struggle against the cruel reality we are faced with. I shall help you in this.^你想要反抗嚴酷的現實？<br>好吧，我就幫幫你吧。^괴롭고 혹독한 현실에<br>저항하려고 하는군.<br>알았다, 힘을 빌려주겠다.^^^
 MST_UNIT_EXPLAIN_SUMMON_100012007^It is said that great men are found of great pleasure. I think that fits me just perfectly. You know what I'm saying, right?^^^^^
 MST_UNIT_EXPLAIN_SUMMON_100013307^I can't hold back just because I'm an emperor. Please treat me as any other comrade of yours.^^^^^
 MST_UNIT_EXPLAIN_SUMMON_204001507^I am Rydia... Was it you who protected me?^^^^^

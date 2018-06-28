@@ -25,6 +25,26 @@
         "qtkvrS60": "telepoicon1.jpg"
     }, 
     {
+        "0HUPxDf1": "908", 
+        "G4L0YIB2": "Premium 10+1 Summon Ticket", 
+        "qtkvrS60": "image/icon/icon_premium_summon_ticket.png"
+    }, 
+    {
+        "0HUPxDf1": "909", 
+        "G4L0YIB2": "5★ Guaranteed 10+1 Summon Ticket", 
+        "qtkvrS60": "image/icon/icon_guaranteed_summon_ticket.png"
+    }, 
+    {
+        "0HUPxDf1": "910", 
+        "G4L0YIB2": "Special Return 3★ Summon Ticket", 
+        "qtkvrS60": "image/icon/icon_special_return_summon_3_ticket.png"
+    }, 
+    {
+        "0HUPxDf1": "911", 
+        "G4L0YIB2": "Special Return 4★ Summon Ticket", 
+        "qtkvrS60": "image/icon/icon_special_return_summon_4_ticket.png"
+    }, 
+    {
         "0HUPxDf1": "1101", 
         "G4L0YIB2": "ミトラの町", 
         "qtkvrS60": "map_icon_1110201.png"
@@ -9685,6 +9705,11 @@
         "qtkvrS60": "item_50312.png"
     }, 
     {
+        "0HUPxDf1": "409019300", 
+        "G4L0YIB2": "2ndアニバーサリーリング", 
+        "qtkvrS60": "item_50318.png"
+    }, 
+    {
         "0HUPxDf1": "504212570", 
         "G4L0YIB2": "Symphonic Flair", 
         "qtkvrS60": "global_materia_1500000006.png"
@@ -11320,6 +11345,11 @@
         "qtkvrS60": "global_equip_10106.png"
     }, 
     {
+        "0HUPxDf1": "1100000167", 
+        "G4L0YIB2": "2nd Anniversary Earrings", 
+        "qtkvrS60": "global_equip_10107.png"
+    }, 
+    {
         "0HUPxDf1": "1106300100", 
         "G4L0YIB2": "MogCake", 
         "qtkvrS60": "global_item_10011.png"
@@ -11793,6 +11823,16 @@
         "0HUPxDf1": "1209000890", 
         "G4L0YIB2": "2nd anniversary Gacha Ticket", 
         "qtkvrS60": "item_9184.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000891", 
+        "G4L0YIB2": "Players Voice Ticket (Part 1)", 
+        "qtkvrS60": "global_item_10188.png"
+    }, 
+    {
+        "0HUPxDf1": "1209000892", 
+        "G4L0YIB2": "Players Voice Ticket (Part 2)", 
+        "qtkvrS60": "global_item_10189.png"
     }, 
     {
         "0HUPxDf1": "1300000001", 

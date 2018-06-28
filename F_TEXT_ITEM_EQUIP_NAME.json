@@ -482,8 +482,8 @@ MST_EQUIP_ITEM_NAME_315021600^Platinum Edge^白金小刀^백금의 부메랑^Lam
 MST_EQUIP_ITEM_NAME_406001900^Platinum Breastplate^白金胸甲^백금의 흉갑^Plastron de platine^Platinumbrustplatte^Peto de platino
 MST_EQUIP_ITEM_NAME_403042100^Sage's Hat^賢者帽^현자의 모자^Chapeau de sage^Weisenhut^Sombrero de sabio
 MST_EQUIP_ITEM_NAME_409011100^Magick Gloves^魔法手套^마법의 장갑^Gants magiques^Magische Handschuhe^Guantes mágicos
-MST_EQUIP_ITEM_NAME_409011200^Producer's Glasses^製作人眼鏡^프로듀서의 안경^Lunette de producteur^Produzentenbrille^Gafas del productor
-MST_EQUIP_ITEM_NAME_405002700^Producer's Jacket^製作人夾克^프로듀서의 자켓^Veste de producteur^Produzentenjacke^Chaqueta del productor
+MST_EQUIP_ITEM_NAME_409011200^K Producer's Glasses^製作人K的眼鏡^K 프로듀서의 안경^Lunettes du producteur K^Produzentenbrille K^Gafas del productor K
+MST_EQUIP_ITEM_NAME_405002700^K Producer's Jacket^製作人K的夾克^K 프로듀서의 자켓^Veste du producteur K^Produzentenjacke K^Chaqueta del productor K
 MST_EQUIP_ITEM_NAME_311002100^Cypress Pile^柏木棒^사이프러스 파일^Bâton de cyprès^Zypressen^Palo de ciprés
 MST_EQUIP_ITEM_NAME_305001700^Demon Axe^惡魔戰斧^악마의 도끼^Hache du démon^Dämonenaxt^Hacha maldita
 MST_EQUIP_ITEM_NAME_308002400^Wyvern Spear^飛龍槍^비룡의 창^Épieu wyvern^Wyvernspeer^Uña de aerodragón
@@ -919,12 +919,12 @@ MST_EQUIP_ITEM_NAME_1100000148^Toxic Shotgun^猛毒散彈槍^포이즌 샷건^Fu
 MST_EQUIP_ITEM_NAME_1100000149^Onyx Spirit of Ra^太陽神之魂^라의 영혼^Onyx de l'esprit de Râ^Onyxgeist des Ra^Ónice del espíritu de Ra
 MST_EQUIP_ITEM_NAME_1100000150^Gold Ring of Set^賽特金戒^세트의 반지^Anneau doré de Seth^Goldring des Seth^Anillo de oro de Seth
 MST_EQUIP_ITEM_NAME_1100000151^Ankh of Goddess^女神十字架^여신의 앙크^Ankh de la déesse^Ankh der Göttin^Ankh de la diosa
-MST_EQUIP_ITEM_NAME_409019300^2nd Anniversary Ring^^^^^
+MST_EQUIP_ITEM_NAME_409019300^2nd Anniversary Ring^2週年紀念戒指^2주년 기념 반지^Anneau du 2e anniversaire^2-Jahres-Jubiläumsring^Anillo de 2.º aniversario
 MST_EQUIP_ITEM_NAME_302005200^Tyrfing^^^^^
 MST_EQUIP_ITEM_NAME_310003500^Gambanteinn^^^^^
 MST_EQUIP_ITEM_NAME_303004000^Lion Heart^^^^^
 MST_EQUIP_ITEM_NAME_315021900^Shooting Star^^^^^
-MST_EQUIP_ITEM_NAME_309002600^Ehrgeiz^^^^^
+MST_EQUIP_ITEM_NAME_309002600^Ehrgeiz^^^^Ehrgeiz^
 MST_EQUIP_ITEM_NAME_409019400^Bling Necklace^^^^^
 MST_EQUIP_ITEM_NAME_404002900^Galbadia Head^^^^^
 MST_EQUIP_ITEM_NAME_302005300^Galbadia Sword^^^^^
@@ -933,12 +933,12 @@ MST_EQUIP_ITEM_NAME_315022000^Valkyrie^^^^^
 MST_EQUIP_ITEM_NAME_409019500^Force Armlet^^^^^
 MST_EQUIP_ITEM_NAME_303004100^Revolver^^^^^
 MST_EQUIP_ITEM_NAME_302005400^Omega Weapon (FFXIII)^歐米茄武器(FFXIII)^오메가 웨폰(FFXIII)^^^
-MST_EQUIP_ITEM_NAME_401002200^Escutcheon (FFT)^^문장 방패(FFT)^^^
+MST_EQUIP_ITEM_NAME_401002200^Escutcheon (FFT)^紋章盾(FFT)^문장 방패(FFT)^^^
 MST_EQUIP_ITEM_NAME_315022100^Black Trump^^^^^
 MST_EQUIP_ITEM_NAME_405004800^Luneth's Clothes^^^^^
 MST_EQUIP_ITEM_NAME_409019600^Lucid Lenses^^^^^
 MST_EQUIP_ITEM_NAME_408003400^Amiculum Nigellus^^^^^
-MST_EQUIP_ITEM_NAME_303004200^Thunder God Cid's Sword^^뇌신 시드의 검^^^
+MST_EQUIP_ITEM_NAME_303004200^Thunder God Cid's Sword^雷神希德的劍^뇌신 시드의 검^^^
 MST_EQUIP_ITEM_NAME_403044800^Scanning Goggles^^^^^
 MST_EQUIP_ITEM_NAME_409019700^Betrothal Ring (FF Type-0)^^^^^
 MST_EQUIP_ITEM_NAME_407003100^Empire Armor^^^^^
@@ -959,7 +959,7 @@ MST_EQUIP_ITEM_NAME_309002800^Sacred Claws^^^^^
 MST_EQUIP_ITEM_NAME_311003500^Sage's Staff^^^^^
 MST_EQUIP_ITEM_NAME_409020100^Dragon Scale^^^^^
 MST_EQUIP_ITEM_NAME_302005700^Hell Sabre^^^^^
-MST_EQUIP_ITEM_NAME_310003600^Dragonlord's Staff^^^^^
+MST_EQUIP_ITEM_NAME_310003600^Dragonlord's Staff^龍王手杖^^^^
 MST_EQUIP_ITEM_NAME_309002900^Golden Claws^^^^^
 MST_EQUIP_ITEM_NAME_306002300^Sledgehammer^^^^^
 MST_EQUIP_ITEM_NAME_401002300^Slime Shield^^^^^
@@ -979,7 +979,7 @@ MST_EQUIP_ITEM_NAME_312002200^Cataract^^^^^
 MST_EQUIP_ITEM_NAME_403044900^Wolf Mask^^^^^
 MST_EQUIP_ITEM_NAME_307002100^Thorned Mace+^^^^^
 MST_EQUIP_ITEM_NAME_309003000^Godhands (FFXI)^^^^^
-MST_EQUIP_ITEM_NAME_402002700^Reverie Shield (FFT)^^리버리 실드(FFT)^^^
+MST_EQUIP_ITEM_NAME_402002700^Reverie Shield (FFT)^空想盾(FFT)^리버리 실드(FFT)^^^
 MST_EQUIP_ITEM_NAME_303004400^Ultima Weapon (FFVII)^究極武器(FFVII)^알테마 웨폰(FFVII)^^^
 MST_EQUIP_ITEM_NAME_407003300^Flameslord's Armor^^^^^
 MST_EQUIP_ITEM_NAME_303004500^Chromesphene^^^^^
@@ -1017,7 +1017,7 @@ MST_EQUIP_ITEM_NAME_304003100^Zantetsuken (FFBE)^^^^^
 MST_EQUIP_ITEM_NAME_408003800^Yuna's Clothes^優娜衣^유우나의 옷^^^Ropa de Yuna
 MST_EQUIP_ITEM_NAME_408003900^Sakura's Robe^^^^^
 MST_EQUIP_ITEM_NAME_409020800^Magic Control Ring^^^^^
-MST_EQUIP_ITEM_NAME_313003700^Executioner (FFXV)^^이그제큐셔너(FFXV)^^^Ejecutor (FFXV)
+MST_EQUIP_ITEM_NAME_313003700^Executioner (FFXV)^處刑者(FFXV)^이그제큐셔너(FFXV)^^^Ejecutor (FFXV)
 MST_EQUIP_ITEM_NAME_301003400^Lightning Dagger^^^^^
 MST_EQUIP_ITEM_NAME_309003200^Platinum Fist^^^^^
 MST_EQUIP_ITEM_NAME_403045200^Earth Hood^^^^^
@@ -1047,7 +1047,7 @@ MST_EQUIP_ITEM_NAME_313004100^Silver Rifle (FFVII)^^^^^
 MST_EQUIP_ITEM_NAME_409021200^Fire Armlet (FFVII)^^^^^
 MST_EQUIP_ITEM_NAME_409021300^Dragon Armlet (FFVII)^^^^^
 MST_EQUIP_ITEM_NAME_409021400^Protect Ring (FFVII)^^^^^
-MST_EQUIP_ITEM_NAME_404003200^Gabranth's Helm^^가브라스의 투구^^^
+MST_EQUIP_ITEM_NAME_404003200^Gabranth's Helm^加布藍斯頭盔^가브라스의 투구^^^
 MST_EQUIP_ITEM_NAME_316004200^AL-Type Magic Cannon^^^^^
 MST_EQUIP_ITEM_NAME_409021500^Emperor's Ring^^^^^
 MST_EQUIP_ITEM_NAME_403045600^Rydia's Hairpin^^^^^
@@ -1132,3 +1132,4 @@ MST_EQUIP_ITEM_NAME_1100000158^The Little General^小將軍^리틀 제너럴^Le 
 MST_EQUIP_ITEM_NAME_1100000166^Soccer Jersey^足球衣^축구 유니폼^Maillot de football^Fußballtrikot^Equipación de fútbol
 MST_EQUIP_ITEM_NAME_1100000159^Protec Grappler G3^Protec Grappler G3^Protec Grappler G3^Protec Grappler G3^Protec Grappler G3^Protec Grappler G3
 MST_EQUIP_ITEM_NAME_1100000160^Rico's Jumpsuit^瑞科的跳傘裝^리코의 점프슈트^Jumpsuit de Rico^Ricos Jumpsuit^Traje aéreo de Rico
+MST_EQUIP_ITEM_NAME_1100000167^2nd Anniversary Earrings^2週年紀念耳環^2주년 기념 귀걸이^Boucles d'oreilles du 2e anniversaire^2-Jahres-Jubiläumsohrringe^Aretes de 2.º aniversario

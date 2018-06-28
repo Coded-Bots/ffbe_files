@@ -591,7 +591,7 @@ MST_MATERIA_NAME_504220650^Wind Resistance +20%^風屬性耐性+20%^바람속성
 MST_MATERIA_NAME_504220660^Great Mage's Chant^大魔道士的詠唱法^대마도사의 영창법^Chant de grand mage^Intonation des Großmagiers^Canto de archimago
 MST_MATERIA_NAME_504220680^Nature Loving Spellblade^熱愛自然的魔法劍士^자연을 사랑하는 마법검사^Magilame fan de la nature^Naturliebender Schwertmagier^Esgrimago naturista
 MST_MATERIA_NAME_504221550^Mood Maker^開心果^분위기 메이커^Esprit de la fête^Stimmungsmacher^Alma de la fiesta
-MST_MATERIA_NAME_504221560^H Armor Arts^重鎧的秘義^중갑의 비의^Secret d'armure L^Schwere Rüstungs-Künste^Secretos de armadura P
+MST_MATERIA_NAME_504221560^H Armor Arts^重鎧的秘義^중갑의 비의^Secret d'armure L^Schwere Rüstungskünste^Secretos de armadura P
 MST_MATERIA_NAME_504221570^Calamity Border^災禍邊緣^재앙의 경계선^Frontière calamiteuse^Unheilsgrenze^Borde calamitoso
 MST_MATERIA_NAME_504221580^Callous Strategist^殘酷的策略家^비정한 책략가^Stratège insensible ^Ruchloser Stratege^Estratega despiadado
 MST_MATERIA_NAME_504221590^Imperial Talent^賢帝的修養^현제의 소양^Talent impérial^Kaiserliche Kenntnisse^Talento de emperador
@@ -654,9 +654,9 @@ MST_MATERIA_NAME_1500000047^Demon Banisher^惡魔驅趕者^악마 퇴치자^Bann
 MST_MATERIA_NAME_1500000048^Naga's Protection^納迦守護者^나가의 수호^Protection naga^Nagaschutz^Protección de Naga
 MST_MATERIA_NAME_1500000049^Intense Determination^強烈的決心^강렬한 투지^Détermination intense^Heftige Entschlossenheit^Determinación absoluta
 MST_MATERIA_NAME_1500000050^Motherly Love^母愛^모성애^Amour maternel^Mutterliebe^Amor maternal
-MST_MATERIA_NAME_504226406^^^방황의 기사^^^
+MST_MATERIA_NAME_504226406^Vagrant Knight^彷徨騎士^방황의 기사^Chevalier vagabond^Wandernder Ritter^Rain caballero mendicante
 MST_MATERIA_NAME_504226422^^^^^^
-MST_MATERIA_NAME_504226880^The Subservient^^이용당한 자^^^
+MST_MATERIA_NAME_504226880^The Subservient^被利用者^이용당한 자^^^
 MST_MATERIA_NAME_504226881^^^^^^
 MST_MATERIA_NAME_504226882^^^^^^
 MST_MATERIA_NAME_504226883^Praying Child's Dream^祈禱者的夢^기도자의 꿈^^^
@@ -682,10 +682,10 @@ MST_MATERIA_NAME_504222190^^^^^^
 MST_MATERIA_NAME_504100770^^^^^^
 MST_MATERIA_NAME_504227209^^^^^^
 MST_MATERIA_NAME_504227270^^^^^^
-MST_MATERIA_NAME_504227271^Dark Aspirations^^검은 야망^^^
-MST_MATERIA_NAME_504227272^Trials of the Hexatheon^^여섯 신의 계시^^^
+MST_MATERIA_NAME_504227271^Dark Aspirations^黑色野心^검은 야망^^^
+MST_MATERIA_NAME_504227272^Trials of the Hexatheon^六神之啟示^여섯 신의 계시^^^
 MST_MATERIA_NAME_504227273^Loyal General^忠義女將軍^충의의 여장군^^^
-MST_MATERIA_NAME_504227274^Soul of the Summoner^^소환의 진수^^^
+MST_MATERIA_NAME_504227274^Soul of the Summoner^召喚之真髓^소환의 진수^^^
 MST_MATERIA_NAME_504226639^^^^^^
 MST_MATERIA_NAME_504226653^^^^^^
 MST_MATERIA_NAME_504227318^^^^^^
@@ -698,12 +698,12 @@ MST_MATERIA_NAME_504227414^^^^^^
 MST_MATERIA_NAME_504227428^^^^^^
 MST_MATERIA_NAME_504227448^^^^^^
 MST_MATERIA_NAME_504227459^^^^^^
-MST_MATERIA_NAME_504227506^Zodiac Barret^^조디악 불릿^^^
+MST_MATERIA_NAME_504227506^Zodiac Barret^黃道彈^조디악 불릿^^^
 MST_MATERIA_NAME_504227527^^^^^^
-MST_MATERIA_NAME_504227555^Shield of the Chosen King^^선택받은 왕의 방패^^^
-MST_MATERIA_NAME_504227586^Booster Cactuar^^사보텐 부스트^^^
+MST_MATERIA_NAME_504227555^Shield of the Chosen King^被選中的王之盾^선택받은 왕의 방패^^^
+MST_MATERIA_NAME_504227586^Booster Cactuar^增壓‧仙人掌^사보텐 부스트^^^
 MST_MATERIA_NAME_504227605^^^^^^
-MST_MATERIA_NAME_504227625^Sky Lancer^^스카이랜서^^^
+MST_MATERIA_NAME_504227625^Sky Lancer^空中長槍^스카이랜서^^^
 MST_MATERIA_NAME_504227640^^^^^^
 MST_MATERIA_NAME_504227641^^^^^^
 MST_MATERIA_NAME_504227701^^^^^^
@@ -716,8 +716,8 @@ MST_MATERIA_NAME_504227847^^^^^^
 MST_MATERIA_NAME_504227865^^^^^^
 MST_MATERIA_NAME_504227902^^^^^^
 MST_MATERIA_NAME_504227903^^^^^^
-MST_MATERIA_NAME_504227930^Absolute Devotion^^절대적인 충의^^^
-MST_MATERIA_NAME_504227931^Twisted Hero^^일그러진 영웅^^^
+MST_MATERIA_NAME_504227930^Absolute Devotion^絕對忠義^절대적인 충의^^^
+MST_MATERIA_NAME_504227931^Twisted Hero^扭曲的英雄^일그러진 영웅^^^
 MST_MATERIA_NAME_504227926^^^^^^
 MST_MATERIA_NAME_504228151^^^^^^
 MST_MATERIA_NAME_504228152^^^^^^
@@ -725,8 +725,8 @@ MST_MATERIA_NAME_504228161^^^^^^
 MST_MATERIA_NAME_504228200^^^^^^
 MST_MATERIA_NAME_504228201^^^^^^
 MST_MATERIA_NAME_504228202^^^^^^
-MST_MATERIA_NAME_504228203^^^^^^
-MST_MATERIA_NAME_504228204^^^^^^
+MST_MATERIA_NAME_504228203^Iron Body^^^^^
+MST_MATERIA_NAME_504228204^Restraint^^^^^
 MST_MATERIA_NAME_504228234^^^^^^
 MST_MATERIA_NAME_504228254^^^^^^
 MST_MATERIA_NAME_504228277^^^^^^
@@ -757,3 +757,4 @@ MST_MATERIA_NAME_1500000059^Striker's Roundhouse^前鋒的迴旋^스트라이커
 MST_MATERIA_NAME_1500000045^Gun Upgrade^槍械升級^건 업그레이드^Amélioration d'arme^Knarrenupgrade^Mejora de arma
 MST_MATERIA_NAME_1500000052^Frigo and Etcetera^弗瑞格一夥^프리고와 친구들^Frego et Compagnie^Frigo und Etcetera^Frigo y etcétera
 MST_MATERIA_NAME_1500000051^Distraction^娛樂^집중 방해^Distraction^Ablenkung^Distracción
+MST_MATERIA_NAME_1500000060^Divine Blessing^神聖祝福^신의 은총^Bénédiction divine^Göttlicher Segen^Bendición divina

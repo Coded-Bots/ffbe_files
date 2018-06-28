@@ -3708,100 +3708,100 @@ MST_MONSTER_SKILL_NAME_900150^Serpent Glare^險狡閃光^노려보는 눈빛^Sci
 MST_MONSTER_SKILL_NAME_900151^Embers^餘火^불씨^Braise^Glut^Ascuas
 MST_MONSTER_SKILL_NAME_900152^Rest^小憩^휴식^Repos^Ruhen^Descanso
 MST_MONSTER_SKILL_NAME_900153^Thanks for 30M Downloads!^感謝 3000萬下載！^3천만 다운로드 감사합니다!^Merci pour les 30 millions de téléchargements !^Danke für 30 Millionen Downloads!^¡Gracias por las 30 millones de descargas!
-MST_MONSTER_SKILL_NAME_183060^^^^^^
-MST_MONSTER_SKILL_NAME_183070^^^^^^
-MST_MONSTER_SKILL_NAME_183080^^^^^^
-MST_MONSTER_SKILL_NAME_183090^^^^^^
-MST_MONSTER_SKILL_NAME_183100^^^^^^
-MST_MONSTER_SKILL_NAME_183110^^^^^^
-MST_MONSTER_SKILL_NAME_183120^^^^^^
-MST_MONSTER_SKILL_NAME_183130^^^^^^
-MST_MONSTER_SKILL_NAME_183140^^^방화광^^^
-MST_MONSTER_SKILL_NAME_183150^^^^^^
-MST_MONSTER_SKILL_NAME_183160^^^^^^
-MST_MONSTER_SKILL_NAME_183170^^^^^^
-MST_MONSTER_SKILL_NAME_183180^^^^^^
-MST_MONSTER_SKILL_NAME_183190^^^니킥^^^
-MST_MONSTER_SKILL_NAME_183200^^^^^^
-MST_MONSTER_SKILL_NAME_183210^^^^^^
-MST_MONSTER_SKILL_NAME_183220^^^^^^
-MST_MONSTER_SKILL_NAME_183230^^^후려치기^^^
-MST_MONSTER_SKILL_NAME_183240^^^블로우^^^
-MST_MONSTER_SKILL_NAME_183250^^^^^^
-MST_MONSTER_SKILL_NAME_183260^^^^^^
-MST_MONSTER_SKILL_NAME_183270^^^^^^
-MST_MONSTER_SKILL_NAME_183280^^^^^^
-MST_MONSTER_SKILL_NAME_183290^^^^^^
-MST_MONSTER_SKILL_NAME_183300^^^암흑 꽃가루^^^
-MST_MONSTER_SKILL_NAME_183310^^^착란 꽃가루^^^
-MST_MONSTER_SKILL_NAME_183320^^^맹독 꽃가루^^^
-MST_MONSTER_SKILL_NAME_183330^^^^^^
-MST_MONSTER_SKILL_NAME_183340^^摔擊^^^^
-MST_MONSTER_SKILL_NAME_183350^^^^^^
-MST_MONSTER_SKILL_NAME_183360^^^^^^
-MST_MONSTER_SKILL_NAME_183370^^^^^^
-MST_MONSTER_SKILL_NAME_183380^^^^^^
-MST_MONSTER_SKILL_NAME_183390^^^^^^
-MST_MONSTER_SKILL_NAME_183400^^^^^^
-MST_MONSTER_SKILL_NAME_183410^^^^^^
-MST_MONSTER_SKILL_NAME_183420^^^^^^
-MST_MONSTER_SKILL_NAME_183430^^^^^^
-MST_MONSTER_SKILL_NAME_183440^^^^^^
-MST_MONSTER_SKILL_NAME_183450^^^^^^
-MST_MONSTER_SKILL_NAME_183460^^^^^^
-MST_MONSTER_SKILL_NAME_183470^^^석화 가스^^^
-MST_MONSTER_SKILL_NAME_183480^^^^^^
-MST_MONSTER_SKILL_NAME_183490^^^^^^
-MST_MONSTER_SKILL_NAME_183500^^^^^^
-MST_MONSTER_SKILL_NAME_183510^^^^^^
-MST_MONSTER_SKILL_NAME_183520^^^컨퓨가^^^
-MST_MONSTER_SKILL_NAME_183530^^^^^^
-MST_MONSTER_SKILL_NAME_183540^^^^^^
-MST_MONSTER_SKILL_NAME_183550^^^드레인 베기^^^
-MST_MONSTER_SKILL_NAME_183560^^^아스필 베기^^^
-MST_MONSTER_SKILL_NAME_183570^^^^^^
-MST_MONSTER_SKILL_NAME_183580^^^^^^
-MST_MONSTER_SKILL_NAME_183590^^^트리플 브레이크^^^
-MST_MONSTER_SKILL_NAME_183600^^^심판의 대낫^^^
-MST_MONSTER_SKILL_NAME_183610^^^구원의 대낫^^^
-MST_MONSTER_SKILL_NAME_183620^^^^^^
-MST_MONSTER_SKILL_NAME_183630^^^^^^
-MST_MONSTER_SKILL_NAME_183640^^^암흑 검^^^
-MST_MONSTER_SKILL_NAME_183650^^^^^^
-MST_MONSTER_SKILL_NAME_183660^^^^^^
-MST_MONSTER_SKILL_NAME_183670^^^^^^
-MST_MONSTER_SKILL_NAME_183680^^^^^^
-MST_MONSTER_SKILL_NAME_183690^^^^^^
-MST_MONSTER_SKILL_NAME_183700^^^^^^
-MST_MONSTER_SKILL_NAME_183710^^^^^^
-MST_MONSTER_SKILL_NAME_183720^^^^^^
-MST_MONSTER_SKILL_NAME_183730^^^^^^
-MST_MONSTER_SKILL_NAME_183740^^^^^^
-MST_MONSTER_SKILL_NAME_183750^^^^^^
-MST_MONSTER_SKILL_NAME_183760^^^^^^
-MST_MONSTER_SKILL_NAME_183770^^^^^^
-MST_MONSTER_SKILL_NAME_183780^^^^^^
-MST_MONSTER_SKILL_NAME_183790^^^^^^
-MST_MONSTER_SKILL_NAME_183800^^^^^^
-MST_MONSTER_SKILL_NAME_183810^^^^^^
-MST_MONSTER_SKILL_NAME_183820^^^^^^
-MST_MONSTER_SKILL_NAME_183830^^^^^^
-MST_MONSTER_SKILL_NAME_183840^^^^^^
-MST_MONSTER_SKILL_NAME_183850^^摔擊^^^^
-MST_MONSTER_SKILL_NAME_183860^^^^^^
-MST_MONSTER_SKILL_NAME_183870^^^^^^
-MST_MONSTER_SKILL_NAME_183880^^^^^^
-MST_MONSTER_SKILL_NAME_183890^^^^^^
-MST_MONSTER_SKILL_NAME_183900^^^^^^
-MST_MONSTER_SKILL_NAME_183910^^^^^^
-MST_MONSTER_SKILL_NAME_183920^^^심판의 대낫^^^
-MST_MONSTER_SKILL_NAME_183930^^^^^^
-MST_MONSTER_SKILL_NAME_183940^^^^^^
-MST_MONSTER_SKILL_NAME_183950^^^^^^
-MST_MONSTER_SKILL_NAME_183960^^^^^^
-MST_MONSTER_SKILL_NAME_183970^^^^^^
-MST_MONSTER_SKILL_NAME_183980^^^^^^
-MST_MONSTER_SKILL_NAME_183990^^大暗黑^^^^
+MST_MONSTER_SKILL_NAME_183060^Firaga^大火焰^파이가^Feu X^Feuga^Piro++
+MST_MONSTER_SKILL_NAME_183070^Flare^核爆^플레어^Brasier^Flamme^Fulgor
+MST_MONSTER_SKILL_NAME_183080^Stonga^大落石^스톤가^Terre X^Terraga^Piedra++
+MST_MONSTER_SKILL_NAME_183090^Protect^物防護^프로테스^Bouclier^Protes^Coraza
+MST_MONSTER_SKILL_NAME_183100^Shell^魔防護^셸^Barrière^Vallum^Escudo
+MST_MONSTER_SKILL_NAME_183110^Shock Wave^衝擊波^충격파^Onde offensive^Schockwelle^Onda expansiva
+MST_MONSTER_SKILL_NAME_183120^Firaja^強火焰^파이자^Feu max^Feuka^Piro+++
+MST_MONSTER_SKILL_NAME_183130^Life Drain^吸取生命^에너지 드레인^Drain de vie^Lebensaugen^Drenavida
+MST_MONSTER_SKILL_NAME_183140^Pyromania^火焰領主^방화광^Inferno^Brandstifter^Señor de las llamas
+MST_MONSTER_SKILL_NAME_183150^Fira^中火焰^파이라^Feu +^Feura^Piro+
+MST_MONSTER_SKILL_NAME_183160^Watera^中流水^워터라^Eau +^Aquara^Aqua+
+MST_MONSTER_SKILL_NAME_183170^Aerora^中勁風^에어로라^Vent +^Aerora^Aero+
+MST_MONSTER_SKILL_NAME_183180^Stonra^中落石^스톤라^Terre +^Terrara^Piedra+
+MST_MONSTER_SKILL_NAME_183190^Flying Knee^膝擊^니킥^Coup de genou^Knieflug^Rodilla voladora
+MST_MONSTER_SKILL_NAME_183200^Boulders^岩石^암석^Boulets^Felsen^Rocas
+MST_MONSTER_SKILL_NAME_183210^Predation^捕食^포식^Prédation^Auffressen^Canibalismo
+MST_MONSTER_SKILL_NAME_183220^Shock Wave^衝擊波^충격파^Onde offensive^Schockwelle^Onda expansiva
+MST_MONSTER_SKILL_NAME_183230^Sword^下揮^후려치기^Épée^Schwert^Espadazo
+MST_MONSTER_SKILL_NAME_183240^Blow^打擊^블로우^Horion^Stoß^Golpe
+MST_MONSTER_SKILL_NAME_183250^Shadowflare^影核爆^섀도 플레어^Brasier d'ombre^Schattenfackel^Fulgor espectral
+MST_MONSTER_SKILL_NAME_183260^Fire^炎^불꽃^Flammes^Feuer^Piro
+MST_MONSTER_SKILL_NAME_183270^Bone^擲骨^뼈^Os^Knochen^Hueso
+MST_MONSTER_SKILL_NAME_183280^Prismatic Spore^七色花粉^오색 꽃가루^Spore prismatique^Prismatische Spore^Espora prismática
+MST_MONSTER_SKILL_NAME_183290^Leech^吸收^흡수^Sangsue^Blutsauger^Sanguijuela
+MST_MONSTER_SKILL_NAME_183300^Darkness Powder^失明花粉^암흑 꽃가루^Poudre des ténèbres^Dunkelpulver^Polvo oscuro
+MST_MONSTER_SKILL_NAME_183310^Silver Powder^混亂花粉^착란 꽃가루^Poudre d'argent^Silberpulver^Polvo plateado
+MST_MONSTER_SKILL_NAME_183320^Poison Powder^猛毒花粉^맹독 꽃가루^Poudre de poison^Giftpulver^Polvo venenoso
+MST_MONSTER_SKILL_NAME_183330^Nutrient Absorption^養分吸收^양분흡수^Nutrition^Nährstoffabsorption^Absorber nutrientes
+MST_MONSTER_SKILL_NAME_183340^Strike^摔擊^내려치기^Tabassée^Schlag^Bofetada
+MST_MONSTER_SKILL_NAME_183350^Entwine^纏擊^휘감기^Lier^Umschlingen^Enredar
+MST_MONSTER_SKILL_NAME_183360^Swing Around^回掃^휘두르기^Passe d'armes^Rundumschlag^Ataque de gancho
+MST_MONSTER_SKILL_NAME_183370^Bioga^劇毒化^바이오가^Toxine X^Bioga^Bio++
+MST_MONSTER_SKILL_NAME_183380^Confuse^混亂^컨퓨^Démence^Verwirren^Confu
+MST_MONSTER_SKILL_NAME_183390^Stonga^大落石^스톤가^Terre X^Terraga^Piedra++
+MST_MONSTER_SKILL_NAME_183400^Thundaga^大雷電^선더가^Foudre X^Blitzga^Electro++
+MST_MONSTER_SKILL_NAME_183410^Charge^突進^돌진^Charge^Vormarsch^Embestida
+MST_MONSTER_SKILL_NAME_183420^Death^致死一擊^데스^Mort^Exitus^Muerte
+MST_MONSTER_SKILL_NAME_183430^Charge^突進^돌진^Charge^Vormarsch^Embestida
+MST_MONSTER_SKILL_NAME_183440^Poison Breath^劇毒吐息^맹독 숨결^Souffle toxique^Giftatem^Aliento tóxico
+MST_MONSTER_SKILL_NAME_183450^Para-breath^麻痺吐息^마비숨결^Haleine paralysante^Lähmender Atem^Paraaliento
+MST_MONSTER_SKILL_NAME_183460^Fire Breath^火焰吐息^불꽃의 숨결^Souffle de feu^Feueratem^Aliento de fuego
+MST_MONSTER_SKILL_NAME_183470^Stone Gas^石化瓦斯^석화 가스^Gaz pétrifiant^Steingas^Gas petrificante
+MST_MONSTER_SKILL_NAME_183480^Bite^撲咬^물고 늘어지기^Morsure^Biss^Mordisco
+MST_MONSTER_SKILL_NAME_183490^Rebirth^再生^재생^Restauration^Wiedergeburt^Regeneración
+MST_MONSTER_SKILL_NAME_183500^Power Break^潰力^파워 브레이크^Émousse^Kraftbrecher^Rompebrazo
+MST_MONSTER_SKILL_NAME_183510^Magic Break^潰魔^매직 브레이크^Brise-magie^Magiebrecher^Rompemagia
+MST_MONSTER_SKILL_NAME_183520^Confusega^大混亂^컨퓨가^Confusion X^Verwirrenga^Confu++
+MST_MONSTER_SKILL_NAME_183530^Berserk Mode^狂暴^광폭화^Berserk^Berserker-Modus^Modo enloquecido
+MST_MONSTER_SKILL_NAME_183540^Reaper^掃蕩^베어 넘기기^Faucheur^Sensenmann^Segador
+MST_MONSTER_SKILL_NAME_183550^Drain Swipe^吸血斬^드레인 베기^Assaut vampirisant^Subvita-Schlag^Barrido drenador
+MST_MONSTER_SKILL_NAME_183560^Osmose Swipe^攝魔斬^아스필 베기^Assaut dévoreur^Osmoseschlag^Barrido óseo
+MST_MONSTER_SKILL_NAME_183570^Tornado^龍捲風^토네이도^Tornade^Tornado^Tornado
+MST_MONSTER_SKILL_NAME_183580^Flare^核爆^플레어^Brasier^Flamme^Fulgor
+MST_MONSTER_SKILL_NAME_183590^Enervate^三重破壞^트리플 브레이크^Affaiblissement^Entkräften^Enervación
+MST_MONSTER_SKILL_NAME_183600^Judgment Scythe^裁決之鐮^심판의 대낫^Faux du jugement^Sichel des Urteils^Guadaña del juicio
+MST_MONSTER_SKILL_NAME_183610^Salvation Scythe^救贖之鐮^구원의 대낫^Faux du salut^Sichel der Errettung^Guadaña de la salvación
+MST_MONSTER_SKILL_NAME_183620^Wind Slash^鎌鼬^칼날 돌풍^Bourrasque^Windsichel^Ventolera
+MST_MONSTER_SKILL_NAME_183630^Shadow Wall^暗影墙^그림자 장벽^Mur d'ombre^Schattenwand^Muro de sombras
+MST_MONSTER_SKILL_NAME_183640^Darksteel Sword^黑暗劍^암흑 검^Épée en sombracier^Dunkelstahlschwert^Espada de acero oscuro
+MST_MONSTER_SKILL_NAME_183650^Razor Gale^真空破^진공파^Serpes de vent^Schneidender Wind^Ola de vacío
+MST_MONSTER_SKILL_NAME_183660^Dive^急速下降^급강하^Plongeon en piquet^Sturzflug^Caída en picado
+MST_MONSTER_SKILL_NAME_183670^Great Whirlwind^大旋風^태풍^Grand tourbillon^Sturmböe^Gran torbellino
+MST_MONSTER_SKILL_NAME_183680^Stone Gaze^石化凝視^석화 노려보기^Regard pétrifiant^Medusenblick^Mirada petrificante
+MST_MONSTER_SKILL_NAME_183690^Bash^吹飛^날려버리기^Éjection^Umhauen^Topetada
+MST_MONSTER_SKILL_NAME_183700^Aeroga^大勁風^에어로가^Vent X^Aeroga^Aero++
+MST_MONSTER_SKILL_NAME_183710^Maelstrom^大漩渦^마엘스트롬^Maelström^Mahlstrom^Vórtice
+MST_MONSTER_SKILL_NAME_183720^Acid^溶解液^용해액^Acide^Säure^Ácido
+MST_MONSTER_SKILL_NAME_183730^Swallow^吞下^삼키기^Avaler^Verschlingen^Tragar
+MST_MONSTER_SKILL_NAME_183740^Predation^捕食^포식^Prédation^Auffressen^Canibalismo
+MST_MONSTER_SKILL_NAME_183750^Liquid Tentacle^液體觸手^액상 촉수^Tentacule liquide^Flüssiger Tentakel^Tentáculo líquido
+MST_MONSTER_SKILL_NAME_183760^Leech^吸收^흡수^Sangsue^Blutsauger^Sanguijuela
+MST_MONSTER_SKILL_NAME_183770^Frost Blast^冰焰^블레이즈^Souffle de givre^Feuersbrunst^Descarga helada
+MST_MONSTER_SKILL_NAME_183780^Pincers^反擊之角^뿔로 되받아치기^Pinces^Scheren^Pinzas
+MST_MONSTER_SKILL_NAME_183790^Blizzaga^大暴雪^블리자가^Glace X^Eisga^Hielo++
+MST_MONSTER_SKILL_NAME_183800^Aeroga^大勁風^에어로가^Vent X^Aeroga^Aero++
+MST_MONSTER_SKILL_NAME_183810^Charge^突進^돌진^Charge^Rammen^Embestida
+MST_MONSTER_SKILL_NAME_183820^Head Butt^頭槌^박치기^Coup de tête^Kopfstoß^Cabezazo
+MST_MONSTER_SKILL_NAME_183830^Magnitude 8^8級地震^매그니튜드 8^Magnitude 8^Magnitude 8^Magnitud 8
+MST_MONSTER_SKILL_NAME_183840^Tail^尾巴^꼬리^Queue^Schwanzhieb^Cola
+MST_MONSTER_SKILL_NAME_183850^Strike^摔擊^내려치기^Tabassée^Hieb^Bofetada
+MST_MONSTER_SKILL_NAME_183860^Roar^咆哮^포효^Rugissement^Gebrüll^Rugido
+MST_MONSTER_SKILL_NAME_183870^Break^石化劍^브레이크^Brisure^Brechen^Romper
+MST_MONSTER_SKILL_NAME_183880^Stonga^大落石^스톤가^Terre X^Terraga^Piedra++
+MST_MONSTER_SKILL_NAME_183890^Reflect^反射^리플렉트^Miroir^Reflekt^Reflejo
+MST_MONSTER_SKILL_NAME_183900^Quake^地槌^퀘이크^Séisme^Beben^Seísmo
+MST_MONSTER_SKILL_NAME_183910^Sandstorm^沙塵風暴^샌드스톰^Tempête de sable^Sandsturm^Tormenta de arena
+MST_MONSTER_SKILL_NAME_183920^Judgment Scythe^裁決之鐮^심판의 대낫^Faux du jugement^Sichel des Urteils^Guadaña del juicio
+MST_MONSTER_SKILL_NAME_183930^Tornado^龍捲風^토네이도^Tornade^Tornado^Tornado
+MST_MONSTER_SKILL_NAME_183940^Meltdown^熔毀^멜트다운^Fusion^Kernschmelze^Fusión
+MST_MONSTER_SKILL_NAME_183950^Graviga^強重力^그라비가^Gravité X^Graviga^Gravedad++
+MST_MONSTER_SKILL_NAME_183960^Bioga^劇毒化^바이오가^Toxine X^Bioga^Bio++
+MST_MONSTER_SKILL_NAME_183970^Life Drain^吸取生命^에너지 드레인^Drain de vie^Lebensaugen^Drenavida
+MST_MONSTER_SKILL_NAME_183980^Darkstar^黑暗之星^다크스타^Sombrétoile^Dunkler Stern^Noche cerrada
+MST_MONSTER_SKILL_NAME_183990^Darkga^大暗黑^다크가^Ténèbres X^Nega^Sombra++
 MST_MONSTER_SKILL_NAME_184000^^^^^^
 MST_MONSTER_SKILL_NAME_184010^^^^^^
 MST_MONSTER_SKILL_NAME_184020^^^^^^
