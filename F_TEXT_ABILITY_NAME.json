@@ -4362,9 +4362,9 @@ MST_ABILITY_NAME_225410^Air Raid^垂直空中襲擊^바티칼 에어레이드^Ra
 MST_ABILITY_NAME_225420^Abyssal Gate^迷失者閃避^스트레이어 보이드^Vide de la perdition^Einschießen^Vacío de la perdición
 MST_ABILITY_NAME_225430^Convert Damage^平衡狀態^밸런스 컨디션^Condition équilibrée^Ausgewogener Zustand^Condición equilibrada
 MST_ABILITY_NAME_225440^Condition Cure^治癒狀態^큐어 컨디션^Soigner affection^Zustand heilen^Curar afección
-MST_ABILITY_NAME_225450^Athletic^運動萬能^스포츠 만능^Utilité sportive^Sportlich^Hecho para el deporte
-MST_ABILITY_NAME_225460^Stubborn One^老頑固^고집쟁이^Obstiné^Dickkopf^Obstinado
-MST_ABILITY_NAME_225470^Self Taught Swordsmanship^自創劍技^아류 검기^Autodidacte^Selbst erlernte Schwertkunst^Autodidacta
+MST_ABILITY_NAME_225450^Star Athlete^運動萬能^스포츠 만능^Utilité sportive^Sportlich^Hecho para el deporte
+MST_ABILITY_NAME_225460^Stubborn to a Fault^老頑固^고집쟁이^Obstiné^Dickkopf^Obstinado
+MST_ABILITY_NAME_225470^Self-Taught Swordsmanship^自創劍技^아류 검기^Autodidacte^Selbst erlernte Schwertkunst^Autodidacta
 MST_ABILITY_NAME_225480^Hasten Speech^快言快語^속사포^Langue rapide^Schnellsprecher^Lengua rauda
 MST_ABILITY_NAME_225490^Faerie Light^精靈之光^페어리 라이트^Lumière de fée^Feenlicht^Luz de hada
 MST_ABILITY_NAME_225500^Faerie Healing^精靈治癒^페어리 힐^Soin de fée^Feenheilung^Cura de hada
@@ -4377,18 +4377,18 @@ MST_ABILITY_NAME_225560^Reflection^倒影^리플렉션^Réfléchir^Reflexion^Ref
 MST_ABILITY_NAME_225570^Laser Beams^光束^레이즈 데드^Orbes laser^Strahl^Orbes láser
 MST_ABILITY_NAME_225580^Star Flare^星耀^스타 플레어^Brasier d'étoile^Sternflackern^Fulgor estelar
 MST_ABILITY_NAME_225590^Martial Arts Knowledge^體術的心得^체술의 소양^Intuition martiale^Kampfkunsteinsichten^Intuición marcial
-MST_ABILITY_NAME_225600^Nede Descendant^涅德的後裔^네데의 후예^Descendant de Nédé^Nedes Nachkomme^Descendiente de Nede
+MST_ABILITY_NAME_225600^Descendant of Nede^涅德的後裔^네데의 후예^Descendant de Nédé^Nedes Nachkomme^Descendiente de Nede
 MST_ABILITY_NAME_225610^Healing Light^治癒之光^치유의 빛^Lumière rafraîchissante^Heilendes Licht^Luz refrescante
 MST_ABILITY_NAME_225620^Chaotic Blossoms^亂櫻^벚꽃난무^Fleurs du chaos^Chaosblüten^Flores del caos
-MST_ABILITY_NAME_225630^Red Rain^紅陣雨^지나가는 비^Hurlement pourpre^Purpurschauer^Grito carmesí
+MST_ABILITY_NAME_225630^Crimson Squall^紅陣雨^지나가는 비^Hurlement pourpre^Purpurschauer^Grito carmesí
 MST_ABILITY_NAME_225640^Crescent Wings^弦月^반달^Ailes en croissant^Flügel des Zorns^Alas de media luna
-MST_ABILITY_NAME_225650^Moon Requiem^月詠^월영^Poème lunaire^Mondgedicht^Poema a la luna
+MST_ABILITY_NAME_225650^Lunar Divination^月詠^월영^Poème lunaire^Mondgedicht^Poema a la luna
 MST_ABILITY_NAME_225660^Hunter's Moon^滿月^보름달^Lune du chasseur^Jägerglück^Luna del cazador
 MST_ABILITY_NAME_225670^Rush Mode^衝鋒模式^러쉬 모드^Mode Vitesse^Zorn-Modus^Modo Ráfaga
 MST_ABILITY_NAME_225680^Blindside^視線之外^사이트 아웃^Attaque-éclair^Blindside^Ángulo muerto
-MST_ABILITY_NAME_225690^Excellent Adjutant^優秀的副官^우수한 부관^Assistance supérieure^Vorzüglicher Adjutant^Asistente de primera
-MST_ABILITY_NAME_225700^One Shot One Kill^一射絕命^일사천명^Tir pour tuer^Schießen und Töten^Tirar a matar
-MST_ABILITY_NAME_225710^Muah Descendant^慕亞的後裔^무어의 후예^Descendant de Muah^Muah-Nachkomme^Muano
+MST_ABILITY_NAME_225690^Sound Judgment^優秀的副官^우수한 부관^Assistance supérieure^Vorzüglicher Adjutant^Asistente de primera
+MST_ABILITY_NAME_225700^Single-Shot^一射絕命^일사천명^Tir pour tuer^Schießen und Töten^Tirar a matar
+MST_ABILITY_NAME_225710^Descendant of Muah^慕亞的後裔^무어의 후예^Descendant de Muah^Muah-Nachkomme^Muano
 MST_ABILITY_NAME_225720^Seed of Hope^幸運兒^포츈 베이비^Bébé chanceux^Glücksbaby^Criatura afortunada
 MST_ABILITY_NAME_225730^Double Slash^雙破斬^쌍파참^Double tranchage^Zwillingsspalter^Hendidura doble
 MST_ABILITY_NAME_225740^Air Slash^空破斬^공파참^Coup du rugissement^Himmelspaltender Streich^Descuartizo aéreo
@@ -4397,15 +4397,15 @@ MST_ABILITY_NAME_225760^Cyclone Blade^颶風之刃^사이클론 블레이드^Lam
 MST_ABILITY_NAME_225770^Mirror Blade^鏡面剎^경면살^Coup miroir^Spiegelwelt^Golpe espejo
 MST_ABILITY_NAME_225780^Father's Teachings^父親的教誨^아버지의 가르침^Enseignement du père^Väterlicher Rat^Saber de padre
 MST_ABILITY_NAME_225790^Leader by Proxy^卡繆斯流師父^카뮤즈 유파의 사범^Instructeur de Kamuze^Kamuze-Meister^Instructor de Kamuze
-MST_ABILITY_NAME_225800^Gift to Protect Others^守護之力^지키기 위한 힘^Pouvoir protecteur^Kraft zum Schutze^Capacidad de proteger
+MST_ABILITY_NAME_225800^Defender of the Weak^守護之力^지키기 위한 힘^Pouvoir protecteur^Kraft zum Schutze^Capacidad de proteger
 MST_ABILITY_NAME_225810^Unstoppable Resolution^永不止步的決心^멈추지 않는 각오^Résolution inarrêtable^Unaufhaltbare Entschlossenheit^Resolución imparable
 MST_ABILITY_NAME_225820^Dragon Slash^蒼龍醒雷斬^창룡성뢰참^Lame azure lumineuse^Azurblauer Blitzstreich^Hoja destello azulado
 MST_ABILITY_NAME_225830^Thunderclap Blade^雷鳴劍^뇌명검^Lame tonnerre^Donnerschwert^Espada trueno
 MST_ABILITY_NAME_225840^Shockwave Swirl^沖裂破^충렬파^Fracture déchirante^Widerstandsbrecher^Fractura partidora
 MST_ABILITY_NAME_225850^Animal Instinct^野生的直覺^야생의 감^Intuition sauvage^Wilde Intuition^Intuición salvaje
-MST_ABILITY_NAME_225860^Edarl Blade Arts^艾達爾劍術^에다르의 검술^Technique d'Edarl^Edarl-Schwertkunst^Técnica de Edarl
-MST_ABILITY_NAME_225870^Kratus Defense Force^克拉特斯自衛團^크라스트 자경단^Auto-défense de Krast^Kratos Bürgerwehr^Vigilante de Krast
-MST_ABILITY_NAME_225880^Space-Time Transcending Techniques^穿越時空的奧義^시공을 초월한 오의^Mystère au-delà du temps^Geheimlehre jenseits von Zeit und Raum^Misterio atemporal
+MST_ABILITY_NAME_225860^Eldarian Swordplay^艾達爾劍術^에다르의 검술^Technique d'Edarl^Edarl-Schwertkunst^Técnica de Edarl
+MST_ABILITY_NAME_225870^Defense Force of Kratus^克拉特斯自衛團^크라스트 자경단^Auto-défense de Krast^Kratos Bürgerwehr^Vigilante de Krast
+MST_ABILITY_NAME_225880^Transcending Space-time^穿越時空的奧義^시공을 초월한 오의^Mystère au-delà du temps^Geheimlehre jenseits von Zeit und Raum^Misterio atemporal
 MST_ABILITY_NAME_225890^Fortitude and Vigor^質樸剛健^질실강건^Construction vigoureuse^Voller Elan^Constitución vigorosa
 MST_ABILITY_NAME_225900^Millie's Feelings^米麗的想法^밀리의 마음^Pensée de Millie^Millies Gefühle^Pensamientos de Millie
 MST_ABILITY_NAME_225910^Metal Pipe Kinda Guy^鐵管派^철파이프^Tuyau ferreux^Stahlrohrfraktion^Tubo férreo
@@ -4413,8 +4413,8 @@ MST_ABILITY_NAME_225920^Life Taker^奪命兇刃^목숨을 빼앗는 흉검^Volvi
 MST_ABILITY_NAME_225930^Necropolis^墓園^네크로폴리스^Nécropole^Nekropolis^Necrópolis
 MST_ABILITY_NAME_225940^Toll Taker^縫隙兇刃^틈새를 메우는 흉검^Payer le prix^Lückenfüllende Klinge^Pagar un precio
 MST_ABILITY_NAME_225950^Well-dressed - Clothes^搭配合適的衣服^뛰어난 옷맵시^Bien habillé - Vêtements^Wohlgekleidet^Bien vestido - Ropa
-MST_ABILITY_NAME_225960^Knightly Bonds^與騎士們的羈絆^기사들과의 인연^Liens chevaleresque^Rittersbande^Lazos de hidalguía
-MST_ABILITY_NAME_225970^Family Bonds^與家人的羈絆^가족과의 인연^Lien familiaux^Familienbande^Lazos de familia
+MST_ABILITY_NAME_225960^Knightly Bonds^與騎士們的羈絆^기사들과의 인연^Liens chevaleresques^Rittersbande^Lazos de hidalguía
+MST_ABILITY_NAME_225970^Family Bonds^與家人的羈絆^가족과의 인연^Liens familiaux^Familienbande^Lazos de familia
 MST_ABILITY_NAME_225980^AJ Type Camouflage Oil^AJ式迷彩機油^AJ식 위장용 오일^Huile de camouflage type AJ^Tarnöl Typ AJ^Aceite de camuflaje tipo AJ
 MST_ABILITY_NAME_225990^AL Type Analysis Up^AL式排氣分析^AL식 분석력 상승^Améliorateur d'analyse type AL^Typ Al Analyseschub^Potenciador de análisis tipo AL
 MST_ABILITY_NAME_226000^Entrusted Emotions^被託付的心願^맡겨진 마음^Émotion héritée^Anvertraute Gefühle^Emociones otorgadas
@@ -6695,7 +6695,7 @@ MST_ABILITY_NAME_228401^^^^^^
 MST_ABILITY_NAME_228402^^^^^^
 MST_ABILITY_NAME_228403^^^^^^
 MST_ABILITY_NAME_228404^^^^^^
-MST_ABILITY_NAME_228405^^^^^^
+MST_ABILITY_NAME_228405^Super Wink^^^^^
 MST_ABILITY_NAME_228406^^^^^^
 MST_ABILITY_NAME_228407^^^^^^
 MST_ABILITY_NAME_228408^^^^^^
@@ -6707,7 +6707,7 @@ MST_ABILITY_NAME_228413^^^^^^
 MST_ABILITY_NAME_228414^^^^^^
 MST_ABILITY_NAME_228415^^^^^^
 MST_ABILITY_NAME_228416^^^^^^
-MST_ABILITY_NAME_228417^^^^^^
+MST_ABILITY_NAME_228417^Dangerous Rose^^^^^
 MST_ABILITY_NAME_228420^^^^^^
 MST_ABILITY_NAME_228421^^^^^^
 MST_ABILITY_NAME_228422^^^^^^
@@ -7523,7 +7523,7 @@ MST_ABILITY_NAME_508568^^^^^^
 MST_ABILITY_NAME_508569^^^^^^
 MST_ABILITY_NAME_508570^^^^^^
 MST_ABILITY_NAME_508571^^^^^^
-MST_ABILITY_NAME_508572^^^^^^
+MST_ABILITY_NAME_508572^Super Wink^^^^^
 MST_ABILITY_NAME_508573^^^^^^
 MST_ABILITY_NAME_508574^^^^^^
 MST_ABILITY_NAME_508575^^^^^^

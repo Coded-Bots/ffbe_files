@@ -2432,7 +2432,7 @@ MST_MONSTER_SKILL_NAME_171410^Dragon Dive^龍躍俯擊^용의 돌진^Plongeon de
 MST_MONSTER_SKILL_NAME_171420^Impulse Drive^脈衝俯擊^임펄스 드라이브^Frappe impulsée^Impulssprung^Salto impulsado
 MST_MONSTER_SKILL_NAME_171430^Thundaga^大雷電^선더가^Foudre X^Blitzga^Electro++
 MST_MONSTER_SKILL_NAME_171440^Drake's Arsenal^龍牙龍爪^용의 무기^Arsenal du dragon^Drachenarsenal^Patoarsenal
-MST_MONSTER_SKILL_NAME_171450^Lightning Rod^閃電箭^라이트닝 볼투^Flash^Blitzableiter^Rayos fulminantes
+MST_MONSTER_SKILL_NAME_171450^Lightning Rod^閃電箭^라이트닝 볼트^Flash^Blitzableiter^Rayos fulminantes
 MST_MONSTER_SKILL_NAME_171460^Grit^深惡痛絕^불굴의 투지^Cran^Schneid^Arrojo
 MST_MONSTER_SKILL_NAME_171470^Stun^眩暈^기절^Étourdissement^Betäuben^Aturdir
 MST_MONSTER_SKILL_NAME_171480^Bladeblitz^全斬^전방위 베기^Lame éclair^Klingenblitz^Relámpago de acero
@@ -3478,17 +3478,17 @@ MST_MONSTER_SKILL_NAME_181120^Punch Rush^拳突^펀치 돌진^Rafale de coups de
 MST_MONSTER_SKILL_NAME_181130^Mysterious Wave^怪電波^괴전파^Onde mystérieuse^Seltsame Strahlung^Ola misteriosa
 MST_MONSTER_SKILL_NAME_181140^Summersault Kick^後空踢^섬머솔트 킥^Saut périlleux^Saltokick^Golpe con pirueta
 MST_MONSTER_SKILL_NAME_181150^Spin Press^眩暈擊^스핀 프레스^Tour à pression^Drehpresse^Giro a presión
-MST_MONSTER_SKILL_NAME_181160^Charge^突進^돌진^Charge^Vormarsch^Carga
-MST_MONSTER_SKILL_NAME_181170^Missile^導彈^미사일^Missile^Rakete^Misil
-MST_MONSTER_SKILL_NAME_181180^Punch Rush^拳突^펀치 돌진^Rafale de coups de poings^Schlagsturm^Ráfaga de puños
-MST_MONSTER_SKILL_NAME_181190^Mysterious Wave^怪電波^괴전파^Onde mystérieuse^Seltsame Strahlung^Ola misteriosa
-MST_MONSTER_SKILL_NAME_181200^Summersault Kick^後空踢^섬머솔트 킥^Saut périlleux^Saltokick^Golpe con pirueta
-MST_MONSTER_SKILL_NAME_181210^Spin Press^眩暈擊^스핀 프레스^Tour à pression^Drehpresse^Giro a presión
+MST_MONSTER_SKILL_NAME_181160^Rush^突進^돌진^Charge^Vormarsch^Carga
+MST_MONSTER_SKILL_NAME_181170^Artillary^導彈^미사일^Missile^Rakete^Misil
+MST_MONSTER_SKILL_NAME_181180^Unidentified Signal^拳突^펀치 돌진^Rafale de coups de poings^Schlagsturm^Ráfaga de puños
+MST_MONSTER_SKILL_NAME_181190^Windup Blow^怪電波^괴전파^Onde mystérieuse^Seltsame Strahlung^Ola misteriosa
+MST_MONSTER_SKILL_NAME_181200^Somersault Kick^後空踢^섬머솔트 킥^Saut périlleux^Saltokick^Golpe con pirueta
+MST_MONSTER_SKILL_NAME_181210^Spin & Slam^眩暈擊^스핀 프레스^Tour à pression^Drehpresse^Giro a presión
 MST_MONSTER_SKILL_NAME_181220^Elemental Burst^元素爆炸^엘레멘탈 버스트^Éclat élémentaire^Elementarburst^Estallido elemental
 MST_MONSTER_SKILL_NAME_181230^Stop Movement^動作停止^동작 정지^Freiner^Bewegungsstop^Frenar
 MST_MONSTER_SKILL_NAME_181240^Cleanse^治病^리부트^Antivirus^Avir^Asepsis
 MST_MONSTER_SKILL_NAME_181250^Extermination Mode^殲滅模式^섬멸 모드^Mode extermination^Exterminationsmodus^Modo exterminio
-MST_MONSTER_SKILL_NAME_181260^Deadly Missile^殺人導彈^살인 미사일^Missile mortel^Tödliche Rakete^Misil mortal
+MST_MONSTER_SKILL_NAME_181260^Heat-Seeking Missile^殺人導彈^살인 미사일^Missile mortel^Tödliche Rakete^Misil mortal
 MST_MONSTER_SKILL_NAME_181270^10,000 Needles^萬針刺^바늘 10,000개^10 000 épines^10.000 Nadeln^10 000 agujas
 MST_MONSTER_SKILL_NAME_181280^10,000 Needles Combo^三連萬針刺^3연속 바늘 10,000개^Combo 10 000 épines^10.000 Nadeln-Kombo^Combo de 10 000 agujas
 MST_MONSTER_SKILL_NAME_181290^Workload x3!^工作量變3倍！^작업량을 3배로 늘렸다!^Charge de travail x3 !^Dreifache Arbeit!^¡Trabajo x3!
@@ -4204,7 +4204,7 @@ MST_MONSTER_SKILL_NAME_187980^^^^^^
 MST_MONSTER_SKILL_NAME_187990^^^^^^
 MST_MONSTER_SKILL_NAME_188000^^^^^^
 MST_MONSTER_SKILL_NAME_188010^^^^^^
-MST_MONSTER_SKILL_NAME_188020^^^^^^
+MST_MONSTER_SKILL_NAME_188020^Way of the Void^^^^^
 MST_MONSTER_SKILL_NAME_188030^^^^^^
 MST_MONSTER_SKILL_NAME_188040^^^^^^
 MST_MONSTER_SKILL_NAME_188050^^^^^^
