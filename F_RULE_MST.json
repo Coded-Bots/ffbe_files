@@ -248,6 +248,14 @@
         "rmhN3X5F": "指定ユニットのみ"
     }, 
     {
+        "6uvHX2JG": "古代遺跡2", 
+        "76rpk94Z": "11", 
+        "G4L0YIB2": "「ウンディーネ」を倒してクリア", 
+        "Nd1B6ioG": "2028", 
+        "Pzn5h0Ga": "11001:300:30001128", 
+        "rmhN3X5F": ""
+    }, 
+    {
         "6uvHX2JG": "このクエストに進むには、体力とは別に<color=255:255:0>専用アイテム</color>が必要となります。<br><br>　<br><color=255:165:0>【必要アイテム】</color><br><param=item1>　<param=require_num1>個<br>※探検チョコボで獲得することができます", 
         "76rpk94Z": "12", 
         "G4L0YIB2": "セイレーン", 
@@ -290,6 +298,14 @@
     {
         "6uvHX2JG": "このクエストに進むには、体力とは別に<color=255:255:0>専用アイテム</color>が必要となります。<br><br>　<br><color=255:165:0>【必要アイテム】</color><br><param=item1>　<param=require_num1>個<br>※探検チョコボで獲得することができます", 
         "76rpk94Z": "12", 
+        "G4L0YIB2": "ディアボロス", 
+        "Nd1B6ioG": "3006", 
+        "Pzn5h0Ga": "12001:20:106210700:1", 
+        "rmhN3X5F": "<param=item1>ｘ<param=require_num1>"
+    }, 
+    {
+        "6uvHX2JG": "このクエストに進むには、体力とは別に<color=255:255:0>専用アイテム</color>が必要となります。<br><br>　<br><color=255:165:0>【必要アイテム】</color><br><param=item1>　<param=require_num1>個<br>※探検チョコボで獲得することができます", 
+        "76rpk94Z": "12", 
         "G4L0YIB2": "カーバンクル", 
         "Nd1B6ioG": "3007", 
         "Pzn5h0Ga": "12001:20:106210600:1", 
@@ -309,6 +325,14 @@
         "G4L0YIB2": "ラクシュミ", 
         "Nd1B6ioG": "3010", 
         "Pzn5h0Ga": "12001:20:106210200:1", 
+        "rmhN3X5F": "<param=item1>ｘ<param=require_num1>"
+    }, 
+    {
+        "6uvHX2JG": "このクエストに進むには、体力とは別に<color=255:255:0>専用アイテム</color>が必要となります。<br><br>　<br><color=255:165:0>【必要アイテム】</color><br><param=item1>　<param=require_num1>個<br>※探検チョコボで獲得することができます", 
+        "76rpk94Z": "12", 
+        "G4L0YIB2": "テトラシルフィード", 
+        "Nd1B6ioG": "3011", 
+        "Pzn5h0Ga": "12001:20:106210500:1", 
         "rmhN3X5F": "<param=item1>ｘ<param=require_num1>"
     }
 ]

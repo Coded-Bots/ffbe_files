@@ -22,5 +22,9 @@
     {
         "9XyCMoG0": "6", 
         "F14ibzDC": "<color=255:165:0><param=player_name></color>が<color=255:255:0><param=mission_name></color>をクリア！"
+    }, 
+    {
+        "9XyCMoG0": "7", 
+        "F14ibzDC": "<color=255:165:0><param=player_name></color>がスーパートラストマスター「<color=255:255:0><param=reward_name></color>」を獲得！"
     }
 ]

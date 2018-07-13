@@ -38,8 +38,8 @@
     {
         "1C7GDEv4": "10000117", 
         "2Gszu9xN": "4000", 
-        "G4L0YIB2": "ユニット①", 
-        "Hb8v3xnI": "unit", 
+        "G4L0YIB2": "ユニット①　基本", 
+        "Hb8v3xnI": "script", 
         "SjF52z7N": "10000117", 
         "UV40fcZK": "1", 
         "Z0EN6jSh": "4", 
@@ -50,7 +50,7 @@
     {
         "1C7GDEv4": "10000118", 
         "2Gszu9xN": "5000", 
-        "G4L0YIB2": "ユニット②", 
+        "G4L0YIB2": "ユニット②　強化", 
         "Hb8v3xnI": "unit_mix", 
         "SjF52z7N": "10000118", 
         "UV40fcZK": "1", 
@@ -62,7 +62,7 @@
     {
         "1C7GDEv4": "10000119", 
         "2Gszu9xN": "6000", 
-        "G4L0YIB2": "ユニット③", 
+        "G4L0YIB2": "ユニット③　覚醒", 
         "Hb8v3xnI": "unit_classup", 
         "SjF52z7N": "10000119", 
         "UV40fcZK": "1", 
@@ -72,15 +72,15 @@
         "w7VR6ypY": "3"
     }, 
     {
-        "1C7GDEv4": "10000130", 
+        "1C7GDEv4": "10000131", 
         "2Gszu9xN": "6100", 
-        "G4L0YIB2": "ユニット④", 
+        "G4L0YIB2": "ユニット④　★7覚醒", 
         "Hb8v3xnI": "sacrifice", 
-        "SjF52z7N": "10000130", 
+        "SjF52z7N": "10000131", 
         "UV40fcZK": "1", 
         "Z0EN6jSh": "7", 
         "juA0Z4m7": "10003001", 
-        "r3s2vGfq": "tuto19000_1.png", 
+        "r3s2vGfq": "tuto6100_1.png,tuto6100_2.png,tuto6100_3.png,tuto6100_4.png,tuto6100_5.png,tuto6100_6.png", 
         "w7VR6ypY": "1"
     }, 
     {

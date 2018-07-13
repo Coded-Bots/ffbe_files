@@ -225,9 +225,9 @@ MST_PLAYBACK_MAP_NAME_200607^Crystallis Barrier Station^屏障發生設施（克
 MST_PLAYBACK_MAP_NAME_200608^Varved Wharf^層疊的崖壁^적층 암벽^Débarcadère sédimenté^Stufenkliff^Atracadero sedimentado
 MST_PLAYBACK_MAP_NAME_200609^Forest of Blades^白刃之森^흰 칼날의 숲^Forêt de lames^Klingenwald^Bosque de las cuchillas
 MST_PLAYBACK_MAP_NAME_200610^Runferia Castle^倫菲利亞城^룬페리아 성^Château de Runferia^Burg Runferia^Castillo de Runferia
-MST_PLAYBACK_MAP_NAME_200611^Varved Wharf 2nd time (ED of CH1)^層疊的崖壁第2次（前篇ED）^적층 암벽 2회차(1부 ED)^Débarcadère sédimenté 2e fois (Fin du chap. 1)^Stufenkliff 2. Mal (2. Kap. Ende)^Atracadero sedimentado 2.ª parte (final del cap. 1)
-MST_PLAYBACK_MAP_NAME_200612^Flames of Rebirth (Phoenix)^轉生之炎（地獄鳳凰）^윤회의 불꽃(피닉스)^Feu résurrecteur (Phénix)^Flammen der Wiedergeburt (Phönix)^Llamas de la reencarnación (Fénix)
-MST_PLAYBACK_MAP_NAME_200701^Varved Wharf 3rd time (CH2 OP)^層疊的崖壁第3次（中篇OP）^적층 암벽 3회차(2부 OP)^Débarcadère sédimenté 3e fois (Déb du chap. 2)^Stufenkliff 3. Mal (2. Kap. Auft.)^Atracadero sedimentado 3.ª parte (inicio del cap. 2)
+MST_PLAYBACK_MAP_NAME_200611^Varved Wharf 2nd time^層疊的崖壁第2次^적층 암벽 2회차^Débarcadère sédimenté 2e fois^Stufenkliff 2. Mal^Atracadero sedimentado 2.ª parte
+MST_PLAYBACK_MAP_NAME_200612^Flames of Rebirth^轉生之炎^윤회의 불꽃^Feu résurrecteur^Flammen der Wiedergeburt^Llamas de la reencarnación
+MST_PLAYBACK_MAP_NAME_200701^Varved Wharf 3rd time^層疊的崖壁第3次^적층 암벽 3회차^Débarcadère sédimenté 3e fois^Stufenkliff 3. Mal^Atracadero sedimentado 3.ª parte
 MST_PLAYBACK_MAP_NAME_200702^Runferia Castle 2nd time^倫菲利亞城第2次^룬페리아 성 2회차^Château de Runferia 2e fois^Burg Runferia 2. Mal^Castillo de Runferia 2.ª parte
 MST_PLAYBACK_MAP_NAME_200703^Fuzzy Flats^絨毛草原^솜털 초원^Pré duveteux^Flaumige Felder^Dehesa difusa
 MST_PLAYBACK_MAP_NAME_200704^Illusion Magic Research Facility^幻魔導研究設施^환마도 연구 시설^Institut de l'illusion^Forschungsinstitut für Illusionsmagie^Instituto de ilusionismo
@@ -236,17 +236,17 @@ MST_PLAYBACK_MAP_NAME_200706^Ilteah Town^伊爾特亞鎮^일테아 마을^Ville 
 MST_PLAYBACK_MAP_NAME_200707^Quicksand Valley^流沙之谷^흐르는 모래언덕^Vallée des sables mouvants^Treibsandtal^Valle de arenas movedizas
 MST_PLAYBACK_MAP_NAME_200708^Eternal Rest^忘卻的寢室^망각의 침소^chambre de l'oubli^Bett der Vergessenheit^Ilteah
 MST_PLAYBACK_MAP_NAME_200709^Hideaway Lanzatto^隱居之處蘭扎特^란자토 은거지^Cachette Lanzatto^Refugium Lanzatto^Guarida Lanzatto
-MST_PLAYBACK_MAP_NAME_200710^Energy Extraction Station 1st time (CH2 ED)^能量抽取設施第1次（中篇ED）^에너지 추출 시설 1회차(2부 ED)^Station d'extraction d'énergie 1er fois (Fin chap. 2)^Energie-Extraktionsstation 1. Mal (2. Kap. Ende)^Estación de extracción de energía 1.ª parte (Cap. 2 ED)
-MST_PLAYBACK_MAP_NAME_200801^Energy Extraction Station 2nd time (CH3 OP)^能量抽取設施第2次（後篇OP）^에너지 추출 시설 2회차(3부 OP)^Station d'extraction d'énergie 2e fois (déb chap. 3)^Energie-Extraktionsstation 2. Mal (3. Kap. Auft.)^Estación de extracción de energía 2.ª parte (inicio del cap. 3)
-MST_PLAYBACK_MAP_NAME_200802^Hideaway Lanzatto 2^隱居之處蘭扎特2^란자토 은거지 2^Cachette Lanzatto 2^Refugium Lanzatto 2^Guarida Lanzatto 2
-MST_PLAYBACK_MAP_NAME_200803^Nirvana Woods^寂滅之森^열반의 숲^Bois du Nirvana^Nirvana-Wälder^Bosque del nirvana
-MST_PLAYBACK_MAP_NAME_200804^Energy Extraction Station 3rd time^能量抽取設施第三次^에너지 추출 시설 3회차^Station d'extraction d'énergie 3e fois^Energie-Extraktionsstation 3. Mal (3. Kap.  Auft.)^Estación de extracción de energía 3.ª parte
-MST_PLAYBACK_MAP_NAME_200805^Scalestone Way^鱗岩道路^비늘 바위길^Traversée Rochécailles^Schuppensteinweg^Travesía escalonada
-MST_PLAYBACK_MAP_NAME_200806^Tavern of the Departed^遺失酒館^잃어버린 주점^Taverne des défunts^Kneipe der Verlorenen^Taberna de los difuntos
-MST_PLAYBACK_MAP_NAME_200807^Capital of Despair Hellstya^失意之都赫萊斯提亞^실의의 도시 헬스티아^Hellstya, capitale du désespoir^Verzweiflungsmetropole Hellstya^Hellstya, capital de la desesperanza
-MST_PLAYBACK_MAP_NAME_200808^Elmaul Archives^艾爾瑪烏爾的書庫^엘마울의 서고^Archives d'Elmaul^Elmaul-Archive^Archivos de Elmaul
-MST_PLAYBACK_MAP_NAME_200809^Enroute to Whit Village^通往波其卡村的途中^포치카 마을로 가는 길^Vers Porchika^Auf dem Weg nach Porchika^De camino a Porchika
-MST_PLAYBACK_MAP_NAME_200810^The Return^^^^^
+MST_PLAYBACK_MAP_NAME_200710^Energy Extraction Station^能量抽取設施^에너지 추출 시설^Station d'extraction d'énergie^Energie-Extraktionsstation^Estación de extracción de energía
+MST_PLAYBACK_MAP_NAME_200801^Village of the Whyt^波其卡村^포치카의 마을^Village de Pochad^Dorf der Pochka^Aldea de los Whyt
+MST_PLAYBACK_MAP_NAME_200802^Energy Extraction Station 2nd time^能量抽取設施第2次^에너지 추출 시설 2회차^Station d'extraction d'énergie 2e fois^Energie-Extraktionsstation 2. Mal^Estación de extracción de energía 2.ª parte
+MST_PLAYBACK_MAP_NAME_200803^Hideaway Lanzatto 2^隱居之處蘭扎特2^란자토 은거지 2^Cachette Lanzatto 2^Refugium Lanzatto 2^Guarida Lanzatto 2
+MST_PLAYBACK_MAP_NAME_200804^Nirvana Woods^寂滅之森^열반의 숲^Bois du Nirvana^Nirvana-Wälder^Bosque del nirvana
+MST_PLAYBACK_MAP_NAME_200805^Energy Extraction Station 3rd time^能量抽取設施第三次^에너지 추출 시설 3회차^Station d'extraction d'énergie 3e fois^Energie-Extraktionsstation 3. Mal (3. Kap.  Auft.)^Estación de extracción de energía 3.ª parte
+MST_PLAYBACK_MAP_NAME_200806^Scalestone Way^鱗岩道路^비늘 바위길^Traversée Rochécailles^Schuppensteinweg^Travesía escalonada
+MST_PLAYBACK_MAP_NAME_200807^Tavern of the Departed^遺失酒館^잃어버린 주점^Taverne des défunts^Kneipe der Verlorenen^Taberna de los difuntos
+MST_PLAYBACK_MAP_NAME_200808^Capital of Despair Hellstya^失意之都赫萊斯提亞^실의의 도시 헬스티아^Hellstya, capitale du désespoir^Verzweiflungsmetropole Hellstya^Hellstya, capital de la desesperanza
+MST_PLAYBACK_MAP_NAME_200809^Elmaul Archives^艾爾瑪烏爾的書庫^엘마울의 서고^Archives d'Elmaul^Elmaul-Archive^Archivos de Elmaul
+MST_PLAYBACK_MAP_NAME_200810^Enroute to Whit Village^通往波其卡村的途中^포치카 마을로 가는 길^Vers Porchika^Auf dem Weg nach Porchika^De camino a Porchika
 MST_PLAYBACK_MAP_NAME_200901^The Journey Continues^^^^^
 MST_PLAYBACK_MAP_NAME_200902^Mid's Abduction^^^^^
 MST_PLAYBACK_MAP_NAME_200903^Strange Motivation^^^^^
@@ -901,18 +901,18 @@ MST_PLAYBACK_EVENT_NAME_20071003^Energy Extraction Station 3^能量抽取設施3
 MST_PLAYBACK_EVENT_NAME_20071004^Energy Extraction Station 4^能量抽取設施4^에너지 추출 시설 4^Station d'extraction d'énergie 4^Energie-Extraktionsstation 4^Estación de extracción de energía 4
 MST_PLAYBACK_EVENT_NAME_20071005^Energy Extraction Station 5^能量抽取設施5^에너지 추출 시설 5^Station d'extraction d'énergie 5^Energie-Extraktionsstation 5^Estación de extracción de energía 5
 MST_PLAYBACK_EVENT_NAME_20071006^Energy Extraction Station 6^能量抽取設施6^에너지 추출 시설 6^Station d'extraction d'énergie 6^Energie-Extraktionsstation 6^Estación de extracción de energía 6
-MST_PLAYBACK_EVENT_NAME_20080101^Village of the Whyt 1^波其卡村1^포치카의 마을 1^Village de Whyt 1^Dorf der Pochka 1^Aldea de los Whyt 1
-MST_PLAYBACK_EVENT_NAME_20080201^Energy Extraction Station Center 1^能量抽取設施中樞^에너지 추출 시설 중추^Station d'extraction d'énergie^Energie-Extraktionsstation^Estación de extracción de energía
-MST_PLAYBACK_EVENT_NAME_20080202^Energy Extraction Station Center 2^^^^^
-MST_PLAYBACK_EVENT_NAME_20080203^Energy Extraction Station Center 3^^^^^
+MST_PLAYBACK_EVENT_NAME_20080101^Village of the Whyt 1^波其卡村1^포치카의 마을 1^Village de Pochad 1^Dorf der Pochka 1^Aldea de los Whyt 1
+MST_PLAYBACK_EVENT_NAME_20080201^Energy Extraction Station Center 1^能量抽取設施中樞1^에너지 추출 시설 중추 1^Centre de la station d'extraction d'énergie 1^Energie-Extraktionsstationzentrum 1^Centro de extracción de energía 1
+MST_PLAYBACK_EVENT_NAME_20080202^Energy Extraction Station Center 2^能量抽取設施中樞2^에너지 추출 시설 중추 2^Centre de la station d'extraction d'énergie 2^Energie-Extraktionsstationzentrum 2^Centro de extracción de energía 2
+MST_PLAYBACK_EVENT_NAME_20080203^Energy Extraction Station Center 3^能量抽取設施中樞3^에너지 추출 시설 중추 3^Centre de la station d'extraction d'énergie 3^Energie-Extraktionsstationzentrum 3^Centro de extracción de energía 3
 MST_PLAYBACK_EVENT_NAME_20080301^Hideaway Lanzatto 5^隱居之處蘭扎特5^란자토 은거지 5^Cachette Lanzatto 5^Refugium Lanzatto 5^Guarida Lanzatto 5
 MST_PLAYBACK_EVENT_NAME_20080302^Hideaway Lanzatto 6^隱居之處蘭扎特6^란자토 은거지 6^Cachette Lanzatto 6^Refugium Lanzatto 6^Guarida Lanzatto 6
 MST_PLAYBACK_EVENT_NAME_20080303^Hideaway Lanzatto 7^隱居之處蘭扎特7^란자토 은거지 7^Cachette Lanzatto 7^Refugium Lanzatto 7^Guarida Lanzatto 7
 MST_PLAYBACK_EVENT_NAME_20080401^Nirvana Woods 1^寂滅之森1^열반의 숲 1^Bois du Nirvana 1^Nirvana-Wälder 1^Bosque del nirvana 1
 MST_PLAYBACK_EVENT_NAME_20080402^Nirvana Woods 2^寂滅之森2^열반의 숲 2^Bois du Nirvana 2^Nirvana-Wälder 2^Bosque del nirvana 2
-MST_PLAYBACK_EVENT_NAME_20080501^Energy Extraction Station Core 1^^^^^
-MST_PLAYBACK_EVENT_NAME_20080502^Energy Extraction Station Core 2^^^^^
-MST_PLAYBACK_EVENT_NAME_20080503^Energy Extraction Station Core 3^^^^^
+MST_PLAYBACK_EVENT_NAME_20080501^Energy Extraction Station Core 1^能量抽取設施核心1^에너지 추출 시설 코어 1^Cœur de la station d'extraction d'énergie 1^Energie-Extraktionsstationskern 1^Núcleo del centro de extracción de energía 1
+MST_PLAYBACK_EVENT_NAME_20080502^Energy Extraction Station Core 2^能量抽取設施核心2^에너지 추출 시설 코어 2^Cœur de la station d'extraction d'énergie 2^Energie-Extraktionsstationskern 2^Núcleo del centro de extracción de energía 2
+MST_PLAYBACK_EVENT_NAME_20080503^Energy Extraction Station Core 3^能量抽取設施核心3^에너지 추출 시설 코어 3^Cœur de la station d'extraction d'énergie 3^Energie-Extraktionsstationskern 3^Núcleo del centro de extracción de energía 3
 MST_PLAYBACK_EVENT_NAME_20080601^Scalestone Way 1^鱗岩道路1^비늘 바위길 1^Traversée Rochécailles 1^Schuppensteinweg 1^Travesía escalonada 1
 MST_PLAYBACK_EVENT_NAME_20080602^Scalestone Way 2^鱗岩道路2^비늘 바위길 2^Traversée Rochécailles 2^Schuppensteinweg 2^Travesía escalonada 2
 MST_PLAYBACK_EVENT_NAME_20080701^Deadly Rock Path 1^遺失岩場1^사라진 바위터 1^Chemin des roches mortelles 1^Tödlicher Steinpfad 1^Camino de rocas mortal 1
@@ -925,57 +925,57 @@ MST_PLAYBACK_EVENT_NAME_20080904^Elmaul Archives 4^艾爾瑪烏爾的書庫4^엘
 MST_PLAYBACK_EVENT_NAME_20080905^Elmaul Archives 5^艾爾瑪烏爾的書庫5^엘마울의 서고 5^Archives d'Elmaul 5^Elmaul-Archive 5^Archivos de Elmaul 5
 MST_PLAYBACK_EVENT_NAME_20081001^Road to the Village of the Whyt 1^通往波其卡村的道路1^포치카의 마을로 가는 길 1^Vers le village de Pochad 1^Der Weg zum Dorf der Pochka 1^Camino a la aldea de los Whyt 1
 MST_PLAYBACK_EVENT_NAME_20081002^Road to the Village of the Whyt 2^通往波其卡村的道路2^포치카의 마을로 가는 길 2^Vers le village de Pochad 2^Der Weg zum Dorf der Pochka 2^Camino a la aldea de los Whyt 2
-MST_PLAYBACK_EVENT_NAME_20090101^Village of the Whyt 2^波其卡村2^포치카의 마을 2^Village de Whyt 2^Dorf der Pochka 2^Aldea de los Whyt 2
+MST_PLAYBACK_EVENT_NAME_20090101^Village of the Whyt 2^波其卡村2^포치카의 마을 2^Village de Pochad 2^Dorf der Pochka 2^Aldea de los Whyt 2
 MST_PLAYBACK_EVENT_NAME_20090201^Elmaul Archives 6^艾爾瑪烏爾的書庫6^엘마울의 서고 6^Archives d'Elmaul 6^Elmaul-Archive 6^Archivos de Elmaul 6
-MST_PLAYBACK_EVENT_NAME_20090301^Mizass Pass 1^^^^^
-MST_PLAYBACK_EVENT_NAME_20090401^Camp Danacos 1^^^^^
-MST_PLAYBACK_EVENT_NAME_20090501^Village of the Whyt 3^波其卡村3^포치카의 마을 3^Village de Whyt 3^Dorf der Pochka 3^Aldea de los Whyt 3
-MST_PLAYBACK_EVENT_NAME_20090601^Arc Bay 1^^^^^
-MST_PLAYBACK_EVENT_NAME_20090602^Arc Bay 2^^^^^
-MST_PLAYBACK_EVENT_NAME_20090603^Arc Bay 3^^^^^
-MST_PLAYBACK_EVENT_NAME_20090701^Slumson Plains 1^^^^^
-MST_PLAYBACK_EVENT_NAME_20090702^Slumson Plains 2^^^^^
-MST_PLAYBACK_EVENT_NAME_20090801^Molera Flatlands 1^^^^^
-MST_PLAYBACK_EVENT_NAME_20090802^Molera Flatlands 2^^^^^
-MST_PLAYBACK_EVENT_NAME_20090803^Molera Flatlands 3^^^^^
-MST_PLAYBACK_EVENT_NAME_20090901^City of Trials Dendalio 1^^^^^
-MST_PLAYBACK_EVENT_NAME_20091001^Camp Danacos 2^^^^^
-MST_PLAYBACK_EVENT_NAME_20091002^Camp Danacos 3^^^^^
-MST_PLAYBACK_EVENT_NAME_20091101^Savage Ruins 1^^^^^
-MST_PLAYBACK_EVENT_NAME_20091102^Savage Ruins 2^^^^^
-MST_PLAYBACK_EVENT_NAME_20091201^Madelle Bridge 1^^^^^
-MST_PLAYBACK_EVENT_NAME_20091202^Madelle Bridge 2^^^^^
-MST_PLAYBACK_EVENT_NAME_20091301^Camp Danacos 4^^^^^
-MST_PLAYBACK_EVENT_NAME_20091302^Camp Danacos 5^^^^^
-MST_PLAYBACK_EVENT_NAME_20091401^Madelle Bridge 3^^^^^
-MST_PLAYBACK_EVENT_NAME_20100101^Madelle Bridge 4^^^^^
-MST_PLAYBACK_EVENT_NAME_20100201^Camp Danacos 6^^^^^
-MST_PLAYBACK_EVENT_NAME_20100301^Barriered Base 1^^^^^
-MST_PLAYBACK_EVENT_NAME_20100302^Barriered Base 2^^^^^
-MST_PLAYBACK_EVENT_NAME_20100303^Barriered Base 3^^^^^
-MST_PLAYBACK_EVENT_NAME_20100401^Karvell Resort Town 1^^^^^
-MST_PLAYBACK_EVENT_NAME_20100402^Karvell Resort Town 2^^^^^
-MST_PLAYBACK_EVENT_NAME_20100501^Grave of the Warriors 1^^^^^
-MST_PLAYBACK_EVENT_NAME_20100502^Grave of the Warriors 2^^^^^
-MST_PLAYBACK_EVENT_NAME_20100601^Grassy Road 1^^^^^
-MST_PLAYBACK_EVENT_NAME_20100602^Grassy Road 2^^^^^
-MST_PLAYBACK_EVENT_NAME_20100603^Grassy Road 3^^^^^
-MST_PLAYBACK_EVENT_NAME_20100604^Grassy Road 4^^^^^
-MST_PLAYBACK_EVENT_NAME_20100701^Emerald Lake 1^^^^^
-MST_PLAYBACK_EVENT_NAME_20100702^Emerald Lake 2^^^^^
-MST_PLAYBACK_EVENT_NAME_20100801^Protta Forest 1^^^^^
-MST_PLAYBACK_EVENT_NAME_20100802^Protta Forest 2^^^^^
-MST_PLAYBACK_EVENT_NAME_20100901^Rock Pile Hill 1^^^^^
-MST_PLAYBACK_EVENT_NAME_20100902^Rock Pile Hill 2^^^^^
-MST_PLAYBACK_EVENT_NAME_20100903^Rock Pile Hill 3^^^^^
-MST_PLAYBACK_EVENT_NAME_20101001^Barriered Base 4^^^^^
-MST_PLAYBACK_EVENT_NAME_20101101^Ghastly Valley 1^^^^^
-MST_PLAYBACK_EVENT_NAME_20101102^Ghastly Valley 2^^^^^
-MST_PLAYBACK_EVENT_NAME_20101103^Ghastly Valley 3^^^^^
-MST_PLAYBACK_EVENT_NAME_20101104^Ghastly Valley 4^^^^^
-MST_PLAYBACK_EVENT_NAME_20101201^Helmna Heights 1^^^^^
-MST_PLAYBACK_EVENT_NAME_20101202^Helmna Heights 2^^^^^
-MST_PLAYBACK_EVENT_NAME_20101301^Sacred Valley 1^^^^^
-MST_PLAYBACK_EVENT_NAME_20101302^Sacred Valley 2^^^^^
-MST_PLAYBACK_EVENT_NAME_20101303^Holy Judgment 1^^^^^
-MST_PLAYBACK_EVENT_NAME_20101304^Holy Judgment 2^^^^^
+MST_PLAYBACK_EVENT_NAME_20090301^Mizass Pass 1^米扎斯山道1^미자스 산길 1^Col de Mizass 1^Mizass-Bergpfad^Paso de Mizass 1
+MST_PLAYBACK_EVENT_NAME_20090401^Camp Danacos 1^達納克斯收容所1^다나코스 수용소 1^Campement de Danacos 1^Lager Danacos 1^Campamento Danacos 1
+MST_PLAYBACK_EVENT_NAME_20090501^Village of the Whyt 3^波其卡村3^포치카의 마을 3^Village de Pochad 3^Dorf der Pochka 3^Aldea de los Whyt 3
+MST_PLAYBACK_EVENT_NAME_20090601^Arc Bay 1^圓弧形水灣1^원호의 포구 1^Baie de l'Arceau 1^Bogenbucht 1^Bahía del Arco 1
+MST_PLAYBACK_EVENT_NAME_20090602^Arc Bay 2^圓弧形水灣2^원호의 포구 2^Baie de l'Arceau 2^Bogenbucht 2^Bahía del Arco 2
+MST_PLAYBACK_EVENT_NAME_20090603^Arc Bay 3^圓弧形水灣3^원호의 포구 3^Baie de l'Arceau 3^Bogenbucht 3^Bahía del Arco 3
+MST_PLAYBACK_EVENT_NAME_20090701^Slumson Plains 1^斯魯姆遜平原1^슬럼슨 평원 1^Plaines de Slumson 1^Slumson Ebenen 1^Llanuras de Slumson 1
+MST_PLAYBACK_EVENT_NAME_20090702^Slumson Plains 2^斯魯姆遜平原2^슬럼슨 평원 2^Plaines de Slumson 2^Slumson Ebenen 2^Llanuras de Slumson 2
+MST_PLAYBACK_EVENT_NAME_20090801^Molera Flatlands 1^莫勒伊拉高原1^몰레이라 대지 1^Steppes de Molera 1^Molera Flachland 1^Llanuras de Molera 1
+MST_PLAYBACK_EVENT_NAME_20090802^Molera Flatlands 2^莫勒伊拉高原2^몰레이라 대지 2^Steppes de Molera 2^Molera Flachland 2^Llanuras de Molera 2
+MST_PLAYBACK_EVENT_NAME_20090803^Molera Flatlands 3^莫勒伊拉高原3^몰레이라 대지 3^Steppes de Molera 3^Molera Flachland 3^Llanuras de Molera 3
+MST_PLAYBACK_EVENT_NAME_20090901^City of Trials Dendalio 1^修煉之街迪恩達里奧1^수행의 도시 덴다리오 1^Dendalio, Cité des défis 1^Stadt der Prüfungen  Dendalio 1^Dendalio, ciudad de los desafíos 1
+MST_PLAYBACK_EVENT_NAME_20091001^Camp Danacos 2^達納克斯收容所2^다나코스 수용소 2^Campement de Danacos 2^Lager Danacos 2^Campamento Danacos 2
+MST_PLAYBACK_EVENT_NAME_20091002^Camp Danacos 3^達納克斯收容所3^다나코스 수용소 3^Campement de Danacos 3^Lager Danacos 3^Campamento Danacos 3
+MST_PLAYBACK_EVENT_NAME_20091101^Savage Ruins 1^蠻勇的遺跡1^만용의 유적 1^Ruines sauvages 1^Tollkühne Ruinen 1^Ruinas salvajes 1
+MST_PLAYBACK_EVENT_NAME_20091102^Savage Ruins 2^蠻勇的遺跡2^만용의 유적 2^Ruines sauvages 2^Tollkühne Ruinen 2^Ruinas salvajes 2
+MST_PLAYBACK_EVENT_NAME_20091201^Madelle Bridge 1^馬蒂雷大鐵橋1^메이델 대철교 1^Pont de Madelle 1^Madelle-Eisenbrücke 1^Puente de Madelle 1
+MST_PLAYBACK_EVENT_NAME_20091202^Madelle Bridge 2^馬蒂雷大鐵橋2^메이델 대철교 2^Pont de Madelle 2^Madelle-Eisenbrücke 2^Puente de Madelle 2
+MST_PLAYBACK_EVENT_NAME_20091301^Camp Danacos 4^達納克斯收容所4^다나코스 수용소 4^Campement de Danacos 4^Lager Danacos 4^Campamento Danacos 4
+MST_PLAYBACK_EVENT_NAME_20091302^Camp Danacos 5^達納克斯收容所5^다나코스 수용소 5^Campement de Danacos 5^Lager Danacos 5^Campamento Danacos 5
+MST_PLAYBACK_EVENT_NAME_20091401^Madelle Bridge 3^馬蒂雷大鐵橋3^메이델 대철교 3^Pont de Madelle 3^Madelle-Eisenbrücke 3^Puente de Madelle 3
+MST_PLAYBACK_EVENT_NAME_20100101^Madelle Bridge 4^馬蒂雷大鐵橋4^메이델 대철교 4^Pont de Madelle 4^Madelle-Eisenbrücke 4^Puente de Madelle 4
+MST_PLAYBACK_EVENT_NAME_20100201^Camp Danacos 6^達納克斯收容所6^다나코스 수용소 6^Campement de Danacos 6^Lager Danacos 6^Campamento Danacos 6
+MST_PLAYBACK_EVENT_NAME_20100301^Barriered Base 1^屏障制御基地1^배리어 제어 기지 1^Base fortifiée 1^Barrierezaun-Basis 1^Base fortificada 1
+MST_PLAYBACK_EVENT_NAME_20100302^Barriered Base 2^屏障制御基地2^배리어 제어 기지 2^Base fortifiée 2^Barrierezaun-Basis 2^Base fortificada 2
+MST_PLAYBACK_EVENT_NAME_20100303^Barriered Base 3^屏障制御基地3^배리어 제어 기지 3^Base fortifiée 3^Barrierezaun-Basis 3^Base fortificada 3
+MST_PLAYBACK_EVENT_NAME_20100401^Karvell Resort Town 1^加維爾宿驛1^카벨 리조트 타운 1^Karvell, ville saisonnière 1^Poststation Karvell 1^Karvell, pueblo vacacional 1
+MST_PLAYBACK_EVENT_NAME_20100402^Karvell Resort Town 2^加維爾宿驛2^카벨 리조트 타운 2^Karvell, ville saisonnière 2^Poststation Karvell 2^Karvell, pueblo vacacional 2
+MST_PLAYBACK_EVENT_NAME_20100501^Grave of the Warriors 1^土魂古戰場1^무사의 고대 전장 1^Tombe des guerriers 1^Schlachfeld der Kriegerseelen 1^Tumba de los Guerreros 1
+MST_PLAYBACK_EVENT_NAME_20100502^Grave of the Warriors 2^土魂古戰場2^무사의 고대 전장 2^Tombe des guerriers 2^Schlachfeld der Kriegerseelen 2^Tumba de los Guerreros 2
+MST_PLAYBACK_EVENT_NAME_20100601^Grassy Road 1^寸草岔路1^잔디 샛길 1^Route verdoyante 1^Grasgrüne Nebenstraße 1^Camino de hierba 1
+MST_PLAYBACK_EVENT_NAME_20100602^Grassy Road 2^寸草岔路2^잔디 샛길 2^Route verdoyante 2^Grasgrüne Nebenstraße 2^Camino de hierba 2
+MST_PLAYBACK_EVENT_NAME_20100603^Grassy Road 3^寸草岔路3^잔디 샛길 3^Route verdoyante 3^Grasgrüne Nebenstraße 3^Camino de hierba 3
+MST_PLAYBACK_EVENT_NAME_20100604^Grassy Road 4^寸草岔路4^잔디 샛길 4^Route verdoyante 4^Grasgrüne Nebenstraße 4^Camino de hierba 4
+MST_PLAYBACK_EVENT_NAME_20100701^Emerald Lake 1^碧玉湖1^비취 호수 1^Lac d'émeraude 1^Smaragdsee 1^Lago Esmeralda 1
+MST_PLAYBACK_EVENT_NAME_20100702^Emerald Lake 2^碧玉湖2^비취 호수 2^Lac d'émeraude 2^Smaragdsee 2^Lago Esmeralda 2
+MST_PLAYBACK_EVENT_NAME_20100801^Protta Forest 1^布羅塔森林1^프로타 삼림 1^Forêt de Protta 1^Forst Protta 1^Bosque Protta 1
+MST_PLAYBACK_EVENT_NAME_20100802^Protta Forest 2^布羅塔森林2^프로타 삼림 2^Forêt de Protta 2^Forst Protta 2^Bosque Protta 2
+MST_PLAYBACK_EVENT_NAME_20100901^Rock Pile Hill 1^堆石丘1^돌 쌓인 언덕 1^Colline du monceau 1^Steinhaufen-Hügel 1^Colina rocosa 1
+MST_PLAYBACK_EVENT_NAME_20100902^Rock Pile Hill 2^堆石丘2^돌 쌓인 언덕 2^Colline du monceau 2^Steinhaufen-Hügel 2^Colina rocosa 2
+MST_PLAYBACK_EVENT_NAME_20100903^Rock Pile Hill 3^堆石丘3^돌 쌓인 언덕 3^Colline du monceau 3^Steinhaufen-Hügel 3^Colina rocosa 3
+MST_PLAYBACK_EVENT_NAME_20101001^Barriered Base 4^屏障制御基地1^배리어 제어 기지 4^Base fortifiée 4^Barrierezaun-Basis 4^Base fortificada 4
+MST_PLAYBACK_EVENT_NAME_20101101^Ghastly Valley 1^幽霧谷1^유령안개 골짜기 1^Vallée de l'épouvante 1^Schreckenstal 1^Valle Espantoso 1
+MST_PLAYBACK_EVENT_NAME_20101102^Ghastly Valley 2^幽霧谷2^유령안개 골짜기 2^Vallée de l'épouvante 2^Schreckenstal 2^Valle Espantoso 2
+MST_PLAYBACK_EVENT_NAME_20101103^Ghastly Valley 3^幽霧谷3^유령안개 골짜기 3^Vallée de l'épouvante 3^Schreckenstal 3^Valle Espantoso 3
+MST_PLAYBACK_EVENT_NAME_20101104^Ghastly Valley 4^幽霧谷4^유령안개 골짜기 4^Vallée de l'épouvante 4^Schreckenstal 4^Valle Espantoso 4
+MST_PLAYBACK_EVENT_NAME_20101201^Helmna Heights 1^赫魯姆納山林1^헬름나 산림 1^Pics de Helmna 1^Helmna-Bergwald 1^Picos de Helmna 1
+MST_PLAYBACK_EVENT_NAME_20101202^Helmna Heights 2^赫魯姆納山林2^헬름나 산림 2^Pics de Helmna 2^Helmna-Bergwald 2^Picos de Helmna 2
+MST_PLAYBACK_EVENT_NAME_20101301^1^至聖谷1^지성의 언덕 1^Sainte-Vallée 1^Hochheiliges Tal 1^Valle Sagrado 1
+MST_PLAYBACK_EVENT_NAME_20101302^Sacred Valley 2^至聖谷2^지성의 언덕 2^Sainte-Vallée 2^Hochheiliges Tal 2^Valle Sagrado 2
+MST_PLAYBACK_EVENT_NAME_20101303^Holy Judgment 1^神聖審判1^성스러운 심판 1^Jugement sacré 1^Geweihtes Urteil 1^Juramento sagrado 1
+MST_PLAYBACK_EVENT_NAME_20101304^Holy Judgment 2^神聖審判2^성스러운 심판 2^Jugement sacré 2^Geweihtes Urteil 2^Juramento sagrado 2

@@ -191,44 +191,44 @@ MST_MAGIC_SHORTDESCRIPTION_91010^Boost ice resistance for all allies^提高全�
 MST_MAGIC_SHORTDESCRIPTION_91011^Boost ice resistance for all allies^提高全體隊員冰屬性耐性的數值^아군 전체의 얼음속성 저항력 상승^Augmente la résistance à la glace de tous les alliés^Eisres. hoch, alle Verb.^Aumenta la resistencia al frío de todos los aliados.
 MST_MAGIC_SHORTDESCRIPTION_91012^Boost lightning resistance for all allies^提高全體隊員雷屬性耐性的數值^아군 전체의 번개속성 저항력 상승^Augmente la résistance à la foudre de tous les alliés^Blitzres. hoch, alle Verb.^Aumenta la resistencia al rayo de todos los aliados.
 MST_MAGIC_SHORTDESCRIPTION_91013^Boost lightning resistance for all allies^提高全體隊員雷屬性耐性的數值^아군 전체의 번개속성 저항력 상승^Augmente la résistance à la foudre de tous les alliés^Blitzres. hoch, alle Verb.^Aumenta la resistencia al rayo de todos los aliados.
-MST_MAGIC_SHORTDESCRIPTION_10126^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_10127^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_10128^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_10129^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_20560^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_20570^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_20580^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_20590^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_20600^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_20610^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_20620^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_20630^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_20640^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_20650^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_20660^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_20670^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_20680^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_20690^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_20700^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_20730^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_20760^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_20770^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_20780^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_30092^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_30093^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_30094^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_30095^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_30096^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_30097^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_30142^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_30143^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_30144^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_30145^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_30146^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_30147^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_30212^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_30213^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_30214^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_30460^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_70432^^^^^^
-MST_MAGIC_SHORTDESCRIPTION_70433^^^^^^
+MST_MAGIC_SHORTDESCRIPTION_10126^Cast regen on one ally^^^^^
+MST_MAGIC_SHORTDESCRIPTION_10127^Cast regen on one ally^^^^^
+MST_MAGIC_SHORTDESCRIPTION_10128^Cast regen on one ally^^^^^
+MST_MAGIC_SHORTDESCRIPTION_10129^Cast regen on one ally^^^^^
+MST_MAGIC_SHORTDESCRIPTION_20560^Damage all enemies^^^^^
+MST_MAGIC_SHORTDESCRIPTION_20570^Earth damage one enemy and power up with consecutive use^^^^^
+MST_MAGIC_SHORTDESCRIPTION_20580^Earth damage one enemy and power up with consecutive use^^^^^
+MST_MAGIC_SHORTDESCRIPTION_20590^Earth damage one enemy and power up with consecutive use^^^^^
+MST_MAGIC_SHORTDESCRIPTION_20600^Earth damage one enemy and power up with consecutive use^^^^^
+MST_MAGIC_SHORTDESCRIPTION_20610^Ice damage one enemy and power up with consecutive use^^^^^
+MST_MAGIC_SHORTDESCRIPTION_20620^Lightning damage one enemy and power up with consecutive use^^^^^
+MST_MAGIC_SHORTDESCRIPTION_20630^Earth damage to all enemies and power up with consecutive use^^^^^
+MST_MAGIC_SHORTDESCRIPTION_20640^Water damage to all enemies and power up with consecutive use^^^^^
+MST_MAGIC_SHORTDESCRIPTION_20650^Wind damage to all enemies and power up with consecutive use^^^^^
+MST_MAGIC_SHORTDESCRIPTION_20660^Fire damage to all enemies and power up with consecutive use^^^^^
+MST_MAGIC_SHORTDESCRIPTION_20670^Ice damage to all enemies and power up with consecutive use^^^^^
+MST_MAGIC_SHORTDESCRIPTION_20680^Lightning damage to all enemies and power up with consecutive use^^^^^
+MST_MAGIC_SHORTDESCRIPTION_20690^Dark damage and reduce ATK for one enemy^^^^^
+MST_MAGIC_SHORTDESCRIPTION_20700^Fire damage and reduce fire resistance for one enemy^^^^^
+MST_MAGIC_SHORTDESCRIPTION_20730^Water damage and reduce water resistance for one enemy^^^^^
+MST_MAGIC_SHORTDESCRIPTION_20760^Earth damage one enemy and power up with consecutive use^^^^^
+MST_MAGIC_SHORTDESCRIPTION_20770^Chance to petrify one enemy^^^^^
+MST_MAGIC_SHORTDESCRIPTION_20780^Chance to petrify all enemies^^^^^
+MST_MAGIC_SHORTDESCRIPTION_30092^Boost DEF for one ally^^^^^
+MST_MAGIC_SHORTDESCRIPTION_30093^Boost DEF for one ally^^^^^
+MST_MAGIC_SHORTDESCRIPTION_30094^Boost DEF for one ally^^^^^
+MST_MAGIC_SHORTDESCRIPTION_30095^Boost DEF for one ally^^^^^
+MST_MAGIC_SHORTDESCRIPTION_30096^Boost DEF for one ally^^^^^
+MST_MAGIC_SHORTDESCRIPTION_30097^Boost DEF for one ally^^^^^
+MST_MAGIC_SHORTDESCRIPTION_30142^Boost SPR for one ally^^^^^
+MST_MAGIC_SHORTDESCRIPTION_30143^Boost SPR for one ally^^^^^
+MST_MAGIC_SHORTDESCRIPTION_30144^Boost SPR for one ally^^^^^
+MST_MAGIC_SHORTDESCRIPTION_30145^Boost SPR for one ally^^^^^
+MST_MAGIC_SHORTDESCRIPTION_30146^Boost SPR for one ally^^^^^
+MST_MAGIC_SHORTDESCRIPTION_30147^Boost SPR for one ally^^^^^
+MST_MAGIC_SHORTDESCRIPTION_30212^Boost ATK for one ally^^^^^
+MST_MAGIC_SHORTDESCRIPTION_30213^Boost ATK, DEF and SPR, and restore HP every turn for one ally^^^^^
+MST_MAGIC_SHORTDESCRIPTION_30214^Boost ATK, DEF, MAG and SPR, and restore HP every turn for one ally^^^^^
+MST_MAGIC_SHORTDESCRIPTION_30460^Fill LB gauge for one ally^^^^^
+MST_MAGIC_SHORTDESCRIPTION_70432^Earth damage and reduce earth resistance for all enemies^^^^^
+MST_MAGIC_SHORTDESCRIPTION_70433^Earth damage and reduce earth resistance for all enemies^^^^^

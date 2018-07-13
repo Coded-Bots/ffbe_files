@@ -830,8 +830,8 @@ MST_EQUIP_ITEM_NAME_409018200^Icy Veins^冰項鏈^얼어붙은 맥^Veine de glac
 MST_EQUIP_ITEM_NAME_311003300^Staff of Resentment^憤怒手杖^분노의 지팡이^Bâton du ressentiment^Stab der Verachtung^Bastón vengativo
 MST_EQUIP_ITEM_NAME_403044200^Black Bandana^黑頭巾^검은 반다나^Bandana obscur^Schwarzes Kopftuch^Bandana negra
 MST_EQUIP_ITEM_NAME_403044300^Crown of Justice^正義之冠^정의의 왕관^Couronne de la justice^Krone der Gerechtigkeit^Corona de la justicia
-MST_EQUIP_ITEM_NAME_304002400^Sasuke^佐助刀^사스케의 도^Katana de Sasuke^Sasukes Katana^Acero de Sasuke
-MST_EQUIP_ITEM_NAME_304002500^Sasuke - Replica^佐助刀·複製品^사스케의 도·레플리카^Katana de Sasuke - Réplique^Sasukes Katana - Replik^Réplica de Acero de Sasuke
+MST_EQUIP_ITEM_NAME_304002400^Sasuke's Katana^佐助刀^사스케의 도^Katana de Sasuke^Sasukes Katana^Acero de Sasuke
+MST_EQUIP_ITEM_NAME_304002500^Sasuke's Katana - Replica^佐助刀·複製品^사스케의 도·레플리카^Katana de Sasuke - Réplique^Sasukes Katana - Replik^Réplica de Acero de Sasuke
 MST_EQUIP_ITEM_NAME_304002600^Masamune^正宗^마사무네^Masamune^Masamune^Masamune
 MST_EQUIP_ITEM_NAME_309002400^Claws of Darkness^暗黑千刃爪^암흑천인조^Griffes ténébreuses^Klauen der Dunkelheit^Zarpas tenebrosas
 MST_EQUIP_ITEM_NAME_409018300^Fairy's Scrunchie^妖精髮圈^요정의 슈슈^Chouchou de fée^Feenhaargummi^Coletero de hada
@@ -856,20 +856,20 @@ MST_EQUIP_ITEM_NAME_409018800^Merald's Belt^梅拉路德腰帶^메랄드의 벨�
 MST_EQUIP_ITEM_NAME_301003100^Assassin Dagger^刺客匕首^암살자의 단검^Assassine^Assassinendolch^Daga asesina
 MST_EQUIP_ITEM_NAME_301003200^Assassin Dagger - Replica^刺客匕首·複製品^암살자의 단검·레플리카^Assassine - Réplique^Assassinendolch - Replik^Réplica de Daga asesina
 MST_EQUIP_ITEM_NAME_302005000^Farwell^聖劍法韋爾^성검 파웰^Farwell, épée sacrée^Heiliges Schwert Farwell^Farwell, espada sacra
-MST_EQUIP_ITEM_NAME_309002500^Knuckles of Hope^墮落的希望^떨어진 희망^Espoir perdu ^Verlorene Hoffnung^Esperanza perdida
+MST_EQUIP_ITEM_NAME_309002500^Knuckles of Hope^墮落的希望^파룬 호프^Espoir perdu ^Verlorene Hoffnung^Esperanza perdida
 MST_EQUIP_ITEM_NAME_409018900^Millie's Charm^米麗的護身符^밀리의 부적^Pendentif de Millie^Millies Anhänger^Pendiente de Millie
 MST_EQUIP_ITEM_NAME_409019000^tri-Emblem^審判徽章^트라이 엠블럼^Triplemblème^Tri-Emblem^Triemblema
 MST_EQUIP_ITEM_NAME_312002100^Fierce Bow^剛弓「烈風新月」^열풍신월^Reppu Shingetsu^Sturmmond-Bogen^Arco feroz Reppu Shingetsu
 MST_EQUIP_ITEM_NAME_304002800^Kogarasumaru^靈劍·小鳥丸^코가라스마루^Kogarasumaru^Seelenschwert - Kogarasumaru^Kogarasumaru
 MST_EQUIP_ITEM_NAME_313003400^Scarlet Roses^緋紅玫瑰^스칼렛 로즈^Roses écarlates^Scharlachrosen^Rosas escarlata
-MST_EQUIP_ITEM_NAME_406003300^Riot Gear^防暴裝甲^폭동 진압복^Équipement d'émeute^Kampfausrüstung^Equipo antidisturbios
+MST_EQUIP_ITEM_NAME_406003300^Riot Gear^防暴裝甲^진압 장비^Équipement d'émeute^Kampfausrüstung^Equipo antidisturbios
 MST_EQUIP_ITEM_NAME_301003000^Takemikazuchi^霹劍·武禦雷^타케미카즈치^Takemikazuchi^Blitzklinge - Takemikazuchi^Takemikazuchi
-MST_EQUIP_ITEM_NAME_302005100^Metal Pipe^鐵管^철 파이프^Tuyau en acier^Stahlrohr^Tubo de hierro
+MST_EQUIP_ITEM_NAME_302005100^Metal Pipe^鐵管^쇠파이프^Tuyau en acier^Stahlrohr^Tubo de hierro
 MST_EQUIP_ITEM_NAME_310003400^Wizard Rod+^巫師棒·改^개량형 마도사 홀장^Sceptre de sorcier+^Magierrute+^Vara de brujo+
 MST_EQUIP_ITEM_NAME_311003400^Bone Staff^骨杖^뼈로 된 주술봉^Bâton en os^Knochenstab^Bastón de hueso
 MST_EQUIP_ITEM_NAME_401002100^Wind Buckler^風之圓盾^바람의 버클러^Bouclier du vent^Windbuckler^Rodela del viento
 MST_EQUIP_ITEM_NAME_409019100^Sphene Ring^榍石戒指^설석 반지^Anneau de Sphene^Sphenring^Anillo de Esfene
-MST_EQUIP_ITEM_NAME_304002900^Goho Katana^護法軍刀^보호의 군도^Katana de défense^Katana der Schutzhoheit^Katana Goho
+MST_EQUIP_ITEM_NAME_304002900^Goho Katana^護法軍刀^호법의 군도^Katana de défense^Katana der Schutzhoheit^Katana Goho
 MST_EQUIP_ITEM_NAME_316001300^Gaia Ocarina^大地陶笛^대지의 오카리나^Ocarina de Gaïa^Gaia-Okarina^Ocarina de Gaia
 MST_EQUIP_ITEM_NAME_402002600^Shield of Grandshelt^格蘭謝爾特軍盾^그랑셸트군의 방패^Bouclier de Grandshelt^Grandshelt-Schild^Escudo de Grandshelt
 MST_EQUIP_ITEM_NAME_403044400^Microchu Cap^食腐獸帽^코츄 모자^Couvre-chef Microtyugh^Kleinküsschenkappe^Gorra de microchú
@@ -877,9 +877,9 @@ MST_EQUIP_ITEM_NAME_408003300^Cure Robe^治癒法袍^큐어 로브^Tunique soign
 MST_EQUIP_ITEM_NAME_403044500^Royal Crown^皇室王冠^로얄 크라운^Couronne royale^Königliche Krone^Corona real
 MST_EQUIP_ITEM_NAME_403044600^Royal Crown - Replica^皇室王冠·複製品^로얄 크라운·레플리카^Couronne royale - Réplique^Königliche Krone - Replika^Réplica de Corona real
 MST_EQUIP_ITEM_NAME_313003500^Zile Cannon^扎伊爾炮^자일 캐논^Canon de Zile^Zilekanone^Cañón de Zile
-MST_EQUIP_ITEM_NAME_409019200^Sophia's First-aid Kit^索菲婭的急救箱^소피아의 구급함^Kit de soins de Sophia^Sophias Erste-Hilfe-Set^Botiquín de Sofía
+MST_EQUIP_ITEM_NAME_409019200^Sophia's First-aid Kit^索菲亞的急救箱^소피아의 구급함^Kit de soins de Sophia^Sophias Erste-Hilfe-Set^Botiquín de Sofía
 MST_EQUIP_ITEM_NAME_316001400^Nymph Harp^天女的豎琴^천녀의 하프^Harpe de Nymphe^Nymphenharfe^Arpa de ninfa
-MST_EQUIP_ITEM_NAME_403044700^Bomber's Bicorne^炮擊士雙角帽^포격사의 이각모^Bicorne de bombardier ^Grenadier-Zweispitz^Bicornio de bombardero
+MST_EQUIP_ITEM_NAME_403044700^Bombardier's Bicorne^炮擊士雙角帽^포격사의 이각모^Bicorne de bombardier ^Grenadier-Zweispitz^Bicornio de artillero
 MST_EQUIP_ITEM_NAME_313003600^Brontes^布隆蒂斯^브론테스^Brontes^Brontes^Brontes
 MST_EQUIP_ITEM_NAME_1100000114^Kitty Headband^貓耳髮帶^고양이 헤어밴드^Serre-tête chaton^Kätzchen-Stirnband^Banda de minina
 MST_EQUIP_ITEM_NAME_1100000115^Cloak of Resentment^怨念披風^분노의 망토^Cape du ressentiment^Mantel der Verachtung^Capa del resentimiento
@@ -932,7 +932,7 @@ MST_EQUIP_ITEM_NAME_309002700^Maverick^^^^^
 MST_EQUIP_ITEM_NAME_315022000^Valkyrie^^^^^
 MST_EQUIP_ITEM_NAME_409019500^Force Armlet^^^^^
 MST_EQUIP_ITEM_NAME_303004100^Revolver^^^^^
-MST_EQUIP_ITEM_NAME_302005400^Omega Weapon (FFXIII)^歐米茄武器(FFXIII)^오메가 웨폰(FFXIII)^^^
+MST_EQUIP_ITEM_NAME_302005400^Omega Weapon (FFXIII)^歐米茄武器(FFXIII)^오메가 웨폰(FFXIII)^Oméga (FFXIII)^Omega (FFXIII)^Arma Omega (FFXIII)
 MST_EQUIP_ITEM_NAME_401002200^Escutcheon (FFT)^紋章盾(FFT)^문장 방패(FFT)^^^
 MST_EQUIP_ITEM_NAME_315022100^Black Trump^^^^^
 MST_EQUIP_ITEM_NAME_405004800^Luneth's Clothes^^^^^
@@ -1133,3 +1133,4 @@ MST_EQUIP_ITEM_NAME_1100000166^Soccer Jersey^足球衣^축구 유니폼^Maillot 
 MST_EQUIP_ITEM_NAME_1100000159^Protec Grappler G3^Protec Grappler G3^Protec Grappler G3^Protec Grappler G3^Protec Grappler G3^Protec Grappler G3
 MST_EQUIP_ITEM_NAME_1100000160^Rico's Jumpsuit^瑞科的跳傘裝^리코의 점프슈트^Jumpsuit de Rico^Ricos Jumpsuit^Traje aéreo de Rico
 MST_EQUIP_ITEM_NAME_1100000167^2nd Anniversary Earrings^2週年紀念耳環^2주년 기념 귀걸이^Boucles d'oreilles du 2e anniversaire^2-Jahres-Jubiläumsohrringe^Aretes de 2.º aniversario
+MST_EQUIP_ITEM_NAME_1100000171^Impervious Shield^不可侵之盾^불침투 방패^Bouclier impénétrable^Undurchdringbarer Schild^Escudo impermeable

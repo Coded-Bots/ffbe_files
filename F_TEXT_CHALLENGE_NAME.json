@@ -3253,7 +3253,7 @@ MST_CHALLENGE_NAME_90007071^Use a limit burst^使用極限技^LB를 사용해 �
 MST_CHALLENGE_NAME_90007072^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_90007073^Use green magic^使用「綠魔法」^'녹'마법을 사용해 완료^Utilisez la magie verte^Benutze Grünmagie^Usa magia verde
 MST_CHALLENGE_NAME_90007080^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
-MST_CHALLENGE_NAME_90007081^Use magic 5 or more times^使用至少5次魔法^마법을 5회 이상 사용^Utilisez la magie 5 fois ou plus^Benutze mind. 5 Mal Magie^Usa magia 5 veces o más
+MST_CHALLENGE_NAME_90007081^Use magic 5 or more times^使用至少5次魔法^^Utilisez la magie 5 fois ou plus^Benutze mind. 5 Mal Magie^Usa magia 5 veces o más
 MST_CHALLENGE_NAME_90007082^Party of 5 or less (Companion included)^隊伍人數最多5人（包括同行者）^파티 인원수 5명 이하(동행자 포함)^Groupe de 5 ou moins (partenaire inclus)^Gruppe von höchstens 5 (einschl. Begleiter)^Grupo de 5 o menos (compañero incluido)
 MST_CHALLENGE_NAME_90007083^No limit bursts^不使用極限技^LB를 사용하지 않고 완료^Ne pas utiliser de limite^Kein Limitrausch^No uses Estallido Límite
 MST_CHALLENGE_NAME_90007090^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
@@ -3860,7 +3860,7 @@ MST_CHALLENGE_NAME_18108032^Clear without an ally being KO'd^戰鬥時無隊員�
 MST_CHALLENGE_NAME_18108033^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_18108040^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_18108041^No limit bursts^不使用極限技^LB를 사용하지 않고 완료^Ne pas utiliser de limite^Kein Limitrausch^No uses Estallido Límite
-MST_CHALLENGE_NAME_18108042^Deal fire damage 3 times or more^對敵人造成3次以上火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge einem Gegner 3 Mal oder mehr Feuerschaden zu.^Inflige daño de fuego a un enemigo 3 veces o más
+MST_CHALLENGE_NAME_18108042^Deal fire damage 3 times or more^對敵人造成3次以上火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge mind. 3 Mal Feuerschaden zu^Inflige daño de fuego a un enemigo 3 veces o más
 MST_CHALLENGE_NAME_18108043^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_18108050^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_18108051^Fina in party (Companion included)^隊伍中帶有「菲娜」（包括同行者）^피나를 파티에 편성(동행자 포함)^Fina dans le groupe (partenaire inclus)^Fina in der Gruppe (einschl. Begleiter)^Fina en el grupo (compañero incluido)
@@ -4004,7 +4004,7 @@ MST_CHALLENGE_NAME_73709001^Defeat the rock gargoyle with a limit burst^使用�
 MST_CHALLENGE_NAME_73709002^Clear all stages in the area^完成區域內全部關卡^구역 내 모든 스테이지 완료^Terminez tous les niveaux de la zone^Schließe alle Abschnitte des Gebietes ab^Completa todas las misiones del área
 MST_CHALLENGE_NAME_73709040^No items^不使用道具^아이템을 사용하지 않고 완료^Ne pas utiliser d'objets^Keine Gegenstände^No uses objetos
 MST_CHALLENGE_NAME_73709041^No magic^不使用魔法^모든 마법을 사용하지 않고 완료^Ne pas utiliser la magie^Keine Magie^No uses magia
-MST_CHALLENGE_NAME_73709050^Deal fire damage 3 times or more^對敵人造成3次以上火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge einem Gegner 3 Mal oder mehr Feuerschaden zu.^Inflige daño de fuego a un enemigo 3 veces o más
+MST_CHALLENGE_NAME_73709050^Deal fire damage 3 times or more^對敵人造成3次以上火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge mind. 3 Mal Feuerschaden zu^Inflige daño de fuego a un enemigo 3 veces o más
 MST_CHALLENGE_NAME_73709051^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_73709060^Use 2 or more limit bursts^使用至少2次極限技^LB를 2회 이상 사용^Utilisez 2 limites ou plus^Benutze mind. 2 Mal einen Limitrausch^Usa 2 Estallidos Límite o más
 MST_CHALLENGE_NAME_73709061^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
@@ -4513,7 +4513,7 @@ MST_CHALLENGE_NAME_72908040^Use 2 or more limit bursts^使用至少2次極限技
 MST_CHALLENGE_NAME_72908041^No white magic^不使用「白魔法」^'백'마법을 사용하지 않고 완료^Ne pas utiliser la magie blanche^Keine Weißmagie^No uses magia blanca
 MST_CHALLENGE_NAME_72908060^Deal light damage^對敵人造成光屬性傷害^빛속성으로 적에게 피해를 줌^Infligez des dégâts de lumière à un ennemi^Füge einem Gegner Lichtschaden zu^Inflige daño de luz a un enemigo
 MST_CHALLENGE_NAME_72908061^Evoke an esper^召喚幻獸^환수를 소환해 완료^Appelez une chimère^Rufe einen Esper^Evoca a un esper
-MST_CHALLENGE_NAME_72908070^Deal light and wind damage^對敵人造成風・光屬性傷害^바람·빛속성으로 적에게 피해를 줌^Infligez des dégâts de lumière et de vent à un ennemi^Füge einem Gegner Licht- und Windschaden zu.^Inflige daño de luz y viento a un enemigo
+MST_CHALLENGE_NAME_72908070^Deal light and wind damage^對敵人造成風・光屬性傷害^바람·빛속성으로 적에게 피해를 줌^Infligez des dégâts de lumière et de vent à un ennemi^Füge Licht- und Windschaden zu.^Inflige daño de luz y viento a un enemigo
 MST_CHALLENGE_NAME_72908071^Defeat stapelia - bloom with a limit burst^使用極限技終結「五角星花・花」^'스타펠리아·꽃'을 LB로 처치^Terrassez Stapelia - en fleur avec une limite^Besiege einen Stapelia - Blüte mit einem Limitrausch^Derrota a la stapelia con un EL
 MST_CHALLENGE_NAME_72908072^Clear all stages in the area^完成區域內全部關卡^구역 내 모든 스테이지 완료^Terminez tous les niveaux de la zone^Schließe alle Abschnitte des Gebietes ab^Completa todas las misiones del área
 MST_CHALLENGE_NAME_72909020^No items^不使用道具^아이템을 사용하지 않고 완료^Ne pas utiliser d'objets^Keine Gegenstände^No uses objetos
@@ -5083,7 +5083,7 @@ MST_CHALLENGE_NAME_75008061^Defeat an evil drake with a limit burst^使用極限
 MST_CHALLENGE_NAME_75008062^Clear all stages in the area^完成區域內全部關卡^구역 내 모든 스테이지 완료^Terminez tous les niveaux de la zone^Schließe alle Abschnitte des Gebietes ab^Completa todas las misiones del área
 MST_CHALLENGE_NAME_75009020^Use 2 or more limit bursts^使用至少2次極限技^LB를 2회 이상 사용^Utilisez 2 limites ou plus^Benutze mind. 2 Mal einen Limitrausch^Usa 2 Estallidos Límite o más
 MST_CHALLENGE_NAME_75009021^No magic^不使用魔法^모든 마법을 사용하지 않고 완료^Ne pas utiliser la magie^Keine Magie^No uses magia
-MST_CHALLENGE_NAME_75009030^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge einem Gegner 3 Mal oder mehr Feuerschaden zu.^Inflige daño de fuego a un enemigo 3 veces o más
+MST_CHALLENGE_NAME_75009030^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge mind. 3 Mal Feuerschaden zu^Inflige daño de fuego a un enemigo 3 veces o más
 MST_CHALLENGE_NAME_75009031^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_75009040^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab, ohne dass ein Verbündeter kampfunfähig wird^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_75009041^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
@@ -5220,7 +5220,7 @@ MST_CHALLENGE_NAME_89950011^Deal fire damage^對敵人造成火屬性傷害^불�
 MST_CHALLENGE_NAME_89950012^Use black magic^使用「黑魔法」^'흑'마법을 사용해 완료^Utilisez la magie noire^Benutze Schwarzmagie^Usa magia negra
 MST_CHALLENGE_NAME_89950013^Use a limit burst^使用極限技^LB를 사용해 완료^Utilisez une limite^Benutze einen Limitrausch^Usa un Estallido Límite
 MST_CHALLENGE_NAME_89950020^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
-MST_CHALLENGE_NAME_89950021^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge einem Gegner 3 Mal oder mehr Feuerschaden zu.^Inflige daño de fuego a un enemigo 3 veces o más
+MST_CHALLENGE_NAME_89950021^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge mind. 3 Mal Feuerschaden zu^Inflige daño de fuego a un enemigo 3 veces o más
 MST_CHALLENGE_NAME_89950022^Use green magic^使用「綠魔法」^'녹'마법을 사용해 완료^Utilisez la magie verte^Benutze Grünmagie^Usa magia verde
 MST_CHALLENGE_NAME_89950023^Party of 5 or less (Companion included)^隊伍人數最多5人（包括同行者）^파티 인원수 5명 이하(동행자 포함)^Groupe de 5 ou moins (partenaire inclus)^Gruppe von höchstens 5 (einschl. Begleiter)^Grupo de 5 o menos (compañero incluido)
 MST_CHALLENGE_NAME_89950030^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
@@ -5468,7 +5468,7 @@ MST_CHALLENGE_NAME_112112011^No items^不使用道具^아이템을 사용하지 
 MST_CHALLENGE_NAME_112112012^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab, ohne dass ein Verbündeter kampfunfähig wird^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_112112013^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_112112020^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
-MST_CHALLENGE_NAME_112112021^Deal lightning damage 2 or more times^對敵人造成至少2次雷屬性傷害^번개속성으로 2회 이상 적에게 피해를 줌^Infligez des dégâts de foudre à un ennemi à 2 reprises ou plus^Füge einem Gegner mindestens zweimal Blitzschaden zu^Inflige daño de rayo a un enemigo 2 veces o más
+MST_CHALLENGE_NAME_112112021^Deal lightning damage 2 or more times^對敵人造成至少2次雷屬性傷害^번개속성으로 2회 이상 적에게 피해를 줌^Infligez des dégâts de foudre à un ennemi à 2 reprises ou plus^Füge mind. 2 Mal Blitzschaden zu^Inflige daño de rayo a un enemigo 2 veces o más
 MST_CHALLENGE_NAME_112112022^Use black magic^使用「黑魔法」^'흑'마법을 사용해 완료^Utilisez la magie noire^Benutze Schwarzmagie^Usa magia negra
 MST_CHALLENGE_NAME_112112023^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_112112030^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
@@ -5921,7 +5921,7 @@ MST_CHALLENGE_NAME_92000012^Deal Earth Damage 3 times or more^對敵人造成至
 MST_CHALLENGE_NAME_92000013^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_92000020^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_92000021^Use a limit burst^使用極限技^LB를 사용해 완료^Utilisez une limite^Benutze einen Limitrausch^Utiliza un Estallido Límite
-MST_CHALLENGE_NAME_92000022^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu à 3 reprises ou plus^Füge mindestens 3 Mal Feuerschaden zu.^Inflige daño de fuego 3 o más veces
+MST_CHALLENGE_NAME_92000022^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu à 3 reprises ou plus^Füge mind. 3 Mal Feuerschaden zu^Inflige daño de fuego 3 o más veces
 MST_CHALLENGE_NAME_92000023^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_92000030^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_92000031^Evoke an Esper^召喚幻獸^환수를 소환해 완료^Appelez une chimère ^Rufe einen Esper^Evoca a un esper
@@ -6068,7 +6068,7 @@ MST_CHALLENGE_NAME_113107011^No items^不使用道具^아이템을 사용하지 
 MST_CHALLENGE_NAME_113107012^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_113107013^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_113107020^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
-MST_CHALLENGE_NAME_113107021^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge einem Gegner mind. 3 Mal Feuerschaden zu^Inflige daño de fuego 3 veces o más
+MST_CHALLENGE_NAME_113107021^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge mind. 3 Mal Feuerschaden zu^Inflige daño de fuego 3 veces o más
 MST_CHALLENGE_NAME_113107022^Use 2 or more limit bursts^使用至少2次極限技^LB를 2회 이상 사용^Utilisez 2 limites ou plus^Benutze mind. 2 Mal einen Limitrausch^Usa 2 Estallidos Límite o más
 MST_CHALLENGE_NAME_113107023^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_113107030^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
@@ -6302,7 +6302,7 @@ MST_CHALLENGE_NAME_76509053^Clear all stages in the area^完成區域內全部�
 MST_CHALLENGE_NAME_76510010^Use magic 4 or more times^使用至少4次魔法^마법을 4회 이상 사용^Utilisez la magie 4 fois ou plus^Benutze mind. 4 Mal Magie^Usa magia 4 veces o más
 MST_CHALLENGE_NAME_76510011^Use 2 or more limit bursts^使用至少2次極限技^LB를 2회 이상 사용^Utilisez 2 limites ou plus^Benutze mind. 2 Mal einen Limitrausch^Usa 2 Estallidos Límite o más
 MST_CHALLENGE_NAME_76510012^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
-MST_CHALLENGE_NAME_76510020^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge einem Gegner mind. 3 Mal Feuerschaden zu^Inflige daño de fuego 3 veces o más
+MST_CHALLENGE_NAME_76510020^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge mind. 3 Mal Feuerschaden zu^Inflige daño de fuego 3 veces o más
 MST_CHALLENGE_NAME_76510021^No magic^不使用魔法^모든 마법을 사용하지 않고 완료^Ne pas utiliser la magie^Keine Magie^No uses magia
 MST_CHALLENGE_NAME_76510022^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_76510030^Deal ice, water, and earth damage^對敵人造成冰・水・土屬性傷害^얼음·물·땅속성으로 적에게 피해를 줌^Infligez des dégâts de glace, d'eau et de terre^Füge einem Gegner Eis-, Wasser- und Erdschaden zu^Inflige daño de hielo, agua y tierra
@@ -6428,7 +6428,7 @@ MST_CHALLENGE_NAME_113113021^Deal ice and light damage 2 or more times each^對�
 MST_CHALLENGE_NAME_113113022^Use green magic^使用「綠魔法」^'녹'마법을 사용해 완료^Utilisez la magie verte^Benutze Grünmagie^Usa magia verde
 MST_CHALLENGE_NAME_113113023^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_113113030^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
-MST_CHALLENGE_NAME_113113031^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge einem Gegner mind. 3 Mal Feuerschaden zu^Inflige daño de fuego 3 veces o más
+MST_CHALLENGE_NAME_113113031^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge mind. 3 Mal Feuerschaden zu^Inflige daño de fuego 3 veces o más
 MST_CHALLENGE_NAME_113113032^No black magic^不使用「黑魔法」^'흑'마법을 사용하지 않고 완료^Ne pas utiliser la magie noire^Keine Schwarzmagie^No uses magia negra
 MST_CHALLENGE_NAME_113113033^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_113113040^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
@@ -6460,7 +6460,7 @@ MST_CHALLENGE_NAME_113115011^No items^不使用道具^아이템을 사용하지 
 MST_CHALLENGE_NAME_113115012^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_113115013^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_113115020^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
-MST_CHALLENGE_NAME_113115021^Deal lightning damage 2 or more times^對敵人造成至少2次雷屬性傷害^번개속성으로 2회 이상 적에게 피해를 줌^Infligez des dégâts de foudre à un ennemi à 2 reprises ou plus^Füge einem Gegner mindestens zweimal Blitzschaden zu^Inflige daño de rayo 2 veces o más
+MST_CHALLENGE_NAME_113115021^Deal lightning damage 2 or more times^對敵人造成至少2次雷屬性傷害^번개속성으로 2회 이상 적에게 피해를 줌^Infligez des dégâts de foudre à un ennemi à 2 reprises ou plus^Füge mind. 2 Mal Blitzschaden zu^Inflige daño de rayo 2 veces o más
 MST_CHALLENGE_NAME_113115022^No black magic^不使用「黑魔法」^'흑'마법을 사용하지 않고 완료^Ne pas utiliser la magie noire^Keine Schwarzmagie^No uses magia negra
 MST_CHALLENGE_NAME_113115023^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_113115030^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
@@ -6569,7 +6569,7 @@ MST_CHALLENGE_NAME_77003022^No continues^戰鬥時無全軍覆沒^이어하기 �
 MST_CHALLENGE_NAME_77003030^Deal earth damage^對敵人造成土屬性傷害^땅속성으로 적에게 피해를 줌^Infligez des dégâts de terre^Füge einem Gegner Erdschaden zu^Inflige daño de tierra
 MST_CHALLENGE_NAME_77003031^No recovery magic^不使用「恢復魔法」^'회복'마법을 사용하지 않고 완료^Ne pas utiliser de magie curative^Keine Heilmagie^No uses magia curativa
 MST_CHALLENGE_NAME_77003032^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
-MST_CHALLENGE_NAME_77003050^Deal lightning damage 2 or more times^對敵人造成至少2次雷屬性傷害^번개속성으로 2회 이상 적에게 피해를 줌^Infligez des dégâts de foudre à un ennemi à 2 reprises ou plus^Füge einem Gegner mindestens zweimal Blitzschaden zu^Inflige daño de rayo 2 veces o más
+MST_CHALLENGE_NAME_77003050^Deal lightning damage 2 or more times^對敵人造成至少2次雷屬性傷害^번개속성으로 2회 이상 적에게 피해를 줌^Infligez des dégâts de foudre à un ennemi à 2 reprises ou plus^Füge mind. 2 Mal Blitzschaden zu^Inflige daño de rayo 2 veces o más
 MST_CHALLENGE_NAME_77003051^Use black magic^使用「黑魔法」^'흑'마법을 사용해 완료^Utilisez la magie noire^Benutze Schwarzmagie^Usa magia negra
 MST_CHALLENGE_NAME_77003052^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_77003060^Use 2 or more limit bursts^使用至少2次極限技^LB를 2회 이상 사용^Utilisez 2 limites ou plus^Benutze mind. 2 Mal einen Limitrausch^Usa 2 Estallidos Límite o más
@@ -6744,7 +6744,7 @@ MST_CHALLENGE_NAME_114251051^No limit bursts^不使用極限技^LB를 사용하�
 MST_CHALLENGE_NAME_114251052^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_114251053^Party of 5 or less (Companion included)^隊伍人數最多5人（包括同行者）^파티 인원수 5명 이하(동행자 포함)^Groupe de 5 ou moins (partenaire inclus)^Gruppe von höchstens 5 (einschl. Begleiter)^Grupo de 5 o menos (compañero incluido)
 MST_CHALLENGE_NAME_114251060^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
-MST_CHALLENGE_NAME_114251061^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge einem Gegner mind. 3 Mal Feuerschaden zu^Inflige daño de fuego 3 veces o más
+MST_CHALLENGE_NAME_114251061^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge mind. 3 Mal Feuerschaden zu^Inflige daño de fuego 3 veces o más
 MST_CHALLENGE_NAME_114251062^Evoke an esper^召喚幻獸^환수를 소환해 완료^Appelez une chimère^Rufe einen Esper^Evoca a un esper
 MST_CHALLENGE_NAME_114251063^Defeat Phoenix with a limit burst^使用極限技終結「地獄鳳凰」^'피닉스'를 LB로 처치^Terrassez Phénix avec une limite^Besiege Phönix mit einem Limitrausch^Derrota a Fénix con un EL
 MST_CHALLENGE_NAME_11355070^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
@@ -6772,7 +6772,7 @@ MST_CHALLENGE_NAME_114101031^Use 2 or more limit bursts^使用至少2次極限�
 MST_CHALLENGE_NAME_114101032^Use green magic^使用「綠魔法」^'녹'마법을 사용해 완료^Utilisez la magie verte^Benutze Grünmagie^Usa magia verde
 MST_CHALLENGE_NAME_114101033^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_114101040^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
-MST_CHALLENGE_NAME_114101041^Deal lightning damage 2 or more times^對敵人造成至少2次雷屬性傷害^번개속성으로 2회 이상 적에게 피해를 줌^Infligez des dégâts de foudre à un ennemi à 2 reprises ou plus^Füge einem Gegner mindestens zweimal Blitzschaden zu^Inflige daño de rayo 2 veces o más
+MST_CHALLENGE_NAME_114101041^Deal lightning damage 2 or more times^對敵人造成至少2次雷屬性傷害^번개속성으로 2회 이상 적에게 피해를 줌^Infligez des dégâts de foudre à un ennemi à 2 reprises ou plus^Füge mind. 2 Mal Blitzschaden zu^Inflige daño de rayo 2 veces o más
 MST_CHALLENGE_NAME_114101042^Defeat Kaimu within 3 turns^在3回合以內終結「凱姆鳥」戰^'카이무' 전투 3턴 이내에 완료^Terrassez Kaimu en 3 tours max.^Besiege Kaimu innerhalb von 3 Runden^Derrota a Kaimu en 3 turnos o menos
 MST_CHALLENGE_NAME_114101043^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_114201010^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
@@ -6800,7 +6800,7 @@ MST_CHALLENGE_NAME_114203021^Use a limit burst^使用極限技^LB를 사용해 �
 MST_CHALLENGE_NAME_114203022^No recovery magic^不使用「恢復魔法」^'회복'마법을 사용하지 않고 완료^Ne pas utiliser de magie curative^Keine Heilmagie^No uses magia curativa
 MST_CHALLENGE_NAME_114203023^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_114203030^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
-MST_CHALLENGE_NAME_114203031^Deal lightning damage 2 or more times^對敵人造成至少2次雷屬性傷害^번개속성으로 2회 이상 적에게 피해를 줌^Infligez des dégâts de foudre à un ennemi à 2 reprises ou plus^Füge einem Gegner mindestens zweimal Blitzschaden zu^Inflige daño de rayo 2 veces o más
+MST_CHALLENGE_NAME_114203031^Deal lightning damage 2 or more times^對敵人造成至少2次雷屬性傷害^번개속성으로 2회 이상 적에게 피해를 줌^Infligez des dégâts de foudre à un ennemi à 2 reprises ou plus^Füge mind. 2 Mal Blitzschaden zu^Inflige daño de rayo 2 veces o más
 MST_CHALLENGE_NAME_114203032^Use white magic^使用「白魔法」^'백'마법을 사용해 완료^Utilisez la magie blanche^Benutze Weißmagie^Usa magia blanca
 MST_CHALLENGE_NAME_114203033^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_114203040^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
@@ -6832,7 +6832,7 @@ MST_CHALLENGE_NAME_114205021^Use magic 3 or more times^使用至少3次魔法^�
 MST_CHALLENGE_NAME_114205022^Use black magic^使用「黑魔法」^'흑'마법을 사용해 완료^Utilisez la magie noire^Benutze Schwarzmagie^Usa magia negra
 MST_CHALLENGE_NAME_114205023^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_114205030^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
-MST_CHALLENGE_NAME_114205031^Deal lightning damage 2 or more times^對敵人造成至少2次雷屬性傷害^번개속성으로 2회 이상 적에게 피해를 줌^Infligez des dégâts de foudre à un ennemi à 2 reprises ou plus^Füge einem Gegner mindestens zweimal Blitzschaden zu^Inflige daño de rayo 2 veces o más
+MST_CHALLENGE_NAME_114205031^Deal lightning damage 2 or more times^對敵人造成至少2次雷屬性傷害^번개속성으로 2회 이상 적에게 피해를 줌^Infligez des dégâts de foudre à un ennemi à 2 reprises ou plus^Füge mind. 2 Mal Blitzschaden zu^Inflige daño de rayo 2 veces o más
 MST_CHALLENGE_NAME_114205032^Use white magic^使用「白魔法」^'백'마법을 사용해 완료^Utilisez la magie blanche^Benutze Weißmagie^Usa magia blanca
 MST_CHALLENGE_NAME_114205033^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_114205040^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
@@ -7031,7 +7031,7 @@ MST_CHALLENGE_NAME_77506060^Deal ice and lightning damage^對敵人造成冰・�
 MST_CHALLENGE_NAME_77506061^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_77506062^Defeat the terror steed within 5 turns^在5回合以內終結「恐怖戰馬」戰^'공포의 군마' 전투 5턴 이내에 완료^Terrassez l'Étalon terrifiant en 5 tours max.^Besiege Terrormähre innerhalb von 5 Runden^Derrota al corcel terrorífico en 5 turnos o menos
 MST_CHALLENGE_NAME_77506063^Clear all stages in the area^完成區域內全部關卡^구역 내 모든 스테이지 완료^Terminez tous les niveaux de la zone^Schließe alle Abschnitte im Gebiet ab^Completa todas las misiones del área
-MST_CHALLENGE_NAME_77507020^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge einem Gegner mind. 3 Mal Feuerschaden zu^Inflige daño de fuego 3 veces o más
+MST_CHALLENGE_NAME_77507020^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge mind. 3 Mal Feuerschaden zu^Inflige daño de fuego 3 veces o más
 MST_CHALLENGE_NAME_77507021^No items^不使用道具^아이템을 사용하지 않고 완료^Ne pas utiliser d'objets^Keine Gegenstände^No uses objetos
 MST_CHALLENGE_NAME_77507022^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_77507030^Activate an element chain 2 times or more in 1 turn^1回合內發動至少2次ELEMENT CHAIN^ELEMENT CHAIN을 1턴에 2회 이상 발생^Effectuez un combo élémentaire au moins 2 fois en 1 tour^Aktiviere in einer Runde mind. 2 Mal eine Elementarkette^Activa un combo elemental 2 veces o más en un turno
@@ -7056,7 +7056,7 @@ MST_CHALLENGE_NAME_77508032^No continues^戰鬥時無全軍覆沒^이어하기 �
 MST_CHALLENGE_NAME_77508040^Use 3 or more limit bursts^使用至少3次極限技^LB를 3회 이상 사용^Utilisez 3 limites ou plus^Benutze mind. 3 Mal einen Limitrausch^Usa Estallido Límite 3 veces o más
 MST_CHALLENGE_NAME_77508041^Use magic 2 or more times^使用至少2次魔法^마법을 2회 이상 사용^Utilisez la magie à deux reprises ou plus^Benutze mind. 2 Mal Magie^Usa magia 2 veces o más
 MST_CHALLENGE_NAME_77508042^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
-MST_CHALLENGE_NAME_77508050^Deal fire and light damage 3 times or more each^對敵人造成至少3次火・光屬性傷害^불·빛속성으로 각 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu et de foudre à 3 reprises ou plus de chaque^Füge einem Gegner jeweils mind. 3 Mal Feuer- und Lichtschaden zu^Inflige daño de fuego y luz 3 veces o más
+MST_CHALLENGE_NAME_77508050^Deal fire and light damage 3 times or more each^對敵人造成至少3次火・光屬性傷害^불·빛속성으로 각 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu et de foudre à 3 reprises ou plus de chaque^Füge jeweils mind. 3 Mal Feuer- und Lichtschaden zu^Inflige daño de fuego y luz 3 veces o más
 MST_CHALLENGE_NAME_77508051^Evoke an esper^召喚幻獸^환수를 소환해 완료^Appelez une chimère^Rufe einen Esper^Evoca a un esper
 MST_CHALLENGE_NAME_77508052^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_77508070^Activate an element chain 2 times or more in 1 turn^1回合內發動至少2次ELEMENT CHAIN^ELEMENT CHAIN을 1턴에 2회 이상 발생^Effectuez un combo élémentaire au moins 2 fois en 1 tour^Aktiviere in einer Runde mind. 2 Mal eine Elementarkette^Activa un combo elemental 2 veces o más en un turno
@@ -7474,7 +7474,7 @@ MST_CHALLENGE_NAME_78004073^Clear all stages in the area^完成區域內全部�
 MST_CHALLENGE_NAME_78005020^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_78005021^No items^不使用道具^아이템을 사용하지 않고 완료^Ne pas utiliser d'objets^Keine Gegenstände^No uses objetos
 MST_CHALLENGE_NAME_78005022^Use magic 2 or more times^使用至少2次魔法^마법을 2회 이상 사용^Utilisez la magie à deux reprises ou plus^Benutze mind. 2 Mal Magie^Usa magia 2 veces o más
-MST_CHALLENGE_NAME_78005030^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge einem Gegner mind. 3 Mal Feuerschaden zu^Inflige daño de fuego 3 veces o más
+MST_CHALLENGE_NAME_78005030^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge mind. 3 Mal Feuerschaden zu^Inflige daño de fuego 3 veces o más
 MST_CHALLENGE_NAME_78005031^No limit bursts^不使用極限技^LB를 사용하지 않고 완료^Ne pas utiliser de limite^Kein Limitrausch^No uses Estallido Límite
 MST_CHALLENGE_NAME_78005032^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_78005040^Use 2 or more limit bursts^使用至少2次極限技^LB를 2회 이상 사용^Utilisez 2 limites ou plus^Benutze mind. 2 Mal einen Limitrausch^Usa 2 Estallidos Límite o más
@@ -7537,7 +7537,7 @@ MST_CHALLENGE_NAME_78008062^Defeat elite heavy gunner with an esper^使用幻獸
 MST_CHALLENGE_NAME_78008063^Clear all stages in the area^完成區域內全部關卡^구역 내 모든 스테이지 완료^Terminez tous les niveaux de la zone^Schließe alle Abschnitte im Gebiet ab^Completa todas las misiones del área
 MST_CHALLENGE_NAME_78009010^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_78009011^Use a limit burst^使用極限技^LB를 사용해 완료^Utilisez une limite^Benutze einen Limitrausch^Usa un Estallido Límite
-MST_CHALLENGE_NAME_78009012^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge einem Gegner mind. 3 Mal Feuerschaden zu^Inflige daño de fuego 3 veces o más
+MST_CHALLENGE_NAME_78009012^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge mind. 3 Mal Feuerschaden zu^Inflige daño de fuego 3 veces o más
 MST_CHALLENGE_NAME_78009020^Activate an element chain 3 times or more in 1 turn^1回合內發動至少3次ELEMENT CHAIN^ELEMENT CHAIN을 1턴에 3회 이상 발생^Effectuez un combo élémentaire au moins 3 fois en 1 tour^Aktiviere in einer Runde mind. 3 Mal eine Elementarkette^Activa un combo elemental 3 veces o más en un turno
 MST_CHALLENGE_NAME_78009021^No recovery magic^不使用「恢復魔法」^'회복'마법을 사용하지 않고 완료^Ne pas utiliser de magie curative^Keine Heilmagie^No uses magia curativa
 MST_CHALLENGE_NAME_78009022^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
@@ -7901,7 +7901,7 @@ MST_CHALLENGE_NAME_40205162^Clear without an ally being KO'd^戰鬥時無隊員�
 MST_CHALLENGE_NAME_40205163^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_40205180^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_40205181^Use bright shower^使用「耀眼光雨」^'내리쬐는 빛'을 사용하여 완료^Utilisez Pluie de lumière^Benutze Heiße Dusche^Usa Lluvia brillante
-MST_CHALLENGE_NAME_40205182^No arcane magics^不使用「究極魔法」^'궁극의 마법'을 사용하지 않고 완료^Ne pas utiliser de magie d'arcane^Keine Ultimative Magie^Usa Magia arcana
+MST_CHALLENGE_NAME_40205182^No arcane magics^不使用「究極魔法」^'궁극의 마법'을 사용하지 않고 완료^Ne pas utiliser de magie d'arcane^Keine Ultimative Magie^No uses Magia arcana
 MST_CHALLENGE_NAME_40205183^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_78501020^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_78501021^No items^不使用道具^아이템을 사용하지 않고 완료^Ne pas utiliser d'objets^Keine Gegenstände^No uses objetos
@@ -7973,10 +7973,10 @@ MST_CHALLENGE_NAME_78505022^Use magic 3 or more times^使用至少3次魔法^마
 MST_CHALLENGE_NAME_78505030^Use 2 or more limit bursts^使用至少2次極限技^LB를 2회 이상 사용^Utilisez 2 limites ou plus^Benutze mind. 2 Mal einen Limitrausch^Usa 2 Estallidos Límite o más
 MST_CHALLENGE_NAME_78505031^No magic^不使用魔法^모든 마법을 사용하지 않고 완료^Ne pas utiliser la magie^Keine Magie^No uses magia
 MST_CHALLENGE_NAME_78505032^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
-MST_CHALLENGE_NAME_78505040^Deal light and wind damage^對敵人造成風・光屬性傷害^바람·빛속성으로 적에게 피해를 줌^Infligez des dégâts de lumière et de vent à un ennemi^Füge einem Gegner Licht- und Windschaden zu.^Inflige daño de luz y viento
+MST_CHALLENGE_NAME_78505040^Deal light and wind damage^對敵人造成風・光屬性傷害^바람·빛속성으로 적에게 피해를 줌^Infligez des dégâts de lumière et de vent à un ennemi^Füge Licht- und Windschaden zu.^Inflige daño de luz y viento
 MST_CHALLENGE_NAME_78505041^Get a chain of 6 or more in 1 turn^1回合內發動至少6CHAIN^1턴에 6CHAIN 이상 발생하여 완료^Effectuez un combo de 6 coups ou plus en un tour^Erreiche in einer Runde eine Kette von mind. 6^Realiza un combo de 6 o más golpes en un turno
 MST_CHALLENGE_NAME_78505042^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
-MST_CHALLENGE_NAME_78505050^Deal lightning damage 2 or more times^對敵人造成至少2次雷屬性傷害^번개속성으로 2회 이상 적에게 피해를 줌^Infligez des dégâts de foudre à un ennemi à 2 reprises ou plus^Füge einem Gegner mindestens zweimal Blitzschaden zu^Inflige daño de rayo 2 veces o más
+MST_CHALLENGE_NAME_78505050^Deal lightning damage 2 or more times^對敵人造成至少2次雷屬性傷害^번개속성으로 2회 이상 적에게 피해를 줌^Infligez des dégâts de foudre à un ennemi à 2 reprises ou plus^Füge mind. 2 Mal Blitzschaden zu^Inflige daño de rayo 2 veces o más
 MST_CHALLENGE_NAME_78505051^No recovery magic^不使用「恢復魔法」^'회복'마법을 사용하지 않고 완료^Ne pas utiliser de magie curative^Keine Heilmagie^No uses magia curativa
 MST_CHALLENGE_NAME_78505052^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_78505060^Evoke Ifrit^召喚「伊弗利特」^이프리트를 소환하여 완료^Appelez Ifrit^Rufe Ifrit^Evoca a Ifrit
@@ -7992,7 +7992,7 @@ MST_CHALLENGE_NAME_78506032^No continues^戰鬥時無全軍覆沒^이어하기 �
 MST_CHALLENGE_NAME_78506040^Deal fire and light damage 2 times or more each^對敵人造成至少2次火・光屬性傷害^불·빛속성으로 각 2회 이상 적에게 피해를 줌^Inflige des dég de feu et de lum 2 fois ou plus de chaque^Füge jeweils mind. 2 Mal Feuer- und Lichtschaden zu^Inflige daño de fuego y luz 2 veces o más
 MST_CHALLENGE_NAME_78506041^No recovery magic^不使用「恢復魔法」^'회복'마법을 사용하지 않고 완료^Ne pas utiliser de magie curative^Keine Heilmagie^No uses magia curativa
 MST_CHALLENGE_NAME_78506042^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
-MST_CHALLENGE_NAME_78506050^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge einem Gegner mind. 3 Mal Feuerschaden zu^Inflige daño de fuego 3 veces o más
+MST_CHALLENGE_NAME_78506050^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge mind. 3 Mal Feuerschaden zu^Inflige daño de fuego 3 veces o más
 MST_CHALLENGE_NAME_78506051^Evoke an esper^召喚幻獸^환수를 소환해 완료^Appelez une chimère^Rufe einen Esper^Evoca a un esper
 MST_CHALLENGE_NAME_78506052^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_78506060^Get a chain of 7 or more in 1 turn^1回合內發動至少7CHAIN^1턴에 7CHAIN 이상 발생하여 완료^Effectuez un combo de 7 coups ou plus en un tour^Erreiche in einer Runde eine Kette von mind. 7^Realiza un combo de 7 o más golpes en un turno
@@ -8018,13 +8018,13 @@ MST_CHALLENGE_NAME_78507063^Clear all stages in the area^完成區域內全部�
 MST_CHALLENGE_NAME_78508020^Raegen in party (Companion included)^隊伍中帶有「雷根」（包括同行者）^레겐을 파티에 편성(동행자 포함)^Raegen dans le groupe (partenaire inclus)^Raegen in der Gruppe (einschl. Begleiter)^Raegen en el grupo (compañero incluido)
 MST_CHALLENGE_NAME_78508021^No magic^不使用魔法^모든 마법을 사용하지 않고 완료^Ne pas utiliser la magie^Keine Magie^No uses magia
 MST_CHALLENGE_NAME_78508022^Deal lightning damage^對敵人造成雷屬性傷害^번개속성으로 적에게 피해를 줌^Infligez des dégâts de foudre à un ennemi^Füge einem Gegner Blitzschaden zu^Inflige daño de rayo
-MST_CHALLENGE_NAME_78508030^Deal fire, ice, or earth damage^對敵人造成火・冰・土屬性傷害^불·얼음·땅속성으로 적에게 피해를 줌^Infligez des dégâts de feu, de glace ou de terre^Füge einem Gegner Feuer-, Eis- und Erdschaden zu^Inflige daño de fuego, hielo o tierra
+MST_CHALLENGE_NAME_78508030^Deal fire, ice, and earth damage^對敵人造成火・冰・土屬性傷害^불·얼음·땅속성으로 적에게 피해를 줌^Infligez des dégâts de feu, de glace et de terre^Füge Feuer-, Eis- und Erdschaden zu^Inflige daño de fuego, hielo y tierra
 MST_CHALLENGE_NAME_78508031^Activate an element chain 2 times or more in 1 turn^1回合內發動至少2次ELEMENT CHAIN^ELEMENT CHAIN을 1턴에 2회 이상 발생^Effectuez un combo élémentaire au moins 2 fois en 1 tour^Aktiviere in einer Runde mind. 2 Mal eine Elementarkette^Activa un combo elemental 2 veces o más en un turno
 MST_CHALLENGE_NAME_78508032^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_78508040^Use 4 or more limit bursts^使用至少4次極限技^LB를 4회 이상 사용^Utilisez 4 limites ou plus^Benutze mind. 4 Mal einen Limitrausch^Usa 4 Estallidos Límite o más
 MST_CHALLENGE_NAME_78508041^No items^不使用道具^아이템을 사용하지 않고 완료^Ne pas utiliser d'objets^Keine Gegenstände^No uses objetos
 MST_CHALLENGE_NAME_78508042^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
-MST_CHALLENGE_NAME_78508050^Deal fire and light damage 3 times or more each^對敵人造成至少3次火・光屬性傷害^불·빛속성으로 각 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu et de lumière à 3 reprises ou plus de chaque^Füge einem Gegner jeweils mind. 3 Mal Feuer- und Lichtschaden zu^Inflige daño de fuego y luz 3 veces o más
+MST_CHALLENGE_NAME_78508050^Deal fire and light damage 3 times or more each^對敵人造成至少3次火・光屬性傷害^불·빛속성으로 각 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu et de lumière à 3 reprises ou plus de chaque^Füge jeweils mind. 3 Mal Feuer- und Lichtschaden zu^Inflige daño de fuego y luz 3 veces o más
 MST_CHALLENGE_NAME_78508051^No recovery magic^不使用「恢復魔法」^'회복'마법을 사용하지 않고 완료^Ne pas utiliser de magie curative^Keine Heilmagie^No uses magia curativa
 MST_CHALLENGE_NAME_78508052^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_78508070^Activate an element chain 3 times or more in 1 turn^1回合內發動至少3次ELEMENT CHAIN^ELEMENT CHAIN을 1턴에 3회 이상 발생^Effectuez un combo élémentaire au moins 3 fois en 1 tour^Aktiviere in einer Runde mind. 3 Mal eine Elementarkette^Activa un combo elemental 3 veces o más en un turno
@@ -8033,7 +8033,7 @@ MST_CHALLENGE_NAME_78508072^Defeat the mutated ochu with an esper^使用幻獸�
 MST_CHALLENGE_NAME_78508073^Clear all stages in the area^完成區域內全部關卡^구역 내 모든 스테이지 완료^Terminez tous les niveaux de la zone^Schließe alle Abschnitte im Gebiet ab^Completa todas las misiones del área
 MST_CHALLENGE_NAME_78509010^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_78509011^Use a limit burst^使用極限技^LB를 사용해 완료^Utilisez une limite^Benutze einen Limitrausch^Usa un Estallido Límite
-MST_CHALLENGE_NAME_78509012^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge einem Gegner mind. 3 Mal Feuerschaden zu^Inflige daño de fuego 3 veces o más
+MST_CHALLENGE_NAME_78509012^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge mind. 3 Mal Feuerschaden zu^Inflige daño de fuego 3 veces o más
 MST_CHALLENGE_NAME_78509020^Activate an element chain 3 times or more in 1 turn^1回合內發動至少3次ELEMENT CHAIN^ELEMENT CHAIN을 1턴에 3회 이상 발생^Effectuez un combo élémentaire au moins 3 fois en 1 tour^Aktiviere in einer Runde mind. 3 Mal eine Elementarkette^Activa un combo elemental 3 veces o más en un turno
 MST_CHALLENGE_NAME_78509021^No recovery magic^不使用「恢復魔法」^'회복'마법을 사용하지 않고 완료^Ne pas utiliser de magie curative^Keine Heilmagie^No uses magia curativa
 MST_CHALLENGE_NAME_78509022^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
@@ -8087,7 +8087,7 @@ MST_CHALLENGE_NAME_78514012^Get a chain of 5 or more in 1 turn^1回合內發動�
 MST_CHALLENGE_NAME_78514020^No magic^不使用魔法^모든 마법을 사용하지 않고 완료^Ne pas utiliser la magie^Keine Magie^No uses magia
 MST_CHALLENGE_NAME_78514021^Deal lightning damage 3 times or more^對敵人造成至少3次雷屬性傷害^번개속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de foudre 3 fois ou plus^Füge einem Gegner mind. 3 Mal Blitzschaden zu^Inflige daño de rayo 3 veces o más
 MST_CHALLENGE_NAME_78514022^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
-MST_CHALLENGE_NAME_78514030^Deal fire, water, or light damage^對敵人造成火・水・光屬性傷害^불·물·빛속성으로 적에게 피해를 줌^Infligez des dégâts de feu, de feu ou de lumière^Füge einem Gegner Feuer-, Wasser-, und Lichtschaden zu^Inflige daño de fuego, agua o luz
+MST_CHALLENGE_NAME_78514030^Deal fire, water, and light damage^對敵人造成火・水・光屬性傷害^불·물·빛속성으로 적에게 피해를 줌^Infligez des dégâts de feu, de feu et de lumière^Füge einem Gegner Feuer-, Wasser-, und Lichtschaden zu^Inflige daño de fuego, agua y luz
 MST_CHALLENGE_NAME_78514031^No items^不使用道具^아이템을 사용하지 않고 완료^Ne pas utiliser d'objets^Keine Gegenstände^No uses objetos
 MST_CHALLENGE_NAME_78514032^Defeat calixte with a limit burst^使用極限技終結「卡利斯特」^'칼리스트'를 LB로 처치^Terrassez Calixte avec une limite^Besiege Calixte mit einem Limitrausch^Derrota al calixte con un EL
 MST_CHALLENGE_NAME_78514033^Clear all stages in the area^完成區域內全部關卡^구역 내 모든 스테이지 완료^Terminez tous les niveaux de la zone^Schließe alle Abschnitte im Gebiet ab^Completa todas las misiones del área
@@ -8114,7 +8114,7 @@ MST_CHALLENGE_NAME_78516033^Clear all stages in the area^完成區域內全部�
 MST_CHALLENGE_NAME_75601070^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_75601071^Use a limit burst^使用極限技^LB를 사용해 완료^Utilisez une limite^Benutze einen Limitrausch^Usa un Estallido Límite
 MST_CHALLENGE_NAME_75601072^Use soul blazer^使用「靈魂燃燒物」^'소울 블레이저'을 사용하여 완료^Utilisez Âme de braise^Benutze Seelenglut^Usa Prendealmas
-MST_CHALLENGE_NAME_75601073^Use akeaonoken^使用「緋蒼之劍」^'비창의 검'을사용하여 완료^Utilisez Akeaonoken^Benutze Purpurazurklingen^Usa Akeaonoken
+MST_CHALLENGE_NAME_75601073^Use blades of azure crimson^使用「緋蒼之劍」^'비창의 검'을 사용하여 완료^Utilisez Lames azur carmin ^Benutze Purpurazurklingen^Usa Hojas azul enrojecido
 MST_CHALLENGE_NAME_89801130^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_89801131^No limit bursts^不使用極限技^LB를 사용하지 않고 완료^Ne pas utiliser de limite^Kein Limitrausch^No uses Estallido Límite
 MST_CHALLENGE_NAME_89801132^No espers^不使用召喚幻獸^환수를 소환하지 않고 완료^Ne pas utiliser de chimères^Keine Esper^No uses espers
@@ -8437,7 +8437,7 @@ MST_CHALLENGE_NAME_89954012^Use black magic^使用「黑魔法」^'흑'마법을
 MST_CHALLENGE_NAME_89954013^Deal lightning damage^對敵人造成雷屬性傷害^번개속성으로 적에게 피해를 줌^Infligez des dégâts de foudre à un ennemi^Füge einem Gegner Blitzschaden zu^Inflige daño de rayo
 MST_CHALLENGE_NAME_89954020^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_89954021^Use no more than 6 items^^^^^
-MST_CHALLENGE_NAME_89954022^Deal lightning damage 2 or more times^對敵人造成至少2次雷屬性傷害^번개속성으로 2회 이상 적에게 피해를 줌^Infligez des dégâts de foudre à un ennemi à 2 reprises ou plus^Füge einem Gegner mindestens zweimal Blitzschaden zu^Inflige daño de rayo 2 veces o más
+MST_CHALLENGE_NAME_89954022^Deal lightning damage 2 or more times^對敵人造成至少2次雷屬性傷害^번개속성으로 2회 이상 적에게 피해를 줌^Infligez des dégâts de foudre à un ennemi à 2 reprises ou plus^Füge mind. 2 Mal Blitzschaden zu^Inflige daño de rayo 2 veces o más
 MST_CHALLENGE_NAME_89954023^Use a limit burst^使用極限技^LB를 사용해 완료^Utilisez une limite^Benutze einen Limitrausch^Usa un Estallido Límite
 MST_CHALLENGE_NAME_89954030^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_89954031^Use no more than 3 items^使用道具次數在3次以內^아이템 사용 횟수 3회 이내^N'utilisez pas plus de 3 objets^Benutze höchstens 3 Gegenstände^Usa 3 objetos o menos
@@ -8585,7 +8585,7 @@ MST_CHALLENGE_NAME_79107022^Clear without an ally being KO'd^戰鬥時無隊員�
 MST_CHALLENGE_NAME_79107030^Use 2 or more limit bursts^使用至少2次極限技^LB를 2회 이상 사용^Utilisez 2 limites ou plus^Benutze mind. 2 Mal einen Limitrausch^Usa 2 Estallidos Límite o más
 MST_CHALLENGE_NAME_79107031^Activate an element chain 2 times or more in 1 turn^^^^^
 MST_CHALLENGE_NAME_79107032^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
-MST_CHALLENGE_NAME_79107040^Deal lightning damage 2 or more times^對敵人造成至少2次雷屬性傷害^번개속성으로 2회 이상 적에게 피해를 줌^Infligez des dégâts de foudre à un ennemi à 2 reprises ou plus^Füge einem Gegner mindestens zweimal Blitzschaden zu^Inflige daño de rayo 2 veces o más
+MST_CHALLENGE_NAME_79107040^Deal lightning damage 2 or more times^對敵人造成至少2次雷屬性傷害^번개속성으로 2회 이상 적에게 피해를 줌^Infligez des dégâts de foudre à un ennemi à 2 reprises ou plus^Füge mind. 2 Mal Blitzschaden zu^Inflige daño de rayo 2 veces o más
 MST_CHALLENGE_NAME_79107041^No magic^^^^^
 MST_CHALLENGE_NAME_79107042^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_79107050^Use 3 or more limit bursts^^^^^
@@ -8613,7 +8613,7 @@ MST_CHALLENGE_NAME_79108072^Defeat harpalyce with an esper^^^^^
 MST_CHALLENGE_NAME_79108073^Clear all stages in the area^完成區域內全部關卡^구역 내 모든 스테이지 완료^Terminez tous les niveaux de la zone^Schließe alle Abschnitte des Gebietes ab^Completa todas las misiones del área
 MST_CHALLENGE_NAME_79109010^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_79109011^Use a limit burst^使用極限技^LB를 사용해 완료^Utilisez une limite^Benutze einen Limitrausch^Usa un Estallido Límite
-MST_CHALLENGE_NAME_79109012^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge einem Gegner mind. 3 Mal Feuerschaden zu^Inflige daño de fuego 3 veces o más
+MST_CHALLENGE_NAME_79109012^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge mind. 3 Mal Feuerschaden zu^Inflige daño de fuego 3 veces o más
 MST_CHALLENGE_NAME_79109020^Activate an element chain 3 times or more in 1 turn^^^^^
 MST_CHALLENGE_NAME_79109021^No recovery magic^^^^^
 MST_CHALLENGE_NAME_79109022^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
@@ -8745,7 +8745,7 @@ MST_CHALLENGE_NAME_115102022^Activate an element chain 2 times or more in 1 turn
 MST_CHALLENGE_NAME_115102023^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_115102030^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_115102031^No magic^^^^^
-MST_CHALLENGE_NAME_115102032^Deal lightning damage 2 or more times^對敵人造成至少2次雷屬性傷害^번개속성으로 2회 이상 적에게 피해를 줌^Infligez des dégâts de foudre à un ennemi à 2 reprises ou plus^Füge einem Gegner mindestens zweimal Blitzschaden zu^Inflige daño de rayo 2 veces o más
+MST_CHALLENGE_NAME_115102032^Deal lightning damage 2 or more times^對敵人造成至少2次雷屬性傷害^번개속성으로 2회 이상 적에게 피해를 줌^Infligez des dégâts de foudre à un ennemi à 2 reprises ou plus^Füge mind. 2 Mal Blitzschaden zu^Inflige daño de rayo 2 veces o más
 MST_CHALLENGE_NAME_115102033^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_115102040^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_115102041^Use 2 or more limit bursts^使用至少2次極限技^LB를 2회 이상 사용^Utilisez 2 limites ou plus^Benutze mind. 2 Mal einen Limitrausch^Usa 2 Estallidos Límite o más
@@ -8837,7 +8837,7 @@ MST_CHALLENGE_NAME_115107032^No recovery magic^^^^^
 MST_CHALLENGE_NAME_115107033^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_115107040^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_115107041^Use 3 or more limit bursts^^^^^
-MST_CHALLENGE_NAME_115107042^Deal lightning damage 2 or more times^對敵人造成至少2次雷屬性傷害^번개속성으로 2회 이상 적에게 피해를 줌^Infligez des dégâts de foudre à un ennemi à 2 reprises ou plus^Füge einem Gegner mindestens zweimal Blitzschaden zu^Inflige daño de rayo 2 veces o más
+MST_CHALLENGE_NAME_115107042^Deal lightning damage 2 or more times^對敵人造成至少2次雷屬性傷害^번개속성으로 2회 이상 적에게 피해를 줌^Infligez des dégâts de foudre à un ennemi à 2 reprises ou plus^Füge mind. 2 Mal Blitzschaden zu^Inflige daño de rayo 2 veces o más
 MST_CHALLENGE_NAME_115107043^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_115107050^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_115107051^Activate an element chain 4 times or more in 1 turn^^^^^
@@ -8958,12 +8958,12 @@ MST_CHALLENGE_NAME_79604050^Use 2 or more limit bursts^使用至少2次極限技
 MST_CHALLENGE_NAME_79604051^Deal ice damage 3 times or more^^^^^
 MST_CHALLENGE_NAME_79604052^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_79604060^Evoke Golem^召喚「巨像兵」^'골렘'을 소환해 완료^Appelez Golem^Beschwöre Golem^Evoca a Gólem
-MST_CHALLENGE_NAME_79604061^Deal fire, ice, or earth damage^^^^^
+MST_CHALLENGE_NAME_79604061^Deal fire, ice, or earth damage^^^^Füge Feuer-, Eis- und Erdschaden zu^
 MST_CHALLENGE_NAME_79604062^Defeat the thunderous swordsman^^^^^
 MST_CHALLENGE_NAME_79604063^Clear all stages in the area^^^^^
 MST_CHALLENGE_NAME_79605020^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_79605021^No items^不使用道具^아이템을 사용하지 않고 완료^Ne pas utiliser d'objets^Keine Gegenstände^No uses objetos
-MST_CHALLENGE_NAME_79605022^Deal lightning damage 2 or more times^對敵人造成至少2次雷屬性傷害^번개속성으로 2회 이상 적에게 피해를 줌^Infligez des dégâts de foudre à un ennemi à 2 reprises ou plus^Füge einem Gegner mindestens zweimal Blitzschaden zu^Inflige daño de rayo 2 veces o más
+MST_CHALLENGE_NAME_79605022^Deal lightning damage 2 or more times^對敵人造成至少2次雷屬性傷害^번개속성으로 2회 이상 적에게 피해를 줌^Infligez des dégâts de foudre à un ennemi à 2 reprises ou plus^Füge mind. 2 Mal Blitzschaden zu^Inflige daño de rayo 2 veces o más
 MST_CHALLENGE_NAME_79605030^No magic^^^^^
 MST_CHALLENGE_NAME_79605031^Activate an element chain 3 times or more in 1 turn^^^^^
 MST_CHALLENGE_NAME_79605032^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
@@ -9037,7 +9037,7 @@ MST_CHALLENGE_NAME_79609032^Defeat the intangir with a limit burst^^^^^
 MST_CHALLENGE_NAME_79609033^Clear all stages in the area^^^^^
 MST_CHALLENGE_NAME_79610010^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_79610011^Use a limit burst^使用極限技^LB를 사용해 완료^Utilisez une limite^Benutze einen Limitrausch^Usa un Estallido Límite
-MST_CHALLENGE_NAME_79610012^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge einem Gegner mind. 3 Mal Feuerschaden zu^Inflige daño de fuego 3 veces o más
+MST_CHALLENGE_NAME_79610012^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge mind. 3 Mal Feuerschaden zu^Inflige daño de fuego 3 veces o más
 MST_CHALLENGE_NAME_79610020^Activate an element chain 3 times or more in 1 turn^^^^^
 MST_CHALLENGE_NAME_79610021^No recovery magic^^^^^
 MST_CHALLENGE_NAME_79610022^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
@@ -9220,7 +9220,7 @@ MST_CHALLENGE_NAME_115108021^Deal lightning and water damage^^^^^
 MST_CHALLENGE_NAME_115108022^No limit bursts^不使用極限技^LB를 사용하지 않고 완료^Ne pas utiliser de limite^Kein Limitrausch^No uses Estallido Límite
 MST_CHALLENGE_NAME_115108023^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_115108030^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
-MST_CHALLENGE_NAME_115108031^Deal lightning damage 2 or more times^對敵人造成至少2次雷屬性傷害^번개속성으로 2회 이상 적에게 피해를 줌^Infligez des dégâts de foudre à un ennemi à 2 reprises ou plus^Füge einem Gegner mindestens zweimal Blitzschaden zu^Inflige daño de rayo 2 veces o más
+MST_CHALLENGE_NAME_115108031^Deal lightning damage 2 or more times^對敵人造成至少2次雷屬性傷害^번개속성으로 2회 이상 적에게 피해를 줌^Infligez des dégâts de foudre à un ennemi à 2 reprises ou plus^Füge mind. 2 Mal Blitzschaden zu^Inflige daño de rayo 2 veces o más
 MST_CHALLENGE_NAME_115108032^Use magic 2 or more times^使用至少2次魔法^마법을 2회 이상 사용^Utilisez la magie à deux reprises ou plus^Benutze mind. 2 Mal Magie^Usa magia 2 veces o más
 MST_CHALLENGE_NAME_115108033^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_115108040^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
@@ -9256,7 +9256,7 @@ MST_CHALLENGE_NAME_115110031^Get a chain of 6 or more in 1 turn^^^^^
 MST_CHALLENGE_NAME_115110032^No recovery magic^^^^^
 MST_CHALLENGE_NAME_115110033^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_115110040^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
-MST_CHALLENGE_NAME_115110041^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge einem Gegner mind. 3 Mal Feuerschaden zu^Inflige daño de fuego 3 veces o más
+MST_CHALLENGE_NAME_115110041^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge mind. 3 Mal Feuerschaden zu^Inflige daño de fuego 3 veces o más
 MST_CHALLENGE_NAME_115110042^Defeat the Orchid Snipper within 3 turns^^^^^
 MST_CHALLENGE_NAME_115110043^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_115111010^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
@@ -9281,7 +9281,7 @@ MST_CHALLENGE_NAME_115112012^Clear without an ally being KO'd^戰鬥時無隊員
 MST_CHALLENGE_NAME_115112013^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_115112020^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_115112021^Get a chain of 7 or more in 1 turn^^^^^
-MST_CHALLENGE_NAME_115112022^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge einem Gegner mind. 3 Mal Feuerschaden zu^Inflige daño de fuego 3 veces o más
+MST_CHALLENGE_NAME_115112022^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge mind. 3 Mal Feuerschaden zu^Inflige daño de fuego 3 veces o más
 MST_CHALLENGE_NAME_115112023^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_115112030^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_115112031^No magic^^^^^
@@ -9465,7 +9465,7 @@ MST_CHALLENGE_NAME_80105022^No magic^^^^^
 MST_CHALLENGE_NAME_80105030^Activate an element chain 3 times or more in 1 turn^^^^^
 MST_CHALLENGE_NAME_80105031^Use black magic^使用「黑魔法」^'흑'마법을 사용해 완료^Utilisez la magie noire^Benutze Schwarzmagie^Usa magia negra
 MST_CHALLENGE_NAME_80105032^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
-MST_CHALLENGE_NAME_80105040^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge einem Gegner mind. 3 Mal Feuerschaden zu^Inflige daño de fuego 3 veces o más
+MST_CHALLENGE_NAME_80105040^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge mind. 3 Mal Feuerschaden zu^Inflige daño de fuego 3 veces o más
 MST_CHALLENGE_NAME_80105041^Evoke an esper^召喚幻獸^환수를 소환해 완료^Appelez une chimère^Beschwöre einen Esper^Evoca a un esper
 MST_CHALLENGE_NAME_80105042^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_80105050^Use 3 or more limit bursts^^^^^
@@ -9535,7 +9535,7 @@ MST_CHALLENGE_NAME_80109032^Defeat the Architeuth Lv. 99 with magic^^^^^
 MST_CHALLENGE_NAME_80109033^Clear all stages in the area^^^^^
 MST_CHALLENGE_NAME_80110010^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_80110011^Use a limit burst^使用極限技^LB를 사용해 완료^Utilisez une limite^Benutze einen Limitrausch^Usa un Estallido Límite
-MST_CHALLENGE_NAME_80110012^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge einem Gegner mind. 3 Mal Feuerschaden zu^Inflige daño de fuego 3 veces o más
+MST_CHALLENGE_NAME_80110012^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge mind. 3 Mal Feuerschaden zu^Inflige daño de fuego 3 veces o más
 MST_CHALLENGE_NAME_80110020^Activate an element chain 3 times or more in 1 turn^^^^^
 MST_CHALLENGE_NAME_80110021^No recovery magic^^^^^
 MST_CHALLENGE_NAME_80110022^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
@@ -9666,7 +9666,7 @@ MST_CHALLENGE_NAME_115117021^Deal fire and ice damage^^^^^
 MST_CHALLENGE_NAME_115117022^Get a chain of 5 or more in 1 turn^^^^^
 MST_CHALLENGE_NAME_115117023^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_115117030^Complete the quest^^^^^
-MST_CHALLENGE_NAME_115117031^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge einem Gegner mind. 3 Mal Feuerschaden zu^Inflige daño de fuego 3 veces o más
+MST_CHALLENGE_NAME_115117031^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge mind. 3 Mal Feuerschaden zu^Inflige daño de fuego 3 veces o más
 MST_CHALLENGE_NAME_115117032^No recovery magic^^^^^
 MST_CHALLENGE_NAME_115117033^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_115117040^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
@@ -9910,7 +9910,7 @@ MST_CHALLENGE_NAME_80606061^Get a chain of 7 or more in 1 turn^^^^^
 MST_CHALLENGE_NAME_80606062^Defeat Alstro within 5 turns^^^^^
 MST_CHALLENGE_NAME_80606063^Clear all stages in the area^^^^^
 MST_CHALLENGE_NAME_80607020^Magna in party (Companion included)^^^^^
-MST_CHALLENGE_NAME_80607021^Deal light and wind damage^^^^^
+MST_CHALLENGE_NAME_80607021^Deal light and wind damage^^^^Füge Licht- und Windschaden zu.^
 MST_CHALLENGE_NAME_80607022^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_80607030^Use 2 or more limit bursts^使用至少2次極限技^LB를 2회 이상 사용^Utilisez 2 limites ou plus^Benutze mind. 2 Mal einen Limitrausch^Usa 2 Estallidos Límite o más
 MST_CHALLENGE_NAME_80607031^Evoke an esper^召喚幻獸^환수를 소환해 완료^Appelez une chimère^Beschwöre einen Esper^Evoca a un esper
@@ -9947,7 +9947,7 @@ MST_CHALLENGE_NAME_80609032^Defeat the great demon with magic^^^^^
 MST_CHALLENGE_NAME_80609033^Clear all stages in the area^^^^^
 MST_CHALLENGE_NAME_80610010^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_80610011^Use a limit burst^使用極限技^LB를 사용해 완료^Utilisez une limite^Benutze einen Limitrausch^Usa un Estallido Límite
-MST_CHALLENGE_NAME_80610012^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge einem Gegner mind. 3 Mal Feuerschaden zu^Inflige daño de fuego 3 veces o más
+MST_CHALLENGE_NAME_80610012^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge mind. 3 Mal Feuerschaden zu^Inflige daño de fuego 3 veces o más
 MST_CHALLENGE_NAME_80610020^Activate an element chain 3 times or more in 1 turn^^^^^
 MST_CHALLENGE_NAME_80610021^No recovery magic^^^^^
 MST_CHALLENGE_NAME_80610022^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
@@ -10146,7 +10146,7 @@ MST_CHALLENGE_NAME_81203050^Evoke an esper^召喚幻獸^환수를 소환해 완�
 MST_CHALLENGE_NAME_81203051^Use 2 or more limit bursts^使用至少2次極限技^LB를 2회 이상 사용^Utilisez 2 limites ou plus^Benutze mind. 2 Mal einen Limitrausch^Usa 2 Estallidos Límite o más
 MST_CHALLENGE_NAME_81203052^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_81203070^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
-MST_CHALLENGE_NAME_81203071^Deal lightning damage 2 or more times^對敵人造成至少2次雷屬性傷害^번개속성으로 2회 이상 적에게 피해를 줌^Infligez des dégâts de foudre à un ennemi à 2 reprises ou plus^Füge einem Gegner mindestens zweimal Blitzschaden zu^Inflige daño de rayo 2 veces o más
+MST_CHALLENGE_NAME_81203071^Deal lightning damage 2 or more times^對敵人造成至少2次雷屬性傷害^번개속성으로 2회 이상 적에게 피해를 줌^Infligez des dégâts de foudre à un ennemi à 2 reprises ou plus^Füge mind. 2 Mal Blitzschaden zu^Inflige daño de rayo 2 veces o más
 MST_CHALLENGE_NAME_81203072^Defeat Rogue Leader's party within a 5 turns^^^^^
 MST_CHALLENGE_NAME_81203073^Clear all stages in the area^^^^^
 MST_CHALLENGE_NAME_81204020^Use black magic^使用「黑魔法」^'흑'마법을 사용해 완료^Utilisez la magie noire^Benutze Schwarzmagie^Usa magia negra
@@ -10232,13 +10232,13 @@ MST_CHALLENGE_NAME_81209012^Defeat the devil chimera with a limit burst^^^^^
 MST_CHALLENGE_NAME_81209020^Evoke an esper^召喚幻獸^환수를 소환해 완료^Appelez une chimère^Beschwöre einen Esper^Evoca a un esper
 MST_CHALLENGE_NAME_81209021^Use 2 or more limit bursts^使用至少2次極限技^LB를 2회 이상 사용^Utilisez 2 limites ou plus^Benutze mind. 2 Mal einen Limitrausch^Usa 2 Estallidos Límite o más
 MST_CHALLENGE_NAME_81209022^Defeat the Metal Gigantuar Lv. 99 with magic^^^^^
-MST_CHALLENGE_NAME_81209030^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge einem Gegner mind. 3 Mal Feuerschaden zu^Inflige daño de fuego 3 veces o más
+MST_CHALLENGE_NAME_81209030^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge mind. 3 Mal Feuerschaden zu^Inflige daño de fuego 3 veces o más
 MST_CHALLENGE_NAME_81209031^No items^不使用道具^아이템을 사용하지 않고 완료^Ne pas utiliser d'objets^Keine Gegenstände^No uses objetos
 MST_CHALLENGE_NAME_81209032^Defeat the Giga Rat Lv. 99 with an esper^^^^^
 MST_CHALLENGE_NAME_81209033^Clear all stages in the area^^^^^
 MST_CHALLENGE_NAME_81210010^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_81210011^Use a limit burst^使用極限技^LB를 사용해 완료^Utilisez une limite^Benutze einen Limitrausch^Usa un Estallido Límite
-MST_CHALLENGE_NAME_81210012^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge einem Gegner mind. 3 Mal Feuerschaden zu^Inflige daño de fuego 3 veces o más
+MST_CHALLENGE_NAME_81210012^Deal fire damage 3 times or more^對敵人造成至少3次火屬性傷害^불속성으로 3회 이상 적에게 피해를 줌^Infligez des dégâts de feu 3 fois ou plus à un ennemi^Füge mind. 3 Mal Feuerschaden zu^Inflige daño de fuego 3 veces o más
 MST_CHALLENGE_NAME_81210020^Activate an element chain 3 times or more in 1 turn^^^^^
 MST_CHALLENGE_NAME_81210021^No recovery magic^^^^^
 MST_CHALLENGE_NAME_81210022^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
@@ -10469,7 +10469,7 @@ MST_CHALLENGE_NAME_115126011^No items^不使用道具^아이템을 사용하지 
 MST_CHALLENGE_NAME_115126012^Clear without an ally being KO'd^戰鬥時無隊員陷入無法戰鬥狀態^한 명도 전투불능 상태가 되지 않고 완료^Aucun allié ne doit tomber K.O.^Schließe ab ohne einen kampfunf. Verb.^Ningún aliado ha quedado K.O.
 MST_CHALLENGE_NAME_115126013^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_115126020^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
-MST_CHALLENGE_NAME_115126021^Deal fire and light damage 3 times or more each^^^^^
+MST_CHALLENGE_NAME_115126021^Deal fire and light damage 3 times or more each^^^^Füge jeweils mind. 3 Mal Feuer- und Lichtschaden zu^
 MST_CHALLENGE_NAME_115126022^No magic^^^^^
 MST_CHALLENGE_NAME_115126023^No continues^戰鬥時無全軍覆沒^이어하기 없이 완료^Ne pas utiliser Continuer^Kein Weitermachen^No uses Continuar
 MST_CHALLENGE_NAME_115126030^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
@@ -10538,4 +10538,5 @@ MST_CHALLENGE_NAME_90034012^Party of 5 or less (Companion included)^隊伍人數
 MST_CHALLENGE_NAME_90034013^Defeat the URGA Mstitel with a limit burst^使用極限技終結「烏爾加復仇者」^'URGA Mstitel'을 LB로 처치^Terrassez l'URGA Mstitel avec une limite^Besiege URGA Mstitel mit einem Limitrausch^Derrota al URGA Mstitel con un EL
 MST_CHALLENGE_NAME_90035010^Complete the quest^完成任務^퀘스트를 완료^Terminez la quête^Schließe den Auftrag ab^Completa la misión
 MST_CHALLENGE_NAME_90035011^Evoke an esper^召喚幻獸^환수를 사용해 완료^Appelez une chimère^Beschwöre einen Esper^Evoca a un esper
+MST_CHALLENGE_NAME_90035012^Defeat elafikeras with magic^使用魔法終結「艾拉菲凱拉斯」^'엘라피케라스'를 마법으로 처치^Terrassez Elafikeras en utilisant de la magie^Besiege Elafikeras mit Magie^Derrota al elafikeras con magia
 MST_CHALLENGE_NAME_90035013^No limit bursts^不使用極限技^LB를 사용하지 않고 완료^Ne pas utiliser de limite^Kein Limitrausch^No uses Estallido Límite

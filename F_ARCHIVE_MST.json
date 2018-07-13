@@ -706,7 +706,7 @@
         "9BmXtQ7d": "9999", 
         "G4L0YIB2": "アビリティ生成回数", 
         "NYb0Cri6": "TOTAL_CRAFT_ABILITY", 
-        "Z0EN6jSh": "120", 
+        "Z0EN6jSh": "121", 
         "rFd5CiV2": "1", 
         "rzg51uYX": "1"
     }, 
@@ -715,7 +715,7 @@
         "9BmXtQ7d": "9999", 
         "G4L0YIB2": "鍛冶製錬回数", 
         "NYb0Cri6": "TOTAL_CRAFT_EQUIP", 
-        "Z0EN6jSh": "119", 
+        "Z0EN6jSh": "120", 
         "rFd5CiV2": "1", 
         "rzg51uYX": "1"
     }, 
@@ -724,7 +724,7 @@
         "9BmXtQ7d": "9999", 
         "G4L0YIB2": "調合回数", 
         "NYb0Cri6": "TOTAL_CRAFT_ITEM", 
-        "Z0EN6jSh": "121", 
+        "Z0EN6jSh": "122", 
         "rFd5CiV2": "1", 
         "rzg51uYX": "1"
     }, 
@@ -787,7 +787,7 @@
         "9BmXtQ7d": "9999", 
         "G4L0YIB2": "総合ギフトプレゼント数", 
         "NYb0Cri6": "TOTAL_GIFT_PRESENT", 
-        "Z0EN6jSh": "122", 
+        "Z0EN6jSh": "123", 
         "rFd5CiV2": "1", 
         "rzg51uYX": "1"
     }, 
@@ -796,7 +796,7 @@
         "9BmXtQ7d": "9999", 
         "G4L0YIB2": "総合ギフト受け取り数", 
         "NYb0Cri6": "TOTAL_GIFT_RECIEVE", 
-        "Z0EN6jSh": "123", 
+        "Z0EN6jSh": "124", 
         "rFd5CiV2": "1", 
         "rzg51uYX": "1"
     }, 
@@ -895,7 +895,7 @@
         "9BmXtQ7d": "9999", 
         "G4L0YIB2": "戦闘勝利数", 
         "NYb0Cri6": "TOTAL_MISSION_BATTLE_WIN", 
-        "Z0EN6jSh": "127", 
+        "Z0EN6jSh": "128", 
         "rFd5CiV2": "1", 
         "rzg51uYX": "1"
     }, 
@@ -904,7 +904,7 @@
         "9BmXtQ7d": "9999", 
         "G4L0YIB2": "ダンジョン挑戦数", 
         "NYb0Cri6": "TOTAL_MISSION_CHALLENGE", 
-        "Z0EN6jSh": "125", 
+        "Z0EN6jSh": "126", 
         "rFd5CiV2": "1", 
         "rzg51uYX": "1"
     }, 
@@ -913,7 +913,7 @@
         "9BmXtQ7d": "9999", 
         "G4L0YIB2": "ダンジョン成功数", 
         "NYb0Cri6": "TOTAL_MISSION_CLEAR", 
-        "Z0EN6jSh": "126", 
+        "Z0EN6jSh": "127", 
         "rFd5CiV2": "1", 
         "rzg51uYX": "1"
     }, 
@@ -931,7 +931,7 @@
         "9BmXtQ7d": "9999", 
         "G4L0YIB2": "クエストレポート達成数", 
         "NYb0Cri6": "TOTAL_QUEST_REPORT", 
-        "Z0EN6jSh": "118", 
+        "Z0EN6jSh": "119", 
         "rFd5CiV2": "1", 
         "rzg51uYX": "1"
     }, 
@@ -958,7 +958,7 @@
         "9BmXtQ7d": "9999", 
         "G4L0YIB2": "ダンジョン内累計歩数", 
         "NYb0Cri6": "TOTAL_STEPS", 
-        "Z0EN6jSh": "128", 
+        "Z0EN6jSh": "129", 
         "rFd5CiV2": "1", 
         "rzg51uYX": "1"
     }, 
@@ -967,7 +967,7 @@
         "9BmXtQ7d": "9999", 
         "G4L0YIB2": "累計宝箱開封数", 
         "NYb0Cri6": "TOTAL_TREASURE_OPEN", 
-        "Z0EN6jSh": "124", 
+        "Z0EN6jSh": "125", 
         "rFd5CiV2": "1", 
         "rzg51uYX": "1"
     }, 
@@ -994,7 +994,7 @@
         "9BmXtQ7d": "9999", 
         "G4L0YIB2": "基礎ステMAXユニット数", 
         "NYb0Cri6": "TOTAL_UNIT_FULL_DOPING", 
-        "Z0EN6jSh": "117", 
+        "Z0EN6jSh": "118", 
         "rFd5CiV2": "1", 
         "rzg51uYX": "1"
     }, 
@@ -1013,6 +1013,15 @@
         "G4L0YIB2": "ユニット合成回数", 
         "NYb0Cri6": "TOTAL_UNIT_MIX", 
         "Z0EN6jSh": "115", 
+        "rFd5CiV2": "1", 
+        "rzg51uYX": "1"
+    }, 
+    {
+        "0Lhus2Ak": "1", 
+        "9BmXtQ7d": "9999", 
+        "G4L0YIB2": "ユニット★7覚醒回数", 
+        "NYb0Cri6": "TOTAL_UNIT_RARE7_CLASS_UP", 
+        "Z0EN6jSh": "117", 
         "rFd5CiV2": "1", 
         "rzg51uYX": "1"
     }

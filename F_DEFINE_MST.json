@@ -775,6 +775,16 @@
         "YjIUDJ97": "0"
     }, 
     {
+        "AK8Nn7ta": "EQUIP_GROW_GAMEOVER_RETURN_COST", 
+        "G4L0YIB2": "武具強化イベントのゲームオーバー帰還コスト", 
+        "YjIUDJ97": "100"
+    }, 
+    {
+        "AK8Nn7ta": "EQUIP_GROW_RARE_ABILITY_EXPLAIN", 
+        "G4L0YIB2": "武具強化イベントの説明メッセージ", 
+        "YjIUDJ97": "装備タイプ別に獲得可能なアビリティが設定されています。確率表記はフロアクリア時に選択する3つの枠の内、1枠以上にそのアビリティが出現する確率です。"
+    }, 
+    {
         "AK8Nn7ta": "ESPER_RELEASE_SWITCH_ID", 
         "G4L0YIB2": "幻獣解放演出スイッチ", 
         "YjIUDJ97": "80010003"
@@ -847,12 +857,17 @@
     {
         "AK8Nn7ta": "EXPLORE_TRUST_BONUS_MESSAGE", 
         "G4L0YIB2": "EXPLOR TEXT", 
-        "YjIUDJ97": "探検開始時の継続ログイン日数で獲得トラスト値に<color=255:255:0>ボーナス</color>が付きます。トラスト値の獲得率、獲得値は<color=255:255:0>探検時間</color>と<color=255:255:0>ユニットの基礎レアリティ</color>により変化し、基礎レアリティが低いユニットの方がトラスト値が上がりやすくなります。※覚醒後のレアリティは影響されません。"
+        "YjIUDJ97": "探検開始時の継続ログイン日数で獲得トラスト値に<color=255:255:0>ボーナス</color>が付きます。トラスト値の獲得率、獲得値は<color=255:255:0>探検時間</color>と<color=255:255:0>ユニットの基礎レアリティ</color>により変化し、基礎レアリティが低いユニットの方がトラスト値が上がりやすくなります。（覚醒後のレアリティは影響されません）<br>※探検ではスーパートラストのトラスト値は<color=255:255:0>獲得できません</color>。"
     }, 
     {
         "AK8Nn7ta": "FRIENDLV_POPUP_TXT", 
         "G4L0YIB2": "フレンドLvポップアップテキスト", 
         "YjIUDJ97": "フレンドLvは前日にフレンドに同行してもらった結果により決定します。<br>各効果は毎日am5:00に更新され24時間発動します。<br>詳細はヘルプを参照ください。"
+    }, 
+    {
+        "AK8Nn7ta": "FRIEND_LIST_MARGIN_TIME", 
+        "G4L0YIB2": "フレンドリスト取得通信マージン時間", 
+        "YjIUDJ97": "300"
     }, 
     {
         "AK8Nn7ta": "FRIEND_POINT_POSSESSION_LIMIT", 
@@ -936,7 +951,7 @@
     }, 
     {
         "AK8Nn7ta": "IOS_APP_VERSION_UP_MESSAGE", 
-        "G4L0YIB2": "アプリバージョンアップメッセージ（IOS）", 
+        "G4L0YIB2": "IOSversionup_message", 
         "YjIUDJ97": "SERVER_MSG_242"
     }, 
     {
@@ -1310,6 +1325,11 @@
         "YjIUDJ97": "5"
     }, 
     {
+        "AK8Nn7ta": "MAX_SET_EQUIP_ABILITY_COUNT", 
+        "G4L0YIB2": "アビ装備最大数", 
+        "YjIUDJ97": "3"
+    }, 
+    {
         "AK8Nn7ta": "MAX_TEAM_LV", 
         "G4L0YIB2": "最大部隊レベル", 
         "YjIUDJ97": "250"
@@ -1317,7 +1337,7 @@
     {
         "AK8Nn7ta": "MAX_UNION_CNT", 
         "G4L0YIB2": "最大合成数", 
-        "YjIUDJ97": "5"
+        "YjIUDJ97": "99"
     }, 
     {
         "AK8Nn7ta": "MODEL_CHANGE_LIMIT_HOUR", 
@@ -1380,6 +1400,11 @@
         "YjIUDJ97": "300"
     }, 
     {
+        "AK8Nn7ta": "RECOVER_TIME_ARMS_ORB", 
+        "G4L0YIB2": "アームズオーブ回復時間", 
+        "YjIUDJ97": "3600"
+    }, 
+    {
         "AK8Nn7ta": "RECOVER_TIME_COLOSSEUM_ORB", 
         "G4L0YIB2": "コロシアムオーブ回復時間", 
         "YjIUDJ97": "3600"
@@ -1391,7 +1416,7 @@
     }, 
     {
         "AK8Nn7ta": "REIN_FRI_DISP_CNT", 
-        "G4L0YIB2": "フレンド援軍表示検す", 
+        "G4L0YIB2": "フレンド援軍表示件数", 
         "YjIUDJ97": "20"
     }, 
     {
@@ -1402,7 +1427,7 @@
     {
         "AK8Nn7ta": "REIN_NRM_RES_CNT", 
         "G4L0YIB2": "通常援軍レスポンス件数", 
-        "YjIUDJ97": "20"
+        "YjIUDJ97": "25"
     }, 
     {
         "AK8Nn7ta": "RESOURCE_DL_RETRY_CNT", 
@@ -1440,6 +1465,21 @@
         "YjIUDJ97": "54321"
     }, 
     {
+        "AK8Nn7ta": "SUPER_AFFINITY_REWARD_AFFINITY_PATTERN_ID", 
+        "G4L0YIB2": "特別報酬で配布されるトラストパターンID", 
+        "YjIUDJ97": "100000008"
+    }, 
+    {
+        "AK8Nn7ta": "SUPER_AFFINITY_REWARD_MSG", 
+        "G4L0YIB2": "特別報酬のメッセージ表示用文言", 
+        "YjIUDJ97": "トラストモーグリ(ALL50%)"
+    }, 
+    {
+        "AK8Nn7ta": "SUPER_AFFINITY_REWARD_UNIT_ID", 
+        "G4L0YIB2": "特別報酬で配布されるユニットID", 
+        "YjIUDJ97": "904000105"
+    }, 
+    {
         "AK8Nn7ta": "TEAM_LV_UP_REWARD_DIAMOND_CNT", 
         "G4L0YIB2": "部隊レベルアップ報酬ダイヤ個数", 
         "YjIUDJ97": "100"
@@ -1453,6 +1493,11 @@
         "AK8Nn7ta": "TICKER_LOG_FLOW_SPEED_COEFFICIENT", 
         "G4L0YIB2": "ティッカーログの移動速度係数", 
         "YjIUDJ97": "0.01"
+    }, 
+    {
+        "AK8Nn7ta": "TNC_SWITCH_ID", 
+        "G4L0YIB2": "TNC_SWITCH_ID", 
+        "YjIUDJ97": "90001313"
     }, 
     {
         "AK8Nn7ta": "TROPHY_MAX_GRADE", 

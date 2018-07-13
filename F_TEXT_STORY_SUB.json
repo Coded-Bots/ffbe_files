@@ -227,7 +227,7 @@ MST_STORYSUB_NAME_1215^Illusion Magic Research Facility^絨毛草原^솜털 초�
 MST_STORYSUB_NAME_1216^Silk Way^絲綢岩道^비단 바위길^Route de la soie^Seidenstraße^Ruta de la seda
 MST_STORYSUB_NAME_1217^Ilteah Town^伊爾特亞鎮^일테아 마을^Ville d'Ilteah^Stadt Ilteah^Ilteah
 MST_STORYSUB_NAME_1218^Quicksand Valley^流沙之谷^흐르는 모래언덕^Vallée des sables mouvants^Treibsandtal^Valle de arenas movedizas
-MST_STORYSUB_NAME_1219^^^^^^
+MST_STORYSUB_NAME_1219^Eternal Rest^^^^^
 MST_STORYSUB_NAME_1220^Hideaway Lanzatto^隱居之處蘭扎特^란자토 은거지^Cachette Lanzatto^Refugium Lanzatto^Guarida Lanzatto
 MST_STORYSUB_NAME_1221^Energy Extraction Station^能量抽取設施^에너지 추출 시설^Station d'extraction d'énergie^Energie-Extraktionsstation^Estación de extracción de energía
 MST_STORYSUB_NAME_1222^Energy Extraction Station 2^能量抽取設施2^에너지 추출 시설 2^Station d'extraction d'énergie 2^Energie-Extraktionsstation 2^Estación de extracción de energía 2
@@ -240,46 +240,46 @@ MST_STORYSUB_NAME_1228^Capital of Despair Hellstya^失意之都赫萊斯提亞^�
 MST_STORYSUB_NAME_1229^Elmaul Archives^艾爾瑪烏爾的書庫外^엘마울의 서고^Archives d'Elmaul^Elmaul-Archive^Archivos de Elmaul
 MST_STORYSUB_NAME_1230^Enroute to the Village of the Whyt^^^^^
 MST_STORYSUB_NAME_1301^Village of the Whyt 1^^^^^
-MST_STORYSUB_NAME_1302^^^^^^
-MST_STORYSUB_NAME_1303^^^^^^
+MST_STORYSUB_NAME_1302^Elmaul Archives^^^^^
+MST_STORYSUB_NAME_1303^Mizass Mountains^^^^^
 MST_STORYSUB_NAME_1304^Village of the Whyt 2^^^^^
-MST_STORYSUB_NAME_1305^^^^^^
-MST_STORYSUB_NAME_1306^^^^^^
-MST_STORYSUB_NAME_1307^^^^^^
-MST_STORYSUB_NAME_1308^^^^^^
-MST_STORYSUB_NAME_1309^^^^^^
-MST_STORYSUB_NAME_1310^^^^^^
-MST_STORYSUB_NAME_1311^^^^^^
-MST_STORYSUB_NAME_1312^^^^^^
-MST_STORYSUB_NAME_1313^^^^^^
-MST_STORYSUB_NAME_1314^^^^^^
-MST_STORYSUB_NAME_1315^^^^^^
-MST_STORYSUB_NAME_1316^^^^^^
-MST_STORYSUB_NAME_1317^^^^^^
-MST_STORYSUB_NAME_1318^^^^^^
-MST_STORYSUB_NAME_1319^^^^^^
-MST_STORYSUB_NAME_1320^^^^^^
-MST_STORYSUB_NAME_1321^^^^^^
-MST_STORYSUB_NAME_1322^^^^^^
-MST_STORYSUB_NAME_1323^^^^^^
-MST_STORYSUB_NAME_1324^^^^^^
-MST_STORYSUB_NAME_1325^^^^^^
-MST_STORYSUB_NAME_1326^^^^^^
-MST_STORYSUB_NAME_1327^^^^^^
-MST_STORYSUB_NAME_1328^^^^^^
-MST_STORYSUB_NAME_1329^^^^^^
-MST_STORYSUB_NAME_1330^^^^^^
-MST_STORYSUB_NAME_1331^^^^^^
-MST_STORYSUB_NAME_1332^^^^^^
-MST_STORYSUB_NAME_1333^^^^^^
-MST_STORYSUB_NAME_1334^^^^^^
-MST_STORYSUB_NAME_1401^^^^^^
-MST_STORYSUB_NAME_1402^^^^^^
-MST_STORYSUB_NAME_1403^^^^^^
-MST_STORYSUB_NAME_1404^^^^^^
-MST_STORYSUB_NAME_1405^^^^^^
-MST_STORYSUB_NAME_1406^^^^^^
-MST_STORYSUB_NAME_1407^^^^^^
-MST_STORYSUB_NAME_1408^^^^^^
-MST_STORYSUB_NAME_1409^^^^^^
-MST_STORYSUB_NAME_1410^^^^^^
+MST_STORYSUB_NAME_1305^Arc Bay^^^^^
+MST_STORYSUB_NAME_1306^Slumson Plains^^^^^
+MST_STORYSUB_NAME_1307^Molera Flatlands^^^^^
+MST_STORYSUB_NAME_1308^City of Trials Dendalio^^^^^
+MST_STORYSUB_NAME_1309^Camp Danacos 1^^^^^
+MST_STORYSUB_NAME_1310^Savage Ruins^^^^^
+MST_STORYSUB_NAME_1311^Madelle Bridge 1^^^^^
+MST_STORYSUB_NAME_1312^Camp Danacos 2^^^^^
+MST_STORYSUB_NAME_1313^Madelle Bridge 2^^^^^
+MST_STORYSUB_NAME_1314^Madelle Bridge 3 (CH 2 OP 1)^^^^^
+MST_STORYSUB_NAME_1315^Camp Danacos 3 (CH 2 OP 2)^^^^^
+MST_STORYSUB_NAME_1316^Barriered Base 1^^^^^
+MST_STORYSUB_NAME_1317^Karvell Resort Town^^^^^
+MST_STORYSUB_NAME_1318^Grave of the Warriors^^^^^
+MST_STORYSUB_NAME_1319^Grassy Road^^^^^
+MST_STORYSUB_NAME_1320^Emerald Lake^^^^^
+MST_STORYSUB_NAME_1321^Protta Forest^^^^^
+MST_STORYSUB_NAME_1322^Rock Pile Hill^^^^^
+MST_STORYSUB_NAME_1323^Barriered Base 2^^^^^
+MST_STORYSUB_NAME_1324^Ghastly Valley^^^^^
+MST_STORYSUB_NAME_1325^Helmna Heights^^^^^
+MST_STORYSUB_NAME_1326^Ghastly Valley (CH 3 OP)^^^^^
+MST_STORYSUB_NAME_1327^Kudalaska Pass^^^^^
+MST_STORYSUB_NAME_1328^Rilakka Grasslands^^^^^
+MST_STORYSUB_NAME_1329^Plains Town Relaks^^^^^
+MST_STORYSUB_NAME_1330^Fortress Outlook^^^^^
+MST_STORYSUB_NAME_1331^Jima Wetlands^^^^^
+MST_STORYSUB_NAME_1332^Vibrant Forest^^^^^
+MST_STORYSUB_NAME_1333^Shrine of Prayers^^^^^
+MST_STORYSUB_NAME_1334^Londell Road^^^^^
+MST_STORYSUB_NAME_1401^Bug Eater's Den^^^^^
+MST_STORYSUB_NAME_1402^Visectrum 1^^^^^
+MST_STORYSUB_NAME_1403^Colosseum Direct Line 1^^^^^
+MST_STORYSUB_NAME_1404^Colosseum First Floor Level 1^^^^^
+MST_STORYSUB_NAME_1405^Sandstorm Maze^^^^^
+MST_STORYSUB_NAME_1406^Brown Sands^^^^^
+MST_STORYSUB_NAME_1407^Colosseum First Floor Level 2^^^^^
+MST_STORYSUB_NAME_1408^Colosseum Second Floor^^^^^
+MST_STORYSUB_NAME_1409^Visectrum 3^^^^^
+MST_STORYSUB_NAME_1410^Land of Fading Memories^^^^^

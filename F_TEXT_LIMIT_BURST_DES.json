@@ -961,8 +961,8 @@ MST_LIMITBURST_DESCRIPTION_100014305^Lightning damage one enemy and boost own AT
 MST_LIMITBURST_DESCRIPTION_100011106^Gradually restore HP and boost DEF and SPR for all allies^持續恢復全體隊員的HP+提高防禦精神^아군 전체의 HP 서서히 회복+방어력과 정신력 상승^Restaure progressivement les PV et augmente la DEF et la PSY de tous les alliés^Regeneriert allmählich LP aller Verb. und erhöht ihre ABW und PSY.^Recupera poco a poco la VIT y aumenta la DEF y el ESP de todos los aliados
 MST_LIMITBURST_DESCRIPTION_318000105^Deal partial unmitigated damage and reduce fire, ice, lightning, water, wind, earth, light, and dark resistance for all enemies^對全體敵人發動部分無視防禦的攻擊+降低火冰雷水風土光暗屬性耐性的數值^적 전체에 방어 무시 피해+불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 감소^Inflige des dégâts en partie fixes et réduit la résistance au feu, à la glace, à la foudre, à l'eau, au vent, à la terre, à la lumière, et aux ténèbres de tous les ennemis^Fügt allen Gegnern teilweise direkten Schaden zu und verringert ihre Feuer-, Eis-, Blitz-, Wasser-, Wind-, Erd-, Licht- und Dunkelresistenz.^Daño absoluto parcial y reduce la res. al fuego, hielo, rayo, agua, viento, tierra, luz y oscuridad de todos los enemigos
 MST_LIMITBURST_DESCRIPTION_318000106^Deal partial unmitigated damage and reduce fire, ice, lightning, water, wind, earth, light, and dark resistance for all enemies^對全體敵人發動部分無視防禦的攻擊+降低火冰雷水風土光暗屬性耐性的數值^적 전체에 방어 무시 피해+불, 얼음, 번개, 물, 바람, 땅, 빛, 어둠속성 저항력 감소^Inflige des dégâts en partie fixes et réduit la résistance au feu, à la glace, à la foudre, à l'eau, au vent, à la terre, à la lumière, et aux ténèbres de tous les ennemis^Fügt allen Gegnern teilweise direkten Schaden zu und verringert ihre Feuer-, Eis-, Blitz-, Wasser-, Wind-, Erd-, Licht- und Dunkelresistenz.^Daño absoluto parcial y reduce la res. al fuego, hielo, rayo, agua, viento, tierra, luz y oscuridad de todos los enemigos
-MST_LIMITBURST_DESCRIPTION_317000105^Remove some status effects, boost ATK, DEF, MAG, and SPR, and gradually restore HP and MP for all allies.^解除一名隊員的部分狀態效果+提高攻擊防禦魔力精神的數值+持續恢復HPMP^아군 1명의 일부 상태 변화 해제+공격력, 방어력, 마력, 정신력 상승+HP와 MP 서서히 회복^Retire certaines altérations d'état, augmente l'ATT, la DEF, la MAGIE et la PSY et restaure progressivement les PV et les PM d'un allié^Entfernt einige Statuseffekte, erhöht ANG, ABW, MAG und PSY + regeneriert allmählich LP/MP eines Verb.^Elimina todos los estados alterados, aumenta ATQ/DEF/MAG/ESP y recupera poco a poco la VIT y los PM de un aliado
-MST_LIMITBURST_DESCRIPTION_317000106^Remove some status effects, boost ATK, DEF, MAG, and SPR, and gradually restore HP and MP for all allies.^解除一名隊員的部分狀態效果+提高攻擊防禦魔力精神的數值+持續恢復HPMP^아군 1명의 일부 상태 변화 해제+공격력, 방어력, 마력, 정신력 상승+HP와 MP 서서히 회복^Retire certaines altérations d'état, augmente l'ATT, la DEF, la MAGIE et la PSY et restaure progressivement les PV et les PM d'un allié^Entfernt einige Statuseffekte, erhöht ANG, ABW, MAG und PSY + regeneriert allmählich LP/MP eines Verb.^Elimina todos los estados alterados, aumenta ATQ/DEF/MAG/ESP y recupera poco a poco la VIT y los PM de un aliado
+MST_LIMITBURST_DESCRIPTION_317000105^Remove some status effects, boost ATK, DEF, MAG, and SPR, and gradually restore HP and MP for all allies^解除全體隊員的部分狀態效果+提高攻擊防禦魔力精神+持續恢復HPMP^아군 전체의 일부 상태 변화 해제+공격력, 방어력, 마력, 정신력 상승+HP와 MP 서서히 회복^Retire certaines altérations d'état, augmente l'ATT, la DEF, la MAGIE et la PSY et restaure progressivement les PV et les PM de tous les alliés^Entfernt einige Statuseffekte, erhöht ANG, ABW, MAG und PSY + regeneriert allmählich LP/MP aller Verb.^Elimina todos los estados alterados, aumenta ATQ/DEF/MAG/ESP y recupera poco a poco la VIT y los PM de todos los aliados
+MST_LIMITBURST_DESCRIPTION_317000106^Remove some status effects, boost ATK, DEF, MAG, and SPR, and gradually restore HP and MP for all allies^解除全體隊員的部分狀態效果+提高攻擊防禦魔力精神+持續恢復HPMP^아군 전체의 일부 상태 변화 해제+공격력, 방어력, 마력, 정신력 상승+HP와 MP 서서히 회복^Retire certaines altérations d'état, augmente l'ATT, la DEF, la MAGIE et la PSY et restaure progressivement les PV et les PM de tous les alliés^Entfernt einige Statuseffekte, erhöht ANG, ABW, MAG und PSY + regeneriert allmählich LP/MP aller Verb.^Elimina todos los estados alterados, aumenta ATQ/DEF/MAG/ESP y recupera poco a poco la VIT y los PM de todos los aliados
 MST_LIMITBURST_DESCRIPTION_320000104^Deal partial unmitigated damage to all enemies^對全體敵人發動無視部分防禦的攻擊^적 전체에 방어 무시 피해^Inflige des dégâts en partie fixes à tous les ennemis^Fügt allen Gegnern teilweise direkten Schaden zu.^Daño absoluto parcial a todos los enemigos
 MST_LIMITBURST_DESCRIPTION_320000105^Deal partial unmitigated damage to all enemies^對全體敵人發動無視部分防禦的攻擊^적 전체에 방어 무시 피해^Inflige des dégâts en partie fixes à tous les ennemis^Fügt allen Gegnern teilweise direkten Schaden zu.^Daño absoluto parcial a todos los enemigos
 MST_LIMITBURST_DESCRIPTION_320000106^Deal partial unmitigated damage to all enemies^對全體敵人發動無視部分防禦的攻擊^적 전체에 방어 무시 피해^Inflige des dégâts en partie fixes à tous les ennemis^Fügt allen Gegnern teilweise direkten Schaden zu.^Daño absoluto parcial a todos los enemigos
@@ -1039,23 +1039,23 @@ MST_LIMITBURST_DESCRIPTION_208000207^^^^^^
 MST_LIMITBURST_DESCRIPTION_208000404^^^^^^
 MST_LIMITBURST_DESCRIPTION_208000405^^^^^^
 MST_LIMITBURST_DESCRIPTION_208000406^^^^^^
-MST_LIMITBURST_DESCRIPTION_100016503^^^^^^
-MST_LIMITBURST_DESCRIPTION_100016504^^^^^^
-MST_LIMITBURST_DESCRIPTION_100016505^^^^^^
+MST_LIMITBURST_DESCRIPTION_100016503^Damage and reduce DEF and SPR for one enemy^攻擊1名敵人+降低防禦精神^적 1명에게 피해+방어력과 정신력 감소^Dégâts et réduit la DEF et la PSY d'un ennemi^Schaden und ABW und PSY runter, ein Ziel^Daña y reduce la DEF y el ESP de un enemigo
+MST_LIMITBURST_DESCRIPTION_100016504^Damage and reduce DEF and SPR for one enemy^攻擊1名敵人+降低防禦精神^적 1명에게 피해+방어력과 정신력 감소^Dégâts et réduit la DEF et la PSY d'un ennemi^Schaden und ABW und PSY runter, ein Ziel^Daña y reduce la DEF y el ESP de un enemigo
+MST_LIMITBURST_DESCRIPTION_100016505^Damage and reduce DEF and SPR for one enemy^攻擊1名敵人+降低防禦精神^적 1명에게 피해+방어력과 정신력 감소^Dégâts et réduit la DEF et la PSY d'un ennemi^Schaden und ABW und PSY runter, ein Ziel^Daña y reduce la DEF y el ESP de un enemigo
 MST_LIMITBURST_DESCRIPTION_213000107^^^^^^
 MST_LIMITBURST_DESCRIPTION_253000107^^^^^^
-MST_LIMITBURST_DESCRIPTION_253000207^^^^^^
+MST_LIMITBURST_DESCRIPTION_253000207^Lightning damage and chance of silencing all enemies^對全體敵人發動雷屬性攻擊+一定機率施加沉默效果^적 전체에 번개속성 피해+일정 확률로 침묵 부여^Dégâts de foudre et chances de réduire au silence tous les ennemis^Fügt allen Gegnern Blitzschaden zu + Chance auf Stille^Daño de rayo y probabilidad de infligir silencio a todos los enemigos
 MST_LIMITBURST_DESCRIPTION_204000117^Consume caster's HP to deal dark damage to all enemies^^^^^
 MST_LIMITBURST_DESCRIPTION_254000107^^^^^^
 MST_LIMITBURST_DESCRIPTION_900000017^^^^^^
-MST_LIMITBURST_DESCRIPTION_203000207^^^^^^
+MST_LIMITBURST_DESCRIPTION_203000207^Damage and reduce DEF for one enemy^攻擊1名敵人+降低防禦^적 1명에게 피해+방어력 감소^Dégâts et réduit la DEF d'un ennemi ^Schaden und ABW runter, ein Ziel^Daña y reduce la DEF de un enemigo
 MST_LIMITBURST_DESCRIPTION_900000047^^^^^^
 MST_LIMITBURST_DESCRIPTION_203000107^^^^^^
 MST_LIMITBURST_DESCRIPTION_254000207^^^^^^
 MST_LIMITBURST_DESCRIPTION_100000317^^^^^^
 MST_LIMITBURST_DESCRIPTION_253000807^^^^^^
 MST_LIMITBURST_DESCRIPTION_900000027^^^^^^
-MST_LIMITBURST_DESCRIPTION_100005807^^^^^^
+MST_LIMITBURST_DESCRIPTION_100005807^Reflect back magic cast at all allies^反射對全體隊員使用的魔法^아군 전체가 받는 마법 반사^Renvoie la magie lancée sur tous les alliés^Reflektiert Rückmagie, alle Verb.^Refleja la magia dirigida a los aliados
 MST_LIMITBURST_DESCRIPTION_202000507^^^^^^
 MST_LIMITBURST_DESCRIPTION_306000107^^^^^^
 MST_LIMITBURST_DESCRIPTION_100005907^^^^^^

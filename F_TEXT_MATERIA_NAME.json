@@ -629,11 +629,11 @@ MST_MATERIA_NAME_504213160^Fire Resistance +20%^火屬性耐性+20%^불속성 �
 MST_MATERIA_NAME_504224920^Equip Sword^劍裝備^검 장착^Épée^Schwert ausrüsten^Equipar espada
 MST_MATERIA_NAME_504224930^Modish Witch^時尚女巫^세련된 마녀^Sorcière à la mode^Modische Hexe^Bruja a la moda
 MST_MATERIA_NAME_504225930^Necropolis^墓園^네크로폴리스^Nécropole^Nekropolis^Necrópolis
-MST_MATERIA_NAME_504225720^Seed of Hope^幸運兒^포츈 베이비^Bébé chanceux^Glücksbaby^Criatura afortunada
+MST_MATERIA_NAME_504225720^Seed of Hope^幸運兒^포츈 베이비^Graine d'espoir^Glücksbaby^Criatura afortunada
 MST_MATERIA_NAME_504225890^Fortitude and Vigor^質樸剛健^질실강건^Construction vigoureuse^Voller Elan^Constitución vigorosa
 MST_MATERIA_NAME_504213170^Water Resistance +20%^水屬性耐性+20%^물속성 저항력+20%^Rés. à l'eau +15%^Wasserresistenz +20%^Resistencia al agua +20%
-MST_MATERIA_NAME_504226050^Mage's Hope^魔道士的心願^마도사의 소망^Espoir de mage^Wunsch des Ritters^Esperanza de caballero
-MST_MATERIA_NAME_504226041^Knight's Hope^騎士的心願^기사의 소망^Espoir de chevalier^Wunsch des Magiers^Esperanza de mago
+MST_MATERIA_NAME_504226050^Mage's Hope^魔道士的心願^마도사의 소망^Espoir de mage^Wunsch des Magiers^Esperanza de mago
+MST_MATERIA_NAME_504226041^Knight's Hope^騎士的心願^기사의 소망^Espoir de chevalier^Wunsch des Ritters^Esperanza de caballero
 MST_MATERIA_NAME_504226031^Ruling Fiend^裁決的惡魔^재정의 악마^Monstre dirigeant^Urteilssprechender Dämon^Fiera reinante
 MST_MATERIA_NAME_504226380^Hero's Vow - Dark^英雄誓言·暗^영웅의 맹세·어둠^Vœu du héros - Ténèbres^Heldenschwur - Dunkel^Voto del héroe - Oscuridad
 MST_MATERIA_NAME_1500000032^Cheerful Tune^輕快旋律^경쾌한 선율^Air enjoué^Fröhliche Melodie^Tono alegre
@@ -655,22 +655,22 @@ MST_MATERIA_NAME_1500000048^Naga's Protection^納迦守護者^나가의 수호^P
 MST_MATERIA_NAME_1500000049^Intense Determination^強烈的決心^강렬한 투지^Détermination intense^Heftige Entschlossenheit^Determinación absoluta
 MST_MATERIA_NAME_1500000050^Motherly Love^母愛^모성애^Amour maternel^Mutterliebe^Amor maternal
 MST_MATERIA_NAME_504226406^Vagrant Knight^彷徨騎士^방황의 기사^Chevalier vagabond^Wandernder Ritter^Rain caballero mendicante
-MST_MATERIA_NAME_504226422^Protector of Lapis^^^^^
+MST_MATERIA_NAME_504226422^Protector of Lapis^拉比斯的守護者^라피스를 지키는 자^Protecteur de Lapis^Verteidiger von Lapis^Protector de Lapis
 MST_MATERIA_NAME_504226880^The Subservient^被利用者^이용당한 자^^^
-MST_MATERIA_NAME_504226881^^^^^^
-MST_MATERIA_NAME_504226882^^^^^^
-MST_MATERIA_NAME_504226883^Praying Child's Dream^祈禱者的夢^기도자의 꿈^^^
+MST_MATERIA_NAME_504226881^Dark Swordplay^^^^^
+MST_MATERIA_NAME_504226882^Origin of Arrival^^^^^
+MST_MATERIA_NAME_504226883^Fayth's Dream^祈禱者的夢^기도자의 꿈^^^
 MST_MATERIA_NAME_504226892^Corrupt Emperor^^^^^
-MST_MATERIA_NAME_504226893^^^^^^
+MST_MATERIA_NAME_504226893^Onion Knight's Mission^^^^^
 MST_MATERIA_NAME_504226894^Panzer Omega^^^^^
-MST_MATERIA_NAME_504226895^^^^^^
+MST_MATERIA_NAME_504226895^Wave Cannon^^^^^
 MST_MATERIA_NAME_504226896^Lightning Resistance +20%^^^^^
 MST_MATERIA_NAME_504226898^Physical Force^^^^^
 MST_MATERIA_NAME_504226899^Magical Force^^^^^
 MST_MATERIA_NAME_504226900^Swift Hunter^^^^^
 MST_MATERIA_NAME_504226901^Whip Mastery^^^^^
 MST_MATERIA_NAME_504226902^Brave Lancer^^^^^
-MST_MATERIA_NAME_504226903^^^^^^
+MST_MATERIA_NAME_504226903^Twin Repellent^^^^^
 MST_MATERIA_NAME_504226980^Lord of the Underworld^^^^^
 MST_MATERIA_NAME_504227020^King of the Beasts^^^^^
 MST_MATERIA_NAME_504227076^Demon Trick^^^^^
@@ -681,74 +681,74 @@ MST_MATERIA_NAME_504227261^Faithful Explorer^^^^^
 MST_MATERIA_NAME_504222190^Plant Killer+^^^^^
 MST_MATERIA_NAME_504100770^Equip Robe^^^^^
 MST_MATERIA_NAME_504227209^Witch's Laugh^^^^^
-MST_MATERIA_NAME_504227270^^^^^^
+MST_MATERIA_NAME_504227270^Force Mysterion^^^^^
 MST_MATERIA_NAME_504227271^Dark Aspirations^黑色野心^검은 야망^^^
 MST_MATERIA_NAME_504227272^Trials of the Hexatheon^六神之啟示^여섯 신의 계시^^^
 MST_MATERIA_NAME_504227273^Loyal General^忠義女將軍^충의의 여장군^^^
 MST_MATERIA_NAME_504227274^Soul of the Summoner^召喚之真髓^소환의 진수^^^
 MST_MATERIA_NAME_504226639^Lion Heart^^^^^
 MST_MATERIA_NAME_504226653^Winged Heart^^^^^
-MST_MATERIA_NAME_504227318^^^^^^
+MST_MATERIA_NAME_504227318^Drake's Affection^^^^^
 MST_MATERIA_NAME_504227328^White Heart^^^^^
 MST_MATERIA_NAME_504227389^Fighter of the Dark^^^^^
-MST_MATERIA_NAME_504227410^^^^^^
-MST_MATERIA_NAME_504227411^^^^^^
-MST_MATERIA_NAME_504227413^^^^^^
-MST_MATERIA_NAME_504227414^^^^^^
-MST_MATERIA_NAME_504227428^^^^^^
-MST_MATERIA_NAME_504227448^^^^^^
-MST_MATERIA_NAME_504227459^^^^^^
+MST_MATERIA_NAME_504227410^Metamol^^^^^
+MST_MATERIA_NAME_504227411^Bad Breath^^^^^
+MST_MATERIA_NAME_504227413^Fiery Avoidance^^^^^
+MST_MATERIA_NAME_504227414^Watery Avoidance^^^^^
+MST_MATERIA_NAME_504227428^Holy Knight^^^^^
+MST_MATERIA_NAME_504227448^Kaliva's Guidance^^^^^
+MST_MATERIA_NAME_504227459^Technical Attacker^^^^^
 MST_MATERIA_NAME_504227506^Zodiac Barret^黃道彈^조디악 불릿^^^
-MST_MATERIA_NAME_504227527^^^^^^
+MST_MATERIA_NAME_504227527^Truth Seeker^^^^^
 MST_MATERIA_NAME_504227555^Shield of the Chosen King^被選中的王之盾^선택받은 왕의 방패^^^
 MST_MATERIA_NAME_504227586^Booster Cactuar^增壓‧仙人掌^사보텐 부스트^^^
-MST_MATERIA_NAME_504227605^^^^^^
+MST_MATERIA_NAME_504227605^White Lotus^^^^^
 MST_MATERIA_NAME_504227625^Sky Lancer^空中長槍^스카이랜서^^^
-MST_MATERIA_NAME_504227640^^^^^^
-MST_MATERIA_NAME_504227641^^^^^^
-MST_MATERIA_NAME_504227701^^^^^^
-MST_MATERIA_NAME_504227666^^^^^^
-MST_MATERIA_NAME_504227682^^^^^^
-MST_MATERIA_NAME_504227712^^^^^^
-MST_MATERIA_NAME_504227713^^^^^^
-MST_MATERIA_NAME_504227714^^^^^^
-MST_MATERIA_NAME_504227847^^^^^^
-MST_MATERIA_NAME_504227865^^^^^^
-MST_MATERIA_NAME_504227902^^^^^^
-MST_MATERIA_NAME_504227903^^^^^^
+MST_MATERIA_NAME_504227640^EXP +25%^^^^^
+MST_MATERIA_NAME_504227641^EXP +50%^^^^^
+MST_MATERIA_NAME_504227701^Brave Soul^^^^^
+MST_MATERIA_NAME_504227666^Hero's Vow - Light^^^^^
+MST_MATERIA_NAME_504227682^Machine Power^^^^^
+MST_MATERIA_NAME_504227712^Platinum Recall^^^^^
+MST_MATERIA_NAME_504227713^Gem of Creation^^^^^
+MST_MATERIA_NAME_504227714^Gem of Vision^^^^^
+MST_MATERIA_NAME_504227847^Grown Heart^^^^^
+MST_MATERIA_NAME_504227865^Regretful Memories^^^^^
+MST_MATERIA_NAME_504227902^Dragonslayer Force^^^^^
+MST_MATERIA_NAME_504227903^Dragonslayer Magic^^^^^
 MST_MATERIA_NAME_504227930^Absolute Devotion^絕對忠義^절대적인 충의^^^
 MST_MATERIA_NAME_504227931^Twisted Hero^扭曲的英雄^일그러진 영웅^^^
-MST_MATERIA_NAME_504227926^^^^^^
-MST_MATERIA_NAME_504228151^^^^^^
-MST_MATERIA_NAME_504228152^^^^^^
-MST_MATERIA_NAME_504228161^^^^^^
-MST_MATERIA_NAME_504228200^^^^^^
-MST_MATERIA_NAME_504228201^^^^^^
-MST_MATERIA_NAME_504228202^^^^^^
+MST_MATERIA_NAME_504227926^Blood of the Dragon^^^^^
+MST_MATERIA_NAME_504228151^Gust Mane^^^^^
+MST_MATERIA_NAME_504228152^Dormant Power^^^^^
+MST_MATERIA_NAME_504228161^Genji Tactics^^^^^
+MST_MATERIA_NAME_504228200^Indestructible^^^^^
+MST_MATERIA_NAME_504228201^Miracle Magic^^^^^
+MST_MATERIA_NAME_504228202^Miracle Magic^^^^^
 MST_MATERIA_NAME_504228203^Iron Body^^^^^
 MST_MATERIA_NAME_504228204^Restraint^^^^^
-MST_MATERIA_NAME_504228234^^^^^^
-MST_MATERIA_NAME_504228254^^^^^^
-MST_MATERIA_NAME_504228277^^^^^^
-MST_MATERIA_NAME_504228287^^^^^^
-MST_MATERIA_NAME_504228299^^^^^^
-MST_MATERIA_NAME_504228324^^^^^^
-MST_MATERIA_NAME_504228356^^^^^^
-MST_MATERIA_NAME_504228371^^^^^^
-MST_MATERIA_NAME_504228380^^^^^^
-MST_MATERIA_NAME_504228381^^^^^^
-MST_MATERIA_NAME_504228390^^^^^^
-MST_MATERIA_NAME_504228391^^^^^^
-MST_MATERIA_NAME_504209540^^^^^^
-MST_MATERIA_NAME_504228416^^^^^^
-MST_MATERIA_NAME_504228452^^^^^^
-MST_MATERIA_NAME_504228470^^^^^^
-MST_MATERIA_NAME_504228490^^^^^^
-MST_MATERIA_NAME_504228565^^^^^^
-MST_MATERIA_NAME_504228586^^^^^^
-MST_MATERIA_NAME_504228610^^^^^^
-MST_MATERIA_NAME_504228611^^^^^^
-MST_MATERIA_NAME_504224890^^^^^^
+MST_MATERIA_NAME_504228234^Unshakable^^^^^
+MST_MATERIA_NAME_504228254^Secret of Mana^^^^^
+MST_MATERIA_NAME_504228277^Spear of the Princess^^^^^
+MST_MATERIA_NAME_504228287^Proud Thief^^^^^
+MST_MATERIA_NAME_504228299^Rabite Heart^^^^^
+MST_MATERIA_NAME_504228324^Opposing Force^^^^^
+MST_MATERIA_NAME_504228356^Kind Force^^^^^
+MST_MATERIA_NAME_504228371^Heroic Force^^^^^
+MST_MATERIA_NAME_504228380^Support Personnel - Attack^^^^^
+MST_MATERIA_NAME_504228381^Support Personnel - Defense^^^^^
+MST_MATERIA_NAME_504228390^Dancing Doll^^^^^
+MST_MATERIA_NAME_504228391^Doll's Eye^^^^^
+MST_MATERIA_NAME_504209540^Gun Mastery^^^^^
+MST_MATERIA_NAME_504228416^Hero's Vow - Earth^^^^^
+MST_MATERIA_NAME_504228452^Shadow Warrior^^^^^
+MST_MATERIA_NAME_504228470^Lara's Intuition^^^^^
+MST_MATERIA_NAME_504228490^Wisdom of Hess^^^^^
+MST_MATERIA_NAME_504228565^Blacksmith's Daughter^^^^^
+MST_MATERIA_NAME_504228586^Warmage's Monograph^^^^^
+MST_MATERIA_NAME_504228610^Inherited Magic^^^^^
+MST_MATERIA_NAME_504228611^Inherited Spirit^^^^^
+MST_MATERIA_NAME_504224890^Bug Killer+^^^^^
 MST_MATERIA_NAME_1500000055^Scorpion Stinger^蠍子的毒刺^전갈 독침^Aiguille de scorpion^Skorpionstachel^Aguijón de escorpión
 MST_MATERIA_NAME_1500000056^Keeper's Gate^門衛的球門^골키퍼의 골문^Cages du gardien^Hütertor^Portería del guardameta
 MST_MATERIA_NAME_1500000057^Defender's Barrier^防守的屏障^수비수의 장벽^Barrière défensive^Verteidigerbarriere^Barrera del defensa
@@ -758,3 +758,5 @@ MST_MATERIA_NAME_1500000045^Gun Upgrade^槍械升級^건 업그레이드^Amélio
 MST_MATERIA_NAME_1500000052^Frigo and Etcetera^弗瑞格一夥^프리고와 친구들^Frego et Compagnie^Frigo und Etcetera^Frigo y etcétera
 MST_MATERIA_NAME_1500000051^Distraction^娛樂^집중 방해^Distraction^Ablenkung^Distracción
 MST_MATERIA_NAME_1500000060^Divine Blessing^神聖祝福^신의 은총^Bénédiction divine^Göttlicher Segen^Bendición divina
+MST_MATERIA_NAME_1500000063^Scholarly Wisdom^學術智慧^학자의 지혜^Sagesse d'érudit^Gelehrsame Weisheit^Sabiduría del erudito
+MST_MATERIA_NAME_1500000061^Magical Recollection^^마법의 회상^Souvenir magique^Magische Rückbesinnung^Recuerdo mágico
