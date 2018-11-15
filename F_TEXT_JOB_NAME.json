@@ -70,14 +70,14 @@ MST_JOB_NAME_66^Juggler^曲藝士^곡예사^Cabotin ^Jongleur^Malabarista
 MST_JOB_NAME_67^Fencer^劍士^펜서^Escrimeur ^Fechter^Esgrimista
 MST_JOB_NAME_68^Dark Knight^暗黑騎士^암흑기사^Chevalier noir^Dunkelritter^Señor oscuro
 MST_JOB_NAME_903^Fusion Unit^合成用兵員^합성용 유닛^Renforçateur^Einheit zur Fusion^Potenciador
-MST_JOB_NAME_69^Agito Cadet^覺醒者候補生^아기토 후보생^Aspirant Agito ^Agito-Kadet^Aspirante Agito
+MST_JOB_NAME_69^Agito Cadet^覺醒者候補生^아기토 후보생^Aspirant Agito^Agito-Kadet^Aspirante de Agito
 MST_JOB_NAME_70^Strategist^軍師^참모^Stratège^Stratege^Estratega
 MST_JOB_NAME_71^White Mage^白魔道士^백마도사^Mage blanc^Weißmagier^Mago blanco
 MST_JOB_NAME_72^Red Mage^赤魔道士^적마도사^Mage rouge^Rotmagier^Mago rojo
 MST_JOB_NAME_73^Black Mage^黑魔道士^흑마도사^Mage noir^Schwarzmagier^Mago negro
 MST_JOB_NAME_74^Holy Sword Hero^聖劍勇者^성검의 용사^Héros de l'épée^H. d. hei. Schwe.^Héroe de la espada
 MST_JOB_NAME_75^Young Girl^少女^소녀^Jeune fille^Junges Mädchen^Jovencita
-MST_JOB_NAME_76^Sprite^妖精^요정^Lutin^Kobold^Elfo
+MST_JOB_NAME_76^Sprite^妖精^요정^Lutin^Fee^Elfo
 MST_JOB_NAME_77^Pirate^海盜^해적^Pirate^Pirat^Pirata
 MST_JOB_NAME_78^Guard Captain^親衛隊長^친위대장^Capitaine de garde ^Wachkapitän^Capitán de guardia
 MST_JOB_NAME_79^Dark Spirit^魔人^마인^Esprit maléfique ^Dunkelgeist^Espíritu maligno
@@ -146,11 +146,11 @@ MST_JOB_NAME_132^Barrier Mage^壁魔道士^장벽마도사^Mage spé. barrière^
 MST_JOB_NAME_133^Black Mage Warrior^黑魔道士兵^흑마도사 병사^Guerrier mage noir^Krieger der Schwarzmagie^Mago negro guerrero
 MST_JOB_NAME_134^Chocobo Rider^陸行鳥騎兵^초코보 라이더^Cavalier chocobo^Chocobo-Reiter^Jinete chocobo
 MST_JOB_NAME_135^YoRHa Troop^寄葉部隊隊員^요르하 부대원^Unité YoRHa^YoRHa-Trupp^Unidad YoRHa
-MST_JOB_NAME_136^Machine Lifeform^機械生命體^기계생명체^Forme de vie méca.^Machinenlebensform^F. de vida mecánica
+MST_JOB_NAME_136^Machine Lifeform^機械生命體^기계생명체^Forme de vie méca.^Machinenwesen^F. de vida mecánica
 MST_JOB_NAME_137^Maester^祭司^노사^Maître^Primas^Venerable
 MST_JOB_NAME_9010^Archadian Judge^阿爾卡迪亞審判者^저지 마스터^Juge archadien^Arcadischer Richter^Juez arcadio
 MST_JOB_NAME_9011^Artisan^工匠^장인^Artisan^Kunsthandwerker^Artesano
-MST_JOB_NAME_9012^Ex-YoRHa Android^原寄葉人造人^요르하 안드로이드^Androïde Ex-YoRHa ^Ex-YoRHa-Androide^Androide ex-YoRHa
+MST_JOB_NAME_9012^Ex-YoRHa Android^原寄葉人造人^전 요르하 안드로이드^Androïde Ex-YoRHa ^Ex-YoRHa-Androide^Androide ex-YoRHa
 MST_JOB_NAME_9013^Elemental Archfiend^元素四天王^골베자 사천왕^Seigneur élémentaire^Elementarfürst^Archidiablo elemental
 MST_JOB_NAME_9014^Cheerleader^拉拉隊隊長^치어리더^Cheerleader^Cheerleader^Animadora
 MST_JOB_NAME_9015^Grim Lord^冷血貴族^사신^Seigneur sombre^Grimmiger Herr^Parca
@@ -173,9 +173,9 @@ MST_JOB_NAME_150^General's Daughter^公國將軍獨生女^공국 원수의 외�
 MST_JOB_NAME_151^Cavalier^正教騎士團三火槍手^정교 기사단 삼총사^Cavalier^Kavalier^Caballero
 MST_JOB_NAME_152^Demon Buster^魔王破壞者^마왕 버스터^Tueur de démons^Dämonenschlächter^Cazademonios
 MST_JOB_NAME_153^Great Mage^大魔道士^대마도사^Grand mage^Großmagier^Archimago
-MST_JOB_NAME_154^Attacker^攻擊者^어태커^Agresseur^Angreifer^Atacante
-MST_JOB_NAME_155^Healer^治療者^힐러^Soigneur^Heiler^Sanador
-MST_JOB_NAME_156^Sharpshooter^射手^슈터^Tireur^Revolverheld^Tirador
+MST_JOB_NAME_154^Attacker^攻擊者^어태커^Attaquant^Angreifer^Atacante
+MST_JOB_NAME_155^Healer^治療者^힐러^Guérisseur^Heiler^Sanador
+MST_JOB_NAME_156^Sharpshooter^射手^슈터^Tireur^Fernkämpfer^Tirador
 MST_JOB_NAME_157^Sworn Eight^八盟傑^여덟 호걸 연맹^Memb. des Huit Jurés^D. Geschworenen Acht^Miembro de los Ocho Juramentados
 MST_JOB_NAME_158^Bombardier^炮擊士^포격사^Bombardier^Grenadier^Artillero
 MST_JOB_NAME_9019^Witch^魔女^마녀^Sorcière^Hexe^Bruja
@@ -189,41 +189,66 @@ MST_JOB_NAME_9026^Tomb Raider^古墓奇兵^툼 레이더^Pilleur de tombe^Grabr�
 MST_JOB_NAME_9027^God^神^신^Divinité^Gott^Dios
 MST_JOB_NAME_9028^Guardian^護衛^가드^Gardien^Leibgarde^Guardiana
 MST_JOB_NAME_9029^Evoker^召喚士^소환사^Invocateur^Medium^Invocadora
-MST_JOB_NAME_159^SeeD^^^^^
-MST_JOB_NAME_160^Resistance^^^^^
-MST_JOB_NAME_161^Smasher^^^^^
-MST_JOB_NAME_162^Coeurl Rider^^^^^
-MST_JOB_NAME_163^Whip User^^^^^
-MST_JOB_NAME_164^Shadow Lord^^^^^
-MST_JOB_NAME_165^Estark^^^^^
-MST_JOB_NAME_166^Marquis de Léon^^^^^
-MST_JOB_NAME_167^Überkilling Machine^^^^^
-MST_JOB_NAME_168^Slime Knight^^^^^
-MST_JOB_NAME_169^Dracky^^^^^
-MST_JOB_NAME_170^Orders^^^^^
-MST_JOB_NAME_171^Officer^^^^^
-MST_JOB_NAME_172^Knight^^^^^
-MST_JOB_NAME_173^Wizard^^^^^
-MST_JOB_NAME_174^Thief^^^^^
-MST_JOB_NAME_175^Monster^^^^^
+MST_JOB_NAME_159^SeeD^SeeD^SeeD^SeeD^SEED^SeeD
+MST_JOB_NAME_160^Resistance^抵抗軍^레지스탕스^Résistance^Widerstandskämpfer^Miembro de la resistencia
+MST_JOB_NAME_161^Smasher^扣擊者^스매셔^Frappeur^Haudrauf^Aplastadora
+MST_JOB_NAME_162^Coeurl Rider^長鬚豹騎士^커얼 라이더^Chevaucheur de cœurls^Coeurl-Reiter^Jinete de bengales
+MST_JOB_NAME_163^Whip User^鞭手^채찍술사^Adepte du fouet^Peitschenkämpfer^Experto del látigo
+MST_JOB_NAME_164^Shadow Lord^黑暗之王^암흑의 왕^Seigneur des ombres^Schattenlord^Señor oscuro
+MST_JOB_NAME_165^Estark^艾斯塔克^에스타크^Estark^Estark^Estark
+MST_JOB_NAME_166^Marquis de Léon^獅王^킹 레오^Lord Lionel^Marquis de Léon^Marquis de Léon
+MST_JOB_NAME_167^Überkilling Machine^殺戮魔神^킬러 마징가^Mékanocinglé^Obertodmaschine^Máquina supermortal
+MST_JOB_NAME_168^Slime Knight^史萊姆騎士^슬라임 나이트^Monte-gluant^Schleimritter^Jinete de limo
+MST_JOB_NAME_169^Dracky^多拉奇^드라키^Vampivol^Drako^Dracanino
+MST_JOB_NAME_170^Orders^號令者^오더즈^Membre de l'Ordre^Ordensmitglied^Miembro de las Órdenes
+MST_JOB_NAME_171^Officer^軍官^사관^Officier^Offizier^Oficial
+MST_JOB_NAME_172^Knight^騎士^나이트^^^Caballero
+MST_JOB_NAME_173^Wizard^巫師^마도사^^^
+MST_JOB_NAME_174^Thief^竊賊^도적^^^
+MST_JOB_NAME_175^Monster^魔物^마물^^^
 MST_JOB_NAME_176^Exorcist^陰陽師^음양사^Exorciste^Yin-Yang-Meister^Exorcista
-MST_JOB_NAME_177^Wizard^^^^^
-MST_JOB_NAME_178^Gigant^^^^^
-MST_JOB_NAME_179^Prince's Adviser^^^^^
-MST_JOB_NAME_180^Magic Bombardier^^^^^
-MST_JOB_NAME_181^Chooser of the Slain^^^^^
-MST_JOB_NAME_182^Sorceress^^^^^
-MST_JOB_NAME_183^Avalanche^^^^^
-MST_JOB_NAME_184^Ex-Turks^^^^^
-MST_JOB_NAME_185^Fortune-telling Machine^^^^^
-MST_JOB_NAME_186^Culinarian^^^^^
-MST_JOB_NAME_187^Flammie^^^^^
-MST_JOB_NAME_188^Rabite^^^^^
-MST_JOB_NAME_189^Instructor^^^^^
-MST_JOB_NAME_190^Aristocrat^^^^^
-MST_JOB_NAME_191^Tomb Raider^^^^^
-MST_JOB_NAME_192^Mother of Hess^^^^^
-MST_JOB_NAME_193^Child of Hess^^^^^
-MST_JOB_NAME_194^Magus^^^^^
+MST_JOB_NAME_177^Wizard^魔導士^마도사^^^
+MST_JOB_NAME_178^Gigant^巨獸^기간트^^^
+MST_JOB_NAME_179^Prince's Adviser^王子的參謀^왕자의 참모^Conseiller du prince^Berater des Prinzen^Consejero del príncipe
+MST_JOB_NAME_180^Magic Bombardier^魔炮擊士^마포격사^Bombardier magique^Magischer Bombardier^Bombardeo mágico
+MST_JOB_NAME_181^Chooser of the Slain^靈魂選擇者^영혼을 택하는 자^Celle qui choisit les morts^Richterin der Seelen^Seleccionadora de los caídos
+MST_JOB_NAME_182^Sorceress^魔術師^주술사^Enchanteresse^Magierin^Hechicera
+MST_JOB_NAME_183^Avalanche^雪崩^아발란치^^^
+MST_JOB_NAME_184^Ex-Turks^原總務部調查科^전 턱스^^^
+MST_JOB_NAME_185^Fortune-telling Machine^占卜機器^점술 머신^^^
+MST_JOB_NAME_186^Culinarian^烹調師^요리사^Cuisinier^Chefkoch^Chef
+MST_JOB_NAME_187^Flammie^弗拉米^플라미^^^
+MST_JOB_NAME_188^Rabite^拉比兔^라비^^^
+MST_JOB_NAME_189^Instructor^教官^교관^Instructeur^Ausbilder^Instructor
+MST_JOB_NAME_190^Aristocrat^貴族^귀족^^^
+MST_JOB_NAME_191^Tomb Raider^古墓奇兵^툼 레이더^^^
+MST_JOB_NAME_192^Mother of Hess^赫斯之母^헤스의 어머니^^^
+MST_JOB_NAME_193^Child of Hess^赫斯之子^헤스의 아이들^^^
+MST_JOB_NAME_194^Magus^魔道師^마도사^^^
 MST_JOB_NAME_9030^Faction Leader^反抗軍領袖^저항군 지도자^Chef de faction^Gruppierungsanführer^Líder de facción
 MST_JOB_NAME_9031^Hero^英雄^영웅^Héros^Held^Héroe
+MST_JOB_NAME_9032^Agent^特務^에이전트^Agent^Agent^Agente
+MST_JOB_NAME_9033^Freelance Hacker^自由駭客^프리랜서 해커^Hacker freelance^Freiberuflicher Hacker^Hacker a sueldo
+MST_JOB_NAME_9034^Operative^密探^정보원^Agent secret ^Geheimagent^Operario
+MST_JOB_NAME_9035^Augmentation Specialist^強化專家^증강 기술 전문가^Spécialiste en augmentations^Augmentationsspezialist^Especialista en aumentos
+MST_JOB_NAME_9036^Surfer^衝浪手^서퍼^Surfeur^Surfer^Surfista
+MST_JOB_NAME_9037^Oracle^神諭者^사제^Oracle^Orakel^Oráculo
+MST_JOB_NAME_9038^Vagrant^浪人^방랑자^Vagabond^Vagabund^Vagabundo
+MST_JOB_NAME_195^Shaman^^^^^
+MST_JOB_NAME_196^^^^^^
+MST_JOB_NAME_197^^^^^^
+MST_JOB_NAME_198^^^^^^
+MST_JOB_NAME_199^^^^^^
+MST_JOB_NAME_200^King^^^^^
+MST_JOB_NAME_201^^^^^^
+MST_JOB_NAME_202^Al Bhed^^^^^
+MST_JOB_NAME_203^Robot^^^^^
+MST_JOB_NAME_204^Elite Engineer^^^^^
+MST_JOB_NAME_205^^^^^^
+MST_JOB_NAME_206^^^^^^
+MST_JOB_NAME_207^^^^^^
+MST_JOB_NAME_900^^^^^^
+MST_JOB_NAME_9039^Succubus^魅魔^서큐버스^Succube^Sukkubus^Súcubo
+MST_JOB_NAME_9040^Incubus^夢魔^인큐버스^Incube^Inkubus^Íncubo
+MST_JOB_NAME_9041^Tonberry^冬貝利^톤베리^Tomberry^Tonberry^Tomberi
+MST_JOB_NAME_9042^Hemomancer^血巫師^헤모맨서^Hémomancienne^Blutmagier^Hemomante

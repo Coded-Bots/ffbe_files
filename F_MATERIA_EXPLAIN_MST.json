@@ -366,8 +366,8 @@
     }, 
     {
         "H5jBL0Vf": "504100080", 
-        "T7aEx3Mj": "Attack +20%", 
-        "VC9F3eJn": "Attack +20%"
+        "T7aEx3Mj": "攻撃を20%アップ", 
+        "VC9F3eJn": "攻撃を20%アップする。"
     }, 
     {
         "H5jBL0Vf": "504100090", 
@@ -1390,6 +1390,11 @@
         "VC9F3eJn": "使用ターン中1回のみ、敵味方が放った一部の魔法を無効化する。"
     }, 
     {
+        "H5jBL0Vf": "504209540", 
+        "T7aEx3Mj": "銃装備時、攻撃をアップ", 
+        "VC9F3eJn": "銃を装備すると攻撃がアップする。"
+    }, 
+    {
         "H5jBL0Vf": "504209550", 
         "T7aEx3Mj": "土属性耐性を15%アップ", 
         "VC9F3eJn": "土属性耐性を15%アップする。"
@@ -1546,8 +1551,8 @@
     }, 
     {
         "H5jBL0Vf": "504212570", 
-        "T7aEx3Mj": "Symphonic Flair", 
-        "VC9F3eJn": "Symphonic Flair"
+        "T7aEx3Mj": "楽器装備時、攻撃魔力をアップ", 
+        "VC9F3eJn": "楽器を装備すると攻撃魔力がアップする。"
     }, 
     {
         "H5jBL0Vf": "504213160", 
@@ -1846,8 +1851,8 @@
     }, 
     {
         "H5jBL0Vf": "504219260", 
-        "T7aEx3Mj": "軽盾装備時、防御精神をアップ", 
-        "VC9F3eJn": "軽盾を装備すると防御精神がアップする。"
+        "T7aEx3Mj": "Boost DEF and SPR when equipped with a light shield (Not stackable)", 
+        "VC9F3eJn": "Boosts DEF and SPR when equipped with a light shield. Not stackable."
     }, 
     {
         "H5jBL0Vf": "504219270", 
@@ -1941,8 +1946,8 @@
     }, 
     {
         "H5jBL0Vf": "504221560", 
-        "T7aEx3Mj": "重鎧装備時、HP防御をアップ", 
-        "VC9F3eJn": "重鎧を装備するとHP防御がアップする。"
+        "T7aEx3Mj": "Boost HP and DEF when equipped with heavy armor (Not stackable)", 
+        "VC9F3eJn": "Boosts HP and DEF when equipped with heavy armor. Not stackable."
     }, 
     {
         "H5jBL0Vf": "504221570", 
@@ -2093,6 +2098,11 @@
         "H5jBL0Vf": "504224870", 
         "T7aEx3Mj": "HPMP、闇属性耐性を5%アップ", 
         "VC9F3eJn": "HPMP、闇属性耐性を5%アップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504224890", 
+        "T7aEx3Mj": "物理、魔法攻撃時、虫系へのダメージをアップ", 
+        "VC9F3eJn": "物理、魔法攻撃時、虫系へのダメージをアップする。"
     }, 
     {
         "H5jBL0Vf": "504224900", 
@@ -2460,214 +2470,464 @@
         "VC9F3eJn": "刀を装備すると攻撃防御魔力精神がアップする。"
     }, 
     {
+        "H5jBL0Vf": "504228151", 
+        "T7aEx3Mj": "HPを30%、防御を20%、風属性耐性を30%アップ", 
+        "VC9F3eJn": "HPを30%、防御を20%、風属性耐性を30%アップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504228152", 
+        "T7aEx3Mj": "MPを10%アップ+両手の装備品が武器1個だと武具の魔力がアップ", 
+        "VC9F3eJn": "MPを10%アップし、両手の装備品が武器1個だと武具の魔力がアップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504228161", 
+        "T7aEx3Mj": "攻撃魔力を20%アップ+バーストストーンによる上昇量をアップ", 
+        "VC9F3eJn": "攻撃魔力を20%アップし、バーストストーンによる上昇量をアップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504228200", 
+        "T7aEx3Mj": "HPを50%、防御精神を10%アップ", 
+        "VC9F3eJn": "HPを50%、防御精神を10%アップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504228201", 
+        "T7aEx3Mj": "MPを50%、攻撃魔力を10%アップ", 
+        "VC9F3eJn": "MPを50%、攻撃魔力を10%アップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504228202", 
+        "T7aEx3Mj": "魔法攻撃時、人機械系へのダメージをアップ", 
+        "VC9F3eJn": "魔法攻撃時、人機械系へのダメージをアップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504228203", 
+        "T7aEx3Mj": "HPを30%アップ+麻痺を無効", 
+        "VC9F3eJn": "HPを30%アップし、麻痺を無効化する。"
+    }, 
+    {
+        "H5jBL0Vf": "504228204", 
+        "T7aEx3Mj": "MPを30%アップ+混乱を無効", 
+        "VC9F3eJn": "MPを30%アップし、混乱を無効化する。"
+    }, 
+    {
+        "H5jBL0Vf": "504228234", 
+        "T7aEx3Mj": "攻撃を60%アップ+物理攻撃時、獣精霊死霊系へのダメージをアップ", 
+        "VC9F3eJn": "攻撃を60%アップし、物理攻撃時、獣精霊死霊系へのダメージをアップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504228254", 
+        "T7aEx3Mj": "攻撃を50%アップ+幻獣セット時に反映されるステータスが30%アップ+剣装備時、HPMPをアップ", 
+        "VC9F3eJn": "攻撃を50%アップし、幻獣セット時に反映されるステータスが30%アップし、剣を装備するとHPMPがアップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504228277", 
+        "T7aEx3Mj": "槍装備時、攻撃防御魔力精神をアップ", 
+        "VC9F3eJn": "槍を装備すると攻撃防御魔力精神がアップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504228287", 
+        "T7aEx3Mj": "攻撃魔力を30%アップ+片手用武器を2つ装備すると武具の攻撃魔力がアップ", 
+        "VC9F3eJn": "攻撃魔力を30%アップし、片手用武器を2つ装備すると武具の攻撃魔力がアップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504228299", 
+        "T7aEx3Mj": "HPを10%、光属性耐性を15%アップ", 
+        "VC9F3eJn": "HPを10%、光属性耐性を15%アップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504228324", 
+        "T7aEx3Mj": "バトル開始時と戦闘不能から回復時、自分の攻撃防御魔力精神をアップ+剣装備時、攻撃をアップ+服装備時、HP攻撃をアップ", 
+        "VC9F3eJn": "バトル開始時、および戦闘不能から回復時に、自分の攻撃防御魔力精神がアップし、剣を装備すると攻撃がアップし、服を装備するとHP攻撃がアップする。ただしバトル中のステータスアップ効果はターン経過により徐々に下がる。"
+    }, 
+    {
+        "H5jBL0Vf": "504228356", 
+        "T7aEx3Mj": "魔力を40%、火属性耐性を50%アップ", 
+        "VC9F3eJn": "魔力を40%、火属性耐性を50%アップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504228371", 
+        "T7aEx3Mj": "攻撃魔力を20%アップ", 
+        "VC9F3eJn": "攻撃魔力を20%アップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504228380", 
+        "T7aEx3Mj": "HPを10%、攻撃魔力を5%アップ", 
+        "VC9F3eJn": "HPを10%、攻撃魔力を5%アップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504228381", 
+        "T7aEx3Mj": "HPを10%、防御精神を5%アップ", 
+        "VC9F3eJn": "HPを10%、防御精神を5%アップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504228390", 
+        "T7aEx3Mj": "魔力を30%アップ+魔法攻撃時、人系へのダメージをアップ", 
+        "VC9F3eJn": "魔力を30%アップし、魔法攻撃時、人系へのダメージをアップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504228391", 
+        "T7aEx3Mj": "敵全体に確率で暗闇麻痺混乱石化+氷属性耐性をダウン", 
+        "VC9F3eJn": "敵全体を確率で暗闇麻痺混乱石化状態にし、氷属性耐性をダウンさせる。"
+    }, 
+    {
+        "H5jBL0Vf": "504228416", 
+        "T7aEx3Mj": "HP、土属性耐性を30%、防御精神を20%アップ+バーストストーンによる上昇量をアップ", 
+        "VC9F3eJn": "HP、土属性耐性を30%、防御精神を20%アップし、バーストストーンによる上昇量をアップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504228452", 
+        "T7aEx3Mj": "HPを30%アップ+HPが一定値以上の時、確率で1回だけ戦闘不能を耐える", 
+        "VC9F3eJn": "HPを30%アップし、HPが一定値以上の時、確率で1回だけ戦闘不能を耐える。"
+    }, 
+    {
+        "H5jBL0Vf": "504228470", 
+        "T7aEx3Mj": "攻撃を20%アップ+物理攻撃時、獣系へのダメージを25%アップ+服装備時、攻撃を20%アップ", 
+        "VC9F3eJn": "攻撃を20%アップし、物理攻撃時、獣系へのダメージを25%アップし、服装備時、攻撃を20%アップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504228490", 
+        "T7aEx3Mj": "MPを20%、精神を40%アップ+毎ターン防御精神をアップ", 
+        "VC9F3eJn": "MPを20%、精神を40%アップし、毎ターン防御精神をアップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504228565", 
+        "T7aEx3Mj": "剣装備時に攻撃を50%アップ+バーストストーンによる上昇量をアップ", 
+        "VC9F3eJn": "剣装備時に攻撃を50%アップし、バーストストーンによる上昇量をアップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504228586", 
+        "T7aEx3Mj": "両手の装備品が武器1個だと武具の攻撃がアップ+物理攻撃時、悪魔系へのダメージをアップ", 
+        "VC9F3eJn": "両手の装備品が武器1個だと武具の攻撃がアップし、物理攻撃時、悪魔系へのダメージをアップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504228610", 
+        "T7aEx3Mj": "MPを5%、魔力を10%アップ", 
+        "VC9F3eJn": "MPを5%、魔力を10%アップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504228611", 
+        "T7aEx3Mj": "MPを5%、精神を10%アップ", 
+        "VC9F3eJn": "MPを5%、精神を10%アップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504228637", 
+        "T7aEx3Mj": "MP、精神を30%アップ+バーストストーンによる上昇量をアップ+毎ターンMPを回復", 
+        "VC9F3eJn": "MP、精神を30%アップし、バーストストーンによる上昇量を50%アップし、毎ターンMPを回復する。"
+    }, 
+    {
+        "H5jBL0Vf": "504228658", 
+        "T7aEx3Mj": "攻撃を40%アップ+物理攻撃時、植物系へのダメージをアップ", 
+        "VC9F3eJn": "攻撃を40%アップし、物理攻撃時、植物系へのダメージを50%アップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504228691", 
+        "T7aEx3Mj": "攻撃を20%アップ", 
+        "VC9F3eJn": "攻撃を20%アップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504228692", 
+        "T7aEx3Mj": "魔力を20%アップ", 
+        "VC9F3eJn": "魔力を20%アップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504228693", 
+        "T7aEx3Mj": "攻撃防御を20%アップ+毎ターンMPを回復+服装備時に攻撃を30%アップ", 
+        "VC9F3eJn": "攻撃防御を20%アップし、毎ターンMPを回復し、服を装備すると攻撃が30%アップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504228694", 
+        "T7aEx3Mj": "火水風土属性耐性を60%アップ+ロッド装備時に魔力を60%アップ", 
+        "VC9F3eJn": "火水風土属性耐性を60%アップし、ロッドを装備すると魔力が60%アップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504228695", 
+        "T7aEx3Mj": "魔力を40%アップ+毎ターンMPを回復", 
+        "VC9F3eJn": "魔力を40%アップし、毎ターンMPを回復する。"
+    }, 
+    {
+        "H5jBL0Vf": "504228696", 
+        "T7aEx3Mj": "HP、攻撃防御を15%アップ", 
+        "VC9F3eJn": "HP、攻撃防御を15%アップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504228697", 
+        "T7aEx3Mj": "風土属性耐性を10%アップ", 
+        "VC9F3eJn": "風土属性耐性を10%アップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504228699", 
+        "T7aEx3Mj": "攻撃を60%アップ+バーストストーンによる上昇量をアップ+物理、魔法攻撃時、機械系へのダメージをアップ", 
+        "VC9F3eJn": "攻撃を60%アップし、バーストストーンによる上昇量をアップし、物理、魔法攻撃時、機械系へのダメージをアップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504228860", 
+        "T7aEx3Mj": "HPMPを20%アップ+大剣装備時に攻撃を50%アップ", 
+        "VC9F3eJn": "HPMPを20%アップし、大剣を装備すると攻撃が50%アップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504228861", 
+        "T7aEx3Mj": "混乱病気石化を無効+刀装備時に攻撃を60%アップ", 
+        "VC9F3eJn": "混乱病気石化を無効化し、刀を装備すると攻撃が60%アップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504228862", 
+        "T7aEx3Mj": "魔力を40%アップ+召喚魔法時幻獣のステータスが10%アップ", 
+        "VC9F3eJn": "魔力を40%アップ+召喚魔法時に幻獣のステータスを10%アップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504228865", 
+        "T7aEx3Mj": "攻撃を10%アップ+物理攻撃時、悪魔系へのダメージをアップ", 
+        "VC9F3eJn": "攻撃を10%アップし、物理攻撃時、悪魔系へのダメージをアップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504228866", 
+        "T7aEx3Mj": "魔力を10%アップ+魔法攻撃時、悪魔系へのダメージをアップ", 
+        "VC9F3eJn": "魔力を10%アップし、魔法攻撃時、悪魔系へのダメージをアップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504228870", 
+        "T7aEx3Mj": "ローブ装備時に魔力精神を30%アップ", 
+        "VC9F3eJn": "ローブを装備すると魔力精神が30%アップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504228983", 
+        "T7aEx3Mj": "バーストストーンによる上昇量をアップ+両手の装備品が武器1個だと武具の攻撃がアップ+斧装備時に攻撃を30%アップ", 
+        "VC9F3eJn": "バーストストーンによる上昇量をアップし、両手の装備品が武器1個だと武具の攻撃がアップし、斧を装備すると攻撃が30%アップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504229027", 
+        "T7aEx3Mj": "攻撃を20%アップ+LBのダメージがアップ", 
+        "VC9F3eJn": "攻撃を20%アップし、LBのダメージ量がアップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504229030", 
+        "T7aEx3Mj": "防御を20%アップ", 
+        "VC9F3eJn": "防御を20%アップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504229031", 
+        "T7aEx3Mj": "精神を20%アップ", 
+        "VC9F3eJn": "精神を20%アップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504229032", 
+        "T7aEx3Mj": "格闘、刀装備時に攻撃を30%アップ+両手の装備品が武器1個だと武具の攻撃がアップ", 
+        "VC9F3eJn": "格闘、刀装備時に攻撃を30%アップし、両手の装備品が武器1個だと武具の攻撃がアップする。"
+    }, 
+    {
+        "H5jBL0Vf": "504229034", 
+        "T7aEx3Mj": "MP、魔力を30%アップ+毎ターンLBゲージが増加+ロッド装備時に魔力を30%アップ", 
+        "VC9F3eJn": "ロッド装備時に魔力を30%アップし、MP、魔力を30%アップし、毎ターンリミットバーストゲージが増加する。"
+    }, 
+    {
         "H5jBL0Vf": "504400110", 
         "T7aEx3Mj": "エンカウント率減少", 
         "VC9F3eJn": "エンカウント率が減少する。"
     }, 
     {
         "H5jBL0Vf": "1500000000", 
-        "T7aEx3Mj": "Critical damage to one enemy", 
-        "VC9F3eJn": "Deals critical damage to one enemy."
+        "T7aEx3Mj": "敵１体にクリティカルダメージを与える", 
+        "VC9F3eJn": "敵１体にクリティカルダメージを与える"
     }, 
     {
         "H5jBL0Vf": "1500000001", 
-        "T7aEx3Mj": "Boost HP and MP by 13%", 
-        "VC9F3eJn": "Halloween Characters only. Boost HP and MP by 13%"
+        "T7aEx3Mj": "HP, MPを13%アップ", 
+        "VC9F3eJn": "HP, MPを13%アップ（悪魔のレイン、吸血鬼のラスウェル、白魔女のフィーナ、黒猫のリドのみ）"
     }, 
     {
         "H5jBL0Vf": "1500000002", 
-        "T7aEx3Mj": "Boost ATK and MAG by 13%", 
-        "VC9F3eJn": "Halloween Characters only. Boost ATK and MAG by 13%"
+        "T7aEx3Mj": "攻撃、魔力を13%アップ", 
+        "VC9F3eJn": "攻撃、魔力を13%アップ（悪魔のレイン、吸血鬼のラスウェル、白魔女のフィーナ、黒猫のリドのみ）"
     }, 
     {
         "H5jBL0Vf": "1500000003", 
-        "T7aEx3Mj": "Boost limit burst fill rate and boost ATK by 20%", 
-        "VC9F3eJn": "Boosts limit burst fill rate and boosts ATK by 20%. (Elza only)"
+        "T7aEx3Mj": "LBゲージの回復率アップ＋攻撃を20%アップ", 
+        "VC9F3eJn": "LBゲージの回復率アップ＋攻撃を20%アップ（エルザのみ）"
     }, 
     {
         "H5jBL0Vf": "1500000004", 
-        "T7aEx3Mj": "Boost SPR by 20% and boost HP and MP by 15%", 
-        "VC9F3eJn": "Boosts SPR by 20% and boosts HP and MP by 15%."
+        "T7aEx3Mj": "精神を20%、HP、MPを15%アップする。", 
+        "VC9F3eJn": "精神を20%、HP、MPを15%アップする。"
     }, 
     {
         "H5jBL0Vf": "1500000005", 
-        "T7aEx3Mj": "Boots ice and wind resistance for all allies.", 
-        "VC9F3eJn": "Boots ice and wind resistance for all allies."
+        "T7aEx3Mj": "味方全体の氷、風属性耐性を50%アップ（3ターン）", 
+        "VC9F3eJn": "味方全体の氷、風属性耐性を50%アップする（3ターン）"
     }, 
     {
         "H5jBL0Vf": "1500000007", 
-        "T7aEx3Mj": "Deliverance", 
-        "VC9F3eJn": "Deliverance"
+        "T7aEx3Mj": "攻撃防御を20%アップ+オートリジェネ", 
+        "VC9F3eJn": "攻撃防御を20%アップ+オートリジェネ（ジャックのみ）"
     }, 
     {
         "H5jBL0Vf": "1500000008", 
-        "T7aEx3Mj": "Firewall power", 
-        "VC9F3eJn": "Firewall power"
+        "T7aEx3Mj": "攻撃を30%アップ+全属性耐性を20%アップ", 
+        "VC9F3eJn": "攻撃を30%アップ+全属性耐性を20%アップ（トレイのみ）"
     }, 
     {
         "H5jBL0Vf": "1500000009", 
-        "T7aEx3Mj": "Lightspeed Jab", 
-        "VC9F3eJn": "Lightspeed Jab"
+        "T7aEx3Mj": "「ふんばる」を発動＋攻撃をアップ、防御をダウン（エイト専用）", 
+        "VC9F3eJn": "「ふんばる」を発動＋攻撃をアップし、防御をダウンする。（エイト専用）"
     }, 
     {
         "H5jBL0Vf": "1500000010", 
-        "T7aEx3Mj": "Cheerleader", 
-        "VC9F3eJn": "Cheerleader"
+        "T7aEx3Mj": "「はげます」を発動＋攻撃をアップ、防御を25%ダウン（シンク専用）", 
+        "VC9F3eJn": "「はげます」を発動＋攻撃をアップし、防御を25%ダウンする。（シンク専用）"
     }, 
     {
         "H5jBL0Vf": "1500000011", 
-        "T7aEx3Mj": "Break Free!", 
-        "VC9F3eJn": "Break Free!"
+        "T7aEx3Mj": "魔力を30%、HPを10%アップ+デンジャラスアリアナが「れんぞくま」を使用可能になる", 
+        "VC9F3eJn": "魔力を30%、HPを10%アップ+デンジャラスアリアナが「れんぞくま」を使用可能になる。"
     }, 
     {
         "H5jBL0Vf": "1500000012", 
-        "T7aEx3Mj": "Echidnas Kiss ", 
-        "VC9F3eJn": "Echidnas Kiss "
+        "T7aEx3Mj": "魔力を30%アップ", 
+        "VC9F3eJn": "魔力を30%アップする。"
     }, 
     {
         "H5jBL0Vf": "1500000013", 
-        "T7aEx3Mj": "Adventurer", 
-        "VC9F3eJn": "Adventurer"
+        "T7aEx3Mj": "攻撃防御魔法精神を10%アップ", 
+        "VC9F3eJn": "攻撃防御魔法精神を10%アップする。"
     }, 
     {
         "H5jBL0Vf": "1500000014", 
-        "T7aEx3Mj": "Renewal", 
-        "VC9F3eJn": "Renewal"
+        "T7aEx3Mj": "毎ターンMPを回復','毎ターンMPを回復する。", 
+        "VC9F3eJn": "毎ターンMPを回復する。"
     }, 
     {
         "H5jBL0Vf": "1500000015", 
-        "T7aEx3Mj": "Adventurer +1", 
-        "VC9F3eJn": "Adventurer +1"
+        "T7aEx3Mj": "攻撃防御魔法精神を15%アップ", 
+        "VC9F3eJn": "攻撃防御魔法精神を15%アップする。"
     }, 
     {
         "H5jBL0Vf": "1500000016", 
-        "T7aEx3Mj": "Adventurer +2", 
-        "VC9F3eJn": "Adventurer +2"
+        "T7aEx3Mj": "攻撃防御魔法精神を20%アップ", 
+        "VC9F3eJn": "攻撃防御魔法精神を20%アップする。"
     }, 
     {
         "H5jBL0Vf": "1500000017", 
-        "T7aEx3Mj": "Adventurer +3", 
-        "VC9F3eJn": "Adventurer +3"
+        "T7aEx3Mj": "攻撃防御魔法精神を30%アップ", 
+        "VC9F3eJn": "攻撃防御魔法精神を30%アップする。"
     }, 
     {
         "H5jBL0Vf": "1500000018", 
-        "T7aEx3Mj": "Adventurer +4", 
-        "VC9F3eJn": "Adventurer +4"
+        "T7aEx3Mj": "攻撃防御魔法精神を40%アップ", 
+        "VC9F3eJn": "攻撃防御魔法精神を40%アップする。"
     }, 
     {
         "H5jBL0Vf": "1500000019", 
-        "T7aEx3Mj": "Marlboro Whisper", 
-        "VC9F3eJn": "Marlboro Whisper"
+        "T7aEx3Mj": "Boost HP by 20% and MAG by 30%", 
+        "VC9F3eJn": "Boost HP by 20% and MAG by 30%"
     }, 
     {
         "H5jBL0Vf": "1500000020", 
-        "T7aEx3Mj": "Resentment", 
-        "VC9F3eJn": "Resentment"
+        "T7aEx3Mj": "Boost HP by 30% and DEF when HP falls below a certain point", 
+        "VC9F3eJn": "Boost HP by 30% and DEF when HP falls below a certain point"
     }, 
     {
         "H5jBL0Vf": "1500000021", 
-        "T7aEx3Mj": "Regenerator", 
-        "VC9F3eJn": "Regenerator"
+        "T7aEx3Mj": "Chance to regenerate HP for 3 turns when attacked with physical damage", 
+        "VC9F3eJn": "Chance to regenerate HP for 3 turns when attacked with physical damage"
     }, 
     {
         "H5jBL0Vf": "1500000022", 
-        "T7aEx3Mj": "Vigilance", 
-        "VC9F3eJn": "Vigilance"
+        "T7aEx3Mj": "Chance to reduce damage taken for 2 turns when attacked with physical attack", 
+        "VC9F3eJn": "Chance to reduce damage taken for 2 turns when attacked with physical attack"
     }, 
     {
         "H5jBL0Vf": "1500000023", 
-        "T7aEx3Mj": "Casanova", 
-        "VC9F3eJn": "Casanova"
+        "T7aEx3Mj": "Bosst HP by 15% and enables Casanova Guard for dusch", 
+        "VC9F3eJn": "Bosst HP by 15% and enables Casanova Guard for dusch"
     }, 
     {
         "H5jBL0Vf": "1500000024", 
-        "T7aEx3Mj": "Water Maiden", 
-        "VC9F3eJn": "Water Maiden"
+        "T7aEx3Mj": "Boost SPR by 15% and Enables Water Maiden Blesings for Aria", 
+        "VC9F3eJn": "Boost SPR by 15% and Enables Water Maiden Blesings for Aria"
     }, 
     {
         "H5jBL0Vf": "1500000025", 
-        "T7aEx3Mj": "Rhythmic Flair", 
-        "VC9F3eJn": "Rhythmic Flair"
+        "T7aEx3Mj": "Boost MAG by 25% and MP by 15%", 
+        "VC9F3eJn": "Boost MAG by 25% and MP by 15%"
     }, 
     {
         "H5jBL0Vf": "1500000026", 
-        "T7aEx3Mj": "Full Moon", 
-        "VC9F3eJn": "Full Moon"
+        "T7aEx3Mj": "Boost HP by 15% and SPR by 5%", 
+        "VC9F3eJn": "Boost HP by 15% and SPR by 5%"
     }, 
     {
         "H5jBL0Vf": "1500000027", 
-        "T7aEx3Mj": "Blighted Despot", 
-        "VC9F3eJn": "Blighted Despot"
+        "T7aEx3Mj": "Boost ATK/HP by 20% and earth resistance by 25%", 
+        "VC9F3eJn": "Boost ATK and HP and increase Earth resistance"
     }, 
     {
         "H5jBL0Vf": "1500000028", 
-        "T7aEx3Mj": "The Drowned King", 
-        "VC9F3eJn": "The Drowned King"
+        "T7aEx3Mj": "Boost DEF by 40% and water resistance by 25%", 
+        "VC9F3eJn": "Boost DEF and Increase Water Resistance"
     }, 
     {
         "H5jBL0Vf": "1500000029", 
-        "T7aEx3Mj": "Lunarians Hate", 
-        "VC9F3eJn": "Lunarians Hate"
+        "T7aEx3Mj": "Boost MAG by 25% and MP by 15%", 
+        "VC9F3eJn": "Boost MAG and MP"
     }, 
     {
         "H5jBL0Vf": "1500000030", 
-        "T7aEx3Mj": "Codex of Sword Master", 
-        "VC9F3eJn": "Codex of Sword Master"
+        "T7aEx3Mj": "Boost ATK and MAG by 20% when equipped with a sword", 
+        "VC9F3eJn": "Boosts ATK and MAG by 20% when equipped with a sword."
     }, 
     {
         "H5jBL0Vf": "1500000031", 
-        "T7aEx3Mj": "Barbariccias Spirit", 
-        "VC9F3eJn": "Barbariccias Spirit"
+        "T7aEx3Mj": "HPを30%アップ＋ 人系、獣系、鳥系、石系モンスターに対する魔法ダメージをアップ（重複装備不可）", 
+        "VC9F3eJn": "HPを30%アップし、人獣鳥石系モンスターに対する魔法ダメージをアップする。（重複装備不可）"
     }, 
     {
         "H5jBL0Vf": "1500000032", 
-        "T7aEx3Mj": "Cheerful Tune", 
-        "VC9F3eJn": "Cheerful Tune"
+        "T7aEx3Mj": "Boost HP and MP by 10%", 
+        "VC9F3eJn": "HPMPを10%アップする"
     }, 
     {
         "H5jBL0Vf": "1500000033", 
-        "T7aEx3Mj": "Instrumental Flair", 
-        "VC9F3eJn": "Instrumental Flair"
+        "T7aEx3Mj": "Boost HP by 25% and can equip instruments", 
+        "VC9F3eJn": "Boosts HP by 25% and enables unit to equip instruments."
     }, 
     {
         "H5jBL0Vf": "1500000034", 
-        "T7aEx3Mj": "Magic Sanctuary", 
-        "VC9F3eJn": "Magic Sanctuary"
+        "T7aEx3Mj": "Boost SPR by 15% and all elemental resistances by 25%, and LB gauge fills each turn during battle", 
+        "VC9F3eJn": "Boosts SPR by 15% and all elemental resistances by 25%, and fills limit burst gauge each turn during battle."
     }, 
     {
         "H5jBL0Vf": "1500000035", 
-        "T7aEx3Mj": "Joyful Spirit", 
-        "VC9F3eJn": "Joyful Spirit"
+        "T7aEx3Mj": "Boost HP by 10% and increase resistance for sleep, paralysis, confusion and petrify by 50% for self", 
+        "VC9F3eJn": "Boost HP by 10% and increase resistance for sleep, paralysis, confusion and petrify by 50% for self."
     }, 
     {
         "H5jBL0Vf": "1500000036", 
-        "T7aEx3Mj": "Turbulent Evasion", 
-        "VC9F3eJn": "Turbulent Evasion"
+        "T7aEx3Mj": "Boost ATK by 10%, wind resistance by 20% and chance of evading physical attacks (Not Stackable)", 
+        "VC9F3eJn": "Boosts ATK by 10%, wind resistance by 20% and chance of evading physical attacks. Not stackable."
     }, 
     {
         "H5jBL0Vf": "1500000037", 
-        "T7aEx3Mj": "Cowered Courage", 
-        "VC9F3eJn": "Cowered Courage"
+        "T7aEx3Mj": "Boost DEF by 30%, earth resistance by 30% and enable Primal Instincts", 
+        "VC9F3eJn": "Boosts DEF by 30%, earth resistance by 30% and enables Primal Instincts."
     }, 
     {
         "H5jBL0Vf": "1500000038", 
-        "T7aEx3Mj": "Unmatched Wizardry", 
-        "VC9F3eJn": "Unmatched Wizardry"
+        "T7aEx3Mj": "Boost SPR by 10% and MAG when armed with a one-handed weapon with the other hand empty (Not Stackable)", 
+        "VC9F3eJn": "Boosts SPR by 10% and MAG when armed with a one-handed weapon with the other hand empty. Not stackable."
     }, 
     {
         "H5jBL0Vf": "1500000039", 
-        "T7aEx3Mj": "White Knights Soul", 
-        "VC9F3eJn": "White Knights Soul"
+        "T7aEx3Mj": "Boost ATK when equipped with a helm, boost DEF when equipped with heavy armor (Not Stackable)", 
+        "VC9F3eJn": "Boosts ATK when equipped with a helm, boosts DEF when equipped with heavy armor. Not stackable."
     }, 
     {
         "H5jBL0Vf": "1500000040", 
-        "T7aEx3Mj": "Tomb Raider", 
-        "VC9F3eJn": "Tomb Raider"
+        "T7aEx3Mj": "Boost HP, fill LB gauge each turn, increase chance of countering, and boost ATK when a single weapon is equipped in both hands", 
+        "VC9F3eJn": "Boost HP, fill LB gauge each turn, increase chance of countering, and boost ATK when a single weapon is equipped in both hands"
     }, 
     {
         "H5jBL0Vf": "1500000041", 
-        "T7aEx3Mj": "Power of the Sands", 
-        "VC9F3eJn": "Power of the Sands"
+        "T7aEx3Mj": "Boost ATK and SPR by 15%, and decrease chance of being targeted. Nullify stone (Lara Croft, Pharaoh Abel, Divine Soleil, Explorer Aileen only)", 
+        "VC9F3eJn": "Boosts ATK and SPR by 15%, and decreases chance of being targeted. Nullifies stone (Lara Croft, Pharaoh Abel, Divine Soleil, Explorer Aileen only)."
     }, 
     {
         "H5jBL0Vf": "1500000042", 
@@ -2676,13 +2936,18 @@
     }, 
     {
         "H5jBL0Vf": "1500000043", 
-        "T7aEx3Mj": "Crofts Intuition", 
-        "VC9F3eJn": "Crofts Intuition"
+        "T7aEx3Mj": "Boost HP, MP, ATK, and DEF by 10%, and all elemental resistances by 7%", 
+        "VC9F3eJn": "Boosts HP, MP, ATK, and DEF by 10%, and all elemental resistances by 7%."
+    }, 
+    {
+        "H5jBL0Vf": "1500000044", 
+        "T7aEx3Mj": "Boost ATK by 30% and DEF by 15%", 
+        "VC9F3eJn": "Boost ATK by 30% and DEF by 15%."
     }, 
     {
         "H5jBL0Vf": "1500000045", 
-        "T7aEx3Mj": "Boost ATK when equipped with a gun", 
-        "VC9F3eJn": "Boost ATK when equipped with a gun"
+        "T7aEx3Mj": "Boost ATK and SPR when equipped with a gun", 
+        "VC9F3eJn": "Boost ATK and SPR when equipped with a gun"
     }, 
     {
         "H5jBL0Vf": "1500000046", 
@@ -2716,33 +2981,43 @@
     }, 
     {
         "H5jBL0Vf": "1500000052", 
-        "T7aEx3Mj": "Boost ATK and boost physical damage against machina monsters", 
-        "VC9F3eJn": "Boost ATK and boost physical damage against machina monsters"
+        "T7aEx3Mj": "Boost ATK and physical damage against machina monsters, and enable rebellion", 
+        "VC9F3eJn": "Boost ATK and physical damage against machina monsters, and enable rebellion"
+    }, 
+    {
+        "H5jBL0Vf": "1500000053", 
+        "T7aEx3Mj": "Boost HP and MP by 15%, and lightning resistance by 20%", 
+        "VC9F3eJn": "Boost HP and MP by 15%, and lightning resistance by 20%"
+    }, 
+    {
+        "H5jBL0Vf": "1500000054", 
+        "T7aEx3Mj": "Boost ATK and HP by 20%, and boost physical damage evasion by 5%", 
+        "VC9F3eJn": "Boost ATK and HP by 20%, and boost physical damage evasion by 5%"
     }, 
     {
         "H5jBL0Vf": "1500000055", 
-        "T7aEx3Mj": "Scorpion Stinger", 
-        "VC9F3eJn": "Scorpion Stinger"
+        "T7aEx3Mj": "Boost ATK by 20% and MP by 10%", 
+        "VC9F3eJn": "Boost ATK by 20% and MP by 10%"
     }, 
     {
         "H5jBL0Vf": "1500000056", 
-        "T7aEx3Mj": "Keepers Gate", 
-        "VC9F3eJn": "Keepers Gate"
+        "T7aEx3Mj": "Boost DEF and SPR by 15%", 
+        "VC9F3eJn": "Boost DEF and SPR by 15%"
     }, 
     {
         "H5jBL0Vf": "1500000057", 
-        "T7aEx3Mj": "Defenders Barrier", 
-        "VC9F3eJn": "Defenders Barrier"
+        "T7aEx3Mj": "Boost HP by 15%, and DEF/SPR by 5%", 
+        "VC9F3eJn": "Boost HP by 15%, and DEF/SPR by 5%"
     }, 
     {
         "H5jBL0Vf": "1500000058", 
-        "T7aEx3Mj": "Midfielders Potential", 
-        "VC9F3eJn": "Midfielders Potential"
+        "T7aEx3Mj": "Boost ATK and MAG by 15%", 
+        "VC9F3eJn": "Boost ATK and MAG by 15%"
     }, 
     {
         "H5jBL0Vf": "1500000059", 
-        "T7aEx3Mj": "Strikers Roundhouse", 
-        "VC9F3eJn": "Strikers Roundhouse"
+        "T7aEx3Mj": "Boost ATK by 20%", 
+        "VC9F3eJn": "Boost ATK by 20%"
     }, 
     {
         "H5jBL0Vf": "1500000060", 
@@ -2750,8 +3025,103 @@
         "VC9F3eJn": "Boost HP by 15%, restore HP each turn, and boost EXP obtained from battle"
     }, 
     {
+        "H5jBL0Vf": "1500000061", 
+        "T7aEx3Mj": "Boost SPR and MP", 
+        "VC9F3eJn": "Boost SPR and MP"
+    }, 
+    {
+        "H5jBL0Vf": "1500000062", 
+        "T7aEx3Mj": "Boost HP and SPR by 10% ", 
+        "VC9F3eJn": "Boost HP and SPR by 10% "
+    }, 
+    {
         "H5jBL0Vf": "1500000063", 
         "T7aEx3Mj": "Boost MAG by 40% and DEF, SPR by 10%", 
         "VC9F3eJn": "Boosts MAG by 40% and DEF, SPR by 10%."
+    }, 
+    {
+        "H5jBL0Vf": "1500000064", 
+        "T7aEx3Mj": "Boost equipment ATK when armed with two one-handed weapons, and boost ATK when equipped with a gun, sword, fist, or throwing weapon (Not Stackable)", 
+        "VC9F3eJn": "Boost equipment ATK when armed with two one-handed weapons, and boost ATK when equipped with a gun, sword, fist, or throwing weapon (Not Stackable)"
+    }, 
+    {
+        "H5jBL0Vf": "1500000065", 
+        "T7aEx3Mj": "Boost HP by 20% and DEF by 30%, and restore HP and MP each turn", 
+        "VC9F3eJn": "Boost HP by 20% and DEF by 30%, and restore HP and MP each turn"
+    }, 
+    {
+        "H5jBL0Vf": "1500000066", 
+        "T7aEx3Mj": "Boost DEF when equipped with heavy armor, and nullify sleep, paralyze, confuse and stone", 
+        "VC9F3eJn": "Boost DEF when equipped with heavy armor, and nullify sleep, paralyze, confuse and stone"
+    }, 
+    {
+        "H5jBL0Vf": "1500000067", 
+        "T7aEx3Mj": "Boost ATK and HP by 20%, and fill LB gauge every turn during battle", 
+        "VC9F3eJn": "Boost ATK and HP by 20%, and fill LB gauge every turn during battle"
+    }, 
+    {
+        "H5jBL0Vf": "1500000068", 
+        "T7aEx3Mj": "Boost damage for jump attacks, and boost ATK by 50% and DEF, HP, and MP by 20% when equipped with a spear (Not Stackable)", 
+        "VC9F3eJn": "Boost damage for jump attacks, and boost ATK by 50% and DEF, HP, and MP by 20% when equipped with a spear. Not Stackable."
+    }, 
+    {
+        "H5jBL0Vf": "1500000069", 
+        "T7aEx3Mj": "Boost HP, DEF, and SPR by 30%, and fire, ice, lightning, water, wind, earth, light, and dark resistance by 20% (Not Stackable)", 
+        "VC9F3eJn": "Boosts HP, DEF, and SPR by 30%, and fire, ice, lightning, water, wind, earth, light, and dark resistance by 20%. Not Stackable."
+    }, 
+    {
+        "H5jBL0Vf": "1500000070", 
+        "T7aEx3Mj": "Boost HP by 30%, and boost equipment ATK and equipment DEF when a single weapon is equipped in both hands (Not Stackable)", 
+        "VC9F3eJn": "Boost HP by 30%, and boost equipment ATK and equipment DEF when a single weapon is equipped in both hands. Not Stackable."
+    }, 
+    {
+        "H5jBL0Vf": "1500000071", 
+        "T7aEx3Mj": "Boost HP and MP by 20%, and boost equipment MAG and equipment SPR when a single weapon is equipped in both hands (Not Stackable)", 
+        "VC9F3eJn": "Boost HP and MP by 20%, and boost equipment MAG and equipment SPR when a single weapon is equipped in both hands. Not Stackable."
+    }, 
+    {
+        "H5jBL0Vf": "1500000072", 
+        "T7aEx3Mj": "Boost HP, DEF, and SPR by 6%", 
+        "VC9F3eJn": "Boost HP, DEF, and SPR by 6%"
+    }, 
+    {
+        "H5jBL0Vf": "1500000073", 
+        "T7aEx3Mj": "Boost HP by 30% and fire and dark resistance by 50%, and boost DEF and SPR when equipped with a mace (Not stackable)", 
+        "VC9F3eJn": "Boosts HP by 30% and fire and dark resistance by 50%, and boosts DEF and SPR when equipped with a mace. Not stackable."
+    }, 
+    {
+        "H5jBL0Vf": "1500000074", 
+        "T7aEx3Mj": "Boost ATK when equipped with a fist or clothes (Not stackable) ", 
+        "VC9F3eJn": "Boosts ATK when equipped with a fist or clothes. Not stackable."
+    }, 
+    {
+        "H5jBL0Vf": "1500000075", 
+        "T7aEx3Mj": "Boost ATK when equipped with a katana", 
+        "VC9F3eJn": "Boost ATK when equipped with a katana"
+    }, 
+    {
+        "H5jBL0Vf": "1500000076", 
+        "T7aEx3Mj": "Boost SPR when equipped with a robe", 
+        "VC9F3eJn": "Boost SPR when equipped with a robe"
+    }, 
+    {
+        "H5jBL0Vf": "1500000077", 
+        "T7aEx3Mj": "Boost ATK by 15% and physical damage against demons by 5%", 
+        "VC9F3eJn": "Boost ATK by 15% and physical damage against demons by 5%"
+    }, 
+    {
+        "H5jBL0Vf": "1500000078", 
+        "T7aEx3Mj": "Boost MAG by 15% and magic damage against demons by 5%", 
+        "VC9F3eJn": "Boost MAG by 15% and magic damage against demons by 5%"
+    }, 
+    {
+        "H5jBL0Vf": "1500000079", 
+        "T7aEx3Mj": "something", 
+        "VC9F3eJn": "something"
+    }, 
+    {
+        "H5jBL0Vf": "1500000080", 
+        "T7aEx3Mj": "Boost ATK when equipped with clothes, boost ATK when equipped with katana, and boost physical damage against humans and demons (Not Stackable)", 
+        "VC9F3eJn": "Boost ATK when equipped with clothes, boost ATK when equipped with katana, and boost physical damage against humans and demons (Not Stackable)"
     }
 ]

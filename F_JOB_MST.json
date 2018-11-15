@@ -740,6 +740,94 @@
         "IWv3u1xX": "185"
     }, 
     {
+        "G4L0YIB2": "調理師", 
+        "IWv3u1xX": "186"
+    }, 
+    {
+        "G4L0YIB2": "フラミー", 
+        "IWv3u1xX": "187"
+    }, 
+    {
+        "G4L0YIB2": "ラビ", 
+        "IWv3u1xX": "188"
+    }, 
+    {
+        "G4L0YIB2": "教官", 
+        "IWv3u1xX": "189"
+    }, 
+    {
+        "G4L0YIB2": "貴族", 
+        "IWv3u1xX": "190"
+    }, 
+    {
+        "G4L0YIB2": "トゥームレイダー", 
+        "IWv3u1xX": "191"
+    }, 
+    {
+        "G4L0YIB2": "ヘスの母", 
+        "IWv3u1xX": "192"
+    }, 
+    {
+        "G4L0YIB2": "ヘスの子", 
+        "IWv3u1xX": "193"
+    }, 
+    {
+        "G4L0YIB2": "魔道師", 
+        "IWv3u1xX": "194"
+    }, 
+    {
+        "G4L0YIB2": "呪術師", 
+        "IWv3u1xX": "195"
+    }, 
+    {
+        "G4L0YIB2": "記憶喪失の青年", 
+        "IWv3u1xX": "196"
+    }, 
+    {
+        "G4L0YIB2": "ソラリス軍人", 
+        "IWv3u1xX": "197"
+    }, 
+    {
+        "G4L0YIB2": "人工生命体", 
+        "IWv3u1xX": "198"
+    }, 
+    {
+        "G4L0YIB2": "潜砂海賊頭領", 
+        "IWv3u1xX": "199"
+    }, 
+    {
+        "G4L0YIB2": "キング", 
+        "IWv3u1xX": "200"
+    }, 
+    {
+        "G4L0YIB2": "ウーキィー族", 
+        "IWv3u1xX": "201"
+    }, 
+    {
+        "G4L0YIB2": "アルベド族", 
+        "IWv3u1xX": "202"
+    }, 
+    {
+        "G4L0YIB2": "ロボット", 
+        "IWv3u1xX": "203"
+    }, 
+    {
+        "G4L0YIB2": "エリートエンジニア", 
+        "IWv3u1xX": "204"
+    }, 
+    {
+        "G4L0YIB2": "医師", 
+        "IWv3u1xX": "205"
+    }, 
+    {
+        "G4L0YIB2": "シェバトの守護者", 
+        "IWv3u1xX": "206"
+    }, 
+    {
+        "G4L0YIB2": "エトーン", 
+        "IWv3u1xX": "207"
+    }, 
+    {
         "G4L0YIB2": "強化ユニット", 
         "IWv3u1xX": "900"
     }, 
@@ -800,6 +888,10 @@
         "IWv3u1xX": "9011"
     }, 
     {
+        "G4L0YIB2": "Ex-YoRHa Android", 
+        "IWv3u1xX": "9012"
+    }, 
+    {
         "G4L0YIB2": "Elemental Archfiend", 
         "IWv3u1xX": "9013"
     }, 
@@ -832,7 +924,7 @@
         "IWv3u1xX": "9020"
     }, 
     {
-        "G4L0YIB2": "One Horn Beast", 
+        "G4L0YIB2": "Gigant", 
         "IWv3u1xX": "9021"
     }, 
     {
@@ -864,11 +956,59 @@
         "IWv3u1xX": "9028"
     }, 
     {
+        "G4L0YIB2": "Evoker", 
+        "IWv3u1xX": "9029"
+    }, 
+    {
         "G4L0YIB2": "Faction Leader", 
         "IWv3u1xX": "9030"
     }, 
     {
         "G4L0YIB2": "Hero", 
         "IWv3u1xX": "9031"
+    }, 
+    {
+        "G4L0YIB2": "Agent", 
+        "IWv3u1xX": "9032"
+    }, 
+    {
+        "G4L0YIB2": "Freelance Hacker", 
+        "IWv3u1xX": "9033"
+    }, 
+    {
+        "G4L0YIB2": "Operative", 
+        "IWv3u1xX": "9034"
+    }, 
+    {
+        "G4L0YIB2": "Augmentation Specialist", 
+        "IWv3u1xX": "9035"
+    }, 
+    {
+        "G4L0YIB2": "Surfer", 
+        "IWv3u1xX": "9036"
+    }, 
+    {
+        "G4L0YIB2": "Oracle", 
+        "IWv3u1xX": "9037"
+    }, 
+    {
+        "G4L0YIB2": "Vagrant", 
+        "IWv3u1xX": "9038"
+    }, 
+    {
+        "G4L0YIB2": "Succubus", 
+        "IWv3u1xX": "9039"
+    }, 
+    {
+        "G4L0YIB2": "Incubus", 
+        "IWv3u1xX": "9040"
+    }, 
+    {
+        "G4L0YIB2": "Tonberry", 
+        "IWv3u1xX": "9041"
+    }, 
+    {
+        "G4L0YIB2": "Hemomancer", 
+        "IWv3u1xX": "9042"
     }
 ]

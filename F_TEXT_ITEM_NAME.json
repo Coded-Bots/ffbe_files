@@ -94,14 +94,14 @@ MST_ITEM_NAME_201000500^Earth Cryst^土之結晶^땅의 결정^Cristal de terre^
 MST_ITEM_NAME_201000600^Wind Cryst^風之結晶^바람의 결정^Cristal de vent^Windkristall^Cristal Aero
 MST_ITEM_NAME_201000700^Light Cryst^光之結晶^빛의 결정^Cristal de lumière^Lichtkristall^Cristal Sanctus
 MST_ITEM_NAME_201000800^Dark Cryst^暗之結晶^어둠의 결정^Cristal de ténèbres^Dunkelkristall^Cristal Bio
-MST_ITEM_NAME_201000900^Fire Megacryst^火之大結晶^불의 대결정^Mégacristal de feu^Feuer-Megakristall^Cristal Piro+
-MST_ITEM_NAME_201001000^Ice Megacryst^冰之大結晶^얼음의 대결정^Mégacristal de glace^Eis-Megakristall^Cristal Hielo+
-MST_ITEM_NAME_201001100^Lightning Megacryst^雷之大結晶^번개의 대결정^Mégacristal de foudre^Blitz-Megakristall^Cristal Electro+
-MST_ITEM_NAME_201001200^Water Megacryst^水之大結晶^물의 대결정^Mégacristal d'eau^Wasser-Megakristall^Cristal Aqua+
-MST_ITEM_NAME_201001300^Earth Megacryst^土之大結晶^땅의 대결정^Mégacristal de terre^Erd-Megakristall^Cristal Tierra+
-MST_ITEM_NAME_201001400^Wind Megacryst^風之大結晶^바람의 대결정^Mégacristal de vent^Wind-Megakristall^Cristal Aero+
-MST_ITEM_NAME_201001500^Light Megacryst^光之大結晶^빛의 대결정^Mégacristal de lumière^Licht-Megakristall^Cristal Sanctus+
-MST_ITEM_NAME_201001600^Dark Megacryst^暗之大結晶^어둠의 대결정^Mégacristal de ténèbres^Dunkel-Megakristall^Cristal Bio+
+MST_ITEM_NAME_201000900^Fire Megacryst^火之大結晶^불의 대결정^Mégacristal de feu^Feuer-Megakristall^Megacrist de fuego
+MST_ITEM_NAME_201001000^Ice Megacryst^冰之大結晶^얼음의 대결정^Mégacristal de glace^Eis-Megakristall^Megacrist de hielo
+MST_ITEM_NAME_201001100^Lightning Megacryst^雷之大結晶^번개의 대결정^Mégacristal de foudre^Blitz-Megakristall^Megacrist de rayo
+MST_ITEM_NAME_201001200^Water Megacryst^水之大結晶^물의 대결정^Mégacristal d'eau^Wasser-Megakristall^Megacrist de agua
+MST_ITEM_NAME_201001300^Earth Megacryst^土之大結晶^땅의 대결정^Mégacristal de terre^Erd-Megakristall^Megacrist de tierra
+MST_ITEM_NAME_201001400^Wind Megacryst^風之大結晶^바람의 대결정^Mégacristal de vent^Wind-Megakristall^Megacrist de viento
+MST_ITEM_NAME_201001500^Light Megacryst^光之大結晶^빛의 대결정^Mégacristal de lumière^Licht-Megakristall^Megacrist de luz
+MST_ITEM_NAME_201001600^Dark Megacryst^暗之大結晶^어둠의 대결정^Mégacristal de ténèbres^Dunkel-Megakristall^Megacrist de oscuridad
 MST_ITEM_NAME_202000100^Life Orb^生命之珠^생명의 구슬^Orbe de vie^Lebenskugel^Orbe de la vida
 MST_ITEM_NAME_202000200^Farplane Soul^異界之魂^이계의 혼^Âme de l'Au-delà^Abyssum-Seele^Alma del Etéreo
 MST_ITEM_NAME_202000300^Gaia's Tear^大地之淚^대지의 눈물^Larme de Gaïa^Gaias Träne^Lágrima de Gaia
@@ -490,7 +490,7 @@ MST_ITEM_NAME_217000300^Titanium Alloy^鈦合金^티탄 합금^Alliage de titane
 MST_ITEM_NAME_217000400^Black Pearl^黑珍珠^흑진주^Perle noire^Schwarze Perle^Perla negra
 MST_ITEM_NAME_217000500^Meteor Light^隕石^미티어라이트^Météorite^Meteorlicht^Meteorito
 MST_ITEM_NAME_217000600^Black Box^黑盒子^블랙박스^Boîte noire^Schwarze Kiste^Caja negra
-MST_ITEM_NAME_1209000833^Hairpin^髮飾^머리핀^Épingle à cheveux^Haarspange^Hebilla
+MST_ITEM_NAME_1209000833^Hairpin^髮飾^머리핀^Épingle à cheveux^Haarspange^Coletero
 MST_ITEM_NAME_1209000834^Magma Rock Fragments^岩漿石碎片^마그마 돌 조각^Morceau de magma^Magmagesteinfragmente^Fragmento de magma
 MST_ITEM_NAME_1209000835^Musical Gem^音樂寶石^뮤지컬 젬^Pierre musicale^Musikjuwel^Símbolo musical
 MST_ITEM_NAME_1209000837^Metal Gigantuar Coin^金屬巨型仙人掌硬幣^메탈 사보텐더 코인^Jeton de Méga pampinator^Metallkaktoriusmünze^Moneda de cactilión de metal
@@ -501,15 +501,15 @@ MST_ITEM_NAME_1209000848^Metal Gigantuar Coin^金屬巨型仙人掌硬幣^메탈
 MST_ITEM_NAME_1209000838^Skeleton Key^骷髏鑰匙^스켈레톤 키^Clé squelette ^Skelettschlüssel^Llave esqueleto
 MST_ITEM_NAME_105006100^Ramsey's Pillow^小羊枕頭^램지의 베개^Oreiller de Ramsey^Ramseys Kopfkissen^Cojín de Ramsey
 MST_ITEM_NAME_105006200^Monkey Baby^小猴子^몽키 베이비^Bébé singe^Affenbaby^Bebé mono
-MST_ITEM_NAME_106210200^Phantom Ore^幻礦^환상광석^Minerai fantôme^Phantomerz^Mineral fantasma
-MST_ITEM_NAME_106210300^Red Phantom Ore^赤幻礦^붉은 환상광석^Minerai fantôme rouge^Rotes Phantomerz^Mineral fantasma rojo
-MST_ITEM_NAME_106210400^Blue Phantom Ore^藍幻礦^푸른 환상광석^Minerai fantôme bleu^Blaues Phantomerz^Mineral fantasma azul
-MST_ITEM_NAME_106210500^Green Phantom Ore^綠幻礦^초록 환상광석^Minerai fantôme vert^Grünes Phantomerz^Mineral fantasma verde
-MST_ITEM_NAME_106210600^White Phantom Ore^白幻礦^하얀 환상광석^Minerai fantôme blanc^Weißes Phantomerz^Mineral fantasma blanco
-MST_ITEM_NAME_106210700^Black Phantom Ore^黑幻礦^검정 환상광석^Minerai fantôme noir^Schwarzes Phantomerz^Mineral fantasma negro
-MST_ITEM_NAME_106210800^Yellow Phantom Ore^黃幻礦^노란 환상광석^Minerai fantôme jaune^Gelbes Phantomerz^Mineral fantasma amarillo
-MST_ITEM_NAME_106210900^Orange Phantom Ore^橙幻礦^주황 환상광석^Minerai fantôme orange^Oranges Phantomerz^Mineral fantasma naranja
-MST_ITEM_NAME_106211000^Violet Phantom Ore^紫幻礦^보라 환상광석^Minerai fantôme violet^Violettes Phantomerz^Mineral fantasma púrpura
+MST_ITEM_NAME_106210200^Esper Ore^幻礦^환상광석^Minerai fantôme^Phantomerz^Mineral fantasma
+MST_ITEM_NAME_106210300^Red Esper Ore^赤幻礦^붉은 환상광석^Minerai fantôme rouge^Rotes Phantomerz^Mineral fantasma rojo
+MST_ITEM_NAME_106210400^Blue Esper Ore^藍幻礦^푸른 환상광석^Minerai fantôme bleu^Blaues Phantomerz^Mineral fantasma azul
+MST_ITEM_NAME_106210500^Green Esper Ore^綠幻礦^초록 환상광석^Minerai fantôme vert^Grünes Phantomerz^Mineral fantasma verde
+MST_ITEM_NAME_106210600^White Esper Ore^白幻礦^하얀 환상광석^Minerai fantôme blanc^Weißes Phantomerz^Mineral fantasma blanco
+MST_ITEM_NAME_106210700^Black Esper Ore^黑幻礦^검정 환상광석^Minerai fantôme noir^Schwarzes Phantomerz^Mineral fantasma negro
+MST_ITEM_NAME_106210800^Yellow Esper Ore^黃幻礦^노란 환상광석^Minerai fantôme jaune^Gelbes Phantomerz^Mineral fantasma amarillo
+MST_ITEM_NAME_106210900^Orange Esper Ore^橙幻礦^주황 환상광석^Minerai fantôme orange^Oranges Phantomerz^Mineral fantasma naranja
+MST_ITEM_NAME_106211000^Violet Esper Ore^紫幻礦^보라 환상광석^Minerai fantôme violet^Violettes Phantomerz^Mineral fantasma púrpura
 MST_ITEM_NAME_106211100^Crimson Gem^紅寶玉^진홍의 보옥^Minerai fantôme pourpre^Purpurnes Phantomerz^Gema carmesí
 MST_ITEM_NAME_106303400^Garuda Raid Coin^風神迦樓羅共鬥硬幣^바람신 가루다 레이드 코인^Jeton de Garuda^Garuda Raubzugmünze^Moneda de Garuda
 MST_ITEM_NAME_106303500^MA-X Maniple Raid Coin^重魔導機甲「步兵中隊」共鬥硬幣^매니플스 레이드 코인^Jeton d'AM-X Manipulus^Maniplus-Mech Raubzugmünze^Moneda de Manipulus G
@@ -518,7 +518,7 @@ MST_ITEM_NAME_106303700^Charybdis Raid Coin^漩渦珊瑚共鬥硬幣^카리브�
 MST_ITEM_NAME_106303800^Pink Tail^粉色尾巴^분홍색 꼬리^Queue rose^Pinker Schweif^Cola rosa
 MST_ITEM_NAME_106303900^Nian Beast Raid Coin^年獸共鬥硬幣^니안 레이드 코인^Jeton de Nian^Nian-Bestie Raubzugmünze^Moneda de Bestia de Nian
 MST_ITEM_NAME_106304000^Etched Coin^賢女的獎牌^현자의 메달^Jeton gravé^Gravierte Münze^Moneda con grabado
-MST_ITEM_NAME_106304100^Jie Revorse Raid Coin^傑·瑞沃斯共鬥硬幣^지에 리보즈 레이드 코인^Jeton de Jie Revorse^Jie Revorse Raubzugmünze^Moneda de banda de Jie Revorse
+MST_ITEM_NAME_106304100^Jie Revorse Raid Coin^傑·瑞沃斯共鬥硬幣^지에 리보즈 레이드 코인^Jeton de Jie Revorse^Jie-Revorse-Raubzugmünze^Moneda de banda de Jie Revorse
 MST_ITEM_NAME_106304200^Training Bokken^訓練用的木劍^훈련용 목검^Sabre en bois d'entraî.^Trainingsbokken^Espada de práctica
 MST_ITEM_NAME_107002700^Red Supercite^紅色超魔石^붉은 초월마석^Gigalithe rouge^Roter Supermaginit^Supercita roja
 MST_ITEM_NAME_107002800^Blue Supercite^藍色超魔石^푸른 초월마석^Gigalithe bleue^Blauer Supermaginit^Supercita azul
@@ -553,10 +553,10 @@ MST_ITEM_NAME_219000300^Lotus Fang^紅蓮之牙^홍련의 송곳니^Croc de lotu
 MST_ITEM_NAME_219000400^Bloodied Bone^染血之骨^피로 물든 뼈^Os ensanglanté^Blutiger Knochen^Hueso ensangrentado
 MST_ITEM_NAME_219000500^Grey Pelt^深灰色的皮^담흑색의 가죽^Pelage gris^Grauer Pelz^Pelaje gris
 MST_ITEM_NAME_219000600^Rotten Meat^糜爛的肉^썩은 고기^Viande avariée^Verfaultes Fleisch^Carne podrida
-MST_ITEM_NAME_220000100^Philosopher's Stone^賢者之石^현자의 돌^Pierre du sage^Stein der Weisen^Piedra del sabio
-MST_ITEM_NAME_220000200^Moonstone^月夜石^문라이트^Lumière lunaire^Lotusblütenzahn^Luz lunar
+MST_ITEM_NAME_220000100^Philosopher's Stone^賢者之石^현자의 돌^Pierre philosophale^Stein der Weisen^Piedra filosofal
+MST_ITEM_NAME_220000200^Moonstone^月夜石^문라이트^Pierre de lune^Mondstein^Piedra lunar
 MST_ITEM_NAME_220000300^Smithy Hammer^史密提錘^스미티 해머^Marteau de forgeron^Schmiedehammer^Martillo de herrero
-MST_ITEM_NAME_220000400^Velvet Ribbon^天鵝絨絲帶^벨벳 리본^Ruban de velours^Samtband^Cinta aterciopelada
+MST_ITEM_NAME_220000400^Velvet Ribbon^天鵝絨絲帶^벨벳 리본^Ruban de velours^Samtband^Cinta de terciopelo
 MST_ITEM_NAME_220000500^Carbon Fiber^碳素纖維^카본 섬유^Fibre en carbone^Kohlefaser^Fibra de carbono
 MST_ITEM_NAME_220000600^Iron^鋼鐵^아이언^Fer^Eisen^Hierro
 MST_ITEM_NAME_1209000840^Musical Coin^音樂硬幣^뮤지컬 코인^Pièce musicale ^Musikmünze^Moneda musical
@@ -594,161 +594,165 @@ MST_ITEM_NAME_1209000872^Blue and Red Supercites^藍紅超魔石^파랑&빨강 �
 MST_ITEM_NAME_1209000873^Violet and Yellow Supercites^紫黃超魔石^보라&노랑 초월마석^Gigalithes violettes et jaunes^Violette und Gelbe Supermaginite^Supercitas lilas y amarillas
 MST_ITEM_NAME_1209000874^Orange and White Supercites^橙白超魔石^주황&하양 초월마석^Gigalithes orange et blanches^Orange und Weiße Supermaginite^Supercitas naranjas y blancas
 MST_ITEM_NAME_1209000875^Green and Black Supercites^綠黑超魔石^초록&검정 초월마석^Gigalithes vertes et noires^Grüne und Schwarze Supermaginite^Supercitas verdes y negras
-MST_ITEM_NAME_101003500^Fina's Chocolate II^^^^^
-MST_ITEM_NAME_101003600^Sakura's Chocolate^^^^^
-MST_ITEM_NAME_101003700^Lid's Chocolate^^^^^
-MST_ITEM_NAME_101003800^Rico's Chocolate^^^^^
-MST_ITEM_NAME_101003900^Elegant Candy^^^^^
-MST_ITEM_NAME_105006300^Mega Phoenix^^^^^
-MST_ITEM_NAME_105006400^Chilled Food Tin^^^^^
-MST_ITEM_NAME_105006500^Star Curtain^^^^^
-MST_ITEM_NAME_105006600^Blessed Flag^^^^^
-MST_ITEM_NAME_105006700^Conqueror's Gavel - Attack^^^^^
-MST_ITEM_NAME_105006800^Conqueror's Gavel - Defense^^^^^
-MST_ITEM_NAME_105006900^Invigorating Potion^^^^^
-MST_ITEM_NAME_106211110^Azure Gem^^^^^
-MST_ITEM_NAME_106211150^Unit Exchange Ticket Bonus^^^^^
-MST_ITEM_NAME_106304300^2nd Anniversary Raid Coin^^^^^
-MST_ITEM_NAME_106304400^Triple Triad Card^^^^^
-MST_ITEM_NAME_106304500^Estark Raid Coin^^^^^
-MST_ITEM_NAME_106304600^Faded Crystal^^^^^
+MST_ITEM_NAME_101003500^Fina's Chocolate II^菲娜的巧克力·II^피나의 초콜릿·II^Chocolat de Fina II^Finas Schokolade II^Chocolate de Fina II
+MST_ITEM_NAME_101003600^Sakura's Chocolate^櫻的巧克力^사쿠라의 초콜릿^Chocolat de Sakura^Sakuras Schokolade^Chocolate de Sakura
+MST_ITEM_NAME_101003700^Lid's Chocolate^里德的巧克力^리드의 초콜릿^Chocolat de Lid^Lids Schokolade^Chocolate de Lid
+MST_ITEM_NAME_101003800^Rico's Chocolate^莉可的巧克力^리코의 초콜릿^Chocolat de Rico^Ricos Schokolade^Chocolate de Rico
+MST_ITEM_NAME_101003900^Elegant Candy^優雅糖果^엘레강트 캔디^Bonbon raffiné^Elegantes Bonbon^Caramelo exquisito
+MST_ITEM_NAME_105006300^Mega Phoenix^百萬鳳凰尾巴^메가 피닉스^Méga phénix^Mega-Phönix^Omnifénix
+MST_ITEM_NAME_105006400^Chilled Food Tin^冷罐頭^차가운 통조림^Conserve froide^Gekühlte Konserve^Conserva en lata
+MST_ITEM_NAME_105006500^Star Curtain^星之幕^별의 장막^Rideau d'étoiles^Sternenvorhang^Cortina estelar
+MST_ITEM_NAME_105006600^Blessed Flag^清風之旗^축복의 깃발^Drapeau béni^Gesegnete Flagge^Bandera bendecida
+MST_ITEM_NAME_105006700^Conqueror's Gavel - Attack^征服者木槌·攻^정복자의 가벨·공격^Maillet du conquérant - Attaque^Hammer des Eroberers – Angriff^Martillo del conquistador - Ataque
+MST_ITEM_NAME_105006800^Conqueror's Gavel - Defense^征服者木槌·防^정복자의 가벨·방어^Maillet du conquérant - Défense^Hammer des Eroberers – Verteidigung^Martillo del conquistador - Defensa
+MST_ITEM_NAME_105006900^Invigorating Potion^鬥神藥I^투신의 약 I^Potion vivifiante^Erfrischungstrank^Poción energizante
+MST_ITEM_NAME_106211110^Azure Gem^藍寶玉^푸른 보옥^Gemme azur^Azurgemme^Gema azur
+MST_ITEM_NAME_106211150^Unit Exchange Ticket Bonus^特典兵員兌換券^보너스 유닛 교환 티켓^Ticket à échanger contre une unité^Bonus-Einheitentauschkarte^Tícket de bonificación para intercambio de unidad
+MST_ITEM_NAME_106304300^2nd Anniversary Raid Coin^2週年紀念共鬥硬幣^2주년 기념 레이드 코인^Jeton du 2e anniversaire^Raubzugsmünze zum 2. Jubiläum^Moneda de 2.º aniversario
+MST_ITEM_NAME_106304400^Triple Triad Card^九宮幻卡的卡片^트리플 트라이어드 카드^Carte de Triple Triad^Triple-Triad-Karte^Carta de Triple Triad
+MST_ITEM_NAME_106304500^Estark Raid Coin^艾斯塔克共鬥硬幣^에스타크 레이드 코인^Jeton de raid d'Estark^Estark-Raubzugmünze^Moneda de banda de Estark
+MST_ITEM_NAME_106304600^Faded Crystal^褪色的水晶^변색 크리스탈^Cristal exsangue^Blasser Kristall^Cristal desvaído
 MST_ITEM_NAME_106304700^Graverobber Raid Coin^融屍魔共鬥硬幣^그레이브로버 레이드 코인^Jeton de raid de Pilletombes^Grabräuber-Raubzugmünze^Moneda de banda de robatumbas
-MST_ITEM_NAME_106304800^Empty Magic Bottle^^^Empty Magic Flask^^
-MST_ITEM_NAME_106304900^Barbarossa Raid Coin^^^^^
-MST_ITEM_NAME_106305000^Eternal Icicle^^^^^
-MST_ITEM_NAME_106305100^Mana Beast Raid Coin^^^^^
-MST_ITEM_NAME_106305200^Knowing Tag^^^^^
-MST_ITEM_NAME_106305300^Silversmith Raid Coin^^^^^
-MST_ITEM_NAME_106305400^Fang of Earth^^^^^
-MST_ITEM_NAME_109302000^Sectored Circle - Yellow^^^^^
-MST_ITEM_NAME_109302010^Sectored Circle - Yellow^^^^^
-MST_ITEM_NAME_109302020^Sectored Circle - Yellow^^^^^
-MST_ITEM_NAME_109302030^Sectored Circle - Yellow^^^^^
-MST_ITEM_NAME_109302040^Sectored Circle - Yellow^^^^^
-MST_ITEM_NAME_109302050^Sectored Circle - Yellow^^^^^
-MST_ITEM_NAME_110000100^Trust Moogle Map^^^^^
-MST_ITEM_NAME_110000200^Megacryst Map^^^^^
-MST_ITEM_NAME_110000300^Rank EXP Map^^^^^
-MST_ITEM_NAME_110000400^Materials Map^^^^^
-MST_ITEM_NAME_110000500^Star Quartz Map^^^^^
-MST_ITEM_NAME_203000600^Adamantite Lump^^^^^
-MST_ITEM_NAME_221000100^Emotion Stone^^^^^
-MST_ITEM_NAME_221000200^Rainbow Feathers^^^^^
-MST_ITEM_NAME_221000300^Orange Gem^^^^^
-MST_ITEM_NAME_221000400^Strange Purple Liquid^^^^^
-MST_ITEM_NAME_221000500^Monster's Claw^^^^^
-MST_ITEM_NAME_221000600^Medicinal Bark^^^^^
-MST_ITEM_NAME_221000700^Ice Alcryst^^^Alcrist de glace^^
-MST_ITEM_NAME_221000800^Snow Tree^^^Arbre de neige^^
-MST_ITEM_NAME_221000900^White Gemcryst^^^Cristgemme blanc^^
-MST_ITEM_NAME_221001000^Crimson Silk^^^Soie carmin^^
-MST_ITEM_NAME_221001100^Crimson Hide^^^Peau pourpre^^
-MST_ITEM_NAME_222000100^Lapis Lazuli^^^Lapis-lazuli^^
-MST_ITEM_NAME_222000200^Neckless Doll^^^^^
-MST_ITEM_NAME_222000300^Burgundy Flask^^^^^
-MST_ITEM_NAME_222000400^Nightshade^^^^^
-MST_ITEM_NAME_222000500^Base Metal^^^^^
-MST_ITEM_NAME_223000100^Minimum Hammer^^^^^
-MST_ITEM_NAME_223000200^Brilliant Jelly^^^^^
-MST_ITEM_NAME_223000300^Faerie Nut^^^^^
-MST_ITEM_NAME_223000400^Medical Root^^^^^
-MST_ITEM_NAME_223000500^Weathered Wood^^^^^
-MST_ITEM_NAME_224000100^Glitz Gem^^^^^
-MST_ITEM_NAME_224000200^Gunmetal Alloy^^^^^
-MST_ITEM_NAME_224000300^Sealed Treasure Chest^^^^^
-MST_ITEM_NAME_224000400^Dense Ore^^^^^
-MST_ITEM_NAME_224000500^Gunpowder^^^^^
-MST_ITEM_NAME_300000010^Lightning's Prism^^^^^
-MST_ITEM_NAME_300000020^Ramza's Prism^^^^^
-MST_ITEM_NAME_300000030^Delita's Prism^^^^^
-MST_ITEM_NAME_300000040^Dark Knight Cecil's Prism^^^^^
-MST_ITEM_NAME_300000050^Ace's Prism^^^^^
-MST_ITEM_NAME_300000060^Luneth's Prism^^^^^
-MST_ITEM_NAME_300000070^Queen's Prism^^^^^
-MST_ITEM_NAME_300000080^Dark Fina's Prism^^^^^
-MST_ITEM_NAME_300000090^Orlandeau's Prism^^^^^
-MST_ITEM_NAME_300000100^Marie's Prism^^^^^
-MST_ITEM_NAME_300000110^Emperor's Prism^^^^^
-MST_ITEM_NAME_300000120^Aileen's Prism^^^^^
-MST_ITEM_NAME_300000130^Rem's Prism^^^^^
-MST_ITEM_NAME_300000140^Tidus's Prism^^^^^
-MST_ITEM_NAME_300000150^Wilhelm's Prism^^^^^
-MST_ITEM_NAME_300000160^Seabreeze Dark Fina's Prism^^^^^
-MST_ITEM_NAME_300000170^Trance Terra's Prism^^^^^
-MST_ITEM_NAME_300000180^Fohlen's Prism^^^^^
-MST_ITEM_NAME_300000190^Veritas of the Dark's Prism^^^^^
-MST_ITEM_NAME_300000200^Squall's Prism^^^^^
-MST_ITEM_NAME_300000210^Rinoa's Prism^^^^^
-MST_ITEM_NAME_300000220^Onion Knight's Prism^^^^^
-MST_ITEM_NAME_300000230^Nalu's Prism^^^^^
-MST_ITEM_NAME_300000240^Estark's Prism^^^^^
-MST_ITEM_NAME_300000250^Marquis de Léon's Prism^^^^^
-MST_ITEM_NAME_300000260^Dragonlord's Prism^^^^^
-MST_ITEM_NAME_300000270^Livid Shantotto's Prism^^^^^
-MST_ITEM_NAME_300000280^Shadow Lord's Prism^^^^^
-MST_ITEM_NAME_300000290^Lunera's Prism^^^^^
-MST_ITEM_NAME_300000300^Prishe's Prism^^^^^
-MST_ITEM_NAME_300000310^Mercenary Ramza's Prism^^^^^
-MST_ITEM_NAME_300000320^Knight Delita's Prism^^^^^
-MST_ITEM_NAME_300000330^Cloud's Prism^^^^^
-MST_ITEM_NAME_300000340^Veritas of the Flame's Prism^^^^^
-MST_ITEM_NAME_300000350^Loren's Prism^^^^^
-MST_ITEM_NAME_300000360^Veritas of the Light's Prism^^^^^
-MST_ITEM_NAME_300000370^Noctis's Prism^^^^^
-MST_ITEM_NAME_300000380^Beatrix's Prism^^^^^
-MST_ITEM_NAME_300000390^Eiko's Prism^^^^^
-MST_ITEM_NAME_300000400^Hyoh's Prism^^^^^
-MST_ITEM_NAME_300000410^Santa Roselia's Prism^^^^^
-MST_ITEM_NAME_300000420^Ignis's Prism^^^^^
-MST_ITEM_NAME_300000430^Ray Jack's Prism^^^^^
-MST_ITEM_NAME_300000440^Balthier's Prism^^^^^
-MST_ITEM_NAME_300000450^Gilgamesh's Prism^^^^^
-MST_ITEM_NAME_300000460^Ayaka's Prism^^^^^
-MST_ITEM_NAME_300000470^Elfreeda's Prism^^^^^
-MST_ITEM_NAME_300000480^Roy's Prism^^^^^
-MST_ITEM_NAME_300000490^Gladiolus's Prism^^^^^
-MST_ITEM_NAME_300000500^Duke's Prism^^^^^
-MST_ITEM_NAME_300000510^Pyro Glacial Lasswell's Prism^^^^^
-MST_ITEM_NAME_300000520^Yuna's Prism^^^^^
-MST_ITEM_NAME_300000530^Lulu's Prism^^^^^
-MST_ITEM_NAME_300000540^Blossom Sage Sakura's Prism^^^^^
-MST_ITEM_NAME_300000550^Lotus Mage Fina's Prism^^^^^
-MST_ITEM_NAME_300000560^Aranea's Prism^^^^^
-MST_ITEM_NAME_300000570^Prompto's Prism^^^^^
-MST_ITEM_NAME_300000580^Kunshira's Prism^^^^^
-MST_ITEM_NAME_300000590^Citra's Prism^^^^^
-MST_ITEM_NAME_300000600^Lenneth's Prism^^^^^
-MST_ITEM_NAME_300000610^Freya's (VP) Prism^^^^^
-MST_ITEM_NAME_300000620^Arngrim's Prism^^^^^
-MST_ITEM_NAME_300000630^Tifa's Prism^^^^^
-MST_ITEM_NAME_300000640^Vincent's Prism^^^^^
-MST_ITEM_NAME_300000650^Nyx's Prism^^^^^
-MST_ITEM_NAME_300000660^Jiraiya's Prism^^^^^
-MST_ITEM_NAME_300000670^Gabranth's Prism^^^^^
-MST_ITEM_NAME_300000680^Basch's Prism^^^^^
-MST_ITEM_NAME_300000690^Nameless Gunner Jake's Prism^^^^^
-MST_ITEM_NAME_300000700^Emperor Shera's Prism^^^^^
-MST_ITEM_NAME_300000710^Pure Summoner Rydia's Prism^^^^^
-MST_ITEM_NAME_300000720^Atoning Dragoon Kain's Prism^^^^^
-MST_ITEM_NAME_300000730^Heavenly Technician Lid's Prism^^^^^
-MST_ITEM_NAME_300000740^Mediena's Prism^^^^^
-MST_ITEM_NAME_300000750^Sephiroth's Prism^^^^^
-MST_ITEM_NAME_300000760^Lila's Prism^^^^^
-MST_ITEM_NAME_300000770^Maritime Strategist Nichol's Prism^^^^^
-MST_ITEM_NAME_300000780^Raegan's Prism^^^^^
-MST_ITEM_NAME_300000790^Awakened Rain's Prism^^^^^
-MST_ITEM_NAME_300000800^Elephim's Prism^^^^^
-MST_ITEM_NAME_300000810^Flammie's Prism^^^^^
-MST_ITEM_NAME_300000820^Randi's Prism^^^^^
-MST_ITEM_NAME_300000830^Kevin's Prism^^^^^
-MST_ITEM_NAME_300000840^Lise's Prism^^^^^
-MST_ITEM_NAME_300000850^Hawkeye's Prism^^^^^
-MST_ITEM_NAME_300000860^Machina's Prism^^^^^
-MST_ITEM_NAME_300000870^Kurasame's Prism^^^^^
-MST_ITEM_NAME_300000880^Sieghard's Prism^^^^^
-MST_ITEM_NAME_300000890^Yuraisha's Prism^^^^^
-MST_ITEM_NAME_300000900^Onion Knight Refia's Prism^^^^^
-MST_ITEM_NAME_300000910^Dark Knight Luneth's Prism^^^^^
+MST_ITEM_NAME_106304800^Empty Magic Flask^空魔法瓶^텅 빈 매직 보틀^Sphère magique vide^Leere Magieflakon^Vial mágico vacío
+MST_ITEM_NAME_106304900^Barbarossa Raid Coin^巴巴羅薩共鬥硬幣^바르바로사 레이드 코인^Jeton de Barbarossa^Barbarossa-Raubzugsmünze^Moneda de banda de Barbarossa
+MST_ITEM_NAME_106305000^Eternal Icicle^永久冰柱^영원의 고드름^Stalactite éternelle^Ewiger Eiszapfen^Carámbano eterno
+MST_ITEM_NAME_106305100^Mana Beast Raid Coin^受到祭祀的神獸共鬥硬幣^성스러운 신수 레이드 코인^Jeton du bénévodon^Mana-Biest-Raubszugsmünze^Moneda de Bestia de maná
+MST_ITEM_NAME_106305200^Knowing Tag^識別牌^노잉 태그^Plaque d'identité^Personenetikett^Placa de identidad
+MST_ITEM_NAME_106305300^Silversmith Raid Coin^白銀工匠遺跡共鬥硬幣^은세공사의 유적 레이드 코인^Jeton de l'orfèvre^Silberschmied-Raubszugsmünze^Moneda de platero
+MST_ITEM_NAME_106305400^Fang of Earth^土之牙^땅의 송곳니^Éclat de Terre^Erdreißzahn^Colmillo de la Tierra
+MST_ITEM_NAME_109302000^Sectored Circle - Yellow^石板碎片·黃^석판 조각·노랑^Cercle d'ardoise - jaune^Steintafelsplitter - Gelbe^Fragmento de círculo amarillo
+MST_ITEM_NAME_109302010^Sectored Circle - Yellow^石板碎片·黃^석판 조각·노랑^Cercle d'ardoise - jaune^Steintafelsplitter - Gelbe^Fragmento de círculo amarillo
+MST_ITEM_NAME_109302020^Sectored Circle - Yellow^石板碎片·黃^석판 조각·노랑^Cercle d'ardoise - jaune^Steintafelsplitter - Gelbe^Fragmento de círculo amarillo
+MST_ITEM_NAME_109302030^Sectored Circle - Yellow^石板碎片·黃^석판 조각·노랑^Cercle d'ardoise - jaune^Steintafelsplitter - Gelbe^Fragmento de círculo amarillo
+MST_ITEM_NAME_109302040^Sectored Circle - Yellow^石板碎片·黃^석판 조각·노랑^Cercle d'ardoise - jaune^Steintafelsplitter - Gelbe^Fragmento de círculo amarillo
+MST_ITEM_NAME_109302050^Sectored Circle - Yellow^石板碎片·黃^석판 조각·노랑^Cercle d'ardoise - jaune^Steintafelsplitter - Gelbe^Fragmento de círculo amarillo
+MST_ITEM_NAME_110000100^Trust Moogle Map^信賴度莫古利地圖^트러스트 모그리의 지도^Carte des Mogs de confiance^Treuemogry-Karte^Mapa de moguris fieles 
+MST_ITEM_NAME_110000200^Megacryst Map^大結晶地圖^대결정의 지도^Carte des mégacristaux^Megakristall-Karte^Mapa de megacrists
+MST_ITEM_NAME_110000300^Rank EXP Map^級別經驗值地圖^랭크 경험치의 지도^Carte de rang d'EXP^Rang-EP-Karte^Mapa de nivel de EXP
+MST_ITEM_NAME_110000400^Materials Map^覺醒素材地圖^각성 재료의 지도^Carte des matériaux d'éveil^Erweckungsmaterial-Karte^Mapa de materiales
+MST_ITEM_NAME_110000500^Star Quartz Map^石英星石地圖^별빛 운석의 지도^Carte des quartz étoilés^Sternenquarz-Karte^Mapa de estrellas de cuarzo
+MST_ITEM_NAME_203000600^Adamantite Lump^金剛石塊^금강석 덩어리^Amas d'adamantine^Adamantbrocken^Pila de adamantino
+MST_ITEM_NAME_221000100^Illusion Stone^幻想石^환상석^Pierre d'illusion^Illusionsstein^Piedra ilusoria
+MST_ITEM_NAME_221000200^Rainbow Feather^彩虹色羽毛^무지개색 깃털^Plume arc-en-ciel^Regenbogenfeder^Pluma arcoíris
+MST_ITEM_NAME_221000300^Orange Gem^橙色寶珠^주황빛 보옥^Gemme orange^Oranger Edelstein^Gema naranja
+MST_ITEM_NAME_221000400^Strange Purple Liquid^神秘紫色液體^수수께끼의 보라색 액체^Liquide violet étrange^Fluidum Violaceum^Líquido púrpura raro
+MST_ITEM_NAME_221000500^Monster Claw^妖魔之爪^요마의 발톱^Griffe de monstre^Monsterklaue^Garra de monstruo
+MST_ITEM_NAME_221000600^Medicinal Bark^乾枯藥木^메마른 약초^Écorce médicinale^Getrocknete Heilrinde^Corteza medicinal
+MST_ITEM_NAME_221000700^Ice Alcryst^冰晶石^빙정석^Alcrist de glace^Eis-Alkrist^Alcrist de hielo
+MST_ITEM_NAME_221000800^Snow Tree^天華白木^천상의 백목^Arbre de neige^Schneebaum^Árbol de nieve
+MST_ITEM_NAME_221000900^White Gemcryst^白寶晶^하얀 수정보석^Cristgemme blanc^Weißer Edelsteinkristall^Cristagema blanca
+MST_ITEM_NAME_221001000^Crimson Silk^鮮紅絲線^진홍 명주실^Soie carmin^Purpurseide^Seda carmesí
+MST_ITEM_NAME_221001100^Crimson Hide^淡紅毛皮^연분홍색 가죽^Peau pourpre^Purpurleder^Cuero carmesí
+MST_ITEM_NAME_222000100^Lapis Lazuli^拉比斯晶石^라피스 라줄리^Cristal de lapis^Lapislazuli^Lapislázuli
+MST_ITEM_NAME_222000200^Neckless Doll^無頭人偶^머리 없는 인형^Poupée sans tête^Kopflose Puppe^Muñeca decapitada
+MST_ITEM_NAME_222000300^Burgundy Flask^波爾多酒^진홍색 포도주^Flasque de Bourgogne^Burgunderflasche^Frasco de vino tinto
+MST_ITEM_NAME_222000400^Nightshade^顛茄^벨라돈나^Belladone^Nachtschatten^Sombra nocturna
+MST_ITEM_NAME_222000500^Base Metal^卑金屬^비천금속^Métal de base^Basismetall^Metal base
+MST_ITEM_NAME_223000100^Minimum Hammer^變小鎚^미니멈 해머^Maillet rétrécissant^Minimalhammer^Martillo enano
+MST_ITEM_NAME_223000200^Brilliant Jelly^閃耀果凍^빛나는 젤리^Gelée brillante^Brillantes Gelee^Gelatina brillante
+MST_ITEM_NAME_223000300^Faerie Nut^魔法果實^마법의 나무열매^Noix magique^Feennuss^Nuez de hada
+MST_ITEM_NAME_223000400^Medical Root^呸呸草^포이포이 풀^Herbe médicinale^Medizinwurzel^Raíz medicinal
+MST_ITEM_NAME_223000500^Weathered Wood^風化的木材^바닷바람의 목재^Bois érodé^Vertrocknetes Holz^Madera desgastada
+MST_ITEM_NAME_224000100^Glitz Gem^炫光寶石^현란한 보석^Gemme étincelante^Glitzerstein^Gema resplandeciente
+MST_ITEM_NAME_224000200^Gunmetal Alloy^炮銅合金^포금^Alliage pour pistolet^Geschützmetalllegierung^<br>Aleación plomiza
+MST_ITEM_NAME_224000300^Sealed Treasure Chest^封印寶箱^봉인된 보물상자^Coffre au trésor scellé^Verschlossene Schatztruhe^Cofre del tesoro sellado
+MST_ITEM_NAME_224000400^Dense Ore^高密度礦石^고밀도 광석^Minerai lourd^Mattes Erz^Mineral concentrado
+MST_ITEM_NAME_224000500^Gunpowder^槍彈火藥^건파우더^Poudre à fusil^Schießpulver^Pólvora
+MST_ITEM_NAME_300000010^Lightning's Prism^雷光的輝源^라이트닝의 휘석^Prisme pour Lightning^Prisma für Lightning^Prisma de Lightning
+MST_ITEM_NAME_300000020^Ramza's Prism^拉姆薩的輝源^람자의 휘석^Prisme pour Ramza^Prisma für Ramza^Prisma de Ramza
+MST_ITEM_NAME_300000030^Delita's Prism^迪利塔的輝源^디리타의 휘석^Prisme pour Delita^Prisma für Delita^Prisma de Delita
+MST_ITEM_NAME_300000040^Dark Knight Cecil's Prism^暗黑騎士塞西爾的輝源^암흑기사 세실의 휘석^Prisme pour Cécil (chev. noir)^Prisma für Dunkelritter Cecil^Prisma de Cecil oscuro
+MST_ITEM_NAME_300000050^Ace's Prism^艾斯的輝源^에이스의 휘석^Prisme pour Ace^Prisma für Ace^Prisma de Ace
+MST_ITEM_NAME_300000060^Luneth's Prism^路涅斯的輝源^루네스의 휘석^Prisme pour Luneth^Prisma für Luneth^Prisma de Luneth
+MST_ITEM_NAME_300000070^Queen's Prism^葵因的輝源^퀸의 휘석^Prisme pour Queen^Prisma für Queen^Prisma de Queen
+MST_ITEM_NAME_300000080^Dark Fina's Prism^魔人菲娜的輝源^마인 피나의 휘석^Prisme pour Fina obscure^Prisma für Dunkel-Fina^Prisma de Fina oscura
+MST_ITEM_NAME_300000090^Orlandeau's Prism^奧爾蘭多的輝源^올란두의 휘석^Prisme pour Orlandeau^Prisma für Orlandeau^Prisma de Orlandeau
+MST_ITEM_NAME_300000100^Marie's Prism^瑪麗的輝源^마리의 휘석^Prisme pour Marie^Prisma für Marie^Prisma de Marie
+MST_ITEM_NAME_300000110^Emperor's Prism^皇帝的輝源^황제의 휘석^Prisme pour l'Empereur^Prisma für Imperator^Prisma de Emperador
+MST_ITEM_NAME_300000120^Aileen's Prism^艾琳的輝源^아이린의 휘석^Prisme pour Aileen^Prisma für Aileen^Prisma de Aileen
+MST_ITEM_NAME_300000130^Rem's Prism^蕾姆的輝源^렘의 휘석^Prisme pour Rem^Prisma für Rem^Prisma de Rem
+MST_ITEM_NAME_300000140^Tidus's Prism^提達的輝源^티더의 휘석^Prisme pour Tidus^Prisma für Tidus^Prisma de Tidus
+MST_ITEM_NAME_300000150^Wilhelm's Prism^維魯赫魯姆的輝源^빌헬름의 휘석^Prisme pour Wilhelm^Prisma für Wilhelm^Prisma de Wilhelm
+MST_ITEM_NAME_300000160^Seabreeze Dark Fina's Prism^涼爽魔人菲娜的輝源^바닷바람의 마인 피나의 휘석^Prisme pour Fina obs. en maillot^Prisma für Dunkel-Seewind-Fina^Prisma de Fina oscura de la marea
+MST_ITEM_NAME_300000170^Trance Terra's Prism^入神蒂娜的輝源^트랜스 티나의 휘석^Prisme pour Terra en transe^Prisma für Trance-Terra^Prisma de Terra en trance
+MST_ITEM_NAME_300000180^Fohlen's Prism^福倫的輝源^포렌의 휘석^Prisme pour Fohlen^Prisma für Fohlen^Prisma de Fohlen
+MST_ITEM_NAME_300000190^Veritas of the Dark's Prism^常暗之維利亞斯的輝源^영원한 어둠의 베리어스의 휘석^Prisme pour Veritas des Ténèbres^Prisma für Veritas der Finstere^Prisma de Veritas el tenebroso
+MST_ITEM_NAME_300000200^Squall's Prism^斯考爾的輝源^스퀄의 휘석^Prisme pour Squall^Prisma für Squall^Prisma de Squall
+MST_ITEM_NAME_300000210^Rinoa's Prism^莉諾雅的輝源^리노아의 휘석^Prisme pour Linoa^Prisma für Rinoa^Prisma de Rinoa
+MST_ITEM_NAME_300000220^Onion Knight's Prism^洋蔥劍士的輝源^양파 검사의 휘석^Prisme pour Chevalier Oignon^Prisma für Zwiebelritter^Prisma de Caballero Cebolla
+MST_ITEM_NAME_300000230^Nalu's Prism^娜露的輝源^나루의 휘석^Prisme pour Nalu^Prisma für Nalu^Prisma de Nalu
+MST_ITEM_NAME_300000240^Estark's Prism^艾斯塔克的輝源^에스타크의 휘석^Prisme pour Estark^Prisma für Estark^Prisma de Estark
+MST_ITEM_NAME_300000250^Marquis de Léon's Prism^獅王的輝源^킹 레오의 휘석^Prisme pour Marquis de Léon^Prisma für Marquis de Léon^Prisma del Marqués de Léon
+MST_ITEM_NAME_300000260^Dragonlord's Prism^龍王的輝源^용왕의 휘석^Prisme pour Lordragon^Prisma für Drachenfürst^Prisma de Draconarius
+MST_ITEM_NAME_300000270^Livid Shantotto's Prism^狂暴香托托的輝源^분노한 샨토토의 휘석^Prisme pour Shantotto furieuse^Prisma für Tobende Shantotto^Prisma de Livid Shantotto
+MST_ITEM_NAME_300000280^Shadow Lord's Prism^暗之王的輝源^암흑의 왕의 휘석^Prisme pour Roi des Ténèbres^Prisma für Schattenlord^Prisma del Señor oscuro
+MST_ITEM_NAME_300000290^Lunera's Prism^盧內拉的輝源^루네라의 휘석^Prisme pour Lunera^Prisma für Lunera^Prisma de Lunera
+MST_ITEM_NAME_300000300^Prishe's Prism^普利修的輝源^프리쉬의 휘석^Prisme pour Prishe^Prisma für Prishe^Prisma de Prishe
+MST_ITEM_NAME_300000310^Mercenary Ramza's Prism^傭兵拉姆薩的輝源^용병 람자의 휘석^Prisme pour Ramza mercenaire^Prisma für Söldner Ramza^Prisma de Ramza mercenario
+MST_ITEM_NAME_300000320^Knight Delita's Prism^騎士迪利塔的輝源^기사 디리타의 휘석^Prisme pour Delita chevalier^Prisma für Ritter Delita^Prisma de Delita caballero
+MST_ITEM_NAME_300000330^Cloud's Prism^克勞德的輝源^클라우드의 휘석^Prisme pour Cloud^Prisma für Cloud^Prisma de Cloud
+MST_ITEM_NAME_300000340^Veritas of the Flame's Prism^劫火之維利亞斯的輝源^지옥불의 베리어스의 휘석^Prisme pour Veritas des Flammes^Prisma für Veritas der Flammende^Prisma de Veritas el llameante
+MST_ITEM_NAME_300000350^Loren's Prism^洛倫的輝源^로렌의 휘석^Prisme pour Loren^Prisma für Loren^Prisma de Loren
+MST_ITEM_NAME_300000360^Veritas of the Light's Prism^光輝之維利亞斯的輝源^찬란한 빛의 베리어스의 휘석^Prisme pour Veritas de la Lumière^Prisma für Veritas des Lichts^Prisma de Veritas el luminoso
+MST_ITEM_NAME_300000370^Noctis's Prism^諾克提斯的輝源^녹티스의 휘석^Prisme pour Noctis^Prisma für Noctis^Prisma de Noctis
+MST_ITEM_NAME_300000380^Beatrix's Prism^貝特麗克絲的輝源^베아트릭스의 휘석^Prisme pour Béate^Prisma für Beatrix^Prisma de Beatrix
+MST_ITEM_NAME_300000390^Eiko's Prism^艾可的輝源^에코의 휘석^Prisme pour Eiko^Prisma für Eiko^Prisma de Eiko
+MST_ITEM_NAME_300000400^Hyoh's Prism^獵豹的輝源^효우의 휘석^Prisme pour Hyoh^Prisma für Hyou^Prisma de Hyou
+MST_ITEM_NAME_300000410^Santa Roselia's Prism^聖人羅塞莉亞的輝源^산타 로자리아의 휘석^Prisme pour Mère de l'hiver Rosélia^Prisma für Santa Roselia^Prisma de Santa Roselia
+MST_ITEM_NAME_300000420^Ignis's Prism^伊格尼斯的輝源^이그니스의 휘석^Prisme pour Ignis^Prisma für Ignis^Prisma de Ignis
+MST_ITEM_NAME_300000430^Ray Jack's Prism^雷佳克的輝源^레이 잭의 휘석^Prisme pour Ray Jack^Prisma für Ray Jack^Prisma de Ray Jack
+MST_ITEM_NAME_300000440^Balthier's Prism^巴爾弗雷亞的輝源^발프레아의 휘석^Prisme pour Balthier^Prisma für Balthier^Prisma de Balthier
+MST_ITEM_NAME_300000450^Gilgamesh's Prism^吉爾伽美什的輝源^길가메시의 휘석^Prisme pour Gilgamesh^Prisma für Gilgamesch^Prisma de Gilgamesh
+MST_ITEM_NAME_300000460^Ayaka's Prism^彩花的輝源^아야카의 휘석^Prisme pour Ayaka^Prisma für Ayaka^Prisma de Ayaka
+MST_ITEM_NAME_300000470^Elfreeda's Prism^艾爾弗里德的輝源^엘프리데의 휘석^Prisme pour Elfreeda^Prisma für Elfriede^Prisma de Elfreeda
+MST_ITEM_NAME_300000480^Roy's Prism^羅伊的輝源^로이의 휘석^Prisme pour Roy^Prisma für Roy^Prisma de Roy
+MST_ITEM_NAME_300000490^Gladiolus's Prism^格拉迪歐藍斯的輝源^글라디올러스의 휘석^Prisme pour Gladiolus^Prisma für Gladiolus^Prisma de Gladiolus
+MST_ITEM_NAME_300000500^Duke's Prism^杜克的輝源^듀크의 휘석^Prisme pour Duke^Prisma für Duke^Prisma de Duke
+MST_ITEM_NAME_300000510^Pyro Glacial Lasswell's Prism^冰炎騎士拉斯韋爾的輝源^빙염의 기사 라스웰의 휘석^Prisme pour Lasswell flammes gelées^Prisma für Eisflammenritter Lasswell^Prisma de Lasswell pirogélido
+MST_ITEM_NAME_300000520^Yuna's Prism^優娜的輝源^유우나의 휘석^Prisme pour Yuna^Prisma für Yuna^Prisma de Yuna
+MST_ITEM_NAME_300000530^Lulu's Prism^露露的輝源^루루의 휘석^Prisme pour Lulu^Prisma für Lulu^Prisma de Lulu
+MST_ITEM_NAME_300000540^Blossom Sage Sakura's Prism^櫻雲賢者櫻的輝源^벚꽃의 현자 사쿠라의 휘석^Prisme pour Sakura sage des fleurs^Prisma für Blütenmagierin Sakura^Prisma de Sakura sabia floreciente
+MST_ITEM_NAME_300000550^Lotus Mage Fina's Prism^白蓮魔道士菲娜的輝源^백련의 마도사 피나의 휘석^Prisme pour Fina, mage du lotus^Prisma für Lotusmagierin Fina^Prisma de Fina maga del loto
+MST_ITEM_NAME_300000560^Aranea's Prism^艾拉妮亞的輝源^아라네아의 휘석^Prisme pour Aranea^Prisma für Aranea^Prisma de Aranea
+MST_ITEM_NAME_300000570^Prompto's Prism^普羅恩普特的輝源^프롬프토의 휘석^Prisme pour Prompto^Prisma für Prompto^Prisma de Prompto
+MST_ITEM_NAME_300000580^Kunshira's Prism^庫西拉的輝源^쿤시라의 휘석^Prisme pour Kunshira^Prisma für Kunshira^Prisma de Kunshira
+MST_ITEM_NAME_300000590^Citra's Prism^希特拉的輝源^시트라의 휘석^Prisme pour Citra^Prisma für Citra^Prisma de Citra
+MST_ITEM_NAME_300000600^Lenneth's Prism^蕾娜絲的輝源^레나스의 휘석^Prisme pour Lenneth^Prisma für Lenneth^Prisma de Lenneth
+MST_ITEM_NAME_300000610^Freya's (VP) Prism^芙蕾的輝源^프레이의 휘석^Prisme pour Freya (VP)^Prisma für Freya (VP)^Prisma de Freija (VP)
+MST_ITEM_NAME_300000620^Arngrim's Prism^阿瑠瑟的輝源^아류제의 휘석^Prisme pour Arngrim^Prisma für Arngrim^Prisma de Arngrim
+MST_ITEM_NAME_300000630^Tifa's Prism^蒂法的輝源^티파의 휘석^Prisme pour Tifa^Prisma für Tifa^Prisma de Tifa
+MST_ITEM_NAME_300000640^Vincent's Prism^文森特的輝源^빈센트의 휘석^Prisme pour Vincent^Prisma für Vincent^Prisma de Vincent
+MST_ITEM_NAME_300000650^Nyx's Prism^尼克斯的輝源^닉스의 휘석^Prisme pour Nyx^Prisma für Nyx^Prisma de Nyx
+MST_ITEM_NAME_300000660^Jiraiya's Prism^自來也的輝源^지라이야의 휘석^Prisme pour Jiraiya^Prisma für Jiraiya^Prisma de Jiraiya
+MST_ITEM_NAME_300000670^Gabranth's Prism^加布藍斯的輝源^가브라스의 휘석^Prisme pour Gabranth^Prisma für Gabranth^Prisma de Gabranth
+MST_ITEM_NAME_300000680^Basch's Prism^巴修的輝源^바슈의 휘석^Prisme pour Basch^Prisma für Basch^Prisma de Basch
+MST_ITEM_NAME_300000690^Nameless Gunner Jake's Prism^無名槍士傑科的輝源^무명의 총잡이 제이크의 휘석^Prisme pour Jake, tireur anonyme^Prisma für Namenloser Pistolero Jake^Prisma de Jake el pistolero anónimo
+MST_ITEM_NAME_300000700^Emperor Shera's Prism^榭拉皇帝的輝源^시엘라 황제의 휘석^Prisme pour l'Empereur Shera^Prisma für Imperator Shera^Prisma de Emperador Shera
+MST_ITEM_NAME_300000710^Pure Summoner Rydia's Prism^無瑕召喚士莉迪亞的輝源^순수의 소환사 리디아의 휘석^Prisme pour Rydia, pure invocatrice^Prisma für Reine Beschwörerin Rydia^Prisma de Rydia invocadora pura
+MST_ITEM_NAME_300000720^Atoning Dragoon Kain's Prism^極致龍騎士凱因的輝源^궁극의 용기사 카인의 휘석^Prisme pour Kaïn, dragonnier repenti^Prisma für Sühnender Dragoner Kain^Prisma de Kain, dragontino redentor
+MST_ITEM_NAME_300000730^Heavenly Technician Lid's Prism^星虹技師里德的輝源^성홍의 기술자 리드의 휘석^Prisme pour Lid, ingénieure cosmique^Prisma für Himmlische Technikerin Lid^Prisma de Lid ingeniera cósmica
+MST_ITEM_NAME_300000740^Mediena's Prism^美迪愛娜的輝源^메디아나의 휘석^Prisme pour Mediena^Prisma für Mediena^Prisma de Mediena
+MST_ITEM_NAME_300000750^Sephiroth's Prism^賽菲羅斯的輝源^세피로스의 휘석^Prisme pour Séphiroth^Prisma für Sephiroth^Prisma de Sefirot
+MST_ITEM_NAME_300000760^Lila's Prism^利拉的輝源^리라의 휘석^Prisme pour Lila^Prisma für Lila^Prisma de Lila
+MST_ITEM_NAME_300000770^Maritime Strategist Nichol's Prism^洸洋軍師尼科爾的輝源^광양의 참모 니콜의 휘석^Prisme pour Nichol, stratège maritime^Prisma für Maritimer Stratege Nichol^Prisma de Nichol estratega marino
+MST_ITEM_NAME_300000780^Raegan's Prism^雷根的輝源^레겐의 휘석^Prisme pour Raegen^Prisma für Raegen^Prisma de Raegen
+MST_ITEM_NAME_300000790^Awakened Rain's Prism^雷因（覺醒）的輝源^레인(각성한 힘)의 휘석^Prisme pour Rain éveillé^Prisma für Erweckter Rain^Prisma de Rain despertado
+MST_ITEM_NAME_300000800^Elephim's Prism^艾蕾菲姆的輝源^엘핌의 휘석^Prisme pour Elephim^Prisma für Elephim^Prisma de Elephim
+MST_ITEM_NAME_300000810^Flammie's Prism^弗拉米的輝源^플라미의 휘석^Prisme pour Flammie^Prisma für Flammie^Prisma de Flammie
+MST_ITEM_NAME_300000820^Randi's Prism^蘭迪的輝源^랜디의 휘석^Prisme pour Randy^Prisma für Randi^Prisma de Randy
+MST_ITEM_NAME_300000830^Kevin's Prism^凱文的輝源^케빈의 휘석^Prisme pour Kévin^Prisma für Kevin^Prisma de Kevin
+MST_ITEM_NAME_300000840^Lise's Prism^麗絲的輝源^리스의 휘석^Prisme pour Lise^Prisma für Lise^Prisma de Lise
+MST_ITEM_NAME_300000850^Hawkeye's Prism^霍克埃的輝源^호크아이의 휘석^Prisme pour Hawk^Prisma für Hawk^Prisma de Hawk
+MST_ITEM_NAME_300000860^Machina's Prism^馬其納的輝源^마키나의 휘석^Prisme pour Machina^Prisma für Machina<br>^Prisma de Machina
+MST_ITEM_NAME_300000870^Kurasame's Prism^暮雨的輝源^쿠라사메의 휘석^Prisme pour Kurasame^Prisma für Kurasame^Prisma de Kurasame
+MST_ITEM_NAME_300000880^Sieghard's Prism^吉克哈特的輝源^지크하르트의 휘석^Prisme pour Sieghard^Prisma für Sieghard^Prisma de Sieghard
+MST_ITEM_NAME_300000890^Yuraisha's Prism^尤萊莎的輝源^유라이샤의 휘석^Prisme pour Yuraisha^Prisma für Yuraisha^Prisma de Yuraisha
+MST_ITEM_NAME_300000900^Onion Knight Refia's Prism^洋蔥劍士蕾菲亞的輝源^양파 검사 레피아의 휘석^Prisme pour Refia, Chevalier Oignon^Prisma für Zwiebelritter Refia^Prisma de Refia, Caballera cebolla
+MST_ITEM_NAME_300000910^Dark Knight Luneth's Prism^魔劍士魯內斯的輝源^마검사 루네스의 휘석^Prisme pour Luneth, Chevalier Noir^Prisma für Dunkelritter Luneth^Prisma de Luneth, Caballero oscuro
+MST_ITEM_NAME_310000010^Olive's Prism^奧利芙的輝源^올리브의 휘석^Prisme pour Olive^Prisma für Olive^Prisma de Olivia
+MST_ITEM_NAME_310000060^Reberta's Prism^蕾貝爾塔的輝源^리베르타의 휘석^Prisme pour Réberta^Prisma für Reberta^Prisma de Reberta
+MST_ITEM_NAME_310000090^Barbariccia's Prism^巴爾巴莉希亞的輝源^발바리시아의 휘석^Prisme pour Barbariccia^Prisma für Barbarizia^Prisma de Barbariccia
+MST_ITEM_NAME_310000100^Zargabaath's Prism^查格博斯的輝源^자르가바스의 휘석^Prisme pour Zargabaath^Prisma für Zargabaath^Prisma de Zargabaath
 MST_ITEM_NAME_1209000882^Elven Crystal^精靈水晶^엘프의 수정^Cristal elfique^Elfenkristall^Cristal élfico
 MST_ITEM_NAME_1209000883^Manufactured Wood^人造木材^인공 목재^Bois manufacturé^Fertigholz^Madera procesada
 MST_ITEM_NAME_1209000884^Scarlet Orb^朱紅色寶珠^진홍색 구슬^Orbe écarlate^Scharlachjuwel^Orbe escarlata
@@ -766,3 +770,73 @@ MST_ITEM_NAME_1209000890^2nd Anniversary Ticket^2週年紀念券^2주년 기념 
 MST_ITEM_NAME_1209000891^Player's Voice Ticket (Part 1)^玩家之聲券(第1階段) ^유저의 소망 티켓(1부)^Ticket de la voix du joueur (1re partie)^Spielerwunsch-Karte (Teil 1)^Tícket de voz del jugador (parte 1) 
 MST_ITEM_NAME_1209000892^Player's Voice Ticket (Part 2)^玩家之聲券(第2階段)^유저의 소망 티켓(2부)^Ticket de la voix du joueur (2e partie)^Spielerwunsch-Karte (Teil 2)^Tícket de voz del jugador (parte 2) 
 MST_ITEM_NAME_1209000896^FFBE Heroes Coin^FFBE英雄硬幣^FFBE 영웅 코인^Jeton des héros de FFBE^FFBE Heldenmünze^Moneda de héroes de FFBE
+MST_ITEM_NAME_1209000897^Nano Seeds^奈米種子^나노 시드^Graines nano^Nanosaat^Nanosemillas
+MST_ITEM_NAME_1209000898^Nano Shard^奈米碎片^나노 조각^Fragment nano^Nanosplitter^Nanofragmento
+MST_ITEM_NAME_1209000899^Nano Crystal^奈米水晶^나노 크리스탈^Cristal nano^Nanokristall^Nanocristal
+MST_ITEM_NAME_1209000900^Nano Core^奈米核心^나노 코어^Cœur nano^Nanokern^Nanonúcleo
+MST_ITEM_NAME_1209000901^Hypostim^微量注射器^하이포스팀^Injecteur d'HypoStim^Hypostim^Hipoestim
+MST_ITEM_NAME_310000020^Adam Jensen's Prism^亞當·傑森的輝源^아담 젠슨의 휘석^Prisme pour Adam Jensen^Prisma für Adam Jensen^Prisma de Adam Jensen
+MST_ITEM_NAME_310000030^Viktor Marchenko's Prism^維克托·馬爾琴科的輝源^빅토르 마르첸코의 휘석^Prisme pour Viktor Marchenko^Prisma für Viktor Marchenko^Prisma de Viktor Marchenko
+MST_ITEM_NAME_1209000893^Conch^海螺^소라 고둥^Conque^Muschelschale^Caracola
+MST_ITEM_NAME_1209000894^Turret Shell^筍螺^송곳 고둥^Terebridae^Turmschneckenmuschel^Terebra
+MST_ITEM_NAME_1209000895^Cowry Shell^寶藏貝^개오지 고둥^Porcelaine^Kaurimuschel^Cauri
+MST_ITEM_NAME_1209000902^Rainbow Shell^彩虹貝^무지개 고둥^Coquillage arc-en-ciel^Regenbogenmuschel^Concha arcoíris
+MST_ITEM_NAME_1209000903^Summer 2018 Summon Ticket^2018 夏日活動召喚券^2018 여름 소환티켓^Ticket d'invocation Été 2018^Sommer 2018 Beschwörungskarte^Tícket de invocación estival de 2018
+MST_ITEM_NAME_1209000904^Summer Stone^夏日石^여름의 돌^Pierre estivale^Sommerstein^Piedra estival
+MST_ITEM_NAME_310000040^Seaside Nichol's Prism^尼科爾（泳裝）的輝源^바닷가의 니콜의 휘석^Prisme pour Nichol tenue d'été^Prisma für Badestrand-Nichol^Prisma de Nichol playero
+MST_ITEM_NAME_310000050^Aloha Lasswell's Prism^拉斯韋爾（泳裝）的輝源^알로하 라스웰의 휘석^Prisme de Lasswell tenue d'été^Prisma für Aloha-Lasswell^Prisma de Lasswell hawaiano
+MST_ITEM_NAME_310000070^Malphasie's Prism^瑪爾菲希的輝源^멜파지의 휘석^Prisme de Malphasie^Prisma für Malphasie^Prisma de Malphasie
+MST_ITEM_NAME_310000080^Circe's Prism^瑟希的輝源^서스의 휘석^Prisme de Circé^Prisma für Circe<br>^Prisma de Circe
+MST_ITEM_NAME_1209000905^Hatred Raid Coin^仇恨共鬥硬幣^증오의 레이드 코인^Jeton de la haine^Raubzugmünze des Hasses^Moneda de banda de la ira
+MST_ITEM_NAME_1209000906^Decayed Seeds^腐爛種子^부패한 씨앗^Graines décomposées^Verdorbene Samen^Semillas podridas
+MST_ITEM_NAME_1209000907^Burnt Shard^燒焦碎片^타버린 조각^Éclat calciné^Verbrannter Splitter^Fragmento calcinado
+MST_ITEM_NAME_1209000908^Dull Crystal^黯淡水晶^칙칙한 크리스탈^Cristal terne^Trüber Kristall^Cristal sin brillo
+MST_ITEM_NAME_1209000909^Dark Core^黑暗核心^어둠의 코어^Noyau sombre^Dunkler Kern^Núcleo oscuro
+MST_ITEM_NAME_1209000910^Corrupted Stone^墮落之石^퇴폐의 돌^Pierre corrompue^Korrumpierter Stein^Piedra corrupta
+MST_ITEM_NAME_1209000911^Wicked Roots^邪惡之根^사악한 뿌리^Racines malfaisantes^Bösartige Wurzeln^Raíces malignas
+MST_ITEM_NAME_1209000912^Lock of Black Hair^一束黑色頭髮^검은 머리 뭉치^Mèche de cheveux noirs^Schwarze Haarlocke^Mechón azabache
+MST_ITEM_NAME_1209000915^Pumpkin Candy^南瓜糖^호박 사탕^Potibonbon^Zuckerkürbis^Caramelo calabizo
+MST_ITEM_NAME_1209000916^Special FFXV Ticket^FFXV特別召喚券^스페셜 FFXV 티켓^Ticket spécial FFXV^Besondere FFXV Karte^Tícket especial de FFXV
+MST_ITEM_NAME_310000110^Demon Rain's Prism^惡魔雷因的輝源^악마 레인의 휘석^Prisme pour Rain démoniaque^Prisma für Dämonen-Rain^Prisma de Rain demoniaco
+MST_ITEM_NAME_310000120^Dracu Lasswell's Prism^吸血鬼拉斯韋爾的輝源^드라큘라 라스웰의 휘석^Prisme pour Draculasswell^Prisma für Dracu-Lasswell^Prisma de Draculasswell
+MST_ITEM_NAME_310000130^Grim Lord Sakura's Prism^冷血貴族櫻的輝源^사신 사쿠라의 휘석^Prisme pour Sakura, seigneur sombre^Prisma für Grimmige Herrin Sakura^Prisma de Sakura la parca
+MST_ITEM_NAME_1209000917^Red Vial^鮮紅小瓶^붉은 유리병^Fiole rouge^Rote Phiole^Vial rojo
+MST_ITEM_NAME_1209000913^Halloween 2018 Summon Ticket^2018萬聖節召喚券^2018 할로윈 소환티켓^Ticket d'invocation d'Halloween 2018^Halloween 2018 Beschwörungskarte^Tícket de invocación de Halloween 2018
+MST_ITEM_NAME_310000140^Lilith's Prism^莉莉絲的輝源^릴리스의 휘석^Prisme pour Lilith^Prisma für Lilith^Prisma de Lilith
+MST_ITEM_NAME_310000150^Lucius's Prism^路西亞斯的輝源^루시우스의 휘석^Prisme pour Lucius^Prisma für Lucius^Prisma de Lucius
+MST_ITEM_NAME_105007000^Conqueror's Gavel - Magic^征服者木槌·魔^정복자의 가벨·마법^Maillet du conquérant - Magie^Richterhammer des Eroberers - Magie^Martillo del conquistador
+MST_ITEM_NAME_106211160^Xenogears Limited Exchange Ticket [F.E.B]^Xenogears限定交換券[F.E.B]^제노기어스 한정 교환권 [F.E.B]^^^Tícket de intercambio limitado de Xenogears [F.E.B]
+MST_ITEM_NAME_106211170^[Limited Edition] Guaranteed ★5 SP Summon Ticket^[期間限定]★5確定SP召喚券^[기간 한정] ★5 보장 특별 소환티켓^^^[Edición limitada] Tícket de invocación de 5★ ESP garantizado
+MST_ITEM_NAME_106211180^Xenogears Limited Exchange Ticket [F.E.B.S.M]^Xenogears限定交換券[F.E.B.S.M]^제노기어스 한정 교환권 [F.E.B.S.M]^^^Tícket de intercambio limitado de Xenogears [F.E.B.S.M]
+MST_ITEM_NAME_106305500^G-Elements Raid Coin^G元素共鬥硬幣^G 엘리멘츠 레이드 코인^^^Moneda de banda de elementos G
+MST_ITEM_NAME_106305600^Empty Sphere^枯竭晶球^텅 빈 스피어^^^Esfera vacía
+MST_ITEM_NAME_106305700^Deus Raid Coin^迪烏斯共鬥硬幣^데우스 레이드 코인^^^Moneda de banda de Deus
+MST_ITEM_NAME_110000600^Gil Map^ＧＩＬ地圖^길의 지도^^^Mapa de guiles
+MST_ITEM_NAME_225000100^Large Gold Ingots^大金塊^대금괴^^^Lingotes de oro grandes
+MST_ITEM_NAME_225000200^Violet Lumber^桔梗色木材^보라색 목재^^^Madera violeta
+MST_ITEM_NAME_225000300^Crimson Cloth^紅色布料^붉은색 옷감^^^Tela carmesí
+MST_ITEM_NAME_225000400^Earth Scale^大地鱗片^대지의 비늘^^^Escama terrestre
+MST_ITEM_NAME_225000500^Ebony Fang^漆黑銳牙^칠흑의 송곳니^^^Colmillo de ébano
+MST_ITEM_NAME_226000100^Green Ring^綠色戒指^미도리의 반지^^^Anillo verde
+MST_ITEM_NAME_226000200^Lump of Steel^玉鋼小塊^옥강 덩어리^^^Trozo de acero
+MST_ITEM_NAME_226000300^Black Leather^黑色革布^검은 가죽^^^Cuero negro
+MST_ITEM_NAME_226000400^Shiny Black Gem^泛黑光的寶珠^검게 빛나는 보옥^^^Gema negra brillante
+MST_ITEM_NAME_226000500^Azure Fragment^蒼藍碎片^푸른 조각^^^Fragmento azul
+MST_ITEM_NAME_300000920^^芙爾卡的輝源^폴카의 휘석^^^
+MST_ITEM_NAME_300000930^^飛的輝源^페이의 휘석^^^
+MST_ITEM_NAME_300000940^^艾蕾的輝源^에리의 휘석^^^
+MST_ITEM_NAME_300000950^^巴特的輝源^발트의 휘석^^^
+MST_ITEM_NAME_300000960^^傑克特的輝源^젝트의 휘석^^^
+MST_ITEM_NAME_300000970^^奧隆的輝源^아론의 휘석^^^
+MST_ITEM_NAME_300000980^^伊格尼西奧的輝源^이그니시오의 휘석^^^
+MST_ITEM_NAME_300000990^^紫檀的輝源^시탄의 휘석^^^
+MST_ITEM_NAME_300001000^^瑪利亞的輝源^마리아의 휘석^^^
+MST_ITEM_NAME_1209000923^35 Million Downloads Ticket^3500萬下載紀念券^3천5백만 다운로드 기념 티켓^Ticket 35 M de télécharg.^35 Millionen Downloads Karte^Tícket de 35 m. de descargas
+MST_ITEM_NAME_1209000918^Red Cloth^深紅外衣^붉은 옷감^Tissu rouge^Rotes Tuch^Tela roja
+MST_ITEM_NAME_1209000919^Cursed Needle^受詛咒的針^저주의 바늘^Aiguille maudite^Verfluchte Nadel^Aguja maldita
+MST_ITEM_NAME_1209000920^Black Ash^黑色灰燼^검은 재^Poussière noire^Schwarze Asche^Ceniza oscura
+MST_ITEM_NAME_1209000921^Pure Blood^純淨之血^순혈^Sang pur^Reines Blut^Sangre pura
+MST_ITEM_NAME_1209000922^Black Grimoire^漆黑魔典^흑마술의 서^Grimoire noir^Schwarzes Grimoire^Grimorio oscuro
+MST_ITEM_NAME_310000180^Fryevia's Prism^弗雷比亞的輝源^프레이비아의 휘석^Prisme pour Fryevia^Prisma für Fryevia^Prisma de Fryevia
+MST_ITEM_NAME_310000160^Beryl's Prism^貝利爾的輝源^베릴의 휘석^Prisme pour Beryl^Prisma für Beryl^Prisma de Beryl
+MST_ITEM_NAME_310000170^Ellesperis's Prism^艾莉絲珮芮絲的輝源^엘레스페리스의 휘석^Prisme pour Ellesperis^Prisma für Ellesperis^Prisma de Ellesperis

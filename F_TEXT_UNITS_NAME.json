@@ -313,7 +313,7 @@ MST_UNIT_NAME_900001201^Magi Pot^增魔罐^매직 포트^Pot de magie^Hex-Gefä�
 MST_UNIT_NAME_900001301^King Magi Pot^國王增魔罐^킹 매직 포트^Roi pot de magie^Maxi-Hex-Gefäß^Rey tarro mágico
 MST_UNIT_NAME_900002101^Mini Power Pot^迷你強力罐^미니 파워 포트^Mini pot de puissance ^Mini-Kraft-Gefäß^Mini tarro potente
 MST_UNIT_NAME_900002201^Power Pot^強力罐^파워 포트^Pot de puissance ^Kraft-Gefäß^Tarro potente
-MST_UNIT_NAME_900002301^King Power Pot^國王強力罐^킹 파워 포트^Roi pot de de puissance^Maxi-Kraft-Gefäß^Rey tarro potente
+MST_UNIT_NAME_900002301^King Power Pot^國王強力罐^킹 파워 포트^Roi pot de puissance^Maxi-Kraft-Gefäß^Rey tarro potente
 MST_UNIT_NAME_900003101^Mini Shield Pot^迷你防身罐^미니 디펜드 포트^Mini pot de défense ^Mini-Hart-Gefäß^Mini tarro duro
 MST_UNIT_NAME_900003201^Shield Pot^防身罐^디펜드 포트^Pot de défense ^Hart-Gefäß^Tarro duro
 MST_UNIT_NAME_900003301^King Shield Pot^國王防身罐^킹 디펜드 포트^Roi pot de défense ^Maxi-Hart-Gefäß^Rey tarro duro
@@ -400,7 +400,7 @@ MST_UNIT_NAME_202000304^Guy^卡伊^가이^Guy^Guy^Guy
 MST_UNIT_NAME_202000305^Guy^卡伊^가이^Guy^Guy^Guy
 MST_UNIT_NAME_202000404^Leon^萊昂哈特^레온하르트^Léon^Leon^Leon
 MST_UNIT_NAME_202000405^Leon^萊昂哈特^레온하르트^Léon^Leon^Leon
-MST_UNIT_NAME_202000505^Emperor^皇帝^황제^Empereur ^Imperator^Emperador
+MST_UNIT_NAME_202000505^Emperor^皇帝^황제^Empereur^Imperator^Emperador
 MST_UNIT_NAME_202000506^Emperor^皇帝^황제^Empereur ^Imperator^Emperador
 MST_UNIT_NAME_100000206^Lasswell^拉斯韋爾^라스웰^Lasswell^Lasswell^Lasswell
 MST_UNIT_NAME_306000105^Dragonlord^龍王^용왕^Lordragon^Drachenfürst^Draconarius
@@ -865,9 +865,9 @@ MST_UNIT_NAME_401001905^Scarmiglione^斯卡米留尼^스컬밀리오네^Scarmigl
 MST_UNIT_NAME_401001604^Cagnazzo^凱納槽^카이나초^Cagnazzo^Cagnazzo^Cagnazzo
 MST_UNIT_NAME_401001605^Cagnazzo^凱納槽^카이나초^Cagnazzo^Cagnazzo^Cagnazzo
 MST_UNIT_NAME_401001606^Cagnazzo^凱納槽^카이나초^Cagnazzo^Cagnazzo^Cagnazzo
-MST_UNIT_NAME_401001504^Rubicante^盧比坎特^루비칸테^Rubicante^Rubicante^Rubicanti
-MST_UNIT_NAME_401001505^Rubicante^盧比坎特^루비칸테^Rubicante^Rubicante^Rubicanti
-MST_UNIT_NAME_401001506^Rubicante^盧比坎特^루비칸테^Rubicante^Rubicante^Rubicanti
+MST_UNIT_NAME_401001504^Rubicante^盧比坎特^루비칸테^Rubicante^Rubicante^Rubicante
+MST_UNIT_NAME_401001505^Rubicante^盧比坎特^루비칸테^Rubicante^Rubicante^Rubicante
+MST_UNIT_NAME_401001506^Rubicante^盧比坎特^루비칸테^Rubicante^Rubicante^Rubicante
 MST_UNIT_NAME_401001405^Barbariccia^巴爾巴莉希亞^발바리시아^Barbariccia^Barbarizia^Barbariccia
 MST_UNIT_NAME_401001406^Barbariccia^巴爾巴莉希亞^발바리시아^Barbariccia^Barbarizia^Barbariccia
 MST_UNIT_NAME_401002504^Sportive Ariana^運動女孩亞莉安娜^스포츠걸 아리아나^Ariana sportive ^Sportliche Ariana^Ariana deportista
@@ -947,8 +947,8 @@ MST_UNIT_NAME_100013405^Killian^希里安^킬리언^Killian^Killian^Killian
 MST_UNIT_NAME_100013406^Killian^希里安^킬리언^Killian^Killian^Killian
 MST_UNIT_NAME_100006006^Ulrica^烏爾麗卡^울리카^Ulrica^Ulrica^Ulrica
 MST_UNIT_NAME_100005706^Heltich^海爾蒂克^헬틱^Heltich^Heltich^Heltich
-MST_UNIT_NAME_100014405^Reberta^蕾貝爾塔^리베르타^Réberta^Reberta^Reberta
-MST_UNIT_NAME_100014406^Reberta^蕾貝爾塔^리베르타^Réberta^Reberta^Reberta
+MST_UNIT_NAME_100014405^Reberta (JP)^蕾貝爾塔 (JP)^리베르타 (JP)^Réberta (JP)^Reberta (JP)^Reberta (JP)
+MST_UNIT_NAME_100014406^Reberta (JP)^蕾貝爾塔 (JP)^리베르타 (JP)^Réberta (JP)^Reberta (JP)^Reberta (JP)
 MST_UNIT_NAME_100014504^Ling^鈴^링^Ling^Ling^Ling
 MST_UNIT_NAME_100014505^Ling^鈴^링^Ling^Ling^Ling
 MST_UNIT_NAME_100014506^Ling^鈴^링^Ling^Ling^Ling
@@ -1042,262 +1042,262 @@ MST_UNIT_NAME_401003505^Explorer Aileen^探險家艾琳^탐험가 아이린^Aile
 MST_UNIT_NAME_401003506^Explorer Aileen^探險家艾琳^탐험가 아이린^Aileen exploratrice^Forscher Aileen^Aileen exploradora
 MST_UNIT_NAME_401003605^Lara Croft^蘿拉·卡芙特^라라 크로프트^Lara Croft^Lara Croft^Lara Croft
 MST_UNIT_NAME_401003606^Lara Croft^蘿拉·卡芙特^라라 크로프트^Lara Croft^Lara Croft^Lara Croft
-MST_UNIT_NAME_100014905^Madam^^마담^^^
+MST_UNIT_NAME_100014905^Madam^夫人^마담^^^
 MST_UNIT_NAME_100015005^Vagrant Knight Rain^彷徨騎士雷因^방황의 기사 레인^Rain, chevalier vagabond^Wandernder Ritter Rain^Rain caballero mendicante
 MST_UNIT_NAME_100015006^Vagrant Knight Rain^彷徨騎士雷因^방황의 기사 레인^Rain, chevalier vagabond^Wandernder Ritter Rain^Rain caballero mendicante
 MST_UNIT_NAME_100015805^Awakened Rain^雷因（覺醒）^레인(각성한 힘)^Rain éveillé^Erweckter Rain^Rain despertado
 MST_UNIT_NAME_100015806^Awakened Rain^雷因（覺醒）^레인(각성한 힘)^Rain éveillé^Erweckter Rain^Rain despertado
-MST_UNIT_NAME_208000105^Squall^^스퀄^^^
-MST_UNIT_NAME_208000106^Squall^^스퀄^^^
-MST_UNIT_NAME_208000107^Squall^^스퀄^^^
-MST_UNIT_NAME_208000205^Rinoa^^리노아^^^
-MST_UNIT_NAME_208000206^Rinoa^^리노아^^^
-MST_UNIT_NAME_208000207^Rinoa^^리노아^^^
-MST_UNIT_NAME_208000404^Zell^^젤^^^
-MST_UNIT_NAME_208000405^Zell^^젤^^^
-MST_UNIT_NAME_208000406^Zell^^젤^^^
-MST_UNIT_NAME_100016503^Ramira^^라밀라^^^
-MST_UNIT_NAME_100016504^Ramira^^라밀라^^^
-MST_UNIT_NAME_100016505^Ramira^^라밀라^^^
-MST_UNIT_NAME_213000107^Lightning^^라이트닝^^^
+MST_UNIT_NAME_208000105^Squall^斯考爾^스퀄^Squall^Squall^Squall
+MST_UNIT_NAME_208000106^Squall^斯考爾^스퀄^Squall^Squall^Squall
+MST_UNIT_NAME_208000107^Squall^斯考爾^스퀄^Squall^Squall^Squall
+MST_UNIT_NAME_208000205^Rinoa^莉諾雅^리노아^Linoa^Rinoa^Rinoa
+MST_UNIT_NAME_208000206^Rinoa^莉諾雅^리노아^Linoa^Rinoa^Rinoa
+MST_UNIT_NAME_208000207^Rinoa^莉諾雅^리노아^Linoa^Rinoa^Rinoa
+MST_UNIT_NAME_208000404^Zell^賽爾^젤^Zell^Xell^Zell
+MST_UNIT_NAME_208000405^Zell^賽爾^젤^Zell^Xell^Zell
+MST_UNIT_NAME_208000406^Zell^賽爾^젤^Zell^Xell^Zell
+MST_UNIT_NAME_100016503^Ramira^拉米拉^라미라^Ramira^Ramira^Ramira
+MST_UNIT_NAME_100016504^Ramira^拉米拉^라미라^Ramira^Ramira^Ramira
+MST_UNIT_NAME_100016505^Ramira^拉米拉^라미라^Ramira^Ramira^Ramira
+MST_UNIT_NAME_213000107^Lightning^雷光^라이트닝^Lightning^Lightning^Lightning
 MST_UNIT_NAME_253000107^Ramza^拉姆薩^람자^Ramza^Ramza^Ramza
 MST_UNIT_NAME_253000207^Delita^迪利塔^디리타^Delita ^Delita^Delita
 MST_UNIT_NAME_204000117^Dark Knight Cecil^暗黑騎士塞西爾^암흑기사 세실^Cécil (chev. noir)^Dunkelritter Cecil^Cecil oscuro
-MST_UNIT_NAME_254000107^Ace^^에이스^^^
+MST_UNIT_NAME_254000107^Ace^艾斯^에이스^Ace^Ace^Ace
 MST_UNIT_NAME_203000207^Luneth^路涅斯^루네스^Luneth^Luneth^Luneth
-MST_UNIT_NAME_254000207^Queen^^퀸^^^
+MST_UNIT_NAME_254000207^Queen^葵因^퀸^Queen^Queen^Queen
 MST_UNIT_NAME_100000317^Dark Fina^魔人菲娜^마인 피나^Fina obscure^Dunkel-Fina^Fina oscura
 MST_UNIT_NAME_253000807^Orlandeau^奧爾蘭多^올란두^Orlandeau^Orlandeau^Orlandeau
 MST_UNIT_NAME_100005807^Marie^瑪麗^마리^Marie^Marie^Marie
-MST_UNIT_NAME_202000507^Emperor^^황제^^^
-MST_UNIT_NAME_306000107^Dragonlord^^용왕^^^
-MST_UNIT_NAME_100005907^Aileen^^아이린^^^
-MST_UNIT_NAME_254000907^Rem^^렘^^^
-MST_UNIT_NAME_210000107^Tidus^^티더^^^
+MST_UNIT_NAME_202000507^Emperor^皇帝^황제^Empereur ^Imperator^Emperador
+MST_UNIT_NAME_306000107^Dragonlord^龍王^용왕^Lordragon^Drachenfürst^Draconarius
+MST_UNIT_NAME_100005907^Aileen^艾琳^아이린^Aileen^Aileen^Aileen
+MST_UNIT_NAME_254000907^Rem^蕾姆^렘^Rem^Rem^Rem
+MST_UNIT_NAME_210000107^Tidus^提達^티더^Tidus^Tidus^Tidus
 MST_UNIT_NAME_100006107^Wilhelm^維魯赫魯姆^빌헬름^Wilhelm^Wilhelm^Wilhelm
 MST_UNIT_NAME_100007207^Seabreeze Dark Fina^涼爽魔人菲娜^바닷바람의 마인 피나^Fina obs. en maillot^Dunkel-Seewind-Fina^Fina oscura de la marea
-MST_UNIT_NAME_206000127^Trance Terra^^트랜스 티나^^^
-MST_UNIT_NAME_100006807^Fohlen^^포렌^^^
-MST_UNIT_NAME_100007707^Veritas of the Dark^^영원한 어둠의 베리어스^^^
-MST_UNIT_NAME_203000107^Onion Knight^^양파 검사^^^
-MST_UNIT_NAME_100015405^Nalu^^나루^^^
-MST_UNIT_NAME_100015406^Nalu^^나루^^^
-MST_UNIT_NAME_100015407^Nalu^^나루^^^
-MST_UNIT_NAME_100015504^Pecciotta^^페초타^^^
-MST_UNIT_NAME_100015505^Pecciotta^^페초타^^^
-MST_UNIT_NAME_100015506^Pecciotta^^페초타^^^
-MST_UNIT_NAME_100015604^Shinju^^신쥬^^^
-MST_UNIT_NAME_100015605^Shinju^^신쥬^^^
-MST_UNIT_NAME_100015606^Shinju^^신쥬^^^
-MST_UNIT_NAME_100015703^Ryuka^^류카^^^
-MST_UNIT_NAME_100015704^Ryuka^^류카^^^
-MST_UNIT_NAME_100015705^Ryuka^^류카^^^
-MST_UNIT_NAME_306000905^Estark^艾斯塔克^에스타크^^^
-MST_UNIT_NAME_306000906^Estark^艾斯塔克^에스타크^^^
-MST_UNIT_NAME_306000907^Estark^艾斯塔克^에스타크^^^
-MST_UNIT_NAME_306001005^Marquis de Léon^獅王^킹 레오^^^
-MST_UNIT_NAME_306001006^Marquis de Léon^獅王^킹 레오^^^
-MST_UNIT_NAME_306001007^Marquis de Léon^獅王^킹 레오^^^
-MST_UNIT_NAME_306001104^Überkilling Machine^殺戮魔神^킬러 마징가^^^
-MST_UNIT_NAME_306001105^Überkilling Machine^殺戮魔神^킬러 마징가^^^
-MST_UNIT_NAME_306001106^Überkilling Machine^殺戮魔神^킬러 마징가^^^
-MST_UNIT_NAME_306001204^Slime Knight^史萊姆騎士^슬라임 나이트^^^
-MST_UNIT_NAME_306001205^Slime Knight^史萊姆騎士^슬라임 나이트^^^
-MST_UNIT_NAME_306001206^Slime Knight^史萊姆騎士^슬라임 나이트^^^
-MST_UNIT_NAME_306001303^Dracky^多拉奇^드라키^^^
-MST_UNIT_NAME_306001304^Dracky^多拉奇^드라키^^^
-MST_UNIT_NAME_306001305^Dracky^多拉奇^드라키^^^
-MST_UNIT_NAME_211000805^Livid Shantotto^^분노한 샨토토^^^
-MST_UNIT_NAME_211000806^Livid Shantotto^^분노한 샨토토^^^
-MST_UNIT_NAME_211000807^Livid Shantotto^^분노한 샨토토^^^
-MST_UNIT_NAME_211000905^Shadow Lord^^암흑의 왕^^^
-MST_UNIT_NAME_211000906^Shadow Lord^^암흑의 왕^^^
-MST_UNIT_NAME_211000907^Shadow Lord^^암흑의 왕^^^
-MST_UNIT_NAME_211001004^Joachim^^요아힘^^^
-MST_UNIT_NAME_211001005^Joachim^^요아힘^^^
-MST_UNIT_NAME_211001006^Joachim^^요아힘^^^
-MST_UNIT_NAME_211000306^Kupipi^^쿠피피^^^
-MST_UNIT_NAME_100007507^Lunera^^루네라^^^
-MST_UNIT_NAME_211000407^Prishe^^프리쉬^^^
-MST_UNIT_NAME_253000117^Mercenary Ramza^^용병 람자^^^
-MST_UNIT_NAME_253000217^Knight Delita^^기사 디리타^^^
-MST_UNIT_NAME_207000107^Cloud^^클라우드^^^
-MST_UNIT_NAME_100008007^Veritas of the Flame^^지옥불의 베리어스^^^
-MST_UNIT_NAME_100009107^Loren^^로렌^^^
-MST_UNIT_NAME_100008207^Veritas of the Light^^찬란한 빛의 베리어스^^^
-MST_UNIT_NAME_215000107^Noctis^^녹티스^^^
-MST_UNIT_NAME_209001107^Beatrix^^베아트릭스^^^
-MST_UNIT_NAME_209000707^Eiko^^에코^^^
-MST_UNIT_NAME_100016205^Hyoh^^효우^^^
-MST_UNIT_NAME_100016206^Hyoh^^효우^^^
-MST_UNIT_NAME_100016207^Hyoh^^효우^^^
-MST_UNIT_NAME_100016304^Shatal^^샤탈^^^
-MST_UNIT_NAME_100016305^Shatal^^샤탈^^^
-MST_UNIT_NAME_100016306^Shatal^^샤탈^^^
-MST_UNIT_NAME_100016403^Domino^^도미노^^^
-MST_UNIT_NAME_100016404^Domino^^도미노^^^
-MST_UNIT_NAME_100016405^Domino^^도미노^^^
-MST_UNIT_NAME_100017005^Santa Roselia^^산타 로자리아^^^
-MST_UNIT_NAME_100017006^Santa Roselia^^산타 로자리아^^^
-MST_UNIT_NAME_100017007^Santa Roselia^^산타 로자리아^^^
+MST_UNIT_NAME_206000127^Trance Terra^入神蒂娜^트랜스 티나^Terra en transe ^Trance-Terra^Terra en trance
+MST_UNIT_NAME_100006807^Fohlen^福倫^포렌^Fohlen^Fohlen^Fohlen
+MST_UNIT_NAME_100007707^Veritas of the Dark^常暗之維利亞斯^영원한 어둠의 베리어스^Veritas des Ténèbres^Veritas der Finstere^Veritas el tenebroso
+MST_UNIT_NAME_203000107^Onion Knight^洋蔥劍士^양파 검사^Chevalier Oignon^Zwiebelritter^Caballero Cebolla
+MST_UNIT_NAME_100015405^Nalu^娜露^나루^Nalu^Nalu^Nalu
+MST_UNIT_NAME_100015406^Nalu^娜露^나루^Nalu^Nalu^Nalu
+MST_UNIT_NAME_100015407^Nalu^娜露^나루^Nalu^Nalu^Nalu
+MST_UNIT_NAME_100015504^Pecciotta^皮曹塔^페초타^Pecciotta^Pecciotta^Pecciotta
+MST_UNIT_NAME_100015505^Pecciotta^皮曹塔^페초타^Pecciotta^Pecciotta^Pecciotta
+MST_UNIT_NAME_100015506^Pecciotta^皮曹塔^페초타^Pecciotta^Pecciotta^Pecciotta
+MST_UNIT_NAME_100015604^Shinju^真珠^신쥬^Shinju^Shinju^Shinju
+MST_UNIT_NAME_100015605^Shinju^真珠^신쥬^Shinju^Shinju^Shinju
+MST_UNIT_NAME_100015606^Shinju^真珠^신쥬^Shinju^Shinju^Shinju
+MST_UNIT_NAME_100015703^Ryuka^琉華^류카^Ryuka^Ryuka^Ryuka
+MST_UNIT_NAME_100015704^Ryuka^琉華^류카^Ryuka^Ryuka^Ryuka
+MST_UNIT_NAME_100015705^Ryuka^琉華^류카^Ryuka^Ryuka^Ryuka
+MST_UNIT_NAME_306000905^Estark^艾斯塔克^에스타크^Estark^Estark^Estark
+MST_UNIT_NAME_306000906^Estark^艾斯塔克^에스타크^Estark^Estark^Estark
+MST_UNIT_NAME_306000907^Estark^艾斯塔克^에스타크^Estark^Estark^Estark
+MST_UNIT_NAME_306001005^Marquis de Léon^獅王^킹 레오^Lord Lionel^Marquis de Léon^Marquis de Léon
+MST_UNIT_NAME_306001006^Marquis de Léon^獅王^킹 레오^Lord Lionel^Marquis de Léon^Marquis de Léon
+MST_UNIT_NAME_306001007^Marquis de Léon^獅王^킹 레오^Lord Lionel^Marquis de Léon^Marquis de Léon
+MST_UNIT_NAME_306001104^Überkilling Machine^殺戮魔神^킬러 마징가^Mékanocinglé^Obertodmaschine^Máquina supermortal
+MST_UNIT_NAME_306001105^Überkilling Machine^殺戮魔神^킬러 마징가^Mékanocinglé^Obertodmaschine^Máquina supermortal
+MST_UNIT_NAME_306001106^Überkilling Machine^殺戮魔神^킬러 마징가^Mékanocinglé^Obertodmaschine^Máquina supermortal
+MST_UNIT_NAME_306001204^Slime Knight^史萊姆騎士^슬라임 나이트^Monte-gluant^Schleimritter^Jinete de limo
+MST_UNIT_NAME_306001205^Slime Knight^史萊姆騎士^슬라임 나이트^Monte-gluant^Schleimritter^Jinete de limo
+MST_UNIT_NAME_306001206^Slime Knight^史萊姆騎士^슬라임 나이트^Monte-gluant^Schleimritter^Jinete de limo
+MST_UNIT_NAME_306001303^Dracky^多拉奇^드라키^Vampivol^Drako^Dracanino
+MST_UNIT_NAME_306001304^Dracky^多拉奇^드라키^Vampivol^Drako^Dracanino
+MST_UNIT_NAME_306001305^Dracky^多拉奇^드라키^Vampivol^Drako^Dracanino
+MST_UNIT_NAME_211000805^Livid Shantotto^狂暴香托托^분노한 샨토토^Shantotto furieuse^Tobende Shantotto^Shantotto enfurecida
+MST_UNIT_NAME_211000806^Livid Shantotto^狂暴香托托^분노한 샨토토^Shantotto furieuse^Tobende Shantotto^Shantotto enfurecida
+MST_UNIT_NAME_211000807^Livid Shantotto^狂暴香托托^분노한 샨토토^Shantotto furieuse^Tobende Shantotto^Shantotto enfurecida
+MST_UNIT_NAME_211000905^Shadow Lord^黑暗之王^암흑의 왕^Seigneur des ombres^Schattenlord^Señor oscuro
+MST_UNIT_NAME_211000906^Shadow Lord^黑暗之王^암흑의 왕^Seigneur des ombres^Schattenlord^Señor oscuro
+MST_UNIT_NAME_211000907^Shadow Lord^黑暗之王^암흑의 왕^Seigneur des ombres^Schattenlord^Señor oscuro
+MST_UNIT_NAME_211001004^Joachim^喬吉姆^요아힘^Joachim^Joachim^Joachim
+MST_UNIT_NAME_211001005^Joachim^喬吉姆^요아힘^Joachim^Joachim^Joachim
+MST_UNIT_NAME_211001006^Joachim^喬吉姆^요아힘^Joachim^Joachim^Joachim
+MST_UNIT_NAME_211000306^Kupipi^庫皮皮^쿠피피^Kupipi^Kupipi^Kupipi
+MST_UNIT_NAME_100007507^Lunera^盧內拉^루네라^Lunera^Lunera^Lunera
+MST_UNIT_NAME_211000407^Prishe^普利修^프리쉬^Prishe^Prishe^Prishe
+MST_UNIT_NAME_253000117^Mercenary Ramza^傭兵拉姆薩^용병 람자^Ramza mercenaire^Söldner Ramza^Ramza mercenario
+MST_UNIT_NAME_253000217^Knight Delita^騎士迪利塔^기사 디리타^Delita chevalier^Ritter Delita^Delita caballero
+MST_UNIT_NAME_207000107^Cloud^克勞德^클라우드^^^
+MST_UNIT_NAME_100008007^Veritas of the Flame^劫火之維利亞斯^지옥불의 베리어스^Veritas des Flammes^Veritas der Flammende^Veritas el llameante
+MST_UNIT_NAME_100009107^Loren^洛倫^로렌^Loren^Loren^Loren
+MST_UNIT_NAME_100008207^Veritas of the Light^光輝之維利亞斯^찬란한 빛의 베리어스^Veritas de la Lumière^Veritas des Lichts^Veritas el luminoso
+MST_UNIT_NAME_215000107^Noctis^諾克提斯^녹티스^Noctis^Noctis^Noctis
+MST_UNIT_NAME_209001107^Beatrix^貝特麗克絲^베아트릭스^Béate^Beatrix^Beatrix
+MST_UNIT_NAME_209000707^Eiko^艾可^에코^Eiko^Eiko^Eiko
+MST_UNIT_NAME_100016205^Hyoh^獵豹^효우^Hyoh^Hyou^Hyou
+MST_UNIT_NAME_100016206^Hyoh^獵豹^효우^Hyoh^Hyou^Hyou
+MST_UNIT_NAME_100016207^Hyoh^獵豹^효우^Hyoh^Hyou^Hyou
+MST_UNIT_NAME_100016304^Shatal^喜塔爾^샤탈^Shatal^Shatal^Shatal
+MST_UNIT_NAME_100016305^Shatal^喜塔爾^샤탈^Shatal^Shatal^Shatal
+MST_UNIT_NAME_100016306^Shatal^喜塔爾^샤탈^Shatal^Shatal^Shatal
+MST_UNIT_NAME_100016403^Domino^多米諾^도미노^Domino^Domino^Domino
+MST_UNIT_NAME_100016404^Domino^多米諾^도미노^Domino^Domino^Domino
+MST_UNIT_NAME_100016405^Domino^多米諾^도미노^Domino^Domino^Domino
+MST_UNIT_NAME_100017005^Santa Roselia^聖人羅塞莉亞^산타 로자리아^^^
+MST_UNIT_NAME_100017006^Santa Roselia^聖人羅塞莉亞^산타 로자리아^^^
+MST_UNIT_NAME_100017007^Santa Roselia^聖人羅塞莉亞^산타 로자리아^^^
 MST_UNIT_NAME_100016605^Ukiyo^浮世^우키요^Ukiyo^Ukiyo^Ukiyo
 MST_UNIT_NAME_100016606^Ukiyo^浮世^우키요^Ukiyo^Ukiyo^Ukiyo
-MST_UNIT_NAME_215000505^Ignis^^이그니스^^^Ignis
-MST_UNIT_NAME_215000506^Ignis^^이그니스^^^Ignis
-MST_UNIT_NAME_215000507^Ignis^^이그니스^^^Ignis
-MST_UNIT_NAME_215001004^Ravus^^레이브스^^^Ravus
-MST_UNIT_NAME_215001005^Ravus^^레이브스^^^Ravus
-MST_UNIT_NAME_215001006^Ravus^^레이브스^^^Ravus
-MST_UNIT_NAME_215001406^Libertus^^리베르투스^^^Libertus
-MST_UNIT_NAME_307000105^Ray Jack^^레이 잭^^^
-MST_UNIT_NAME_307000106^Ray Jack^^레이 잭^^^
-MST_UNIT_NAME_307000107^Ray Jack^^레이 잭^^^
-MST_UNIT_NAME_307000204^Kaliva^^카리바^^^
-MST_UNIT_NAME_307000205^Kaliva^^카리바^^^
-MST_UNIT_NAME_307000206^Kaliva^^카리바^^^
-MST_UNIT_NAME_307000404^Toby^^토비^^^
-MST_UNIT_NAME_307000405^Toby^^토비^^^
-MST_UNIT_NAME_307000406^Toby^^토비^^^
-MST_UNIT_NAME_307000303^Barusa^^바루사^^^
-MST_UNIT_NAME_307000304^Barusa^^바루사^^^
-MST_UNIT_NAME_307000305^Barusa^^바루사^^^
-MST_UNIT_NAME_212000507^Balthier^^발프레아^^^
+MST_UNIT_NAME_215000505^Ignis^伊格尼斯^이그니스^Ignis^Ignis^Ignis
+MST_UNIT_NAME_215000506^Ignis^伊格尼斯^이그니스^Ignis^Ignis^Ignis
+MST_UNIT_NAME_215000507^Ignis^伊格尼斯^이그니스^Ignis^Ignis^Ignis
+MST_UNIT_NAME_215001004^Ravus^瑞布斯^레이브스^Ravus^Ravus^Ravus
+MST_UNIT_NAME_215001005^Ravus^瑞布斯^레이브스^Ravus^Ravus^Ravus
+MST_UNIT_NAME_215001006^Ravus^瑞布斯^레이브스^Ravus^Ravus^Ravus
+MST_UNIT_NAME_215001406^Libertus^利波特斯^리베르투스^Libertus^Libertus^Libertus
+MST_UNIT_NAME_307000105^Ray Jack^雷佳克^레이 잭^^^
+MST_UNIT_NAME_307000106^Ray Jack^雷佳克^레이 잭^^^
+MST_UNIT_NAME_307000107^Ray Jack^雷佳克^레이 잭^^^
+MST_UNIT_NAME_307000204^Kaliva^卡里瓦^카리바^^^
+MST_UNIT_NAME_307000205^Kaliva^卡里瓦^카리바^^^
+MST_UNIT_NAME_307000206^Kaliva^卡里瓦^카리바^^^
+MST_UNIT_NAME_307000404^Toby^托比^토비^^^
+MST_UNIT_NAME_307000405^Toby^托比^토비^^^
+MST_UNIT_NAME_307000406^Toby^托比^토비^^^
+MST_UNIT_NAME_307000303^Barusa^巴魯薩^바루사^^^
+MST_UNIT_NAME_307000304^Barusa^巴魯薩^바루사^^^
+MST_UNIT_NAME_307000305^Barusa^巴魯薩^바루사^^^
+MST_UNIT_NAME_212000507^Balthier^巴爾弗雷亞^발프레아^Balthier^Balthier^Balthier
 MST_UNIT_NAME_205000807^Gilgamesh^吉爾伽美什^길가메시^Gilgamesh^Gilgamesch^Gilgamesh
-MST_UNIT_NAME_100008607^Ayaka^^아야카^^^
-MST_UNIT_NAME_100009807^Elfreeda^^엘프리데^^^
-MST_UNIT_NAME_100010407^Roy^^로이^^^
-MST_UNIT_NAME_215000207^Gladiolus^^글라디올러스^^^
-MST_UNIT_NAME_100010807^Duke^^듀크^^^
-MST_UNIT_NAME_100011707^Pyro Glacial Lasswell^^빙염의 기사 라스웰^^^
-MST_UNIT_NAME_210000207^Yuna^^유우나^^^
-MST_UNIT_NAME_210000407^Lulu^^루루^^^
-MST_UNIT_NAME_100012407^Blossom Sage Sakura^^벚꽃의 현자 사쿠라^^^
-MST_UNIT_NAME_100011807^Lotus Mage Fina^^백련의 마도사 피나^^^
-MST_UNIT_NAME_215000607^Aranea^^아라네아^^^
-MST_UNIT_NAME_215000707^Prompto^^프롬프토^^^
-MST_UNIT_NAME_100012607^Kunshira^^쿤시라^^^
-MST_UNIT_NAME_100016905^Citra^^시트라^^^Citra
-MST_UNIT_NAME_100016906^Citra^^시트라^^^Citra
-MST_UNIT_NAME_100016907^Citra^^시트라^^^Citra
-MST_UNIT_NAME_100016704^Macmedi^^마크메디^^^
-MST_UNIT_NAME_100016705^Macmedi^^마크메디^^^
-MST_UNIT_NAME_100016706^Macmedi^^마크메디^^^
-MST_UNIT_NAME_100016803^Lotti^^로티^^^
-MST_UNIT_NAME_100016804^Lotti^^로티^^^
-MST_UNIT_NAME_100016805^Lotti^^로티^^^
-MST_UNIT_NAME_330000105^Lenneth^^레나스^^^
-MST_UNIT_NAME_330000106^Lenneth^^레나스^^^
-MST_UNIT_NAME_330000107^Lenneth^^레나스^^^
-MST_UNIT_NAME_330000205^Freya (VP)^^프레이^^^
-MST_UNIT_NAME_330000206^Freya (VP)^^프레이^^^
-MST_UNIT_NAME_330000207^Freya (VP)^^프레이^^^
-MST_UNIT_NAME_330000305^Arngrim^^아류제^^^
-MST_UNIT_NAME_330000306^Arngrim^^아류제^^^
-MST_UNIT_NAME_330000307^Arngrim^^아류제^^^
-MST_UNIT_NAME_330000404^Lucian^^루시오^^^
-MST_UNIT_NAME_330000405^Lucian^^루시오^^^
-MST_UNIT_NAME_330000406^Lucian^^루시오^^^
-MST_UNIT_NAME_330000503^Jelanda^^제라드^^^
-MST_UNIT_NAME_330000504^Jelanda^^제라드^^^
-MST_UNIT_NAME_330000505^Jelanda^^제라드^^^
-MST_UNIT_NAME_207000305^Tifa^^티파^^^
-MST_UNIT_NAME_207000306^Tifa^^티파^^^
-MST_UNIT_NAME_207000307^Tifa^^티파^^^
-MST_UNIT_NAME_207000805^Vincent^^빈센트^^^
-MST_UNIT_NAME_207000806^Vincent^^빈센트^^^
-MST_UNIT_NAME_207000807^Vincent^^빈센트^^^
-MST_UNIT_NAME_207000204^Barret^^바렛^^^
-MST_UNIT_NAME_207000205^Barret^^바렛^^^
-MST_UNIT_NAME_207000206^Barret^^바렛^^^
-MST_UNIT_NAME_207000703^Cait Sith^^캐트시^^^
-MST_UNIT_NAME_207000704^Cait Sith^^캐트시^^^
-MST_UNIT_NAME_207000705^Cait Sith^^캐트시^^^
-MST_UNIT_NAME_215001107^Nyx^^닉스^^^
-MST_UNIT_NAME_100011307^Jiraiya^^지라이야^^^
-MST_UNIT_NAME_212001107^Gabranth^^가브라스^^^
-MST_UNIT_NAME_212000907^Basch^^바슈^^^
-MST_UNIT_NAME_100012007^Nameless Gunner Jake^^무명의 총잡이 제이크^^^
-MST_UNIT_NAME_100013307^Emperor Shera^^시엘라 황제^^^
-MST_UNIT_NAME_204001507^Pure Summoner Rydia^^순수의 소환사 리디아^^^
-MST_UNIT_NAME_204001607^Atoning Dragoon Kain^^궁극의 용기사 카인^^^
-MST_UNIT_NAME_100011907^Heavenly Technician Lid^^성홍의 기술자 리드^^^
-MST_UNIT_NAME_100014007^Mediena^^메디아나^^^
-MST_UNIT_NAME_207001007^Sephiroth^^세피로스^^^
-MST_UNIT_NAME_100013807^Lila^^리라^^^
-MST_UNIT_NAME_100012507^Maritime Strategist Nichol^^광양의 참모 니콜^^^
-MST_UNIT_NAME_100010007^Raegen^^레겐^^^
-MST_UNIT_NAME_100015807^Awakened Rain^雷因（覺醒）^레인(각성한 힘)^Rain éveillé^Erweckter Rain^Rain despertado
-MST_UNIT_NAME_100017105^Elephim^^엘핌^Elephim^Elephim^Elephim
-MST_UNIT_NAME_100017106^Elephim^^엘핌^Elephim^Elephim^Elephim
-MST_UNIT_NAME_100017107^Elephim^^엘핌^Elephim^Elephim^Elephim
-MST_UNIT_NAME_100017204^Leopold^^레오폴드^^^
-MST_UNIT_NAME_100017205^Leopold^^레오폴드^^^
-MST_UNIT_NAME_100017206^Leopold^^레오폴드^^^
-MST_UNIT_NAME_100017304^Magna^^마그나^^^
-MST_UNIT_NAME_100017305^Magna^^마그나^^^
-MST_UNIT_NAME_100017306^Magna^^마그나^^^
-MST_UNIT_NAME_100017403^Forelsket^^포렐스켓^^^
-MST_UNIT_NAME_100017404^Forelsket^^포렐스켓^^^
-MST_UNIT_NAME_100017405^Forelsket^^포렐스켓^^^
-MST_UNIT_NAME_304000405^Flammie^^플라미^^^
-MST_UNIT_NAME_304000406^Flammie^^플라미^^^
-MST_UNIT_NAME_304000407^Flammie^^플라미^^^
-MST_UNIT_NAME_304000107^Randi^^랜디^^^
-MST_UNIT_NAME_312000307^Kevin^^케빈^^^
-MST_UNIT_NAME_312000107^Lise^^리스^^^
-MST_UNIT_NAME_312000207^Hawkeye^^호크아이^^^
-MST_UNIT_NAME_304000503^Rabite^^라비^^^
-MST_UNIT_NAME_304000504^Rabite^^라비^^^
-MST_UNIT_NAME_304000505^Rabite^^라비^^^
-MST_UNIT_NAME_254001805^Machina^^마키나^^^
-MST_UNIT_NAME_254001806^Machina^^마키나^^^
-MST_UNIT_NAME_254001807^Machina^^마키나^^^
-MST_UNIT_NAME_254001905^Kurasame^^쿠라사메^^^
-MST_UNIT_NAME_254001906^Kurasame^^쿠라사메^^^
-MST_UNIT_NAME_254001907^Kurasame^^쿠라사메^^^
-MST_UNIT_NAME_254002004^Deuce^^듀스^^^
-MST_UNIT_NAME_254002005^Deuce^^듀스^^^
-MST_UNIT_NAME_254002006^Deuce^^듀스^^^
-MST_UNIT_NAME_254001103^Cater^^케이트^^^
-MST_UNIT_NAME_254001104^Cater^^케이트^^^
-MST_UNIT_NAME_254001105^Cater^^케이트^^^
-MST_UNIT_NAME_100017905^Sieghard^^지크하르트^^^
-MST_UNIT_NAME_100017906^Sieghard^^지크하르트^^^
-MST_UNIT_NAME_100017907^Sieghard^^지크하르트^^^
-MST_UNIT_NAME_100018004^Detrinde^^디트린데^^^
-MST_UNIT_NAME_100018005^Detrinde^^디트린데^^^
-MST_UNIT_NAME_100018006^Detrinde^^디트린데^^^
-MST_UNIT_NAME_100018104^Deobalt^^테오볼트^^^
-MST_UNIT_NAME_100018105^Deobalt^^테오볼트^^^
-MST_UNIT_NAME_100018106^Deobalt^^테오볼트^^^
-MST_UNIT_NAME_100018203^Cannon^^카논^^^
-MST_UNIT_NAME_100018204^Cannon^^카논^^^
-MST_UNIT_NAME_100018205^Cannon^^카논^^^
-MST_UNIT_NAME_332000105^Lara Croft^^라라 크로프트^^^
-MST_UNIT_NAME_332000106^Lara Croft^^라라 크로프트^^^
-MST_UNIT_NAME_100017605^Yuraisha^^유라이샤^^^
-MST_UNIT_NAME_100017606^Yuraisha^^유라이샤^^^
-MST_UNIT_NAME_100017607^Yuraisha^^유라이샤^^^
-MST_UNIT_NAME_100017704^Franis^^프라니스^^^
-MST_UNIT_NAME_100017705^Franis^^프라니스^^^
-MST_UNIT_NAME_100017706^Franis^^프라니스^^^
+MST_UNIT_NAME_100008607^Ayaka^彩花^아야카^Ayaka^Ayaka^Ayaka
+MST_UNIT_NAME_100009807^Elfreeda^艾爾弗里德^엘프리데^Elfreeda^Elfriede^Elfreeda
+MST_UNIT_NAME_100010407^Roy^羅伊^로이^Roy^Roy^Roy
+MST_UNIT_NAME_215000207^Gladiolus^格拉迪歐藍斯^글라디올러스^Gladiolus^Gladiolus^Gladiolus
+MST_UNIT_NAME_100010807^Duke^杜克^듀크^^^
+MST_UNIT_NAME_100011707^Pyro Glacial Lasswell^冰炎騎士拉斯韋爾^빙염의 기사 라스웰^Lasswell flammes gelées^Eisflammenritter Lasswell^Lasswell pirogélido
+MST_UNIT_NAME_210000207^Yuna^優娜^유우나^^^
+MST_UNIT_NAME_210000407^Lulu^露露^루루^^^
+MST_UNIT_NAME_100012407^Blossom Sage Sakura^櫻雲賢者櫻^벚꽃의 현자 사쿠라^Sakura sage des fleurs^Blütenmagierin Sakura^Sakura sabia floreciente
+MST_UNIT_NAME_100011807^Lotus Mage Fina^白蓮魔道士菲娜^백련의 마도사 피나^^^
+MST_UNIT_NAME_215000607^Aranea^艾拉妮亞^아라네아^^^
+MST_UNIT_NAME_215000707^Prompto^普羅恩普特^프롬프토^^^
+MST_UNIT_NAME_100012607^Kunshira^庫西拉^쿤시라^^^
+MST_UNIT_NAME_100016905^Citra^希特拉^시트라^Citra^Citra^Citra
+MST_UNIT_NAME_100016906^Citra^希特拉^시트라^Citra^Citra^Citra
+MST_UNIT_NAME_100016907^Citra^希特拉^시트라^Citra^Citra^Citra
+MST_UNIT_NAME_100016704^Macmedi^麥克梅迪^마크메디^Macmedi^Macmedi^Macmedi
+MST_UNIT_NAME_100016705^Macmedi^麥克梅迪^마크메디^Macmedi^Macmedi^Macmedi
+MST_UNIT_NAME_100016706^Macmedi^麥克梅迪^마크메디^Macmedi^Macmedi^Macmedi
+MST_UNIT_NAME_100016803^Lotti^羅蒂^로티^Lotti^Lotti^Lotti
+MST_UNIT_NAME_100016804^Lotti^羅蒂^로티^Lotti^Lotti^Lotti
+MST_UNIT_NAME_100016805^Lotti^羅蒂^로티^Lotti^Lotti^Lotti
+MST_UNIT_NAME_330000105^Lenneth^蕾娜絲^레나스^Lenneth^Lenneth^Lenneth
+MST_UNIT_NAME_330000106^Lenneth^蕾娜絲^레나스^Lenneth^Lenneth^Lenneth
+MST_UNIT_NAME_330000107^Lenneth^蕾娜絲^레나스^Lenneth^Lenneth^Lenneth
+MST_UNIT_NAME_330000205^Freya (VP)^芙蕾^프레이^Freya (VP)^Freya (VP)^Freya (VP)
+MST_UNIT_NAME_330000206^Freya (VP)^芙蕾^프레이^Freya (VP)^Freya (VP)^Freya (VP)
+MST_UNIT_NAME_330000207^Freya (VP)^芙蕾^프레이^Freya (VP)^Freya (VP)^Freya (VP)
+MST_UNIT_NAME_330000305^Arngrim^阿瑠瑟^아류제^Arngrim^Arngrim^Arngrim
+MST_UNIT_NAME_330000306^Arngrim^阿瑠瑟^아류제^Arngrim^Arngrim^Arngrim
+MST_UNIT_NAME_330000307^Arngrim^阿瑠瑟^아류제^Arngrim^Arngrim^Arngrim
+MST_UNIT_NAME_330000404^Lucian^露西奧^루시오^Lucian^Lucian^Lucian
+MST_UNIT_NAME_330000405^Lucian^露西奧^루시오^Lucian^Lucian^Lucian
+MST_UNIT_NAME_330000406^Lucian^露西奧^루시오^Lucian^Lucian^Lucian
+MST_UNIT_NAME_330000503^Jelanda^傑拉德^제라드^Jelanda^Jelanda^Jelanda
+MST_UNIT_NAME_330000504^Jelanda^傑拉德^제라드^Jelanda^Jelanda^Jelanda
+MST_UNIT_NAME_330000505^Jelanda^傑拉德^제라드^Jelanda^Jelanda^Jelanda
+MST_UNIT_NAME_207000305^Tifa^蒂法^티파^^^
+MST_UNIT_NAME_207000306^Tifa^蒂法^티파^^^
+MST_UNIT_NAME_207000307^Tifa^蒂法^티파^^^
+MST_UNIT_NAME_207000805^Vincent^文森特^빈센트^^^
+MST_UNIT_NAME_207000806^Vincent^文森特^빈센트^^^
+MST_UNIT_NAME_207000807^Vincent^文森特^빈센트^^^
+MST_UNIT_NAME_207000204^Barret^巴雷特^바렛^^^
+MST_UNIT_NAME_207000205^Barret^巴雷特^바렛^^^
+MST_UNIT_NAME_207000206^Barret^巴雷特^바렛^^^
+MST_UNIT_NAME_207000703^Cait Sith^凱特西^캐트시^^^
+MST_UNIT_NAME_207000704^Cait Sith^凱特西^캐트시^^^
+MST_UNIT_NAME_207000705^Cait Sith^凱特西^캐트시^^^
+MST_UNIT_NAME_215001107^Nyx^尼克斯^닉스^Nyx ^Nyx ^Nyx
+MST_UNIT_NAME_100011307^Jiraiya^自來也^지라이야^^^
+MST_UNIT_NAME_212001107^Gabranth^加布藍斯^가브라스^^^
+MST_UNIT_NAME_212000907^Basch^巴修^바슈^^^
+MST_UNIT_NAME_100012007^Nameless Gunner Jake^無名槍士傑科^무명의 총잡이 제이크^^^
+MST_UNIT_NAME_100013307^Emperor Shera^榭拉皇帝^시엘라 황제^^^
+MST_UNIT_NAME_204001507^Pure Summoner Rydia^無瑕召喚士莉迪亞^순수의 소환사 리디아^^^
+MST_UNIT_NAME_204001607^Atoning Dragoon Kain^極致龍騎士凱因^궁극의 용기사 카인^^^
+MST_UNIT_NAME_100011907^Heavenly Technician Lid^星虹技師里德^성홍의 기술자 리드^^^
+MST_UNIT_NAME_100014007^Mediena^美迪愛娜^메디아나^Mediena^Mediena^Mediena
+MST_UNIT_NAME_207001007^Sephiroth^賽菲羅斯^세피로스^Séphiroth^Sephiroth^Sefirot
+MST_UNIT_NAME_100013807^Lila^利拉^리라^^^
+MST_UNIT_NAME_100012507^Maritime Strategist Nichol^洸洋軍師尼科爾^광양의 참모 니콜^^^
+MST_UNIT_NAME_100010007^Raegen^雷根^레겐^^^
+MST_UNIT_NAME_100015807^Awakened Rain^雷因(覺醒)^레인(각성한 힘)^Rain éveillé^Erweckter Rain^Rain despertado
+MST_UNIT_NAME_100017105^Elephim^艾蕾菲姆^엘핌^Elephim^Elephim^Elephim
+MST_UNIT_NAME_100017106^Elephim^艾蕾菲姆^엘핌^Elephim^Elephim^Elephim
+MST_UNIT_NAME_100017107^Elephim^艾蕾菲姆^엘핌^Elephim^Elephim^Elephim
+MST_UNIT_NAME_100017204^Leopold^雷歐波特^레오폴드^Léopold^Leopold^Leopoldo
+MST_UNIT_NAME_100017205^Leopold^雷歐波特^레오폴드^Léopold^Leopold^Leopoldo
+MST_UNIT_NAME_100017206^Leopold^雷歐波特^레오폴드^Léopold^Leopold^Leopoldo
+MST_UNIT_NAME_100017304^Magna^馬格納^마그나^Magna^Magna^Magna
+MST_UNIT_NAME_100017305^Magna^馬格納^마그나^Magna^Magna^Magna
+MST_UNIT_NAME_100017306^Magna^馬格納^마그나^Magna^Magna^Magna
+MST_UNIT_NAME_100017403^Forelsket^福爾斯科特^포렐스켓^Forelsket^Forelsket^Forelsket
+MST_UNIT_NAME_100017404^Forelsket^福爾斯科特^포렐스켓^Forelsket^Forelsket^Forelsket
+MST_UNIT_NAME_100017405^Forelsket^福爾斯科特^포렐스켓^Forelsket^Forelsket^Forelsket
+MST_UNIT_NAME_304000405^Flammie^弗拉米^플라미^^Flammie^
+MST_UNIT_NAME_304000406^Flammie^弗拉米^플라미^^Flammie^
+MST_UNIT_NAME_304000407^Flammie^弗拉米^플라미^^Flammie^
+MST_UNIT_NAME_304000107^Randi^蘭迪^랜디^^^
+MST_UNIT_NAME_312000307^Kevin^凱文^케빈^^^
+MST_UNIT_NAME_312000107^Lise^麗絲^리스^^^
+MST_UNIT_NAME_312000207^Hawkeye^霍克埃^호크아이^^^
+MST_UNIT_NAME_304000503^Rabite^拉比兔^라비^^^
+MST_UNIT_NAME_304000504^Rabite^拉比兔^라비^^^
+MST_UNIT_NAME_304000505^Rabite^拉比兔^라비^^^
+MST_UNIT_NAME_254001805^Machina^馬其納^마키나^Machina^Machina^Machina
+MST_UNIT_NAME_254001806^Machina^馬其納^마키나^Machina^Machina^Machina
+MST_UNIT_NAME_254001807^Machina^馬其納^마키나^Machina^Machina^Machina
+MST_UNIT_NAME_254001905^Kurasame^暮雨^쿠라사메^Kurasame^Kurasame^Kurasame
+MST_UNIT_NAME_254001906^Kurasame^暮雨^쿠라사메^Kurasame^Kurasame^Kurasame
+MST_UNIT_NAME_254001907^Kurasame^暮雨^쿠라사메^Kurasame^Kurasame^Kurasame
+MST_UNIT_NAME_254002004^Deuce^蒂絲^듀스^Deuce^Deuce^Deuce
+MST_UNIT_NAME_254002005^Deuce^蒂絲^듀스^Deuce^Deuce^Deuce
+MST_UNIT_NAME_254002006^Deuce^蒂絲^듀스^Deuce^Deuce^Deuce
+MST_UNIT_NAME_254001103^Cater^凱特^케이트^Cater^Cater^Cater
+MST_UNIT_NAME_254001104^Cater^凱特^케이트^Cater^Cater^Cater
+MST_UNIT_NAME_254001105^Cater^凱特^케이트^Cater^Cater^Cater
+MST_UNIT_NAME_100017905^Sieghard^吉克哈特^지크하르트^Sieghard^Sieghard^Sieghard
+MST_UNIT_NAME_100017906^Sieghard^吉克哈特^지크하르트^Sieghard^Sieghard^Sieghard
+MST_UNIT_NAME_100017907^Sieghard^吉克哈特^지크하르트^Sieghard^Sieghard^Sieghard
+MST_UNIT_NAME_100018004^Dietlinde^底特瑞奇^디트린데^Dietlinde^Dietlinde^Dietlinde
+MST_UNIT_NAME_100018005^Dietlinde^底特瑞奇^디트린데^Dietlinde^Dietlinde^Dietlinde
+MST_UNIT_NAME_100018006^Dietlinde^底特瑞奇^디트린데^Dietlinde^Dietlinde^Dietlinde
+MST_UNIT_NAME_100018104^Theobald^迪奧巴特^테오볼트^Theobald^Theobald^Theobald
+MST_UNIT_NAME_100018105^Theobald^迪奧巴特^테오볼트^Theobald^Theobald^Theobald
+MST_UNIT_NAME_100018106^Theobald^迪奧巴特^테오볼트^Theobald^Theobald^Theobald
+MST_UNIT_NAME_100018203^Cannon^坎農^카논^^Kanon^
+MST_UNIT_NAME_100018204^Cannon^坎農^카논^^Kanon^
+MST_UNIT_NAME_100018205^Cannon^坎農^카논^^Kanon^
+MST_UNIT_NAME_332000105^Lara Croft^蘿拉·卡芙特^라라 크로프트^^^
+MST_UNIT_NAME_332000106^Lara Croft^蘿拉·卡芙特^라라 크로프트^^^
+MST_UNIT_NAME_100017605^Yuraisha^尤萊莎^유라이샤^^^
+MST_UNIT_NAME_100017606^Yuraisha^尤萊莎^유라이샤^^^
+MST_UNIT_NAME_100017607^Yuraisha^尤萊莎^유라이샤^^^
+MST_UNIT_NAME_100017704^Franis^弗拉尼斯^프라니스^^^
+MST_UNIT_NAME_100017705^Franis^弗拉尼斯^프라니스^^^
+MST_UNIT_NAME_100017706^Franis^弗拉尼斯^프라니스^^^
 MST_UNIT_NAME_100017803^Ishil^伊修爾^이실^Ishil^Ishil^Ishil
 MST_UNIT_NAME_100017804^Ishil^伊修爾^이실^Ishil^Ishil^Ishil
 MST_UNIT_NAME_100017805^Ishil^伊修爾^이실^Ishil^Ishil^Ishil
-MST_UNIT_NAME_203001305^Onion Knight Refia^^양파 검사 레피아^^^
-MST_UNIT_NAME_203001306^Onion Knight Refia^^양파 검사 레피아^^^
-MST_UNIT_NAME_203001307^Onion Knight Refia^^양파 검사 레피아^^^
-MST_UNIT_NAME_203001405^Dark Knight Luneth^^마검사 루네스^^^
-MST_UNIT_NAME_203001406^Dark Knight Luneth^^마검사 루네스^^^
-MST_UNIT_NAME_203001407^Dark Knight Luneth^^마검사 루네스^^^
-MST_UNIT_NAME_203000604^Doga^^도가^^^
-MST_UNIT_NAME_203000605^Doga^^도가^^^
-MST_UNIT_NAME_203000606^Doga^^도가^^^
-MST_UNIT_NAME_203001503^Unei^^우네^^^
-MST_UNIT_NAME_203001504^Unei^^우네^^^
-MST_UNIT_NAME_203001505^Unei^^우네^^^
-MST_UNIT_NAME_900010501^Gil Snapper Tower^^길거북 타워^^^
-MST_UNIT_NAME_904000115^Prism Moogle^信賴度莫古利（原晶）^트러스트 모그리(프리즘)^^^Moguri prismático
+MST_UNIT_NAME_203001305^Onion Knight Refia^洋蔥劍士蕾菲亞^양파 검사 레피아^^^
+MST_UNIT_NAME_203001306^Onion Knight Refia^洋蔥劍士蕾菲亞^양파 검사 레피아^^^
+MST_UNIT_NAME_203001307^Onion Knight Refia^洋蔥劍士蕾菲亞^양파 검사 레피아^^^
+MST_UNIT_NAME_203001405^Dark Knight Luneth^魔劍士魯內斯^마검사 루네스^^^
+MST_UNIT_NAME_203001406^Dark Knight Luneth^魔劍士魯內斯^마검사 루네스^^^
+MST_UNIT_NAME_203001407^Dark Knight Luneth^魔劍士魯內斯^마검사 루네스^^^
+MST_UNIT_NAME_203000604^Doga^多加^도가^^^
+MST_UNIT_NAME_203000605^Doga^多加^도가^^^
+MST_UNIT_NAME_203000606^Doga^多加^도가^^^
+MST_UNIT_NAME_203001503^Unei^烏內^우네^^^
+MST_UNIT_NAME_203001504^Unei^烏內^우네^^^
+MST_UNIT_NAME_203001505^Unei^烏內^우네^^^
+MST_UNIT_NAME_900010501^Gil Snapper Tower^金幣龜塔^길거북 타워^^^
+MST_UNIT_NAME_904000115^Prism Moogle^信賴度莫古利（原晶）^프리즘 모그리^Prismog^Prismamogry^Moguri prismático
 MST_UNIT_NAME_401004303^Teo^特奧^테오^Teo^Teo^Teo
 MST_UNIT_NAME_401004304^Teo^特奧^테오^Teo^Teo^Teo
 MST_UNIT_NAME_401004305^Teo^特奧^테오^Teo^Teo^Teo
@@ -1310,3 +1310,115 @@ MST_UNIT_NAME_401004205^Annika Svennson^安妮卡·斯文森^아니카 스벤슨
 MST_UNIT_NAME_401004005^Rico Rodriguez^瑞科·羅德里格茲^리코 로드리게즈^Rico Rodriguez^Rico Rodriguez^Rico Rodríguez
 MST_UNIT_NAME_401004006^Rico Rodriguez^瑞科·羅德里格茲^리코 로드리게즈^Rico Rodriguez^Rico Rodriguez^Rico Rodríguez
 MST_UNIT_NAME_302001307^Olive^奧利芙^올리브^Olive ^Olive^Olivia
+MST_UNIT_NAME_401001707^Reberta^蕾貝爾塔^리베르타^Réberta^Reberta^Reberta
+MST_UNIT_NAME_401001407^Barbariccia^巴爾巴莉希亞^발바리시아^Barbariccia^Barbarizia^Barbariccia
+MST_UNIT_NAME_401004905^Adam Jensen^亞當·傑森^아담 젠슨^Adam Jensen^Adam Jensen^Adam Jensen
+MST_UNIT_NAME_401004906^Adam Jensen^亞當·傑森^아담 젠슨^Adam Jensen^Adam Jensen^Adam Jensen
+MST_UNIT_NAME_401004907^Adam Jensen^亞當·傑森^아담 젠슨^Adam Jensen^Adam Jensen^Adam Jensen
+MST_UNIT_NAME_401005005^Viktor Marchenko^維克托·馬爾琴科^빅토르 마르첸코^Viktor Marchenko^Viktor Marchenko^Viktor Marchenko
+MST_UNIT_NAME_401005006^Viktor Marchenko^維克托·馬爾琴科^빅토르 마르첸코^Viktor Marchenko^Viktor Marchenko^Viktor Marchenko
+MST_UNIT_NAME_401005007^Viktor Marchenko^維克托·馬爾琴科^빅토르 마르첸코^Viktor Marchenko^Viktor Marchenko^Viktor Marchenko
+MST_UNIT_NAME_401005104^Václav Koller^瓦茨拉夫·科勒^바클라프 콜러^Václav Koller^Václav Koller^Václav Koller
+MST_UNIT_NAME_401005105^Václav Koller^瓦茨拉夫·科勒^바클라프 콜러^Václav Koller^Václav Koller^Václav Koller
+MST_UNIT_NAME_401005106^Václav Koller^瓦茨拉夫·科勒^바클라프 콜러^Václav Koller^Václav Koller^Václav Koller
+MST_UNIT_NAME_401005203^Frank Pritchard^法蘭克·普理查德^프랭크 프릿차드^Frank Pritchard^Frank Pritchard^Frank Pritchard
+MST_UNIT_NAME_401005204^Frank Pritchard^法蘭克·普理查德^프랭크 프릿차드^Frank Pritchard^Frank Pritchard^Frank Pritchard
+MST_UNIT_NAME_401005205^Frank Pritchard^法蘭克·普理查德^프랭크 프릿차드^Frank Pritchard^Frank Pritchard^Frank Pritchard
+MST_UNIT_NAME_401005305^Aloha Lasswell^拉斯韋爾（泳裝）^알로하 라스웰^Lasswell tenue d'été^Aloha-Lasswell^Lasswell hawaiano
+MST_UNIT_NAME_401005306^Aloha Lasswell^拉斯韋爾（泳裝）^알로하 라스웰^Lasswell tenue d'été^Aloha-Lasswell^Lasswell hawaiano
+MST_UNIT_NAME_401005307^Aloha Lasswell^拉斯韋爾（泳裝）^알로하 라스웰^Lasswell tenue d'été^Aloha-Lasswell^Lasswell hawaiano
+MST_UNIT_NAME_401005405^Seaside Nichol^尼科爾（泳裝）^바닷가의 니콜^Nichol tenue d'été^Badestrand-Nichol^Nichol playero
+MST_UNIT_NAME_401005406^Seaside Nichol^尼科爾（泳裝）^바닷가의 니콜^Nichol tenue d'été^Badestrand-Nichol^Nichol playero
+MST_UNIT_NAME_401005407^Seaside Nichol^尼科爾（泳裝）^바닷가의 니콜^Nichol tenue d'été^Badestrand-Nichol^Nichol playero
+MST_UNIT_NAME_401005504^Summertime Luka^露露卡（泳裝）^여름날의 루루카^Luluka tenue d'été^Sommerferien-Luka^Luka estival
+MST_UNIT_NAME_401005505^Summertime Luka^露露卡（泳裝）^여름날의 루루카^Luluka tenue d'été^Sommerferien-Luka^Luka estival
+MST_UNIT_NAME_401005506^Summertime Luka^露露卡（泳裝）^여름날의 루루카^Luluka tenue d'été^Sommerferien-Luka^Luka estival
+MST_UNIT_NAME_401005603^Tide Rider Skaha^斯卡哈（泳裝）^서퍼 스카하^Shaka tenue d'été^Wellenreiter Skaha^Skaha surfera
+MST_UNIT_NAME_401005604^Tide Rider Skaha^斯卡哈（泳裝）^서퍼 스카하^Shaka tenue d'été^Wellenreiter Skaha^Skaha surfera
+MST_UNIT_NAME_401005605^Tide Rider Skaha^斯卡哈（泳裝）^서퍼 스카하^Shaka tenue d'été^Wellenreiter Skaha^Skaha surfera
+MST_UNIT_NAME_401004605^Malphasie^瑪爾菲希^멜파지^Malphasie^Malphasie^Malphasie
+MST_UNIT_NAME_401004606^Malphasie^瑪爾菲希^멜파지^Malphasie^Malphasie^Malphasie
+MST_UNIT_NAME_401004607^Malphasie^瑪爾菲希^멜파지^Malphasie^Malphasie^Malphasie
+MST_UNIT_NAME_401004405^Circe^瑟希^서스^Circé^Circe^Circe
+MST_UNIT_NAME_401004406^Circe^瑟希^서스^Circé^Circe^Circe
+MST_UNIT_NAME_401004407^Circe^瑟希^서스^Circé^Circe^Circe
+MST_UNIT_NAME_401001107^Zargabaath^查格博斯^자르가바스^Zargabaath^Zargabaath^Zargabaath
+MST_UNIT_NAME_401000207^Demon Rain^惡魔雷因^악마 레인^Rain démoniaque^Dämonen-Rain^Rain demoniaco
+MST_UNIT_NAME_401000307^Dracu Lasswell^吸血鬼拉斯韋爾^드라큘라 라스웰^Draculasswell^Dracu-Lasswell^Draculasswell
+MST_UNIT_NAME_401002007^Grim Lord Sakura^冷血貴族櫻^사신 사쿠라^Sakura, seigneur sombre^Grimmige Herrin Sakura^Sakura la parca
+MST_UNIT_NAME_100018305^Folka^^^^Folka^
+MST_UNIT_NAME_100018306^Folka^^^^Folka^
+MST_UNIT_NAME_100018307^Folka^^^^Folka^
+MST_UNIT_NAME_100018604^Kihana^^^^Kihana^
+MST_UNIT_NAME_100018605^Kihana^^^^Kihana^
+MST_UNIT_NAME_100018606^Kihana^^^^Kihana^
+MST_UNIT_NAME_100018504^Yubel^^^^Yubel^
+MST_UNIT_NAME_100018505^Yubel^^^^Yubel^
+MST_UNIT_NAME_100018506^Yubel^^^^Yubel^
+MST_UNIT_NAME_100018403^Ichor^^^^Ichor^
+MST_UNIT_NAME_100018404^Ichor^^^^Ichor^
+MST_UNIT_NAME_100018405^Ichor^^^^Ichor^
+MST_UNIT_NAME_331000105^Fei^^^^^
+MST_UNIT_NAME_331000106^Fei^^^^^
+MST_UNIT_NAME_331000107^Fei^^^^^
+MST_UNIT_NAME_331000205^Elly^^^^^
+MST_UNIT_NAME_331000206^Elly^^^^^
+MST_UNIT_NAME_331000207^Elly^^^^^
+MST_UNIT_NAME_331000304^Emeralda^^^^^
+MST_UNIT_NAME_331000305^Emeralda^^^^^
+MST_UNIT_NAME_331000306^Emeralda^^^^^
+MST_UNIT_NAME_331000405^Bart^^^^^
+MST_UNIT_NAME_331000406^Bart^^^^^
+MST_UNIT_NAME_331000407^Bart^^^^^
+MST_UNIT_NAME_331000503^Rico^^^^^
+MST_UNIT_NAME_331000504^Rico^^^^^
+MST_UNIT_NAME_331000505^Rico^^^^^
+MST_UNIT_NAME_331000603^Chu-Chu^^^^^
+MST_UNIT_NAME_331000604^Chu-Chu^^^^^
+MST_UNIT_NAME_331000605^Chu-Chu^^^^^
+MST_UNIT_NAME_210001005^Jecht^^^^^
+MST_UNIT_NAME_210001006^Jecht^^^^^
+MST_UNIT_NAME_210001007^Jecht^^^^^
+MST_UNIT_NAME_210000605^Auron^^^^^
+MST_UNIT_NAME_210000606^Auron^^^^^
+MST_UNIT_NAME_210000607^Auron^^^^^
+MST_UNIT_NAME_210001904^Belgemine^^^^^
+MST_UNIT_NAME_210001905^Belgemine^^^^^
+MST_UNIT_NAME_210001906^Belgemine^^^^^
+MST_UNIT_NAME_210001503^Brother^^^^^
+MST_UNIT_NAME_210001504^Brother^^^^^
+MST_UNIT_NAME_210001505^Brother^^^^^
+MST_UNIT_NAME_100018705^Ignacio^^^^Ignacio^
+MST_UNIT_NAME_100018706^Ignacio^^^^Ignacio^
+MST_UNIT_NAME_100018707^Ignacio^^^^Ignacio^
+MST_UNIT_NAME_100018804^Suzume^^^^Suzume^
+MST_UNIT_NAME_100018805^Suzume^^^^Suzume^
+MST_UNIT_NAME_100018806^Suzume^^^^Suzume^
+MST_UNIT_NAME_100018904^PNK-2^^^^PNK-2^
+MST_UNIT_NAME_100018905^PNK-2^^^^PNK-2^
+MST_UNIT_NAME_100018906^PNK-2^^^^PNK-2^
+MST_UNIT_NAME_100019003^Wayhem^^^^^
+MST_UNIT_NAME_100019004^Wayhem^^^^^
+MST_UNIT_NAME_100019005^Wayhem^^^^^
+MST_UNIT_NAME_331000705^Citan^^^^^
+MST_UNIT_NAME_331000706^Citan^^^^^
+MST_UNIT_NAME_331000707^Citan^^^^^
+MST_UNIT_NAME_331000805^Maria^^^^^
+MST_UNIT_NAME_331000806^Maria^^^^^
+MST_UNIT_NAME_331000807^Maria^^^^^
+MST_UNIT_NAME_331000904^Billy^^^^^
+MST_UNIT_NAME_331000905^Billy^^^^^
+MST_UNIT_NAME_331000906^Billy^^^^^
+MST_UNIT_NAME_401005905^Lilith^莉莉絲^릴리스^Lilith^Lilith^Lilith
+MST_UNIT_NAME_401005906^Lilith^莉莉絲^릴리스^Lilith^Lilith^Lilith
+MST_UNIT_NAME_401005907^Lilith^莉莉絲^릴리스^Lilith^Lilith^Lilith
+MST_UNIT_NAME_401006005^Lucius^路西亞斯^루시우스^Lucius^Lucius^Lucius
+MST_UNIT_NAME_401006006^Lucius^路西亞斯^루시우스^Lucius^Lucius^Lucius
+MST_UNIT_NAME_401006007^Lucius^路西亞斯^루시우스^Lucius^Lucius^Lucius
+MST_UNIT_NAME_302001407^Fryevia^弗雷比亞^프레이비아^Fryevia^Fryevia^Fryevia
+MST_UNIT_NAME_401004705^Ellesperis^艾莉絲珮芮絲^엘레스페리스^Ellesperis^Ellesperis^Ellesperis
+MST_UNIT_NAME_401004706^Ellesperis^艾莉絲珮芮絲^엘레스페리스^Ellesperis^Ellesperis^Ellesperis
+MST_UNIT_NAME_401004707^Ellesperis^艾莉絲珮芮絲^엘레스페리스^Ellesperis^Ellesperis^Ellesperis
+MST_UNIT_NAME_401004805^Beryl^貝利爾^베릴^Beryl^Beryl^Beryl
+MST_UNIT_NAME_401004806^Beryl^貝利爾^베릴^Beryl^Beryl^Beryl
+MST_UNIT_NAME_401004807^Beryl^貝利爾^베릴^Beryl^Beryl^Beryl
