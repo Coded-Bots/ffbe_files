@@ -32,7 +32,7 @@ MST_ITEM_NAME_104001200^Arctic Wind^北極之風^북극의 바람^Vent arctique^
 MST_ITEM_NAME_104002100^Zeus's Wrath^宙斯之怒^제우스의 분노^Colère de Zeus^Rache des Zeus^Ira de Zeus
 MST_ITEM_NAME_104002200^Heavenly Wrath^眾神之怒^신들의 분노^Ire céleste^Himmelszorn^Aliento divino
 MST_ITEM_NAME_104003100^Fish Scale^魚之鱗^물고기 비늘^Écaille de poisson^Fischschuppe^Escama de pez
-MST_ITEM_NAME_104003200^Dragon Scale^龍之鱗^용 비늘^Écaille de dragon^Drachenschuppe^Escama de dragón
+MST_ITEM_NAME_104003200^Dragon Scale^龍之鱗^용 비늘^ ^Drachenschuppe^Escama de dragón
 MST_ITEM_NAME_104004100^Giant Feather^巨鳥羽毛^거대 새의 깃털^Plume géante^Riesenfeder^Pluma de gran ave
 MST_ITEM_NAME_104004200^Wyvern Feather^雙足飛龍羽毛^와이번의 날개^Plume de wyverne^Wyvernfeder^Pluma de guiverno
 MST_ITEM_NAME_104005100^Earth Drum^大地之鼓^대지의 북^Tambour terrien^Erdentrommel^Tambor de tierra
@@ -838,7 +838,7 @@ MST_ITEM_NAME_1209000920^Black Ash^黑色灰燼^검은 재^Poussière noire^Schw
 MST_ITEM_NAME_1209000921^Pure Blood^純淨之血^순혈^Sang pur^Reines Blut^Sangre pura
 MST_ITEM_NAME_1209000922^Black Grimoire^漆黑魔典^흑마술의 서^Grimoire noir^Schwarzes Grimoire^Grimorio oscuro
 MST_ITEM_NAME_310000180^Fryevia's Prism^弗雷比亞的輝源^프레이비아의 휘석^Prisme pour Fryevia^Prisma für Fryevia^Prisma de Fryevia
-MST_ITEM_NAME_300001200^2B's Prism^^^^^
-MST_ITEM_NAME_300001210^A2's Prism^^^^^
+MST_ITEM_NAME_300001200^2B's Prism^2B的輝源^2B의 휘석^Prisme pour 2B^Prisma für 2B^Prisma de 2B
+MST_ITEM_NAME_300001210^A2's Prism^A2的輝源^A2의 휘석^Prisme pour A2^Prisma für A2^Prisma de A2
 MST_ITEM_NAME_310000160^Beryl's Prism^貝利爾的輝源^베릴의 휘석^Prisme pour Beryl^Prisma für Beryl^Prisma de Beryl
 MST_ITEM_NAME_310000170^Ellesperis's Prism^艾莉絲珮芮絲的輝源^엘레스페리스의 휘석^Prisme pour Ellesperis^Prisma für Ellesperis^Prisma de Ellesperis
