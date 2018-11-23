@@ -306,5 +306,82 @@
         "TzvJwA60": "0910083895", 
         "cb3WmiD0": "6000", 
         "mTxF8a3D": "ラピス12500個"
+    }, 
+    {
+        "96ej0dxb": "120個", 
+        "AOHRcCC2": null, 
+        "D7FX3MYh": "500", 
+        "FBjo93gK": "120", 
+        "K1G4fBjF": "5", 
+        "T7sah9rc": "120", 
+        "TzvJwA60": "ff_be_payment_01", 
+        "cb3WmiD0": "0", 
+        "mTxF8a3D": "ラピス120個"
+    }, 
+    {
+        "96ej0dxb": "480個+20個(ボーナス)", 
+        "AOHRcCC2": null, 
+        "D7FX3MYh": "501", 
+        "FBjo93gK": "480", 
+        "K1G4fBjF": "5", 
+        "T7sah9rc": "480", 
+        "TzvJwA60": "ff_be_payment_02", 
+        "cb3WmiD0": "20", 
+        "mTxF8a3D": "ラピス500個"
+    }, 
+    {
+        "96ej0dxb": "840個+160個(ボーナス)", 
+        "AOHRcCC2": null, 
+        "D7FX3MYh": "502", 
+        "FBjo93gK": "840", 
+        "K1G4fBjF": "5", 
+        "T7sah9rc": "840", 
+        "TzvJwA60": "ff_be_payment_07", 
+        "cb3WmiD0": "160", 
+        "mTxF8a3D": "ラピス1000個"
+    }, 
+    {
+        "96ej0dxb": "1400個+400個(ボーナス)", 
+        "AOHRcCC2": null, 
+        "D7FX3MYh": "503", 
+        "FBjo93gK": "1400", 
+        "K1G4fBjF": "5", 
+        "T7sah9rc": "1400", 
+        "TzvJwA60": "ff_be_payment_03", 
+        "cb3WmiD0": "400", 
+        "mTxF8a3D": "ラピス1800個"
+    }, 
+    {
+        "96ej0dxb": "3000個+1000個(ボーナス)", 
+        "AOHRcCC2": null, 
+        "D7FX3MYh": "504", 
+        "FBjo93gK": "3000", 
+        "K1G4fBjF": "5", 
+        "T7sah9rc": "3000", 
+        "TzvJwA60": "ff_be_payment_04", 
+        "cb3WmiD0": "1000", 
+        "mTxF8a3D": "ラピス4000個"
+    }, 
+    {
+        "96ej0dxb": "5800個+2200個(ボーナス)", 
+        "AOHRcCC2": null, 
+        "D7FX3MYh": "505", 
+        "FBjo93gK": "5800", 
+        "K1G4fBjF": "5", 
+        "T7sah9rc": "5800", 
+        "TzvJwA60": "ff_be_payment_05", 
+        "cb3WmiD0": "2200", 
+        "mTxF8a3D": "ラピス8000個"
+    }, 
+    {
+        "96ej0dxb": "8800個+3700個(ボーナス)", 
+        "AOHRcCC2": null, 
+        "D7FX3MYh": "506", 
+        "FBjo93gK": "8800", 
+        "K1G4fBjF": "5", 
+        "T7sah9rc": "8800", 
+        "TzvJwA60": "ff_be_payment_06", 
+        "cb3WmiD0": "3700", 
+        "mTxF8a3D": "ラピス12500個"
     }
 ]

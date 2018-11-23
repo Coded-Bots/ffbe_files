@@ -574,7 +574,7 @@ MST_NPC_NAME_200107100^Office Worker^普通女傭^범용 급사 여자^Employé 
 MST_NPC_NAME_200107200^Hess Warrior^赫斯戰士^헤스의 전사^Guerrier de Hess^Hess-Krieger^Guerrero de Hess
 MST_NPC_NAME_200107300^Knight Private^普通騎士^범용 기사^Chevalier 1^Universalritter^Caballero
 MST_NPC_NAME_200107310^Knight Private 2^普通騎士2^범용 기사 2^Chevalier 2^Universalritter 2^Caballero 2
-MST_NPC_NAME_200107320^Knight Private 3^普通騎士3^범용 기사 3^Chevalier 3^Universalritte r3^Caballero 3
+MST_NPC_NAME_200107320^Knight Private 3^普通騎士3^범용 기사 3^Chevalier 3^Universalritter 3^Caballero 3
 MST_NPC_NAME_900105200^Giant Malboro^大毛爾波爾^대형 몰볼^Morbol géant^Gigantenmorbol^Molbol gigante
 MST_NPC_NAME_900105300^Dwarf Malboro^小毛爾波爾^소형 몰볼^Morbol nain^Zwergmorbol^Molbol enano
 MST_NPC_NAME_1102170^Worker^工作人員^종업원^Travailleur^Arbeiter^Obrero
@@ -621,78 +621,121 @@ MST_NPC_NAME_900028^Yan^燕^옌^Yan^Yan^Yan
 MST_NPC_NAME_900029^Ang^昂^앙^Ang^Ang^Ang
 MST_NPC_NAME_900030^Chow^球球^챠우^Chow^Chow^Chow
 MST_NPC_NAME_900031^Guan^關^구안^Guan^Guan^Guan
-MST_NPC_NAME_100000410^2nd Nichol^^^^^
-MST_NPC_NAME_100000710^2nd Jake^^^^^
-MST_NPC_NAME_100002810^Arsha (Holding a baby)^^^^^
-MST_NPC_NAME_100006740^Yego^^^^^
-MST_NPC_NAME_100006760^Yego (Ride)^^^^^
-MST_NPC_NAME_100012700^Mediena^^^^^
-MST_NPC_NAME_100013000^Emperor of Aldore^^^^^
-MST_NPC_NAME_100013010^Emperor of Aldore (No hood)^^^^^
-MST_NPC_NAME_100013020^Emperor of Aldore (Wearing hat)^^^^^
-MST_NPC_NAME_100013600^Pris^^^^^
-MST_NPC_NAME_100013700^Atole^^^^^
-MST_NPC_NAME_100013800^Sandy^^^^^
-MST_NPC_NAME_100013900^Cindy^^^^^
-MST_NPC_NAME_100014000^Mindy^^^^^
-MST_NPC_NAME_100014100^Regina^^^^^
-MST_NPC_NAME_100014110^Regina (No cloak)^^^^^
-MST_NPC_NAME_100014200^Krowa^^^^^
-MST_NPC_NAME_100014300^Nalu^^^^^
-MST_NPC_NAME_100014310^Est^^^^^
-MST_NPC_NAME_100014320^Nalu & Est^^^^^
-MST_NPC_NAME_100014400^Shinju^^^^^
-MST_NPC_NAME_100014500^Ryuka^^^^^
-MST_NPC_NAME_100014600^Pecciotta^^^^^
-MST_NPC_NAME_100014700^Eleanor^愛蕾諾亞^^^^
-MST_NPC_NAME_100014800^Honor^^^^^
-MST_NPC_NAME_100014810^Honor (Robe)^^^^^
-MST_NPC_NAME_100014900^Darish^^^^^
-MST_NPC_NAME_100014910^Darish (Robe)^^^^^
-MST_NPC_NAME_100015000^Maemae^^^^^
-MST_NPC_NAME_100015010^Maemae (Robe)^^^^^
-MST_NPC_NAME_100015100^Ledger^^^^^
-MST_NPC_NAME_100015110^Ledger (Robe)^^^^^
-MST_NPC_NAME_100015200^Mombert^^^^^
-MST_NPC_NAME_100015300^Shatal^^^^^
-MST_NPC_NAME_100015400^Domino^^^^^
-MST_NPC_NAME_100015500^Macmedi^^^^^
-MST_NPC_NAME_100015600^Lotti^^^^^
-MST_NPC_NAME_100015700^Elephim^^^^^
-MST_NPC_NAME_100015800^Leopold^^^^^
-MST_NPC_NAME_100015810^Leopold (Human)^^^^^
-MST_NPC_NAME_100015850^Leopold (Toad)^^^^^
-MST_NPC_NAME_100015900^Magna^^^^^
-MST_NPC_NAME_100016000^Forelsket^^^^^
-MST_NPC_NAME_100016100^Timothy^^^^^
-MST_NPC_NAME_100016200^Mim^^^^^
-MST_NPC_NAME_100016300^Deobalt^^^^^
-MST_NPC_NAME_100016400^Detrinde^^^^^
-MST_NPC_NAME_100016500^Cannon^^^^^
-MST_NPC_NAME_200100410^Aldore Officer^^^^^
-MST_NPC_NAME_200102500^Steward (Young)^^^^^
-MST_NPC_NAME_200102740^Female Thief^^^^^
-MST_NPC_NAME_200104400^Samurai (Man)^^^^^
-MST_NPC_NAME_200107400^Mercenary^^^^^
-MST_NPC_NAME_200107500^Martial Artist^^^^^
-MST_NPC_NAME_200107600^Mage^^^^^
-MST_NPC_NAME_200107700^Assassin^^^^^
-MST_NPC_NAME_1600010^Sparkle-loving Whyt^^^^^
-MST_NPC_NAME_1600011^Street Performer^^^^^
-MST_NPC_NAME_1600012^Martial Artist^^^^^
-MST_NPC_NAME_1600013^Weaponsmith^^^^^
-MST_NPC_NAME_1610010^Karvell Council Member^^^^^
-MST_NPC_NAME_1610011^Connoisseur^^^^^
-MST_NPC_NAME_1610012^Apprehensive Youngster^^^^^
-MST_NPC_NAME_1610013^Girl Leader^^^^^
-MST_NPC_NAME_1620010^Mushroom Picker^^^^^
-MST_NPC_NAME_1630010^Farmer^^^^^
-MST_NPC_NAME_1630011^Peddler^^^^^
-MST_NPC_NAME_1630012^Old Traveler^^^^^
-MST_NPC_NAME_1630013^Female Mage^^^^^
-MST_NPC_NAME_1630014^Dapper Shibyra^^^^^
-MST_NPC_NAME_1640010^Aldore Guard Captain^^^^^
-MST_NPC_NAME_1640011^Antiques Collector^^^^^
-MST_NPC_NAME_1640012^Weaponsmith^^^^^
-MST_NPC_NAME_1640013^Younger Woman^^^^^
-MST_NPC_NAME_1650010^Archeologist^^^^^
+MST_NPC_NAME_100000410^2nd Nichol^2nd 尼科爾^2nd 니콜^2nd Nichol^Nichol 2^Nichol 2
+MST_NPC_NAME_100000710^2nd Jake^2nd 傑科^2nd 제이크^2nd Jake^Jake 2<br>^Jake 2
+MST_NPC_NAME_100002810^Arsha (Holding a baby)^阿爾莎（抱嬰兒）^아르샤(아기를 안음)^Arusha (portant un bébé)^Arsha (Baby haltend)^Arsha (sujetando a un bebé)
+MST_NPC_NAME_100006740^Yego^伊戈^이고^Yego^Yego^Yego
+MST_NPC_NAME_100006760^Yego (Ride)^伊戈（騎士）^이고(라이드)^Yego (cavalier)^Yego (reitend)^Yego (a caballo)
+MST_NPC_NAME_100012700^Mediena^美迪愛娜^메디아나^Mediena^Mediena^Mediena
+MST_NPC_NAME_100013000^Emperor of Aldore^阿爾多爾皇帝^알도르 황제^Empereur d'Aldore^Imperator von Aldore^Emperador de Aldore
+MST_NPC_NAME_100013010^Emperor of Aldore (No hood)^阿爾多爾皇帝（無斗篷）^알도르 황제(후드 없음)^Empereur d'Aldore (sans capuche)^Imperator von Aldore (ohne Kapuze)^Emperador de Aldore (sin capucha)
+MST_NPC_NAME_100013020^Emperor of Aldore (Wearing hat)^阿爾多爾皇帝（帽子）^알도르 황제(모자)^Empereur d'Aldore (portant un chapeau)^Imperator von Aldore (mit Hut)^Emperador de Aldore (con sombrero)
+MST_NPC_NAME_100013600^Pris^普利斯^프리스^Pris^Pris^Pris
+MST_NPC_NAME_100013700^Atole^阿托爾^아톨^Atole^Atole^Atole
+MST_NPC_NAME_100013800^Sandy^多格^도그^Samanta^Dug^Sandy
+MST_NPC_NAME_100013900^Cindy^瑪格^마그^Maria^Mug^Cindy
+MST_NPC_NAME_100014000^Mindy^拉格^라그^Anabella^Rug^Mindy
+MST_NPC_NAME_100014100^Regina^雷吉娜^레지나^Régina^Regina^Regina
+MST_NPC_NAME_100014110^Regina (No cloak)^雷吉娜(無披風)^레지나(망토 없음)^Régina (sans cape)^Regina (ohne Mantel)^Regina (sin capa)
+MST_NPC_NAME_100014200^Krowa^克羅瓦^크로와^Krowa^Krowa^Krowa
+MST_NPC_NAME_100014300^Nalu^娜露^나루^Nalu^Nalu^Nalu
+MST_NPC_NAME_100014310^Est^艾斯特^에스트^Est^Est^Est
+MST_NPC_NAME_100014320^Nalu & Est^娜露&艾斯特^나루＆에스트^Nalu & Est^Nalu & Est^Nalu y Est
+MST_NPC_NAME_100014400^Shinju^真珠^신쥬^Shinju^Shinju^Shinju
+MST_NPC_NAME_100014500^Ryuka^琉華^류카^Ryuka^Ryuka^Ryuka
+MST_NPC_NAME_100014600^Pecciotta^皮曹塔^페초타^Pecciotta^Pecciotta^Pecciotta
+MST_NPC_NAME_100014700^Eleanor^愛蕾諾亞^엘레노아^Éléonore^Eleonore^Eleanor
+MST_NPC_NAME_100014800^Honor^赫納^호너^Honor^Honor^Honor
+MST_NPC_NAME_100014810^Honor (Robe)^赫納（法袍）^호너(로브)^Honor (en robe)^Honor (mit Robe)^Honor (con túnica)
+MST_NPC_NAME_100014900^Darish^達利休^달리쉬^Darish^Darish^Darish
+MST_NPC_NAME_100014910^Darish (Robe)^達利休（法袍）^달리쉬(로브)^Darish (en robe)^Darish (mit Robe)^Darish (con túnica)
+MST_NPC_NAME_100015000^Maemae^梅梅^메메^Maemae^Maemae^Maemae
+MST_NPC_NAME_100015010^Maemae (Robe)^梅梅（法袍）^메메(로브)^Maemae (en robe)^Maemae (mit Robe)^Maemae (con túnica)
+MST_NPC_NAME_100015100^Redge^蕾珠^레쥬^Redge^Redge^Redge
+MST_NPC_NAME_100015110^Redge (Robe)^蕾珠（法袍）^레쥬(로브)^Redge (en robe)^Redge (mit Robe)^Redge (con túnica)
+MST_NPC_NAME_100015200^Mombert^蒙貝爾特^몽베르트^Mombert^Mombert^Mombert
+MST_NPC_NAME_100015300^Shatal^喜塔爾^샤탈^Shatal^Shatal^Shatal
+MST_NPC_NAME_100015400^Domino^多米諾^도미노^Domino^Domino^Domino
+MST_NPC_NAME_100015500^Macmedi^麥克梅迪^마크메디^Macmedi^Macmedi^Macmedi
+MST_NPC_NAME_100015600^Lotti^羅蒂^로티^Lotti^Lotti^Lotti
+MST_NPC_NAME_100015700^Elephim^艾蕾菲姆^엘핌^Elephim^Elephim^Elephim
+MST_NPC_NAME_100015800^Leopold^雷歐波特^레오폴드^Léopold^Leopold^Leopoldo
+MST_NPC_NAME_100015810^Leopold (Human)^雷歐波特（人）^레오폴드(인간)^Léopold (humain)^Leopold (Mensch)^Leopoldo (humano)
+MST_NPC_NAME_100015850^Leopold (Toad)^雷歐波特（蛙變）^레오폴드(토드)^Léopold (crapaud)^Leopold (Frosch)^Leopoldo (sapo)
+MST_NPC_NAME_100015900^Magna^馬格納^마그나^Magna^Magna^Magna
+MST_NPC_NAME_100016000^Forelsket^福爾斯科特^포렐스켓^Forelsket^Forelsket^Forelsket
+MST_NPC_NAME_100016100^Timothy^蒂姆^팀^Timothy^Timothy^Timothy
+MST_NPC_NAME_100016200^Mim^米姆^밈^Mim^Mim^Mim
+MST_NPC_NAME_100016300^Theobald^迪奧巴特^테오볼트^Theobald^Theobald^Theobald
+MST_NPC_NAME_100016400^Dietlinde^底特瑞奇^디트린데^Dietlinde^Dietlinde^Dietlinde
+MST_NPC_NAME_100016500^Cannon^坎農^카논^Cannon^Kanon^Cannon
+MST_NPC_NAME_200100410^Aldore Officer^阿爾多爾將校^알도르 장교^Officier d'Aldore^Aldore-Offizier^Oficial de Aldore
+MST_NPC_NAME_200102500^Steward (Young)^管家（年輕）^집사(젊은이)^Coordinateur (jeune)^Butler (Jung)^Mayordomo (joven)
+MST_NPC_NAME_200102740^Female Thief^女盜賊^여도적^Voleuse^Weiblicher Dieb^Ladrona
+MST_NPC_NAME_200104400^Samurai (Man)^武士（男）^사무라이(남)^Samouraï (homme)^Samurai (Mann)^Samurái
+MST_NPC_NAME_200107400^Mercenary^傭兵^용병^Mercenaire^Söldner^Mercenario
+MST_NPC_NAME_200107500^Martial Artist^武鬥家^무투가^Artiste martial^Kampfkünstler^Artista marcial
+MST_NPC_NAME_200107600^Mage^魔道士^마도사^Mage ^Magier^Mago
+MST_NPC_NAME_200107700^Assassin^暗殺者^암살자^Assassin^Assassine^Asesino
+MST_NPC_NAME_1600010^Sparkle-loving Whyt^喜歡亮晶晶的波其卡^반짝반짝을 좋아하는 포치카^Pochad bling-bling^Funkelversessener Pochka^Whyt obsesionado con las chispas
+MST_NPC_NAME_1600011^Street Performer^男性街頭藝人^길거리 공연가^Artiste de rue ^Straßenkünstler^Artista callejero
+MST_NPC_NAME_1600012^Martial Artist^男性武鬥家^무술가 남자^Artiste martial^Kampfkünstler^Artista marcial
+MST_NPC_NAME_1600013^Weaponsmith^武器職人^무기장인^Armurier^Waffenschmied^Armero
+MST_NPC_NAME_1610010^Karvell Council Member^加維爾鎮公所員^카벨 사무원^Membre du Conseil Karvell^Mitglied des Karvell-Kongresses^Concejal de Karvell
+MST_NPC_NAME_1610011^Connoisseur^男性美食家^미식가 남자^Gourmet^Gourmet^Entendido
+MST_NPC_NAME_1610012^Apprehensive Youngster^膽小的青年^용기가 없는 청년^Jeune craintif^Entmutigter Jugendlicher^Joven aprensivo
+MST_NPC_NAME_1610013^Girl Leader^帶頭的女孩子^리더 여자아이^Chef (fille)^Anführerin^Chica (líder)
+MST_NPC_NAME_1620010^Mushroom Picker^採菇男子^버섯 채집가^Chercheur de champignons^Pilzsammler^Recolector de setas
+MST_NPC_NAME_1630010^Farmer^男性農家^농장의 남자^Fermier^Bauer^Granjero
+MST_NPC_NAME_1630011^Peddler^男性小販^행상인 남자^Marchand ambulant^Krämer^Vendedor
+MST_NPC_NAME_1630012^Old Traveler^老旅人^여행자 노인^Vieux voyageur^Alter Reisender^Anciano viajero
+MST_NPC_NAME_1630013^Female Mage^魔道士女性^마도사 여자^Mage (femme)^Weiblicher Magier^Maga
+MST_NPC_NAME_1630014^Dapper Shibyra^時髦的西維拉族^댄디한 시빌라족^Shibyra élégant^Modischer Shibyra^Shibyra aseado
+MST_NPC_NAME_1640010^Aldore Guard Captain^阿爾多爾警備兵隊長^알도르 경비대장^Capitaine de la garde d'Aldore^Kapitän der Aldore-Wache^Capitán de la guardia de Aldore
+MST_NPC_NAME_1640011^Antiques Collector^古幣收藏家^고대 주화 수집가^Collectionneur d'antiquités^Antiquitätensammler^Coleccionista de antigüedades
+MST_NPC_NAME_1640012^Weaponsmith^武器職人^무기장인^Armurier^Waffenschmied^Armero
+MST_NPC_NAME_1640013^Younger Woman^年幼女子^앳된 여성^Jeune femme^Jüngere Frau^Joven
+MST_NPC_NAME_1650010^Archeologist^男考古學家^고고학자 남자^Archéologue^Archäologe^Arqueólogo
+MST_NPC_NAME_100009950^Folka (Running)^芙爾卡（跑）^폴카(달림)^Folka (En train de courir)^Folka (rennend)^Folka (corriendo)
+MST_NPC_NAME_100010050^Ignacio (Running)^伊格尼西奧（跑）^이그니시오(달림)^Folka (En train de courir)^Ignacio (rennend)^Ignacio (corriendo)
+MST_NPC_NAME_100014110^Regina (No cloak)^雷吉娜(無披風)^레지나(망토 없음)^Regina (Sans manteau)^Regina (ohne Mantel)^Regina (sin capa)
+MST_NPC_NAME_100016300^Theobald^迪奧巴特^테오볼트^Theobald^Theobald^Theobald
+MST_NPC_NAME_100016400^Dietlinde^底特瑞奇^디트린데^Dietlinde^Dietlinde^Dietlinde
+MST_NPC_NAME_100016500^Cannon^坎農^카논^Cannon^Kanon^Cannon
+MST_NPC_NAME_100016600^Ichor^伊科爾^이콜^Ichor^Ichor^Ichor
+MST_NPC_NAME_100016700^Yubel^尤貝爾^유벨^Yubel^Yubel^Yubel
+MST_NPC_NAME_100016710^Yubel (On chocobo)^尤貝爾(騎乘)^유벨(기승)^Yubel (Sur un chocobo)^Yubel (Chocobo reitend)^Yubel (a chocobo)
+MST_NPC_NAME_100016720^Chocobo (Yubel's)^陸行鳥(尤貝爾)^초코보(유벨)^Chocobo (de Yubel)^Chocobo (Yubel)^Chocobo (de Yubel)
+MST_NPC_NAME_100016800^Kihana^基哈納^키하나^Kihana^Kihana^Kihana
+MST_NPC_NAME_100016900^Luluna's Father^露露娜的父親^루루나의 아버지^Père de Luluna^Lulunas Vater^Padre de Luluna
+MST_NPC_NAME_100017000^Luluna^露露娜^루루나^Luluna^Lulunas Vater^Luluna
+MST_NPC_NAME_100017100^Mirfas^米爾法斯^릴파스^Mirfas^Mirfas^Mirfas
+MST_NPC_NAME_100017200^Crimson^深紅^크림슨^Crimson^Crimson^Crimson
+MST_NPC_NAME_100017210^Crimson (Hooded)^深紅(有斗篷)^크림슨(후드 있음)^Crimson (Encapuchonné)^Crimson (Vermummt)^Crimson (encapuchado)
+MST_NPC_NAME_100017300^Wayhem^維哈姆^웨이험^Wayhem^Wayhem^Wayhem
+MST_NPC_NAME_100017400^PNK-2^PNK-2^PNK-2^PNK-2^PNK-2^PNK-2
+MST_NPC_NAME_100017410^Mini Robot^小型機器人^미니 로봇^Mini Robot^Miniroboter^Minirobot
+MST_NPC_NAME_100017500^Suzume^雀^스즈메^Suzume^Suzume^Suzume
+MST_NPC_NAME_200100420^Imperial Guard^皇帝的護衛^황제의 호의^Garde impérial^Imperiale Wache^Guardia imperial
+MST_NPC_NAME_200102500^Steward (Young)^管家（年輕）^집사(젊음)^Steward (Jeune)^Butler (Jung)^Mayordomo (joven)
+MST_NPC_NAME_200102740^Female Thief^女盜賊^여도적^Voleuse^Weiblicher Dieb^Ladrona
+MST_NPC_NAME_200107700^Assassin^暗殺者^암살자^Assassin^Assassine^Asesino
+MST_NPC_NAME_200107710^Assassin (Gun)^暗殺者(火槍)^암살자(총)^Assassin (Arme à feu)^Assassine (Pistole)^Asesino (pistola)
+MST_NPC_NAME_200107800^Milo (Children of Hess)^瑪伊洛(赫斯之子)^마일로(헤스의 아이들)^Milo (Enfants de Hess)^Milo (Kinder von Hess)^Milo (Hijo de Hess)
+MST_NPC_NAME_200107810^Child of Hess (1)^普通赫斯之子男性1^범용 헤스의 아이들 남자 1^Enfant de Hess (1)^Kind von Hess (1)^Hijo de Hess (1)
+MST_NPC_NAME_200107820^Child of Hess (2)^普通赫斯之子男性2^범용 헤스의 아이들 남자 2^Enfant de Hess (2)^Kind von Hess (2)^Hijo de Hess (2)
+MST_NPC_NAME_200107830^Child of Hess (3)^普通赫斯之子男性3^범용 헤스의 아이들 남자 3^Enfant de Hess (3)^Kind von Hess (3)^Hijo de Hess (3)
+MST_NPC_NAME_200107840^Child of Hess (1)^普通赫斯之子女性1^범용 헤스의 아이들 여자 1^Enfant de Hess (1)^Kind von Hess (4)^Hijo de Hess (1)
+MST_NPC_NAME_200107850^Child of Hess (2)^普通赫斯之子女性2^범용 헤스의 아이들 여자 2^Enfant de Hess (2)^Kind von Hess (5)^Hijo de Hess (2)
+MST_NPC_NAME_200107860^Child of Hess (3)^普通赫斯之子女性3^범용 헤스의 아이들 여자 3^Enfant de Hess (3)^Kind von Hess (6)^Hijo de Hess (3)
+MST_NPC_NAME_900105900^Unei^烏內^우네^Unei^Unei^Unei
+MST_NPC_NAME_900106000^Doga^多加^도가^Doga^Doga^Doga
+MST_NPC_NAME_1640010^Aldore Guard Captain^阿爾多爾警備兵隊長^알도르 경비대장^Capitaine de la garde d'Aldore^Kapitän der Aldore-Wache^Capitán de la guardia de Aldore
+MST_NPC_NAME_1640011^Antiques Collector^古幣收藏家^고대 주화 수집가^Collectionneur d'antiquités^Antiquitätensammler^Coleccionista de antigüedades
+MST_NPC_NAME_1640012^Weaponsmith^武器職人^무기장인^Armurier^Waffenschmied^Armero
+MST_NPC_NAME_1640013^Younger Woman^年幼女子^앳된 여성^Jeune femme^Jüngere Frau^Joven
+MST_NPC_NAME_1650010^Archeologist^男考古學家^고고학자 남자^Archéologue^Archäologe^Arqueólogo
+MST_NPC_NAME_1640014^Colosseum Monster Coordinator^競技場魔物管理員^투기장 마물 담당 관리^Coordinateur des monstres du Colisée^Kollosseumsmuseum-Kurator^Coordinador de monstruos del Coliseo
+MST_NPC_NAME_1640015^Unlucky Man^薄命的男性^운 없는 남자^Homme malchanceux^Unglücklicher Mann^Pobre desgraciado
+MST_NPC_NAME_1640016^Self-proclaimed Rebel^自稱反叛軍的男性^반란군이라 주장하는 남자^Rebel autoproclamé^Selbsternannter Rebell^Rebelde autoproclamado
+MST_NPC_NAME_1660010^Clever Rat^聰明的老鼠^영리해 보이는 래트^Rat intelligent^Clevere Ratte^Rata perspicaz

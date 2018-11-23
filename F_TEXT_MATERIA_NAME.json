@@ -158,10 +158,10 @@ MST_MATERIA_NAME_504203150^Acceptance^接受之力^받는 힘^Assimilation^Akzep
 MST_MATERIA_NAME_504203160^Knowledge^知識之力^지식의 힘^Savoir^Wissen^Conocimiento
 MST_MATERIA_NAME_504203170^Ignorance^無知之力^무지한 힘^Ignorance^Ignoranz^Inconsciencia
 MST_MATERIA_NAME_504203180^Discernment^認識之力^인식하는 힘^Discernement^Erkenntnis^Observación
-MST_MATERIA_NAME_504203190^Speed Plus^速度提昇^스피드 상승^Rapidité^Beschleunigung^Velocidad↑
-MST_MATERIA_NAME_504203200^Twinspell^雙重魔法^트윈 매직^Sorts jumeaux^Zwillingszauber^Afán mágico
-MST_MATERIA_NAME_504203210^Insult to Injury^昏眩終結^스턴 피니쉬^Choc fatal^Nachsetzen^Terapia de shock
-MST_MATERIA_NAME_504203220^Cut Cards^翻牌^덱 오픈^Tirage spécial^Karte ziehen^Mano ganadora
+MST_MATERIA_NAME_504203190^Accelerate^速度提昇^스피드 업^Rapidité^Tempo ↑^Velocidad↑
+MST_MATERIA_NAME_504203200^Twinspell^雙重魔法^트윈 매직^Sorts jumeaux^Dualmagie^Afán mágico
+MST_MATERIA_NAME_504203210^Insult to Injury^昏眩終結^스턴 피니쉬^Choc fatal^Auspeitschen^Terapia de shock
+MST_MATERIA_NAME_504203220^Cut Cards^翻牌^덱 오픈^Tirage spécial^Kartensatz^Mano ganadora
 MST_MATERIA_NAME_504203370^Mentality^心之所在^멘탈리티^Mental^Mentalismus^Mentalidad
 MST_MATERIA_NAME_504203380^Letters and Arms^文武雙全^문무양도^La plume et l'épée^Feder und Schwert^Pluma y espada
 MST_MATERIA_NAME_504203810^Mana's Protection^瑪娜的加護^마나의 가호^Égide de Mana^Beistand des Mana^Custodia de Mana
@@ -448,8 +448,8 @@ MST_MATERIA_NAME_504901880^Burst^炸裂^버스트^Implosion^Salve^Descarga
 MST_MATERIA_NAME_504901890^Quake^地槌^퀘이크^Séisme^Beben^Seísmo
 MST_MATERIA_NAME_1500000004^Pure Heart^純潔之心^순수한 마음^Cœur pur^Reines Herz^Corazón puro
 MST_MATERIA_NAME_1500000005^Winter Ward^防寒對策^방한 대책^Protection hivernale ^Winterdiener^Guardia invernal
-MST_MATERIA_NAME_1500000007^Deliverance^引渡黃泉^사망선고^Déliverance^Erlösung^Viático
-MST_MATERIA_NAME_1500000008^Firewall: Power↑^增強ＨＳ威力^HS 위력 증대^Mur de feu : Puissance ↑^Feuerwall: Kraft↑^Parapeto letal
+MST_MATERIA_NAME_1500000007^Deliverance^引渡黃泉^사망선고^Sentence^Todesstoß^Viático
+MST_MATERIA_NAME_1500000008^Firewall: Power↑^增強ＨＳ威力^HS 위력 증대^Mur de feu : Puissance ↑^Feuerwall: St. 2^Parapeto letal
 MST_MATERIA_NAME_504212570^Symphonic Flair^交響樂天賦^심포닉 플레어^Style symphonique^Sinfonisches Flair^Estilo sinfónico
 MST_MATERIA_NAME_1500000009^Lightspeed Jab^光速拳^광속권^Coup éclair^Lichtgeschwindigkeitsschlag^Puños estela
 MST_MATERIA_NAME_1500000010^Cheerleader^士氣^기합^Application^Cheerleader^Kiai
@@ -774,6 +774,8 @@ MST_MATERIA_NAME_1500000071^Grim Brilliance^冷血閃耀^죽음의 광명^Sombre
 MST_MATERIA_NAME_1500000072^Malicious Aura^惡毒靈氣^악독한 아우라^Aura maléfique^Bösartige Aura^Aura maligna
 MST_MATERIA_NAME_1500000073^Malefic Heart^兇惡之心^흉악한 마음^Esprit du mal^Malefizherz^Corazón del mal
 MST_MATERIA_NAME_1500000074^Chaotic Ferocity^渾沌狂暴^혼돈의 강포^Férocité chaotique^Chaotische Raserei^Ferocidad caótica
+MST_MATERIA_NAME_504230010^Executioner^Executioner^사형 집행인^Bourreau^Scharfrichter^Verdugo
+MST_MATERIA_NAME_504230013^Gentle Traitor^溫柔的復仇者^상냥한 복수자^Doux traître^Sanfter Verräter^Dulce traición
 MST_MATERIA_NAME_1500000075^Katana Proficiency^刀械精通^도의 달인^Aptitude au katana^Katana-Experte^Dominio de la katana
 MST_MATERIA_NAME_1500000076^Spiritual Proficiency^精神精通^정신적 숙달^Aptitude spirituelle^Spiritueller Experte^Dominio espiritual
 MST_MATERIA_NAME_1500000077^Demonic Might^魔之威能^악마의 힘^Puissance démoniaque^Dämonenmacht^Poder demoníaco

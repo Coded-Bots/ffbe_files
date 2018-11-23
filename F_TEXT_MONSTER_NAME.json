@@ -205,7 +205,7 @@ MST_MONSTER_NAME_205011001^Flamesblade^火焰劍士^화염의 검사^Guerrier de
 MST_MONSTER_NAME_205011002^Flamesblade^火焰劍士^화염의 검사^Guerrier des flammes^Flammenschwert^Espadachín ígneo
 MST_MONSTER_NAME_205011003^Flamesblade^火焰劍士^화염의 검사^Guerrier des flammes^Flammenschwert^Espadachín ígneo
 MST_MONSTER_NAME_205021000^Shiva^濕婆^시바^Shiva^Shiva^Shiva
-MST_MONSTER_NAME_205021001^Shiva^濕婆^시바^Shiva^Shiva 2.0^Shiva
+MST_MONSTER_NAME_205021001^Shiva^濕婆^시바^Shiva^Shiva^Shiva
 MST_MONSTER_NAME_206001000^Magitek Armor^魔導裝甲^마도 아머^Armure magitech^Magitek-Mech^Unidad Magitec
 MST_MONSTER_NAME_206001001^Magitek Armor^魔導裝甲^마도 아머^Armure magitech^Magitek-Mech^Unidad Magitec
 MST_MONSTER_NAME_206001002^Magitek Armor^魔導裝甲^마도 아머^Armure magitech^Magitek-Mech^Unidad Magitec
@@ -602,7 +602,7 @@ MST_MONSTER_NAME_111023002^Alraune^阿爾拉烏蕾^알라우네^Alraune^Alraune^
 MST_MONSTER_NAME_112014003^Soul^魂^영혼^Âme^Seele^Alma
 MST_MONSTER_NAME_301032001^Moogle Eater^莫古利殺手^모그리 포식자^Dévoreur de mogs^Mogryfresser^Comemoguris
 MST_MONSTER_NAME_205031000^Ramuh^拉姆^라무^Ramuh^Ramuh^Lamú
-MST_MONSTER_NAME_205031001^Ramuh^拉姆^라무^Ramuh^Ramuh 2.0^Lamú ver. 2
+MST_MONSTER_NAME_205031001^Ramuh^拉姆^라무^Ramuh^Ramuh^Lamú
 MST_MONSTER_NAME_210041000^Monster Effigy^石像獸^석상수^Effigie^Monsterstatue^Efigie monstruosa
 MST_MONSTER_NAME_105013001^Dark Wizard^黑暗巫師^어둠의 마도사^Sorcier obscur^Dunkelzauberer^Druida oscuro
 MST_MONSTER_NAME_106002003^Searcher^偵察眼^정찰 로봇^Tête chercheuse^Sucher^Rastreador
@@ -4364,8 +4364,8 @@ MST_MONSTER_NAME_201028006^Stealth Coeurl^隱形長鬚豹^스텔스 커얼^Cœur
 MST_MONSTER_NAME_201005004^Soilmodar^索爾摩達^소일모다^Soilmodar^Soilmodar^Soilmodar
 MST_MONSTER_NAME_102016004^Pyrolisk^魔雞獸^파이로리스크^Pyrolisk^Pyrolisk^Pirolisco
 MST_MONSTER_NAME_201077006^Rishyasringa^鹿角仙馬^리쉬야슈링가^Rishyasringa^Rishyasringa^Rishyasringa
-MST_MONSTER_NAME_301121000^Fenrir^芬里爾^펜리르^Fenrir^Fenrir^Fenril
-MST_MONSTER_NAME_301121001^Fenrir^芬里爾^펜리르^Fenrir^Fenrir^Fenril
+MST_MONSTER_NAME_301121000^Fenrir^芬里爾^펜리르^Fenrir^Fenris^Fenril
+MST_MONSTER_NAME_301121001^Fenrir^芬里爾^펜리르^Fenrir^Fenris^Fenril
 MST_MONSTER_NAME_101001013^Dire Rat^變異鼠^시궁쥐^Rat-garou^Werratte^Rata vil
 MST_MONSTER_NAME_109001007^Hornet^大黃蜂^말벌^Frelon^Hornisse^Anofeles
 MST_MONSTER_NAME_104011012^Imp^小魔精^임프^Diablotin^Galchimäsera^Diablejo
@@ -6303,7 +6303,7 @@ MST_MONSTER_NAME_102018006^Nemain^內瓦安^네반^Nemain^Nemain^Nemain
 MST_MONSTER_NAME_106006000^Terrible Eye^恐怖眼^흉안^Odiœil^Schreckensauge^Ojo terrible
 MST_MONSTER_NAME_301006001^Dhorme Chimera^多爾姆奇美拉^돔 키마이라^Khimaira Dhorme^Dhorme-Chimäre^Quimera Dhorme
 MST_MONSTER_NAME_305301001^Yego of the Gamma Star^三鬥星伊戈^삼성투사 이고^Yego de l'étoile Gamma^Gamma-Stern-Yego^Yego de la estrella Gamma
-MST_MONSTER_NAME_301121002^Fenrir^芬里爾^펜리르^Fenrir^Fenrir^Fenril
+MST_MONSTER_NAME_301121002^Fenrir^芬里爾^펜리르^Fenrir^Fenris^Fenril
 MST_MONSTER_NAME_411001004^Antenolla^安忒諾拉^안테노라^Antenolla^Antenolla^Antenolla
 MST_MONSTER_NAME_109011007^Tarantula^狼蛛^타란툴라^Tarentule^Tarantel^Tarántula
 MST_MONSTER_NAME_101002019^Stunner^強襲鼠^스터너^Rat enragé^Narko-Ratte^Abrebocas
@@ -6380,7 +6380,7 @@ MST_MONSTER_NAME_201005020^Soilmodar^索爾摩達^소일모다^Soilmodar^Soilmod
 MST_MONSTER_NAME_202024016^Flash Bird^閃光鳥^플래시 버드^Oiseau clignotant^Blitzpiepser^Pájaro destellado
 MST_MONSTER_NAME_209033016^Scolopendra^少棘蜈蚣^스콜펜드라^Scolopendre^Scolopendra^Escolopendra
 MST_MONSTER_NAME_202015012^Rokh^不死巨鳥^암제스^Rokh^Rokh^Rokh
-MST_MONSTER_NAME_205015000^Thunderous Swordsman^轟雷劍士^굉뢰의 검사^Épéiste foudroyant^Tosender Schwertkämpfer^Espadachín estrepitoso
+MST_MONSTER_NAME_205015000^Thunderous Swordsman^轟雷劍士^천둥의 검사^Épéiste foudroyant^Tosender Schwertkämpfer^Espadachín estrepitoso
 MST_MONSTER_NAME_105111022^Aldore Bladed Soldier^阿爾多爾劍鬥兵^알도르 검투병^Soldat à épée d'Aldore^Aldore-Schwertsoldat^Soldado con espada de Aldore
 MST_MONSTER_NAME_105121025^Aldore Assault Soldier^阿爾多爾突擊兵^알도르 돌격병^Soldat d'assaut d'Aldore^Aldore-Angriffssoldat^Soldado de asalto de Aldore
 MST_MONSTER_NAME_206091011^Magitek Armor A-type^A式魔導裝甲^A식 마도 아머^Armure magitech type-A^Magitek-Mech Typ A^Unidad Magitec tipo A
@@ -7283,20 +7283,20 @@ MST_MONSTER_NAME_105118000^Aldore Bladed Guard^阿爾多爾劍鬥護衛兵^알�
 MST_MONSTER_NAME_105108000^Aldore Guard^阿爾多爾護衛兵^알도르 호위병^Garde d'Aldore^Aldore-Leibwache^Guardia de Aldore
 MST_MONSTER_NAME_105128000^Aldore Assault Guard^阿爾多爾突擊護衛兵^알도르 돌격 호위병^Garde d'assaut d'Aldore^Aldore-Sturmleibwache^Guardia de asalto de Aldore
 MST_MONSTER_NAME_105138000^Aldore Heavy Assault Guard^阿爾多爾重炮護衛兵^알도르 중포 호위병^Garde d'assaut lourd d'Aldore^Massiver Aldore-Leibwachenschütze^Guardia de artillería pesada de Aldore
-MST_MONSTER_NAME_105109000^Aldore Imperial Guard^阿爾多爾皇帝近衛兵^알도르 황제 군위병^Garde impérial d'Aldore^Leibwächter des Aldore-Imperators^Guardia imperial de Aldore
-MST_MONSTER_NAME_305381000^Aldore Emperor^阿爾多爾皇帝^알도르 황제^Empereur d'Aldore^Aldore-Imperator^Emperador de Aldore
+MST_MONSTER_NAME_105109000^Aldore Imperial Guard^阿爾多爾皇帝近衛兵^알도르 황제 군위병^Garde impérial d'Aldore^Leibwächter des Imperators von Aldore^Guardia imperial de Aldore
+MST_MONSTER_NAME_305381000^Aldore Emperor^阿爾多爾皇帝^알도르 황제^Empereur d'Aldore^Imperator von Aldore^Emperador de Aldore
 MST_MONSTER_NAME_205911007^Ambitious Mage^野心勃勃的魔道士^야심만만한 마도사^Mage ambitieux^Ambitionierter Magier^Mago ambicioso
-MST_MONSTER_NAME_205912006^Greedy Mage^貪婪的魔道士^욕심 많은 마도사^^^Mago codicioso
+MST_MONSTER_NAME_205912006^Greedy Mage^貪婪的魔道士^욕심 많은 마도사^Mage cupide^Gieriger Magier^Mago codicioso
 MST_MONSTER_NAME_205901007^Boastful Swordsman^恃才傲物的劍士^힘자랑하는 검사^Épéiste bravache^Prahlender Schwertkämpfer^Espadachín fanfarrón
-MST_MONSTER_NAME_205902006^Skilled Swordsman^老練的劍士^실력자 검사^^^Espadachín experto
+MST_MONSTER_NAME_205902006^Skilled Swordsman^老練的劍士^실력자 검사^Épéiste accompli^Geschickter Schwertkämpfer^Espadachín experto
 MST_MONSTER_NAME_103072003^Bolt Fish^電魚^전기물고기^Electropoisson^Blitzfisch^Pez eléctrico
 MST_MONSTER_NAME_108019004^Yellow Elemental^金黃元素^노란 원소^Élémentaire jaune^Gelelementar^Ente amarillo
 MST_MONSTER_NAME_108022001^Jupiter^朱庇特^주피터^Jupiter^Jupiter^Júpiter
 MST_MONSTER_NAME_103008003^Wood Toad^匿蹤蛙^스니크 프로그^Crapaud furtif^Bota-Kröte^Rana furtiva
 MST_MONSTER_NAME_103018007^Gray Ooze^灰軟泥^회색 연니^Aspic Gris^Blauschleim^Lodo gris
 MST_MONSTER_NAME_203015005^Adamanchaco^堅鋼龜^아다만차코^Adamanchaco^Adamanchaco^Adamancaco
-MST_MONSTER_NAME_205902007^Skilled Swordsman^老練的劍士^실력자 검사^^^Espadachín experto
-MST_MONSTER_NAME_205912007^Greedy Mage^貪婪的魔道士^욕심 많은 마도사^^^Mago codicioso
+MST_MONSTER_NAME_205902007^Skilled Swordsman^老練的劍士^실력자 검사^Épéiste accompli^Geschickter Schwertkämpfer^Espadachín experto
+MST_MONSTER_NAME_205912007^Greedy Mage^貪婪的魔道士^욕심 많은 마도사^Mage cupide^Gieriger Magier^Mago codicioso
 MST_MONSTER_NAME_205903000^Powerful Swordsman^身手高強的劍士^실력자 검사^Épéiste redoutable^Mächtiger Schwertkämpfer^Espadachín poderoso
 MST_MONSTER_NAME_205913000^Veteran Mage^身經百戰的魔道士^역전의 마도사^Mage vétéran^Erfahrener Magier^Mago veterano
 MST_MONSTER_NAME_105121026^Aldore Assault Soldier^阿爾多爾突擊兵^알도르 돌격병^Soldat d'assaut d'Aldore^Aldore-Sturmsoldat^Soldado de asalto de Aldore
@@ -7313,7 +7313,7 @@ MST_MONSTER_NAME_102008022^Downer Bat^鎮靜蝙蝠^앉은뱅이 박쥐^Noctule-d
 MST_MONSTER_NAME_103014005^Black Flan^黑色軟糊怪^블랙 푸딩^Flan noir^Dunkelpudding^Flan negro
 MST_MONSTER_NAME_103026004^Fastitocalon^灰猛魚^패스티토칼론^Fastitocalon^Fastitocalon^Focalor
 MST_MONSTER_NAME_103073000^Piranha^食人魚^피라냐^Piranha^Piranha^Piraña
-MST_MONSTER_NAME_203017001^Admancagle^堅鋼恐顎玳瑁龜^아다만케이글^^^Admancagle
+MST_MONSTER_NAME_203017001^Admancagle^堅鋼恐顎玳瑁龜^아다만케이글^Admancagle^Admancagle^Admancagle
 MST_MONSTER_NAME_203047001^Purple Seahorse^紫色海馬^보라색 해마^Hippocampe violet^Violettes Seepferdchen^Caballito de mar púrpura
 MST_MONSTER_NAME_109018009^Wolf Spider^狼蜘蛛^늑대거미^Araignée loup^Wolfsspinne^Araña lobo
 MST_MONSTER_NAME_303008000^Norandel^諾蘭德拉^노란데라^Norandel^Norandel^Norandel
@@ -7332,7 +7332,7 @@ MST_MONSTER_NAME_206026003^Deucalion^杜卡里昂^데우칼리온^Deucalion^Deuc
 MST_MONSTER_NAME_206055016^Aldore Trooper^阿爾多爾騎兵^알도르 기병^Cavalier d'Aldore^Aldore-Reiter^Comando de Aldore
 MST_MONSTER_NAME_206077014^Aldore Jaeger^阿爾多爾獵手^알도르 사수^Fusilier d'Aldore^Aldore-Schütze^Represor de Aldore
 MST_MONSTER_NAME_206092008^A-Type Magitek Armor+^A式魔導裝甲改^개량형 A식 마도 아머^Armure magitech type-A +^Magitek-Mech-Typ-A+^Unidad Magitec tipo A+
-MST_MONSTER_NAME_306013000^Himalia^希瑪利亞^히말리아^Himalia^^Himalia
+MST_MONSTER_NAME_306013000^Himalia^希瑪利亞^히말리아^Himalia^Himalia^Himalia
 MST_MONSTER_NAME_305401000^Akstar^阿克斯特^엑스타^Akstar^Akstar^Akstar
 MST_MONSTER_NAME_305401001^Akstar^阿克斯特^엑스타^Akstar^Akstar^Akstar
 MST_MONSTER_NAME_205028000^Dark Shiva^黑暗濕婆^다크 시바^Shiva obscure^Dunkelshiva^Shiva oscura
@@ -7450,17 +7450,21 @@ MST_MONSTER_NAME_205912004^Greedy Mage^貪婪的魔道士^욕심 많은 마도�
 MST_MONSTER_NAME_209034001^Lepisma^雷比斯瑪^레피스마^Lepisma^Lepisma^Lepisma
 MST_MONSTER_NAME_110018002^Shield Statue^持盾魔像^방패 석상^Statue de pierre^Schildstatue^Estatua de piedra
 MST_MONSTER_NAME_205005000^Nalmuqtse^納爾穆克慈^날무크쉐^^^Nalmuqtse
-MST_MONSTER_NAME_106081000^RYO-3^RYO-3^RYO-3^^^RYO-3
-MST_MONSTER_NAME_999038400^PNK-2^PNK-2^PNK-2^^^PNK-2
-MST_MONSTER_NAME_106081001^RYO-3^RYO-3^RYO-3^^^RYO-3
-MST_MONSTER_NAME_106081002^RYO-3^RYO-3^RYO-3^^^RYO-3
-MST_MONSTER_NAME_999038401^PNK-2^PNK-2^PNK-2^^^PNK-2
+MST_MONSTER_NAME_106081000^RYO-3^RYO-3^RYO-3^RYO-3^RYO-3^RYO-3
+MST_MONSTER_NAME_999038400^PNK-2^PNK-2^PNK-2^PNK-2^PNK-2^PNK-2
+MST_MONSTER_NAME_106081001^RYO-3^RYO-3^RYO-3^RYO-3^RYO-3^RYO-3
+MST_MONSTER_NAME_106081002^RYO-3^RYO-3^RYO-3^RYO-3^RYO-3^RYO-3
+MST_MONSTER_NAME_999038401^PNK-2^PNK-2^PNK-2^PNK-2^PNK-2^PNK-2
 MST_MONSTER_NAME_999039401^Suzume^雀^스즈메^^^Suzume
 MST_MONSTER_NAME_999037500^Raegen^雷根^레겐^^^Raegen
 MST_MONSTER_NAME_999036600^Lasswell^拉斯韋爾^라스웰^Lasswell^Lasswell^Lasswell
 MST_MONSTER_NAME_999039402^Suzume^雀^스즈메^^^Suzume
 MST_MONSTER_NAME_999036601^Lasswell^拉斯韋爾^라스웰^Lasswell^Lasswell^Lasswell
 MST_MONSTER_NAME_999037501^Raegen^雷根^레겐^^^Raegen
+MST_MONSTER_NAME_506021004^Engels ^恩格斯型要塞破壞合體步兵^엥겔스형 요새 파괴 합체 보병^Engels^Engels^Engels
+MST_MONSTER_NAME_900010539^Awakened Hasiko^覺醒羽矢子^각성 하시코^Hasiko éveillée^Erwachte Hasiko^Hasiko despertada
+MST_MONSTER_NAME_900010540^Spirit^怨靈^원혼^Ectoplasme^Geist^Espíritu
+MST_MONSTER_NAME_900010541^Spirit^怨靈^원혼^Ectoplasme^Geist^Espíritu
 MST_MONSTER_NAME_900010503^Ghost^遊魂^유령^Fantôme^Schreckgespenst^Fantasma
 MST_MONSTER_NAME_900010504^Ghost^遊魂^유령^Fantôme^Schreckgespenst^Fantasma
 MST_MONSTER_NAME_900010505^Ghost^遊魂^유령^Fantôme^Schreckgespenst^Fantasma

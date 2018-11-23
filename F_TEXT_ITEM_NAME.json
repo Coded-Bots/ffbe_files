@@ -234,9 +234,9 @@ MST_ITEM_NAME_1106300100^Mogcake^莫古月餅^모그리 케이크^Mogcake^Mogkek
 MST_ITEM_NAME_1209000600^Standard Mogcake Box^莫古月餅普通禮盒^일반 모그리 케이크 상자^Paquet de mogcakes standard^Standardpaket Mogkekse^Minilote mogupastel
 MST_ITEM_NAME_1209000700^Rare Mogcake Box^莫古月餅精品禮盒^스페셜 모그리 케이크 상자^Paquet de mogcakes rares^Seltenes Paket Mogkekse^Lote mogupastel
 MST_ITEM_NAME_1209000800^Premium Mogcake Box^莫古月餅金裝禮盒^프리미엄 모그리 케이크 상자^Paquet de mogcakes premium^Premiumpaket Mogkekse^Superlote mogupastel
-MST_ITEM_NAME_106300300^Phantoma^幻能^판토마^Anima^Phantoma^Pneuma
+MST_ITEM_NAME_106300300^Phantoma^幻能^판토마^Anima^Anima^Pneuma
 MST_ITEM_NAME_106300400^Candy^糖果球^동그란 봉지사탕^Bonbon^Bonbon^Caramelo
-MST_ITEM_NAME_106300500^White Phantoma^白色幻能^화이트 판토마 ^Anima blanche^Weiße Phantoma^Pneuma blanca
+MST_ITEM_NAME_106300500^White Phantoma^白色幻能^화이트 판토마 ^Anima blanche^Weißes Anima^Pneuma blanca
 MST_ITEM_NAME_1209000804^Scroll of Acumen^智力卷軸^통찰의 두루마리^Parchemin de perspicacité^Schriftrolle des Scharfsinns^Perga. de perspicacia
 MST_ITEM_NAME_1209000805^Scroll of Vigor^力量卷軸^활력의 두루마리^Parchemin de vigueur^Schriftrolle des Elans^Perga. del vigor
 MST_ITEM_NAME_1209000806^Cavern Ore^洞窟礦石^동굴의 광석^Minerai de caverne^Höhlenerz^Mineral de caverna
@@ -293,7 +293,7 @@ MST_ITEM_NAME_106300600^Red Orb^赤之寶玉^붉은색 보옥^Orbe rouge ^Roter 
 MST_ITEM_NAME_106210100^Rat Tail^老鼠尾巴^생쥐 꼬리^Queue de rat ^Rattenschwänze^Cola de ratón
 MST_ITEM_NAME_106300700^Gold Coin^黃金^골드^Pièces d'or^Goldmünze^Monedas de oro
 MST_ITEM_NAME_203000500^Gold Ore^金礦^금광^Minerai d'or^Golderz^Pepita de oro
-MST_ITEM_NAME_106300800^Blue Phantoma^藍色幻能^푸른 판토마^Anima bleue^Blaues Phantoma^Pneuma azul
+MST_ITEM_NAME_106300800^Blue Phantoma^藍色幻能^푸른 판토마^Anima bleue^Blaues Anima^Pneuma azul
 MST_ITEM_NAME_202002800^Koltz Star^科爾茲之星^콜츠의 별^Étoile de Kolts^Koltzstern^Estrella de Kolts
 MST_ITEM_NAME_202002900^Hope Diamond^希望寶鑽^호프 다이아몬드^Diamant de l'espoir ^Diamant der Hoffnung^Diamante esperanzador
 MST_ITEM_NAME_202003000^Flaming Blood^火焰之血^타오르는 핏방울^Sang ardent^Flammenblut^Sangre ardiente
@@ -476,7 +476,7 @@ MST_ITEM_NAME_101003400^Thank You Candy^謝禮糖果^답례 사탕^Bonbon cadeau
 MST_ITEM_NAME_106302800^Contest Raid Coin^大賽共鬥硬幣^콘테스트 레이드 코인^Jeton du concours^Wettkampfraubzugmünze^Moneda de torneo
 MST_ITEM_NAME_106302900^Debased Coin^古老銅板^낡은 동전^Sou ancien^Verrostete Münze^Moneda antigua
 MST_ITEM_NAME_106303100^Ticket^戲劇門票^공연 티켓^Billet^Eintrittskarte^Entrada
-MST_ITEM_NAME_106303200^Engels Raid Coin^恩格斯共鬥硬幣^엥겔스 레이드 코인^Jeton d'Engels^Engelsraubzugmünze^Moneda de Engels
+MST_ITEM_NAME_106303200^Engels Raid Coin^恩格斯共鬥硬幣^엥겔스 레이드 코인^Jeton d'Engels^Engels-Raubzugmünze^Moneda de Engels
 MST_ITEM_NAME_106303300^Al Bhed Primer^阿爾貝德語辭典^알베드어 사전^Manuel d'Al Bhed^Al Bhed-Lexikon^Diccionario albhed
 MST_ITEM_NAME_216000100^Twilight Feather^黃昏羽毛^황혼빛의 깃털^Plume du crépuscule^Dämmerungsfeder^Pluma crepuscular
 MST_ITEM_NAME_216000200^Pure Thread^純白柔線^순백의 실^Fil pur^Reiner Faden^Hilo puro
@@ -489,7 +489,7 @@ MST_ITEM_NAME_217000200^Rusted Lump^生鏽碎塊^녹슨 덩어리^Amas rouillé^
 MST_ITEM_NAME_217000300^Titanium Alloy^鈦合金^티탄 합금^Alliage de titane^Titanmetall^Aleación de titanio
 MST_ITEM_NAME_217000400^Black Pearl^黑珍珠^흑진주^Perle noire^Schwarze Perle^Perla negra
 MST_ITEM_NAME_217000500^Meteor Light^隕石^미티어라이트^Météorite^Meteorlicht^Meteorito
-MST_ITEM_NAME_217000600^Black Box^黑盒子^블랙박스^Boîte noire^Schwarze Kiste^Caja negra
+MST_ITEM_NAME_217000600^Black Box^黑盒子^블랙박스^Boîte noire^Blackbox^Caja negra
 MST_ITEM_NAME_1209000833^Hairpin^髮飾^머리핀^Épingle à cheveux^Haarspange^Coletero
 MST_ITEM_NAME_1209000834^Magma Rock Fragments^岩漿石碎片^마그마 돌 조각^Morceau de magma^Magmagesteinfragmente^Fragmento de magma
 MST_ITEM_NAME_1209000835^Musical Gem^音樂寶石^뮤지컬 젬^Pierre musicale^Musikjuwel^Símbolo musical
@@ -838,5 +838,7 @@ MST_ITEM_NAME_1209000920^Black Ash^黑色灰燼^검은 재^Poussière noire^Schw
 MST_ITEM_NAME_1209000921^Pure Blood^純淨之血^순혈^Sang pur^Reines Blut^Sangre pura
 MST_ITEM_NAME_1209000922^Black Grimoire^漆黑魔典^흑마술의 서^Grimoire noir^Schwarzes Grimoire^Grimorio oscuro
 MST_ITEM_NAME_310000180^Fryevia's Prism^弗雷比亞的輝源^프레이비아의 휘석^Prisme pour Fryevia^Prisma für Fryevia^Prisma de Fryevia
+MST_ITEM_NAME_300001200^2B's Prism^^^^^
+MST_ITEM_NAME_300001210^A2's Prism^^^^^
 MST_ITEM_NAME_310000160^Beryl's Prism^貝利爾的輝源^베릴의 휘석^Prisme pour Beryl^Prisma für Beryl^Prisma de Beryl
 MST_ITEM_NAME_310000170^Ellesperis's Prism^艾莉絲珮芮絲的輝源^엘레스페리스의 휘석^Prisme pour Ellesperis^Prisma für Ellesperis^Prisma de Ellesperis

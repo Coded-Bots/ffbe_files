@@ -325,7 +325,7 @@ MST_QUESTSUB_TARGET_PARAM_102000501^Get stamp from apprentice mage^讓見習魔�
 MST_QUESTSUB_TARGET_PARAM_103700101^^^^^^
 MST_QUESTSUB_TARGET_PARAM_103800101^^^^^^
 MST_QUESTSUB_TARGET_PARAM_103800201^^^^^^
-MST_QUESTSUB_TARGET_PARAM_103800301^Special Ore,Special Ore,Special Ore^^^^^
+MST_QUESTSUB_TARGET_PARAM_103800301^Special Ore,Special Ore,Special Ore^特殊鐵礦石,特殊鐵礦石,特殊鐵礦石^특수 철광석,특수 철광석,특수 철광석^Minerai spécial,Minerai spécial,Minerai spécial^Spezialerz,Spezialerz,Spezialerz^Mineral especial,Mineral especial,Mineral especial
 MST_QUESTSUB_TARGET_PARAM_103800401^^^^^^
 MST_QUESTSUB_TARGET_PARAM_103800402^^^^^^
 MST_QUESTSUB_TARGET_PARAM_103800403^^^^^^
@@ -333,10 +333,10 @@ MST_QUESTSUB_TARGET_PARAM_103800404^^^^^^
 MST_QUESTSUB_TARGET_PARAM_103900101^^^^^^
 MST_QUESTSUB_TARGET_PARAM_103900201^^^^^^
 MST_QUESTSUB_TARGET_PARAM_103900301^^^^^^
-MST_QUESTSUB_TARGET_PARAM_103900401^Energetic Boy,Shy Boy,Innocent Girl,Mature Boy,Leader Girl^^^^^
-MST_QUESTSUB_TARGET_PARAM_202400101^Monster Vanquished,Monster Vanquished^^^^^
+MST_QUESTSUB_TARGET_PARAM_103900401^Energetic Boy,Shy Boy,Innocent Girl,Mature Boy,Leader Girl^活潑的男孩子,怕生的男孩子,天真的女孩子,沉穩的男孩子,帶頭的女孩子^씩씩한 남자아이,낯을 가리는 남자아이,순수한 여자아이,어른스러운 남자아이,대장 여자아이^Garçon énergétique,Garçon timide,Fille innocente,Garçon mûr,Fille chef ^Lebhafter Junge,Schüchterner Junge,Unschuldiges Mädchen,Reifer Junge,Anführerin^Niño energético,Niño tímido,Niña inocente,Niño maduro,Niña líder
+MST_QUESTSUB_TARGET_PARAM_202400101^Monster Vanquished,Monster Vanquished^討伐了魔物,討伐了魔物^마물을 토벌했다,마물을 토벌했다^Monstre vaincu,Monstre vaincu^Monster bezwungen,Monster bezwungen^Monstruo derrotado,Monstruo derrotado
 MST_QUESTSUB_TARGET_PARAM_104000101^^^^^^
-MST_QUESTSUB_TARGET_PARAM_104000201^Merchant's Baggage,Merchant's Baggage,Merchant's Baggage^^^^^
+MST_QUESTSUB_TARGET_PARAM_104000201^Merchant's Baggage,Merchant's Baggage,Merchant's Baggage^小販的行李,小販的行李,小販的行李^상인의 짐,상인의 짐,상인의 짐^Bagage du marchand,Bagage du marchand,Bagage du marchand^Gepäck des Händlers,Gepäck des Händlers,Gepäck des Händlers^Equipaje del mercader,Equipaje del mercader,Equipaje del mercader
 MST_QUESTSUB_TARGET_PARAM_104000301^^^^^^
 MST_QUESTSUB_TARGET_PARAM_104000401^^^^^^
 MST_QUESTSUB_TARGET_PARAM_104000402^^^^^^
@@ -346,10 +346,31 @@ MST_QUESTSUB_TARGET_PARAM_104000501^^^^^^
 MST_QUESTSUB_TARGET_PARAM_104000502^^^^^^
 MST_QUESTSUB_TARGET_PARAM_104100101^^^^^^
 MST_QUESTSUB_TARGET_PARAM_104100201^^^^^^
-MST_QUESTSUB_TARGET_PARAM_104100301^Short Swordsman,Foreign Swordsman,Timid Gatekeeper^^^^^
+MST_QUESTSUB_TARGET_PARAM_104100301^Short Swordsman,Foreign Swordsman,Timid Gatekeeper^嬌小的劍士,外國劍士,懦弱的守門人^몸집이 작은 검사,이국의 검사,심약한 문지기^Épéiste trapu,Épéiste étranger,Gardien craintif^Kleiner Schwertkämpfer, Fremder Schertkämpfer, Ängstlicher Torwächter^Soldado con espada corta,Espadachín extranjero,Guardia tímido
 MST_QUESTSUB_TARGET_PARAM_104100302^^^^^^
 MST_QUESTSUB_TARGET_PARAM_104100401^^^^^^
 MST_QUESTSUB_TARGET_PARAM_104100402^^^^^^
 MST_QUESTSUB_TARGET_PARAM_104100403^^^^^^
-MST_QUESTSUB_TARGET_PARAM_202500101^Worriesome Examiner,Large Examiner,Silent Examiner^^^^^
+MST_QUESTSUB_TARGET_PARAM_202500101^Worriesome Examiner,Large Examiner,Silent Examiner^愛擔心的調查員,高大的調查員,沉默寡言的調查員^걱정이 많은 조사원,몸집이 큰 조사원,과묵한 조사원^Examinateur inquiet,Grand examinateur,Examinateur silencieux^Besorgter Prüfer, Großer Prüfer, Stiller Prüfer^Examinador preocupadizo,Examinador grande, Examinador callado
 MST_QUESTSUB_TARGET_PARAM_202500102^^^^^^
+MST_QUESTSUB_TARGET_PARAM_104100501^^^^^^
+MST_QUESTSUB_TARGET_PARAM_104100601^Speak to the street vendor in front of the weaponsmith.^和在武器店前的男性地攤商對話^무기 상점 앞에 있는 노점상 남자에게 말 걸기^Parlez au marchand de rue qui se tient devant le forgeron.^Spreche mit dem Straßenverkäufer vor dem Waffenschmied.^Habla con el vendedor callejero que hay enfrente del herrero.
+MST_QUESTSUB_TARGET_PARAM_104100602^Speak to the unlucky man in front of the colosseum.^在競技場前和薄命的男性對話^투기장 앞에서 운 없는 남자에게 말 걸기^Parlez à l'homme malchanceux qui se tient devant le Colisée.^Spreche mit dem unglücklichen Mann vor dem Kolosseum.^Habla con el hombre desafortunado que hay enfrente del coliseo.
+MST_QUESTSUB_TARGET_PARAM_104100603^Speak to the unlucky man in front of the inn.^在旅店前和薄命的男性對話^여인숙에서 운 없는 남자에게 말 걸기^Parlez à l'homme malchanceux qui se tient devant l'auberge.^Spreche mit dem unglücklichen Mann vor dem Gasthaus.^Habla con el hombre desafortunado que hay enfrente de la posada.
+MST_QUESTSUB_TARGET_PARAM_104100701^Find the weapons hidden in Londell Road.^尋找隱藏在羅恩德爾街道的武器^론델 가도에 숨겨둔 무기 찾기^Trouvez les armes cachées sur la Route de Londell.^Finde die auf der Londell-Straße versteckten Waffen.^Encuentra las armas que hay escondidas en la carretera de Londell.
+MST_QUESTSUB_TARGET_PARAM_104100702^^^^^^
+MST_QUESTSUB_TARGET_PARAM_203400101^Thoughtful Rat,Smart Rat,Polite Rat^^사려 깊은 래트,수재 느낌의 래트,예의바른 래트^Rat prévenant,rat astucieux, rat poli^Nachdenkliche Ratte, schlaue Ratte, höfliche Ratte^Rata pensativa,Rata inteligente,Rata educada
+MST_QUESTSUB_TARGET_PARAM_203400102^^^^^^
+MST_QUESTSUB_TARGET_PARAM_203400103^^^^^^
+MST_QUESTSUB_TARGET_PARAM_104200101^^^^^^
+MST_QUESTSUB_TARGET_PARAM_104200201^Spare parts^^예비 부품^^^Piezas de repuesto
+MST_QUESTSUB_TARGET_PARAM_203500101^Collected Module,Collected Module,Collected Module^^모듈 회수,모듈 회수,모듈 회수^^^Módulo recogido,Módulo recogido,Módulo recogido
+MST_QUESTSUB_TARGET_PARAM_203500102^Speak to the mechanic at the tavern.^^주점에서 정비공 여자에게 말 걸기^^^Habla con el mecánico de la taberna.
+MST_QUESTSUB_TARGET_PARAM_203500201^^^^^^
+MST_QUESTSUB_TARGET_PARAM_104300101^^^^^^
+MST_QUESTSUB_TARGET_PARAM_104300201^Rescue the engineer.^^기술자 구출하기^^^Rescata al ingeniero.
+MST_QUESTSUB_TARGET_PARAM_104300202^Speak to the mechanic.^^정비공 여자에게 말 걸기^^^Habla con el mecánico.
+MST_QUESTSUB_TARGET_PARAM_104300301^^^^^^
+MST_QUESTSUB_TARGET_PARAM_104300401^^^^^^
+MST_QUESTSUB_TARGET_PARAM_104300402^^^^^^
+MST_QUESTSUB_TARGET_PARAM_104300403^^^^^^

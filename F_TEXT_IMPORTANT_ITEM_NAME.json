@@ -9,7 +9,7 @@ MST_IMPORTANT_ITEM_NAME_110^NRG Restore 30^體力恢復藥30^30 체력 회복약
 MST_IMPORTANT_ITEM_NAME_120^NRG Restore 50^體力恢復藥50^50 체력 회복약^Restaure 50 d'endurance^50 Energie wiederherstellen^Cura de 50 de energía
 MST_IMPORTANT_ITEM_NAME_160^EX Summon Ticket^EX召喚券^EX 소환티켓^Ticket d'invocation EX^EX-Beschwörungskarte^Tícket de invocación EX
 MST_IMPORTANT_ITEM_NAME_170^4★+ Guaranteed EX Ticket^★4以上確保EX召喚券^★4 이상 보장 EX 소환티켓^Ticket EX 4★+ garantie ^4★ Garantierte EX-Karte^Tícket EX de 4+★ garantizado
-MST_IMPORTANT_ITEM_NAME_180^5★+ Guaranteed EX Ticket^★5以上確保EX召喚券^★5 이상 보장 EX 소환티켓^Ticket EX 5★+ garantie ^5★ Garantierte EX-Karte^Tícket EX de 5+★ garantizado
+MST_IMPORTANT_ITEM_NAME_180^5★ Guaranteed EX Ticket^★5以上確保EX召喚券^★5 이상 보장 EX 소환티켓^Ticket EX 5★ garantie ^5★ Garantierte EX-Karte^Tícket EX de 5★ garantizado
 MST_IMPORTANT_ITEM_NAME_890^Special Pass^特別通行許可證^특별 통행 허가증^Pass spécial ^Spezialpass^Pase especial
 MST_IMPORTANT_ITEM_NAME_902^Arena Restore^鬥技場寶珠恢復藥^결투장 구슬 회복약^Restaure Arène^Arenawiederherstellung^Restablecedor de Arena
 MST_IMPORTANT_ITEM_NAME_903^Raid Restore^共鬥寶珠恢復藥^레이드 구슬 회복약^Restaure Raid^Raubzugwiederherstellung^Restablecedor de Banda
@@ -25,11 +25,12 @@ MST_IMPORTANT_ITEM_NAME_260^5★ Select Summon Ticket^★5自選召喚券^★5 �
 MST_IMPORTANT_ITEM_NAME_905^Green Clover^三葉草^초록 클로버^Trèfle^Grüner Klee^Trébol verde
 MST_IMPORTANT_ITEM_NAME_906^Naga's Blood^納迦之血^나가의 피^Sang de Naga^Nagablut^Sangre de Naga
 MST_IMPORTANT_ITEM_NAME_907^NRG Light Sphere^體力光球^빛나는 체력 구슬^Sphère de lumière d'END^Energie Lichtsphäre^Esfera luminosa de energía
-MST_IMPORTANT_ITEM_NAME_260^Use a ticket for a 50% chance to get a 5★ unit^^^Utilisez un ticket pour avoir 50% de chance d'obtenir une unité 5★^^Usa un tícket para un 50% de probabilidad de obtener una unidad de 5★
-MST_IMPORTANT_ITEM_NAME_280^Collect 10 of these tickets to exchange for a unit of your choice^^^Collectez 10 tickets pour les échanger contre une unité de votre choix^^Consigue 10 de estos tíckets para intercambiar por una unidad de tu elección
-MST_IMPORTANT_ITEM_NAME_290^NRG Restore 20^^^Restaure END 20^^Cura de 20 de energía
 MST_IMPORTANT_ITEM_NAME_908^Premium 10+1 Summon Ticket^豪華10+1召喚券^프리미엄 10+1 소환티켓^Ticket 10+1 invocations premium^10+1 Premium-Beschwörungskarte^Tícket de invocación prémium 10+1
 MST_IMPORTANT_ITEM_NAME_909^5★ Guaranteed 10+1 Summon Ticket^★5確保10+1召喚券^★5 보장 10+1 소환티켓^Ticket 10+1 invocations 5★ garanties^Garantierte 5★ 10+1 Beschwörungskarte^Tícket de invocación 10+1 de 5★ garantizada
-MST_IMPORTANT_ITEM_NAME_910^Special Return 3★ Summon Ticket^特別回饋★3召喚券^특별 보상 ★3 소환티켓^Ticket d'invocation 3★ spéciale en retour^Rückerstattung ★3 Spezialbeschwörungskarte^Tícket devolutivo especial de invocación de 3★
-MST_IMPORTANT_ITEM_NAME_911^Special Return 4★ Summon Ticket^特別回饋★4以上召喚券^특별 보상 ★4 이상 보장 소환티켓^Ticket d'invocation 4★+ spéciale en retour^Rückerstattung ★4+ Spezialbeschwörungskarte^Tícket devolutivo especial de invocación de 4+★
+MST_IMPORTANT_ITEM_NAME_910^Special Return 3★+ Summon Ticket^特別回饋★3以上召喚券^특별 보상 ★3 이상 소환티켓^Ticket d'invocation 3★+ spéciale en retour^Rückerstattung ★3+ Spezialbeschwörungskarte^Tícket devolutivo especial de invocación de 3+★
+MST_IMPORTANT_ITEM_NAME_911^Special Return 4★+ Summon Ticket^特別回饋★4以上召喚券^특별 보상 ★4 이상 소환티켓^Ticket d'invocation 4★+ spéciale en retour^Rückerstattung ★4+ Spezialbeschwörungskarte^Tícket devolutivo especial de invocación de 4+★
 MST_IMPORTANT_ITEM_NAME_270^Equipment Enhancement Orb Restore^武具強化寶珠恢復藥^장비 강화 구슬 회복약^Rétablit amélioration d'équipement^Trank zur Wiederherstellung von Juwelen f. Ereignis zur Ausrüstungsverbesserung^Restablecedor de orbe mejoraequipo
+MST_IMPORTANT_ITEM_NAME_260^5★ Select Summon Ticket^★5自選召喚券^★5 선택 소환 티켓^Ticket sélectionneur de 5★^5★Auswahl Beschwörungskarte^Tícket seleccionador de 5★
+MST_IMPORTANT_ITEM_NAME_280^2 Year Anniversary Special Summon Ticket^2週年紀念特別召喚券^2주년 기념 스페셜 소환티켓^^^Tícket especial de invocación de 2º aniversario
+MST_IMPORTANT_ITEM_NAME_290^2 Year Anniversary 4★+ Special Summon Ticket^2週年紀念★4以上確保特別召喚券^2주년 기념 ★4 이상 보장 스페셜 소환티켓^^^Tícket especial de invocación 4+★ de 2º aniversario
+MST_IMPORTANT_ITEM_NAME_912^5+1 Summon Ticket^5+1 召喚券^5+1 소환티켓^Ticket 5+1 invocations^5+1 Beschwörungskarte^Tícket de invocación 5+1

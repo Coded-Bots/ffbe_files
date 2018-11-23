@@ -274,30 +274,42 @@ MST_QUEST_NAME_1036002^Rival Products^打敗競品^타도 라이벌^Produit riva
 MST_QUEST_NAME_1036003^First Errand^初次跑腿^첫 심부름^Première course^Der erste Botengang^Primer encargo
 MST_QUEST_NAME_1036004^The True Treasure^真正的寶物^진정한 보물^Le vrai trésor^Der wahre Schatz^El tesoro verdadero
 MST_QUEST_NAME_1036005^Let's Get Outta Here!^脫逃大作戰！^너와 나의 탈출 대작전!^Sortons de là !^Lass uns bloß abhauen!^¡Salgamos de aquí!
-MST_QUEST_NAME_1037001^I Like it Sparkly^^^^^
-MST_QUEST_NAME_1038001^Wish of the Street Performer^^^^^
-MST_QUEST_NAME_1038002^Proof of Strength^^^^^
-MST_QUEST_NAME_1038003^Only the Best Ingredients^^^^^
-MST_QUEST_NAME_1038004^Business with Eleanor^^^^^
-MST_QUEST_NAME_1039001^For the Town^^^^^
-MST_QUEST_NAME_1039002^The Flavor of Dreams^^^^^
-MST_QUEST_NAME_1039003^In Search of Bravery^^^^^
-MST_QUEST_NAME_1039004^Let's Play!^^^^^
-MST_QUEST_NAME_2024001^Help Me!^^^^^
-MST_QUEST_NAME_1040001^Havoc in the Fields^^^^^
-MST_QUEST_NAME_1040002^Search for the Lost^^^^^
-MST_QUEST_NAME_1040003^The Girl of One's Dreams^^^^^
-MST_QUEST_NAME_1040004^The Lost Phantom Girl^^^^^
-MST_QUEST_NAME_1040005^Traces of the Tribe^^^^^
-MST_QUEST_NAME_1041001^Vanquish All Monsters^^^^^
-MST_QUEST_NAME_1041002^Thoughts of the Past^^^^^
-MST_QUEST_NAME_1041003^Weapons Delivery^^^^^
-MST_QUEST_NAME_1041004^Shinju's Request^^^^^
-MST_QUEST_NAME_2025001^The Lost Children^^^^^
-MST_QUEST_NAME_1001008^Save the Starving Chocobo^^^^^
-MST_QUEST_NAME_1002018^The Wisdom of Chocobos^^^^^
-MST_QUEST_NAME_1006009^A Deep Slumber's Awakening^^^^^
-MST_QUEST_NAME_1010011^Search for the Fraidy-Chocobo^^^^^
-MST_QUEST_NAME_1012004^From Where the Wind Blows^^^^^
-MST_QUEST_NAME_1013004^A Safe Well^^^^^
-MST_QUEST_NAME_1020005^Undelivered Stamp^^^^^
+MST_QUEST_NAME_1037001^I Like it Sparkly^喜歡亮晶晶的東西^반짝반짝하는 게 좋아^J'aime quand ça brille ^Ich mag, wenn's funkelt!^Me gusta cuando brilla
+MST_QUEST_NAME_1038001^Wish of the Street Performer^街頭藝人的請求^길거리 광대의 부탁^Le désir de l'artiste de rue^Die Bitte des Straßenkünstlers^El deseo del artista callejero
+MST_QUEST_NAME_1038002^Proof of Strength^強大的證明^힘의 증명^Preuve de force^Stärkebeweis^Prueba de fuerza
+MST_QUEST_NAME_1038003^Only the Best Ingredients^尋找最棒的材料^최고의 재료를 찾아^Uniquement les bons ingrédients^Nur die besten Zutaten^Solo los mejores ingredientes
+MST_QUEST_NAME_1038004^Business with Eleanor^與愛蕾諾亞的交易^엘레노아와의 거래^Négociations avec Éléonore^Geschäfte mit Eleonore^Negocios con Eleanor
+MST_QUEST_NAME_1039001^For the Town^為了小鎮^마을을 위해^Pour la ville ^Für die Stadt^Por el pueblo
+MST_QUEST_NAME_1039002^The Flavor of Dreams^再現回憶中的味道^추억의 그 맛을 다시 한번^Le goût des rêves^Der Geschmack der Erinnerungen<br>^El sabor de los sueños
+MST_QUEST_NAME_1039003^In Search of Bravery^尋求勇氣^용기를 찾아^En recherche de courage ^Auf der Suche nach Mut^En busca de coraje
+MST_QUEST_NAME_1039004^Let's Play!^一起玩吧！^같이 놀자!^Que la fête commence !^Lass uns spielen!^¡A jugar!
+MST_QUEST_NAME_2024001^Help Me!^幫幫我！^도와줘!^Aide-moi !^Hilf mir!^¡Socorro!
+MST_QUEST_NAME_1040001^Havoc in the Fields^糟蹋田地的壞傢伙^밭을 망치는 나쁜 녀석^Ravages dans les champs^Verwüstung in den Feldern^Terror en el campo
+MST_QUEST_NAME_1040002^Search for the Lost^尋找失物^잃어버린 물건 찾기^À la recherche des disparus^Suche nach dem Verschollenen^Buscando a los perdidos
+MST_QUEST_NAME_1040003^The Girl of One's Dreams^回憶中的她^추억 속의 그 아이와 다시 한번^La fille de ses rêves^Das Mädchen deiner Träume^La chica de ensueño
+MST_QUEST_NAME_1040004^The Lost Phantom Girl^迷幻之家的幽靈少女^외딴집의 유령소녀^Le fantôme égaré^Das verschollene Phantommächden^La chica fantasma perdida
+MST_QUEST_NAME_1040005^Traces of the Tribe^某種族的去向^어느 종족의 행방^Traces de la tribu^Spuren des Stammes^Rastros de la tribu
+MST_QUEST_NAME_1041001^Vanquish All Monsters^魔物掃蕩作戰^마물 소탕 작전^Vaincre tous les monstres^Bezwinge alle Monster^Derrotando a todo monstruo
+MST_QUEST_NAME_1041002^Thoughts of the Past^懷念舊時代^오래된 시대에 마음을 떨치고^Réminiscences^Gedanken an die Vergangenheit^Agua pasada
+MST_QUEST_NAME_1041003^Weapons Delivery^武器配送員^무기 배달부^Livraison d'armes^Waffenlieferung^Entrega de armas
+MST_QUEST_NAME_1041004^Shinju's Request^真珠的請求^신쥬의 소원^Requête de Shinju^Shinjus Bitte^La petición de Shinju
+MST_QUEST_NAME_2025001^The Lost Children^尋找迷路的同伴^길잃은 동료를 찾아라^Les enfants perdus^Die verlorenen Kinder^Los niños perdidos
+MST_QUEST_NAME_1001008^Save the Starving Chocobo^救救肌餓的陸行鳥^굶주린 초코보를 구하라^Sauver le chocobo affamé^Rette den hungernden Chocobo^Al rescate del chocobo hambriento
+MST_QUEST_NAME_1002018^The Wisdom of Chocobos^和陸行鳥鬥智^초코보와 지식 배틀^La sagesse des chocobos^Die Weisheit der Chocobos^La sabiduría de los chocobos
+MST_QUEST_NAME_1006009^A Deep Slumber's Awakening^從強烈睡意中醒來^초강력 자명종^Le réveil d'un sommeil de plomb^Erwachen aus tiefem Schlummer^Despertando de un sueño profundo
+MST_QUEST_NAME_1010011^Search for the Fraidy-Chocobo^尋找顫抖的陸行鳥^겁쟁이 초코보를 구하라^À la recherche du chocobo peureux^Suche nach dem ängstlichen Chocobo^En busca del chocobo asustado
+MST_QUEST_NAME_1012004^From Where the Wind Blows^尋找風源^바람의 근원을 찾아라^Là d'où le vent souffle^Von wo der Wind weht^De donde sopla el viento
+MST_QUEST_NAME_1013004^A Safe Well^安全的井水^안전한 우물^Un puits sûr^Ein sicherer Brunnen^Pozo seguro
+MST_QUEST_NAME_1020005^Undelivered Stamp^無法送達的印章^도착하지 않은 스탬프^Timbre non livré^Der unzustellbare Stempel^Sello sin entregar
+MST_QUEST_NAME_1041005^Monster Investigation^調查魔物^마물 조사^Enquête sur les monstres^Monstergutachten^Investigando monstruos
+MST_QUEST_NAME_1041006^A Lucky Amulet?^幸運護符？^행운의 부적?^Une amulette porte-bonheur ?^Ein Glückstalisman?^¿Amuleto de la suerte?
+MST_QUEST_NAME_1041007^Rebels of Visectrum^維瑟庫特拉姆的反叛軍^뷔섹트럼의 반란군^Les rebelles de Visectrum^Rebellen von Visektrum^Los rebeldes de Visectrum
+MST_QUEST_NAME_2034001^A Clever Rat^聰明的老鼠^영리해 보이는 래트^Un rat astucieux^Eine clevere Ratte^Una rata inteligente
+MST_QUEST_NAME_1042001^Gears for Reparations^修理用的齒輪^수리용 톱니바퀴^^^Herramientas de reparación
+MST_QUEST_NAME_1042002^Gathering Spare Parts^籌集備用部件^예비 부품 조달^^^Juntando piezas
+MST_QUEST_NAME_2035001^A Family Torn Asunder^被拆散的家人^뿔뿔이 흩어진 가족^^^Una familia partida en dos
+MST_QUEST_NAME_2035002^Sabotage^破壞工作^파괴 공작^^^Sabotaje
+MST_QUEST_NAME_1043001^I'll show you what I'm made of!^讓你看看我的實力！^내 실력을 보여주마!^^^¡Te voy a enseñar de lo que estoy hecho!
+MST_QUEST_NAME_1043002^Weapon Merchant's Proposal^武器商人的提案^무기 상인의 제안^^^La propuesta del mercader de armas
+MST_QUEST_NAME_1043003^Routed Enemies^擊退殘黨^잔당 퇴치^^^Enemigos de camino
+MST_QUEST_NAME_1043004^Family Values^為了家人^가족을 위해^^^Valores de familia

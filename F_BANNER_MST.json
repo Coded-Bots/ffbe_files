@@ -624,6 +624,18 @@
         "xHZj7Va5": ""
     }, 
     {
+        "1X65WPLU": "1486", 
+        "2odVXyT8": "0", 
+        "6Dgaqir0": "bnr_20171020_wp_rotation.png", 
+        "G4L0YIB2": "武具強化イベント", 
+        "T4o9heqC": "1,2,3,101,102", 
+        "Z0EN6jSh": "42185", 
+        "fSxqkF10": "40384", 
+        "rUP3Gix0": "3", 
+        "w2A76noc": "4", 
+        "xHZj7Va5": ""
+    }, 
+    {
         "1X65WPLU": "1,1,1,1", 
         "2odVXyT8": "0", 
         "6Dgaqir0": "home_20160801_eventBalloon.png", 
@@ -756,6 +768,42 @@
         "xHZj7Va5": "112,136,28,152"
     }, 
     {
+        "1X65WPLU": "2,21,757,75701,7570101", 
+        "2odVXyT8": "0", 
+        "6Dgaqir0": "home_20170421_eventBalloon.png", 
+        "G4L0YIB2": "吹き出し_NieR：Automata", 
+        "T4o9heqC": "1,2,3,4", 
+        "Z0EN6jSh": "51100", 
+        "fSxqkF10": "50042", 
+        "rUP3Gix0": "7", 
+        "w2A76noc": "5", 
+        "xHZj7Va5": "112,136,28,152"
+    }, 
+    {
+        "1X65WPLU": "https://lapis-prod.gumi.sg/lapisProd/app/php/web/statics/bahamut_raid.php?SumallyId=400117", 
+        "2odVXyT8": "0", 
+        "6Dgaqir0": "home_icon", 
+        "G4L0YIB2": "Star Ocean Achievement Banner", 
+        "T4o9heqC": "1,2,3,101,102", 
+        "Z0EN6jSh": "61100", 
+        "fSxqkF10": "50080", 
+        "rUP3Gix0": "1", 
+        "w2A76noc": "3", 
+        "xHZj7Va5": ""
+    }, 
+    {
+        "1X65WPLU": "https://lapis-prod.gumi.sg/lapisProd/app/php/web/statics/bahamut_raid.php?SumallyId=400121", 
+        "2odVXyT8": "0", 
+        "6Dgaqir0": "home_icon", 
+        "G4L0YIB2": "吹き出し_レイド", 
+        "T4o9heqC": "1,2,3,101,102", 
+        "Z0EN6jSh": "61100", 
+        "fSxqkF10": "50108", 
+        "rUP3Gix0": "1", 
+        "w2A76noc": "3", 
+        "xHZj7Va5": ""
+    }, 
+    {
         "1X65WPLU": "https://lapis-prod.gumi.sg/lapisProd/app/php/web/statics/bahamut_raid.php?SumallyId= 9000001", 
         "2odVXyT8": "0", 
         "6Dgaqir0": "home_icon_efreet", 
@@ -804,7 +852,7 @@
         "xHZj7Va5": ""
     }, 
     {
-        "1X65WPLU": "https://lapis-prod.gumi.sg/lapisProd/app/php/web/statics/bahamut_raid.php?SumallyId=400112", 
+        "1X65WPLU": "https://lapis-prod.gumi.sg/lapisProd/app/php/web/statics/bahamut_raid.php?SumallyId=400129", 
         "2odVXyT8": "0", 
         "6Dgaqir0": "", 
         "G4L0YIB2": "超大型機械生命体破壊指令", 
@@ -837,6 +885,66 @@
         "fSxqkF10": "60010", 
         "rUP3Gix0": "1", 
         "w2A76noc": "3", 
+        "xHZj7Va5": ""
+    }, 
+    {
+        "1X65WPLU": "2,21,757,75701,7570101", 
+        "2odVXyT8": "0", 
+        "6Dgaqir0": "home_eventBalloon.png", 
+        "G4L0YIB2": "Star Ocean Home Balloon", 
+        "T4o9heqC": "1,2,3,101,102", 
+        "Z0EN6jSh": "51100", 
+        "fSxqkF10": "60013", 
+        "rUP3Gix0": "7", 
+        "w2A76noc": "5", 
+        "xHZj7Va5": "112,136,28,152"
+    }, 
+    {
+        "1X65WPLU": "https://lapis-prod.gumi.sg/lapisProd/app/php/web/statics/bahamut_raid.php?SumallyId=400119", 
+        "2odVXyT8": "0", 
+        "6Dgaqir0": "", 
+        "G4L0YIB2": "エスタークチャレンジ", 
+        "T4o9heqC": "1,2,3,101,102", 
+        "Z0EN6jSh": "61100", 
+        "fSxqkF10": "60014", 
+        "rUP3Gix0": "1", 
+        "w2A76noc": "3", 
+        "xHZj7Va5": ""
+    }, 
+    {
+        "1X65WPLU": "2,21,757,75701,7570101", 
+        "2odVXyT8": "0", 
+        "6Dgaqir0": "home_eventBalloon.png", 
+        "G4L0YIB2": "亡失都市ディパン", 
+        "T4o9heqC": "1,2,3,101,102", 
+        "Z0EN6jSh": "51100", 
+        "fSxqkF10": "60016", 
+        "rUP3Gix0": "7", 
+        "w2A76noc": "5", 
+        "xHZj7Va5": "112,136,28,152"
+    }, 
+    {
+        "1X65WPLU": "https://lapis-prod.gumi.sg/lapisProd/app/php/web/statics/arms_reward.php?EventId=70007", 
+        "2odVXyT8": "0", 
+        "6Dgaqir0": "", 
+        "G4L0YIB2": "武具強化イベント　達成報酬", 
+        "T4o9heqC": "1,2,3,101,102", 
+        "Z0EN6jSh": "2000", 
+        "fSxqkF10": "62016", 
+        "rUP3Gix0": "1", 
+        "w2A76noc": "7", 
+        "xHZj7Va5": ""
+    }, 
+    {
+        "1X65WPLU": "1453", 
+        "2odVXyT8": "0", 
+        "6Dgaqir0": "", 
+        "G4L0YIB2": "武具強化イベント　お知らせ", 
+        "T4o9heqC": "1,2,3,101,102", 
+        "Z0EN6jSh": "3000", 
+        "fSxqkF10": "63014", 
+        "rUP3Gix0": "3", 
+        "w2A76noc": "7", 
         "xHZj7Va5": ""
     }, 
     {
@@ -1147,6 +1255,54 @@
         "T4o9heqC": "1,2,3,101,102", 
         "Z0EN6jSh": "51100", 
         "fSxqkF10": "900025", 
+        "rUP3Gix0": "7", 
+        "w2A76noc": "5", 
+        "xHZj7Va5": "112,136,28,152"
+    }, 
+    {
+        "1X65WPLU": "https://lapis-prod.gumi.sg/lapisProd/app/php/web/statics/bahamut_raid.php?SumallyId=9000008", 
+        "2odVXyT8": "0", 
+        "6Dgaqir0": "home_icon", 
+        "G4L0YIB2": "Deus Ex Achievement Banner", 
+        "T4o9heqC": "1,2,3,101,102", 
+        "Z0EN6jSh": "61100", 
+        "fSxqkF10": "900026", 
+        "rUP3Gix0": "1", 
+        "w2A76noc": "3", 
+        "xHZj7Va5": ""
+    }, 
+    {
+        "1X65WPLU": "2,21,757,75701,7570101", 
+        "2odVXyT8": "0", 
+        "6Dgaqir0": "home_eventBalloon.png", 
+        "G4L0YIB2": "Deus Ex Home Balloon", 
+        "T4o9heqC": "1,2,3,101,102", 
+        "Z0EN6jSh": "51100", 
+        "fSxqkF10": "900027", 
+        "rUP3Gix0": "7", 
+        "w2A76noc": "5", 
+        "xHZj7Va5": "112,136,28,152"
+    }, 
+    {
+        "1X65WPLU": "https://lapis-prod.gumi.sg/lapisProd/app/php/web/statics/bahamut_raid.php?SumallyId=9000009", 
+        "2odVXyT8": "0", 
+        "6Dgaqir0": "home_icon", 
+        "G4L0YIB2": "Darkness Awakens Achievement Banner", 
+        "T4o9heqC": "1,2,3,101,102", 
+        "Z0EN6jSh": "61100", 
+        "fSxqkF10": "900028", 
+        "rUP3Gix0": "1", 
+        "w2A76noc": "3", 
+        "xHZj7Va5": ""
+    }, 
+    {
+        "1X65WPLU": "2,21,757,75701,7570101", 
+        "2odVXyT8": "0", 
+        "6Dgaqir0": "home_eventBalloon.png", 
+        "G4L0YIB2": "Darkness Awakens Home Balloon", 
+        "T4o9heqC": "1,2,3,101,102", 
+        "Z0EN6jSh": "51100", 
+        "fSxqkF10": "900029", 
         "rUP3Gix0": "7", 
         "w2A76noc": "5", 
         "xHZj7Va5": "112,136,28,152"

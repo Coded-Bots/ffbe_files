@@ -85,8 +85,8 @@
     }, 
     {
         "4JZgSr3A": "15", 
-        "6uvHX2JG": "Black Magic forbidden", 
-        "G4L0YIB2": "Black Magic", 
+        "6uvHX2JG": "複数回アビリティ禁止", 
+        "G4L0YIB2": "複数回アビリティ", 
         "I0YW6Piv": "15"
     }, 
     {
@@ -106,5 +106,35 @@
         "6uvHX2JG": "Parameter boosts and reductions forbidden", 
         "G4L0YIB2": "Status altering abilities", 
         "I0YW6Piv": "23"
+    }, 
+    {
+        "4JZgSr3A": "50", 
+        "6uvHX2JG": "Black Magic forbidden", 
+        "G4L0YIB2": "Black Magic", 
+        "I0YW6Piv": "50"
+    }, 
+    {
+        "4JZgSr3A": "51", 
+        "6uvHX2JG": "White Magic forbidden", 
+        "G4L0YIB2": "White Magic", 
+        "I0YW6Piv": "51"
+    }, 
+    {
+        "4JZgSr3A": "52", 
+        "6uvHX2JG": "Recovery abilities forbidden", 
+        "G4L0YIB2": "Recovery abilities", 
+        "I0YW6Piv": "52"
+    }, 
+    {
+        "4JZgSr3A": "53", 
+        "6uvHX2JG": "Parameter boosts and reductions forbidden", 
+        "G4L0YIB2": "Status altering abilities", 
+        "I0YW6Piv": "53"
+    }, 
+    {
+        "4JZgSr3A": "99", 
+        "6uvHX2JG": "Same as ID 1 but for SP events", 
+        "G4L0YIB2": "NA", 
+        "I0YW6Piv": "99"
     }
 ]

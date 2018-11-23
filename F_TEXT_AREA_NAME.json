@@ -30,7 +30,7 @@ MST_AREA_NAME_131^Olderion Federation^聯邦國家奧爾德里昂^올데리온 �
 MST_AREA_NAME_901^Onward to the Chamber of Arms^移動至十二武具之間^십이무구의 틈새로 이동^Transition vers la chambre des armes^Wechsel in die Waffenkammer^Avanzando hacia la Cámara de las reliquias
 MST_AREA_NAME_900^Expedition - Into the Abyss^高級探索·探求深淵^땅의 신전·심연으로의 탐구^Exploration PRO - Plongez dans l'Abysse^Expedition - In den Abgrund^Búsqueda en el Abismo - Exploración
 MST_AREA_NAME_141^Zoldaad Empire^佐爾達多帝國^졸다드 제국^Empire de Zoldaad^Zoldaad-Imperium^Imperio de Zoldaad
-MST_AREA_NAME_706^Akademeia^魔導院聖櫃朱雀^마도원 페리시티리움 주작^Akademeia^Akademeia^La Academia
+MST_AREA_NAME_706^Akademeia^魔導院聖櫃朱雀^마도원 페리시티리움 주작^Akademeia^Akademie^La Academia
 MST_AREA_NAME_707^The Crystal Tower^水晶塔^크리스탈 타워^La Tour de Cristal^Der Kristallturm^Torre del Cristal
 MST_AREA_NAME_708^Mana Mystery^瑪娜的巨大秘密^위대한 마나의 비밀^Le Mystère du Mana^Das Geheimnis des Mana^El misterio del Mana
 MST_AREA_NAME_709^The Big Bridge^大橋^빅 브릿지^Le Grand Pont^Die Große Brücke^Gran puente
@@ -117,7 +117,7 @@ MST_AREA_NAME_753^Alexandria Castle^亞力山德利亞城^알렉산드리아 성
 MST_AREA_NAME_754^Escape from Alexandria Castle^逃離亞力山德利亞城^알렉산드리아 성 탈출^Fuite du château d'Alexandrie^Entkomme aus der Burgstadt Alexandria^Huída del Castillo de Alexandria
 MST_AREA_NAME_755^Way of the Warrior^武士的生存之道^무사의 삶^Voie du guerrier^Weg des Kriegers^El camino del guerrero
 MST_AREA_NAME_756^Unit Intro Quest^兵員介紹任務^유닛 소개 퀘스트^Quête d'introduction d'unité^Einheiten-Auftrag^Misión introductoria de unidad
-MST_AREA_NAME_757^Destroy the Machine Lifeform^超大型機械生命體破壞指令^초대형 기계생명체 파괴 지령^Destruction de la forme de vie mécanique^Zerstöre das Maschinenwesen^La destrucción del ser mecánico
+MST_AREA_NAME_757^Destroy the Machine Lifeform^超大型機械生命體破壞指令^초대형 기계생명체 파괴 지령^Destruction de la forme de vie mécanique^Zerstöre das Maschinenwesen^Acaba con la forma de vida mecánica
 MST_AREA_NAME_758^Gagazet^靈峰嘎嘎札特^영봉 가가제트^Gagazet^Gagazet^Gagazet
 MST_AREA_NAME_759^Mt. Gagazet - Exploration^嘎嘎札特山・探索^가가제트 산·탐색^Mont Gagazet - Exploration^Berg Gagazet - Erkundung^Monte Gagazet - Exploración
 MST_AREA_NAME_760^The White Sage and the Magic Cane^白賢者與魔法杖^백의 현자와 마법의 지팡이^Le sage blanc et le bâton magique^Der weiße Weise und der Zauberstab^La sabia blanca y el bastón mágico
@@ -199,7 +199,7 @@ MST_AREA_NAME_808^The Dreaded Wandering Lands^破壞與恐怖的浮游大陸^파
 MST_AREA_NAME_809^30 Million Downloads Raffle^合計3000萬寶石禮物活動^총 3000만 라피스 선물 이벤트^Loterie des 30 millions de téléchargements^30 Millionen Downloads Tombola^Sorteo por las 30 millones de descargas
 MST_AREA_NAME_810^The Clash on Big Bridge^大橋突入作戰^빅 브릿지 돌입 작전^L'Assaut du Grand Pont^Duell auf der Großen Brücke^Invasión de Gran Puente
 MST_AREA_NAME_811^Big Bridge - Exploration^大橋·探索^빅 브릿지·탐색^Grand Pont - Exploration^Große Brücke – Erkundung^Gran Puente - Exploración
-MST_AREA_NAME_812^Sieghard, the Magnificent^華麗的吉克哈特^화려함의 지크하르트^Sieghard le Magnifique^Sieghard der Wunderbare^Sieghard el Magnífico
+MST_AREA_NAME_812^Sieghard, the Magnificent^華麗的吉克哈特^화려한 지크하르트^Sieghard le Magnifique^Sieghard der Wunderbare^Sieghard el Magnífico
 MST_AREA_NAME_813^Tomb of the Silversmith^白銀工匠遺跡^은세공사의 무덤^Le Tombeau de l'Orfèvre^Grab des Silberschmieds^Tumba del platero
 MST_AREA_NAME_814^God of Chaos^混沌之神^혼돈의 신^Le Dieu du Chaos^Gott des Chaos^Dios del caos
 MST_AREA_NAME_815^Cave of Shadows^暗黑洞窟^암흑의 동굴^La Grotte des Ombres^Höhle der Dunkelheit^Cueva de la Oscuridad
@@ -221,4 +221,7 @@ MST_AREA_NAME_1161^Magistellus^馬基斯特爾斯^마기스텔스^Magistellus^Ma
 MST_AREA_NAME_1162^Operations Map^作戰地圖^작전 지도^Carte des opérations^Strategen Karte^Mapa de operaciones
 MST_AREA_NAME_944^Vault of Hidden Treasures^秘密的寶物庫^비밀의 보물창고^Coffre aux trésors cachés^Gewölbe der verborgenen Schätze^Cámara de los Tesoros Escondidos
 MST_AREA_NAME_945^35 Million Downloads Raffle^3500萬下載 抽獎^3천5백만 다운로드 추첨^Loterie des 35 millions de téléchargements^Tombola für 35 Millionen Downloads^Sorteo por las 35 millones de descargas
+MST_AREA_NAME_843^Destroy the Machine Lifeform^超大型機械生命體破壞指令^초대형 기계생명체 파괴 지령^Destruction de la forme de vie mécanique^Zerstöre das Maschinenwesen^Acaba con la forma de vida mecánica
+MST_AREA_NAME_844^The Formidable Engels^強敵：恩格斯^강적: 엥겔스^L'incroyable Engels^Der Mächtige Engels^El temible Engels
 MST_AREA_NAME_946^Revelations of Darkness^黑暗啟示錄^어둠의 계시록^Révélations ténébreuses ^Enthüllungen der Finsternis^Revelaciones oscuras
+MST_AREA_NAME_947^Trial of Vengeance^復仇之審判^복수의 시련^Défi de la vengeance^Prüfung der Rache^Desafío de la venganza

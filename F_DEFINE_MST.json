@@ -1385,6 +1385,11 @@
         "YjIUDJ97": "90003,90004,90005"
     }, 
     {
+        "AK8Nn7ta": "PICTURE_STORY_REWARDSUMMON", 
+        "G4L0YIB2": "PICTURE_STORY_REWARDSUMMON", 
+        "YjIUDJ97": "90007"
+    }, 
+    {
         "AK8Nn7ta": "RAID_MENU_ROUTINE_MARGIN_TIME", 
         "G4L0YIB2": "レイドメニュー定期通信マージン時間", 
         "YjIUDJ97": "60"
@@ -1445,6 +1450,26 @@
         "YjIUDJ97": "109"
     }, 
     {
+        "AK8Nn7ta": "REWARDSUMMON_DAILYLIMIT", 
+        "G4L0YIB2": "Reward Summon Daily Limit", 
+        "YjIUDJ97": "5"
+    }, 
+    {
+        "AK8Nn7ta": "REWARDSUMMON_MILESTONE", 
+        "G4L0YIB2": "Reward Summon Milestone", 
+        "YjIUDJ97": "100"
+    }, 
+    {
+        "AK8Nn7ta": "REWARDSUMMON_MILESTONE_REWARD", 
+        "G4L0YIB2": "Reward Summon Milestone Reward", 
+        "YjIUDJ97": "50:1:500:100"
+    }, 
+    {
+        "AK8Nn7ta": "REWARDSUMMON_SFX", 
+        "G4L0YIB2": "Reward Summon SFX", 
+        "YjIUDJ97": "5:40:2,20:40:2,35:40:2,50:40:2,65:40:2,85:40:2,100:3:2,115:3:2,135:3:2,155:3:2,180:3:2,210:3:2,240:3:2,275:3:2,317:65:2"
+    }, 
+    {
         "AK8Nn7ta": "SG_GLOBAL_ITEM_ICON_9992_1", 
         "G4L0YIB2": "Arena Orb Replenishment", 
         "YjIUDJ97": "image/icon/icon_arena_energy.png"
@@ -1463,6 +1488,16 @@
         "AK8Nn7ta": "SPPT_DEF", 
         "G4L0YIB2": "", 
         "YjIUDJ97": "54321"
+    }, 
+    {
+        "AK8Nn7ta": "SP_CHALLENGE_TICKER_DISP_TIME", 
+        "G4L0YIB2": "ミッションクリアテロップの表示時間", 
+        "YjIUDJ97": "3.5"
+    }, 
+    {
+        "AK8Nn7ta": "SP_CHALLENGE_TICKER_FLOW_SPEED", 
+        "G4L0YIB2": "ミッションクリアテロップの移動速度", 
+        "YjIUDJ97": "0.16"
     }, 
     {
         "AK8Nn7ta": "SUPER_AFFINITY_REWARD_AFFINITY_PATTERN_ID", 
@@ -1553,6 +1588,11 @@
         "AK8Nn7ta": "UNIT_SELL_BULK_CNT", 
         "G4L0YIB2": "ユニット売却一括件数", 
         "YjIUDJ97": "50"
+    }, 
+    {
+        "AK8Nn7ta": "UPDATE_TERMS_OF_SERVICE_SWITCH_ID", 
+        "G4L0YIB2": "利用規約更新判定スイッチ", 
+        "YjIUDJ97": "10000140"
     }, 
     {
         "AK8Nn7ta": "WORLD_CHANGE_EFFECT_SWITCH_ID", 

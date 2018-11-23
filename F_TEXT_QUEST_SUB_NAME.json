@@ -365,38 +365,59 @@ MST_QUESTSUB_NAME_103600501^Let's Get Outta Here!^脫逃大作戰！^너와 나�
 MST_QUESTSUB_NAME_100100801^Save the Starving Chocobo^救救肌餓的陸行鳥^굶주린 초코보를 구하라^Sauver le chocobo affamé ^Rette den hungernden Chocobo^Rescatando al chocobo hambriento
 MST_QUESTSUB_NAME_100201801^The Wisdom of Chocobos^和陸行鳥鬥智^초코보와 지식 배틀^La sagesse des chocobos^Die Weisheit der Chocobos^La sabiduría de los chocobos
 MST_QUESTSUB_NAME_100600901^A Deep Slumber's Awakening^從強烈睡意中醒來^초강력 자명종^Réveillé d'un profond sommeil^Erwacht aus tiefstem Schlummer^Despertando de un sueño profundo
-MST_QUESTSUB_NAME_101001101^Search for the Fraidy-Chocobo^尋找懺抖的陸行鳥^겁쟁이 초코보를 구하라^À la recherche du chocobo peureux^Suche den ängstlichen Chocobi^En busca del chocobo cobarde
+MST_QUESTSUB_NAME_101001101^Search for the Fraidy-Chocobo^尋找顫抖的陸行鳥^겁쟁이 초코보를 구하라^À la recherche du chocobo peureux^Suche nach dem ängstlichen Chocobo^En busca del chocobo cobarde
 MST_QUESTSUB_NAME_101200401^From Where the Wind Blows^尋找風源^바람의 근원을 찾아라^Trouver la source du vent^Der Quell des Windes^El origen del viento
 MST_QUESTSUB_NAME_101300401^A Safe Well^安全的井水^안전한 우물^Un puit sûr^Sicheres Brunnenwasser^Pozo seguro
-MST_QUESTSUB_NAME_102000501^Undelivered Stamp^無法寄出的郵票^도착하지 않은 스탬프^Timbre non reçu^Der unzustellbare Stempel^Lleno sin enviar
-MST_QUESTSUB_NAME_103700101^I Like it Sparkly^^^^^
-MST_QUESTSUB_NAME_103800101^Wish of the Street Performer^^^^^
-MST_QUESTSUB_NAME_103800201^Proof of Strength^^^^^
-MST_QUESTSUB_NAME_103800301^Only the Best Ingredients^^^^^
-MST_QUESTSUB_NAME_103800401^Business with Eleanor 1^^^^^
-MST_QUESTSUB_NAME_103800402^Business with Eleanor 2^^^^^
-MST_QUESTSUB_NAME_103800403^Business with Eleanor 3^^^^^
-MST_QUESTSUB_NAME_103800404^Business with Eleanor 4^^^^^
-MST_QUESTSUB_NAME_103900101^For the Town^^^^^
-MST_QUESTSUB_NAME_103900201^The Flavor of Dreams^^^^^
-MST_QUESTSUB_NAME_103900301^In Search of Bravery^^^^^
-MST_QUESTSUB_NAME_103900401^Let's Play!^^^^^
-MST_QUESTSUB_NAME_202400101^Help Me!^^^^^
-MST_QUESTSUB_NAME_104000101^Havoc in the Fields^^^^^
-MST_QUESTSUB_NAME_104000201^Search for the Lost^^^^^
-MST_QUESTSUB_NAME_104000301^The Girl of One's Dreams^^^^^
-MST_QUESTSUB_NAME_104000401^The Lost Phantom Girl 1^^^^^
-MST_QUESTSUB_NAME_104000402^The Lost Phantom Girl 2^^^^^
-MST_QUESTSUB_NAME_104000403^The Lost Phantom Girl 3^^^^^
-MST_QUESTSUB_NAME_104000404^The Lost Phantom Girl 4^^^^^
-MST_QUESTSUB_NAME_104000501^Traces of the Tribe 1^^^^^
-MST_QUESTSUB_NAME_104000502^Traces of the Tribe 2^^^^^
-MST_QUESTSUB_NAME_104100101^Vanquish All Monsters^^^^^
-MST_QUESTSUB_NAME_104100201^Thoughts of the Past^^^^^
-MST_QUESTSUB_NAME_104100301^Weapons Delivery 1^^^^^
-MST_QUESTSUB_NAME_104100302^Weapons Delivery 2^^^^^
-MST_QUESTSUB_NAME_104100401^Shinju's Request 1^^^^^
-MST_QUESTSUB_NAME_104100402^Shinju's Request 2^^^^^
-MST_QUESTSUB_NAME_104100403^Shinju's Request 3^^^^^
-MST_QUESTSUB_NAME_202500101^The Lost Children 1^^^^^
-MST_QUESTSUB_NAME_202500102^The Lost Children 2^^^^^
+MST_QUESTSUB_NAME_102000501^Undelivered Stamp^無法送達的印章^도착하지 않은 스탬프^Timbre non reçu^Der unzustellbare Stempel^Lleno sin enviar
+MST_QUESTSUB_NAME_103700101^I Like it Sparkly^喜歡亮晶晶的東西^반짝반짝하는 게 좋아^J'aime quand ça brille ^Ich mag, wenn's funkelt!^Me gusta cuando brilla
+MST_QUESTSUB_NAME_103800101^Wish of the Street Performer^街頭藝人的請求^길거리 광대의 부탁^Le désir de l'artiste de rue^Die Bitte des Straßenkünstlers^El deseo del artista callejero
+MST_QUESTSUB_NAME_103800201^Proof of Strength^強大的證明^힘의 증명^Preuve de force^Stärkebeweis^Prueba de fuerza
+MST_QUESTSUB_NAME_103800301^Only the Best Ingredients^尋找最棒的材料^최고의 재료를 찾아^Uniquement les bons ingrédients^Nur die besten Zutaten^Solo los mejores ingredientes
+MST_QUESTSUB_NAME_103800401^Business with Eleanor 1^與愛蕾諾亞的交易①^엘레노아와의 거래①^Négociations avec Éléonore  1^Geschäfte mit Eleonore 1^Negocios con Eleanor 1
+MST_QUESTSUB_NAME_103800402^Business with Eleanor 2^與愛蕾諾亞的交易②^엘레노아와의 거래②^Négociations avec Éléonore  2^Geschäfte mit Eleonore 2^Negocios con Eleanor 2
+MST_QUESTSUB_NAME_103800403^Business with Eleanor 3^與愛蕾諾亞的交易③^엘레노아와의 거래③^Négociations avec Éléonore  3^Geschäfte mit Eleonore 3^Negocios con Eleanor 3
+MST_QUESTSUB_NAME_103800404^Business with Eleanor 4^與愛蕾諾亞的交易④^엘레노아와의 거래④^Négociations avec Éléonore  4^Geschäfte mit Eleonore 4^Negocios con Eleanor 4
+MST_QUESTSUB_NAME_103900101^For the Town^為了小鎮^마을을 위해^Pour la ville ^Für die Stadt^Por el pueblo
+MST_QUESTSUB_NAME_103900201^The Flavor of Dreams^再現回憶中的味道^추억의 그 맛을 다시 한번^Le goût des rêves^Der Geschmack der Erinnerungen<br>^El sabor de los sueños
+MST_QUESTSUB_NAME_103900301^In Search of Bravery^尋求勇氣^용기를 찾아^En recherche de courage ^Auf der Suche nach Mut^En busca de coraje
+MST_QUESTSUB_NAME_103900401^Let's Play!^一起玩吧！^같이 놀자!^Que la fête commence !^Lass uns spielen!^¡A jugar!
+MST_QUESTSUB_NAME_202400101^Help Me!^幫幫我！^도와줘!^Aide-moi !^Hilf mir!^¡Socorro!
+MST_QUESTSUB_NAME_104000101^Havoc in the Fields^糟蹋田地的壞傢伙^밭을 망치는 나쁜 녀석^Ravages dans les champs^Verwüstung in den Feldern^Terror en el campo
+MST_QUESTSUB_NAME_104000201^Search for the Lost^尋找失物^잃어버린 물건 찾기^À la recherche des disparus^Suche nach dem Verschollenen^Buscando a los perdidos
+MST_QUESTSUB_NAME_104000301^The Girl of One's Dreams^回憶中的她^추억 속의 그 아이와 다시 한번^La fille de ses rêves^Das Mädchen der Erinnerungen^La chica de ensueño
+MST_QUESTSUB_NAME_104000401^The Lost Phantom Girl 1^迷幻之家的幽靈少女①^외딴집의 유령소녀①^Le fantôme égaré 1^Das verschollene Phantommächden 1^La chica fantasma perdida 1
+MST_QUESTSUB_NAME_104000402^The Lost Phantom Girl 2^迷幻之家的幽靈少女②^외딴집의 유령소녀②^Le fantôme égaré 2^Das verschollene Phantommächden 2^La chica fantasma perdida 2
+MST_QUESTSUB_NAME_104000403^The Lost Phantom Girl 3^迷幻之家的幽靈少女③^외딴집의 유령소녀③^Le fantôme égaré 3^Das verschollene Phantommächden 3^La chica fantasma perdida 3
+MST_QUESTSUB_NAME_104000404^The Lost Phantom Girl 4^迷幻之家的幽靈少女④^외딴집의 유령소녀④^Le fantôme égarée 4^Das verschollene Phantommächden 4^La chica fantasma perdida 4
+MST_QUESTSUB_NAME_104000501^Traces of the Tribe 1^某種族的去向①^어느 종족의 행방①^Traces de la tribu 1^Spuren der Stämme 1^Rastros de la tribu 1
+MST_QUESTSUB_NAME_104000502^Traces of the Tribe 2^某種族的去向②^어느 종족의 행방②^Traces de la tribu 2^Spuren der Stämme 2^Rastros de la tribu 2
+MST_QUESTSUB_NAME_104100101^Vanquish All Monsters^魔物掃蕩作戰^마물 소탕 작전^Vaincre tous les monstres^Bezwinge alle Monster^Derrotando a todo monstruo
+MST_QUESTSUB_NAME_104100201^Thoughts of the Past^懷念舊時代^오래된 시대에 마음을 떨치고^Réminiscences^Gedanken an die Vergangenheit^Agua pasada
+MST_QUESTSUB_NAME_104100301^Weapons Delivery 1^武器配送員①^무기 배달부①^Livraison d'armes 1^Waffenlieferung 1^Entrega de armas 1
+MST_QUESTSUB_NAME_104100302^Weapons Delivery 2^武器配送員②^무기 배달부②^Livraison d'armes 2^Waffenlieferung 2^Entrega de armas 2
+MST_QUESTSUB_NAME_104100401^Shinju's Request 1^真珠的請求①^신쥬의 소원①^Requête de Shinju 1^Shinjus Bitte 1^La petición de Shinju 1
+MST_QUESTSUB_NAME_104100402^Shinju's Request 2^真珠的請求②^신쥬의 소원②^Requête de Shinju 2^Shinjus Bitte 2^La petición de Shinju 2
+MST_QUESTSUB_NAME_104100403^Shinju's Request 3^真珠的請求③^신쥬의 소원③^Requête de Shinju 3^Shinjus Bitte 3^La petición de Shinju 3
+MST_QUESTSUB_NAME_202500101^The Lost Children 1^尋找迷路的同伴①^길잃은 동료를 찾아라①^Les enfants perdus 1^Die verlorenen Kinder 1^Los niños perdidos 1
+MST_QUESTSUB_NAME_202500102^The Lost Children 2^尋找迷路的同伴②^길잃은 동료를 찾아라②^Les enfants perdus 2^Die verlorenen Kinder 2^Los niños perdidos 2
+MST_QUESTSUB_NAME_104100501^Monster Investigation^調查魔物^마물 조사^Enquête sur les monstres^Monstergutachten^Investigando monstruos
+MST_QUESTSUB_NAME_104100601^A Lucky Amulet? 1^幸運護符？①^행운의 부적?①^Une amulette porte-bonheur ? 1^Ein Glückstalisman? 1^¿Amuleto de la suerte? 1
+MST_QUESTSUB_NAME_104100602^A Lucky Amulet? 2^幸運護符？②^행운의 부적?②^Une amulette porte-bonheur ? 2^Ein Glückstalisman? 2^¿Amuleto de la suerte? 2
+MST_QUESTSUB_NAME_104100603^A Lucky Amulet? 3^幸運護符？③^행운의 부적?③^Une amulette porte-bonheur ? 3^Ein Glückstalisman? 3^¿Amuleto de la suerte? 3
+MST_QUESTSUB_NAME_104100701^Rebels of Visectrum 1^維瑟庫特拉姆的反叛軍①^뷔섹트럼의 반란군①^Les rebelles de Visectrum 1^Rebellen von Visektrum 1^Los rebeldes de Visectrum 1
+MST_QUESTSUB_NAME_104100702^Rebels of Visectrum 2^維瑟庫特拉姆的反叛軍②^뷔섹트럼의 반란군②^Les rebelles de Visectrum 2^Rebellen von Visektrum 2^Los rebeldes de Visectrum 2
+MST_QUESTSUB_NAME_203400101^A Clever Rat 1^聰明的老鼠①^영리해 보이는 래트①^Un rat astucieux 1^Eine clevere Ratte 1^Una rata inteligente 1
+MST_QUESTSUB_NAME_203400102^A Clever Rat 2^聰明的老鼠②^영리해 보이는 래트②^Un rat astucieux 2^Eine clevere Ratte 2^Una rata inteligente 2
+MST_QUESTSUB_NAME_203400103^A Clever Rat 3^聰明的老鼠③^영리해 보이는 래트^Un rat astucieux 3^Eine clevere Ratte 3^Una rata inteligente 3
+MST_QUESTSUB_NAME_104200101^Gears for Reparations^修理用的齒輪^수리용 톱니바퀴^^^Herramientas de reparación
+MST_QUESTSUB_NAME_104200201^Gathering Spare Parts^籌集備用部件^예비 부품 조달^^^Juntando piezas
+MST_QUESTSUB_NAME_203500101^A Family Torn Asunder 1^被拆散的家人①^뿔뿔이 흩어진 가족①^^^Una familia partida en dos 1
+MST_QUESTSUB_NAME_203500102^A Family Torn Asunder 2^被拆散的家人②^뿔뿔이 흩어진 가족②^^^Una familia partida en dos 2
+MST_QUESTSUB_NAME_203500201^Sabotage^破壞工作^파괴 공작^^^Sabotaje
+MST_QUESTSUB_NAME_104300101^I'll show you what I'm made of!^讓你看看我的實力！^내 실력을 보여주마!^^^¡Te voy a enseñar de lo que estoy hecho!
+MST_QUESTSUB_NAME_104300201^Weapon Merchant's Proposal 1^武器商人的提案①^무기 상인의 제안①^^^La propuesta del mercader de armas 1
+MST_QUESTSUB_NAME_104300202^Weapon Merchant's Proposal 2^武器商人的提案②^무기 상인의 제안②^^^La propuesta del mercader de armas 2
+MST_QUESTSUB_NAME_104300301^Routed Enemies^擊退殘黨^잔당 퇴치^^^Enemigos de camino
+MST_QUESTSUB_NAME_104300401^Family Values 1^為了家人①^가족을 위해①^^^Valores de familia 1
+MST_QUESTSUB_NAME_104300402^Family Values 2^為了家人②^가족을 위해②^^^Valores de familia 2
+MST_QUESTSUB_NAME_104300403^Family Values 3^為了家人③^가족을 위해③^^^Valores de familia 3

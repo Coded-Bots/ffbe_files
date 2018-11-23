@@ -199,7 +199,7 @@ MST_TELEPO_NAME_1420102^Tool Shop^道具店^도구 상점^Boutique d'outils^Werk
 MST_TELEPO_NAME_1420103^Inn^旅店^여인숙^Gîte^Herberge^Posada
 MST_TELEPO_NAME_1420201^Entrance^入口^입구^Entrée^Eingangsbereich^Entrada
 MST_TELEPO_NAME_1420202^Ability Shop^能力店^어빌리티 상점^Boutique d'aptitudes^Fertigkeiten-Shop^Habilidades
-MST_TELEPO_NAME_1420203^Mama Chocobo's Den^母親陸行鳥的住處^엄마 초코보의 거처^Antre de maman chocobo^Mama Chocobos Zuhause^Madriguera de mamá chocobo
+MST_TELEPO_NAME_1420203^Mama Chocobo's Den^母親陸行鳥的住處^엄마 초코보의 거처^Antre de maman chocobo^Mama Chocobos Zuhause^Hogar de Mamá Chocobo
 MST_TELEPO_NAME_1420301^Entrance^入口^입구^Entrée^Eingangsbereich^Entrada
 MST_TELEPO_NAME_1420302^Inn^旅店^여인숙^Gîte^Herberge^Posada
 MST_TELEPO_NAME_1420303^Tool Shop^道具店^도구 상점^Boutique d'outils^Werkzeugladen^Utensilios
@@ -212,16 +212,16 @@ MST_TELEPO_NAME_1420501^Entrance^入口^입구^Entrée^Eingangsbereich^Entrada
 MST_TELEPO_NAME_1510101^Entrance^入口^입구^Entrée^Eingangsbereich^Entrada
 MST_TELEPO_NAME_1510102^Weaponsmith^武器店^무기 상점^Armurier^Waffenschmied^Armas
 MST_TELEPO_NAME_1510103^Armorer^防具店^방어구 상점^Marchand d'armures^Plattner^Armaduras
-MST_TELEPO_NAME_1510104^^^^^^
-MST_TELEPO_NAME_1510105^Lowtown^^^^^
-MST_TELEPO_NAME_1510106^^^^^^
-MST_TELEPO_NAME_1510201^^^^^^
+MST_TELEPO_NAME_1510104^Wealthy District^富人區^부유층^Quartier riche^Reichenviertel^Distrito acaudalado
+MST_TELEPO_NAME_1510105^Lowtown^貧民窟^빈민가^Bas quartiers^Rabanastre Unterstadt^Barrio bajo
+MST_TELEPO_NAME_1510106^Eleanor's Cottage^愛蕾諾亞的別墅^엘레노아의 별장^Maison d'Éléonore^Eleanor's Landhaus^Casita de Eleanor
+MST_TELEPO_NAME_1510201^Mama Chocobo^母親陸行鳥前^엄마 초코보 앞^Maman chocobo ^Mama Chocobo^Mamá chocobo
 MST_TELEPO_NAME_1510301^Entrance^入口^입구^Entrée^Eingangsbereich^Entrada
-MST_TELEPO_NAME_1510302^^^^^^
+MST_TELEPO_NAME_1510302^Gunsmith^火槍專賣店^총기 전문점^Fabricant de fusils^Büchsenmacher^Armas de fuego
 MST_TELEPO_NAME_1510303^Tool Shop^道具店^도구 상점^Boutique d'outils^Werkzeugladen^Utensilios
 MST_TELEPO_NAME_1510401^Entrance^入口^입구^Entrée^Eingangsbereich^Entrada
-MST_TELEPO_NAME_1510402^^^^^^
+MST_TELEPO_NAME_1510402^Tool Shop^道具店^도구 상점^Boutique d'outils^Werkzeugladen^Utensilios
 MST_TELEPO_NAME_1520101^Entrance^入口^입구^Entrée^Eingangsbereich^Entrada
 MST_TELEPO_NAME_1520102^Inn^旅店^여인숙^Gîte^Herberge^Posada
-MST_TELEPO_NAME_1520103^^^^^^
-MST_TELEPO_NAME_1520104^^^^^^
+MST_TELEPO_NAME_1520103^Weaponsmith/Armorer^武器·防具店^무기·방어구 상점^Armurier/Marchand d'armures^Waffenschmied/Plattner^Armas/Armaduras
+MST_TELEPO_NAME_1520104^Tool Shop/Gunsmith^道具店·火槍專賣店^도구 상점·총기 전문점^Boutique d'outils/Fabricant de fusils^Werkzeugschmied/Büchsenmacher^Utensilios/Armas de fuego

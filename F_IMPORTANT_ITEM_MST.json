@@ -203,7 +203,7 @@
         "2dfixko3": "900", 
         "9J6uRe8f": "99", 
         "Do3sv8yH": "9999", 
-        "G4L0YIB2": "Ancient Coin", 
+        "G4L0YIB2": "古幣", 
         "Z0EN6jSh": "900"
     }, 
     {
@@ -212,7 +212,7 @@
         "2dfixko3": "901", 
         "9J6uRe8f": "99", 
         "Do3sv8yH": "9999", 
-        "G4L0YIB2": "Advance Token", 
+        "G4L0YIB2": "ワープトークン", 
         "Z0EN6jSh": "901"
     }, 
     {
@@ -221,8 +221,17 @@
         "2dfixko3": "902", 
         "9J6uRe8f": "99", 
         "Do3sv8yH": "9999", 
-        "G4L0YIB2": "Arena Restore", 
+        "G4L0YIB2": "アリーナオーブ回復薬", 
         "Z0EN6jSh": "902"
+    }, 
+    {
+        "0HUPxDf1": "1300000004", 
+        "25oxcKwN": "", 
+        "2dfixko3": "903", 
+        "9J6uRe8f": "99", 
+        "Do3sv8yH": "9999", 
+        "G4L0YIB2": "レイドオーブ回復薬", 
+        "Z0EN6jSh": "903"
     }, 
     {
         "0HUPxDf1": "1300000006", 
@@ -230,7 +239,7 @@
         "2dfixko3": "904", 
         "9J6uRe8f": "99", 
         "Do3sv8yH": "9999", 
-        "G4L0YIB2": "Expansion Voucher", 
+        "G4L0YIB2": "拡張クーポン", 
         "Z0EN6jSh": "904"
     }, 
     {
@@ -283,7 +292,7 @@
         "25oxcKwN": "", 
         "2dfixko3": "910", 
         "9J6uRe8f": "99", 
-        "Do3sv8yH": "999", 
+        "Do3sv8yH": "9999", 
         "G4L0YIB2": "Special Return 3★ Summon Ticket", 
         "Z0EN6jSh": "910"
     }, 
@@ -292,8 +301,17 @@
         "25oxcKwN": "", 
         "2dfixko3": "911", 
         "9J6uRe8f": "99", 
-        "Do3sv8yH": "999", 
+        "Do3sv8yH": "9999", 
         "G4L0YIB2": "Special Return 4★ Summon Ticket", 
         "Z0EN6jSh": "911"
+    }, 
+    {
+        "0HUPxDf1": "912", 
+        "25oxcKwN": "", 
+        "2dfixko3": "912", 
+        "9J6uRe8f": "99", 
+        "Do3sv8yH": "9999", 
+        "G4L0YIB2": "5+1 Summon Ticket", 
+        "Z0EN6jSh": "912"
     }
 ]

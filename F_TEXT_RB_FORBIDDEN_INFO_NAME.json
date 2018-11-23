@@ -9,13 +9,15 @@ MST_RB_FORBIDDEN_INFO_NAME_8^Light attacks^光屬性攻擊^빛속성 공격^Atta
 MST_RB_FORBIDDEN_INFO_NAME_9^Dark attacks^暗屬性攻擊^어둠속성 공격^Attaque de ténèbres^Dunkelangriffe^Elemento oscuridad
 MST_RB_FORBIDDEN_INFO_NAME_10^Parameter boosts^狀態提升系^능력치 상승 계열^Augmentation des paramètres ^Werte-Erhöhung^Potenciadores
 MST_RB_FORBIDDEN_INFO_NAME_11^Parameter reductions^狀態降低系^능력치 감소 계열^Diminution des paramètres^Werte-Senkung^Debilitadores
-MST_RB_FORBIDDEN_INFO_NAME_12^Physical attack combos^物理連擊系^연속 물리공격 계열^Combos de dégâts physiques^Physische Angriffkombos^Ataques múltiples
-MST_RB_FORBIDDEN_INFO_NAME_13^Magic attack combos^魔法連擊系^연속 마법공격 계열^Combos de dégâts magiques^Magische Angriffkombos^Magia múltiple
+MST_RB_FORBIDDEN_INFO_NAME_12^Physical attack combos^物理連擊系^연속 물리 공격 계열^Combos de dégâts physiques^Physische Angriffkombos^Ataques múltiples
+MST_RB_FORBIDDEN_INFO_NAME_13^Magic attack combos^魔法連擊系^연속 마법 공격 계열^Combos de dégâts magiques^Magische Angriffkombos^Magia múltiple
 MST_RB_FORBIDDEN_INFO_NAME_14^Status ailments^施加異常狀態系^상태이상 부여 계열^Altération d'état^Zustandsveränderungen^Estados alterados
-MST_RB_FORBIDDEN_INFO_NAME_15^Black Magic^黑魔法^흑마법 ^Magie noire^Schwarzmagie^Magia negra
-MST_RB_FORBIDDEN_INFO_NAME_16^White Magic^白魔法^백마법^Magie blanche^Weißmagie^Magia blanca
-MST_RB_FORBIDDEN_INFO_NAME_17^Recovery abilities^恢復^회복 어빌리티^Aptitudes de récupération ^Heilungsfertigkeiten^Habilidades de recuperación
-MST_RB_FORBIDDEN_INFO_NAME_20^Area effect abilities^範圍效果^광역 어빌리티^Aptitudes à effet de zone^Bereichsfertigkeiten^Habilidades de grupo
-MST_RB_FORBIDDEN_INFO_NAME_21^Physical damage abilities^物理攻擊^물리피해 어빌리티^Aptitudes de dégâts physiques^Physische Angriffsfertigkeiten^Habilidades de daño físico
-MST_RB_FORBIDDEN_INFO_NAME_22^Elemental attacks^屬性攻擊^속성 공격 어빌리티^Aptitudes élémentaires ^Elementarangriffe^Ataques elementales
-MST_RB_FORBIDDEN_INFO_NAME_23^Status altering abilities^強化・弱化狀態^상태 변경 어빌리티^Aptitudes altérant l'état^Statusfertigkeiten^Habilidades de cambio de estado
+MST_RB_FORBIDDEN_INFO_NAME_15^Multiple use abilities^多次能力^다중 공격 계열^Aptitudes à usages multiples^Mehrfachgebrauch-Fertigkeiten^Habilidades de uso múltiple
+MST_RB_FORBIDDEN_INFO_NAME_50^Black Magic^黑魔法^흑마법 ^Magie noire^Schwarzmagie^Magia negra
+MST_RB_FORBIDDEN_INFO_NAME_51^White Magic^白魔法^백마법^Magie blanche^Weißmagie^Magia blanca
+MST_RB_FORBIDDEN_INFO_NAME_52^Recovery abilities^恢復^회복 계열^Aptitudes de récupération ^Heilungsfertigkeiten^Habilidades de recuperación
+MST_RB_FORBIDDEN_INFO_NAME_20^Area effect abilities^範圍效果^광역 계열^Aptitudes à effet de zone^Bereichsfertigkeiten^Habilidades de grupo
+MST_RB_FORBIDDEN_INFO_NAME_21^Physical damage abilities^物理攻擊^물리 피해^Aptitudes de dégâts physiques^Physische Angriffsfertigkeiten^Habilidades de daño físico
+MST_RB_FORBIDDEN_INFO_NAME_22^Elemental attacks^屬性攻擊^속성 공격^Aptitudes élémentaires ^Elementarangriffe^Ataques elementales
+MST_RB_FORBIDDEN_INFO_NAME_53^Status altering abilities^強化・弱化狀態^상태 변경^Aptitudes altérant l'état^Statusfertigkeiten^Habilidades de cambio de estado
+MST_RB_FORBIDDEN_INFO_NAME_99^Permanently forbidden abilities^僅限共通禁止能力^영구 금지 어빌리티^Aptitudes bannies à jamais^Vorübergehend verbotene Fertigkeiten^Habilidades prohibidas permanentemente

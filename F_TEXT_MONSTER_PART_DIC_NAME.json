@@ -83,7 +83,7 @@ MST_MONSTERPARTDICTIONARY_NAME_2010010^Belmodar^貝爾摩達^벨모다^Belmodar^
 MST_MONSTERPARTDICTIONARY_NAME_2010020^Barbarus^巴巴拉斯^바바러스^Barbarus^Barbatus^Barbarus
 MST_MONSTERPARTDICTIONARY_NAME_2010110^Ipooh^異熊^이푸^Ours mal léché^Ypuh^Ipú
 MST_MONSTERPARTDICTIONARY_NAME_2010130^Purusa^普魯沙熊^푸루샤^Purusha^Prusha^Purusa
-MST_MONSTERPARTDICTIONARY_NAME_2010210^Coeurl^長鬚豹^커얼^Cœurl^Quahl^Bengal
+MST_MONSTERPARTDICTIONARY_NAME_2010210^Coeurl^長鬚豹^커얼^Cœurl^Coeurl^Bengal
 MST_MONSTERPARTDICTIONARY_NAME_2010220^Werepanther^變異豹^변종 커얼^Jaguar-garou^Werpanther^Toxipantera
 MST_MONSTERPARTDICTIONARY_NAME_2020010^Siren^塞壬^세이렌^Sirène^Sirene^Sirena
 MST_MONSTERPARTDICTIONARY_NAME_2020110^Rukh^鵬鳥^루크^Rukh^Rukh^Rukh
@@ -129,7 +129,7 @@ MST_MONSTERPARTDICTIONARY_NAME_3010320^Moogle Eater^莫古利殺手^모그리 �
 MST_MONSTERPARTDICTIONARY_NAME_3020010^Zu^祖^즈^Zu^Zuu^Zu
 MST_MONSTERPARTDICTIONARY_NAME_3020020^Rudra^樓陀羅^루드라^Rudra^Rudra^Rudra
 MST_MONSTERPARTDICTIONARY_NAME_3030010^Amoebozoa^變形蟲^아메바^Amibozoaire^Amoebozoa^Amebozoa
-MST_MONSTERPARTDICTIONARY_NAME_3030110^Architeuth^漩渦海怪^소용돌이 오징어^Kraken^Architeuth^Architeuthis
+MST_MONSTERPARTDICTIONARY_NAME_3030110^Architeuth^漩渦海怪^소용돌이 오징어^Kraken^Architeuth^Maelstrom
 MST_MONSTERPARTDICTIONARY_NAME_3050010^Hill Gigas^山嶺巨人^힐 기가스^Gigas^Berghüne^Gigas
 MST_MONSTERPARTDICTIONARY_NAME_3050110^Veritas of the Dark^常暗之維利亞斯^영원한 어둠의 베리어스^Veritas des Ténèbres^Veritas der Finstere^Veritas el tenebroso
 MST_MONSTERPARTDICTIONARY_NAME_3060020^Europa^歐羅巴^에우로페^Europe^Europa^Europa
@@ -149,7 +149,7 @@ MST_MONSTERPARTDICTIONARY_NAME_1050130^Dark Wizard^黑暗巫師^어둠의 마도
 MST_MONSTERPARTDICTIONARY_NAME_1050320^Zombie Soldier^殭屍兵^좀비 병사^Soldat zombie^Zombiesoldat^Soldado zombi
 MST_MONSTERPARTDICTIONARY_NAME_1120320^Akhkhazu^阿哈茲^아크카주^Akhkhazu^Dimmekur^Akhkhazu
 MST_MONSTERPARTDICTIONARY_NAME_2010030^Armored Beast^裝甲獸^철갑야수^Bête en armure^Panzerbestie^Alimaña con armadura
-MST_MONSTERPARTDICTIONARY_NAME_2010230^Bandercoeurl^斑攫豹^검은 커얼^Cœurl d'émeraude^Banderquahl^Banderbengal
+MST_MONSTERPARTDICTIONARY_NAME_2010230^Bandercoeurl^斑攫豹^검은 커얼^Cœurl d'émeraude^Bandercoeurl^Banderbengal
 MST_MONSTERPARTDICTIONARY_NAME_2020220^Sprinter^駭鳥^질주자^Sprinteur^Sprinter^Velocista
 MST_MONSTERPARTDICTIONARY_NAME_2050010^Ziggurat Gigas^鎮塔巨人^지구라트 기가스^Gigas du ziggurat^Zikkurat-Gigas^Zigurat gigas
 MST_MONSTERPARTDICTIONARY_NAME_2050310^Ramuh^拉姆^라무^Ramuh^Ramuh^Lamú
@@ -229,7 +229,7 @@ MST_MONSTERPARTDICTIONARY_NAME_4070210^2-Headed Dragon^雙頭巨龍^투헤드 �
 MST_MONSTERPARTDICTIONARY_NAME_2050910^PSICOM Enforcer^PSICOM治安兵^PSICOM 치안병^Exécuteur PSICOM^PSIKOM-Streiter^Combatiente PSICOM
 MST_MONSTERPARTDICTIONARY_NAME_2051010^PSICOM Aerial Recon^PSICOM飛空偵察兵^PSICOM 비공정찰병^Éclaireur aérien PSICOM^PSIKOM-Luftaufklärer^Explorador PSICOM
 MST_MONSTERPARTDICTIONARY_NAME_2010510^Pantheron^獵豹烈爪^강화 발톱 게파르트^Pantheron^Panteron^Huargo asesino
-MST_MONSTERPARTDICTIONARY_NAME_2051110^PSICOM Marauder^PSICOM特殊戦術士^PSICOM 특수전술사^Maraudeur PSICOM^PSIKOM-Marodeur^Sicario PSICOM
+MST_MONSTERPARTDICTIONARY_NAME_2051110^PSICOM Marauder^PSICOM特殊戰術士^PSICOM 특수전술사^Maraudeur PSICOM^PSIKOM-Marodeur^Sicario PSICOM
 MST_MONSTERPARTDICTIONARY_NAME_4010210^Beta Behemoth^改造型凶惡巨獸^개량형 베히모스^Béhémoth bêta^Beta-Behemoth^Bégimo X
 MST_MONSTERPARTDICTIONARY_NAME_4060210^Myrmidon^鬥士機甲兵^기갑병 크리거^Myrmidon^Orion-Drohne^Mirmidón
 MST_MONSTERPARTDICTIONARY_NAME_4060310^Manasvin Warmech^重攻擊騎摩那斯^중공격 기병 마나스빈^Mécaguerrier Manasvin^Manasvin Mechatron^Manasvin
@@ -356,7 +356,7 @@ MST_MONSTERPARTDICTIONARY_NAME_1080180^Crimson Elemental^深紅元素^진홍색 
 MST_MONSTERPARTDICTIONARY_NAME_1080270^Heimdallr^海姆達爾^헤임달^Heimdallr^Heimdallr^Heimdallr
 MST_MONSTERPARTDICTIONARY_NAME_2010070^Destroyer^破壞魔^파괴의 벨모다^Destructeur^Zerstörer^Destructor
 MST_MONSTERPARTDICTIONARY_NAME_2010160^Evil Bear^惡魔熊^악마 곰^Ours maléfique^Teufesbär^Oso vil
-MST_MONSTERPARTDICTIONARY_NAME_2010280^Stealth Coeurl^隱形長鬚豹^스텔스 커얼^Cœurl furtif^Tarnquahl^Bengal traicionero
+MST_MONSTERPARTDICTIONARY_NAME_2010280^Stealth Coeurl^隱形長鬚豹^스텔스 커얼^Cœurl furtif^Tarncoeurl^Bengal traicionero
 MST_MONSTERPARTDICTIONARY_NAME_2010910^Byblos^比布羅斯^비블로스^Byblos^Byblos^Byblos
 MST_MONSTERPARTDICTIONARY_NAME_2040220^Ice Lizard^寒冰蜥蜴^아이스 도마뱀^Kaïmahn Gelé^Eisechse^Reptil de hielo
 MST_MONSTERPARTDICTIONARY_NAME_2040610^Page 32^32頁^32 페이지^Page 32^Seite 32^Página 32
@@ -419,7 +419,7 @@ MST_MONSTERPARTDICTIONARY_NAME_1051110^Aldore Bladed Soldier^阿爾多爾劍鬥�
 MST_MONSTERPARTDICTIONARY_NAME_1051020^Aldore Officer^阿爾多爾將校^알도르 장교^Officier d'Aldore^Aldore-Offizier^Oficial de Aldore
 MST_MONSTERPARTDICTIONARY_NAME_2060920^A-Type Magitek Armor+^A式魔導裝甲改^개량형 A식 마도 아머^Armure magitech type-A +^Magitek-Mech-Typ-A+^Unidad Magitec tipo A+
 MST_MONSTERPARTDICTIONARY_NAME_2090330^Scolopendra^少棘蜈蚣^스콜펜드라^Scolopendre^Scolopendra^Escolopendra
-MST_MONSTERPARTDICTIONARY_NAME_2090160^Red Crow^血紅巨蠍^레드 클로^Pince rouge^Rote Krähe^Cuervo rojo
+MST_MONSTERPARTDICTIONARY_NAME_2090160^Red Crow^血紅巨蠍^레드 클로^Pince rouge^Rotschere^Cuervo rojo
 MST_MONSTERPARTDICTIONARY_NAME_1090180^Wolf Spider^狼蜘蛛^늑대거미^Araignée loup^Wolfsspinne^Araña lobo
 MST_MONSTERPARTDICTIONARY_NAME_1120170^Dark Soul^黑暗靈魂^어둠의 영혼^Âme obscure^Dunkle Seele^Alma oscura
 MST_MONSTERPARTDICTIONARY_NAME_1110870^Moranensis^墨蘭花^벌레잡이제비꽃^Moranensis^Moranensis^Moranensis
@@ -442,7 +442,7 @@ MST_MONSTERPARTDICTIONARY_NAME_2056110^Ronin^流浪武士^스로닌^Ronin^Taubkl
 MST_MONSTERPARTDICTIONARY_NAME_2090610^Tarantula^狼蛛^타란툴라^Tarentule^Tarantel^Tarántula
 MST_MONSTERPARTDICTIONARY_NAME_3041310^Arachne^阿剌克涅^아르케니^Arachné^Arachne^Aracnolia
 MST_MONSTERPARTDICTIONARY_NAME_2041510^Mindflayer^精神吸取者^마인드플레어^Flagelleur mental^Gedankenschinder^Mentalis
-MST_MONSTERPARTDICTIONARY_NAME_2011510^Elder Coeurl^上古長鬚豹^엘더 커얼^Cœurl aîné^Alter Quahl^Bengal gris
+MST_MONSTERPARTDICTIONARY_NAME_2011510^Elder Coeurl^上古長鬚豹^엘더 커얼^Cœurl aîné^Alter Coeurl^Bengal gris
 MST_MONSTERPARTDICTIONARY_NAME_2056210^Yojimbo^保鑣^요짐보^Yojimbo^Yojimbo^Yojimbo
 MST_MONSTERPARTDICTIONARY_NAME_4120210^Ariadne^阿麗雅德妮^아리아드네^Ariadne^Ariadne^Ariadna
 MST_MONSTERPARTDICTIONARY_NAME_1110020^Human Trap^惡魔植物^악마의 덩굴^Plante carnivore^Menschenfalle^Planta devoradora
@@ -485,7 +485,7 @@ MST_MONSTERPARTDICTIONARY_NAME_1040030^Bloody Eye^血色眼^혈홍안^Œil sangu
 MST_MONSTERPARTDICTIONARY_NAME_2020250^Cassowary^鶴鴕^화식조^Casoar^Kasuar^Casocigüeña
 MST_MONSTERPARTDICTIONARY_NAME_3020050^Rukh^胡兀鷲^로크^Rukh^Rukh^Rukh
 MST_MONSTERPARTDICTIONARY_NAME_1010260^Dark Wolf^盲狼^암흑의 늑대^Loup noir^Dunkelwolf^Lobo ciego
-MST_MONSTERPARTDICTIONARY_NAME_2010230^Bandercoeurl^斑攫豹^검은 커얼^Cœurl d'émeraude^Banderquahl^Banderbengal
+MST_MONSTERPARTDICTIONARY_NAME_2010230^Bandercoeurl^斑攫豹^검은 커얼^Cœurl d'émeraude^Bandercoeurl^Banderbengal
 MST_MONSTERPARTDICTIONARY_NAME_2010070^Destroyer^破壞魔^파괴의 벨모다^Destructeur^Zerstörer^Destructor
 MST_MONSTERPARTDICTIONARY_NAME_2020130^Lenergia^胡兀鷲^레네르지아^Lenergia^Renerjia^Lenergia
 MST_MONSTERPARTDICTIONARY_NAME_3120030^Cursed Knight^詛咒騎士^저주받은 기사^Chevalier maudit^Verfluchter Ritter^Caballero maldito
@@ -493,7 +493,7 @@ MST_MONSTERPARTDICTIONARY_NAME_1030020^Poison Toad^毒蛙^맹독 두꺼비^Crapa
 MST_MONSTERPARTDICTIONARY_NAME_1020050^Mega Bat^巨型蝙蝠^메가 박쥐^Méga noctule^Megafledermaus^Megaciélago
 MST_MONSTERPARTDICTIONARY_NAME_2040120^Abyssal^深淵惡魔^심연의 포식자^Abysse^Abyss^Abisal
 MST_MONSTERPARTDICTIONARY_NAME_2020110^Rukh^鵬鳥^루크^Rukh^Rukh^Rukh
-MST_MONSTERPARTDICTIONARY_NAME_3040130^Batory^斑特利^바토리^Batory^Batory^Batory
+MST_MONSTERPARTDICTIONARY_NAME_3040130^Batory^斑特利^바토리^Batory^Báthory^Batory
 MST_MONSTERPARTDICTIONARY_NAME_2080360^Leanan-Sidhe^里南希^랴논시^Leanan-Sidhe^Leanan-Sid^Leanan-Sidhe
 MST_MONSTERPARTDICTIONARY_NAME_1082110^Glacon^克嵐森^글라송^Glaçon^Glacon^Glacon
 MST_MONSTERPARTDICTIONARY_NAME_5020010^Glacial^古拉希亞爾^글레이셜^Glacial^Glacial^Glacial
@@ -505,7 +505,7 @@ MST_MONSTERPARTDICTIONARY_NAME_3010060^Dhorme Chimera^多爾姆奇美拉^돔 키
 MST_MONSTERPARTDICTIONARY_NAME_1051230^Aldore Jailer^阿爾多爾看守^알도르 간수^Geôlier d'Aldore^Aldore-Wärter^Carcelero de Aldore
 MST_MONSTERPARTDICTIONARY_NAME_3052110^Hyoh of the Delta Star^四鬥星獵豹^사성투사 효우^Hyoh de l'étoile Delta^Vier Sterne Hyou^Hyou de la estrella Delta
 MST_MONSTERPARTDICTIONARY_NAME_2010830^Nubian^努比安^뉴비아^Nubian^Nubian^Nubian
-MST_MONSTERPARTDICTIONARY_NAME_2010280^Stealth Coeurl^隱形長鬚豹^스텔스 커얼^Cœurl furtif^Tarnquahl^Bengal traicionero
+MST_MONSTERPARTDICTIONARY_NAME_2010280^Stealth Coeurl^隱形長鬚豹^스텔스 커얼^Cœurl furtif^Tarncoeurl^Bengal traicionero
 MST_MONSTERPARTDICTIONARY_NAME_3011210^Fenrir^芬里爾^펜리르^Fenrir^Fenrir^Fenril
 MST_MONSTERPARTDICTIONARY_NAME_1010010^Dire Rat^變異鼠^시궁쥐^Rat-garou^Werratte^Rata vil
 MST_MONSTERPARTDICTIONARY_NAME_1090010^Hornet^大黃蜂^말벌^Frelon^Hornisse^Anofeles
@@ -625,8 +625,8 @@ MST_MONSTERPARTDICTIONARY_NAME_3011310^Grendel^格倫戴爾^그렌델^Grendel^Gr
 MST_MONSTERPARTDICTIONARY_NAME_4120410^Seymour Flux^希摩爾終極變異體^시모어 종 이체^Seymour Sublimé^Seymor Obscura^Seymour Beta
 MST_MONSTERPARTDICTIONARY_NAME_4010510^Behemoth^凶惡巨獸^베히모스^Béhémoth^Behemoth^Bégimo
 MST_MONSTERPARTDICTIONARY_NAME_2055310^Sol^索菲拉^솔^Sol^Sol^Solfuego
-MST_MONSTERPARTDICTIONARY_NAME_5040210^Chaotic Darkness^混沌之暗^혼돈의 어둠^Obscurité chaotique^Dunkles Chaos^Oscuridad caótica
-MST_MONSTERPARTDICTIONARY_NAME_5040211^Chaotic Darkness^混沌之暗^혼돈의 어둠^Obscurité chaotique^Dunkles Chaos^Oscuridad caótica
+MST_MONSTERPARTDICTIONARY_NAME_5040210^Chaotic Darkness^混沌之暗^혼돈의 어둠^Obscurité chaotique^Verwirrende Dunkelheit^Oscuridad caótica
+MST_MONSTERPARTDICTIONARY_NAME_5040211^Chaotic Darkness^混沌之暗^혼돈의 어둠^Obscurité chaotique^Verwirrende Dunkelheit^Oscuridad caótica
 MST_MONSTERPARTDICTIONARY_NAME_2040610^Page 32^32頁^32 페이지^Page 32^Seite 32^Página 32
 MST_MONSTERPARTDICTIONARY_NAME_2040710^Page 64^64頁^64 페이지^Page 64^Seite 64^Página 64
 MST_MONSTERPARTDICTIONARY_NAME_2040810^Page 256^256頁^256 페이지^Page 256^Seite 256^Página 256
@@ -656,7 +656,7 @@ MST_MONSTERPARTDICTIONARY_NAME_4061120^Elnath - Right Arm^艾魯那特·右臂^�
 MST_MONSTERPARTDICTIONARY_NAME_4061130^Elnath - Left Arm^艾魯那特·左臂^엘나스·왼팔^Elnath - Bras gauche^Elnato - Linker Arm^Elnath - Brazo izquierdo
 MST_MONSTERPARTDICTIONARY_NAME_2010830^Nubian^努比安^뉴비아^Nubian^Nubian^Nubian
 MST_MONSTERPARTDICTIONARY_NAME_1010280^Lindbur Wolf^迅狼^린블 울프^Ouargue d'élite^Lindburwolf^Rimburg
-MST_MONSTERPARTDICTIONARY_NAME_2010280^Stealth Coeurl^隱形長鬚豹^스텔스 커얼^Cœurl furtif^Tarnquahl^Bengal traicionero
+MST_MONSTERPARTDICTIONARY_NAME_2010280^Stealth Coeurl^隱形長鬚豹^스텔스 커얼^Cœurl furtif^Tarncoeurl^Bengal traicionero
 MST_MONSTERPARTDICTIONARY_NAME_2010050^Soilmodar^索爾摩達^소일모다^Soilmodar^Soilmodar^Soilmodar
 MST_MONSTERPARTDICTIONARY_NAME_1020160^Pyrolisk^魔雞獸^파이로리스크^Pyrolisk^Pyrolisk^Pirolisco
 MST_MONSTERPARTDICTIONARY_NAME_2010770^Rishyasringa^鹿角仙馬^리쉬야슈링가^Rishyasringa^Rishyasringa^Rishyasringa
@@ -957,8 +957,8 @@ MST_MONSTERPARTDICTIONARY_NAME_4010510^Behemoth^凶惡巨獸^베히모스^Béhé
 MST_MONSTERPARTDICTIONARY_NAME_4010510^Behemoth^凶惡巨獸^베히모스^Béhémoth^Behemoth^Bégimo
 MST_MONSTERPARTDICTIONARY_NAME_2055310^Sol^索菲拉^솔^Sol^Sol^Solfuego
 MST_MONSTERPARTDICTIONARY_NAME_2055310^Sol^索菲拉^솔^Sol^Sol^Solfuego
-MST_MONSTERPARTDICTIONARY_NAME_5040210^Chaotic Darkness^混沌之暗^혼돈의 어둠^Obscurité chaotique^Dunkles Chaos^Oscuridad caótica
-MST_MONSTERPARTDICTIONARY_NAME_5040211^Chaotic Darkness^混沌之暗^혼돈의 어둠^Obscurité chaotique^Dunkles Chaos^Oscuridad caótica
+MST_MONSTERPARTDICTIONARY_NAME_5040210^Chaotic Darkness^混沌之暗^혼돈의 어둠^Obscurité chaotique^Verwirrende Dunkelheit^Oscuridad caótica
+MST_MONSTERPARTDICTIONARY_NAME_5040211^Chaotic Darkness^混沌之暗^혼돈의 어둠^Obscurité chaotique^Verwirrende Dunkelheit^Oscuridad caótica
 MST_MONSTERPARTDICTIONARY_NAME_2040610^Page 32^32頁^32 페이지^Page 32^Seite 32^Página 32
 MST_MONSTERPARTDICTIONARY_NAME_2040710^Page 64^64頁^64 페이지^Page 64^Seite 64^Página 64
 MST_MONSTERPARTDICTIONARY_NAME_2040810^Page 256^256頁^256 페이지^Page 256^Seite 256^Página 256
@@ -1005,7 +1005,7 @@ MST_MONSTERPARTDICTIONARY_NAME_1020130^Poison Eagle^毒雞獸^맹독수리^Aigle
 MST_MONSTERPARTDICTIONARY_NAME_2010710^Crazy Horse^瘋馬^광귀마^Licorne^Verrücktes Pferd^Caballo loco
 MST_MONSTERPARTDICTIONARY_NAME_2010070^Destroyer^破壞魔^파괴의 벨모다^Destructeur^Zerstörer^Destructor
 MST_MONSTERPARTDICTIONARY_NAME_2010070^Destroyer^破壞魔^파괴의 벨모다^Destructeur^Zerstörer^Destructor
-MST_MONSTERPARTDICTIONARY_NAME_2010230^Bandercoeurl^斑攫豹^검은 커얼^Cœurl d'émeraude^Banderquahl^Banderbengal
+MST_MONSTERPARTDICTIONARY_NAME_2010230^Bandercoeurl^斑攫豹^검은 커얼^Cœurl d'émeraude^Bandercoeurl^Banderbengal
 MST_MONSTERPARTDICTIONARY_NAME_2020140^Huri Kamuy^福里神威^후리카무이^Huri Kamuy^Huri Kamuy^Huri Kamuy
 MST_MONSTERPARTDICTIONARY_NAME_1090120^Black Widow^黑寡婦^검은 과부거미^Veuve noire^Schwarze Witwe^Viuda negra
 MST_MONSTERPARTDICTIONARY_NAME_1080060^Ignus Fatuus^鬼火^도깨비불^Feu follet^Ignus Fatuus^Fuego fatuo
@@ -1058,8 +1058,8 @@ MST_MONSTERPARTDICTIONARY_NAME_10000017^Sandy^多格^도그^Samanta^Dug^Sandy
 MST_MONSTERPARTDICTIONARY_NAME_10000018^Cindy^瑪格^마그^Maria^Mug^Cindy
 MST_MONSTERPARTDICTIONARY_NAME_10000019^Mindy^拉格^라그^Anabella^Rug^Mindy
 MST_MONSTERPARTDICTIONARY_NAME_2060520^Centuar Knight^人馬騎兵^켄타우로 나이트^Centaure^Zentaur^Centauro
-MST_MONSTERPARTDICTIONARY_NAME_10000020^Skeleton Wright^骷髏工匠^스켈레톤 졸병^Artisan squelettique^Skelettknecht^Esqueleto peón
-MST_MONSTERPARTDICTIONARY_NAME_10000021^Skeleton King^骷髏之王^스켈레톤 킹^Roi squelette^Skelettkönig^Esqueleto rey
+MST_MONSTERPARTDICTIONARY_NAME_10000020^Skeleton Wright^骷髏工匠^스켈레톤 졸병^Artisan squelettique^Skelettknecht^Peón esqueleto
+MST_MONSTERPARTDICTIONARY_NAME_10000021^Skeleton King^骷髏之王^스켈레톤 킹^Roi squelette^Skelettkönig^Rey esqueleto
 MST_MONSTERDICTIONARY_NAME_10000022^Dark Resentful Spirit^暗黑怨靈^분노한 어둠의 정령^Esprit aigri obscur^Dunkler Geist der Verachtung^Espíritu chirriante oscuro
 MST_MONSTERDICTIONARY_NAME_10000023^Giant Gingerbread Man^薑餅巨人^거대 진저맨^Bonhomme d'épices géant^Riesiger Lebkuchenmann^Hombre de jengibre gigante
 MST_MONSTERDICTIONARY_NAME_10000024^Giant Gingerbread Man^薑餅巨人^거대 진저맨^Bonhomme d'épices géant^Riesiger Lebkuchenmann^Hombre de jengibre gigante
@@ -1068,5 +1068,7 @@ MST_MONSTERDICTIONARY_NAME_10000026^Kanshou^干將^간장^Kanshou^Kanshou^Kansho
 MST_MONSTERDICTIONARY_NAME_10000027^Bakuya^莫邪^막야^Bakuya^Bakuya^Bakuya
 MST_MONSTERDICTIONARY_NAME_10000028^Apep^阿佩普^아펩^Apep^Apep^Apep
 MST_MONSTERDICTIONARY_NAME_10000029^King Apep^阿佩普王^킹 아펩^Roi Apep^König Apep^Rey Apep
-MST_MONSTERDICTIONARY_NAME_10000030^Golden URGA Mstitel^^^^Goldener URGA Mstitel^
-MST_MONSTERDICTIONARY_NAME_10000031^URGA Mstitel^^^^URGA Mstitel^
+MST_MONSTERDICTIONARY_NAME_10000030^Golden URGA Mstitel^黃金烏爾加復仇者^황금 URGA Mstitel^^Goldener URGA Mstitel^
+MST_MONSTERDICTIONARY_NAME_10000031^URGA Mstitel^烏爾加復仇者^URGA Mstitel^^URGA Mstitel^
+MST_MONSTERDICTIONARY_NAME_10000032^Mechanical Ogre^機甲食人魔^기계 오거^^^
+MST_MONSTERDICTIONARY_NAME_10000033^Viktor Marchenko^維克托·馬爾琴科^빅토르 마르첸코^^^

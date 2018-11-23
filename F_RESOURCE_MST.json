@@ -66,6 +66,15 @@
         "3LHdc6Qa": "unit", 
         "6uvHX2JG": "", 
         "81fTkEDP": "", 
+        "9ZCEWn0z": "101008", 
+        "dX0SkK3j": "100", 
+        "drE35YcF": "unit", 
+        "pJ56sAEo": "unit8_common.cpk"
+    }, 
+    {
+        "3LHdc6Qa": "unit", 
+        "6uvHX2JG": "", 
+        "81fTkEDP": "", 
         "9ZCEWn0z": "101501", 
         "dX0SkK3j": "100", 
         "drE35YcF": "unit", 
@@ -142,6 +151,33 @@
         "dX0SkK3j": "100", 
         "drE35YcF": "unit", 
         "pJ56sAEo": "LBMovie100016905_common.cpk"
+    }, 
+    {
+        "3LHdc6Qa": "unit", 
+        "6uvHX2JG": "", 
+        "81fTkEDP": "", 
+        "9ZCEWn0z": "101510", 
+        "dX0SkK3j": "100", 
+        "drE35YcF": "unit", 
+        "pJ56sAEo": "LBMovie100017905_common.cpk"
+    }, 
+    {
+        "3LHdc6Qa": "unit", 
+        "6uvHX2JG": "", 
+        "81fTkEDP": "", 
+        "9ZCEWn0z": "101511", 
+        "dX0SkK3j": "100", 
+        "drE35YcF": "unit", 
+        "pJ56sAEo": "LBMovie100018305_common.cpk"
+    }, 
+    {
+        "3LHdc6Qa": "unit", 
+        "6uvHX2JG": "", 
+        "81fTkEDP": "", 
+        "9ZCEWn0z": "101512", 
+        "dX0SkK3j": "100", 
+        "drE35YcF": "unit", 
+        "pJ56sAEo": "LBMovie100018705_common.cpk"
     }, 
     {
         "3LHdc6Qa": "monster", 
@@ -621,6 +657,33 @@
         "pJ56sAEo": "beastMovie19b_common.cpk"
     }, 
     {
+        "3LHdc6Qa": "beast", 
+        "6uvHX2JG": "", 
+        "81fTkEDP": "", 
+        "9ZCEWn0z": "104212", 
+        "dX0SkK3j": "100", 
+        "drE35YcF": "beast", 
+        "pJ56sAEo": "beastMovie19c_common.cpk"
+    }, 
+    {
+        "3LHdc6Qa": "beast", 
+        "6uvHX2JG": "", 
+        "81fTkEDP": "", 
+        "9ZCEWn0z": "104213", 
+        "dX0SkK3j": "100", 
+        "drE35YcF": "beast", 
+        "pJ56sAEo": "beastMovie20_common.cpk"
+    }, 
+    {
+        "3LHdc6Qa": "beast", 
+        "6uvHX2JG": "", 
+        "81fTkEDP": "", 
+        "9ZCEWn0z": "104214", 
+        "dX0SkK3j": "100", 
+        "drE35YcF": "beast", 
+        "pJ56sAEo": "beastMovie20b_common.cpk"
+    }, 
+    {
         "3LHdc6Qa": "item", 
         "6uvHX2JG": "", 
         "81fTkEDP": "", 
@@ -768,6 +831,15 @@
         "3LHdc6Qa": "battlebg", 
         "6uvHX2JG": "", 
         "81fTkEDP": "", 
+        "9ZCEWn0z": "106016", 
+        "dX0SkK3j": "100", 
+        "drE35YcF": "battlebg", 
+        "pJ56sAEo": "battleBg16_wp0C8e5v_common.cpk"
+    }, 
+    {
+        "3LHdc6Qa": "battlebg", 
+        "6uvHX2JG": "", 
+        "81fTkEDP": "", 
         "9ZCEWn0z": "106501", 
         "dX0SkK3j": "100", 
         "drE35YcF": "battlebg", 
@@ -799,6 +871,15 @@
         "dX0SkK3j": "100", 
         "drE35YcF": "battlebg", 
         "pJ56sAEo": "battleBg_ex4_9LuaEKW2_common.cpk"
+    }, 
+    {
+        "3LHdc6Qa": "battlebg", 
+        "6uvHX2JG": "", 
+        "81fTkEDP": "", 
+        "9ZCEWn0z": "106551", 
+        "dX0SkK3j": "100", 
+        "drE35YcF": "battlebg", 
+        "pJ56sAEo": "battleBg_storyevent1_a1JBL9UQ_common.cpk"
     }, 
     {
         "3LHdc6Qa": "battleEffect", 
@@ -1119,6 +1200,15 @@
         "3LHdc6Qa": "gacha", 
         "6uvHX2JG": "", 
         "81fTkEDP": "", 
+        "9ZCEWn0z": "114005", 
+        "dX0SkK3j": "100", 
+        "drE35YcF": "gacha", 
+        "pJ56sAEo": "gacha5.cpk"
+    }, 
+    {
+        "3LHdc6Qa": "gacha", 
+        "6uvHX2JG": "", 
+        "81fTkEDP": "", 
         "9ZCEWn0z": "114101", 
         "dX0SkK3j": "100", 
         "drE35YcF": "gachaEffect", 
@@ -1231,6 +1321,24 @@
         "dX0SkK3j": "100", 
         "drE35YcF": "series", 
         "pJ56sAEo": "series1.cpk"
+    }, 
+    {
+        "3LHdc6Qa": "effectResource", 
+        "6uvHX2JG": "", 
+        "81fTkEDP": "tuto", 
+        "9ZCEWn0z": "125001", 
+        "dX0SkK3j": "100", 
+        "drE35YcF": "effectResource", 
+        "pJ56sAEo": "effectResource1_kc5D4s3g.cpk"
+    }, 
+    {
+        "3LHdc6Qa": "sound/bgm", 
+        "6uvHX2JG": "", 
+        "81fTkEDP": "tuto", 
+        "9ZCEWn0z": "400000", 
+        "dX0SkK3j": "400", 
+        "drE35YcF": "sound", 
+        "pJ56sAEo": "la000_bgm_silence.acb"
     }, 
     {
         "3LHdc6Qa": "sound/bgm", 
@@ -1501,6 +1609,15 @@
         "dX0SkK3j": "100", 
         "drE35YcF": "battleEffect", 
         "pJ56sAEo": "battleEffect2.cpk"
+    }, 
+    {
+        "3LHdc6Qa": "battleEffect", 
+        "6uvHX2JG": "", 
+        "81fTkEDP": "", 
+        "9ZCEWn0z": "6107003", 
+        "dX0SkK3j": "100", 
+        "drE35YcF": "battleEffect", 
+        "pJ56sAEo": "battleEffect3.cpk"
     }, 
     {
         "3LHdc6Qa": "battleEffect", 

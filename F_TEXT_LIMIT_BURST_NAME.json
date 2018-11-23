@@ -1163,7 +1163,7 @@ MST_LIMITBURST_NAME_212000507^Element of Treachery^謀逆之相位星^역모의 
 MST_LIMITBURST_NAME_100009807^Skating Heart^滑冰之心^스케이팅 하트^Cœur glissant^Gleitendes Herz^Espíritu patinador
 MST_LIMITBURST_NAME_100010407^Dragon's Madrigal^龍哭牧歌^드래곤의 마드리갈^Madrigal du dragon^Drachenmadrigal^Madrigal del dragón
 MST_LIMITBURST_NAME_900000117^Dragon's Madrigal^龍哭牧歌^드래곤의 마드리갈^Madrigal du dragon^Drachenmadrigal^Madrigal del dragón
-MST_LIMITBURST_NAME_100010807^^龍騎槍蛇神突擊^^^^
+MST_LIMITBURST_NAME_100010807^Vaskylade^龍騎槍蛇神突擊^용의 창 바스킬레이드^Vaskylade^Vaskylade^Vaskylade
 MST_LIMITBURST_NAME_215000207^Impulse^增幅衝擊^라이징 임펄스^Éradication^Steigender Impuls^Erradicación
 MST_LIMITBURST_NAME_900000127^Impulse^增幅衝擊^라이징 임펄스^Éradication^Steigender Impuls^Erradicación
 MST_LIMITBURST_NAME_100011707^Unstoppable Wave^跋山涉水^발산섭수^Vague imparable^Unaufhaltbare Welle^Ola imparable
@@ -1174,8 +1174,8 @@ MST_LIMITBURST_NAME_100012407^Eternal Ray^永恆之光^영원의 섬광^Rayon é
 MST_LIMITBURST_NAME_100011807^^交錯審判^^^^
 MST_LIMITBURST_NAME_100012607^^魔劍大師^^^^
 MST_LIMITBURST_NAME_215000607^^制空強擊^^^^
-MST_LIMITBURST_NAME_215000707^^連發射擊^^^^
-MST_LIMITBURST_NAME_900000147^^連發射擊^^^^
+MST_LIMITBURST_NAME_215000707^Trigger-Happy^連發射擊^트리거 해피^Gâchette facile^Nervöser Finger^Metrallazo
+MST_LIMITBURST_NAME_900000147^Trigger-Happy^連發射擊^트리거 해피^Gâchette facile^Nervöser Finger^Metrallazo
 MST_LIMITBURST_NAME_100008607^Angelic Feather^天使輕羽^천사의 깃털^Plume angélique^Engelsfeder^Plumas angelicales
 MST_LIMITBURST_NAME_900000167^Angelic Feather^天使輕羽^천사의 깃털^Plume angélique^Engelsfeder^Plumas angelicales
 MST_LIMITBURST_NAME_100016905^Gleam of Reverie^夢想閃耀^환상의 반짝임^Lueur onirique^Glänzende Träumerei^Brillo ensoñador
@@ -1276,9 +1276,9 @@ MST_LIMITBURST_NAME_254002006^Concerto^協奏曲^콘체르토^Marche exaltante^C
 MST_LIMITBURST_NAME_254001103^Full Charge Shot^極限蓄力射擊^풀 차지 샷^Tir à pleine puissance^Volle Ladung^Disparo brutal
 MST_LIMITBURST_NAME_254001104^Full Charge Shot^極限蓄力射擊^풀 차지 샷^Tir à pleine puissance^Volle Ladung^Disparo brutal
 MST_LIMITBURST_NAME_254001105^Full Charge Shot^極限蓄力射擊^풀 차지 샷^Tir à pleine puissance^Volle Ladung^Disparo brutal
-MST_LIMITBURST_NAME_100017905^^美若聖域^^^^
-MST_LIMITBURST_NAME_100017906^^美若聖域^^^^
-MST_LIMITBURST_NAME_100017907^^美若聖域^^^^
+MST_LIMITBURST_NAME_100017905^Beauteous Sanctuary^美若聖域^^^^
+MST_LIMITBURST_NAME_100017906^Beauteous Sanctuary^美若聖域^^^^
+MST_LIMITBURST_NAME_100017907^Beauteous Sanctuary^美若聖域^^^^
 MST_LIMITBURST_NAME_100018004^^貴婦人的子彈^^^^
 MST_LIMITBURST_NAME_100018005^^貴婦人的子彈^^^^
 MST_LIMITBURST_NAME_100018006^^貴婦人的子彈^^^^
@@ -1369,6 +1369,9 @@ MST_LIMITBURST_NAME_401005907^Sinister Dance^邪靈之舞^사악한 춤^Danse si
 MST_LIMITBURST_NAME_401006005^Sinister Fury^邪靈之怒^사악한 분노^Furie sinistre^Unheilvoller Zorn^Furia siniestra
 MST_LIMITBURST_NAME_401006006^Sinister Fury^邪靈之怒^사악한 분노^Furie sinistre^Unheilvoller Zorn^Furia siniestra
 MST_LIMITBURST_NAME_401006007^Sinister Fury^邪靈之怒^사악한 분노^Furie sinistre^Unheilvoller Zorn^Furia siniestra
+MST_LIMITBURST_NAME_310000107^Ho229 Type-B^Ho229 Type-B^Ho229 Type-B^Ho229 Type-B^Ho229 Type-B^Ho229 Tipo-B
+MST_LIMITBURST_NAME_900000320^Ho229 Type-B^Ho229 Type-B^Ho229 Type-B^Ho229 Type-B^Ho229 Type-B^Ho229 Tipo-B
+MST_LIMITBURST_NAME_401001207^Berserk^狂暴^버서커^Folie meurtrière^Berserker^Ráksasa
 MST_LIMITBURST_NAME_401004705^The Thirst^飢渴^갈증^La soif^Der Durst^Sed intensa
 MST_LIMITBURST_NAME_401004706^The Thirst^飢渴^갈증^La soif^Der Durst^Sed intensa
 MST_LIMITBURST_NAME_401004707^The Thirst^飢渴^갈증^La soif^Der Durst^Sed intensa

@@ -133,27 +133,33 @@
     }, 
     {
         "2dfixko3": "900", 
-        "ShTbN3q9": "Ancient Coin", 
-        "T7aEx3Mj": "Ancient Coin", 
-        "VC9F3eJn": "Ancient Coin"
+        "ShTbN3q9": "Use to refresh expeditions", 
+        "T7aEx3Mj": "Use to refresh expeditions", 
+        "VC9F3eJn": "These odd-looking coins are sometimes discovered in historical sites. Expedition guild masters often offer new contracts to adventurers in exchange for them before auctioning them off to other collectors."
     }, 
     {
         "2dfixko3": "901", 
-        "ShTbN3q9": "Advance Token", 
-        "T7aEx3Mj": "Advance Token", 
-        "VC9F3eJn": "Advance Token"
+        "ShTbN3q9": "Use to expedite travel of parties on expedition", 
+        "T7aEx3Mj": "Use to expedite travel of parties on expedition", 
+        "VC9F3eJn": "A mystical token thought to bend the passage of time, allowing a party to get to their destination quicker. Some say this is simply a myth, and that they actually energize the party, thus allowing them to travel faster."
     }, 
     {
         "2dfixko3": "902", 
-        "ShTbN3q9": "Arena Restore", 
-        "T7aEx3Mj": "Arena Restore", 
-        "VC9F3eJn": "Arena Restore"
+        "ShTbN3q9": "Restores arena orbs", 
+        "T7aEx3Mj": "Restores arena orbs", 
+        "VC9F3eJn": "Restores arena orbs"
+    }, 
+    {
+        "2dfixko3": "903", 
+        "ShTbN3q9": "Restores raid orbs", 
+        "T7aEx3Mj": "Restores raid orbs", 
+        "VC9F3eJn": "Restores raid orbs"
     }, 
     {
         "2dfixko3": "904", 
-        "ShTbN3q9": "Expansion Voucher", 
-        "T7aEx3Mj": "Expansion Voucher", 
-        "VC9F3eJn": "Expansion Voucher"
+        "ShTbN3q9": "Use to expand any slot by five slots one time", 
+        "T7aEx3Mj": "Use to expand any slot by five slots one time", 
+        "VC9F3eJn": "Can be used to expand any slot (units, friends, etc.) by five slots one time."
     }, 
     {
         "2dfixko3": "905", 
@@ -196,5 +202,11 @@
         "ShTbN3q9": "Use to perform one rare summon guaranteed to yield a 4★ or higher unit", 
         "T7aEx3Mj": "Use to perform one rare summon guaranteed to yield a 4★ or higher unit", 
         "VC9F3eJn": "FINAL FANTASY BRAVE EXVIUS is proud to celebrate its 2nd Anniversary worldwide! This ticket can be used to perform one rare summon guaranteed to yield a 4★ or higher unit."
+    }, 
+    {
+        "2dfixko3": "912", 
+        "ShTbN3q9": "Use to perform a 5+1 summon", 
+        "T7aEx3Mj": "Use to perform a 5+1 summon", 
+        "VC9F3eJn": "Use to perform a 5+1 summon"
     }
 ]

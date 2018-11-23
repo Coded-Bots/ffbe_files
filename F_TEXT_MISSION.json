@@ -474,11 +474,11 @@ MST_MISSION_NAME_1410804^Fire Shrine - River of Lava^火之神殿・熔岩之川
 MST_MISSION_NAME_1410805^Fire Shrine - Purple Lightning^火之神殿・紫電^불의 신전·자색 번개^Temple du Feu - Lumière pourpre ^Feuerschrein – Der violette Blitz^Templo del Fuego - Rayo púrpura
 MST_MISSION_NAME_1410806^Fire Shrine - Decisive Battle^火之神殿・決戰^불의 신전·결전^Temple du Feu - Bataille décisive ^Feuerschrein – Entscheidungskampf^Templo del Fuego - Batalla final
 MST_MISSION_NAME_1410807^Fire Shrine - Exploration^火之神殿・探索^불의 신전·탐색^Temple du Feu - Exploration^Feuerschrein – Erkundung^Templo del Fuego - Exploración
-MST_MISSION_NAME_7060101^Akademeia - BGN^魔導院・初級^마도원·초급^Akademeia - DBT^Akademeia – ANF^La Academia - PRI
-MST_MISSION_NAME_7060102^Akademeia - INT^魔導院・中級^마도원·중급^Akademeia - INT^Akademeia – FOR^La Academia - INT
-MST_MISSION_NAME_7060103^Akademeia - ADV^魔導院・上級^마도원·상급^Akademeia - PRO^Akademeia – EXP^La Academia - AVA
-MST_MISSION_NAME_7060104^Akademeia - PRO^魔導院・超級^마도원·최상급^Akademeia - SUP^Akademeia – PRO^La Academia - PRO
-MST_MISSION_NAME_7060105^Akademeia - ELT^魔導院・覺醒級^마도원·각성급^Akademeia - EX!^Akademeia – ELI^La Academia - ÉLI
+MST_MISSION_NAME_7060101^Akademeia - BGN^魔導院・初級^마도원·초급^Akademeia - DBT^Akademie – ANF^La Academia - PRI
+MST_MISSION_NAME_7060102^Akademeia - INT^魔導院・中級^마도원·중급^Akademeia - INT^Akademie – FOR^La Academia - INT
+MST_MISSION_NAME_7060103^Akademeia - ADV^魔導院・上級^마도원·상급^Akademeia - PRO^Akademie – EXP^La Academia - AVA
+MST_MISSION_NAME_7060104^Akademeia - PRO^魔導院・超級^마도원·최상급^Akademeia - SUP^Akademie – PRO^La Academia - PRO
+MST_MISSION_NAME_7060105^Akademeia - ELT^魔導院・覺醒級^마도원·각성급^Akademeia - EX!^Akademie – ELI^La Academia - ÉLI
 MST_MISSION_NAME_7070101^The Crystal Tower - BGN^水晶塔 初級^크리스탈 타워·초급^La Tour de Cristal - DBT^Der Kristallturm – ANF^Torre del Cristal - PRI
 MST_MISSION_NAME_7070102^The Crystal Tower - INT^水晶塔 中級^크리스탈 타워·중급^La Tour de Cristal - INT^Der Kristallturm – FOR^Torre del Cristal - INT
 MST_MISSION_NAME_7070103^The Crystal Tower - ADV^水晶塔 上級^크리스탈 타워·상급^La Tour de Cristal - PRO^Der Kristallturm – EXP^Torre del Cristal - AVA
@@ -3072,7 +3072,7 @@ MST_MISSION_NAME_11512102^Shrine of Prayers - Pulling Emotions^祈望神殿·翻
 MST_MISSION_NAME_11512103^Shrine of Prayers - Those Who Pray^祈望神殿·祈願之人^기원의 신전·기도하는 자^Temple des prières - Ceux qui prient^Gebetsschrein – Die Betenden^Templo de las Plegarias - Aquellos que rezan
 MST_MISSION_NAME_11512104^Shrine of Prayers - The Furthest Gate^祈望神殿·最深處的門^기원의 신전·가장 안쪽의 문^Temple des prières - La dernière porte^Gebetsschrein – Weit entferntes Tor^Templo de las Plegarias - La puerta más lejana
 MST_MISSION_NAME_11512105^Shrine of Prayers - Jeweled Guardian^祈望神殿·守護寶石獸^기원의 신전·수호의 보석수^Temple des prières - Le gardien aux joyaux^Gebetsschrein – Wächter voller Edelsteine^Templo de las Plegarias - El guardián enjoyado
-MST_MISSION_NAME_11512201^Londell Road - The Battle Begins^羅恩德爾街道·開戰^론델 가도·재대결^Route de Londell - Que le combat commence^Londell-Straße – Der Kampf beginnt^Carretera de Londell - Comienza la batalla
+MST_MISSION_NAME_11512201^Londell Road - The Battle Begins^羅恩德爾街道·開戰^론델 가도·개전^Route de Londell - Que le combat commence^Londell-Straße – Der Kampf beginnt^Carretera de Londell - Comienza la batalla
 MST_MISSION_NAME_11512202^Londell Road - A Worthy Foe^羅恩德爾街道·強敵^론델 가도·강적^Route de Londell - Un adversaire de taille^Londell-Straße – Ein würdiger Gegner^Carretera de Londell - Un enemigo digno
 MST_MISSION_NAME_11512203^Londell Road - The Struggle^羅恩德爾街道·奮鬥^론델 가도·분투^Route de Londell - Une lutte acharnée^Londell-Straße – Der Kampf^Carretera de Londell - La lucha
 MST_MISSION_NAME_11512204^Londell Road - Shadow of Defeat^羅恩德爾街道·敗勢^론델 가도·패색^Route de Londell - L'ombre de la défaite^Londell-Straße – Schatten der Niederlage^Carretera de Londell - La sombra de la derrota
@@ -3892,7 +3892,7 @@ MST_MISSION_NAME_11520109^Colosseum Train - Assassins^競技場直通線·兇手
 MST_MISSION_NAME_11520401^Colosseum VIP Section - Elite Soldiers^競技場貴賓席·精銳兵^투기장 귀빈석·정예병^Section privée du Colisée - Soldats d'élite^Kolosseum VIP-Ränge - Elitesoldaten^Asientos VIP del coliseo - Soldados de élite
 MST_MISSION_NAME_11520402^Colosseum VIP Section - Guards^競技場貴賓席·護衛兵^투기장 귀빈석·호위병^Section privée du Colisée - Gardes^Kolosseum VIP-Ränge - Wachen^Asientos VIP del coliseo - Guardias
 MST_MISSION_NAME_11520403^Colosseum VIP Section - Royal Guards^競技場貴賓席·近衛兵^투기장 귀빈석·근위병^Section privée du Colisée - Gardes royaux^Kolosseum VIP-Ränge - Königliche Wachen^Asientos VIP del coliseo - Guardias reales
-MST_MISSION_NAME_11520404^Colosseum VIP Section - Aldore Emperor^競技場貴賓席·阿爾多爾皇帝^투기장 귀빈석·알도르 황제^Section privée du Colisée - Empereur d'Aldore^Kolosseum VIP-Ränge - Aldore-Imperator^Asientos VIP del coliseo - Emperador de Aldore
+MST_MISSION_NAME_11520404^Colosseum VIP Section - Aldore Emperor^競技場貴賓席·阿爾多爾皇帝^투기장 귀빈석·알도르 황제^Section privée du Colisée - Empereur d'Aldore^Kolosseum VIP-Ränge - Imperator von Aldore^Asientos VIP del coliseo - Emperador de Aldore
 MST_MISSION_NAME_11520501^Colosseum Third Floor - Thunderclap^競技場第三層·雷鳴^투기장 제3층·뇌명^Troisième niveau du Colisée - Coup de tonnerre^Kolosseum 2. Stock - Donnerschlag^3.ª planta del coliseo - Trueno
 MST_MISSION_NAME_11520502^Colosseum Third Floor - Fierce Attack^競技場第三層·猛攻^투기장 제3층·맹공^Troisième niveau du Colisée - Attaque féroce^Kolosseum 2. Stock - Erbitterter Angriff^3.ª planta del coliseo - Ataque fiero
 MST_MISSION_NAME_11520503^Colosseum Third Floor - United Struggle^競技場第三層·共鬥^투기장 제3층·공투^Troisième niveau du Colisée - Lutte commune^Kolosseum 2. Stock - Vereinter Kampf^3.ª planta del coliseo - Lucha conjunta
@@ -4645,6 +4645,11 @@ MST_MISSION_NAME_8310117^Once-a-Day Special Quest! 7/11^一日一次！特別任
 MST_MISSION_NAME_8310118^Once-a-Day Special Quest! 7/12^一日一次！特別任務 7/12^하루 한 번! 스페셜 퀘스트 7/12^^^¡Misión especial una vez al día! 12/7
 MST_MISSION_NAME_8310119^Once-a-Day Special Quest! 7/13^一日一次！特別任務 7/13^하루 한 번! 스페셜 퀘스트 7/13^^^¡Misión especial una vez al día! 13/7
 MST_MISSION_NAME_8310120^Once-a-Day Special Quest! 7/14^一日一次！特別任務 7/14^하루 한 번! 스페셜 퀘스트 7/14^^^¡Misión especial una vez al día! 14/7
+MST_MISSION_NAME_8430101^Abandoned Factory - INT^工場廢墟·中級^공장 폐허·중급^Usine désaffectée - INT^Verlassene Fabrik - FOR^Fábrica abandonada - INT
+MST_MISSION_NAME_8430102^Abandoned Factory - ADV^工場廢墟·上級^공장 폐허·상급^Usine désaffectée - PRO^Verlassene Fabrik - EXP^Fábrica abandonada - AVA
+MST_MISSION_NAME_8430103^Abandoned Factory - PRO^工場廢墟·超級^공장 폐허·최상급^Usine désaffectée - SUP^Verlassene Fabrik - PRO^Fábrica abandonada - PRO
+MST_MISSION_NAME_8430104^Abandoned Factory - ELT^工場廢墟·覺醒級^공장 폐허·각성급^Usine désaffectée - EX!^Verlassene Fabrik - ELI^Fábrica abandonada - ÉLI
+MST_MISSION_NAME_8440101^The Formidable Engels^強敵：恩格斯^강적: 엥겔스^L'incroyable Engels^Der Mächtige Engels^El temible Engels
 MST_MISSION_NAME_9460101^Revelations of Darkness - BGN^黑暗啟示錄·初級^어둠의 계시록·초급^Révélations ténébreuses - DBT^Enthüllungen der Finsternis - ANF^Revelaciones oscuras - PRI
 MST_MISSION_NAME_9460102^Revelations of Darkness - INT^黑暗啟示錄·中級^어둠의 계시록·중급^Révélations ténébreuses - INT^Enthüllungen der Finsternis - FOR^Revelaciones oscuras - INT
 MST_MISSION_NAME_9460103^Revelations of Darkness - ADV^黑暗啟示錄·上級^어둠의 계시록·상급^Révélations ténébreuses - PRO^Enthüllungen der Finsternis - EXP^Revelaciones oscuras - AVA
@@ -4653,3 +4658,4 @@ MST_MISSION_NAME_9460105^Revelations of Darkness - ELT^黑暗啟示錄·覺醒�
 MST_MISSION_NAME_9460106^Revelations of Darkness (Black Ash) - LGD^黑暗啟示錄 (黑色灰燼)·魔人級^어둠의 계시록(검은 재)·마인급^Révélations ténébreuses (Poussière noire) - LGD^Enthüllungen der Finsternis (Schwarze Asche) - LGD^Revelaciones oscuras (ceniza oscura) - LGD
 MST_MISSION_NAME_9460107^Revelations of Darkness (Black Grimoire) - LGD^黑暗啟示錄 (漆黑魔典)·魔人級^어둠의 계시록(흑마술의 서)·마인급^Révélations ténébreuses (Grimoire noir) - LGD^Enthüllungen der Finsternis (Schwarzes Grimoire) - LGD^Revelaciones oscuras (grimorio oscuro) - LGD
 MST_MISSION_NAME_9460108^Revelations of Darkness (Pure Blood) - LGD^黑暗啟示錄 (純淨之血)·魔人級^어둠의 계시록(순혈)·마인급^Révélations ténébreuses (Sang pur) - LGD^Enthüllungen der Finsternis (Reines Blut) - LGD^Revelaciones oscuras (sangre pura) - LGD
+MST_MISSION_NAME_9470101^Trial of Vengeance^復仇之審判^복수의 시련^Défi de la vengeance^Prüfung der Rache^Desafío de la venganza
