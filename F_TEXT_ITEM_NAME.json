@@ -32,12 +32,12 @@ MST_ITEM_NAME_104001200^Arctic Wind^北極之風^북극의 바람^Vent arctique^
 MST_ITEM_NAME_104002100^Zeus's Wrath^宙斯之怒^제우스의 분노^Colère de Zeus^Rache des Zeus^Ira de Zeus
 MST_ITEM_NAME_104002200^Heavenly Wrath^眾神之怒^신들의 분노^Ire céleste^Himmelszorn^Aliento divino
 MST_ITEM_NAME_104003100^Fish Scale^魚之鱗^물고기 비늘^Écaille de poisson^Fischschuppe^Escama de pez
-MST_ITEM_NAME_104003200^Dragon Scale^龍之鱗^용 비늘^ ^Drachenschuppe^Escama de dragón
-MST_ITEM_NAME_104004100^Giant Feather^巨鳥羽毛^거대 새의 깃털^Plume géante^Riesenfeder^Pluma de gran ave
+MST_ITEM_NAME_104003200^Dragon Scale^龍之鱗^용 비늘^Plume géante^Drachenschuppe^Escama de dragón
+MST_ITEM_NAME_104004100^Giant Feather^巨鳥羽毛^거대 새의 깃털^^Riesenfeder^Pluma de gran ave
 MST_ITEM_NAME_104004200^Wyvern Feather^雙足飛龍羽毛^와이번의 날개^Plume de wyverne^Wyvernfeder^Pluma de guiverno
 MST_ITEM_NAME_104005100^Earth Drum^大地之鼓^대지의 북^Tambour terrien^Erdentrommel^Tambor de tierra
 MST_ITEM_NAME_104005200^Gaia's Cry^大地之歎^대지의 진동^Gémissement de Gaïa^Erdengrollen^Llanto de Gaia
-MST_ITEM_NAME_104006100^Red Fang^紅色獠牙^붉은 송곳니^Croc Rouge^Roter Reißzahn^Colmillo rojo
+MST_ITEM_NAME_104006100^Red Fang^紅色獠牙^붉은 송곳니^Croc Rouge^^Colmillo rojo
 MST_ITEM_NAME_104007100^White Fang^白色獠牙^하얀 송곳니^Croc Blanc^Weißer Reißzahn^Colmillo blanco
 MST_ITEM_NAME_104008100^Blue Fang^藍色獠牙^파란 송곳니^Croc Bleu^Blauer Reißzahn^Colmillo azul
 MST_ITEM_NAME_104009100^Holy Torch^神聖火把^성스러운 횃불^Torche sacrée^Heilige Fackel^Antorcha sagrada
@@ -805,24 +805,24 @@ MST_ITEM_NAME_1209000913^Halloween 2018 Summon Ticket^2018萬聖節召喚券^201
 MST_ITEM_NAME_310000140^Lilith's Prism^莉莉絲的輝源^릴리스의 휘석^Prisme pour Lilith^Prisma für Lilith^Prisma de Lilith
 MST_ITEM_NAME_310000150^Lucius's Prism^路西亞斯的輝源^루시우스의 휘석^Prisme pour Lucius^Prisma für Lucius^Prisma de Lucius
 MST_ITEM_NAME_105007000^Conqueror's Gavel - Magic^征服者木槌·魔^정복자의 가벨·마법^Maillet du conquérant - Magie^Richterhammer des Eroberers - Magie^Martillo del conquistador
-MST_ITEM_NAME_106211160^Xenogears Limited Exchange Ticket [F.E.B]^Xenogears限定交換券[F.E.B]^제노기어스 한정 교환권 [F.E.B]^^^Tícket de intercambio limitado de Xenogears [F.E.B]
-MST_ITEM_NAME_106211170^[Limited Edition] Guaranteed ★5 SP Summon Ticket^[期間限定]★5確定SP召喚券^[기간 한정] ★5 보장 특별 소환티켓^^^[Edición limitada] Tícket de invocación de 5★ ESP garantizado
-MST_ITEM_NAME_106211180^Xenogears Limited Exchange Ticket [F.E.B.S.M]^Xenogears限定交換券[F.E.B.S.M]^제노기어스 한정 교환권 [F.E.B.S.M]^^^Tícket de intercambio limitado de Xenogears [F.E.B.S.M]
-MST_ITEM_NAME_106305500^G-Elements Raid Coin^G元素共鬥硬幣^G 엘리멘츠 레이드 코인^^^Moneda de banda de elementos G
-MST_ITEM_NAME_106305600^Empty Sphere^枯竭晶球^텅 빈 스피어^^^Esfera vacía
-MST_ITEM_NAME_106305700^Deus Raid Coin^迪烏斯共鬥硬幣^데우스 레이드 코인^^^Moneda de banda de Deus
-MST_ITEM_NAME_110000600^Gil Map^ＧＩＬ地圖^길의 지도^^^Mapa de guiles
-MST_ITEM_NAME_225000100^Large Gold Ingots^大金塊^대금괴^^^Lingotes de oro grandes
-MST_ITEM_NAME_225000200^Violet Lumber^桔梗色木材^보라색 목재^^^Madera violeta
-MST_ITEM_NAME_225000300^Crimson Cloth^紅色布料^붉은색 옷감^^^Tela carmesí
-MST_ITEM_NAME_225000400^Earth Scale^大地鱗片^대지의 비늘^^^Escama terrestre
-MST_ITEM_NAME_225000500^Ebony Fang^漆黑銳牙^칠흑의 송곳니^^^Colmillo de ébano
-MST_ITEM_NAME_226000100^Green Ring^綠色戒指^미도리의 반지^^^Anillo verde
-MST_ITEM_NAME_226000200^Lump of Steel^玉鋼小塊^옥강 덩어리^^^Trozo de acero
-MST_ITEM_NAME_226000300^Black Leather^黑色革布^검은 가죽^^^Cuero negro
-MST_ITEM_NAME_226000400^Shiny Black Gem^泛黑光的寶珠^검게 빛나는 보옥^^^Gema negra brillante
-MST_ITEM_NAME_226000500^Azure Fragment^蒼藍碎片^푸른 조각^^^Fragmento azul
-MST_ITEM_NAME_300000920^^芙爾卡的輝源^폴카의 휘석^^^
+MST_ITEM_NAME_106211160^Xenogears Limited Exchange Ticket [F.E.B]^Xenogears限定交換券[F.E.B]^제노기어스 한정 교환권 [F.E.B]^Ticket limité d'échange Xenogears [F.E.B]^Xenogears Limitierte Austauschkarte [F.E.B]^Tícket de intercambio limitado de Xenogears [F.E.B]
+MST_ITEM_NAME_106211170^[Limited Edition] Guaranteed ★5 SP Summon Ticket^[期間限定]★5確定SP召喚券^[기간 한정] ★5 보장 특별 소환티켓^[Édition limitée] Ticket d'invocation garanti ★5 SP^[Limitierte Edition] Garantierte 5★ SP Beschwörungskarte^[Edición limitada] Tícket de invocación de 5★ ESP garantizado
+MST_ITEM_NAME_106211180^Xenogears Limited Exchange Ticket [F.E.B.S.M]^Xenogears限定交換券[F.E.B.S.M]^제노기어스 한정 교환권 [F.E.B.S.M]^Ticket limité d'échange Xenogears [F.E.B.S.M]^Xenogears Limitierte Austauschkarte [F.E.B.S.M]^Tícket de intercambio limitado de Xenogears [F.E.B.S.M]
+MST_ITEM_NAME_106305500^G-Elements Raid Coin^G元素共鬥硬幣^G 엘리멘츠 레이드 코인^Jeton Élément-G^G-Element Raubzugmünze^Moneda de banda de elementos G
+MST_ITEM_NAME_106305600^Empty Sphere^枯竭晶球^텅 빈 스피어^Sphère vide^Leere Kugel^Esfera vacía
+MST_ITEM_NAME_106305700^Deus Raid Coin^迪烏斯共鬥硬幣^데우스 레이드 코인^Jeton de Deus^Deus Raubzugmünze^Moneda de banda de Deus
+MST_ITEM_NAME_110000600^Gil Map^ＧＩＬ地圖^길의 지도^Carte de Gil^Gil Karte^Mapa de guiles
+MST_ITEM_NAME_225000100^Large Gold Ingots^大金塊^대금괴^Grand lingot d'or^Große Goldbarren^Lingotes de oro grandes
+MST_ITEM_NAME_225000200^Violet Lumber^桔梗色木材^보라색 목재^Rondin violet^Violettes Holz^Madera violeta
+MST_ITEM_NAME_225000300^Crimson Cloth^紅色布料^붉은색 옷감^Vêtement cramoisi^Purpurnes Stofftuch^Tela carmesí
+MST_ITEM_NAME_225000400^Earth Scale^大地鱗片^대지의 비늘^Écaille de terre^Erdschuppe^Escama terrestre
+MST_ITEM_NAME_225000500^Ebony Fang^漆黑銳牙^칠흑의 송곳니^Croc noir^Tiefschwarzzahn^Colmillo de ébano
+MST_ITEM_NAME_226000100^Green Ring^綠色戒指^미도리의 반지^Anneau vert^Grüner Ring^Anillo verde
+MST_ITEM_NAME_226000200^Lump of Steel^玉鋼小塊^옥강 덩어리^Bout d'acier^Stahlklumpen^Trozo de acero
+MST_ITEM_NAME_226000300^Black Leather^黑色革布^검은 가죽^Cuir noir^Edel Leder^Cuero negro
+MST_ITEM_NAME_226000400^Shiny Black Gem^泛黑光的寶珠^검게 빛나는 보옥^Joyeau noir brillant^Schwarzes Funkel Juwel^Gema negra brillante
+MST_ITEM_NAME_226000500^Azure Fragment^蒼藍碎片^푸른 조각^Fragment azure^Azuresplitter^Fragmento azul
+MST_ITEM_NAME_300000920^Folka's Prism^芙爾卡的輝源^폴카의 휘석^^^
 MST_ITEM_NAME_300000930^^飛的輝源^페이의 휘석^^^
 MST_ITEM_NAME_300000940^^艾蕾的輝源^에리의 휘석^^^
 MST_ITEM_NAME_300000950^^巴特的輝源^발트의 휘석^^^
@@ -842,3 +842,8 @@ MST_ITEM_NAME_300001200^2B's Prism^2B的輝源^2B의 휘석^Prisme pour 2B^Prism
 MST_ITEM_NAME_300001210^A2's Prism^A2的輝源^A2의 휘석^Prisme pour A2^Prisma für A2^Prisma de A2
 MST_ITEM_NAME_310000160^Beryl's Prism^貝利爾的輝源^베릴의 휘석^Prisme pour Beryl^Prisma für Beryl^Prisma de Beryl
 MST_ITEM_NAME_310000170^Ellesperis's Prism^艾莉絲珮芮絲的輝源^엘레스페리스의 휘석^Prisme pour Ellesperis^Prisma für Ellesperis^Prisma de Ellesperis
+MST_ITEM_NAME_310000190^Aurora Fryevia's Prism^極光弗雷比亞的輝源^오로라 프레이비아의 휘석^Prisme de Fryevia de l'Aurore^Prisma für Aurora Fryevia^Prisma de Aurora Fryevia
+MST_ITEM_NAME_1209000924^Fan Festa 2018 Summon Ticket^2018粉絲慶典召喚券^팬 페스타 2018 소환티켓^Ticket d'invocation de la Fan Festa 2018^Fan Festa 2018 Beschwörungskarte^Tícket de invocación de Fan Festa 2018
+MST_ITEM_NAME_1209000927^Crimson Dragon Scale^赤龍鱗片^홍룡의 비늘^Écaille de Dragon écarlate^Purpurdrachenschuppe^Escama de dragón carmesí
+MST_ITEM_NAME_310000200^Popstar Katy's Prism^流行音樂巨星凱蒂的輝源^팝스타 케이티의 휘석^Prisme de Popstar Katy^Prisma von Popstar Katy^Prisma de Estrella del pop Katy
+MST_ITEM_NAME_1209000925^Fan Festa 2018 Select Ticket^2018粉絲慶典自選券^팬 페스타 2018 선택 소환 티켓^Ticket sélectionneur de la Fan Festa 2018^Fan Festa 2018 Auswahlkarte^Tícket seleccionador de Fan Festa 2018

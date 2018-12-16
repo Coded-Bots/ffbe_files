@@ -135,7 +135,7 @@ MST_MATERIA_NAME_504201970^Goddess's Protection^聖女神守護^성스러운 여
 MST_MATERIA_NAME_504100990^Equip H Shield^裝備重盾^무거운 방패 장착^Bouclier lourd^Schweren Schild ausrüsten^Equipar escudo P
 MST_MATERIA_NAME_504200150^Dualcast^連續詠唱^연속 마법^Double sort^Doppelmagie^Magia doble
 MST_MATERIA_NAME_504010150^Curada^齊療傷^케알다^Soin X^Vitaga^Cura++
-MST_MATERIA_NAME_504100190^EVO MAG +10%^召喚魔法+10%^소환마법+10%^INV +10%^BSW MAG + 10 %^INVOCACIÓN +10%
+MST_MATERIA_NAME_504100190^EVO MAG +10%^召喚魔法+10%^소환마법+10%^INV +10%^RUF MAG + 10 %^INVOCACIÓN +10%
 MST_MATERIA_NAME_504101000^Plant Killer^燃木^식물 킬러^Tue-plante^Unkrautvernichter^Mataplantas
 MST_MATERIA_NAME_504200640^Watera Blade^中流水劍^워터라 검^Lame Eau +^Aquara-Klinge^Hoja Aqua+
 MST_MATERIA_NAME_504202350^Second Wind^聲援^응원가^Aile renforcée^Rückenwind^Éter
@@ -589,7 +589,7 @@ MST_MATERIA_NAME_504220630^Intrique^戰術^술책^Intrigue^List^Intriga
 MST_MATERIA_NAME_504100020^HP +20%^HP+20%^HP+20%^PV +20%^LP +20%^VIT +20%
 MST_MATERIA_NAME_504220650^Wind Resistance +20%^風屬性耐性+20%^바람속성 저항력+20%^Résistance au vent +20%^Windresistenz +20%^Res. al viento +20%
 MST_MATERIA_NAME_504220660^Great Mage's Chant^大魔道士的詠唱法^대마도사의 영창법^Chant de grand mage^Intonation des Großmagiers^Canto de archimago
-MST_MATERIA_NAME_504220680^Nature Loving Spellblade^熱愛自然的魔法劍士^자연을 사랑하는 마법검사^Magilame fan de la nature^Naturliebender Schwertmagier^Esgrimago naturista
+MST_MATERIA_NAME_504220680^Nature Loving Spellblade^熱愛自然的魔法劍士^자연을 사랑하는 마법검사^Magilame épris de la nature^Naturliebender Schwertmagier^Esgrimago naturista
 MST_MATERIA_NAME_504221550^Mood Maker^開心果^분위기 메이커^Esprit de la fête^Stimmungsmacher^Alma de la fiesta
 MST_MATERIA_NAME_504221560^H Armor Arts^重鎧的秘義^중갑의 비의^Secret d'armure L^Schwere Rüstungskünste^Secretos de armadura P
 MST_MATERIA_NAME_504221570^Calamity Border^災禍邊緣^재앙의 경계선^Frontière calamiteuse^Unheilsgrenze^Borde calamitoso
@@ -615,7 +615,7 @@ MST_MATERIA_NAME_504221740^Sleep^陷入沉睡^잠들다^Sommeil^Schlafe sanft^Do
 MST_MATERIA_NAME_504223800^Dark Resistance +20%^暗屬性耐性+20%^어둠속성 저항력+20%^Rés. aux ténèbres +20%^Dunkelresistenz +20%^Res. a la oscuridad +20%
 MST_MATERIA_NAME_504010100^Raise^復活^레이즈^Vie^Erhöhung^Lázaro
 MST_MATERIA_NAME_504213980^Dual White Magic^W白魔法^W백마법^Double magie blanche^Doppelmagie Weiß^Magia blanca doble
-MST_MATERIA_NAME_504223810^EVO MAG +15%^召喚魔法+15%^소환마법+15%^MAG INVO +15%^BSW MAG + 15 %^MAG INV +15%
+MST_MATERIA_NAME_504223810^EVO MAG +15%^召喚魔法+15%^소환마법+15%^MAG INVO +15%^RUF MAG + 15 %^MAG INV +15%
 MST_MATERIA_NAME_504223820^Kappower^河童之力^캇파워^Kappuissant^Kappower^Kappoder
 MST_MATERIA_NAME_504224170^Axe Professional^專家·斧^프로페셔널·도끼^Pro de la hache^Axtprofi^Profesional del hacha
 MST_MATERIA_NAME_504224190^Hungry Wolf^餓狼再起^아랑재기^Loup affamé^Hungriger Wolf^Lobo hambriento
@@ -701,12 +701,12 @@ MST_MATERIA_NAME_504227459^Technical Attacker^學術攻擊者^^^^
 MST_MATERIA_NAME_504227506^Zodiac Shot^黃道彈^조디악 불릿^Balle zodiaque^Zodiak-Schuss^Zodiaco
 MST_MATERIA_NAME_504227527^Truth Seeker^探尋真相之人^진실을 찾는 자^Chercheur de vérité^Wahrheitssucher^Indagador de la verdad
 MST_MATERIA_NAME_504227555^Shield of the Chosen King^被選中的王之盾^선택받은 왕의 방패^Bouclier du Roi élu^Schild des erwählten Königs^Escudo del rey
-MST_MATERIA_NAME_504227586^Booster Cactuar^增壓‧仙人掌^사보텐 부스트^^^
-MST_MATERIA_NAME_504227605^White Lotus^白妙聖蓮^^^^
-MST_MATERIA_NAME_504227625^Sky Lancer^空中長槍^스카이랜서^^^
+MST_MATERIA_NAME_504227586^Booster Cactuar^增壓‧仙人掌^부스트 사보텐^Pampa Mirage^Turbo-Kaktor^Cactus Mirage
+MST_MATERIA_NAME_504227605^Pure Lotus^白妙聖蓮^백색의 성련^Lotus pur^Lotus der Tugend^Loto puro
+MST_MATERIA_NAME_504227625^Skylancer^空中長槍^스카이랜서^Lancier céleste^Luftlancier^Aerolanzadora
 MST_MATERIA_NAME_504227640^EXP +25%^獲得經驗值+25%^^^^
 MST_MATERIA_NAME_504227641^EXP +50%^獲得經驗值+50%^^^^
-MST_MATERIA_NAME_504227701^Brave Soul^勇者之魂^^^^
+MST_MATERIA_NAME_504227701^Brave Soul^勇者之魂^용사의 혼^Âme de héros^Heldenseele^Alma de héroe
 MST_MATERIA_NAME_504227666^Hero's Vow - Light^英雄誓言·光^영웅의 맹세·빛^Vœu du héros - Lumière^Heldenschwur - Licht^Juramento heroico - Luz
 MST_MATERIA_NAME_504227682^Machine Power^機器之力^머신 파워^Puissance mécanique^Maschinenkraft^Poder de máquina
 MST_MATERIA_NAME_504227712^Feelings for Platina^白金幻想^플라티나를 향한 마음^Sentiments pour Platina^Gefühle für Platina^Sentimientos hacia Platina
@@ -716,8 +716,8 @@ MST_MATERIA_NAME_504227847^Grown Heart^虛榮之心^^^^
 MST_MATERIA_NAME_504227865^Regretful Memories^悔恨的記憶^^^^
 MST_MATERIA_NAME_504227902^Dragonslayer Force^龍終的武力^^^^
 MST_MATERIA_NAME_504227903^Dragonslayer Magic^龍終的魔力^^^^
-MST_MATERIA_NAME_504227930^Absolute Devotion^絕對忠義^절대적인 충의^^^
-MST_MATERIA_NAME_504227931^Twisted Hero^扭曲的英雄^일그러진 영웅^^^
+MST_MATERIA_NAME_504227930^Unquestionable Loyalty^絕對忠義^절대적인 충의^Loyauté incontestable^Absolute Treue^Lealtad incuestionable
+MST_MATERIA_NAME_504227931^Twisted Hero^扭曲的英雄^일그러진 영웅^Sinistre héros^^
 MST_MATERIA_NAME_504227926^Blood of the Dragon^龍族之血^용족의 피^Sang du dragon^Blut der Drachenbrut^Sangre de dragón
 MST_MATERIA_NAME_504228151^Gust Mane^風中鬃毛^바람을 머금은 갈기^Crinière des vents^Windmähne^Melena arremolinada
 MST_MATERIA_NAME_504228152^Magical Potential^潛在魔力^잠재된 마력^Potentiel magique^Verborgenes Magietalent^Potencial mágico
@@ -739,8 +739,8 @@ MST_MATERIA_NAME_504228380^Akademeia Support - Attack^魔導院支援·攻^마�
 MST_MATERIA_NAME_504228381^Akademeia Support - Defense^魔導院支援·守^마도원의 지원·수비^Renfort de l'Akademeia - Défense^Unterstützung von Akademeia - Abwehr^Apoyo de la Academia - Defensa
 MST_MATERIA_NAME_504228390^Dancing Doll^舞蹈人偶^춤추는 인형^Poupée dansante^Tanzende Puppe^Muñeca bailarina
 MST_MATERIA_NAME_504228391^Doll's Eye^人偶之瞳^인형의 눈^Œil de poupée^Puppenauge^Ojo de muñeca
-MST_MATERIA_NAME_504209540^Gun Mastery^火槍奧義^^^^
-MST_MATERIA_NAME_504228416^Hero's Vow - Earth^英雄誓言·土^^^^
+MST_MATERIA_NAME_504209540^Gun Mastery^火槍奧義^총의 비법^Maîtrise des pistolets^Schusswaffenmeister^Maestría de pistolas
+MST_MATERIA_NAME_504228416^Hero's Vow - Earth^英雄誓言·土^영웅의 맹세·땅^Vœu du héros - Terre^Heldenschwur - Erde^Juramento heroico - Tierra
 MST_MATERIA_NAME_504228452^Shadow Warrior^暗影武士^^^^
 MST_MATERIA_NAME_504228470^Lara's Intuition^蘿拉·卡芙特的直覺^^^^
 MST_MATERIA_NAME_504228490^Wisdom of Hess^赫斯的睿智^^^^
@@ -782,3 +782,5 @@ MST_MATERIA_NAME_1500000077^Demonic Might^魔之威能^악마의 힘^Puissance d
 MST_MATERIA_NAME_1500000078^Demonic Mind^魔之心智^악마의 정신^Esprit démoniaque^Dämonengeist^Mente demoníaca
 MST_MATERIA_NAME_1500000080^Vampyrism^吸血魔^뱀파이어리즘^Vampirisme^Vampirismus^Vampirismo
 MST_MATERIA_NAME_1500000079^Light's Vengeance^光之復仇^빛의 복수^Vengeance de lumière^Rache des Lichts^Venganza lumínica
+MST_MATERIA_NAME_1500000081^Spiritualism^精神主義^유심론^Spiritualisme^Spiritualismus^Espiritualismo
+MST_MATERIA_NAME_1500000082^Instrumental Rhythm^樂器節奏^악기 리듬^Rythme instrumental^Instrumentaler Rhythmus^Ritmo instrumental

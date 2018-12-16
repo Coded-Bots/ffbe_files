@@ -101,22 +101,22 @@ MST_MAGIC_NAME_20520^Scathe^崩潰^컬랩스^Blessure^Delle^Lastimar
 MST_MAGIC_NAME_20530^Doomsday ^末日審判^크루세이더^Apocalypse^Eroberer^Hecatombe
 MST_MAGIC_NAME_20550^Raging Ice^烈冰^조블리자^Glace rageuse^Wütendes Eis^Hielo furibundo
 MST_MAGIC_NAME_20560^Apocalypse^末世^아포칼립스^Apocalypse^Apokalypse^Apocalipsis
-MST_MAGIC_NAME_20570^Stone I^落石I^스톤I^Pierre II^Terra I^Piedra I
-MST_MAGIC_NAME_20580^Water I^流水I^워터I^Eau II^Aqua I^Aqua I
-MST_MAGIC_NAME_20590^Aero I^勁風I^에어로I^Vent II^Aero I^Aero I
-MST_MAGIC_NAME_20600^Fire I^火焰I^파이어I^Feu II^Feura I^Piro I
-MST_MAGIC_NAME_20610^Blizzard I^暴雪I^블리자드I^Glace II^Eis I^Hielo I
+MST_MAGIC_NAME_20570^Stone I^落石I^스톤I^Pierre I^Terra I^Piedra I
+MST_MAGIC_NAME_20580^Water I^流水I^워터I^Eau I^Aqua I^Aqua I
+MST_MAGIC_NAME_20590^Aero I^勁風I^에어로I^Vent I^Aero I^Aero I
+MST_MAGIC_NAME_20600^Fire I^火焰I^파이어I^Feu I^Feuer I^Piro I
+MST_MAGIC_NAME_20610^Blizzard I^暴雪I^블리자드I^Glace I^Eis I^Hielo I
 MST_MAGIC_NAME_20620^Thunder I^雷電I^선더I^Foudre I^Blitz I^Electro I
 MST_MAGIC_NAME_20630^Stonega V^大落石V^스톤가V^OmniPierre V^Terraga V^Piedra++ V
 MST_MAGIC_NAME_20640^Waterga V^大流水V^워터가V^OmniEau V^Aquaga V^Aqua++ V
 MST_MAGIC_NAME_20650^Aeroga V^大勁風V^에어로가V^OmniVent V^Aeroga V^Aero++ V
 MST_MAGIC_NAME_20660^Firaga V^大火焰V^파이가V^OmniFeu V^Feuga V^Piro++ V
 MST_MAGIC_NAME_20670^Blizzaga V^大暴雪V^블리자가V^OmniGlace V^Eisga V^Hielo++ V
-MST_MAGIC_NAME_20680^Thundaga V^大雷電V^선더가V^OmniFoudre V^Blitzga B^Electro++ V
+MST_MAGIC_NAME_20680^Thundaga V^大雷電V^선더가V^OmniFoudre V^Blitzga V^Electro++ V
 MST_MAGIC_NAME_20690^Bio III^毒化III^바이오III^Bactérie III^Bio III^Bio III
 MST_MAGIC_NAME_20700^Flare II^核爆II^플레어II^Brasier II^Flamme II^Fulgor II
 MST_MAGIC_NAME_20730^Flood II^洪水II^플러드II^Déluge II^Flut II^Inundación II
-MST_MAGIC_NAME_20760^Raging Water^烈水^조워터^Eau rageur^Wütendes Wasser^Agua furibunda
+MST_MAGIC_NAME_20760^Raging Water^狂水^조워터^Flots déchaînés^Reißender Strom^Aguas enfurecidas
 MST_MAGIC_NAME_20770^Break^石化^브레이크^^^
 MST_MAGIC_NAME_20780^Breakga^大石化^브레이크가^^^
 MST_MAGIC_NAME_30010^Sleep^催眠^슬리플^Sommeil^Schlaf^Morfeo
@@ -157,7 +157,7 @@ MST_MAGIC_NAME_30210^Bravery^勇氣^브레이브^Bravoure^Courage^Bravura
 MST_MAGIC_NAME_30211^Brave (Auto)^勇氣（自動）^브레이브(AUTO용)^Bravoure (auto)^Courage (auto)^Bravura (Auto)
 MST_MAGIC_NAME_30212^Brave (Constant Oomph)^勇氣(總是巴依奇爾托用)^브레이브(항상 바이킬트용)^Bravoure (Décuplo constant)^Courage (Konstanter Energieschub)^Bravura (Doble potencia interminable)
 MST_MAGIC_NAME_30213^Brave (Mars Sigil)^勇氣(火星聖印用)^브레이브(화성의 성인 용)^Bravoure (Décuplo constant)^Courage (Konstanter Energieschub)^Bravura (Doble potencia interminable)
-MST_MAGIC_NAME_30214^Brave (White Lotus)^勇氣(白妙聖蓮用)^브레이브(백색의 성련 용)^Bravoure (Décuplo constant)^Courage (Konstanter Energieschub)^Bravura (Doble potencia interminable)
+MST_MAGIC_NAME_30214^Brave (White Lotus)^勇氣(白妙聖蓮用)^브레이브(백색의 성련 용)^Bravoure (Lotus blanc)^Courage (Lotus der Tugend)^Bravura (Loto blanco)
 MST_MAGIC_NAME_30220^Faith^信念^페이스^Foi^Ener^Fe
 MST_MAGIC_NAME_30221^Faith (Auto)^信念（自動）^페이스(AUTO용)^Foi (auto)^Ener (auto)^Fe (Auto)
 MST_MAGIC_NAME_30230^Sleepga^強催眠^슬리플가^Sommeil X^Schlafga^Morfeo++

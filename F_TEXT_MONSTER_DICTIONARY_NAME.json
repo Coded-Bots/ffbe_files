@@ -191,7 +191,7 @@ MST_MONSTERDICTIONARY_NAME_2020210^Phorusracos^恐鶴^거조^Phorusracos^Aves^Ph
 MST_MONSTERDICTIONARY_NAME_2070130^Wild Saurian^狂野龍^사나운 공룡^Dracosaure^Wildsaurus^Clisosaurio
 MST_MONSTERDICTIONARY_NAME_2090030^Twinscythe^剁足螳螂^쌍칼사마귀^Bifaucille^Zwillingssichel^Guadañero
 MST_MONSTERDICTIONARY_NAME_3040010^Diabolos^迪亞波羅斯^디아볼로스^Diabolos^Diabolos^Diablo
-MST_MONSTERDICTIONARY_NAME_3040110^Arachne^阿剌克涅^아라크네^Arachné^Arachne^Aracnolia
+MST_MONSTERDICTIONARY_NAME_3040110^Arachne^阿剌克涅^아르케니^Arachné^Arachne^Aracnolia
 MST_MONSTERDICTIONARY_NAME_3050120^Veritas of the Heavens^天風之維利亞斯^하늘바람의 베리어스^Veritas des Cieux^Veritas der Himmlische^Veritas el celestial
 MST_MONSTERDICTIONARY_NAME_3060110^Tunnel Armor^掘地裝甲^굴착 아머^Excavatrice^Maulwurf^Tuneladora
 MST_MONSTERDICTIONARY_NAME_3120010^Terror Knight^恐怖騎士^테라 나이트^Chevalier démoniaque^Schreckensritter^Caballero aterrador
@@ -240,7 +240,7 @@ MST_MONSTERDICTIONARY_NAME_4050010^Barbariccia^巴爾巴莉希亞^발바리시�
 MST_MONSTERDICTIONARY_NAME_4050110^Rubicante^盧比坎特^루비칸테^Rubicante^Rubicante^Rubicanti
 MST_MONSTERDICTIONARY_NAME_4120010^Scarmiglione^斯卡米留尼^스컬밀리오네^Scarmiglione^Scarmiglione^Scarmiglione
 MST_MONSTERDICTIONARY_NAME_5050710^Golbez^高貝扎^골베자^Golbez^Golbez^Golbez
-MST_MONSTERDICTIONARY_NAME_1080370^Mini Burst Pot^迷你爆破罐^미니 버스트 포트^Mini pot de limite^Mini-Rausch-Gefäß^Mini tarro de límite
+MST_MONSTERDICTIONARY_NAME_1080370^Mini Burst Pot^迷你爆破罐^미니 버스트 포트^Mini pot de limite^Mini-Rausch-Gefäß^Minitarro de límite
 MST_MONSTERDICTIONARY_NAME_1020170^Sea Ibis^海鷺^바다 따오기^Ibis marin^Seeibis^Ibis marino
 MST_MONSTERDICTIONARY_NAME_1030070^Cobalt Frog^鈷藍巨蛙^코발트 개구리^Grenouille de Cobalt^Kobaltfrosch^Rana de cobalto
 MST_MONSTERDICTIONARY_NAME_1030170^Purple Bavarois^紫色奶凍怪^보라색 바바루아^Bavarois violet^Ulkusgelee^Flan púrpura
@@ -388,7 +388,7 @@ MST_MONSTERDICTIONARY_NAME_2060550^Aldore Trooper^阿爾多爾騎兵^알도르 �
 MST_MONSTERDICTIONARY_NAME_2060770^Aldore Jaeger^阿爾多爾獵手^알도르 사수^Fusilier d'Aldore^Aldore-Schütze^Represor de Aldore
 MST_MONSTERDICTIONARY_NAME_2070060^Cuelebre^雙足翼龍^쿠엘레브레^Cuélebre^Cuelebre^Cuelebre
 MST_MONSTERDICTIONARY_NAME_2080070^Flickering Presence^遊蕩者^요동치는 것^Présence éthérée^Flackernde Präsenz^Ser etéreo
-MST_MONSTERDICTIONARY_NAME_2090240^Gluttony^噬葉蠕蟲^글루토니^Glouton^Völlerei^Glotón
+MST_MONSTERDICTIONARY_NAME_2090240^Grute^噬葉蠕蟲^글루토니^Glouton^Völlerei^Zampón
 MST_MONSTERDICTIONARY_NAME_3010160^Kaiser Behemoth^凱撒凶惡巨獸^카이저 베히모스^Béhémoth empereur^Kaiser-Behemoth^Bégimo káiser
 MST_MONSTERDICTIONARY_NAME_3010370^Starver^餓魔^굶주린 포식자^Affameur^Hungernder^Hambriento
 MST_MONSTERDICTIONARY_NAME_3050610^Veritas of the Earth^王土之維利亞斯^위대한 대지의 베리어스^Veritas des Terres^Veritas der Erde^Veritas el terrestre
@@ -484,7 +484,7 @@ MST_MONSTERDICTIONARY_NAME_2090040^Mantis Devil^螳螂惡魔^사마귀 악마^Ma
 MST_MONSTERDICTIONARY_NAME_3010070^Alpha Chimera^阿爾法奇美拉^알파 키마이라^Khimaira alpha^Alphachimäre^Quimera alfa
 MST_MONSTERDICTIONARY_NAME_2010240^Pale Leopard^絨須豹^페일 레오파드^Léopâle^Bleicher Leopard^Leopálido
 MST_MONSTERDICTIONARY_NAME_2040130^Epicure^挑食惡魔^에피큐어^Épicure^Feinschmecker^Epicure
-MST_MONSTERDICTIONARY_NAME_3040160^Arachne^阿格馬爾特^아라크네^Arachné^Arachne^Aracnolia
+MST_MONSTERDICTIONARY_NAME_3040160^Agmalt^阿格馬爾特^아라크네^Agmalt^Agmalt^Agmalt
 MST_MONSTERDICTIONARY_NAME_1090410^Wasp^瓦司普^와스프^Guêpe^Wespe^Avispa
 MST_MONSTERDICTIONARY_NAME_2011010^Iguion^休美路克^합성 도마뱀^Iguanor^Schmelke^Iguion
 MST_MONSTERDICTIONARY_NAME_2011110^Xiphos^克西波斯^이프호스^Koospos^Xiphos^Kuspo
@@ -549,12 +549,12 @@ MST_MONSTERDICTIONARY_NAME_2100360^Satanachia^桑塔納基亞^사타나키아^Sa
 MST_MONSTERDICTIONARY_NAME_2120240^Ashasaur^骨龍^애쉬사우르스^Ashasaure^Ashasaur^Asaurio
 MST_MONSTERDICTIONARY_NAME_3020080^Jatayu^迦塔尤^자타유^Jatayu^Jatayu^Jatayu
 MST_MONSTERDICTIONARY_NAME_4110030^Stapelia^五角星花^스타펠리아^Stapelia^Stapelia^Stapelia
-MST_MONSTERDICTIONARY_NAME_1080310^Mini Tough Pot^迷你健體罐^미니 터프 포트^Mini pot de vie^Mini-Fit-Gefäß^Mini tarro robusto
-MST_MONSTERDICTIONARY_NAME_1080320^Mini Magi Pot^迷你增魔罐^미니 매직 포트^Mini pot de magie^Mini-Hex-Gefäß^Mini tarro mágico
-MST_MONSTERDICTIONARY_NAME_1080330^Mini Power Pot^迷你強力罐^미니 파워 포트^Mini pot de puissance^Mini-Kraft-Gefäß^Mini tarro potente
-MST_MONSTERDICTIONARY_NAME_1080340^Mini Shield Pot^迷你防身罐^미니 디펜드 포트^Mini pot de défense^Mini-Hart-Gefäß^Mini tarro duro
-MST_MONSTERDICTIONARY_NAME_1080350^Mini Smart Pot^迷你魔力罐^미니 인텔리 포트^Mini pot d'intelligence^Mini-Schlau-Gefäß^Mini tarro astuto
-MST_MONSTERDICTIONARY_NAME_1080360^Mini Soul Pot^迷你提神罐^미니 스피릿 포트^Pot d'esprit^Mini-Seelen-Gefäß^Mini tarro piadoso
+MST_MONSTERDICTIONARY_NAME_1080310^Mini Tough Pot^迷你健體罐^미니 터프 포트^Mini pot de vie^Mini-Fit-Gefäß^Minitarro robusto
+MST_MONSTERDICTIONARY_NAME_1080320^Mini Magi Pot^迷你增魔罐^미니 매직 포트^Mini pot de magie^Mini-Hex-Gefäß^Minitarro mágico
+MST_MONSTERDICTIONARY_NAME_1080330^Mini Power Pot^迷你強力罐^미니 파워 포트^Mini pot de puissance^Mini-Kraft-Gefäß^Minitarro potente
+MST_MONSTERDICTIONARY_NAME_1080340^Mini Shield Pot^迷你防身罐^미니 디펜드 포트^Mini pot de défense^Mini-Hart-Gefäß^Minitarro duro
+MST_MONSTERDICTIONARY_NAME_1080350^Mini Smart Pot^迷你魔力罐^미니 인텔리 포트^Mini pot d'intelligence^Mini-Schlau-Gefäß^Minitarro astuto
+MST_MONSTERDICTIONARY_NAME_1080360^Mini Soul Pot^迷你提神罐^미니 스피릿 포트^Pot d'esprit^Mini-Seelen-Gefäß^Minitarro piadoso
 MST_MONSTERDICTIONARY_NAME_1080410^Tough Pot^健體罐^터프 포트^Pot de vie^Fit-Gefäß^Tarro robusto
 MST_MONSTERDICTIONARY_NAME_1080420^Magi Pot^增魔罐^매직 포트^Pot de magie^Hex-Gefäß^Tarro mágico
 MST_MONSTERDICTIONARY_NAME_1080430^Power Pot^強力罐^파워 포트^Pot de puissance^Kraft-Gefäß^Tarro potente
@@ -722,7 +722,7 @@ MST_MONSTERDICTIONARY_NAME_1082060^Apostle Earth^大地使徒^땅의 사도^Apô
 MST_MONSTERDICTIONARY_NAME_1082070^Apostle Light^光輝使徒^빛의 사도^Apôtre de lumière^Lichtapostel^Apóstol de luz
 MST_MONSTERDICTIONARY_NAME_1082080^Apostle Darkness^黑暗使徒^어둠의 사도^Apôtre de ténèbres^Dunkelapostel^Apóstol de oscuridad
 MST_MONSTERDICTIONARY_NAME_3080310^Bloody Moon^血腥紅月^블러디 문^Lune de sang^Blutmond^Luna sangrienta
-MST_MONSTERDICTIONARY_NAME_2060920^A-Type Magitek Armor+^A式魔導裝甲改^개량형 A식 마도 아머^Armure magitech type-A +^Magitek-Mech-Typ-A+^Unidad Magitec tipo A+
+MST_MONSTERDICTIONARY_NAME_2060920^A-Type Magitek Armor+^A式魔導裝甲改^개량형 A식 마도 아머^Armure magitech type-A +^Magitek-Mech Typ A+^Unidad Magitec tipo A+
 MST_MONSTERDICTIONARY_NAME_2090330^Scolopendra^少棘蜈蚣^스콜펜드라^Scolopendre^Scolopendra^Escolopendra
 MST_MONSTERDICTIONARY_NAME_2090160^Red Claw^血紅巨蠍^레드 클로^Pince rouge^Rotschere^Cuervo rojo
 MST_MONSTERDICTIONARY_NAME_1090180^Wolf Spider^狼蜘蛛^늑대거미^Araignée loup^Wolfsspinne^Araña lobo
@@ -749,7 +749,7 @@ MST_MONSTERDICTIONARY_NAME_4070120^Evil Drake^惡魔龍^악마룡^Dragon maléfi
 MST_MONSTERDICTIONARY_NAME_2110340^Dionaea^捕蠅草^파리지옥^Dionaea^Dionaea^Dionaea
 MST_MONSTERDICTIONARY_NAME_1090340^Ojo^單眼血怪^오코스^Ojo^Ojo^Ojo
 MST_MONSTERDICTIONARY_NAME_2060590^Old Style Trooper^舊式騎兵^구식 트루퍼^Soldat rétro^Reiter alter Schule^Soldado retro
-MST_MONSTERDICTIONARY_NAME_3070050^Titanosaurs^泰坦巨龍^티타노사우르스^Titanosaure^Titanosaurus^Titanosauro
+MST_MONSTERDICTIONARY_NAME_3070050^Titanosaurus^泰坦巨龍^티타노사우르스^Titanosaure^Titanosaurus^Titanosauro
 MST_MONSTERDICTIONARY_NAME_2080240^Sombra^桑比那^솜브라^Sombra^Sombra^Sombra
 MST_MONSTERDICTIONARY_NAME_3020050^Rukh^胡兀鷲^루크^Rukh^Rukh^Rukh
 MST_MONSTERDICTIONARY_NAME_3120030^Cursed Knight^詛咒騎士^저주받은 기사^Chevalier maudit^Verfluchter Ritter^Caballero maldito
@@ -810,7 +810,7 @@ MST_MONSTERDICTIONARY_NAME_1010210^Silver Lobo^鉛甲狼^실바리오^Loup gris^
 MST_MONSTERDICTIONARY_NAME_1051020^Aldore Officer^阿爾多爾將校^알도르 장교^Officier d'Aldore^Aldore-Offizier^Oficial de Aldore
 MST_MONSTERDICTIONARY_NAME_1051320^Aldore Heavy Gunner^阿爾多爾重砲兵^알도르 중포병^Mitrailleur lourd d'Aldore^Massiver Aldore-Schütze^Artillero pesado de Aldore
 MST_MONSTERDICTIONARY_NAME_2010250^Rose Panther^玫瑰色長鬚豹^로제 팬서^Panthère rose^Rosa Panther^Pantera rosa
-MST_MONSTERDICTIONARY_NAME_2020150^Rokh^不死巨鳥^암제스^Rokh^Rokh^Rokh
+MST_MONSTERDICTIONARY_NAME_2020150^Amurzes^不死巨鳥^암제스^Rokh^Rokh^Rokh
 MST_MONSTERDICTIONARY_NAME_1030720^Bolt Fish^電魚^전기물고기^Electropoisson^Blitzfisch^Pez eléctrico
 MST_MONSTERDICTIONARY_NAME_1030260^Fastitocalon^灰猛魚^패스티토칼론^Fastitocalon^Fastitocalon^Focalor
 MST_MONSTERDICTIONARY_NAME_2030110^Adamanfold^堅鋼福德龜^아다만폴드^Adamanfold^Adamanfold^Adamanfold
@@ -889,7 +889,7 @@ MST_MONSTERDICTIONARY_NAME_3011410^Chimera^奇美拉^키마이라^Khimaira^Chim�
 MST_MONSTERDICTIONARY_NAME_3020310^Zenker^鳥人^젠커^Zenker^Tzenker^Zenker
 MST_MONSTERDICTIONARY_NAME_3030410^Metal Crab^金屬蟹^풀메탈하거^Crabe métallique^Metallkrabbe^Cangrejo metálico
 MST_MONSTERDICTIONARY_NAME_3100010^Genoa^讓努瓦^제노아^Eugennoix^Genova^Genoa
-MST_MONSTERDICTIONARY_NAME_3052410^Shadow Knight^暗影騎士^섀도우 나이트^Chevalier sombre^Schattenherrscher^Caballero oscuro
+MST_MONSTERDICTIONARY_NAME_3052410^Dark Lord^暗影騎士^섀도우 나이트^Chevalier sombre^Schattenherrscher^Caballero oscuro
 MST_MONSTERDICTIONARY_NAME_2010760^Gungan Horse^群岩馬^건간 호스^Cheval Gungan^Gunganpferd^Caballo gungan
 MST_MONSTERDICTIONARY_NAME_1110860^Aconite^烏頭^아코나이트^Aconite^Eisenhut^Acónito
 MST_MONSTERDICTIONARY_NAME_2090320^Chainsect^密林蜈蚣^밀림지네^Combinsecte^Kettinsekt^Cadenoide
@@ -968,7 +968,7 @@ MST_MONSTERDICTIONARY_NAME_2100710^Gargoyle^石像鬼^가고일^Gargouille^Gargo
 MST_MONSTERDICTIONARY_NAME_2057820^Baron Marine^巴隆海軍^바론 해병^Fusilier-marin de Baron^Baron-Marine^Marino de Baronia
 MST_MONSTERDICTIONARY_NAME_2057810^Captain^上尉^대위^Capitaine^Kapitän^Capitán
 MST_MONSTERDICTIONARY_NAME_1030160^Flan Princess^布丁公主^푸딩 프린세스^Princesse flan^Puddingprinzessin^Princesa flan
-MST_MONSTERDICTIONARY_NAME_3052610^Kain^凱因^카인^Kain^Kain^Kain
+MST_MONSTERDICTIONARY_NAME_3052610^Kain^凱因^카인^Kaïn^Kain^Kain
 MST_MONSTERDICTIONARY_NAME_2020230^Roadrunner^走鵑鳥^로드 런너^Tracelaroute^Road Runner^Correcaminos
 MST_MONSTERDICTIONARY_NAME_3090050^Wild Maneuver^野生冰原蟻獅^와일드 마누바^Manœuvre sauvage^Wildes Manöver^Arramplador salvaje
 MST_MONSTERDICTIONARY_NAME_1040040^Plague Horror^災禍之瞳^페스트^Œil pestilentiel^Teufelsauge^Abominación
@@ -981,7 +981,7 @@ MST_MONSTERDICTIONARY_NAME_4010710^Aldhafera^阿達非拉^알다페라^Aldhafera
 MST_MONSTERDICTIONARY_NAME_4010810^Nian Beast^年獸^니안^Nian^Nian-Bestie^Bestia Nian
 MST_MONSTERDICTIONARY_NAME_4010910^Great Nian Beast^巨年獸^거대 니안^Nian géant^Große Nian-Bestie^Megabestia Nian
 MST_MONSTERDICTIONARY_NAME_1051240^Aldore Guard^阿爾多爾警備兵^알도르 경비병^Garde d'Aldore^Aldore-Wache^Guardia de Aldore
-MST_MONSTERDICTIONARY_NAME_2058110^Coeurl Rider^長鬚豹騎士^커얼 라이더^Cavalier cœurl^Coeurl-Reiter^Bengal jinete
+MST_MONSTERDICTIONARY_NAME_2058110^Coeurl Rider^長鬚豹騎士^커얼 라이더^Cavalier cœurl^Coeurl-Reiter^Jinete de bengales
 MST_MONSTERDICTIONARY_NAME_2070180^Hexadragon^熔龍^멜트 드래곤^Dragosaure^Schmelzdrache^Hexadragón
 MST_MONSTERDICTIONARY_NAME_2070470^Ouro^奧羅^오우로^Ouro^Ouro^Ouro
 MST_MONSTERDICTIONARY_NAME_2100320^Horned Devil^長角魔^혼드 데빌^Diable à cornes^Gehörnter Teufel^Demonio astado
@@ -1137,7 +1137,7 @@ MST_MONSTERDICTIONARY_NAME_1051910^Snaga^暗黑妖精^스내거^Snaga^Snaga^Ñub
 MST_MONSTERDICTIONARY_NAME_1010710^Falxfang^狴犴^헤이칸^Bi'an^Falxfang^Bi'an
 MST_MONSTERDICTIONARY_NAME_2031210^Gurangatch^利齒怪鱷^그란갓치^Gurangatch^Gurangatch^Grangach
 MST_MONSTERDICTIONARY_NAME_1111210^Malboro Sprout^毛爾波爾嬰孩^몰볼 베이비^Graine de morbol^Morbol-Sprössling^Brote de molbol
-MST_MONSTERDICTIONARY_NAME_2031310^Gigantoad^巨蛙^기간토드^Crapaud-buffle^Riesenkröte^Rana gigante
+MST_MONSTERDICTIONARY_NAME_2031310^Gigantoad^巨蛙^기간토드^Crapaud-buffle^Karpfenkröte^Rana gigante
 MST_MONSTERDICTIONARY_NAME_4110310^Malboro^毛爾波爾^몰볼^Morbol^Morbol^Molbol
 MST_MONSTERDICTIONARY_NAME_1070080^Zmei^小型地龍^즈메이^Zmei^Zmei^Zmei
 MST_MONSTERDICTIONARY_NAME_1080220^Jupiter^朱庇特^주피터^Jupiter^Jupiter^Júpiter
@@ -1177,7 +1177,7 @@ MST_MONSTERDICTIONARY_NAME_2100460^Yakhanati^銳牙魔石獸^야크하나티^Yak
 MST_MONSTERDICTIONARY_NAME_2110230^Shaguma^劇毒孢子菇^자그마^Shaguma^Shaguma^Shaguma
 MST_MONSTERDICTIONARY_NAME_3053610^Distorque of the Zeta Star^六鬥星迪斯特魯克^육성투사 디스토르크^Distorque de l'étoile Zêta^Zeta-Stern-Destork^Distorque de la estrella Zeta
 MST_MONSTERDICTIONARY_NAME_3053710^Demoldoa^五鬥星德摩多^오성투사 데모르도아^Demoldoa^Demoldoa^Demoldoa
-MST_MONSTERDICTIONARY_NAME_1020810^Evilhead^邪惡之首^악마의 머리^Tête de démon^Böskopf^Cabeza diabólica
+MST_MONSTERDICTIONARY_NAME_1020810^Evilhead^邪惡之首^이블 헤드^Tête de démon^Böskopf^Cabeza diabólica
 MST_MONSTERDICTIONARY_NAME_2090910^Zolokalter^佐洛卡爾塔^조로칼터^Zolokalter^Zolokalter^Zolokalter
 MST_MONSTERDICTIONARY_NAME_2012110^Coeurl^長鬚豹^커얼^Cœurl^Coeurl^Bengal
 MST_MONSTERDICTIONARY_NAME_2012210^Headbomber^頭槌企鵝^헤드 봄버^Headbomber^Kopfbomber^Bombardero
@@ -1212,7 +1212,7 @@ MST_MONSTERDICTIONARY_NAME_3060810^Nymurod^尼姆羅德炮^님로드^Nimrod^Nimr
 MST_MONSTERDICTIONARY_NAME_2060821^Magitek Armor^魔導裝甲^마도 아머^Armure magitech^Magitek-Mech^Unidad Magitec
 MST_MONSTERDICTIONARY_NAME_3060910^Colossus^魔導巨兵^콜로서스^Colosse^Koloss^Coloso
 MST_MONSTERDICTIONARY_NAME_3061010^Helldiver^地獄潛者^헬 다이버^Helldiver^Höllentaucher^Buzo del abismo
-MST_MONSTERDICTIONARY_NAME_3053910^Gilgamesh^吉爾伽美什^길가메시^Gilgamesh^Gilgamesh^Gilgamesh
+MST_MONSTERDICTIONARY_NAME_3053910^Gilgamesh^吉爾伽美什^길가메시^Gilgamesh^Gilgamesch^Gilgamesh
 MST_MONSTERDICTIONARY_NAME_4030210^Alpherg^阿爾菲戈^알페르그^Alpherg^Alpherg^Alferg
 MST_MONSTERDICTIONARY_NAME_1010070^Echo Rat^球型鼠^코다마네즈미^Rat écho^Echoratte^Rata ecolienta
 MST_MONSTERDICTIONARY_NAME_1050560^Rogue^土匪^로그^Vaurien^Gauner^Bribón
@@ -1266,7 +1266,7 @@ MST_MONSTERDICTIONARY_NAME_3030140^Tentickler^觸角^텐타클^^^Tenticuler
 MST_MONSTERDICTIONARY_NAME_4061710^G-Elements^G元素^G엘리멘츠^^^Elementos G
 MST_MONSTERDICTIONARY_NAME_4061810^Weltall-Id^維爾托爾・伊多^벨톨 이드^^^Weltall-Id
 MST_MONSTERDICTIONARY_NAME_1030730^Piranha^食人魚^피라냐^Pirahna^Piranha^Piraña
-MST_MONSTERDICTIONARY_NAME_1051080^Aldore Guard^阿爾多爾護衛兵^알도르 호위병^Garde d'Aldore^Aldore-Leibwache^Guardia de Aldore
+MST_MONSTERDICTIONARY_NAME_1051080^Aldore Convoy^阿爾多爾護衛兵^알도르 호위병^Garde d'Aldore^Aldore-Leibwache^Escolta de Aldore
 MST_MONSTERDICTIONARY_NAME_1051180^Aldore Bladed Guard^阿爾多爾劍鬥護衛兵^알도르 검투 호위병^Garde à épée d'Aldore^Aldore-Klingenleibwache^Guardia con espada de Aldore
 MST_MONSTERDICTIONARY_NAME_1051280^Aldore Assault Guard^阿爾多爾突擊護衛兵^알도르 돌격 호위병^Garde d'assaut d'Aldore^Aldore-Sturmleibwache^Guardia de asalto de Aldore
 MST_MONSTERDICTIONARY_NAME_1051380^Aldore Heavy Gunner Guard^阿爾多爾重炮護衛兵^알도르 중포 호위병^Garde-mitrailleur lourd d'Aldore^Massiver Aldore-Leibwachenschütze^Guardia de artillería pesada de Aldore

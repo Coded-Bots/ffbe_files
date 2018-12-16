@@ -202,29 +202,29 @@ MST_JOB_NAME_168^Slime Knight^史萊姆騎士^슬라임 나이트^Monte-gluant^S
 MST_JOB_NAME_169^Dracky^多拉奇^드라키^Vampivol^Drako^Dracanino
 MST_JOB_NAME_170^Orders^號令者^오더즈^Membre de l'Ordre^Ordensmitglied^Miembro de las Órdenes
 MST_JOB_NAME_171^Officer^軍官^사관^Officier^Offizier^Oficial
-MST_JOB_NAME_172^Knight^騎士^나이트^^^Caballero
-MST_JOB_NAME_173^Wizard^巫師^마도사^^^
-MST_JOB_NAME_174^Thief^竊賊^도적^^^
-MST_JOB_NAME_175^Monster^魔物^마물^^^
+MST_JOB_NAME_172^Knight^騎士^나이트^Chevalier^Ritter^Caballero
+MST_JOB_NAME_173^Warlock^巫師^마도사^Sorcier^Zauberer^Hechicero
+MST_JOB_NAME_174^Thief^竊賊^도적^Voleur^Dieb^Ladrón
+MST_JOB_NAME_175^Monster^魔物^마물^Monstre^Monster^Monstruo
 MST_JOB_NAME_176^Exorcist^陰陽師^음양사^Exorciste^Yin-Yang-Meister^Exorcista
-MST_JOB_NAME_177^Wizard^魔導士^마도사^^^
-MST_JOB_NAME_178^Gigant^巨獸^기간트^^^
+MST_JOB_NAME_177^Wizard^魔導士^마도사^Sorcier^Zauberer^Erudito
+MST_JOB_NAME_178^Gigant^巨獸^기간트^Géant^Gigant^Gigante
 MST_JOB_NAME_179^Prince's Adviser^王子的參謀^왕자의 참모^Conseiller du prince^Berater des Prinzen^Consejero del príncipe
 MST_JOB_NAME_180^Magic Bombardier^魔炮擊士^마포격사^Bombardier magique^Magischer Bombardier^Bombardeo mágico
 MST_JOB_NAME_181^Chooser of the Slain^靈魂選擇者^영혼을 택하는 자^Celle qui choisit les morts^Richterin der Seelen^Seleccionadora de los caídos
 MST_JOB_NAME_182^Sorceress^魔術師^주술사^Enchanteresse^Magierin^Hechicera
-MST_JOB_NAME_183^Avalanche^雪崩^아발란치^^^
-MST_JOB_NAME_184^Ex-Turks^原總務部調查科^전 턱스^^^
-MST_JOB_NAME_185^Fortune-telling Machine^占卜機器^점술 머신^^^
+MST_JOB_NAME_183^Avalanche^雪崩^아발란치^AVALANCHE^Avalanche^Avalancha
+MST_JOB_NAME_184^Former Turk^原總務部調查科^전직 턱스^Ex-Turks^Ex-Turk^Exturco
+MST_JOB_NAME_185^Fortune-teller^占卜機器^점술 머신^Diseur de bonne aventure^Wahrsagomat^Robot adivino
 MST_JOB_NAME_186^Culinarian^烹調師^요리사^Cuisinier^Chefkoch^Chef
-MST_JOB_NAME_187^Flammie^弗拉米^플라미^^^
-MST_JOB_NAME_188^Rabite^拉比兔^라비^^^
+MST_JOB_NAME_187^Flammie^弗拉米^플라미^Flammie^Flammie^Flammie
+MST_JOB_NAME_188^Rabite^拉比兔^라비^Lapyn^Pogopuschel^Codejo
 MST_JOB_NAME_189^Instructor^教官^교관^Instructeur^Ausbilder^Instructor
-MST_JOB_NAME_190^Aristocrat^貴族^귀족^^^
-MST_JOB_NAME_191^Tomb Raider^古墓奇兵^툼 레이더^^^
-MST_JOB_NAME_192^Mother of Hess^赫斯之母^헤스의 어머니^^^
-MST_JOB_NAME_193^Child of Hess^赫斯之子^헤스의 아이들^^^
-MST_JOB_NAME_194^Magus^魔道師^마도사^^^
+MST_JOB_NAME_190^Aristocrat^貴族^귀족^Aristocrate^Adliger^Aristócrata
+MST_JOB_NAME_191^Tomb Raider^古墓奇兵^툼 레이더^Pilleur de tombe^Grabräuber^Saqueadora de tumbas
+MST_JOB_NAME_192^Mother of Hess^赫斯之母^헤스의 어머니^Mère de Hess^Mutter von Hess^Madre de Hess
+MST_JOB_NAME_193^Child of Hess^赫斯之子^헤스의 아이들^Enfant de Hess^Kind von Hess^Hijo de Hess
+MST_JOB_NAME_194^Magus^魔道師^마도사^Magus^Magus^Magus
 MST_JOB_NAME_9030^Faction Leader^反抗軍領袖^저항군 지도자^Chef de faction^Gruppierungsanführer^Líder de facción
 MST_JOB_NAME_9031^Hero^英雄^영웅^Héros^Held^Héroe
 MST_JOB_NAME_9032^Agent^特務^에이전트^Agent^Agent^Agente
@@ -252,3 +252,4 @@ MST_JOB_NAME_9039^Succubus^魅魔^서큐버스^Succube^Sukkubus^Súcubo
 MST_JOB_NAME_9040^Incubus^夢魔^인큐버스^Incube^Inkubus^Íncubo
 MST_JOB_NAME_9041^Tonberry^冬貝利^톤베리^Tomberry^Tonberry^Tomberi
 MST_JOB_NAME_9042^Hemomancer^血巫師^헤모맨서^Hémomancienne^Blutmagier^Hemomante
+MST_JOB_NAME_9043^Popstar^流行音樂巨星^팝스타^Popstar^Popstar^Estrella del pop

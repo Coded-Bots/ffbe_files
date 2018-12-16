@@ -356,7 +356,7 @@ MST_EQUIP_ITEM_NAME_401001300^Dragon Shield^龍盾^드래곤의 방패^Bouclier 
 MST_EQUIP_ITEM_NAME_403041400^Cat-ear Hood^貓耳頭罩^고양이 두건^Capuchon de chat^Katzenohrenkappe^Orejas de gato
 MST_EQUIP_ITEM_NAME_409003100^Torrent Ring^水神戒指^수신의 반지^Bague azurée^Blauer Ring^Anillo de Sobek
 MST_EQUIP_ITEM_NAME_409009100^Germinas Boots^格爾米納斯長靴^게르미나스 부츠^Bottes de Germinas^Germinas Stiefel^Botas de Germinas
-MST_EQUIP_ITEM_NAME_409001700^Safety Bit^祈安珠^세이프티 비트^Sphère de sûreté<br>^Sicherheitseinsatz^Lazo seguro
+MST_EQUIP_ITEM_NAME_409001700^Safety Bit^祈安珠^세이프티 비트^Sphère de sûreté^Sicherheitseinsatz^Lazo seguro
 MST_EQUIP_ITEM_NAME_402001600^Shield of the Empire^帝國之盾^제국의 방패^Bouclier impérial ^Imperialer Schild^Escudo imperial
 MST_EQUIP_ITEM_NAME_409009200^Magic Amplifier^魔導力增幅裝置^마도력 증폭장치^Amplificateur magique ^Magischer Verstärker^Amplificador mágico
 MST_EQUIP_ITEM_NAME_301001700^Bowie Knife^槍手短刃^보위 나이프^Couteau Bowie^Bowiemesser^Cuchillo bowie
@@ -558,7 +558,7 @@ MST_EQUIP_ITEM_NAME_409012800^Zephyr Cape^微風斗篷^산들바람 망토^Cape 
 MST_EQUIP_ITEM_NAME_409012900^Tynar Rouge^小巧口紅^팅커의 립스틱^Tynar Rouge^Tynar Rouge^Pintalabios carmesí
 MST_EQUIP_ITEM_NAME_409013000^Mark of the Raven^萊文之證^레이븐의 증명^Insigne des Raven^Zeichen des Raben^Insignia de Raven
 MST_EQUIP_ITEM_NAME_409013100^Great Raven's Cape^烏鴉斗篷^갈까마귀 망토^Grande cape des Raven^Umhang des Großen Raben^Gran capa de Raven
-MST_EQUIP_ITEM_NAME_303003000^Glauca's Greatsword^格拉烏卡大劍^글라우카의 대검^Longue épée de Glauca^Glaucas Großschwert^Espada G de Glauca
+MST_EQUIP_ITEM_NAME_303003000^Glauca's Greatsword^格拉烏卡大劍^글라우카의 대검^Longue épée de Glauca^Glaucas Großschwert^Espada grande de Glauca
 MST_EQUIP_ITEM_NAME_405003200^Kingsglaive Uniform^王之劍戰鬥服^킹스글레이브 전투복^Uniforme du Glaive royal^Königsgleven-Uniform^Uniforme de Glaive real
 MST_EQUIP_ITEM_NAME_403042900^Kingsglaive Hood^王之劍頭罩^킹스글레이브 후드^Capuche du Glaive royal^Königsgleven-Kappe^Capucha de Glaive real
 MST_EQUIP_ITEM_NAME_313002800^Assault Rifle^突擊火槍^돌격총^Fusil d'assaut^Sturmgewehr^Rifle de asalto
@@ -980,7 +980,7 @@ MST_EQUIP_ITEM_NAME_403044900^Wolf Mask^狼面具^늑대 마스크^Masque de lou
 MST_EQUIP_ITEM_NAME_307002100^Thorned Mace+^荊棘權杖·改^개량형 가시 메이스^Rose de fer +^Stachelkolben +^Mazo de púas+
 MST_EQUIP_ITEM_NAME_309003000^Godhands (FFXI)^神之手（FFXI）^갓핸드(FFXI)^Main de dieu (FFXI)^Gotteshand (FFXI)^Puño divino (FFXI)
 MST_EQUIP_ITEM_NAME_402002700^Reverie Shield (FFT)^空想盾(FFT)^리버리 실드(FFT)^Bouclier onirique (FFT)^Träumereischild (FFT)^Escudo ensueño (FFT)
-MST_EQUIP_ITEM_NAME_303004400^Ultima Weapon (FFVII)^究極武器(FFVII)^알테마 웨폰(FFVII)^Ultima Arma (FFVII)^Ultimawaffe (FFVII)^Arma Artema (FFVII)
+MST_EQUIP_ITEM_NAME_303004400^Ultima Weapon (FFVII)^究極武器(FFVII)^알테마 웨폰(FFVII)^Épée Ultima (FFVII)^Ultimawaffe (FFVII)^Arma Artema (FFVII)
 MST_EQUIP_ITEM_NAME_407003300^Flamelord's Armor^劫火之鎧^지옥불의 갑옷^Armure de Veritas des flammes^Flammenherschers Rüstung^Armadura del Llameante
 MST_EQUIP_ITEM_NAME_303004500^Chrome Sphene^綠寶石^크롬스펜^Titanite chromatique^Chromsphen^Esfenocromo
 MST_EQUIP_ITEM_NAME_407003400^Lightlord's Armor^光輝之鎧^찬란한 빛의 갑옷^Armure de lumière^Lichtherrs Rüstung^Armadura del Luminoso
@@ -1012,12 +1012,12 @@ MST_EQUIP_ITEM_NAME_409020700^Grasping Sphere^掌中魔球^클링 스피어^Sph�
 MST_EQUIP_ITEM_NAME_404003100^Genji Helm (FFV)^源氏之盔（FFV）^겐지의 투구(FFV)^Casque de Genji (FFV)^Genji-Helm (FFV)^Casco de Genji (FFV)
 MST_EQUIP_ITEM_NAME_311003800^Serapia's Staff^塞拉皮亞之杖^세라피아의 지팡이^Bâton de Serapia^Serapias Stab^Bastón de Serapia
 MST_EQUIP_ITEM_NAME_316001800^Two-Headed Dragon's Harp^雙龍豎琴^쌍두룡의 하프^Harpe du dragon à deux têtes^Harfe des Zweiköpfigen Drachens^Harpa del dragón bicéfalo
-MST_EQUIP_ITEM_NAME_308004300^Virtue Drake^封槍維特德雷克^봉창 버추 드레이크^Dragon vertueux^Tugend-Drache^Virtud draconiana
+MST_EQUIP_ITEM_NAME_308004300^Virtue Drake^封槍維特德雷克^봉창 버추 드레이크^Dragon vertueux^Tugenddrache^Virtud draconiana
 MST_EQUIP_ITEM_NAME_304003100^Zantetsuken (FFBE)^斬鐵劍（FFBE）^참철검(FFBE)^Zantetsuken (FFBE)^Zantetsuken (FFBE)^Sable justiciero (FFBE)
 MST_EQUIP_ITEM_NAME_408003800^Yuna's Clothes^優娜衣^유우나의 옷^Tenue de Yuna^Yunas Kleidung^Ropa de Yuna
 MST_EQUIP_ITEM_NAME_408003900^Sakura's Robe^櫻的法袍^사쿠라의 로브^Robe de Sakura^Sakuras Robe^Túnica de Sakura
 MST_EQUIP_ITEM_NAME_409020800^Magic Control Ring^魔力操作環^마력 조작 고리^Bague de contrôle magique^Magiekontrollring^Anillo de control mágico
-MST_EQUIP_ITEM_NAME_313003700^Executioner (FFXV)^處刑者(FFXV)^이그제큐셔너(FFXV)^Exécuteur (FFXV)^Henker (FFXV)^Ejecutor (FFXV)
+MST_EQUIP_ITEM_NAME_313003700^Executioner (FFXV)^處刑者(FFXV)^이그제큐셔너(FFXV)^Exécuteur (FFXV)^Scharfrichter^Ketch (FFXV)
 MST_EQUIP_ITEM_NAME_301003400^Lightning Dagger^雷霆短劍^번개의 단검^Dague foudroyante^Blitzdolch^Daga de rayo
 MST_EQUIP_ITEM_NAME_309003200^Platinum Fist^白金拳套^백금의 주먹^Poing de platine^Platinfaust^Puño de platino
 MST_EQUIP_ITEM_NAME_403045200^Earth Hood^土之頭罩^대지의 두건^Capuche de la Terre^Erdkappe^Capucha terrenal
@@ -1095,7 +1095,7 @@ MST_EQUIP_ITEM_NAME_313004400^Silk Parasol^絲綢遮陽傘^비단 양산^Ombrell
 MST_EQUIP_ITEM_NAME_405005400^Handsome Uniform^華美之服^멋진 모습^Uniforme élégant^Schicke Uniform^Uniforme bonito
 MST_EQUIP_ITEM_NAME_402003000^Attractive Shield^魅惑之盾^매력적인 방패^Bouclier de la séduction^Attraktiver Schild^Escudo bonito
 MST_EQUIP_ITEM_NAME_314001800^Star Trail^星之痕^별의 궤적^Traînée d'étoile^Sternenschweif^Cetro estelar
-MST_EQUIP_ITEM_NAME_302006700^Cannon's Blade^坎農劍^카논 블레이드^Lame de canon^Kanonenklinge^Espada mortífera
+MST_EQUIP_ITEM_NAME_302006700^Cannon's Blade^坎農劍^카논 블레이드^Lame de Cannon^Kanonenklinge^Espada de Cannon
 MST_EQUIP_ITEM_NAME_302006800^Ragnarok (FFBE)^諸神黃昏（FFBE）^라그나로크(FFBE)^Ragnarok (FFBE)^Ragnarok (FFBE)^Ragnarok (FFBE)
 MST_EQUIP_ITEM_NAME_302006900^Ragnarok - Replica^諸神黃昏·複製品^라그나로크·레플리카^Ragnarok - réplique^Ragnarok - Replik^Réplica de Ragnarok
 MST_EQUIP_ITEM_NAME_313004500^Automatic Pistol^自動手槍^자동 권총^Pistolet automatique^Maschinenpistole^Pistola automática
@@ -1218,3 +1218,12 @@ MST_EQUIP_ITEM_NAME_1100000213^Onimaru^鬼丸^오니마루^Onimaru^Onimaru^Onima
 MST_EQUIP_ITEM_NAME_1100000214^Fallen Angle^墮天死^타락한 천사^Gardienne déchue^Gefallener Bengel^Ángumor
 MST_EQUIP_ITEM_NAME_1100000215^Florid Hairpin^薄紅髮夾^화려한 머리핀^Épingle ouvragée^Blumige Haarnadel^Coletero florido
 MST_EQUIP_ITEM_NAME_1100000218^Dark Faith^黑暗信仰^어둠의 신앙^Foi sombre^Dunkler Glaube^Fe oscura
+MST_EQUIP_ITEM_NAME_1100000219^Fryevia's Suit^弗雷比亞服^프레이비아의 옷^Tenue de Fryevia^Fryevias Gewand^Traje de Fryevia
+MST_EQUIP_ITEM_NAME_1100000220^Daybreak^黎明^새벽^Point du jour^Morgendämmerung^Amanecer
+MST_EQUIP_ITEM_NAME_1100000217^Producer Moogle Charm^製作人莫古利護身符^프로듀서 모그리 부적^Talismog du producteur^Produzentenmogry-Anhänger^Amuleto de moguri productor
+MST_EQUIP_ITEM_NAME_1100000216^Fan Festa 2018 Gift Basket^2018粉絲慶典禮物籃^팬 페스타 2018 선물 바구니^Panier-cadeaux de la Fan Festa 2018^Fan Festa 2018 Geschenkkorb^Cesta de regalo de Fan Festa 2018
+MST_EQUIP_ITEM_NAME_1100000222^Popstar's Microphone^流行音樂巨星的麥克風^팝스타의 마이크^Micro de Popstar^Mikrofon des Popstars^Micrófono de estrella del pop
+MST_EQUIP_ITEM_NAME_1100000223^Crimson Dragon Robe^赤龍法袍^홍룡의 로브^Robe de Dragon écarlate^Purpurne Drachenrobe^Túnica de dragón carmesí
+MST_EQUIP_ITEM_NAME_1100000224^Crimson Dragon Cowl^赤龍帽兜^홍룡의 두건^Capuche de Dragon écarlate^Purpurne Drachenkapuze^Capucha de dragón carmesí
+MST_EQUIP_ITEM_NAME_1100000225^Crimson Wedge Heels^赤紅楔形鞋^진홍색 롱부츠^Cuissardes écarlates^Purpurne Stiletto-Stiefel^Zapatos de cuña carmesí
+MST_EQUIP_ITEM_NAME_1100000221^Popstar's Pendulum^流行音樂巨星的擺錘^팝스타의 펜듈럼^Pendule de Popstar^Pendel des Popstars^Péndulo de estrella del pop

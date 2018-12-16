@@ -31655,7 +31655,7 @@
     {
         "6uvHX2JG": "Type Zero wave 1 BGN", 
         "G4L0YIB2": "ＬＢを使用せずクリア", 
-        "Pzn5h0Ga": "6", 
+        "Pzn5h0Ga": "17", 
         "V36ygRYs": "70601011", 
         "Z0EN6jSh": "1", 
         "dX6cor8j": "50:1:10", 
@@ -31690,8 +31690,8 @@
     }, 
     {
         "6uvHX2JG": "Type Zero wave 1 INT", 
-        "G4L0YIB2": "雷属性で敵にダメージを与える", 
-        "Pzn5h0Ga": "17", 
+        "G4L0YIB2": "全ての魔法を使用せずにクリア", 
+        "Pzn5h0Ga": "6", 
         "V36ygRYs": "70601021", 
         "Z0EN6jSh": "1", 
         "dX6cor8j": "50:1:10", 
@@ -31699,7 +31699,7 @@
     }, 
     {
         "6uvHX2JG": "Type Zero wave 1 INT", 
-        "G4L0YIB2": "幻獣を召喚してクリア", 
+        "G4L0YIB2": "ＬＢを使用してクリア", 
         "Pzn5h0Ga": "16", 
         "V36ygRYs": "70601022", 
         "Z0EN6jSh": "2", 
@@ -31735,7 +31735,7 @@
     }, 
     {
         "6uvHX2JG": "Type Zero wave 1 ADV", 
-        "G4L0YIB2": "ＬＢを使用してクリア", 
+        "G4L0YIB2": "魔法を3回以上使用する", 
         "Pzn5h0Ga": "41:2", 
         "V36ygRYs": "70601032", 
         "Z0EN6jSh": "2", 
@@ -31762,7 +31762,7 @@
     }, 
     {
         "6uvHX2JG": "Type Zero wave 1 PRO", 
-        "G4L0YIB2": "ＬＢを使用せずクリア", 
+        "G4L0YIB2": "幻獣を召喚してクリア", 
         "Pzn5h0Ga": "28", 
         "V36ygRYs": "70601041", 
         "Z0EN6jSh": "1", 
@@ -31771,7 +31771,7 @@
     }, 
     {
         "6uvHX2JG": "Type Zero wave 1 PRO", 
-        "G4L0YIB2": "魔法を3回以上使用する", 
+        "G4L0YIB2": "ＬＢを3回以上使用する", 
         "Pzn5h0Ga": "49:2", 
         "V36ygRYs": "70601042", 
         "Z0EN6jSh": "2", 
@@ -31807,7 +31807,7 @@
     }, 
     {
         "6uvHX2JG": "Type Zero wave 1 ELT", 
-        "G4L0YIB2": "ＬＢを3回以上使用する", 
+        "G4L0YIB2": "幻獣を召喚してクリア", 
         "Pzn5h0Ga": "28", 
         "V36ygRYs": "70601052", 
         "Z0EN6jSh": "2", 
@@ -68711,7 +68711,7 @@
         "Pzn5h0Ga": "68", 
         "V36ygRYs": "81201063", 
         "Z0EN6jSh": "3", 
-        "dX6cor8j": "50:1:100", 
+        "dX6cor8j": "23:260:1", 
         "qo3PECw6": "8120106"
     }, 
     {
@@ -68855,7 +68855,7 @@
         "Pzn5h0Ga": "68", 
         "V36ygRYs": "81202073", 
         "Z0EN6jSh": "3", 
-        "dX6cor8j": "50:1:200", 
+        "dX6cor8j": "50:1:300", 
         "qo3PECw6": "8120207"
     }, 
     {
@@ -87640,6 +87640,870 @@
         "Z0EN6jSh": "3", 
         "dX6cor8j": "21:1100000212:1", 
         "qo3PECw6": "9470101"
+    }, 
+    {
+        "6uvHX2JG": "2nd Live Raid", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "94801010", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "50:1:20", 
+        "qo3PECw6": "9480101"
+    }, 
+    {
+        "6uvHX2JG": "2nd Live Raid", 
+        "G4L0YIB2": "No items", 
+        "Pzn5h0Ga": "1", 
+        "V36ygRYs": "94801011", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9480101"
+    }, 
+    {
+        "6uvHX2JG": "2nd Live Raid", 
+        "G4L0YIB2": "Clear within 5 turns", 
+        "Pzn5h0Ga": "75:1:5", 
+        "V36ygRYs": "94801012", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9480101"
+    }, 
+    {
+        "6uvHX2JG": "2nd Live Raid", 
+        "G4L0YIB2": "Use magic", 
+        "Pzn5h0Ga": "5", 
+        "V36ygRYs": "94801013", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9480101"
+    }, 
+    {
+        "6uvHX2JG": "2nd Live Raid", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "94801020", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "50:1:20", 
+        "qo3PECw6": "9480102"
+    }, 
+    {
+        "6uvHX2JG": "2nd Live Raid", 
+        "G4L0YIB2": "No items", 
+        "Pzn5h0Ga": "1", 
+        "V36ygRYs": "94801021", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9480102"
+    }, 
+    {
+        "6uvHX2JG": "2nd Live Raid", 
+        "G4L0YIB2": "Clear within 5 turns", 
+        "Pzn5h0Ga": "75:1:5", 
+        "V36ygRYs": "94801022", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9480102"
+    }, 
+    {
+        "6uvHX2JG": "2nd Live Raid", 
+        "G4L0YIB2": "Use magic", 
+        "Pzn5h0Ga": "5", 
+        "V36ygRYs": "94801023", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9480102"
+    }, 
+    {
+        "6uvHX2JG": "2nd Live Raid", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "94801030", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "50:1:20", 
+        "qo3PECw6": "9480103"
+    }, 
+    {
+        "6uvHX2JG": "2nd Live Raid", 
+        "G4L0YIB2": "No items", 
+        "Pzn5h0Ga": "1", 
+        "V36ygRYs": "94801031", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9480103"
+    }, 
+    {
+        "6uvHX2JG": "2nd Live Raid", 
+        "G4L0YIB2": "Clear within 5 turns", 
+        "Pzn5h0Ga": "75:1:5", 
+        "V36ygRYs": "94801032", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9480103"
+    }, 
+    {
+        "6uvHX2JG": "2nd Live Raid", 
+        "G4L0YIB2": "Use magic", 
+        "Pzn5h0Ga": "5", 
+        "V36ygRYs": "94801033", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9480103"
+    }, 
+    {
+        "6uvHX2JG": "2nd Live Raid", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "94801040", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "50:1:40", 
+        "qo3PECw6": "9480104"
+    }, 
+    {
+        "6uvHX2JG": "2nd Live Raid", 
+        "G4L0YIB2": "No items", 
+        "Pzn5h0Ga": "1", 
+        "V36ygRYs": "94801041", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:20", 
+        "qo3PECw6": "9480104"
+    }, 
+    {
+        "6uvHX2JG": "2nd Live Raid", 
+        "G4L0YIB2": "Clear within 5 turns", 
+        "Pzn5h0Ga": "75:1:5", 
+        "V36ygRYs": "94801042", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:20", 
+        "qo3PECw6": "9480104"
+    }, 
+    {
+        "6uvHX2JG": "2nd Live Raid", 
+        "G4L0YIB2": "Use magic", 
+        "Pzn5h0Ga": "5", 
+        "V36ygRYs": "94801043", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:20", 
+        "qo3PECw6": "9480104"
+    }, 
+    {
+        "6uvHX2JG": "Red Hot Music - BGN", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "94901010", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "10:401006305:1:100:1", 
+        "qo3PECw6": "9490101"
+    }, 
+    {
+        "6uvHX2JG": "Red Hot Music - BGN", 
+        "G4L0YIB2": "No items", 
+        "Pzn5h0Ga": "1", 
+        "V36ygRYs": "94901011", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9490101"
+    }, 
+    {
+        "6uvHX2JG": "Red Hot Music - BGN", 
+        "G4L0YIB2": "No magic", 
+        "Pzn5h0Ga": "6", 
+        "V36ygRYs": "94901012", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9490101"
+    }, 
+    {
+        "6uvHX2JG": "Red Hot Music - BGN", 
+        "G4L0YIB2": "No continues", 
+        "Pzn5h0Ga": "38", 
+        "V36ygRYs": "94901013", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9490101"
+    }, 
+    {
+        "6uvHX2JG": "Red Hot Music - INT", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "94901020", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "10:401006305:1:100:1", 
+        "qo3PECw6": "9490102"
+    }, 
+    {
+        "6uvHX2JG": "Red Hot Music - INT", 
+        "G4L0YIB2": "Popstar Katy in party (Companion included)", 
+        "Pzn5h0Ga": "36:401006305", 
+        "V36ygRYs": "94901021", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "60:1000000100:1", 
+        "qo3PECw6": "9490102"
+    }, 
+    {
+        "6uvHX2JG": "Red Hot Music - INT", 
+        "G4L0YIB2": "No limit bursts", 
+        "Pzn5h0Ga": "17", 
+        "V36ygRYs": "94901022", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9490102"
+    }, 
+    {
+        "6uvHX2JG": "Red Hot Music - INT", 
+        "G4L0YIB2": "No continues", 
+        "Pzn5h0Ga": "38", 
+        "V36ygRYs": "94901023", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9490102"
+    }, 
+    {
+        "6uvHX2JG": "Red Hot Music - ADV", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "94901030", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "10:401006305:1:100:1", 
+        "qo3PECw6": "9490103"
+    }, 
+    {
+        "6uvHX2JG": "Red Hot Music - ADV", 
+        "G4L0YIB2": "Popstar Katy in party (Companion included)", 
+        "Pzn5h0Ga": "36:401006305", 
+        "V36ygRYs": "94901031", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "60:1000000099:1", 
+        "qo3PECw6": "9490103"
+    }, 
+    {
+        "6uvHX2JG": "Red Hot Music - ADV", 
+        "G4L0YIB2": "No espers", 
+        "Pzn5h0Ga": "29", 
+        "V36ygRYs": "94901032", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9490103"
+    }, 
+    {
+        "6uvHX2JG": "Red Hot Music - ADV", 
+        "G4L0YIB2": "Clear without an ally being KO'd", 
+        "Pzn5h0Ga": "33", 
+        "V36ygRYs": "94901033", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9490103"
+    }, 
+    {
+        "6uvHX2JG": "Red Hot Music - PRO", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "94901040", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "10:401006305:1:100:1", 
+        "qo3PECw6": "9490104"
+    }, 
+    {
+        "6uvHX2JG": "Red Hot Music - PRO", 
+        "G4L0YIB2": "Popstar Katy in party (Companion included)", 
+        "Pzn5h0Ga": "36:401006305", 
+        "V36ygRYs": "94901041", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "60:1000000098:1", 
+        "qo3PECw6": "9490104"
+    }, 
+    {
+        "6uvHX2JG": "Red Hot Music - PRO", 
+        "G4L0YIB2": "Use green magic", 
+        "Pzn5h0Ga": "13:3", 
+        "V36ygRYs": "94901042", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9490104"
+    }, 
+    {
+        "6uvHX2JG": "Red Hot Music - PRO", 
+        "G4L0YIB2": "Clear without an ally being KO'd", 
+        "Pzn5h0Ga": "33", 
+        "V36ygRYs": "94901043", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9490104"
+    }, 
+    {
+        "6uvHX2JG": "Red Hot Music - ELT", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "94901050", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "22:1500000081:1", 
+        "qo3PECw6": "9490105"
+    }, 
+    {
+        "6uvHX2JG": "Red Hot Music - ELT", 
+        "G4L0YIB2": "Popstar Katy in party (Companion included)", 
+        "Pzn5h0Ga": "36:401006305", 
+        "V36ygRYs": "94901051", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "60:1000000097:1", 
+        "qo3PECw6": "9490105"
+    }, 
+    {
+        "6uvHX2JG": "Red Hot Music - ELT", 
+        "G4L0YIB2": "Evoke an esper", 
+        "Pzn5h0Ga": "28", 
+        "V36ygRYs": "94901052", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9490105"
+    }, 
+    {
+        "6uvHX2JG": "Red Hot Music - ELT", 
+        "G4L0YIB2": "Clear without an ally being KO'd", 
+        "Pzn5h0Ga": "33", 
+        "V36ygRYs": "94901053", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9490105"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "95001010", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "10:900020401:1:100:60", 
+        "qo3PECw6": "9500101"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "No items", 
+        "Pzn5h0Ga": "1", 
+        "V36ygRYs": "95001011", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500101"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "Clear without an ally being KO'd", 
+        "Pzn5h0Ga": "33", 
+        "V36ygRYs": "95001012", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500101"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "No continues", 
+        "Pzn5h0Ga": "38", 
+        "V36ygRYs": "95001013", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500101"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "95001020", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "10:900020401:1:100:60", 
+        "qo3PECw6": "9500102"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "No items", 
+        "Pzn5h0Ga": "1", 
+        "V36ygRYs": "95001021", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500102"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "Clear without an ally being KO'd", 
+        "Pzn5h0Ga": "33", 
+        "V36ygRYs": "95001022", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500102"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "No continues", 
+        "Pzn5h0Ga": "38", 
+        "V36ygRYs": "95001023", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500102"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "95001030", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "10:900020401:1:100:60", 
+        "qo3PECw6": "9500103"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "No items", 
+        "Pzn5h0Ga": "1", 
+        "V36ygRYs": "95001031", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500103"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "Clear without an ally being KO'd", 
+        "Pzn5h0Ga": "33", 
+        "V36ygRYs": "95001032", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500103"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "No continues", 
+        "Pzn5h0Ga": "38", 
+        "V36ygRYs": "95001033", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500103"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "95001040", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "10:900020401:1:100:60", 
+        "qo3PECw6": "9500104"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "No items", 
+        "Pzn5h0Ga": "1", 
+        "V36ygRYs": "95001041", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500104"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "Clear without an ally being KO'd", 
+        "Pzn5h0Ga": "33", 
+        "V36ygRYs": "95001042", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500104"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "No continues", 
+        "Pzn5h0Ga": "38", 
+        "V36ygRYs": "95001043", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500104"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "95001050", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "10:900020401:2:100:60", 
+        "qo3PECw6": "9500105"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "No items", 
+        "Pzn5h0Ga": "1", 
+        "V36ygRYs": "95001051", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500105"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "Clear without an ally being KO'd", 
+        "Pzn5h0Ga": "33", 
+        "V36ygRYs": "95001052", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500105"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "No continues", 
+        "Pzn5h0Ga": "38", 
+        "V36ygRYs": "95001053", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500105"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "95001060", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "10:900020401:1:100:60", 
+        "qo3PECw6": "9500106"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "No items", 
+        "Pzn5h0Ga": "1", 
+        "V36ygRYs": "95001061", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500106"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "Clear without an ally being KO'd", 
+        "Pzn5h0Ga": "33", 
+        "V36ygRYs": "95001062", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500106"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "No continues", 
+        "Pzn5h0Ga": "38", 
+        "V36ygRYs": "95001063", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500106"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "95001070", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "10:900020401:1:100:60", 
+        "qo3PECw6": "9500107"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "No items", 
+        "Pzn5h0Ga": "1", 
+        "V36ygRYs": "95001071", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500107"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "Clear without an ally being KO'd", 
+        "Pzn5h0Ga": "33", 
+        "V36ygRYs": "95001072", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500107"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "No continues", 
+        "Pzn5h0Ga": "38", 
+        "V36ygRYs": "95001073", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500107"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "95001080", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "10:900020401:1:100:60", 
+        "qo3PECw6": "9500108"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "No items", 
+        "Pzn5h0Ga": "1", 
+        "V36ygRYs": "95001081", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500108"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "Clear without an ally being KO'd", 
+        "Pzn5h0Ga": "33", 
+        "V36ygRYs": "95001082", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500108"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "No continues", 
+        "Pzn5h0Ga": "38", 
+        "V36ygRYs": "95001083", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500108"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "95001090", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "10:900020401:1:100:60", 
+        "qo3PECw6": "9500109"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "No items", 
+        "Pzn5h0Ga": "1", 
+        "V36ygRYs": "95001091", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500109"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "Clear without an ally being KO'd", 
+        "Pzn5h0Ga": "33", 
+        "V36ygRYs": "95001092", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500109"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "No continues", 
+        "Pzn5h0Ga": "38", 
+        "V36ygRYs": "95001093", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500109"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "95001100", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "10:900020401:1:100:60", 
+        "qo3PECw6": "9500110"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "No items", 
+        "Pzn5h0Ga": "1", 
+        "V36ygRYs": "95001101", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500110"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "Clear without an ally being KO'd", 
+        "Pzn5h0Ga": "33", 
+        "V36ygRYs": "95001102", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500110"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "No continues", 
+        "Pzn5h0Ga": "38", 
+        "V36ygRYs": "95001103", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500110"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "95001110", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "10:900020401:1:100:60", 
+        "qo3PECw6": "9500111"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "No items", 
+        "Pzn5h0Ga": "1", 
+        "V36ygRYs": "95001111", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500111"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "Clear without an ally being KO'd", 
+        "Pzn5h0Ga": "33", 
+        "V36ygRYs": "95001112", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500111"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "No continues", 
+        "Pzn5h0Ga": "38", 
+        "V36ygRYs": "95001113", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500111"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "95001120", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "10:900020401:2:100:60", 
+        "qo3PECw6": "9500112"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "No items", 
+        "Pzn5h0Ga": "1", 
+        "V36ygRYs": "95001121", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500112"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "Clear without an ally being KO'd", 
+        "Pzn5h0Ga": "33", 
+        "V36ygRYs": "95001122", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500112"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "No continues", 
+        "Pzn5h0Ga": "38", 
+        "V36ygRYs": "95001123", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500112"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "95001130", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "10:900020401:1:100:60", 
+        "qo3PECw6": "9500113"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "No items", 
+        "Pzn5h0Ga": "1", 
+        "V36ygRYs": "95001131", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500113"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "Clear without an ally being KO'd", 
+        "Pzn5h0Ga": "33", 
+        "V36ygRYs": "95001132", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500113"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "No continues", 
+        "Pzn5h0Ga": "38", 
+        "V36ygRYs": "95001133", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500113"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "95001140", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "10:900020401:1:100:60", 
+        "qo3PECw6": "9500114"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "No items", 
+        "Pzn5h0Ga": "1", 
+        "V36ygRYs": "95001141", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500114"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "Clear without an ally being KO'd", 
+        "Pzn5h0Ga": "33", 
+        "V36ygRYs": "95001142", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500114"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "No continues", 
+        "Pzn5h0Ga": "38", 
+        "V36ygRYs": "95001143", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500114"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "Complete the quest", 
+        "Pzn5h0Ga": "68", 
+        "V36ygRYs": "95001150", 
+        "Z0EN6jSh": "0", 
+        "dX6cor8j": "10:900020401:1:100:60", 
+        "qo3PECw6": "9500115"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "No items", 
+        "Pzn5h0Ga": "1", 
+        "V36ygRYs": "95001151", 
+        "Z0EN6jSh": "1", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500115"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "Clear without an ally being KO'd", 
+        "Pzn5h0Ga": "33", 
+        "V36ygRYs": "95001152", 
+        "Z0EN6jSh": "2", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500115"
+    }, 
+    {
+        "6uvHX2JG": "Vault of Hidden Treasures", 
+        "G4L0YIB2": "No continues", 
+        "Pzn5h0Ga": "38", 
+        "V36ygRYs": "95001153", 
+        "Z0EN6jSh": "3", 
+        "dX6cor8j": "50:1:10", 
+        "qo3PECw6": "9500115"
     }, 
     {
         "6uvHX2JG": "アルドールタワー・下層", 

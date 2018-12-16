@@ -270,7 +270,7 @@ MST_MONSTER_SKILL_NAME_150480^Dagger Toss^短劍^단검^Dague^Dolch^Daga
 MST_MONSTER_SKILL_NAME_150490^Bag Punch^圍毆^몰매^Sac de frappe^Zusammenschlagen^Linchamiento
 MST_MONSTER_SKILL_NAME_150491^Bag Punch^圍毆^몰매^Sac de frappe^Zusammenschlagen^Linchamiento
 MST_MONSTER_SKILL_NAME_150500^Flames^火炎^화염^Souffle de feu^Feueratem^Aliento de fuego
-MST_MONSTER_SKILL_NAME_150510^Ignite^爆炸^폭발^Explosion^Explosion^Explosión
+MST_MONSTER_SKILL_NAME_150510^Ignite^爆炸^폭발^Explosion^Explosion^Ignición
 MST_MONSTER_SKILL_NAME_150520^Boil^集熱^열 흡수^Incandescence^Aufheizen^Hervir
 MST_MONSTER_SKILL_NAME_150530^Fire^炎^불꽃^Flammes^Feuer^Fuego
 MST_MONSTER_SKILL_NAME_150540^Hellfire^地獄火焰^지옥의 화염^Flammes de l'enfer^Inferno^Fuego infernal
@@ -4540,9 +4540,9 @@ MST_MONSTER_SKILL_NAME_191320^Big Horn^大角^큰 뿔^Grande corne^Großes Horn^
 MST_MONSTER_SKILL_NAME_191330^Trine^異三角^트라인^Trigone^Dreifach^Trino
 MST_MONSTER_SKILL_NAME_191340^Flaming Breath^熾炎吐息^화염의 숨결^Souffle enflammé^Flammender Atem^Hálito llameante
 MST_MONSTER_SKILL_NAME_191350^Chilled Breath^冷氣吐息^냉기의 숨결^Souffle glacé^Kühler Atem^Hálito fresco
-MST_MONSTER_SKILL_NAME_191360^Earth Area Attack^土屬性全體攻擊^땅속성 전체 공격^Attaque terrestre de zone^Erdangriff^Ataque de área de tierra
+MST_MONSTER_SKILL_NAME_191360^Earth Area Attack^土屬性全體魔法攻擊^땅속성 전체 공격^Attaque terrestre de zone^Erdangriff^Ataque de área de tierra
 MST_MONSTER_SKILL_NAME_191370^Dragon Fang^雙龍之牙^쌍룡의 송곳니^Crocs de dragon^Drachenzahn^Colmillo de dragón
-MST_MONSTER_SKILL_NAME_191380^Chew Up^大口啃咬^통째로 베어먹기^Mastication^Kauen^Masticar
+MST_MONSTER_SKILL_NAME_191380^Chew Up^大口啃咬^통째로 베어먹기^Mastication^Zerkleinern^Masticar
 MST_MONSTER_SKILL_NAME_191390^Squash^壓爛^찌부러뜨리기^Écrabouillement^Zerdrücken^Exprimir
 MST_MONSTER_SKILL_NAME_191400^Heave^抽噎^내던지기^Ravager^Heben^Hocicazo
 MST_MONSTER_SKILL_NAME_191410^Charge^突進^돌진^Charge^Laden^Embestida
@@ -4891,7 +4891,7 @@ MST_MONSTER_SKILL_NAME_194810^Ultima^究極^알테마^Ultima^Ultima^Artema
 MST_MONSTER_SKILL_NAME_194820^Meteor^隕石^메테오^Météore^Meteo^Meteo
 MST_MONSTER_SKILL_NAME_194830^Smart Shot^迅捷射擊^스마트 샷^Tir futé^Cleverer Schuss^Disparo inteligente
 MST_MONSTER_SKILL_NAME_194840^Magical Parasol^陽傘機槍^머신건 파라솔^Ombrelle magique^Magischer Sonnenschirm^Parasol mágico
-MST_MONSTER_SKILL_NAME_194850^One-shot Kill^一槍斃命^원샷킬^Balle fatale^Sofortiger Tod^Muerte de un disparo
+MST_MONSTER_SKILL_NAME_194850^One-shot Kill^一槍斃命^원샷킬^Balle fatale^Sofortiger Tod^Disparo mortal
 MST_MONSTER_SKILL_NAME_194860^Open Parasol^開傘^오픈 파라솔^Ombrelle déployée^Offener Sonnenschirm^Parasol abierto
 MST_MONSTER_SKILL_NAME_194870^Lady Gunner^女槍手^총술사 레이디^Dame de la gâchette^Scharfschützin^Pistolera
 MST_MONSTER_SKILL_NAME_194880^Arm Snipe^狙臂^암 스나이퍼^Tir au bras^Armschuss^Disparo al brazo
@@ -5424,3 +5424,7 @@ MST_MONSTER_SKILL_NAME_900196^Deadly Cursed Mind^致命的心靈詛咒^극도로
 MST_MONSTER_SKILL_NAME_900197^I will destroy you!^我要毀了你！^널 없애주마!^Je vous anéantirai !^Ich werde dich vernichten!^¡Acabaré contigo!
 MST_MONSTER_SKILL_NAME_900198^Cursed Recovery^受詛咒的治療^저주받은 회복^Restauration maudite^Verfluchtes Kurieren^Recuperación maldita
 MST_MONSTER_SKILL_NAME_900199^Malefic Sacrifice^邪惡獻祭^악의가 있는 희생^Sacrifice maléfique^Boshaftes Opfer^Sacrificio maléfico
+MST_MONSTER_SKILL_NAME_900200^Crimson Smash^赤紅粉碎^진홍의 강타^Frappe écarlate^Purpurschmettern^Golpetazo carmesí
+MST_MONSTER_SKILL_NAME_900201^Wing Slash^巨翼斬擊^날개 강타^Frappe d'aile^Flügelschlitzer^Tajo alado
+MST_MONSTER_SKILL_NAME_900202^Ignite^爆炸^점화^Allumage^Zündung^Ignición
+MST_MONSTER_SKILL_NAME_900203^Fiery Breath^炎炙吐息^맹렬한 숨결^Haleine ardente^Glutatem^Aliento feroz

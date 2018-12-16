@@ -924,7 +924,7 @@
         "xHZj7Va5": "112,136,28,152"
     }, 
     {
-        "1X65WPLU": "https://lapis-prod.gumi.sg/lapisProd/app/php/web/statics/arms_reward.php?EventId=70007", 
+        "1X65WPLU": "https://lapis-prod.gumi.sg/lapisProd/app/php/web/statics/arms_reward.php?EventId=70008", 
         "2odVXyT8": "0", 
         "6Dgaqir0": "", 
         "G4L0YIB2": "武具強化イベント　達成報酬", 
@@ -936,7 +936,7 @@
         "xHZj7Va5": ""
     }, 
     {
-        "1X65WPLU": "1453", 
+        "1X65WPLU": "1525", 
         "2odVXyT8": "0", 
         "6Dgaqir0": "", 
         "G4L0YIB2": "武具強化イベント　お知らせ", 
@@ -1303,6 +1303,30 @@
         "T4o9heqC": "1,2,3,101,102", 
         "Z0EN6jSh": "51100", 
         "fSxqkF10": "900029", 
+        "rUP3Gix0": "7", 
+        "w2A76noc": "5", 
+        "xHZj7Va5": "112,136,28,152"
+    }, 
+    {
+        "1X65WPLU": "https://lapis-prod.gumi.sg/lapisProd/app/php/web/statics/bahamut_raid_no_ranking.php?SumallyId=9000011", 
+        "2odVXyT8": "0", 
+        "6Dgaqir0": "home_icon", 
+        "G4L0YIB2": "2nd Live Raid Banner", 
+        "T4o9heqC": "1,2,3,101,102", 
+        "Z0EN6jSh": "61100", 
+        "fSxqkF10": "900030", 
+        "rUP3Gix0": "1", 
+        "w2A76noc": "3", 
+        "xHZj7Va5": ""
+    }, 
+    {
+        "1X65WPLU": "2,21,757,75701,7570101", 
+        "2odVXyT8": "0", 
+        "6Dgaqir0": "home_eventBalloon.png", 
+        "G4L0YIB2": "2nd Live Raid Home Balloon", 
+        "T4o9heqC": "1,2,3,101,102", 
+        "Z0EN6jSh": "51100", 
+        "fSxqkF10": "900031", 
         "rUP3Gix0": "7", 
         "w2A76noc": "5", 
         "xHZj7Va5": "112,136,28,152"
